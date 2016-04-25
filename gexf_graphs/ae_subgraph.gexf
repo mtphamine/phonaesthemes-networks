@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="aeromedicine" label="aeromedicine" />
+      <node id="aerial" label="aerial" />
+      <node id="aeromechanics" label="aeromechanics" />
+      <node id="aerography" label="aerography" />
+      <node id="aerospace" label="aerospace" />
+      <node id="aerodynamics" label="aerodynamics" />
+      <node id="aerology" label="aerology" />
+      <node id="aerodynamic" label="aerodynamic" />
+      <node id="aerosphere" label="aerosphere" />
+      <node id="aerostatics" label="aerostatics" />
+      <node id="aery" label="aery" />
+    </nodes>
+    <edges>
+      <edge id="0" source="aeromedicine" target="aerology" />
+      <edge id="1" source="aeromedicine" target="aerodynamics" />
+      <edge id="2" source="aeromedicine" target="aerostatics" />
+      <edge id="3" source="aeromedicine" target="aerography" />
+      <edge id="4" source="aeromedicine" target="aeromechanics" />
+      <edge id="5" source="aerial" target="aerodynamic" />
+      <edge id="6" source="aerial" target="aery" />
+      <edge id="7" source="aerial" target="aerospace" />
+      <edge id="8" source="aeromechanics" target="aerostatics" />
+      <edge id="9" source="aeromechanics" target="aerodynamics" />
+      <edge id="10" source="aeromechanics" target="aerography" />
+      <edge id="11" source="aeromechanics" target="aerology" />
+      <edge id="12" source="aerography" target="aerology" />
+      <edge id="13" source="aerography" target="aerodynamics" />
+      <edge id="14" source="aerography" target="aerostatics" />
+      <edge id="15" source="aerospace" target="aerosphere" />
+      <edge id="16" source="aerodynamics" target="aerostatics" />
+      <edge id="17" source="aerodynamics" target="aerology" />
+      <edge id="18" source="aerology" target="aerostatics" />
+      <edge id="19" source="aerodynamic" target="aery" />
+    </edges>
+  </graph>
+</gexf>

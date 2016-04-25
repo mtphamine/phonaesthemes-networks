@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="antique" label="antique" />
+      <node id="antipodes" label="antipodes" />
+      <node id="antibiotic" label="antibiotic" />
+      <node id="antigen" label="antigen" />
+      <node id="antithesis" label="antithesis" />
+      <node id="antipodal" label="antipodal" />
+      <node id="antipole" label="antipole" />
+      <node id="antiquity" label="antiquity" />
+      <node id="antipathy" label="antipathy" />
+      <node id="anticipatory" label="anticipatory" />
+      <node id="antipathetic" label="antipathetic" />
+      <node id="anti" label="anti" />
+      <node id="anticipating" label="anticipating" />
+      <node id="antitoxin" label="antitoxin" />
+      <node id="antiquated" label="antiquated" />
+      <node id="antithetical" label="antithetical" />
+      <node id="antiseptic" label="antiseptic" />
+      <node id="antibody" label="antibody" />
+    </nodes>
+    <edges>
+      <edge id="0" source="antique" target="antiquated" />
+      <edge id="1" source="antique" target="antiquity" />
+      <edge id="2" source="antipodes" target="antithesis" />
+      <edge id="3" source="antipodes" target="antipole" />
+      <edge id="4" source="antibiotic" target="antiseptic" />
+      <edge id="5" source="antigen" target="antitoxin" />
+      <edge id="6" source="antigen" target="antibody" />
+      <edge id="7" source="antithesis" target="antipole" />
+      <edge id="8" source="antithesis" target="antipathy" />
+      <edge id="9" source="antipodal" target="antithetical" />
+      <edge id="10" source="anticipatory" target="anticipating" />
+      <edge id="11" source="antipathetic" target="antithetical" />
+      <edge id="12" source="antipathetic" target="anti" />
+      <edge id="13" source="antitoxin" target="antibody" />
+    </edges>
+  </graph>
+</gexf>

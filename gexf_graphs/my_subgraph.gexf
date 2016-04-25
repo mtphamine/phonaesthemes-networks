@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="mystery" label="mystery" />
+      <node id="mystical" label="mystical" />
+      <node id="mystifying" label="mystifying" />
+      <node id="myth" label="myth" />
+      <node id="mystification" label="mystification" />
+      <node id="mythos" label="mythos" />
+      <node id="mysterious" label="mysterious" />
+      <node id="mysticism" label="mysticism" />
+      <node id="mythology" label="mythology" />
+    </nodes>
+    <edges>
+      <edge id="0" source="mystery" target="mysticism" />
+      <edge id="1" source="mystery" target="mythology" />
+      <edge id="2" source="mystery" target="mystification" />
+      <edge id="3" source="mystery" target="mythos" />
+      <edge id="4" source="mystery" target="myth" />
+      <edge id="5" source="mystical" target="mysterious" />
+      <edge id="6" source="mystifying" target="mysterious" />
+      <edge id="7" source="myth" target="mythology" />
+      <edge id="8" source="myth" target="mythos" />
+      <edge id="9" source="mystification" target="mysticism" />
+      <edge id="10" source="mythos" target="mythology" />
+    </edges>
+  </graph>
+</gexf>

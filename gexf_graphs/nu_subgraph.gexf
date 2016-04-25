@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="nurture" label="nurture" />
+      <node id="nursemaid" label="nursemaid" />
+      <node id="nudity" label="nudity" />
+      <node id="nude" label="nude" />
+      <node id="nutriment" label="nutriment" />
+      <node id="nuts" label="nuts" />
+      <node id="nudist" label="nudist" />
+      <node id="numeric" label="numeric" />
+      <node id="number" label="number" />
+      <node id="nutty" label="nutty" />
+      <node id="nubbin" label="nubbin" />
+      <node id="nucleus" label="nucleus" />
+      <node id="numerative" label="numerative" />
+      <node id="nub" label="nub" />
+      <node id="nurse" label="nurse" />
+      <node id="numerate" label="numerate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="nurture" target="nurse" />
+      <edge id="1" source="nurture" target="nutriment" />
+      <edge id="2" source="nursemaid" target="nurse" />
+      <edge id="3" source="nudity" target="nudist" />
+      <edge id="4" source="nude" target="nudist" />
+      <edge id="5" source="nuts" target="nutty" />
+      <edge id="6" source="numeric" target="numerative" />
+      <edge id="7" source="number" target="numerate" />
+      <edge id="8" source="nubbin" target="nub" />
+      <edge id="9" source="nucleus" target="nub" />
+    </edges>
+  </graph>
+</gexf>

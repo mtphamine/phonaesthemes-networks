@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="oddball" label="oddball" />
+      <node id="oddity" label="oddity">
+        <attvalues>
+          <attvalue for="0" value="2.61700034112" />
+        </attvalues>
+      </node>
+      <node id="odds" label="odds">
+        <attvalues>
+          <attvalue for="0" value="4.01903316393" />
+        </attvalues>
+      </node>
+      <node id="odious" label="odious">
+        <attvalues>
+          <attvalue for="0" value="2.43933269383" />
+        </attvalues>
+      </node>
+      <node id="odorous" label="odorous" />
+      <node id="odd" label="odd" />
+      <node id="odor" label="odor">
+        <attvalues>
+          <attvalue for="0" value="3.56454771176" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="oddball" target="odor" weight="0.006897" />
+      <edge id="1" source="oddball" target="oddity" weight="0.256637" />
+      <edge id="2" source="oddball" target="odious" weight="0.004525" />
+      <edge id="3" source="oddity" target="odds" weight="0.033613" />
+      <edge id="4" source="oddity" target="odd" weight="0.020408" />
+      <edge id="5" source="oddity" target="odor" weight="0.045872" />
+      <edge id="6" source="odds" target="odd" weight="0.004717" />
+      <edge id="7" source="odious" target="odorous" weight="0.090909" />
+      <edge id="8" source="odious" target="odd" weight="0.003584" />
+      <edge id="9" source="odd" target="odor" weight="0.004926" />
+    </edges>
+  </graph>
+</gexf>

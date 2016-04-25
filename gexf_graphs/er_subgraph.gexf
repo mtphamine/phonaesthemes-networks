@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="erasure" label="erasure" />
+      <node id="erroneous" label="erroneous" />
+      <node id="erode" label="erode" />
+      <node id="erratum" label="erratum" />
+      <node id="erupt" label="erupt" />
+      <node id="erogenous" label="erogenous" />
+      <node id="erotic" label="erotic" />
+      <node id="erase" label="erase" />
+      <node id="eruct" label="eruct" />
+      <node id="error" label="error" />
+      <node id="erosion" label="erosion" />
+      <node id="erratic" label="erratic" />
+      <node id="errant" label="errant" />
+    </nodes>
+    <edges>
+      <edge id="0" source="erasure" target="erosion" />
+      <edge id="1" source="erroneous" target="errant" />
+      <edge id="2" source="erode" target="erase" />
+      <edge id="3" source="erratum" target="error" />
+      <edge id="4" source="erupt" target="eruct" />
+      <edge id="5" source="erogenous" target="erotic" />
+      <edge id="6" source="erratic" target="errant" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="slope" label="slope" />
+      <node id="sluggishness" label="sluggishness" />
+      <node id="sludgy" label="sludgy" />
+      <node id="slabby" label="slabby" />
+      <node id="slouch" label="slouch" />
+      <node id="sleepy" label="sleepy" />
+      <node id="slime" label="slime" />
+      <node id="sleek" label="sleek" />
+      <node id="sleet" label="sleet" />
+      <node id="slimy" label="slimy" />
+      <node id="sleep" label="sleep" />
+      <node id="slops" label="slops" />
+      <node id="slanting" label="slanting" />
+      <node id="slot" label="slot" />
+      <node id="slow" label="slow" />
+      <node id="slop" label="slop" />
+      <node id="slog" label="slog" />
+      <node id="slipping" label="slipping" />
+      <node id="slob" label="slob" />
+      <node id="slothful" label="slothful" />
+      <node id="slattern" label="slattern" />
+      <node id="sleepiness" label="sleepiness" />
+      <node id="sloppy" label="sloppy" />
+      <node id="slippage" label="slippage" />
+      <node id="slack" label="slack" />
+      <node id="slacken" label="slacken" />
+      <node id="sleepyhead" label="sleepyhead" />
+      <node id="sleigh" label="sleigh" />
+      <node id="slacker" label="slacker" />
+      <node id="sloping" label="sloping" />
+      <node id="sloshy" label="sloshy" />
+      <node id="sluttish" label="sluttish" />
+      <node id="sled" label="sled" />
+      <node id="slowdown" label="slowdown" />
+      <node id="sludge" label="sludge" />
+      <node id="slake" label="slake" />
+      <node id="slanted" label="slanted" />
+      <node id="slashing" label="slashing" />
+      <node id="slatternly" label="slatternly" />
+      <node id="slice" label="slice" />
+      <node id="slick" label="slick" />
+      <node id="slash" label="slash" />
+      <node id="slapdash" label="slapdash" />
+      <node id="sluggish" label="sluggish" />
+      <node id="sliding" label="sliding" />
+      <node id="slowness" label="slowness" />
+      <node id="slight" label="slight" />
+      <node id="slur" label="slur" />
+      <node id="slaying" label="slaying" />
+      <node id="slowpoke" label="slowpoke" />
+      <node id="slut" label="slut" />
+      <node id="slaughter" label="slaughter" />
+      <node id="slum" label="slum" />
+      <node id="slug" label="slug" />
+      <node id="slither" label="slither" />
+      <node id="slender" label="slender" />
+      <node id="sluggard" label="sluggard" />
+      <node id="slipup" label="slipup" />
+      <node id="sleety" label="sleety" />
+      <node id="sloth" label="sloth" />
+      <node id="slithery" label="slithery" />
+      <node id="slipshod" label="slipshod" />
+      <node id="slowly" label="slowly" />
+      <node id="slide" label="slide" />
+      <node id="slough" label="slough" />
+      <node id="slosh" label="slosh" />
+      <node id="slump" label="slump" />
+      <node id="slushy" label="slushy" />
+      <node id="slashed" label="slashed" />
+      <node id="slabber" label="slabber" />
+      <node id="sly" label="sly" />
+      <node id="slumber" label="slumber" />
+      <node id="slander" label="slander" />
+      <node id="slippery" label="slippery" />
+      <node id="slovenly" label="slovenly" />
+      <node id="slumbering" label="slumbering" />
+      <node id="sleazy" label="sleazy" />
+      <node id="slat" label="slat" />
+      <node id="slim" label="slim" />
+      <node id="slap" label="slap" />
+      <node id="sleeping" label="sleeping" />
+      <node id="slit" label="slit" />
+      <node id="slam" label="slam" />
+      <node id="slip" label="slip" />
+      <node id="slag" label="slag" />
+      <node id="slab" label="slab" />
+      <node id="slobber" label="slobber" />
+      <node id="slithering" label="slithering" />
+      <node id="sleepwalking" label="sleepwalking" />
+      <node id="sleeper" label="sleeper" />
+      <node id="slackening" label="slackening" />
+      <node id="sliver" label="sliver" />
+      <node id="slave" label="slave" />
+      <node id="slush" label="slush" />
+      <node id="slaver" label="slaver" />
+      <node id="slant" label="slant" />
+      <node id="slumberland" label="slumberland" />
+      <node id="slinky" label="slinky" />
+      <node id="slink" label="slink" />
+      <node id="slumberous" label="slumberous" />
+    </nodes>
+    <edges>
+      <edge id="0" source="slope" target="slant" />
+      <edge id="1" source="sluggishness" target="sloth" />
+      <edge id="2" source="sluggishness" target="slouch" />
+      <edge id="3" source="sludgy" target="slabby" />
+      <edge id="4" source="sludgy" target="slushy" />
+      <edge id="5" source="sludgy" target="sloppy" />
+      <edge id="6" source="sludgy" target="sloshy" />
+      <edge id="7" source="sludgy" target="slimy" />
+      <edge id="8" source="slabby" target="sloppy" />
+      <edge id="9" source="slabby" target="slimy" />
+      <edge id="10" source="slabby" target="slushy" />
+      <edge id="11" source="slabby" target="slithery" />
+      <edge id="12" source="slabby" target="sloshy" />
+      <edge id="13" source="slouch" target="slither" />
+      <edge id="14" source="slouch" target="slink" />
+      <edge id="15" source="slouch" target="slump" />
+      <edge id="16" source="slouch" target="slog" />
+      <edge id="17" source="slouch" target="slowness" />
+      <edge id="18" source="slouch" target="sluggard" />
+      <edge id="19" source="slouch" target="slug" />
+      <edge id="20" source="sleepy" target="slow" />
+      <edge id="21" source="sleepy" target="sluggish" />
+      <edge id="22" source="slime" target="slop" />
+      <edge id="23" source="slime" target="slip" />
+      <edge id="24" source="slime" target="slush" />
+      <edge id="25" source="slime" target="slob" />
+      <edge id="26" source="slime" target="sludge" />
+      <edge id="27" source="slime" target="slosh" />
+      <edge id="28" source="slime" target="slab" />
+      <edge id="29" source="sleek" target="slippery" />
+      <edge id="30" source="sleek" target="slick" />
+      <edge id="31" source="sleet" target="sludge" />
+      <edge id="32" source="sleet" target="slob" />
+      <edge id="33" source="slimy" target="sloppy" />
+      <edge id="34" source="slimy" target="slushy" />
+      <edge id="35" source="slimy" target="slippery" />
+      <edge id="36" source="slimy" target="slithery" />
+      <edge id="37" source="slimy" target="sloshy" />
+      <edge id="38" source="sleep" target="slumber" />
+      <edge id="39" source="sleep" target="slumberland" />
+      <edge id="40" source="sleep" target="sleepwalking" />
+      <edge id="41" source="slops" target="slag" />
+      <edge id="42" source="slops" target="slop" />
+      <edge id="43" source="slops" target="slack" />
+      <edge id="44" source="slops" target="slough" />
+      <edge id="45" source="slanting" target="slanted" />
+      <edge id="46" source="slanting" target="slant" />
+      <edge id="47" source="slanting" target="sloping" />
+      <edge id="48" source="slot" target="slit" />
+      <edge id="49" source="slow" target="slack" />
+      <edge id="50" source="slow" target="slacken" />
+      <edge id="51" source="slow" target="slowly" />
+      <edge id="52" source="slow" target="sluggish" />
+      <edge id="53" source="slow" target="slothful" />
+      <edge id="54" source="slop" target="slosh" />
+      <edge id="55" source="slop" target="slough" />
+      <edge id="56" source="slop" target="slip" />
+      <edge id="57" source="slop" target="slush" />
+      <edge id="58" source="slop" target="slog" />
+      <edge id="59" source="slop" target="slob" />
+      <edge id="60" source="slop" target="sludge" />
+      <edge id="61" source="slop" target="slag" />
+      <edge id="62" source="slop" target="slab" />
+      <edge id="63" source="slop" target="slobber" />
+      <edge id="64" source="slop" target="slack" />
+      <edge id="65" source="slog" target="slither" />
+      <edge id="66" source="slog" target="slave" />
+      <edge id="67" source="slog" target="slink" />
+      <edge id="68" source="slog" target="slam" />
+      <edge id="69" source="slog" target="slug" />
+      <edge id="70" source="slipping" target="sliding" />
+      <edge id="71" source="slob" target="slush" />
+      <edge id="72" source="slob" target="slattern" />
+      <edge id="73" source="slob" target="slut" />
+      <edge id="74" source="slob" target="slip" />
+      <edge id="75" source="slob" target="sludge" />
+      <edge id="76" source="slob" target="slosh" />
+      <edge id="77" source="slob" target="slab" />
+      <edge id="78" source="slothful" target="sluggish" />
+      <edge id="79" source="slothful" target="slack" />
+      <edge id="80" source="slattern" target="slut" />
+      <edge id="81" source="sleepiness" target="sloth" />
+      <edge id="82" source="sleepiness" target="slowness" />
+      <edge id="83" source="sloppy" target="sluttish" />
+      <edge id="84" source="sloppy" target="slack" />
+      <edge id="85" source="sloppy" target="sloshy" />
+      <edge id="86" source="sloppy" target="slipshod" />
+      <edge id="87" source="sloppy" target="slushy" />
+      <edge id="88" source="sloppy" target="slovenly" />
+      <edge id="89" source="sloppy" target="slapdash" />
+      <edge id="90" source="sloppy" target="slatternly" />
+      <edge id="91" source="slippage" target="slither" />
+      <edge id="92" source="slippage" target="slide" />
+      <edge id="93" source="slippage" target="slump" />
+      <edge id="94" source="slippage" target="slip" />
+      <edge id="95" source="slack" target="sluttish" />
+      <edge id="96" source="slack" target="slacken" />
+      <edge id="97" source="slack" target="sluggish" />
+      <edge id="98" source="slack" target="slipshod" />
+      <edge id="99" source="slack" target="slovenly" />
+      <edge id="100" source="slack" target="slake" />
+      <edge id="101" source="slack" target="slumbering" />
+      <edge id="102" source="slack" target="slag" />
+      <edge id="103" source="slack" target="sleeping" />
+      <edge id="104" source="slack" target="slatternly" />
+      <edge id="105" source="slacken" target="slake" />
+      <edge id="106" source="sleepyhead" target="sluggard" />
+      <edge id="107" source="sleepyhead" target="slowpoke" />
+      <edge id="108" source="sleepyhead" target="slug" />
+      <edge id="109" source="sleepyhead" target="sleeper" />
+      <edge id="110" source="sleigh" target="slide" />
+      <edge id="111" source="sleigh" target="slither" />
+      <edge id="112" source="sleigh" target="slip" />
+      <edge id="113" source="sleigh" target="sled" />
+      <edge id="114" source="slacker" target="slut" />
+      <edge id="115" source="sloping" target="slanted" />
+      <edge id="116" source="sloping" target="slant" />
+      <edge id="117" source="sloshy" target="slushy" />
+      <edge id="118" source="sluttish" target="slipshod" />
+      <edge id="119" source="sluttish" target="slatternly" />
+      <edge id="120" source="sluttish" target="slovenly" />
+      <edge id="121" source="sled" target="slide" />
+      <edge id="122" source="sled" target="slither" />
+      <edge id="123" source="sled" target="slip" />
+      <edge id="124" source="slowdown" target="slump" />
+      <edge id="125" source="slowdown" target="slackening" />
+      <edge id="126" source="slowdown" target="slowness" />
+      <edge id="127" source="sludge" target="slosh" />
+      <edge id="128" source="sludge" target="slush" />
+      <edge id="129" source="sludge" target="slip" />
+      <edge id="130" source="sludge" target="slab" />
+      <edge id="131" source="slanted" target="slant" />
+      <edge id="132" source="slashing" target="slash" />
+      <edge id="133" source="slatternly" target="slipshod" />
+      <edge id="134" source="slatternly" target="slovenly" />
+      <edge id="135" source="slice" target="slat" />
+      <edge id="136" source="slice" target="slab" />
+      <edge id="137" source="slice" target="slit" />
+      <edge id="138" source="slice" target="slash" />
+      <edge id="139" source="slice" target="sliver" />
+      <edge id="140" source="slick" target="slither" />
+      <edge id="141" source="slick" target="sly" />
+      <edge id="142" source="slick" target="slippery" />
+      <edge id="143" source="slick" target="slip" />
+      <edge id="144" source="slick" target="slithery" />
+      <edge id="145" source="slash" target="slit" />
+      <edge id="146" source="slash" target="slump" />
+      <edge id="147" source="slash" target="slant" />
+      <edge id="148" source="slapdash" target="slovenly" />
+      <edge id="149" source="sluggish" target="sleeping" />
+      <edge id="150" source="sluggish" target="slumberous" />
+      <edge id="151" source="sluggish" target="slumbering" />
+      <edge id="152" source="sliding" target="slither" />
+      <edge id="153" source="sliding" target="slide" />
+      <edge id="154" source="sliding" target="slithering" />
+      <edge id="155" source="slowness" target="sloth" />
+      <edge id="156" source="slowness" target="slither" />
+      <edge id="157" source="slight" target="slur" />
+      <edge id="158" source="slight" target="slinky" />
+      <edge id="159" source="slight" target="slim" />
+      <edge id="160" source="slight" target="sleazy" />
+      <edge id="161" source="slight" target="slender" />
+      <edge id="162" source="slur" target="slander" />
+      <edge id="163" source="slur" target="slam" />
+      <edge id="164" source="slur" target="slip" />
+      <edge id="165" source="slaying" target="slaughter" />
+      <edge id="166" source="slowpoke" target="sluggard" />
+      <edge id="167" source="slowpoke" target="slug" />
+      <edge id="168" source="slum" target="slab" />
+      <edge id="169" source="slug" target="slam" />
+      <edge id="170" source="slug" target="sluggard" />
+      <edge id="171" source="slither" target="slip" />
+      <edge id="172" source="slither" target="slithering" />
+      <edge id="173" source="slither" target="slink" />
+      <edge id="174" source="slither" target="slide" />
+      <edge id="175" source="slender" target="slinky" />
+      <edge id="176" source="slender" target="slim" />
+      <edge id="177" source="slipup" target="slip" />
+      <edge id="178" source="sleety" target="slushy" />
+      <edge id="179" source="slithery" target="slippery" />
+      <edge id="180" source="slipshod" target="slovenly" />
+      <edge id="181" source="slide" target="slithering" />
+      <edge id="182" source="slide" target="slink" />
+      <edge id="183" source="slide" target="slump" />
+      <edge id="184" source="slide" target="slip" />
+      <edge id="185" source="slough" target="slip" />
+      <edge id="186" source="slosh" target="slush" />
+      <edge id="187" source="slosh" target="slip" />
+      <edge id="188" source="slosh" target="slab" />
+      <edge id="189" source="slosh" target="slobber" />
+      <edge id="190" source="slump" target="slip" />
+      <edge id="191" source="slashed" target="slit" />
+      <edge id="192" source="slabber" target="slobber" />
+      <edge id="193" source="slabber" target="slaver" />
+      <edge id="194" source="sly" target="slinky" />
+      <edge id="195" source="sly" target="slim" />
+      <edge id="196" source="sly" target="slippery" />
+      <edge id="197" source="slumber" target="sleepwalking" />
+      <edge id="198" source="slumber" target="slumberland" />
+      <edge id="199" source="slumbering" target="sleeping" />
+      <edge id="200" source="slat" target="slab" />
+      <edge id="201" source="slat" target="slam" />
+      <edge id="202" source="slat" target="slip" />
+      <edge id="203" source="slat" target="slap" />
+      <edge id="204" source="slim" target="slinky" />
+      <edge id="205" source="slap" target="slam" />
+      <edge id="206" source="slip" target="slush" />
+      <edge id="207" source="slip" target="sliver" />
+      <edge id="208" source="slab" target="slush" />
+      <edge id="209" source="slobber" target="slaver" />
+      <edge id="210" source="sleepwalking" target="slumberland" />
+    </edges>
+  </graph>
+</gexf>

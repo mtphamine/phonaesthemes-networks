@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="vile" label="vile" />
+      <node id="violation" label="violation">
+        <attvalues>
+          <attvalue for="0" value="3.77473588255" />
+        </attvalues>
+      </node>
+      <node id="visitor" label="visitor">
+        <attvalues>
+          <attvalue for="0" value="3.80881842509" />
+        </attvalues>
+      </node>
+      <node id="viaduct" label="viaduct">
+        <attvalues>
+          <attvalue for="0" value="2.05690485134" />
+        </attvalues>
+      </node>
+      <node id="violent" label="violent">
+        <attvalues>
+          <attvalue for="0" value="4.23080642847" />
+        </attvalues>
+      </node>
+      <node id="viability" label="viability">
+        <attvalues>
+          <attvalue for="0" value="3.16820274684" />
+        </attvalues>
+      </node>
+      <node id="victim" label="victim" />
+      <node id="vigilant" label="vigilant" />
+      <node id="vilify" label="vilify" />
+      <node id="violin" label="violin">
+        <attvalues>
+          <attvalue for="0" value="3.43584436598" />
+        </attvalues>
+      </node>
+      <node id="visualization" label="visualization">
+        <attvalues>
+          <attvalue for="0" value="2.93043959477" />
+        </attvalues>
+      </node>
+      <node id="violate" label="violate" />
+      <node id="vibration" label="vibration">
+        <attvalues>
+          <attvalue for="0" value="3.22245633668" />
+        </attvalues>
+      </node>
+      <node id="vicinity" label="vicinity">
+        <attvalues>
+          <attvalue for="0" value="3.22530928173" />
+        </attvalues>
+      </node>
+      <node id="vicissitude" label="vicissitude">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="villenage" label="villenage" />
+      <node id="viper" label="viper">
+        <attvalues>
+          <attvalue for="0" value="2.76715586608" />
+        </attvalues>
+      </node>
+      <node id="vigor" label="vigor" />
+      <node id="virtuous" label="virtuous" />
+      <node id="viewpoint" label="viewpoint">
+        <attvalues>
+          <attvalue for="0" value="3.37694175715" />
+        </attvalues>
+      </node>
+      <node id="vilifying" label="vilifying">
+        <attvalues>
+          <attvalue for="0" value="1.77815125038" />
+        </attvalues>
+      </node>
+      <node id="vibrator" label="vibrator" />
+      <node id="vituperate" label="vituperate">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="viscid" label="viscid" />
+      <node id="virginal" label="virginal" />
+      <node id="vibrant" label="vibrant" />
+      <node id="vitriolic" label="vitriolic">
+        <attvalues>
+          <attvalue for="0" value="2.30749603791" />
+        </attvalues>
+      </node>
+      <node id="vibraphone" label="vibraphone">
+        <attvalues>
+          <attvalue for="0" value="1.57978359662" />
+        </attvalues>
+      </node>
+      <node id="vibes" label="vibes">
+        <attvalues>
+          <attvalue for="0" value="2.62428209584" />
+        </attvalues>
+      </node>
+      <node id="victory" label="victory">
+        <attvalues>
+          <attvalue for="0" value="4.38185482762" />
+        </attvalues>
+      </node>
+      <node id="virulent" label="virulent">
+        <attvalues>
+          <attvalue for="0" value="2.8859263398" />
+        </attvalues>
+      </node>
+      <node id="vision" label="vision">
+        <attvalues>
+          <attvalue for="0" value="4.49441898773" />
+        </attvalues>
+      </node>
+      <node id="view" label="view" />
+      <node id="virginity" label="virginity" />
+      <node id="vine" label="vine">
+        <attvalues>
+          <attvalue for="0" value="3.32694999417" />
+        </attvalues>
+      </node>
+      <node id="victor" label="victor">
+        <attvalues>
+          <attvalue for="0" value="3.82164451754" />
+        </attvalues>
+      </node>
+      <node id="visualize" label="visualize">
+        <attvalues>
+          <attvalue for="0" value="3.08671566394" />
+        </attvalues>
+      </node>
+      <node id="victimization" label="victimization">
+        <attvalues>
+          <attvalue for="0" value="3.25911584419" />
+        </attvalues>
+      </node>
+      <node id="videotape" label="videotape">
+        <attvalues>
+          <attvalue for="0" value="4.1150110713" />
+        </attvalues>
+      </node>
+      <node id="vituperative" label="vituperative">
+        <attvalues>
+          <attvalue for="0" value="1.79934054945" />
+        </attvalues>
+      </node>
+      <node id="vitiate" label="vitiate">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="vitalize" label="vitalize" />
+      <node id="viable" label="viable">
+        <attvalues>
+          <attvalue for="0" value="3.72737856945" />
+        </attvalues>
+      </node>
+      <node id="virgule" label="virgule" />
+      <node id="vindicator" label="vindicator" />
+      <node id="virtuoso" label="virtuoso">
+        <attvalues>
+          <attvalue for="0" value="2.70415051684" />
+        </attvalues>
+      </node>
+      <node id="virtuosity" label="virtuosity">
+        <attvalues>
+          <attvalue for="0" value="2.55509444858" />
+        </attvalues>
+      </node>
+      <node id="vitals" label="vitals" />
+      <node id="vivacity" label="vivacity">
+        <attvalues>
+          <attvalue for="0" value="1.92941892571" />
+        </attvalues>
+      </node>
+      <node id="vinegar" label="vinegar" />
+      <node id="violence" label="violence" />
+      <node id="vibrating" label="vibrating" />
+      <node id="visibility" label="visibility">
+        <attvalues>
+          <attvalue for="0" value="3.44498111209" />
+        </attvalues>
+      </node>
+      <node id="virility" label="virility">
+        <attvalues>
+          <attvalue for="0" value="2.32014628611" />
+        </attvalues>
+      </node>
+      <node id="vituperation" label="vituperation" />
+      <node id="vicar" label="vicar" />
+      <node id="vinegarish" label="vinegarish">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="vie" label="vie">
+        <attvalues>
+          <attvalue for="0" value="3.00389116624" />
+        </attvalues>
+      </node>
+      <node id="visibly" label="visibly" />
+      <node id="vim" label="vim" />
+      <node id="visible" label="visible">
+        <attvalues>
+          <attvalue for="0" value="4.19318027357" />
+        </attvalues>
+      </node>
+      <node id="viscera" label="viscera" />
+      <node id="village" label="village" />
+      <node id="vixen" label="vixen">
+        <attvalues>
+          <attvalue for="0" value="2.4623979979" />
+        </attvalues>
+      </node>
+      <node id="vibrato" label="vibrato" />
+      <node id="vivid" label="vivid" />
+      <node id="visit" label="visit" />
+      <node id="vibrate" label="vibrate">
+        <attvalues>
+          <attvalue for="0" value="2.70415051684" />
+        </attvalues>
+      </node>
+      <node id="virgin" label="virgin" />
+      <node id="viscous" label="viscous" />
+      <node id="vigorous" label="vigorous" />
+      <node id="visitation" label="visitation" />
+      <node id="vichyssoise" label="vichyssoise" />
+      <node id="visual" label="visual" />
+      <node id="virulence" label="virulence" />
+      <node id="virtue" label="virtue">
+        <attvalues>
+          <attvalue for="0" value="3.79281177125" />
+        </attvalues>
+      </node>
+      <node id="vindication" label="vindication">
+        <attvalues>
+          <attvalue for="0" value="2.76417613239" />
+        </attvalues>
+      </node>
+      <node id="vicarage" label="vicarage">
+        <attvalues>
+          <attvalue for="0" value="1.41497334797" />
+        </attvalues>
+      </node>
+      <node id="vivacious" label="vivacious" />
+      <node id="vitrified" label="vitrified">
+        <attvalues>
+          <attvalue for="0" value="1.11394335231" />
+        </attvalues>
+      </node>
+      <node id="viceroy" label="viceroy">
+        <attvalues>
+          <attvalue for="0" value="2.36735592103" />
+        </attvalues>
+      </node>
+      <node id="visage" label="visage">
+        <attvalues>
+          <attvalue for="0" value="2.61384182188" />
+        </attvalues>
+      </node>
+      <node id="villein" label="villein">
+        <attvalues>
+          <attvalue for="0" value="0.778151250384" />
+        </attvalues>
+      </node>
+      <node id="viewer" label="viewer" />
+      <node id="villainy" label="villainy" />
+      <node id="villain" label="villain">
+        <attvalues>
+          <attvalue for="0" value="3.17493159353" />
+        </attvalues>
+      </node>
+      <node id="virtu" label="virtu" />
+      <node id="vivify" label="vivify" />
+      <node id="vista" label="vista" />
+      <node id="virago" label="virago" />
+      <node id="vindicate" label="vindicate" />
+      <node id="vintage" label="vintage" />
+      <node id="virtual" label="virtual" />
+      <node id="vital" label="vital" />
+      <node id="viola" label="viola" />
+      <node id="vigilance" label="vigilance">
+        <attvalues>
+          <attvalue for="0" value="2.94448267215" />
+        </attvalues>
+      </node>
+      <node id="vilification" label="vilification" />
+      <node id="victimize" label="victimize" />
+      <node id="visceral" label="visceral">
+        <attvalues>
+          <attvalue for="0" value="2.97818051694" />
+        </attvalues>
+      </node>
+      <node id="visionary" label="visionary" />
+      <node id="viscosity" label="viscosity" />
+      <node id="vicious" label="vicious" />
+      <node id="vignette" label="vignette">
+        <attvalues>
+          <attvalue for="0" value="2.69635638873" />
+        </attvalues>
+      </node>
+      <node id="virus" label="virus" />
+      <node id="visa" label="visa">
+        <attvalues>
+          <attvalue for="0" value="3.48699688843" />
+        </attvalues>
+      </node>
+      <node id="vitality" label="vitality">
+        <attvalues>
+          <attvalue for="0" value="3.32242605241" />
+        </attvalues>
+      </node>
+      <node id="vintner" label="vintner">
+        <attvalues>
+          <attvalue for="0" value="2.0170333393" />
+        </attvalues>
+      </node>
+      <node id="vigil" label="vigil">
+        <attvalues>
+          <attvalue for="0" value="3.11293997608" />
+        </attvalues>
+      </node>
+      <node id="vibrancy" label="vibrancy">
+        <attvalues>
+          <attvalue for="0" value="2.41995574849" />
+        </attvalues>
+      </node>
+      <node id="viscount" label="viscount">
+        <attvalues>
+          <attvalue for="0" value="2.45331834005" />
+        </attvalues>
+      </node>
+      <node id="vitriol" label="vitriol">
+        <attvalues>
+          <attvalue for="0" value="2.38916608436" />
+        </attvalues>
+      </node>
+      <node id="vice" label="vice" />
+      <node id="villainous" label="villainous">
+        <attvalues>
+          <attvalue for="0" value="2.28555730901" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="vile" target="violent" weight="0.008621" />
+      <edge id="1" source="vile" target="viewpoint" weight="0.00361" />
+      <edge id="2" source="vile" target="videotape" weight="0.003891" />
+      <edge id="3" source="vile" target="vitriolic" weight="0.007407" />
+      <edge id="4" source="vile" target="villain" weight="0.003521" />
+      <edge id="5" source="vile" target="vignette" weight="0.003731" />
+      <edge id="6" source="vile" target="violation" weight="0.003356" />
+      <edge id="7" source="vile" target="vilifying" weight="0.024896" />
+      <edge id="8" source="vile" target="vituperative" weight="0.064103" />
+      <edge id="9" source="vile" target="villainous" weight="0.40625" />
+      <edge id="10" source="vile" target="virulent" weight="0.02795" />
+      <edge id="11" source="vile" target="vitiate" weight="0.00692" />
+      <edge id="12" source="violation" target="violate" weight="0.05102" />
+      <edge id="13" source="violation" target="vice" weight="0.08871" />
+      <edge id="14" source="violation" target="visitation" weight="0.007407" />
+      <edge id="15" source="violation" target="violence" weight="0.030075" />
+      <edge id="16" source="violation" target="vicious" weight="0.004651" />
+      <edge id="17" source="violation" target="villainy" weight="0.076923" />
+      <edge id="18" source="violation" target="vituperate" weight="0.010417" />
+      <edge id="19" source="violation" target="virulence" weight="0.011236" />
+      <edge id="20" source="violation" target="vitiate" weight="0.006623" />
+      <edge id="21" source="violation" target="villainous" weight="0.005714" />
+      <edge id="22" source="violation" target="virulent" weight="0.005236" />
+      <edge id="23" source="violation" target="vilify" weight="0.008333" />
+      <edge id="24" source="violation" target="vituperation" weight="0.042553" />
+      <edge id="25" source="violation" target="vilification" weight="0.040816" />
+      <edge id="26" source="visitor" target="viewer" weight="0.0625" />
+      <edge id="27" source="visitor" target="virtuoso" weight="0.022388" />
+      <edge id="28" source="visitor" target="victor" weight="0.018519" />
+      <edge id="29" source="viaduct" target="violin" weight="0.045455" />
+      <edge id="30" source="viaduct" target="viola" weight="0.025641" />
+      <edge id="31" source="violent" target="vinegarish" weight="0.013072" />
+      <edge id="32" source="violent" target="villain" weight="0.005076" />
+      <edge id="33" source="violent" target="vixen" weight="0.232704" />
+      <edge id="34" source="violent" target="virago" weight="0.25" />
+      <edge id="35" source="violent" target="violate" weight="0.003891" />
+      <edge id="36" source="violent" target="virgin" weight="0.003636" />
+      <edge id="37" source="violent" target="vital" weight="0.045455" />
+      <edge id="38" source="violent" target="viper" weight="0.006667" />
+      <edge id="39" source="violent" target="viscous" weight="0.010471" />
+      <edge id="40" source="violent" target="vigorous" weight="0.073643" />
+      <edge id="41" source="violent" target="visionary" weight="0.010204" />
+      <edge id="42" source="violent" target="vicious" weight="0.055118" />
+      <edge id="43" source="violent" target="virtuoso" weight="0.004464" />
+      <edge id="44" source="violent" target="virulence" weight="0.004329" />
+      <edge id="45" source="violent" target="vivid" weight="0.043668" />
+      <edge id="46" source="violent" target="viscid" weight="0.009901" />
+      <edge id="47" source="violent" target="vinegar" weight="0.007143" />
+      <edge id="48" source="violent" target="vibrant" weight="0.04023" />
+      <edge id="49" source="violent" target="vitriolic" weight="0.201299" />
+      <edge id="50" source="violent" target="violence" weight="0.005319" />
+      <edge id="51" source="violent" target="vivacious" weight="0.038278" />
+      <edge id="52" source="violent" target="villainous" weight="0.013333" />
+      <edge id="53" source="violent" target="virulent" weight="0.251282" />
+      <edge id="54" source="viability" target="vigor" weight="0.068182" />
+      <edge id="55" source="viability" target="vivacious" weight="0.009804" />
+      <edge id="56" source="viability" target="vigorous" weight="0.006173" />
+      <edge id="57" source="viability" target="vivid" weight="0.008065" />
+      <edge id="58" source="viability" target="vibrant" weight="0.015152" />
+      <edge id="59" source="viability" target="vitality" weight="0.096154" />
+      <edge id="60" source="viability" target="vim" weight="0.058824" />
+      <edge id="61" source="viability" target="vital" weight="0.006211" />
+      <edge id="62" source="viability" target="virulence" weight="0.008547" />
+      <edge id="63" source="viability" target="virtue" weight="0.008772" />
+      <edge id="64" source="viability" target="virility" weight="0.015625" />
+      <edge id="65" source="viability" target="vivacity" weight="0.166667" />
+      <edge id="66" source="viability" target="vicarage" weight="0.02381" />
+      <edge id="67" source="viability" target="viable" weight="0.017857" />
+      <edge id="68" source="victim" target="vicissitude" weight="0.011765" />
+      <edge id="69" source="victim" target="villain" weight="0.017857" />
+      <edge id="70" source="victim" target="visa" weight="0.010753" />
+      <edge id="71" source="victim" target="virtue" weight="0.006944" />
+      <edge id="72" source="vigilant" target="vitrified" weight="0.017857" />
+      <edge id="73" source="vigilant" target="virtuoso" weight="0.007692" />
+      <edge id="74" source="vilify" target="vicinity" weight="0.01" />
+      <edge id="75" source="vilify" target="vituperate" weight="0.26087" />
+      <edge id="76" source="vilify" target="vitiate" weight="0.046296" />
+      <edge id="77" source="vilify" target="virulent" weight="0.006579" />
+      <edge id="78" source="vilify" target="vicissitude" weight="0.012821" />
+      <edge id="79" source="violin" target="vibrato" weight="0.057143" />
+      <edge id="80" source="violin" target="viola" weight="0.344828" />
+      <edge id="81" source="visualization" target="visualize" weight="0.130435" />
+      <edge id="82" source="visualization" target="victimization" weight="0.038462" />
+      <edge id="83" source="visualization" target="viewpoint" weight="0.015152" />
+      <edge id="84" source="visualization" target="vignette" weight="0.054545" />
+      <edge id="85" source="visualization" target="vision" weight="0.072917" />
+      <edge id="86" source="visualization" target="view" weight="0.021505" />
+      <edge id="87" source="violate" target="vixen" weight="0.005291" />
+      <edge id="88" source="violate" target="visage" weight="0.006369" />
+      <edge id="89" source="violate" target="viewpoint" weight="0.005435" />
+      <edge id="90" source="violate" target="vintner" weight="0.006757" />
+      <edge id="91" source="violate" target="vicinity" weight="0.005405" />
+      <edge id="92" source="violate" target="vitality" weight="0.004525" />
+      <edge id="93" source="violate" target="vituperate" weight="0.007042" />
+      <edge id="94" source="violate" target="virtue" weight="0.004505" />
+      <edge id="95" source="violate" target="villainous" weight="0.018349" />
+      <edge id="96" source="violate" target="virulent" weight="0.008475" />
+      <edge id="97" source="violate" target="virility" weight="0.005814" />
+      <edge id="98" source="violate" target="vicissitude" weight="0.012346" />
+      <edge id="99" source="violate" target="vituperative" weight="0.012987" />
+      <edge id="100" source="violate" target="vitiate" weight="0.269231" />
+      <edge id="101" source="vibration" target="vicissitude" weight="0.045455" />
+      <edge id="102" source="vibration" target="vibrancy" weight="0.166667" />
+      <edge id="103" source="vibration" target="vibrating" weight="0.135135" />
+      <edge id="104" source="vicinity" target="vista" weight="0.012346" />
+      <edge id="105" source="vicinity" target="viewpoint" weight="0.034783" />
+      <edge id="106" source="vicinity" target="viscosity" weight="0.013514" />
+      <edge id="107" source="vicinity" target="visibly" weight="0.009615" />
+      <edge id="108" source="vicinity" target="visibility" weight="0.012195" />
+      <edge id="109" source="vicinity" target="villain" weight="0.008" />
+      <edge id="110" source="vicinity" target="vitiate" weight="0.007634" />
+      <edge id="111" source="vicinity" target="village" weight="0.042105" />
+      <edge id="112" source="vicinity" target="view" weight="0.016807" />
+      <edge id="113" source="vicissitude" target="vicar" weight="0.009901" />
+      <edge id="114" source="vicissitude" target="visitation" weight="0.05618" />
+      <edge id="115" source="vicissitude" target="violence" weight="0.021505" />
+      <edge id="116" source="vicissitude" target="viscosity" weight="0.019231" />
+      <edge id="117" source="vicissitude" target="vibrating" weight="0.011111" />
+      <edge id="118" source="vicissitude" target="vitality" weight="0.007519" />
+      <edge id="119" source="vicissitude" target="visa" weight="0.012048" />
+      <edge id="120" source="vicissitude" target="virulence" weight="0.014706" />
+      <edge id="121" source="vicissitude" target="vibrancy" weight="0.065217" />
+      <edge id="122" source="villenage" target="villein" weight="0.019608" />
+      <edge id="123" source="villenage" target="vitriol" weight="0.020833" />
+      <edge id="124" source="villenage" target="virtuosity" weight="0.009709" />
+      <edge id="125" source="villenage" target="vision" weight="0.007634" />
+      <edge id="126" source="villenage" target="virtue" weight="0.007519" />
+      <edge id="127" source="viper" target="vixen" weight="0.012195" />
+      <edge id="128" source="viper" target="virago" weight="0.014085" />
+      <edge id="129" source="viper" target="visionary" weight="0.011905" />
+      <edge id="130" source="viper" target="vicious" weight="0.006494" />
+      <edge id="131" source="viper" target="victimize" weight="0.011628" />
+      <edge id="132" source="vigor" target="vitriol" weight="0.011494" />
+      <edge id="133" source="vigor" target="viewpoint" weight="0.007463" />
+      <edge id="134" source="vigor" target="vitality" weight="0.737374" />
+      <edge id="135" source="vigor" target="virtuoso" weight="0.005952" />
+      <edge id="136" source="vigor" target="visa" weight="0.008264" />
+      <edge id="137" source="vigor" target="victory" weight="0.023256" />
+      <edge id="138" source="vigor" target="virtuosity" weight="0.007042" />
+      <edge id="139" source="vigor" target="virility" weight="0.481928" />
+      <edge id="140" source="vigor" target="vivacity" weight="0.207547" />
+      <edge id="141" source="vigor" target="vicarage" weight="0.01" />
+      <edge id="142" source="vigor" target="vision" weight="0.005882" />
+      <edge id="143" source="vigor" target="virtue" weight="0.310606" />
+      <edge id="144" source="virtuous" target="viscount" weight="0.009346" />
+      <edge id="145" source="virtuous" target="virtuoso" weight="0.022727" />
+      <edge id="146" source="viewpoint" target="visage" weight="0.05814" />
+      <edge id="147" source="viewpoint" target="vim" weight="0.007692" />
+      <edge id="148" source="viewpoint" target="visible" weight="0.009901" />
+      <edge id="149" source="viewpoint" target="villain" weight="0.008065" />
+      <edge id="150" source="viewpoint" target="vista" weight="0.051948" />
+      <edge id="151" source="viewpoint" target="visualize" weight="0.040541" />
+      <edge id="152" source="viewpoint" target="videotape" weight="0.010309" />
+      <edge id="153" source="viewpoint" target="vitiate" weight="0.007692" />
+      <edge id="154" source="viewpoint" target="virgule" weight="0.012048" />
+      <edge id="155" source="viewpoint" target="visionary" weight="0.008065" />
+      <edge id="156" source="viewpoint" target="vicious" weight="0.005155" />
+      <edge id="157" source="viewpoint" target="vitality" weight="0.006494" />
+      <edge id="158" source="viewpoint" target="virulence" weight="0.006329" />
+      <edge id="159" source="viewpoint" target="vignette" weight="0.018692" />
+      <edge id="160" source="viewpoint" target="virtuosity" weight="0.008" />
+      <edge id="161" source="viewpoint" target="villainous" weight="0.006494" />
+      <edge id="162" source="viewpoint" target="virility" weight="0.009524" />
+      <edge id="163" source="viewpoint" target="view" weight="0.26178" />
+      <edge id="164" source="viewpoint" target="vision" weight="0.054795" />
+      <edge id="165" source="viewpoint" target="virtue" weight="0.012987" />
+      <edge id="166" source="vilifying" target="vicious" weight="0.012346" />
+      <edge id="167" source="vilifying" target="vituperative" weight="0.380952" />
+      <edge id="168" source="vilifying" target="villainous" weight="0.00813" />
+      <edge id="169" source="vilifying" target="vituperation" weight="0.022222" />
+      <edge id="170" source="vilifying" target="vilification" weight="0.020408" />
+      <edge id="171" source="vibrator" target="vibrate" weight="0.015873" />
+      <edge id="172" source="vituperate" target="vixen" weight="0.0125" />
+      <edge id="173" source="vituperate" target="virago" weight="0.014493" />
+      <edge id="174" source="vituperate" target="violence" weight="0.013699" />
+      <edge id="175" source="vituperate" target="vicious" weight="0.006579" />
+      <edge id="176" source="vituperate" target="virulent" weight="0.007813" />
+      <edge id="177" source="vituperate" target="vituperation" weight="0.029412" />
+      <edge id="178" source="vituperate" target="vilification" weight="0.026316" />
+      <edge id="179" source="viscid" target="vixen" weight="0.007407" />
+      <edge id="180" source="viscid" target="villain" weight="0.007299" />
+      <edge id="181" source="viscid" target="virulent" weight="0.005464" />
+      <edge id="182" source="virginal" target="vinegarish" weight="0.026667" />
+      <edge id="183" source="virginal" target="vituperative" weight="0.012048" />
+      <edge id="184" source="vibrant" target="vitriolic" weight="0.030303" />
+      <edge id="185" source="vibrant" target="vitality" weight="0.006944" />
+      <edge id="186" source="vibrant" target="virulent" weight="0.032051" />
+      <edge id="187" source="vibrant" target="vivacity" weight="0.01" />
+      <edge id="188" source="vibrant" target="vicarage" weight="0.013699" />
+      <edge id="189" source="vibrant" target="viable" weight="0.023256" />
+      <edge id="190" source="vitriolic" target="vinegar" weight="0.033333" />
+      <edge id="191" source="vitriolic" target="vigorous" weight="0.053191" />
+      <edge id="192" source="vitriolic" target="vivid" weight="0.032258" />
+      <edge id="193" source="vitriolic" target="vixen" weight="0.008621" />
+      <edge id="194" source="vitriolic" target="vinegarish" weight="0.070423" />
+      <edge id="195" source="vitriolic" target="vicious" weight="0.067797" />
+      <edge id="196" source="vitriolic" target="vivacious" weight="0.045455" />
+      <edge id="197" source="vitriolic" target="vital" weight="0.053476" />
+      <edge id="198" source="vitriolic" target="virulence" weight="0.006579" />
+      <edge id="199" source="vitriolic" target="villainous" weight="0.006757" />
+      <edge id="200" source="vitriolic" target="virulent" weight="0.410256" />
+      <edge id="201" source="vitriolic" target="virago" weight="0.009524" />
+      <edge id="202" source="vibraphone" target="viscera" weight="0.02" />
+      <edge id="203" source="vibraphone" target="vibes" weight="0.571429" />
+      <edge id="204" source="vibes" target="viscera" weight="0.016667" />
+      <edge id="205" source="victory" target="vitality" weight="0.009346" />
+      <edge id="206" source="victory" target="vim" weight="0.012048" />
+      <edge id="207" source="victory" target="virulence" weight="0.009009" />
+      <edge id="208" source="victory" target="virtue" weight="0.009259" />
+      <edge id="209" source="victory" target="virtuosity" weight="0.025974" />
+      <edge id="210" source="victory" target="virility" weight="0.017241" />
+      <edge id="211" source="victory" target="victor" weight="0.045455" />
+      <edge id="212" source="virulent" target="vinegarish" weight="0.038462" />
+      <edge id="213" source="virulent" target="vixen" weight="0.017341" />
+      <edge id="214" source="virulent" target="virago" weight="0.018519" />
+      <edge id="215" source="virulent" target="vital" weight="0.04918" />
+      <edge id="216" source="virulent" target="vitiate" weight="0.005464" />
+      <edge id="217" source="virulent" target="viscous" weight="0.005814" />
+      <edge id="218" source="virulent" target="vigorous" weight="0.061983" />
+      <edge id="219" source="virulent" target="vicious" weight="0.186603" />
+      <edge id="220" source="virulent" target="virtuoso" weight="0.004902" />
+      <edge id="221" source="virulent" target="virus" weight="0.006536" />
+      <edge id="222" source="virulent" target="virulence" weight="0.009524" />
+      <edge id="223" source="virulent" target="vivid" weight="0.042857" />
+      <edge id="224" source="virulent" target="vinegar" weight="0.008333" />
+      <edge id="225" source="virulent" target="vivacious" weight="0.031414" />
+      <edge id="226" source="virulent" target="villainous" weight="0.024631" />
+      <edge id="227" source="vision" target="vicar" weight="0.006329" />
+      <edge id="228" source="vision" target="visage" weight="0.007937" />
+      <edge id="229" source="vision" target="vim" weight="0.006024" />
+      <edge id="230" source="vision" target="viscera" weight="0.007813" />
+      <edge id="231" source="vision" target="virtu" weight="0.008403" />
+      <edge id="232" source="vision" target="vivify" weight="0.008929" />
+      <edge id="233" source="vision" target="vista" weight="0.026316" />
+      <edge id="234" source="vision" target="visualize" weight="0.086538" />
+      <edge id="235" source="vision" target="victimization" weight="0.151515" />
+      <edge id="236" source="vision" target="vitalize" weight="0.008065" />
+      <edge id="237" source="vision" target="victimize" weight="0.006173" />
+      <edge id="238" source="vision" target="visionary" weight="0.012579" />
+      <edge id="239" source="vision" target="vitality" weight="0.005263" />
+      <edge id="240" source="vision" target="virtuoso" weight="0.005348" />
+      <edge id="241" source="vision" target="vignette" weight="0.021127" />
+      <edge id="242" source="vision" target="virtuosity" weight="0.006211" />
+      <edge id="243" source="vision" target="vitals" weight="0.007576" />
+      <edge id="244" source="vision" target="vivacity" weight="0.006849" />
+      <edge id="245" source="vision" target="view" weight="0.061303" />
+      <edge id="246" source="view" target="victimization" weight="0.005" />
+      <edge id="247" source="view" target="visualize" weight="0.04712" />
+      <edge id="248" source="view" target="vitriol" weight="0.005181" />
+      <edge id="249" source="view" target="visage" weight="0.023923" />
+      <edge id="250" source="view" target="videotape" weight="0.004545" />
+      <edge id="251" source="view" target="vitality" weight="0.00361" />
+      <edge id="252" source="view" target="vignette" weight="0.017544" />
+      <edge id="253" source="view" target="visible" weight="0.008969" />
+      <edge id="254" source="view" target="villain" weight="0.004049" />
+      <edge id="255" source="view" target="visa" weight="0.013333" />
+      <edge id="256" source="view" target="virtue" weight="0.01087" />
+      <edge id="257" source="view" target="virtuosity" weight="0.008097" />
+      <edge id="258" source="view" target="vigil" weight="0.010101" />
+      <edge id="259" source="view" target="vigilance" weight="0.010363" />
+      <edge id="260" source="view" target="visceral" weight="0.009901" />
+      <edge id="261" source="view" target="virility" weight="0.004386" />
+      <edge id="262" source="view" target="vitiate" weight="0.003953" />
+      <edge id="263" source="virginity" target="virtue" weight="0.017241" />
+      <edge id="264" source="vine" target="virus" weight="0.014286" />
+      <edge id="265" source="vine" target="vibrate" weight="0.012821" />
+      <edge id="266" source="victor" target="vicar" weight="0.013514" />
+      <edge id="267" source="victor" target="vice" weight="0.015385" />
+      <edge id="268" source="victor" target="vindicator" weight="0.047619" />
+      <edge id="269" source="victor" target="virtuoso" weight="0.029703" />
+      <edge id="270" source="victor" target="villain" weight="0.013158" />
+      <edge id="271" source="victor" target="virtuosity" weight="0.012987" />
+      <edge id="272" source="victor" target="virtu" weight="0.028571" />
+      <edge id="273" source="visualize" target="vista" weight="0.025641" />
+      <edge id="274" source="visualize" target="victimization" weight="0.027778" />
+      <edge id="275" source="visualize" target="visit" weight="0.020833" />
+      <edge id="276" source="visualize" target="vignette" weight="0.030303" />
+      <edge id="277" source="visualize" target="virtuoso" weight="0.009091" />
+      <edge id="278" source="visualize" target="vivify" weight="0.028571" />
+      <edge id="279" source="visualize" target="vitalize" weight="0.021277" />
+      <edge id="280" source="victimization" target="victimize" weight="0.011628" />
+      <edge id="281" source="videotape" target="vibrato" weight="0.015625" />
+      <edge id="282" source="videotape" target="visit" weight="0.029412" />
+      <edge id="283" source="videotape" target="vignette" weight="0.022989" />
+      <edge id="284" source="videotape" target="virgin" weight="0.005495" />
+      <edge id="285" source="videotape" target="visa" weight="0.011905" />
+      <edge id="286" source="videotape" target="viola" weight="0.015152" />
+      <edge id="287" source="vituperative" target="vicious" weight="0.018405" />
+      <edge id="288" source="vituperative" target="virgin" weight="0.00578" />
+      <edge id="289" source="vituperative" target="villainous" weight="0.016129" />
+      <edge id="290" source="vituperative" target="vituperation" weight="0.021277" />
+      <edge id="291" source="vituperative" target="vilification" weight="0.019608" />
+      <edge id="292" source="vitiate" target="vice" weight="0.007937" />
+      <edge id="293" source="vitiate" target="visitation" weight="0.007874" />
+      <edge id="294" source="vitiate" target="vignette" weight="0.008264" />
+      <edge id="295" source="vitiate" target="vicious" weight="0.014634" />
+      <edge id="296" source="vitiate" target="virus" weight="0.017857" />
+      <edge id="297" source="vitiate" target="virulence" weight="0.005848" />
+      <edge id="298" source="vitiate" target="villainous" weight="0.012048" />
+      <edge id="299" source="vitiate" target="victimize" weight="0.007194" />
+      <edge id="300" source="vitalize" target="viable" weight="0.014706" />
+      <edge id="301" source="viable" target="vivacious" weight="0.059829" />
+      <edge id="302" source="viable" target="vigorous" weight="0.016575" />
+      <edge id="303" source="viable" target="vivid" weight="0.035461" />
+      <edge id="304" source="viable" target="vicarage" weight="0.015873" />
+      <edge id="305" source="viable" target="vitality" weight="0.007463" />
+      <edge id="306" source="viable" target="virtuoso" weight="0.007634" />
+      <edge id="307" source="viable" target="vivify" weight="0.017857" />
+      <edge id="308" source="viable" target="vital" weight="0.051724" />
+      <edge id="309" source="viable" target="virtual" weight="0.036364" />
+      <edge id="310" source="viable" target="vitals" weight="0.013158" />
+      <edge id="311" source="viable" target="vivacity" weight="0.011111" />
+      <edge id="312" source="virgule" target="vivacity" weight="0.013158" />
+      <edge id="313" source="virgule" target="vignette" weight="0.013514" />
+      <edge id="314" source="vindicator" target="vigil" weight="0.035714" />
+      <edge id="315" source="vindicator" target="vigilance" weight="0.043478" />
+      <edge id="316" source="vindicator" target="virtuoso" weight="0.009709" />
+      <edge id="317" source="virtuoso" target="vicar" weight="0.012903" />
+      <edge id="318" source="virtuoso" target="viceroy" weight="0.010204" />
+      <edge id="319" source="virtuoso" target="vim" weight="0.006098" />
+      <edge id="320" source="virtuoso" target="villain" weight="0.006329" />
+      <edge id="321" source="virtuoso" target="virtu" weight="0.008547" />
+      <edge id="322" source="virtuoso" target="vibrato" weight="0.008475" />
+      <edge id="323" source="virtuoso" target="vivid" weight="0.015228" />
+      <edge id="324" source="virtuoso" target="vital" weight="0.012821" />
+      <edge id="325" source="virtuoso" target="viola" weight="0.008333" />
+      <edge id="326" source="virtuoso" target="vigorous" weight="0.004219" />
+      <edge id="327" source="virtuoso" target="visionary" weight="0.006329" />
+      <edge id="328" source="virtuoso" target="vitality" weight="0.005319" />
+      <edge id="329" source="virtuoso" target="visa" weight="0.007246" />
+      <edge id="330" source="virtuoso" target="virulence" weight="0.005208" />
+      <edge id="331" source="virtuoso" target="virtue" weight="0.005291" />
+      <edge id="332" source="virtuoso" target="virtuosity" weight="0.012658" />
+      <edge id="333" source="virtuoso" target="vitals" weight="0.007692" />
+      <edge id="334" source="virtuoso" target="vice" weight="0.006803" />
+      <edge id="335" source="virtuoso" target="vivacious" weight="0.011364" />
+      <edge id="336" source="virtuoso" target="virility" weight="0.007194" />
+      <edge id="337" source="virtuosity" target="vista" weight="0.011364" />
+      <edge id="338" source="virtuosity" target="visage" weight="0.010204" />
+      <edge id="339" source="virtuosity" target="virtue" weight="0.025" />
+      <edge id="340" source="virtuosity" target="violence" weight="0.00813" />
+      <edge id="341" source="virtuosity" target="vitality" weight="0.01875" />
+      <edge id="342" source="virtuosity" target="vim" weight="0.007246" />
+      <edge id="343" source="virtuosity" target="villain" weight="0.007576" />
+      <edge id="344" source="virtuosity" target="virulence" weight="0.012121" />
+      <edge id="345" source="virtuosity" target="virtu" weight="0.045455" />
+      <edge id="346" source="virtuosity" target="virility" weight="0.017857" />
+      <edge id="347" source="virtuosity" target="vivacity" weight="0.017094" />
+      <edge id="348" source="vitals" target="vitality" weight="0.015152" />
+      <edge id="349" source="vitals" target="vivacity" weight="0.011236" />
+      <edge id="350" source="vitals" target="visceral" weight="0.034483" />
+      <edge id="351" source="vivacity" target="vigorous" weight="0.005102" />
+      <edge id="352" source="vivacity" target="vivid" weight="0.006329" />
+      <edge id="353" source="vivacity" target="violence" weight="0.018692" />
+      <edge id="354" source="vivacity" target="vitality" weight="0.345455" />
+      <edge id="355" source="vivacity" target="vim" weight="0.227723" />
+      <edge id="356" source="vivacity" target="viscera" weight="0.02381" />
+      <edge id="357" source="vivacity" target="vital" weight="0.005128" />
+      <edge id="358" source="vivacity" target="virulence" weight="0.055556" />
+      <edge id="359" source="vivacity" target="virtue" weight="0.041958" />
+      <edge id="360" source="vivacity" target="virility" weight="0.064516" />
+      <edge id="361" source="vivacity" target="vivacious" weight="0.007353" />
+      <edge id="362" source="vivacity" target="vicarage" weight="0.013158" />
+      <edge id="363" source="vinegar" target="vinegarish" weight="0.032258" />
+      <edge id="364" source="violence" target="vixen" weight="0.008333" />
+      <edge id="365" source="violence" target="vitriol" weight="0.045455" />
+      <edge id="366" source="violence" target="vitality" weight="0.06993" />
+      <edge id="367" source="violence" target="visibility" weight="0.012658" />
+      <edge id="368" source="violence" target="virility" weight="0.04" />
+      <edge id="369" source="violence" target="virtue" weight="0.026667" />
+      <edge id="370" source="vibrating" target="vibrancy" weight="0.015873" />
+      <edge id="371" source="visibility" target="vibrate" weight="0.013889" />
+      <edge id="372" source="visibility" target="virulence" weight="0.008197" />
+      <edge id="373" source="visibility" target="vichyssoise" weight="0.029412" />
+      <edge id="374" source="virility" target="vitriol" weight="0.017241" />
+      <edge id="375" source="virility" target="visit" weight="0.012987" />
+      <edge id="376" source="virility" target="vitality" weight="0.38835" />
+      <edge id="377" source="virility" target="visa" weight="0.01087" />
+      <edge id="378" source="virility" target="virulence" weight="0.373832" />
+      <edge id="379" source="virility" target="vim" weight="0.506329" />
+      <edge id="380" source="virility" target="vicarage" weight="0.014085" />
+      <edge id="381" source="virility" target="virtue" weight="0.398058" />
+      <edge id="382" source="vicar" target="vie" weight="0.012821" />
+      <edge id="383" source="vinegarish" target="vivid" weight="0.007752" />
+      <edge id="384" source="vinegarish" target="vicious" weight="0.006329" />
+      <edge id="385" source="vinegarish" target="vivacious" weight="0.009346" />
+      <edge id="386" source="vinegarish" target="virgin" weight="0.012121" />
+      <edge id="387" source="vie" target="vindicate" weight="0.020833" />
+      <edge id="388" source="visibly" target="villain" weight="0.009091" />
+      <edge id="389" source="vim" target="vitriol" weight="0.012048" />
+      <edge id="390" source="vim" target="vitality" weight="0.5" />
+      <edge id="391" source="vim" target="visa" weight="0.008547" />
+      <edge id="392" source="vim" target="vicarage" weight="0.010417" />
+      <edge id="393" source="vim" target="virtue" weight="0.310078" />
+      <edge id="394" source="visible" target="vigorous" weight="0.005348" />
+      <edge id="395" source="visible" target="vindicate" weight="0.013158" />
+      <edge id="396" source="visible" target="visionary" weight="0.028302" />
+      <edge id="397" source="visible" target="visual" weight="0.545455" />
+      <edge id="398" source="visible" target="vivid" weight="0.013514" />
+      <edge id="399" source="viscera" target="vitality" weight="0.023622" />
+      <edge id="400" source="vixen" target="vintner" weight="0.011628" />
+      <edge id="401" source="vixen" target="vigorous" weight="0.004808" />
+      <edge id="402" source="vixen" target="visionary" weight="0.015625" />
+      <edge id="403" source="vixen" target="vicious" weight="0.015228" />
+      <edge id="404" source="vixen" target="virgin" weight="0.009709" />
+      <edge id="405" source="vixen" target="villain" weight="0.007752" />
+      <edge id="406" source="vixen" target="vital" weight="0.004831" />
+      <edge id="407" source="vixen" target="virago" weight="0.647887" />
+      <edge id="408" source="vixen" target="viscous" weight="0.008065" />
+      <edge id="409" source="vixen" target="victimize" weight="0.007634" />
+      <edge id="410" source="vibrato" target="vibrate" weight="0.101449" />
+      <edge id="411" source="vibrato" target="villainous" weight="0.008264" />
+      <edge id="412" source="vivid" target="vitality" weight="0.00495" />
+      <edge id="413" source="vivid" target="vicarage" weight="0.007634" />
+      <edge id="414" source="visit" target="vitality" weight="0.007937" />
+      <edge id="415" source="visit" target="visa" weight="0.013158" />
+      <edge id="416" source="visit" target="virtue" weight="0.007874" />
+      <edge id="417" source="visit" target="vigil" weight="0.020833" />
+      <edge id="418" source="visit" target="vigilance" weight="0.023256" />
+      <edge id="419" source="virgin" target="villain" weight="0.004785" />
+      <edge id="420" source="virgin" target="virtue" weight="0.004167" />
+      <edge id="421" source="viscous" target="villain" weight="0.007937" />
+      <edge id="422" source="viscous" target="villainous" weight="0.00641" />
+      <edge id="423" source="vigorous" target="vitality" weight="0.004167" />
+      <edge id="424" source="vigorous" target="vicarage" weight="0.005917" />
+      <edge id="425" source="visitation" target="vignette" weight="0.009524" />
+      <edge id="426" source="visitation" target="visa" weight="0.009901" />
+      <edge id="427" source="visitation" target="villainous" weight="0.006623" />
+      <edge id="428" source="virulence" target="vitriol" weight="0.108911" />
+      <edge id="429" source="virulence" target="virtue" weight="0.254777" />
+      <edge id="430" source="virulence" target="vitality" weight="0.298013" />
+      <edge id="431" source="virulence" target="visa" weight="0.006897" />
+      <edge id="432" source="virulence" target="vicarage" weight="0.008065" />
+      <edge id="433" source="virtue" target="visage" weight="0.007813" />
+      <edge id="434" source="virtue" target="villain" weight="0.006173" />
+      <edge id="435" source="virtue" target="vignette" weight="0.006849" />
+      <edge id="436" source="virtue" target="visa" weight="0.014184" />
+      <edge id="437" source="virtue" target="vitality" weight="0.269737" />
+      <edge id="438" source="virtue" target="vicarage" weight="0.008264" />
+      <edge id="439" source="virtue" target="vitriol" weight="0.009259" />
+      <edge id="440" source="vindication" target="visa" weight="0.015152" />
+      <edge id="441" source="vindication" target="vindicate" weight="0.078431" />
+      <edge id="442" source="vicarage" target="vivacious" weight="0.009174" />
+      <edge id="443" source="vicarage" target="vitality" weight="0.016807" />
+      <edge id="444" source="vicarage" target="vital" weight="0.005952" />
+      <edge id="445" source="vivacious" target="vitality" weight="0.005556" />
+      <edge id="446" source="viceroy" target="visionary" weight="0.014085" />
+      <edge id="447" source="visage" target="vintage" weight="0.022727" />
+      <edge id="448" source="visage" target="villain" weight="0.020833" />
+      <edge id="449" source="viewer" target="visa" weight="0.014493" />
+      <edge id="450" source="villainy" target="villainous" weight="0.027027" />
+      <edge id="451" source="villain" target="virtu" weight="0.011111" />
+      <edge id="452" source="villain" target="virago" weight="0.008475" />
+      <edge id="453" source="villain" target="victimize" weight="0.007519" />
+      <edge id="454" source="villain" target="vicious" weight="0.01" />
+      <edge id="455" source="villain" target="vignette" weight="0.008696" />
+      <edge id="456" source="villain" target="villainous" weight="0.0125" />
+      <edge id="457" source="virtu" target="vignette" weight="0.027397" />
+      <edge id="458" source="vista" target="vigil" weight="0.025641" />
+      <edge id="459" source="vista" target="vigilance" weight="0.029412" />
+      <edge id="460" source="virago" target="vintner" weight="0.013333" />
+      <edge id="461" source="vindicate" target="visa" weight="0.012658" />
+      <edge id="462" source="vital" target="vitality" weight="0.004184" />
+      <edge id="463" source="viola" target="villainous" weight="0.00813" />
+      <edge id="464" source="vigilance" target="vigil" weight="0.47619" />
+      <edge id="465" source="viscosity" target="vitality" weight="0.04717" />
+      <edge id="466" source="vicious" target="villainous" weight="0.26087" />
+      <edge id="467" source="vignette" target="villainous" weight="0.006897" />
+      <edge id="468" source="virus" target="vitriol" weight="0.018868" />
+      <edge id="469" source="visa" target="vitality" weight="0.007092" />
+      <edge id="470" source="vitality" target="vitriol" weight="0.009346" />
+      <edge id="471" source="vice" target="villainous" weight="0.006667" />
+    </edges>
+  </graph>
+</gexf>

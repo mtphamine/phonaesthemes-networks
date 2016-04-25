@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="grievance" label="grievance" />
+      <node id="graded" label="graded" />
+      <node id="groundwork" label="groundwork" />
+      <node id="grandly" label="grandly" />
+      <node id="grungy" label="grungy" />
+      <node id="griddle" label="griddle" />
+      <node id="gradation" label="gradation" />
+      <node id="grateful" label="grateful" />
+      <node id="ground" label="ground" />
+      <node id="group" label="group" />
+      <node id="granting" label="granting" />
+      <node id="gridiron" label="gridiron" />
+      <node id="grotesque" label="grotesque" />
+      <node id="grenadier" label="grenadier" />
+      <node id="granular" label="granular" />
+      <node id="grandiloquent" label="grandiloquent" />
+      <node id="grating" label="grating" />
+      <node id="graven" label="graven" />
+      <node id="gravel" label="gravel" />
+      <node id="grip" label="grip" />
+      <node id="gratify" label="gratify" />
+      <node id="graceless" label="graceless" />
+      <node id="grit" label="grit" />
+      <node id="groping" label="groping" />
+      <node id="gratis" label="gratis" />
+      <node id="grand" label="grand" />
+      <node id="grubby" label="grubby" />
+      <node id="grid" label="grid" />
+      <node id="gratification" label="gratification" />
+      <node id="granulate" label="granulate" />
+      <node id="grim" label="grim" />
+      <node id="grin" label="grin" />
+      <node id="gray" label="gray" />
+      <node id="grumbling" label="grumbling" />
+      <node id="grizzly" label="grizzly" />
+      <node id="greeny" label="greeny" />
+      <node id="grandfather" label="grandfather" />
+      <node id="grizzle" label="grizzle" />
+      <node id="grab" label="grab" />
+      <node id="grouping" label="grouping" />
+      <node id="gripping" label="gripping" />
+      <node id="grouse" label="grouse" />
+      <node id="grub" label="grub" />
+      <node id="grum" label="grum" />
+      <node id="grooved" label="grooved" />
+      <node id="growing" label="growing" />
+      <node id="gross" label="gross" />
+      <node id="gravitation" label="gravitation" />
+      <node id="grading" label="grading" />
+      <node id="gradient" label="gradient" />
+      <node id="gratuity" label="gratuity" />
+      <node id="grinding" label="grinding" />
+      <node id="grandmother" label="grandmother" />
+      <node id="grocer" label="grocer" />
+      <node id="granulated" label="granulated" />
+      <node id="graybeard" label="graybeard" />
+      <node id="grafting" label="grafting" />
+      <node id="gravestone" label="gravestone" />
+      <node id="grease" label="grease" />
+      <node id="grumble" label="grumble" />
+      <node id="greedy" label="greedy" />
+      <node id="grouch" label="grouch" />
+      <node id="graze" label="graze" />
+      <node id="greengrocer" label="greengrocer" />
+      <node id="greenhorn" label="greenhorn" />
+      <node id="gratifying" label="gratifying" />
+      <node id="great" label="great" />
+      <node id="granule" label="granule" />
+      <node id="graduation" label="graduation" />
+      <node id="grain" label="grain" />
+      <node id="greatly" label="greatly" />
+      <node id="grounds" label="grounds" />
+      <node id="grade" label="grade" />
+      <node id="greathearted" label="greathearted" />
+      <node id="grazing" label="grazing" />
+      <node id="grumbler" label="grumbler" />
+      <node id="grater" label="grater" />
+      <node id="gravid" label="gravid" />
+      <node id="grieved" label="grieved" />
+      <node id="grange" label="grange" />
+      <node id="grasping" label="grasping" />
+      <node id="grated" label="grated" />
+      <node id="greatness" label="greatness" />
+      <node id="groan" label="groan" />
+      <node id="graciously" label="graciously" />
+      <node id="grimly" label="grimly" />
+      <node id="grimy" label="grimy" />
+      <node id="grille" label="grille" />
+      <node id="grisly" label="grisly" />
+      <node id="granny" label="granny" />
+      <node id="grate" label="grate" />
+      <node id="gruesome" label="gruesome" />
+      <node id="grunt" label="grunt" />
+      <node id="groat" label="groat" />
+      <node id="grace" label="grace" />
+      <node id="gracious" label="gracious" />
+      <node id="groovy" label="groovy" />
+      <node id="grill" label="grill" />
+      <node id="gritty" label="gritty" />
+      <node id="grainy" label="grainy" />
+      <node id="grinning" label="grinning" />
+      <node id="gruff" label="gruff" />
+      <node id="grasp" label="grasp" />
+      <node id="grope" label="grope" />
+      <node id="grass" label="grass" />
+      <node id="groove" label="groove" />
+      <node id="grouchy" label="grouchy" />
+      <node id="grassy" label="grassy" />
+      <node id="gratuitous" label="gratuitous" />
+      <node id="gravely" label="gravely" />
+      <node id="grabble" label="grabble" />
+      <node id="graceful" label="graceful" />
+      <node id="grievous" label="grievous" />
+      <node id="graft" label="graft" />
+      <node id="grown" label="grown" />
+      <node id="growl" label="growl" />
+      <node id="grandiose" label="grandiose" />
+      <node id="grinder" label="grinder" />
+      <node id="grousing" label="grousing" />
+      <node id="grant" label="grant" />
+      <node id="granted" label="granted" />
+      <node id="gripe" label="gripe" />
+      <node id="gravity" label="gravity" />
+      <node id="graduate" label="graduate" />
+      <node id="grouped" label="grouped" />
+      <node id="grapple" label="grapple" />
+      <node id="grabby" label="grabby" />
+      <node id="grandeur" label="grandeur" />
+      <node id="gravy" label="gravy" />
+      <node id="greenroom" label="greenroom" />
+      <node id="grammatic" label="grammatic" />
+      <node id="gracile" label="gracile" />
+      <node id="grave" label="grave" />
+      <node id="gravelly" label="gravelly" />
+      <node id="grudge" label="grudge" />
+      <node id="graphemic" label="graphemic" />
+      <node id="grove" label="grove" />
+      <node id="gracefully" label="gracefully" />
+      <node id="grind" label="grind" />
+      <node id="groundless" label="groundless" />
+      <node id="green" label="green" />
+      <node id="grassland" label="grassland" />
+      <node id="greed" label="greed" />
+      <node id="grizzled" label="grizzled" />
+    </nodes>
+    <edges>
+      <edge id="0" source="grievance" target="grudge" />
+      <edge id="1" source="grievance" target="grumbling" />
+      <edge id="2" source="grievance" target="grouse" />
+      <edge id="3" source="grievance" target="groan" />
+      <edge id="4" source="grievance" target="grousing" />
+      <edge id="5" source="grievance" target="gripe" />
+      <edge id="6" source="graded" target="grouped" />
+      <edge id="7" source="groundwork" target="grounds" />
+      <edge id="8" source="groundwork" target="ground" />
+      <edge id="9" source="grandly" target="gravely" />
+      <edge id="10" source="grandly" target="greatly" />
+      <edge id="11" source="grungy" target="grubby" />
+      <edge id="12" source="grungy" target="grimy" />
+      <edge id="13" source="griddle" target="grate" />
+      <edge id="14" source="griddle" target="grill" />
+      <edge id="15" source="griddle" target="gridiron" />
+      <edge id="16" source="griddle" target="grid" />
+      <edge id="17" source="griddle" target="grating" />
+      <edge id="18" source="gradation" target="grouping" />
+      <edge id="19" source="gradation" target="graduation" />
+      <edge id="20" source="gradation" target="grading" />
+      <edge id="21" source="grateful" target="gratifying" />
+      <edge id="22" source="grateful" target="gracious" />
+      <edge id="23" source="ground" target="grassland" />
+      <edge id="24" source="ground" target="grated" />
+      <edge id="25" source="ground" target="grounds" />
+      <edge id="26" source="group" target="grade" />
+      <edge id="27" source="group" target="grove" />
+      <edge id="28" source="group" target="graduate" />
+      <edge id="29" source="group" target="grouping" />
+      <edge id="30" source="granting" target="grant" />
+      <edge id="31" source="gridiron" target="grill" />
+      <edge id="32" source="gridiron" target="greenroom" />
+      <edge id="33" source="gridiron" target="grille" />
+      <edge id="34" source="gridiron" target="grid" />
+      <edge id="35" source="gridiron" target="grating" />
+      <edge id="36" source="gridiron" target="grate" />
+      <edge id="37" source="grotesque" target="gruesome" />
+      <edge id="38" source="grenadier" target="grunt" />
+      <edge id="39" source="granular" target="gravelly" />
+      <edge id="40" source="granular" target="gross" />
+      <edge id="41" source="granular" target="granulated" />
+      <edge id="42" source="granular" target="grainy" />
+      <edge id="43" source="granular" target="gritty" />
+      <edge id="44" source="grandiloquent" target="grandiose" />
+      <edge id="45" source="grating" target="grill" />
+      <edge id="46" source="grating" target="grinding" />
+      <edge id="47" source="grating" target="grille" />
+      <edge id="48" source="grating" target="grid" />
+      <edge id="49" source="grating" target="grate" />
+      <edge id="50" source="graven" target="grooved" />
+      <edge id="51" source="gravel" target="grate" />
+      <edge id="52" source="gravel" target="grain" />
+      <edge id="53" source="gravel" target="grit" />
+      <edge id="54" source="gravel" target="granule" />
+      <edge id="55" source="grip" target="grasp" />
+      <edge id="56" source="grip" target="grab" />
+      <edge id="57" source="grip" target="gripe" />
+      <edge id="58" source="grip" target="grace" />
+      <edge id="59" source="grip" target="grapple" />
+      <edge id="60" source="gratify" target="graze" />
+      <edge id="61" source="gratify" target="grass" />
+      <edge id="62" source="graceless" target="gross" />
+      <edge id="63" source="grit" target="grate" />
+      <edge id="64" source="grit" target="grain" />
+      <edge id="65" source="grit" target="granule" />
+      <edge id="66" source="groping" target="green" />
+      <edge id="67" source="gratis" target="gratuitous" />
+      <edge id="68" source="grand" target="great" />
+      <edge id="69" source="grand" target="grandiose" />
+      <edge id="70" source="grand" target="grave" />
+      <edge id="71" source="grubby" target="grimy" />
+      <edge id="72" source="grid" target="grill" />
+      <edge id="73" source="grid" target="greenroom" />
+      <edge id="74" source="grid" target="grille" />
+      <edge id="75" source="grid" target="grate" />
+      <edge id="76" source="gratification" target="gratuity" />
+      <edge id="77" source="granulate" target="grate" />
+      <edge id="78" source="granulate" target="grain" />
+      <edge id="79" source="granulate" target="grind" />
+      <edge id="80" source="grim" target="grum" />
+      <edge id="81" source="grim" target="gray" />
+      <edge id="82" source="grim" target="grisly" />
+      <edge id="83" source="grim" target="grave" />
+      <edge id="84" source="grim" target="gruesome" />
+      <edge id="85" source="grin" target="grinning" />
+      <edge id="86" source="gray" target="grave" />
+      <edge id="87" source="gray" target="grizzly" />
+      <edge id="88" source="gray" target="grizzle" />
+      <edge id="89" source="gray" target="grizzled" />
+      <edge id="90" source="grumbling" target="growl" />
+      <edge id="91" source="grumbling" target="grouchy" />
+      <edge id="92" source="grumbling" target="grouse" />
+      <edge id="93" source="grumbling" target="groan" />
+      <edge id="94" source="grumbling" target="grousing" />
+      <edge id="95" source="grumbling" target="grumble" />
+      <edge id="96" source="grumbling" target="gripe" />
+      <edge id="97" source="grumbling" target="gruff" />
+      <edge id="98" source="grizzly" target="grizzle" />
+      <edge id="99" source="grizzly" target="grizzled" />
+      <edge id="100" source="greeny" target="greenhorn" />
+      <edge id="101" source="grandfather" target="graybeard" />
+      <edge id="102" source="grizzle" target="grizzled" />
+      <edge id="103" source="grab" target="grasp" />
+      <edge id="104" source="grab" target="grapple" />
+      <edge id="105" source="grouping" target="grade" />
+      <edge id="106" source="grouping" target="grove" />
+      <edge id="107" source="grouping" target="grading" />
+      <edge id="108" source="gripping" target="grasping" />
+      <edge id="109" source="grouse" target="growl" />
+      <edge id="110" source="grouse" target="grousing" />
+      <edge id="111" source="grouse" target="groan" />
+      <edge id="112" source="grouse" target="grumble" />
+      <edge id="113" source="grouse" target="gripe" />
+      <edge id="114" source="grouse" target="grouch" />
+      <edge id="115" source="grouse" target="grunt" />
+      <edge id="116" source="grub" target="groove" />
+      <edge id="117" source="grub" target="grind" />
+      <edge id="118" source="growing" target="grown" />
+      <edge id="119" source="growing" target="green" />
+      <edge id="120" source="gross" target="gritty" />
+      <edge id="121" source="gross" target="grievous" />
+      <edge id="122" source="gross" target="grainy" />
+      <edge id="123" source="gross" target="granulated" />
+      <edge id="124" source="gross" target="grave" />
+      <edge id="125" source="gravitation" target="gravity" />
+      <edge id="126" source="grading" target="graduation" />
+      <edge id="127" source="gradient" target="grade" />
+      <edge id="128" source="gratuity" target="gravy" />
+      <edge id="129" source="gratuity" target="grease" />
+      <edge id="130" source="grinding" target="grind" />
+      <edge id="131" source="grinding" target="grazing" />
+      <edge id="132" source="grandmother" target="granny" />
+      <edge id="133" source="grocer" target="greengrocer" />
+      <edge id="134" source="granulated" target="gritty" />
+      <edge id="135" source="granulated" target="grainy" />
+      <edge id="136" source="granulated" target="gravelly" />
+      <edge id="137" source="grafting" target="graft" />
+      <edge id="138" source="gravestone" target="grave" />
+      <edge id="139" source="grease" target="grade" />
+      <edge id="140" source="grease" target="gravy" />
+      <edge id="141" source="grease" target="green" />
+      <edge id="142" source="grumble" target="growl" />
+      <edge id="143" source="grumble" target="groan" />
+      <edge id="144" source="grumble" target="gripe" />
+      <edge id="145" source="grumble" target="grind" />
+      <edge id="146" source="grumble" target="grouch" />
+      <edge id="147" source="grumble" target="grunt" />
+      <edge id="148" source="greedy" target="grasping" />
+      <edge id="149" source="greedy" target="grabby" />
+      <edge id="150" source="grouch" target="growl" />
+      <edge id="151" source="grouch" target="groan" />
+      <edge id="152" source="grouch" target="gripe" />
+      <edge id="153" source="grouch" target="grunt" />
+      <edge id="154" source="grouch" target="grumbler" />
+      <edge id="155" source="graze" target="grate" />
+      <edge id="156" source="graze" target="grass" />
+      <edge id="157" source="graze" target="grind" />
+      <edge id="158" source="gratifying" target="gracious" />
+      <edge id="159" source="great" target="groovy" />
+      <edge id="160" source="great" target="greathearted" />
+      <edge id="161" source="great" target="grave" />
+      <edge id="162" source="great" target="gravid" />
+      <edge id="163" source="granule" target="groat" />
+      <edge id="164" source="granule" target="grain" />
+      <edge id="165" source="grain" target="grind" />
+      <edge id="166" source="grain" target="grate" />
+      <edge id="167" source="grain" target="grass" />
+      <edge id="168" source="grain" target="groat" />
+      <edge id="169" source="grounds" target="green" />
+      <edge id="170" source="grade" target="graduate" />
+      <edge id="171" source="greathearted" target="gracious" />
+      <edge id="172" source="grazing" target="grassland" />
+      <edge id="173" source="grazing" target="grass" />
+      <edge id="174" source="grater" target="grinder" />
+      <edge id="175" source="grieved" target="grievous" />
+      <edge id="176" source="grange" target="grassland" />
+      <edge id="177" source="grasping" target="greed" />
+      <edge id="178" source="grasping" target="grabby" />
+      <edge id="179" source="greatness" target="grandeur" />
+      <edge id="180" source="groan" target="growl" />
+      <edge id="181" source="groan" target="grousing" />
+      <edge id="182" source="groan" target="gripe" />
+      <edge id="183" source="groan" target="grind" />
+      <edge id="184" source="groan" target="grunt" />
+      <edge id="185" source="graciously" target="gracefully" />
+      <edge id="186" source="grimly" target="gravely" />
+      <edge id="187" source="grille" target="grate" />
+      <edge id="188" source="grisly" target="gruesome" />
+      <edge id="189" source="grate" target="grill" />
+      <edge id="190" source="grate" target="gripe" />
+      <edge id="191" source="grate" target="grind" />
+      <edge id="192" source="grunt" target="growl" />
+      <edge id="193" source="grunt" target="gripe" />
+      <edge id="194" source="gracious" target="graceful" />
+      <edge id="195" source="gracious" target="gracile" />
+      <edge id="196" source="gritty" target="grainy" />
+      <edge id="197" source="gritty" target="gravelly" />
+      <edge id="198" source="grainy" target="gravelly" />
+      <edge id="199" source="gruff" target="grouchy" />
+      <edge id="200" source="grasp" target="gripe" />
+      <edge id="201" source="grasp" target="grapple" />
+      <edge id="202" source="grope" target="grabble" />
+      <edge id="203" source="grass" target="grassland" />
+      <edge id="204" source="groove" target="grave" />
+      <edge id="205" source="groove" target="grind" />
+      <edge id="206" source="grouchy" target="grousing" />
+      <edge id="207" source="grassy" target="green" />
+      <edge id="208" source="gratuitous" target="groundless" />
+      <edge id="209" source="gratuitous" target="granted" />
+      <edge id="210" source="graceful" target="gracile" />
+      <edge id="211" source="grievous" target="grave" />
+      <edge id="212" source="graft" target="grapple" />
+      <edge id="213" source="growl" target="gripe" />
+      <edge id="214" source="growl" target="grind" />
+      <edge id="215" source="grousing" target="gripe" />
+      <edge id="216" source="gripe" target="grind" />
+      <edge id="217" source="gripe" target="grapple" />
+      <edge id="218" source="gravity" target="grandeur" />
+      <edge id="219" source="grammatic" target="graphemic" />
+    </edges>
+  </graph>
+</gexf>

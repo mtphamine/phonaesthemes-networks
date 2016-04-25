@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="egocentric" label="egocentric">
+        <attvalues>
+          <attvalue for="0" value="2.35602585719" />
+        </attvalues>
+      </node>
+      <node id="egotist" label="egotist" />
+      <node id="egotistic" label="egotistic" />
+      <node id="ego" label="ego" />
+      <node id="egotism" label="egotism">
+        <attvalues>
+          <attvalue for="0" value="2.19312459835" />
+        </attvalues>
+      </node>
+      <node id="egotistical" label="egotistical">
+        <attvalues>
+          <attvalue for="0" value="2.357934847" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="egocentric" target="egotistic" weight="0.181818" />
+      <edge id="1" source="egocentric" target="egotist" weight="0.214286" />
+      <edge id="2" source="egocentric" target="egotistical" weight="0.2" />
+      <edge id="3" source="egotist" target="egotistical" weight="0.045455" />
+      <edge id="4" source="egotistic" target="egotistical" weight="0.117647" />
+      <edge id="5" source="ego" target="egotism" weight="0.043478" />
+    </edges>
+  </graph>
+</gexf>

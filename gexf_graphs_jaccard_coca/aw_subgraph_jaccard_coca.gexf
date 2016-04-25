@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="awestruck" label="awestruck" />
+      <node id="awash" label="awash">
+        <attvalues>
+          <attvalue for="0" value="2.93500315145" />
+        </attvalues>
+      </node>
+      <node id="awkward" label="awkward">
+        <attvalues>
+          <attvalue for="0" value="3.7438232216" />
+        </attvalues>
+      </node>
+      <node id="away" label="away">
+        <attvalues>
+          <attvalue for="0" value="5.33093704666" />
+        </attvalues>
+      </node>
+      <node id="aware" label="aware">
+        <attvalues>
+          <attvalue for="0" value="4.43595579089" />
+        </attvalues>
+      </node>
+      <node id="awake" label="awake">
+        <attvalues>
+          <attvalue for="0" value="3.83991777568" />
+        </attvalues>
+      </node>
+      <node id="awfully" label="awfully" />
+      <node id="awry" label="awry" />
+      <node id="awful" label="awful" />
+      <node id="awe" label="awe" />
+      <node id="awaken" label="awaken" />
+      <node id="awesome" label="awesome">
+        <attvalues>
+          <attvalue for="0" value="3.59549622183" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="awestruck" target="awash" weight="0.013333" />
+      <edge id="1" source="awestruck" target="awesome" weight="0.006289" />
+      <edge id="2" source="awestruck" target="aware" weight="0.020408" />
+      <edge id="3" source="awkward" target="awesome" weight="0.010309" />
+      <edge id="4" source="awkward" target="awry" weight="0.006494" />
+      <edge id="5" source="away" target="awry" weight="0.027778" />
+      <edge id="6" source="aware" target="awful" weight="0.004975" />
+      <edge id="7" source="aware" target="awake" weight="0.082353" />
+      <edge id="8" source="awake" target="awaken" weight="0.393443" />
+      <edge id="9" source="awfully" target="awesome" weight="0.025478" />
+      <edge id="10" source="awful" target="awesome" weight="0.259615" />
+      <edge id="11" source="awe" target="awesome" weight="0.005525" />
+    </edges>
+  </graph>
+</gexf>

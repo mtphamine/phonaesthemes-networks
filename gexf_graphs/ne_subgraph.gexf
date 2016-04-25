@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="nerve" label="nerve" />
+      <node id="needful" label="needful" />
+      <node id="negligence" label="negligence" />
+      <node id="neutralize" label="neutralize" />
+      <node id="neuron" label="neuron" />
+      <node id="nearing" label="nearing" />
+      <node id="necessaries" label="necessaries" />
+      <node id="negation" label="negation" />
+      <node id="negate" label="negate" />
+      <node id="need" label="need" />
+      <node id="nephritis" label="nephritis" />
+      <node id="newsletter" label="newsletter" />
+      <node id="nervy" label="nervy" />
+      <node id="neuritis" label="neuritis" />
+      <node id="network" label="network" />
+      <node id="nervous" label="nervous" />
+      <node id="nearness" label="nearness" />
+      <node id="neb" label="neb" />
+      <node id="negative" label="negative" />
+      <node id="next" label="next" />
+      <node id="newfashioned" label="newfashioned" />
+      <node id="nestling" label="nestling" />
+      <node id="neoplasm" label="neoplasm" />
+      <node id="new" label="new" />
+      <node id="net" label="net" />
+      <node id="negativism" label="negativism" />
+      <node id="newsman" label="newsman" />
+      <node id="neighbor" label="neighbor" />
+      <node id="needle" label="needle" />
+      <node id="neuralgia" label="neuralgia" />
+      <node id="neophyte" label="neophyte" />
+      <node id="negligent" label="negligent" />
+      <node id="neutral" label="neutral" />
+      <node id="newcomer" label="newcomer" />
+      <node id="nearly" label="nearly" />
+      <node id="necessity" label="necessity" />
+      <node id="news" label="news" />
+      <node id="newly" label="newly" />
+      <node id="neglectful" label="neglectful" />
+      <node id="neurological" label="neurological" />
+      <node id="necessary" label="necessary" />
+      <node id="neuter" label="neuter" />
+      <node id="neighboring" label="neighboring" />
+      <node id="nebulous" label="nebulous" />
+      <node id="nettle" label="nettle" />
+      <node id="near" label="near" />
+      <node id="newspaperman" label="newspaperman" />
+      <node id="netting" label="netting" />
+      <node id="newsmonger" label="newsmonger" />
+      <node id="newspaper" label="newspaper" />
+      <node id="nevus" label="nevus" />
+      <node id="neglect" label="neglect" />
+      <node id="nearby" label="nearby" />
+    </nodes>
+    <edges>
+      <edge id="0" source="nerve" target="neuron" />
+      <edge id="1" source="needful" target="necessary" />
+      <edge id="2" source="negligence" target="neglect" />
+      <edge id="3" source="neutralize" target="negate" />
+      <edge id="4" source="neutralize" target="negative" />
+      <edge id="5" source="nearing" target="near" />
+      <edge id="6" source="nearing" target="nearness" />
+      <edge id="7" source="necessaries" target="need" />
+      <edge id="8" source="necessaries" target="necessity" />
+      <edge id="9" source="negation" target="negative" />
+      <edge id="10" source="negate" target="negative" />
+      <edge id="11" source="need" target="necessity" />
+      <edge id="12" source="nephritis" target="neuritis" />
+      <edge id="13" source="newsletter" target="newspaper" />
+      <edge id="14" source="nervy" target="nervous" />
+      <edge id="15" source="neuritis" target="neuralgia" />
+      <edge id="16" source="network" target="net" />
+      <edge id="17" source="network" target="netting" />
+      <edge id="18" source="nervous" target="neurological" />
+      <edge id="19" source="neb" target="needle" />
+      <edge id="20" source="negative" target="negativism" />
+      <edge id="21" source="next" target="neighboring" />
+      <edge id="22" source="next" target="neighbor" />
+      <edge id="23" source="newfashioned" target="new" />
+      <edge id="24" source="nestling" target="new" />
+      <edge id="25" source="nestling" target="newcomer" />
+      <edge id="26" source="nestling" target="neophyte" />
+      <edge id="27" source="neoplasm" target="nevus" />
+      <edge id="28" source="new" target="newly" />
+      <edge id="29" source="net" target="netting" />
+      <edge id="30" source="newsman" target="newspaperman" />
+      <edge id="31" source="neighbor" target="neighboring" />
+      <edge id="32" source="needle" target="nettle" />
+      <edge id="33" source="neophyte" target="newcomer" />
+      <edge id="34" source="negligent" target="neglectful" />
+      <edge id="35" source="neutral" target="nebulous" />
+      <edge id="36" source="neutral" target="neuter" />
+      <edge id="37" source="nearly" target="near" />
+      <edge id="38" source="news" target="newspaper" />
+      <edge id="39" source="near" target="nearby" />
+      <edge id="40" source="newspaperman" target="newsmonger" />
+    </edges>
+  </graph>
+</gexf>

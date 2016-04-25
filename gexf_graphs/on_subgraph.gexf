@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="on" label="on" />
+      <node id="onset" label="onset" />
+      <node id="oncoming" label="oncoming" />
+      <node id="onward" label="onward" />
+      <node id="one" label="one" />
+      <node id="onetime" label="onetime" />
+      <node id="only" label="only" />
+      <node id="onrush" label="onrush" />
+      <node id="ongoing" label="ongoing" />
+      <node id="onslaught" label="onslaught" />
+      <node id="once" label="once" />
+    </nodes>
+    <edges>
+      <edge id="0" source="on" target="onward" />
+      <edge id="1" source="on" target="ongoing" />
+      <edge id="2" source="onset" target="oncoming" />
+      <edge id="3" source="onset" target="onslaught" />
+      <edge id="4" source="oncoming" target="onward" />
+      <edge id="5" source="oncoming" target="ongoing" />
+      <edge id="6" source="onward" target="ongoing" />
+      <edge id="7" source="one" target="only" />
+      <edge id="8" source="onetime" target="once" />
+      <edge id="9" source="onrush" target="ongoing" />
+    </edges>
+  </graph>
+</gexf>

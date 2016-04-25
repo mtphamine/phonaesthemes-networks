@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="warranty" label="warranty" />
+      <node id="watertight" label="watertight" />
+      <node id="watering" label="watering" />
+      <node id="warfare" label="warfare" />
+      <node id="wan" label="wan" />
+      <node id="wasteful" label="wasteful" />
+      <node id="wasting" label="wasting" />
+      <node id="walkway" label="walkway" />
+      <node id="wale" label="wale" />
+      <node id="wartime" label="wartime" />
+      <node id="watcher" label="watcher" />
+      <node id="waxen" label="waxen" />
+      <node id="wash" label="wash" />
+      <node id="wadi" label="wadi" />
+      <node id="warring" label="warring" />
+      <node id="wavelength" label="wavelength" />
+      <node id="waterway" label="waterway" />
+      <node id="wander" label="wander" />
+      <node id="warrantable" label="warrantable" />
+      <node id="wanderlust" label="wanderlust" />
+      <node id="watchful" label="watchful" />
+      <node id="wanton" label="wanton" />
+      <node id="wayfare" label="wayfare" />
+      <node id="wastrel" label="wastrel" />
+      <node id="wag" label="wag" />
+      <node id="washbasin" label="washbasin" />
+      <node id="wail" label="wail" />
+      <node id="watchman" label="watchman" />
+      <node id="walk" label="walk" />
+      <node id="wardship" label="wardship" />
+      <node id="warmongering" label="warmongering" />
+      <node id="waterworks" label="waterworks" />
+      <node id="warpath" label="warpath" />
+      <node id="wavering" label="wavering" />
+      <node id="waistline" label="waistline" />
+      <node id="wasteland" label="wasteland" />
+      <node id="waggle" label="waggle" />
+      <node id="washer" label="washer" />
+      <node id="waste" label="waste" />
+      <node id="warrant" label="warrant" />
+      <node id="war" label="war" />
+      <node id="watery" label="watery" />
+      <node id="wane" label="wane" />
+      <node id="waterproof" label="waterproof" />
+      <node id="wayward" label="wayward" />
+      <node id="wad" label="wad" />
+      <node id="wart" label="wart" />
+      <node id="waddle" label="waddle" />
+      <node id="watch" label="watch" />
+      <node id="waif" label="waif" />
+      <node id="warp" label="warp" />
+      <node id="warble" label="warble" />
+      <node id="water" label="water" />
+      <node id="warranted" label="warranted" />
+      <node id="wavy" label="wavy" />
+      <node id="wake" label="wake" />
+      <node id="warden" label="warden" />
+      <node id="waver" label="waver" />
+      <node id="wallop" label="wallop" />
+      <node id="wasted" label="wasted" />
+      <node id="ward" label="ward" />
+      <node id="wave" label="wave" />
+      <node id="warlike" label="warlike" />
+      <node id="warmhearted" label="warmhearted" />
+      <node id="wainscot" label="wainscot" />
+      <node id="wait" label="wait" />
+      <node id="wallow" label="wallow" />
+      <node id="wary" label="wary" />
+      <node id="washing" label="washing" />
+      <node id="waist" label="waist" />
+      <node id="warder" label="warder" />
+      <node id="washout" label="washout" />
+      <node id="wadding" label="wadding" />
+      <node id="watchdog" label="watchdog" />
+      <node id="wamble" label="wamble" />
+      <node id="waning" label="waning" />
+      <node id="warm" label="warm" />
+      <node id="waterfowl" label="waterfowl" />
+      <node id="watercourse" label="watercourse" />
+      <node id="warbler" label="warbler" />
+      <node id="waving" label="waving" />
+      <node id="washstand" label="washstand" />
+      <node id="wandering" label="wandering" />
+    </nodes>
+    <edges>
+      <edge id="0" source="warranty" target="warrant" />
+      <edge id="1" source="watertight" target="waterproof" />
+      <edge id="2" source="watering" target="watery" />
+      <edge id="3" source="warfare" target="war" />
+      <edge id="4" source="wan" target="waxen" />
+      <edge id="5" source="wasteful" target="wasting" />
+      <edge id="6" source="wasting" target="waning" />
+      <edge id="7" source="walkway" target="walk" />
+      <edge id="8" source="wale" target="wart" />
+      <edge id="9" source="wale" target="warp" />
+      <edge id="10" source="wartime" target="war" />
+      <edge id="11" source="wartime" target="warring" />
+      <edge id="12" source="watcher" target="watch" />
+      <edge id="13" source="watcher" target="watchman" />
+      <edge id="14" source="wash" target="water" />
+      <edge id="15" source="wash" target="washout" />
+      <edge id="16" source="wash" target="wallow" />
+      <edge id="17" source="wash" target="washing" />
+      <edge id="18" source="wash" target="wake" />
+      <edge id="19" source="wadi" target="waterway" />
+      <edge id="20" source="wadi" target="waterworks" />
+      <edge id="21" source="wadi" target="watercourse" />
+      <edge id="22" source="warring" target="warlike" />
+      <edge id="23" source="warring" target="war" />
+      <edge id="24" source="wavelength" target="wave" />
+      <edge id="25" source="waterway" target="waterworks" />
+      <edge id="26" source="waterway" target="watercourse" />
+      <edge id="27" source="wander" target="wayfare" />
+      <edge id="28" source="warrantable" target="warranted" />
+      <edge id="29" source="wanderlust" target="wandering" />
+      <edge id="30" source="watchful" target="wary" />
+      <edge id="31" source="wanton" target="wayward" />
+      <edge id="32" source="wanton" target="wallow" />
+      <edge id="33" source="wanton" target="wavy" />
+      <edge id="34" source="wanton" target="wandering" />
+      <edge id="35" source="wanton" target="wavering" />
+      <edge id="36" source="wastrel" target="waif" />
+      <edge id="37" source="wag" target="waggle" />
+      <edge id="38" source="wag" target="waver" />
+      <edge id="39" source="wag" target="wave" />
+      <edge id="40" source="washbasin" target="washer" />
+      <edge id="41" source="washbasin" target="washstand" />
+      <edge id="42" source="wail" target="warble" />
+      <edge id="43" source="watchman" target="ward" />
+      <edge id="44" source="watchman" target="watch" />
+      <edge id="45" source="walk" target="waddle" />
+      <edge id="46" source="wardship" target="ward" />
+      <edge id="47" source="warmongering" target="warpath" />
+      <edge id="48" source="waterworks" target="watercourse" />
+      <edge id="49" source="wavering" target="wayward" />
+      <edge id="50" source="wavering" target="wavy" />
+      <edge id="51" source="wavering" target="wandering" />
+      <edge id="52" source="waistline" target="waist" />
+      <edge id="53" source="wasteland" target="waste" />
+      <edge id="54" source="waggle" target="waver" />
+      <edge id="55" source="waggle" target="wave" />
+      <edge id="56" source="washer" target="washstand" />
+      <edge id="57" source="waste" target="wasted" />
+      <edge id="58" source="waste" target="wane" />
+      <edge id="59" source="wayward" target="wavy" />
+      <edge id="60" source="wayward" target="wandering" />
+      <edge id="61" source="wad" target="wainscot" />
+      <edge id="62" source="wart" target="warp" />
+      <edge id="63" source="waddle" target="wamble" />
+      <edge id="64" source="watch" target="ward" />
+      <edge id="65" source="watch" target="wait" />
+      <edge id="66" source="warp" target="wandering" />
+      <edge id="67" source="wavy" target="wandering" />
+      <edge id="68" source="wake" target="warm" />
+      <edge id="69" source="warden" target="watchdog" />
+      <edge id="70" source="warden" target="warder" />
+      <edge id="71" source="waver" target="wave" />
+      <edge id="72" source="wallop" target="wallow" />
+      <edge id="73" source="wave" target="waving" />
+      <edge id="74" source="warmhearted" target="warm" />
+      <edge id="75" source="wainscot" target="wadding" />
+      <edge id="76" source="washing" target="washout" />
+      <edge id="77" source="waterfowl" target="warbler" />
+    </edges>
+  </graph>
+</gexf>

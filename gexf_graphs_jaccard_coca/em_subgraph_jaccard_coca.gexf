@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="emotion" label="emotion" />
+      <node id="embolism" label="embolism">
+        <attvalues>
+          <attvalue for="0" value="2.17318626841" />
+        </attvalues>
+      </node>
+      <node id="emblazon" label="emblazon">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="embezzlement" label="embezzlement">
+        <attvalues>
+          <attvalue for="0" value="2.48572142648" />
+        </attvalues>
+      </node>
+      <node id="embassy" label="embassy">
+        <attvalues>
+          <attvalue for="0" value="3.75981887737" />
+        </attvalues>
+      </node>
+      <node id="embezzle" label="embezzle">
+        <attvalues>
+          <attvalue for="0" value="1.41497334797" />
+        </attvalues>
+      </node>
+      <node id="emulsion" label="emulsion" />
+      <node id="emaciated" label="emaciated">
+        <attvalues>
+          <attvalue for="0" value="2.63548374681" />
+        </attvalues>
+      </node>
+      <node id="embittered" label="embittered" />
+      <node id="empiricism" label="empiricism">
+        <attvalues>
+          <attvalue for="0" value="2.3961993471" />
+        </attvalues>
+      </node>
+      <node id="employer" label="employer">
+        <attvalues>
+          <attvalue for="0" value="3.825620825" />
+        </attvalues>
+      </node>
+      <node id="emend" label="emend" />
+      <node id="employee" label="employee" />
+      <node id="employed" label="employed">
+        <attvalues>
+          <attvalue for="0" value="4.06359603329" />
+        </attvalues>
+      </node>
+      <node id="embossed" label="embossed" />
+      <node id="emphatically" label="emphatically">
+        <attvalues>
+          <attvalue for="0" value="3.12450422483" />
+        </attvalues>
+      </node>
+      <node id="emergency" label="emergency">
+        <attvalues>
+          <attvalue for="0" value="4.33342712115" />
+        </attvalues>
+      </node>
+      <node id="embark" label="embark" />
+      <node id="emergence" label="emergence" />
+      <node id="embroider" label="embroider">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="embankment" label="embankment">
+        <attvalues>
+          <attvalue for="0" value="2.84073323461" />
+        </attvalues>
+      </node>
+      <node id="embryonic" label="embryonic" />
+      <node id="emote" label="emote" />
+      <node id="emanate" label="emanate">
+        <attvalues>
+          <attvalue for="0" value="2.61278385672" />
+        </attvalues>
+      </node>
+      <node id="empire" label="empire">
+        <attvalues>
+          <attvalue for="0" value="4.03173153995" />
+        </attvalues>
+      </node>
+      <node id="emptiness" label="emptiness">
+        <attvalues>
+          <attvalue for="0" value="3.25042000231" />
+        </attvalues>
+      </node>
+      <node id="employment" label="employment" />
+      <node id="emetic" label="emetic" />
+      <node id="embodied" label="embodied">
+        <attvalues>
+          <attvalue for="0" value="3.3818368" />
+        </attvalues>
+      </node>
+      <node id="embellishment" label="embellishment" />
+      <node id="eminent" label="eminent">
+        <attvalues>
+          <attvalue for="0" value="3.12024479555" />
+        </attvalues>
+      </node>
+      <node id="emphysema" label="emphysema">
+        <attvalues>
+          <attvalue for="0" value="2.68484536164" />
+        </attvalues>
+      </node>
+      <node id="embroidery" label="embroidery" />
+      <node id="emplacement" label="emplacement">
+        <attvalues>
+          <attvalue for="0" value="1.8260748027" />
+        </attvalues>
+      </node>
+      <node id="embroilment" label="embroilment" />
+      <node id="eminently" label="eminently" />
+      <node id="empower" label="empower" />
+      <node id="embarrassment" label="embarrassment">
+        <attvalues>
+          <attvalue for="0" value="3.58183592406" />
+        </attvalues>
+      </node>
+      <node id="emulsify" label="emulsify" />
+      <node id="embarrass" label="embarrass" />
+      <node id="emigrant" label="emigrant">
+        <attvalues>
+          <attvalue for="0" value="2.43456890403" />
+        </attvalues>
+      </node>
+      <node id="emasculate" label="emasculate" />
+      <node id="empathy" label="empathy">
+        <attvalues>
+          <attvalue for="0" value="3.48273070008" />
+        </attvalues>
+      </node>
+      <node id="emperor" label="emperor" />
+      <node id="emcee" label="emcee" />
+      <node id="emporium" label="emporium">
+        <attvalues>
+          <attvalue for="0" value="2.65896484266" />
+        </attvalues>
+      </node>
+      <node id="emerge" label="emerge">
+        <attvalues>
+          <attvalue for="0" value="3.93515444722" />
+        </attvalues>
+      </node>
+      <node id="emotive" label="emotive" />
+      <node id="embarrassed" label="embarrassed">
+        <attvalues>
+          <attvalue for="0" value="3.85497367373" />
+        </attvalues>
+      </node>
+      <node id="embossment" label="embossment" />
+      <node id="eminence" label="eminence">
+        <attvalues>
+          <attvalue for="0" value="2.69897000434" />
+        </attvalues>
+      </node>
+      <node id="emigrate" label="emigrate" />
+      <node id="empathetic" label="empathetic" />
+      <node id="embalming" label="embalming">
+        <attvalues>
+          <attvalue for="0" value="2.43456890403" />
+        </attvalues>
+      </node>
+      <node id="empty" label="empty" />
+      <node id="emblem" label="emblem" />
+      <node id="embattle" label="embattle">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="emission" label="emission">
+        <attvalues>
+          <attvalue for="0" value="3.42193281328" />
+        </attvalues>
+      </node>
+      <node id="embellish" label="embellish">
+        <attvalues>
+          <attvalue for="0" value="2.48000694296" />
+        </attvalues>
+      </node>
+      <node id="emergent" label="emergent" />
+      <node id="emasculated" label="emasculated">
+        <attvalues>
+          <attvalue for="0" value="2.08990511144" />
+        </attvalues>
+      </node>
+      <node id="emeritus" label="emeritus" />
+      <node id="emancipate" label="emancipate">
+        <attvalues>
+          <attvalue for="0" value="1.92427928606" />
+        </attvalues>
+      </node>
+      <node id="embargo" label="embargo" />
+      <node id="ember" label="ember" />
+      <node id="empirical" label="empirical" />
+      <node id="employ" label="employ">
+        <attvalues>
+          <attvalue for="0" value="3.68627867807" />
+        </attvalues>
+      </node>
+      <node id="embody" label="embody">
+        <attvalues>
+          <attvalue for="0" value="3.11126251366" />
+        </attvalues>
+      </node>
+      <node id="emotional" label="emotional">
+        <attvalues>
+          <attvalue for="0" value="4.39227476157" />
+        </attvalues>
+      </node>
+      <node id="embed" label="embed" />
+      <node id="emir" label="emir" />
+      <node id="emit" label="emit">
+        <attvalues>
+          <attvalue for="0" value="3.06557971473" />
+        </attvalues>
+      </node>
+      <node id="embarrassing" label="embarrassing">
+        <attvalues>
+          <attvalue for="0" value="3.65552259625" />
+        </attvalues>
+      </node>
+      <node id="emanation" label="emanation">
+        <attvalues>
+          <attvalue for="0" value="1.92427928606" />
+        </attvalues>
+      </node>
+      <node id="embrocate" label="embrocate" />
+      <node id="embroidered" label="embroidered">
+        <attvalues>
+          <attvalue for="0" value="3.20085049809" />
+        </attvalues>
+      </node>
+      <node id="embrace" label="embrace">
+        <attvalues>
+          <attvalue for="0" value="3.92613657107" />
+        </attvalues>
+      </node>
+      <node id="emotionalize" label="emotionalize">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="emptying" label="emptying" />
+      <node id="embodiment" label="embodiment" />
+      <node id="employable" label="employable" />
+      <node id="emotionalism" label="emotionalism" />
+      <node id="emancipated" label="emancipated" />
+      <node id="empowered" label="empowered" />
+      <node id="emphasis" label="emphasis" />
+      <node id="emotionless" label="emotionless">
+        <attvalues>
+          <attvalue for="0" value="2.20682587603" />
+        </attvalues>
+      </node>
+      <node id="emphasize" label="emphasize">
+        <attvalues>
+          <attvalue for="0" value="3.8354368948" />
+        </attvalues>
+      </node>
+      <node id="emphatic" label="emphatic">
+        <attvalues>
+          <attvalue for="0" value="2.9014583214" />
+        </attvalues>
+      </node>
+      <node id="embellished" label="embellished">
+        <attvalues>
+          <attvalue for="0" value="2.79795964374" />
+        </attvalues>
+      </node>
+      <node id="embitter" label="embitter" />
+      <node id="emulate" label="emulate" />
+      <node id="embalm" label="embalm" />
+      <node id="emissary" label="emissary">
+        <attvalues>
+          <attvalue for="0" value="2.56702636616" />
+        </attvalues>
+      </node>
+      <node id="emaciate" label="emaciate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="emotion" target="emplacement" weight="0.013158" />
+      <edge id="1" source="emotion" target="embody" weight="0.007407" />
+      <edge id="2" source="emotion" target="empathy" weight="0.013514" />
+      <edge id="3" source="emotion" target="emotional" weight="0.016949" />
+      <edge id="4" source="embolism" target="embargo" weight="0.028169" />
+      <edge id="5" source="embolism" target="embarrassment" weight="0.014925" />
+      <edge id="6" source="embolism" target="embed" weight="0.018519" />
+      <edge id="7" source="embolism" target="embattle" weight="0.030303" />
+      <edge id="8" source="embolism" target="embankment" weight="0.023438" />
+      <edge id="9" source="emblazon" target="embellishment" weight="0.041667" />
+      <edge id="10" source="emblazon" target="embitter" weight="0.006452" />
+      <edge id="11" source="emblazon" target="embrocate" weight="0.027523" />
+      <edge id="12" source="emblazon" target="embellish" weight="0.244444" />
+      <edge id="13" source="emblazon" target="emit" weight="0.005525" />
+      <edge id="14" source="emblazon" target="emend" weight="0.007143" />
+      <edge id="15" source="emblazon" target="embroidery" weight="0.045045" />
+      <edge id="16" source="emblazon" target="embody" weight="0.066327" />
+      <edge id="17" source="emblazon" target="embrace" weight="0.010601" />
+      <edge id="18" source="emblazon" target="embed" weight="0.007576" />
+      <edge id="19" source="emblazon" target="embryonic" weight="0.00495" />
+      <edge id="20" source="emblazon" target="embroider" weight="0.258065" />
+      <edge id="21" source="emblazon" target="emetic" weight="0.008" />
+      <edge id="22" source="embezzlement" target="embezzle" weight="0.024691" />
+      <edge id="23" source="embezzlement" target="emotionalism" weight="0.015152" />
+      <edge id="24" source="embezzlement" target="emergence" weight="0.012658" />
+      <edge id="25" source="embassy" target="emporium" weight="0.023529" />
+      <edge id="26" source="embassy" target="emplacement" weight="0.008547" />
+      <edge id="27" source="embassy" target="emergence" weight="0.009091" />
+      <edge id="28" source="embassy" target="emissary" weight="0.011494" />
+      <edge id="29" source="embassy" target="empire" weight="0.024793" />
+      <edge id="30" source="embassy" target="embalm" weight="0.011111" />
+      <edge id="31" source="embassy" target="empower" weight="0.041237" />
+      <edge id="32" source="embassy" target="embed" weight="0.01" />
+      <edge id="33" source="embassy" target="emancipate" weight="0.013158" />
+      <edge id="34" source="embassy" target="embarrassment" weight="0.005525" />
+      <edge id="35" source="embassy" target="embark" weight="0.023256" />
+      <edge id="36" source="embassy" target="embankment" weight="0.005682" />
+      <edge id="37" source="embassy" target="embody" weight="0.011429" />
+      <edge id="38" source="embassy" target="embodiment" weight="0.010753" />
+      <edge id="39" source="embassy" target="eminence" weight="0.006098" />
+      <edge id="40" source="embassy" target="employment" weight="0.012821" />
+      <edge id="41" source="embassy" target="emit" weight="0.013514" />
+      <edge id="42" source="embezzle" target="emergency" weight="0.011236" />
+      <edge id="43" source="embezzle" target="employable" weight="0.013333" />
+      <edge id="44" source="embezzle" target="embellish" weight="0.008403" />
+      <edge id="45" source="embezzle" target="employ" weight="0.016667" />
+      <edge id="46" source="embezzle" target="embarrassment" weight="0.006061" />
+      <edge id="47" source="embezzle" target="embrace" weight="0.004219" />
+      <edge id="48" source="embezzle" target="emend" weight="0.021978" />
+      <edge id="49" source="embezzle" target="eminence" weight="0.006757" />
+      <edge id="50" source="embezzle" target="employment" weight="0.014286" />
+      <edge id="51" source="embezzle" target="embroider" weight="0.009346" />
+      <edge id="52" source="emulsion" target="embarrassment" weight="0.007874" />
+      <edge id="53" source="emulsion" target="embrace" weight="0.005025" />
+      <edge id="54" source="emaciated" target="embarrassed" weight="0.019231" />
+      <edge id="55" source="emaciated" target="emaciate" weight="0.040816" />
+      <edge id="56" source="emaciated" target="embryonic" weight="0.007246" />
+      <edge id="57" source="emaciated" target="empty" weight="0.00823" />
+      <edge id="58" source="embittered" target="embarrassed" weight="0.007576" />
+      <edge id="59" source="embittered" target="emphatic" weight="0.011111" />
+      <edge id="60" source="embittered" target="eminent" weight="0.005291" />
+      <edge id="61" source="embittered" target="embellished" weight="0.006897" />
+      <edge id="62" source="empiricism" target="eminence" weight="0.008696" />
+      <edge id="63" source="empiricism" target="emptiness" weight="0.009091" />
+      <edge id="64" source="empiricism" target="empirical" weight="0.045455" />
+      <edge id="65" source="empiricism" target="empire" weight="0.013514" />
+      <edge id="66" source="employer" target="emir" weight="0.035714" />
+      <edge id="67" source="employer" target="eminence" weight="0.008197" />
+      <edge id="68" source="employer" target="embossment" weight="0.015385" />
+      <edge id="69" source="employer" target="emperor" weight="0.088235" />
+      <edge id="70" source="emend" target="eminent" weight="0.00578" />
+      <edge id="71" source="emend" target="embellish" weight="0.026786" />
+      <edge id="72" source="emend" target="embrace" weight="0.008658" />
+      <edge id="73" source="emend" target="eminence" weight="0.021277" />
+      <edge id="74" source="emend" target="emit" weight="0.007813" />
+      <edge id="75" source="emend" target="embroider" weight="0.019802" />
+      <edge id="76" source="employee" target="employed" weight="0.025641" />
+      <edge id="77" source="employee" target="empire" weight="0.011364" />
+      <edge id="78" source="employee" target="emigrant" weight="0.020833" />
+      <edge id="79" source="employed" target="employ" weight="0.012195" />
+      <edge id="80" source="employed" target="employment" weight="0.009804" />
+      <edge id="81" source="employed" target="empty" weight="0.004525" />
+      <edge id="82" source="embossed" target="embrace" weight="0.004739" />
+      <edge id="83" source="embossed" target="eminent" weight="0.006579" />
+      <edge id="84" source="emphatically" target="eminently" weight="0.756098" />
+      <edge id="85" source="emergency" target="embellishment" weight="0.010753" />
+      <edge id="86" source="emergency" target="emergent" weight="0.013699" />
+      <edge id="87" source="emergency" target="employ" weight="0.00885" />
+      <edge id="88" source="emergency" target="embarrassment" weight="0.060403" />
+      <edge id="89" source="emergency" target="emphasis" weight="0.011111" />
+      <edge id="90" source="emergency" target="embrace" weight="0.017699" />
+      <edge id="91" source="emergency" target="emphasize" weight="0.018868" />
+      <edge id="92" source="emergency" target="eminence" weight="0.007143" />
+      <edge id="93" source="emergency" target="emit" weight="0.008" />
+      <edge id="94" source="embark" target="emporium" weight="0.022727" />
+      <edge id="95" source="embark" target="emissary" weight="0.045455" />
+      <edge id="96" source="embark" target="embarrassment" weight="0.007194" />
+      <edge id="97" source="embark" target="embody" weight="0.007463" />
+      <edge id="98" source="embark" target="emit" weight="0.009346" />
+      <edge id="99" source="emergence" target="emerge" weight="0.030303" />
+      <edge id="100" source="emergence" target="emanation" weight="0.077922" />
+      <edge id="101" source="emergence" target="emission" weight="0.098361" />
+      <edge id="102" source="emergence" target="emanate" weight="0.012821" />
+      <edge id="103" source="emergence" target="emancipate" weight="0.054545" />
+      <edge id="104" source="emergence" target="eminence" weight="0.013889" />
+      <edge id="105" source="emergence" target="emptiness" weight="0.007143" />
+      <edge id="106" source="emergence" target="emit" weight="0.023438" />
+      <edge id="107" source="embroider" target="embellishment" weight="0.056604" />
+      <edge id="108" source="embroider" target="embitter" weight="0.017241" />
+      <edge id="109" source="embroider" target="embrocate" weight="0.013699" />
+      <edge id="110" source="embroider" target="embellish" weight="0.756757" />
+      <edge id="111" source="embroider" target="embody" weight="0.011834" />
+      <edge id="112" source="embroider" target="embossment" weight="0.009901" />
+      <edge id="113" source="embroider" target="embrace" weight="0.004049" />
+      <edge id="114" source="embroider" target="embroidery" weight="0.068493" />
+      <edge id="115" source="embroider" target="embarrass" weight="0.007519" />
+      <edge id="116" source="embroider" target="emit" weight="0.006993" />
+      <edge id="117" source="embankment" target="emplacement" weight="0.006098" />
+      <edge id="118" source="embankment" target="embargo" weight="0.006061" />
+      <edge id="119" source="embankment" target="embodiment" weight="0.004274" />
+      <edge id="120" source="embankment" target="embattle" weight="0.024194" />
+      <edge id="121" source="embankment" target="eminent" weight="0.004149" />
+      <edge id="122" source="embankment" target="emanate" weight="0.006944" />
+      <edge id="123" source="embankment" target="employ" weight="0.005435" />
+      <edge id="124" source="embankment" target="embarrassment" weight="0.004386" />
+      <edge id="125" source="embankment" target="emulsify" weight="0.006623" />
+      <edge id="126" source="embankment" target="embrace" weight="0.006689" />
+      <edge id="127" source="embankment" target="embed" weight="0.006803" />
+      <edge id="128" source="embankment" target="employment" weight="0.014851" />
+      <edge id="129" source="embryonic" target="embarrassed" weight="0.005618" />
+      <edge id="130" source="emote" target="employ" weight="0.011364" />
+      <edge id="131" source="emote" target="emerge" weight="0.027027" />
+      <edge id="132" source="emote" target="emotionalize" weight="0.882353" />
+      <edge id="133" source="emote" target="embody" weight="0.007874" />
+      <edge id="134" source="emote" target="emphasize" weight="0.035714" />
+      <edge id="135" source="emanate" target="emerge" weight="0.25" />
+      <edge id="136" source="emanate" target="emanation" weight="0.044776" />
+      <edge id="137" source="emanate" target="emission" weight="0.038462" />
+      <edge id="138" source="emanate" target="emptiness" weight="0.015873" />
+      <edge id="139" source="emanate" target="emit" weight="0.053571" />
+      <edge id="140" source="emanate" target="empty" weight="0.004098" />
+      <edge id="141" source="empire" target="emplacement" weight="0.009009" />
+      <edge id="142" source="empire" target="embrace" weight="0.004049" />
+      <edge id="143" source="empire" target="eminence" weight="0.046053" />
+      <edge id="144" source="empire" target="emperor" weight="0.028169" />
+      <edge id="145" source="empire" target="employment" weight="0.006623" />
+      <edge id="146" source="emptiness" target="emplacement" weight="0.006803" />
+      <edge id="147" source="emptiness" target="emerge" weight="0.008621" />
+      <edge id="148" source="emptiness" target="embitter" weight="0.006536" />
+      <edge id="149" source="emptiness" target="embroilment" weight="0.019048" />
+      <edge id="150" source="emptiness" target="emotionalism" weight="0.007874" />
+      <edge id="151" source="emptiness" target="embarrassment" weight="0.004739" />
+      <edge id="152" source="emptiness" target="emphasis" weight="0.006944" />
+      <edge id="153" source="emptiness" target="employment" weight="0.010753" />
+      <edge id="154" source="emptiness" target="emit" weight="0.005587" />
+      <edge id="155" source="emptiness" target="empty" weight="0.003268" />
+      <edge id="156" source="employment" target="emporium" weight="0.008772" />
+      <edge id="157" source="employment" target="emplacement" weight="0.020979" />
+      <edge id="158" source="employment" target="empathy" weight="0.006993" />
+      <edge id="159" source="employment" target="emissary" weight="0.008696" />
+      <edge id="160" source="employment" target="employ" weight="0.257576" />
+      <edge id="161" source="employment" target="embarrassment" weight="0.009615" />
+      <edge id="162" source="employment" target="emotionalize" weight="0.018692" />
+      <edge id="163" source="embodied" target="embody" weight="0.00885" />
+      <edge id="164" source="embellishment" target="emanation" weight="0.011236" />
+      <edge id="165" source="embellishment" target="embellish" weight="0.050847" />
+      <edge id="166" source="embellishment" target="embalming" weight="0.014706" />
+      <edge id="167" source="embellishment" target="embody" weight="0.01227" />
+      <edge id="168" source="eminent" target="eminence" weight="0.013216" />
+      <edge id="169" source="eminent" target="empowered" weight="0.26087" />
+      <edge id="170" source="eminent" target="emit" weight="0.004673" />
+      <edge id="171" source="eminent" target="embossment" weight="0.005814" />
+      <edge id="172" source="eminent" target="emphatic" weight="0.00625" />
+      <edge id="173" source="eminent" target="empty" weight="0.002933" />
+      <edge id="174" source="emphysema" target="emasculated" weight="0.026316" />
+      <edge id="175" source="emphysema" target="emotionless" weight="0.033333" />
+      <edge id="176" source="emphysema" target="empty" weight="0.004444" />
+      <edge id="177" source="embroidery" target="embody" weight="0.015504" />
+      <edge id="178" source="embroidery" target="embellish" weight="0.058824" />
+      <edge id="179" source="embroidery" target="emanation" weight="0.018182" />
+      <edge id="180" source="emplacement" target="ember" weight="0.012821" />
+      <edge id="181" source="emplacement" target="embarrassment" weight="0.005917" />
+      <edge id="182" source="embroilment" target="empathy" weight="0.011905" />
+      <edge id="183" source="embroilment" target="emanation" weight="0.006452" />
+      <edge id="184" source="embroilment" target="embattle" weight="0.007519" />
+      <edge id="185" source="embroilment" target="embarrassed" weight="0.005236" />
+      <edge id="186" source="embroilment" target="embarrassment" weight="0.063063" />
+      <edge id="187" source="embroilment" target="emit" weight="0.004926" />
+      <edge id="188" source="empower" target="emporium" weight="0.017544" />
+      <edge id="189" source="empower" target="emissary" weight="0.035088" />
+      <edge id="190" source="empower" target="embattle" weight="0.02" />
+      <edge id="191" source="empower" target="embarrassment" weight="0.006579" />
+      <edge id="192" source="empower" target="embrace" weight="0.008969" />
+      <edge id="193" source="empower" target="emancipate" weight="0.021277" />
+      <edge id="194" source="embarrassment" target="embarrassed" weight="0.005291" />
+      <edge id="195" source="embarrassment" target="embrace" weight="0.013245" />
+      <edge id="196" source="embarrassment" target="eminence" weight="0.00463" />
+      <edge id="197" source="embarrassment" target="embodiment" weight="0.004184" />
+      <edge id="198" source="embarrassment" target="emphasis" weight="0.006024" />
+      <edge id="199" source="embarrassment" target="empty" weight="0.003049" />
+      <edge id="200" source="embarrassment" target="embitter" weight="0.005714" />
+      <edge id="201" source="embarrassment" target="embalm" weight="0.007042" />
+      <edge id="202" source="embarrassment" target="embarrass" weight="0.122807" />
+      <edge id="203" source="embarrassment" target="emasculate" weight="0.013793" />
+      <edge id="204" source="embarrassment" target="emulsify" weight="0.019481" />
+      <edge id="205" source="embarrassment" target="employ" weight="0.005291" />
+      <edge id="206" source="embarrassment" target="embody" weight="0.004386" />
+      <edge id="207" source="embarrassment" target="embed" weight="0.02" />
+      <edge id="208" source="embarrassment" target="emit" weight="0.004975" />
+      <edge id="209" source="emulsify" target="employ" weight="0.008929" />
+      <edge id="210" source="emulsify" target="embody" weight="0.070423" />
+      <edge id="211" source="emulsify" target="embrace" weight="0.022321" />
+      <edge id="212" source="embarrass" target="embarrassed" weight="0.006803" />
+      <edge id="213" source="embarrass" target="empathy" weight="0.008" />
+      <edge id="214" source="embarrass" target="embellish" weight="0.006897" />
+      <edge id="215" source="embarrass" target="employ" weight="0.02069" />
+      <edge id="216" source="embarrass" target="emasculated" weight="0.010101" />
+      <edge id="217" source="embarrass" target="embrace" weight="0.003802" />
+      <edge id="218" source="embarrass" target="embody" weight="0.010811" />
+      <edge id="219" source="emigrant" target="employ" weight="0.010989" />
+      <edge id="220" source="emigrant" target="emigrate" weight="0.074074" />
+      <edge id="221" source="emasculate" target="emasculated" weight="0.037736" />
+      <edge id="222" source="emasculate" target="emit" weight="0.008772" />
+      <edge id="223" source="empathy" target="embodiment" weight="0.023529" />
+      <edge id="224" source="empathy" target="emotionalism" weight="0.02439" />
+      <edge id="225" source="empathy" target="employ" weight="0.00813" />
+      <edge id="226" source="empathy" target="emphasis" weight="0.01" />
+      <edge id="227" source="empathy" target="embrace" weight="0.004184" />
+      <edge id="228" source="empathy" target="empathetic" weight="0.011494" />
+      <edge id="229" source="emperor" target="eminence" weight="0.017857" />
+      <edge id="230" source="emcee" target="embrace" weight="0.004651" />
+      <edge id="231" source="emporium" target="emerge" weight="0.023256" />
+      <edge id="232" source="emporium" target="emissary" weight="0.022727" />
+      <edge id="233" source="emporium" target="embody" weight="0.007519" />
+      <edge id="234" source="emerge" target="emanation" weight="0.017241" />
+      <edge id="235" source="emerge" target="eminence" weight="0.008264" />
+      <edge id="236" source="emerge" target="emission" weight="0.02381" />
+      <edge id="237" source="emerge" target="embellish" weight="0.01087" />
+      <edge id="238" source="emerge" target="emit" weight="0.028846" />
+      <edge id="239" source="emerge" target="embody" weight="0.022901" />
+      <edge id="240" source="emerge" target="emotionalize" weight="0.027027" />
+      <edge id="241" source="emotive" target="emotional" weight="0.177778" />
+      <edge id="242" source="embossment" target="emanation" weight="0.012658" />
+      <edge id="243" source="embossment" target="emission" weight="0.015873" />
+      <edge id="244" source="embossment" target="embellish" weight="0.017857" />
+      <edge id="245" source="embossment" target="eminence" weight="0.067164" />
+      <edge id="246" source="eminence" target="emanation" weight="0.007353" />
+      <edge id="247" source="eminence" target="embody" weight="0.004739" />
+      <edge id="248" source="eminence" target="emission" weight="0.008333" />
+      <edge id="249" source="eminence" target="emphasis" weight="0.071429" />
+      <edge id="250" source="eminence" target="embrace" weight="0.006969" />
+      <edge id="251" source="eminence" target="emit" weight="0.010929" />
+      <edge id="252" source="emigrate" target="embody" weight="0.008264" />
+      <edge id="253" source="empathetic" target="emotional" weight="0.106061" />
+      <edge id="254" source="empathetic" target="embellished" weight="0.008197" />
+      <edge id="255" source="embalming" target="emanation" weight="0.019231" />
+      <edge id="256" source="empty" target="embarrassing" weight="0.004367" />
+      <edge id="257" source="empty" target="emanation" weight="0.008097" />
+      <edge id="258" source="empty" target="embroidered" weight="0.003774" />
+      <edge id="259" source="empty" target="emasculated" weight="0.004237" />
+      <edge id="260" source="empty" target="emotionless" weight="0.008811" />
+      <edge id="261" source="empty" target="emancipate" weight="0.004484" />
+      <edge id="262" source="empty" target="emission" weight="0.02193" />
+      <edge id="263" source="empty" target="emotionalize" weight="0.004405" />
+      <edge id="264" source="empty" target="emit" weight="0.034843" />
+      <edge id="265" source="empty" target="embellished" weight="0.003367" />
+      <edge id="266" source="emblem" target="employ" weight="0.009901" />
+      <edge id="267" source="emblem" target="embody" weight="0.007143" />
+      <edge id="268" source="emblem" target="embrace" weight="0.004608" />
+      <edge id="269" source="embattle" target="embargo" weight="0.014706" />
+      <edge id="270" source="embattle" target="embed" weight="0.02" />
+      <edge id="271" source="emission" target="emanation" weight="0.115385" />
+      <edge id="272" source="emission" target="emptying" weight="0.023256" />
+      <edge id="273" source="emission" target="emergent" weight="0.018868" />
+      <edge id="274" source="emission" target="emancipate" weight="0.03125" />
+      <edge id="275" source="emission" target="embody" weight="0.007576" />
+      <edge id="276" source="emission" target="emit" weight="0.039216" />
+      <edge id="277" source="embellish" target="embalm" weight="0.010417" />
+      <edge id="278" source="embellish" target="embitter" weight="0.015625" />
+      <edge id="279" source="embellish" target="embrocate" weight="0.011765" />
+      <edge id="280" source="embellish" target="embody" weight="0.016667" />
+      <edge id="281" source="embellish" target="embrace" weight="0.003861" />
+      <edge id="282" source="embellish" target="emit" weight="0.006452" />
+      <edge id="283" source="emergent" target="emanation" weight="0.014493" />
+      <edge id="284" source="emasculated" target="emotionless" weight="0.05" />
+      <edge id="285" source="emeritus" target="embrace" weight="0.005102" />
+      <edge id="286" source="emancipate" target="emanation" weight="0.020833" />
+      <edge id="287" source="emancipate" target="emit" weight="0.031915" />
+      <edge id="288" source="emancipate" target="emancipated" weight="0.076923" />
+      <edge id="289" source="ember" target="emit" weight="0.009091" />
+      <edge id="290" source="employ" target="emulate" weight="0.012346" />
+      <edge id="291" source="employ" target="embody" weight="0.005435" />
+      <edge id="292" source="employ" target="emaciate" weight="0.011111" />
+      <edge id="293" source="employ" target="emphasis" weight="0.016529" />
+      <edge id="294" source="employ" target="embrace" weight="0.007692" />
+      <edge id="295" source="employ" target="emotionalize" weight="0.011364" />
+      <edge id="296" source="employ" target="emit" weight="0.006369" />
+      <edge id="297" source="embody" target="emanation" weight="0.006757" />
+      <edge id="298" source="embody" target="embrace" weight="0.106618" />
+      <edge id="299" source="embody" target="emotionalize" weight="0.007874" />
+      <edge id="300" source="embody" target="embodiment" weight="0.030702" />
+      <edge id="301" source="embody" target="emphasize" weight="0.01626" />
+      <edge id="302" source="embody" target="emissary" weight="0.007463" />
+      <edge id="303" source="embody" target="embed" weight="0.027778" />
+      <edge id="304" source="embody" target="emit" weight="0.020725" />
+      <edge id="305" source="emotional" target="emphatic" weight="0.063492" />
+      <edge id="306" source="embed" target="embrace" weight="0.036866" />
+      <edge id="307" source="emit" target="emanation" weight="0.033898" />
+      <edge id="308" source="emit" target="embrace" weight="0.01107" />
+      <edge id="309" source="emit" target="emancipated" weight="0.01" />
+      <edge id="310" source="emit" target="embalm" weight="0.04717" />
+      <edge id="311" source="emit" target="emissary" weight="0.009346" />
+      <edge id="312" source="emanation" target="embalm" weight="0.032787" />
+      <edge id="313" source="emanation" target="emphasize" weight="0.020408" />
+      <edge id="314" source="embroidered" target="embodiment" weight="0.005682" />
+      <edge id="315" source="embroidered" target="embellished" weight="0.609195" />
+      <edge id="316" source="embrace" target="embodiment" weight="0.016287" />
+      <edge id="317" source="embrace" target="emulate" weight="0.005076" />
+      <edge id="318" source="emotionalize" target="embodiment" weight="0.007246" />
+      <edge id="319" source="emotionalize" target="emphasize" weight="0.035714" />
+      <edge id="320" source="embodiment" target="embellished" weight="0.004808" />
+      <edge id="321" source="empowered" target="emphatic" weight="0.013514" />
+      <edge id="322" source="emphasis" target="emphasize" weight="0.032787" />
+    </edges>
+  </graph>
+</gexf>

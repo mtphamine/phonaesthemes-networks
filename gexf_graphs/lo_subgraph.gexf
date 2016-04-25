@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="load" label="load" />
+      <node id="lookout" label="lookout" />
+      <node id="loaf" label="loaf" />
+      <node id="love" label="love" />
+      <node id="locale" label="locale" />
+      <node id="lollygag" label="lollygag" />
+      <node id="loosen" label="loosen" />
+      <node id="locus" label="locus" />
+      <node id="lovable" label="lovable" />
+      <node id="lonely" label="lonely" />
+      <node id="lobster" label="lobster" />
+      <node id="lowly" label="lowly" />
+      <node id="loiterer" label="loiterer" />
+      <node id="localize" label="localize" />
+      <node id="lounging" label="lounging" />
+      <node id="logogram" label="logogram" />
+      <node id="lolling" label="lolling" />
+      <node id="loading" label="loading" />
+      <node id="logotype" label="logotype" />
+      <node id="locality" label="locality" />
+      <node id="lowest" label="lowest" />
+      <node id="lone" label="lone" />
+      <node id="loosening" label="loosening" />
+      <node id="loll" label="loll" />
+      <node id="lounge" label="lounge" />
+      <node id="lodestone" label="lodestone" />
+      <node id="lop" label="lop" />
+      <node id="location" label="location" />
+      <node id="lot" label="lot" />
+      <node id="lodge" label="lodge" />
+      <node id="lowered" label="lowered" />
+      <node id="lovely" label="lovely" />
+      <node id="local" label="local" />
+      <node id="lollygagging" label="lollygagging" />
+      <node id="low" label="low" />
+      <node id="locate" label="locate" />
+      <node id="lowering" label="lowering" />
+      <node id="lobbying" label="lobbying" />
+      <node id="loveless" label="loveless" />
+      <node id="looby" label="looby" />
+      <node id="loose" label="loose" />
+      <node id="lobbyist" label="lobbyist" />
+      <node id="looseness" label="looseness" />
+      <node id="looming" label="looming" />
+      <node id="loony" label="loony" />
+      <node id="loafer" label="loafer" />
+      <node id="lodestar" label="lodestar" />
+      <node id="lover" label="lover" />
+      <node id="lounger" label="lounger" />
+      <node id="loving" label="loving" />
+      <node id="logrolling" label="logrolling" />
+      <node id="lobby" label="lobby" />
+      <node id="loon" label="loon" />
+      <node id="lower" label="lower" />
+      <node id="loom" label="loom" />
+      <node id="lovelorn" label="lovelorn" />
+      <node id="looker" label="looker" />
+      <node id="loophole" label="loophole" />
+      <node id="loneliness" label="loneliness" />
+      <node id="lout" label="lout" />
+      <node id="loathsome" label="loathsome" />
+      <node id="loitering" label="loitering" />
+      <node id="lousy" label="lousy" />
+      <node id="loudly" label="loudly" />
+      <node id="lonesomeness" label="lonesomeness" />
+      <node id="loiter" label="loiter" />
+      <node id="lonesome" label="lonesome" />
+      <node id="lovesick" label="lovesick" />
+      <node id="lovemaking" label="lovemaking" />
+      <node id="loud" label="loud" />
+      <node id="loop" label="loop" />
+      <node id="locating" label="locating" />
+    </nodes>
+    <edges>
+      <edge id="0" source="load" target="loading" />
+      <edge id="1" source="lookout" target="loophole" />
+      <edge id="2" source="loaf" target="lounge" />
+      <edge id="3" source="loaf" target="loll" />
+      <edge id="4" source="loaf" target="loiter" />
+      <edge id="5" source="love" target="lovemaking" />
+      <edge id="6" source="love" target="lover" />
+      <edge id="7" source="locale" target="locality" />
+      <edge id="8" source="locale" target="location" />
+      <edge id="9" source="locale" target="locus" />
+      <edge id="10" source="lollygag" target="loiter" />
+      <edge id="11" source="loosen" target="loose" />
+      <edge id="12" source="locus" target="location" />
+      <edge id="13" source="locus" target="locality" />
+      <edge id="14" source="lovable" target="lovely" />
+      <edge id="15" source="lonely" target="lonesome" />
+      <edge id="16" source="lonely" target="lone" />
+      <edge id="17" source="lobster" target="lout" />
+      <edge id="18" source="lobster" target="looby" />
+      <edge id="19" source="lowly" target="lowest" />
+      <edge id="20" source="lowly" target="lower" />
+      <edge id="21" source="lowly" target="low" />
+      <edge id="22" source="loiterer" target="loafer" />
+      <edge id="23" source="loiterer" target="lounger" />
+      <edge id="24" source="localize" target="locate" />
+      <edge id="25" source="lounging" target="lolling" />
+      <edge id="26" source="lounging" target="loitering" />
+      <edge id="27" source="logogram" target="logotype" />
+      <edge id="28" source="lolling" target="loitering" />
+      <edge id="29" source="loading" target="location" />
+      <edge id="30" source="loading" target="locating" />
+      <edge id="31" source="lowest" target="lower" />
+      <edge id="32" source="lowest" target="low" />
+      <edge id="33" source="lone" target="lonesome" />
+      <edge id="34" source="loosening" target="looseness" />
+      <edge id="35" source="loll" target="lounge" />
+      <edge id="36" source="loll" target="lop" />
+      <edge id="37" source="loll" target="loiter" />
+      <edge id="38" source="lounge" target="loiter" />
+      <edge id="39" source="lodestone" target="lodestar" />
+      <edge id="40" source="lop" target="loose" />
+      <edge id="41" source="location" target="locating" />
+      <edge id="42" source="location" target="lot" />
+      <edge id="43" source="lodge" target="local" />
+      <edge id="44" source="lowered" target="lower" />
+      <edge id="45" source="lowered" target="low" />
+      <edge id="46" source="lovely" target="looker" />
+      <edge id="47" source="lollygagging" target="loitering" />
+      <edge id="48" source="low" target="lower" />
+      <edge id="49" source="lowering" target="lower" />
+      <edge id="50" source="lowering" target="looming" />
+      <edge id="51" source="lobbying" target="logrolling" />
+      <edge id="52" source="loveless" target="lovelorn" />
+      <edge id="53" source="looby" target="loon" />
+      <edge id="54" source="looby" target="lout" />
+      <edge id="55" source="lobbyist" target="lobby" />
+      <edge id="56" source="loony" target="loon" />
+      <edge id="57" source="loafer" target="lounger" />
+      <edge id="58" source="loving" target="lovesick" />
+      <edge id="59" source="loving" target="lovelorn" />
+      <edge id="60" source="lower" target="loom" />
+      <edge id="61" source="loom" target="loop" />
+      <edge id="62" source="lovelorn" target="lovesick" />
+      <edge id="63" source="loophole" target="loop" />
+      <edge id="64" source="loneliness" target="lonesomeness" />
+      <edge id="65" source="loathsome" target="lousy" />
+      <edge id="66" source="loudly" target="loud" />
+    </edges>
+  </graph>
+</gexf>

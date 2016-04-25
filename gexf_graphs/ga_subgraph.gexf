@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="gape" label="gape" />
+      <node id="garbage" label="garbage" />
+      <node id="gaudy" label="gaudy" />
+      <node id="gaggle" label="gaggle" />
+      <node id="garment" label="garment" />
+      <node id="garb" label="garb" />
+      <node id="gadfly" label="gadfly" />
+      <node id="garner" label="garner" />
+      <node id="gaunt" label="gaunt" />
+      <node id="gabby" label="gabby" />
+      <node id="gang" label="gang" />
+      <node id="gab" label="gab" />
+      <node id="garrulous" label="garrulous" />
+      <node id="gall" label="gall" />
+      <node id="gateway" label="gateway" />
+      <node id="garden" label="garden" />
+      <node id="gallant" label="gallant" />
+      <node id="ganja" label="ganja" />
+      <node id="gawky" label="gawky" />
+      <node id="gaudiness" label="gaudiness" />
+      <node id="garland" label="garland" />
+      <node id="gatepost" label="gatepost" />
+      <node id="gallery" label="gallery" />
+      <node id="gage" label="gage" />
+      <node id="gaze" label="gaze" />
+      <node id="gadabout" label="gadabout" />
+      <node id="gate" label="gate" />
+      <node id="gaping" label="gaping" />
+      <node id="garnish" label="garnish" />
+      <node id="gazebo" label="gazebo" />
+      <node id="gamble" label="gamble" />
+      <node id="garish" label="garish" />
+      <node id="gash" label="gash" />
+      <node id="gait" label="gait" />
+      <node id="gaseous" label="gaseous" />
+      <node id="gains" label="gains" />
+      <node id="gay" label="gay" />
+      <node id="gasser" label="gasser" />
+      <node id="gat" label="gat" />
+      <node id="gas" label="gas" />
+      <node id="gamy" label="gamy" />
+      <node id="gap" label="gap" />
+      <node id="garments" label="garments" />
+      <node id="game" label="game" />
+      <node id="garnishment" label="garnishment" />
+      <node id="gain" label="gain" />
+      <node id="gangling" label="gangling" />
+      <node id="gauntlet" label="gauntlet" />
+      <node id="gad" label="gad" />
+      <node id="gaslike" label="gaslike" />
+      <node id="gallivant" label="gallivant" />
+      <node id="gauche" label="gauche" />
+      <node id="gallop" label="gallop" />
+      <node id="gamesome" label="gamesome" />
+      <node id="gassy" label="gassy" />
+      <node id="gaiety" label="gaiety" />
+      <node id="gather" label="gather" />
+      <node id="gasoline" label="gasoline" />
+      <node id="gam" label="gam" />
+      <node id="gangplank" label="gangplank" />
+      <node id="gabble" label="gabble" />
+      <node id="gawk" label="gawk" />
+      <node id="games" label="games" />
+      <node id="gamecock" label="gamecock" />
+      <node id="gammon" label="gammon" />
+      <node id="gangway" label="gangway" />
+      <node id="gambit" label="gambit" />
+      <node id="gala" label="gala" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gape" target="gash" />
+      <edge id="1" source="gape" target="gat" />
+      <edge id="2" source="gape" target="gawk" />
+      <edge id="3" source="gape" target="gap" />
+      <edge id="4" source="gape" target="gaze" />
+      <edge id="5" source="gape" target="gaping" />
+      <edge id="6" source="garbage" target="gash" />
+      <edge id="7" source="gaudy" target="garish" />
+      <edge id="8" source="gaggle" target="gabble" />
+      <edge id="9" source="garment" target="garb" />
+      <edge id="10" source="garb" target="garments" />
+      <edge id="11" source="gadfly" target="gad" />
+      <edge id="12" source="garner" target="gather" />
+      <edge id="13" source="gaunt" target="gangling" />
+      <edge id="14" source="gaunt" target="gawky" />
+      <edge id="15" source="gabby" target="gassy" />
+      <edge id="16" source="gabby" target="garrulous" />
+      <edge id="17" source="gang" target="gam" />
+      <edge id="18" source="gab" target="gas" />
+      <edge id="19" source="gab" target="gabble" />
+      <edge id="20" source="garrulous" target="gassy" />
+      <edge id="21" source="gall" target="gash" />
+      <edge id="22" source="gateway" target="gate" />
+      <edge id="23" source="gateway" target="gatepost" />
+      <edge id="24" source="garden" target="garland" />
+      <edge id="25" source="gallant" target="gay" />
+      <edge id="26" source="gallant" target="gamecock" />
+      <edge id="27" source="ganja" target="gage" />
+      <edge id="28" source="gawky" target="gangling" />
+      <edge id="29" source="gawky" target="gauche" />
+      <edge id="30" source="gaudiness" target="gaiety" />
+      <edge id="31" source="gatepost" target="gate" />
+      <edge id="32" source="gallery" target="gazebo" />
+      <edge id="33" source="gage" target="gauntlet" />
+      <edge id="34" source="gaze" target="gawk" />
+      <edge id="35" source="gadabout" target="gad" />
+      <edge id="36" source="gate" target="gains" />
+      <edge id="37" source="garnish" target="garnishment" />
+      <edge id="38" source="gamble" target="game" />
+      <edge id="39" source="gash" target="gap" />
+      <edge id="40" source="gait" target="gallop" />
+      <edge id="41" source="gaseous" target="gaslike" />
+      <edge id="42" source="gaseous" target="gassy" />
+      <edge id="43" source="gains" target="gain" />
+      <edge id="44" source="gay" target="gala" />
+      <edge id="45" source="gay" target="gamesome" />
+      <edge id="46" source="gasser" target="gas" />
+      <edge id="47" source="gat" target="gap" />
+      <edge id="48" source="gas" target="gasoline" />
+      <edge id="49" source="gas" target="gabble" />
+      <edge id="50" source="gamy" target="game" />
+      <edge id="51" source="game" target="gambit" />
+      <edge id="52" source="game" target="games" />
+      <edge id="53" source="gad" target="gallivant" />
+      <edge id="54" source="gaslike" target="gassy" />
+      <edge id="55" source="gangplank" target="gangway" />
+      <edge id="56" source="gabble" target="gammon" />
+    </edges>
+  </graph>
+</gexf>

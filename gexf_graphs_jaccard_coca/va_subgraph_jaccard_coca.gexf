@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="valedictory" label="valedictory">
+        <attvalues>
+          <attvalue for="0" value="1.9731278536" />
+        </attvalues>
+      </node>
+      <node id="varsity" label="varsity">
+        <attvalues>
+          <attvalue for="0" value="3.18920948958" />
+        </attvalues>
+      </node>
+      <node id="vacillation" label="vacillation">
+        <attvalues>
+          <attvalue for="0" value="1.90848501888" />
+        </attvalues>
+      </node>
+      <node id="variegate" label="variegate">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="vain" label="vain" />
+      <node id="vacillating" label="vacillating" />
+      <node id="vary" label="vary" />
+      <node id="vagabond" label="vagabond" />
+      <node id="vacation" label="vacation" />
+      <node id="vacancy" label="vacancy" />
+      <node id="vagueness" label="vagueness">
+        <attvalues>
+          <attvalue for="0" value="2.47712125472" />
+        </attvalues>
+      </node>
+      <node id="value" label="value">
+        <attvalues>
+          <attvalue for="0" value="4.71380124229" />
+        </attvalues>
+      </node>
+      <node id="vanquish" label="vanquish" />
+      <node id="vastly" label="vastly" />
+      <node id="vamp" label="vamp">
+        <attvalues>
+          <attvalue for="0" value="2.40312052118" />
+        </attvalues>
+      </node>
+      <node id="vaulting" label="vaulting">
+        <attvalues>
+          <attvalue for="0" value="2.29003461136" />
+        </attvalues>
+      </node>
+      <node id="vastness" label="vastness">
+        <attvalues>
+          <attvalue for="0" value="2.64542226935" />
+        </attvalues>
+      </node>
+      <node id="vanish" label="vanish">
+        <attvalues>
+          <attvalue for="0" value="3.20139712432" />
+        </attvalues>
+      </node>
+      <node id="vandal" label="vandal" />
+      <node id="vampire" label="vampire" />
+      <node id="valiant" label="valiant" />
+      <node id="vagrancy" label="vagrancy" />
+      <node id="varnish" label="varnish" />
+      <node id="validated" label="validated">
+        <attvalues>
+          <attvalue for="0" value="3.14798532068" />
+        </attvalues>
+      </node>
+      <node id="van" label="van">
+        <attvalues>
+          <attvalue for="0" value="4.41542411208" />
+        </attvalues>
+      </node>
+      <node id="varied" label="varied">
+        <attvalues>
+          <attvalue for="0" value="3.8609366207" />
+        </attvalues>
+      </node>
+      <node id="vaudevillian" label="vaudevillian">
+        <attvalues>
+          <attvalue for="0" value="1.75587485567" />
+        </attvalues>
+      </node>
+      <node id="variety" label="variety" />
+      <node id="vacuous" label="vacuous" />
+      <node id="vacuum" label="vacuum">
+        <attvalues>
+          <attvalue for="0" value="3.73965144371" />
+        </attvalues>
+      </node>
+      <node id="valve" label="valve">
+        <attvalues>
+          <attvalue for="0" value="3.40191725052" />
+        </attvalues>
+      </node>
+      <node id="vagrant" label="vagrant">
+        <attvalues>
+          <attvalue for="0" value="2.33243845992" />
+        </attvalues>
+      </node>
+      <node id="vanguard" label="vanguard">
+        <attvalues>
+          <attvalue for="0" value="3.25017594808" />
+        </attvalues>
+      </node>
+      <node id="vacate" label="vacate" />
+      <node id="valorous" label="valorous" />
+      <node id="valid" label="valid" />
+      <node id="various" label="various">
+        <attvalues>
+          <attvalue for="0" value="4.69596298623" />
+        </attvalues>
+      </node>
+      <node id="vast" label="vast">
+        <attvalues>
+          <attvalue for="0" value="4.2831428633" />
+        </attvalues>
+      </node>
+      <node id="vandalism" label="vandalism" />
+      <node id="valor" label="valor" />
+      <node id="vainglory" label="vainglory">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="vacuity" label="vacuity">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="valley" label="valley" />
+      <node id="vat" label="vat" />
+      <node id="variability" label="variability" />
+      <node id="variegation" label="variegation" />
+      <node id="valueless" label="valueless">
+        <attvalues>
+          <attvalue for="0" value="1.91907809238" />
+        </attvalues>
+      </node>
+      <node id="vandalize" label="vandalize" />
+      <node id="vassal" label="vassal" />
+      <node id="vainglorious" label="vainglorious">
+        <attvalues>
+          <attvalue for="0" value="1.66275783168" />
+        </attvalues>
+      </node>
+      <node id="valetudinarian" label="valetudinarian" />
+      <node id="variant" label="variant">
+        <attvalues>
+          <attvalue for="0" value="3.12287092286" />
+        </attvalues>
+      </node>
+      <node id="variation" label="variation" />
+      <node id="valuate" label="valuate" />
+      <node id="vale" label="vale" />
+      <node id="varying" label="varying" />
+      <node id="variable" label="variable" />
+      <node id="vaporize" label="vaporize">
+        <attvalues>
+          <attvalue for="0" value="2.2121876044" />
+        </attvalues>
+      </node>
+      <node id="validate" label="validate">
+        <attvalues>
+          <attvalue for="0" value="3.0813473078" />
+        </attvalues>
+      </node>
+      <node id="vault" label="vault" />
+      <node id="vague" label="vague" />
+      <node id="vaccine" label="vaccine">
+        <attvalues>
+          <attvalue for="0" value="3.74772246204" />
+        </attvalues>
+      </node>
+      <node id="vanity" label="vanity">
+        <attvalues>
+          <attvalue for="0" value="3.41879829059" />
+        </attvalues>
+      </node>
+      <node id="vantage" label="vantage">
+        <attvalues>
+          <attvalue for="0" value="3.26481782301" />
+        </attvalues>
+      </node>
+      <node id="valued" label="valued">
+        <attvalues>
+          <attvalue for="0" value="3.71239713141" />
+        </attvalues>
+      </node>
+      <node id="vacillate" label="vacillate">
+        <attvalues>
+          <attvalue for="0" value="1.66275783168" />
+        </attvalues>
+      </node>
+      <node id="vaporous" label="vaporous">
+        <attvalues>
+          <attvalue for="0" value="1.97772360529" />
+        </attvalues>
+      </node>
+      <node id="vagary" label="vagary">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="vapid" label="vapid" />
+      <node id="vaudeville" label="vaudeville" />
+      <node id="vacant" label="vacant" />
+      <node id="vaguely" label="vaguely">
+        <attvalues>
+          <attvalue for="0" value="3.49803472369" />
+        </attvalues>
+      </node>
+      <node id="variegated" label="variegated">
+        <attvalues>
+          <attvalue for="0" value="2.65801139666" />
+        </attvalues>
+      </node>
+      <node id="vanished" label="vanished">
+        <attvalues>
+          <attvalue for="0" value="3.73830479307" />
+        </attvalues>
+      </node>
+      <node id="variform" label="variform" />
+      <node id="validity" label="validity">
+        <attvalues>
+          <attvalue for="0" value="3.86870320228" />
+        </attvalues>
+      </node>
+      <node id="vanishing" label="vanishing" />
+      <node id="varmint" label="varmint">
+        <attvalues>
+          <attvalue for="0" value="2.22271647115" />
+        </attvalues>
+      </node>
+      <node id="variance" label="variance">
+        <attvalues>
+          <attvalue for="0" value="3.7750276001" />
+        </attvalues>
+      </node>
+      <node id="vapor" label="vapor" />
+      <node id="vassalage" label="vassalage">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="vaunt" label="vaunt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="valedictory" target="vacate" weight="0.011765" />
+      <edge id="1" source="valedictory" target="valid" weight="0.007143" />
+      <edge id="2" source="valedictory" target="vacillate" weight="0.014493" />
+      <edge id="3" source="valedictory" target="vacation" weight="0.011494" />
+      <edge id="4" source="valedictory" target="value" weight="0.005208" />
+      <edge id="5" source="varsity" target="variety" weight="0.005236" />
+      <edge id="6" source="vacillation" target="variability" weight="0.052632" />
+      <edge id="7" source="vacillation" target="vagabond" weight="0.009804" />
+      <edge id="8" source="vacillation" target="variety" weight="0.010101" />
+      <edge id="9" source="vacillation" target="variegation" weight="0.030303" />
+      <edge id="10" source="vacillation" target="vacillating" weight="0.030612" />
+      <edge id="11" source="vacillation" target="vagrant" weight="0.017964" />
+      <edge id="12" source="vacillation" target="vacation" weight="0.012048" />
+      <edge id="13" source="vacillation" target="variation" weight="0.044554" />
+      <edge id="14" source="vacillation" target="variable" weight="0.018519" />
+      <edge id="15" source="vacillation" target="variform" weight="0.016393" />
+      <edge id="16" source="vacillation" target="various" weight="0.009615" />
+      <edge id="17" source="vacillation" target="variegated" weight="0.008475" />
+      <edge id="18" source="vacillation" target="varying" weight="0.010989" />
+      <edge id="19" source="vacillation" target="vagueness" weight="0.015873" />
+      <edge id="20" source="vacillation" target="variance" weight="0.012658" />
+      <edge id="21" source="vacillation" target="vague" weight="0.005556" />
+      <edge id="22" source="variegate" target="vacillate" weight="0.012658" />
+      <edge id="23" source="variegate" target="varnish" weight="0.004202" />
+      <edge id="24" source="variegate" target="variegated" weight="0.015267" />
+      <edge id="25" source="variegate" target="varied" weight="0.009615" />
+      <edge id="26" source="variegate" target="variety" weight="0.009434" />
+      <edge id="27" source="variegate" target="variegation" weight="0.012346" />
+      <edge id="28" source="variegate" target="variant" weight="0.010526" />
+      <edge id="29" source="variegate" target="vary" weight="0.055944" />
+      <edge id="30" source="variegate" target="value" weight="0.00495" />
+      <edge id="31" source="variegate" target="variform" weight="0.027027" />
+      <edge id="32" source="variegate" target="various" weight="0.017094" />
+      <edge id="33" source="variegate" target="variation" weight="0.004464" />
+      <edge id="34" source="variegate" target="varying" weight="0.019231" />
+      <edge id="35" source="variegate" target="variable" weight="0.011299" />
+      <edge id="36" source="variegate" target="variance" weight="0.010753" />
+      <edge id="37" source="variegate" target="validate" weight="0.009091" />
+      <edge id="38" source="variegate" target="valley" weight="0.009434" />
+      <edge id="39" source="vain" target="vaporous" weight="0.042735" />
+      <edge id="40" source="vain" target="vainglorious" weight="0.12" />
+      <edge id="41" source="vain" target="valueless" weight="0.019048" />
+      <edge id="42" source="vain" target="vacuum" weight="0.011111" />
+      <edge id="43" source="vain" target="vacuity" weight="0.025" />
+      <edge id="44" source="vain" target="vanity" weight="0.009009" />
+      <edge id="45" source="vacillating" target="varied" weight="0.007092" />
+      <edge id="46" source="vacillating" target="variant" weight="0.007576" />
+      <edge id="47" source="vacillating" target="vagrant" weight="0.372671" />
+      <edge id="48" source="vacillating" target="variegated" weight="0.082803" />
+      <edge id="49" source="vacillating" target="various" weight="0.090909" />
+      <edge id="50" source="vary" target="vacillate" weight="0.141791" />
+      <edge id="51" source="vary" target="vaporize" weight="0.005952" />
+      <edge id="52" source="vary" target="varied" weight="0.00565" />
+      <edge id="53" source="vary" target="variant" weight="0.005952" />
+      <edge id="54" source="vary" target="value" weight="0.007299" />
+      <edge id="55" source="vary" target="various" weight="0.010526" />
+      <edge id="56" source="vary" target="variegated" weight="0.009804" />
+      <edge id="57" source="vary" target="vamp" weight="0.010638" />
+      <edge id="58" source="vary" target="variance" weight="0.02454" />
+      <edge id="59" source="vary" target="vanish" weight="0.006757" />
+      <edge id="60" source="vagabond" target="vanish" weight="0.008772" />
+      <edge id="61" source="vagabond" target="vagrant" weight="0.327381" />
+      <edge id="62" source="vagabond" target="value" weight="0.004149" />
+      <edge id="63" source="vacation" target="vantage" weight="0.0125" />
+      <edge id="64" source="vacation" target="vaporize" weight="0.008696" />
+      <edge id="65" source="vacation" target="vaporous" weight="0.009434" />
+      <edge id="66" source="vacation" target="vacuum" weight="0.013333" />
+      <edge id="67" source="vacation" target="variance" weight="0.017857" />
+      <edge id="68" source="vacancy" target="value" weight="0.004902" />
+      <edge id="69" source="vacancy" target="vacuum" weight="0.234043" />
+      <edge id="70" source="vacancy" target="vagueness" weight="0.012658" />
+      <edge id="71" source="vacancy" target="variance" weight="0.010526" />
+      <edge id="72" source="vacancy" target="vacuity" weight="0.088889" />
+      <edge id="73" source="vacancy" target="vanity" weight="0.053333" />
+      <edge id="74" source="vagueness" target="variegation" weight="0.012346" />
+      <edge id="75" source="vagueness" target="variety" weight="0.009434" />
+      <edge id="76" source="vagueness" target="variability" weight="0.027778" />
+      <edge id="77" source="vagueness" target="variation" weight="0.008969" />
+      <edge id="78" source="vagueness" target="value" weight="0.00495" />
+      <edge id="79" source="vagueness" target="vandalism" weight="0.009804" />
+      <edge id="80" source="vagueness" target="vacuum" weight="0.018182" />
+      <edge id="81" source="vagueness" target="vapor" weight="0.014815" />
+      <edge id="82" source="vagueness" target="vague" weight="0.005155" />
+      <edge id="83" source="vagueness" target="vanity" weight="0.013158" />
+      <edge id="84" source="value" target="varnish" weight="0.01676" />
+      <edge id="85" source="value" target="van" weight="0.014778" />
+      <edge id="86" source="value" target="variety" weight="0.008929" />
+      <edge id="87" source="value" target="valid" weight="0.003636" />
+      <edge id="88" source="value" target="vandalism" weight="0.004405" />
+      <edge id="89" source="value" target="valor" weight="0.005814" />
+      <edge id="90" source="value" target="valley" weight="0.004329" />
+      <edge id="91" source="value" target="vaulting" weight="0.005464" />
+      <edge id="92" source="value" target="valuate" weight="0.230303" />
+      <edge id="93" source="value" target="variation" weight="0.008646" />
+      <edge id="94" source="value" target="validity" weight="0.11215" />
+      <edge id="95" source="value" target="validate" weight="0.012876" />
+      <edge id="96" source="value" target="vanity" weight="0.01" />
+      <edge id="97" source="value" target="vantage" weight="0.005405" />
+      <edge id="98" source="value" target="valued" weight="0.00565" />
+      <edge id="99" source="value" target="variegated" weight="0.003891" />
+      <edge id="100" source="value" target="vanguard" weight="0.004878" />
+      <edge id="101" source="value" target="vault" weight="0.003003" />
+      <edge id="102" source="value" target="vapor" weight="0.003831" />
+      <edge id="103" source="value" target="vaunt" weight="0.004505" />
+      <edge id="104" source="vanquish" target="vaporize" weight="0.013514" />
+      <edge id="105" source="vastly" target="vaguely" weight="0.111111" />
+      <edge id="106" source="vamp" target="varnish" weight="0.014599" />
+      <edge id="107" source="vamp" target="vassal" weight="0.018692" />
+      <edge id="108" source="vamp" target="vampire" weight="0.210526" />
+      <edge id="109" source="vamp" target="variation" weight="0.003802" />
+      <edge id="110" source="vamp" target="vapor" weight="0.005714" />
+      <edge id="111" source="vamp" target="vaccine" weight="0.011494" />
+      <edge id="112" source="vamp" target="vaunt" weight="0.007353" />
+      <edge id="113" source="vaulting" target="vault" weight="0.067416" />
+      <edge id="114" source="vaulting" target="vat" weight="0.015625" />
+      <edge id="115" source="vaulting" target="valuate" weight="0.017241" />
+      <edge id="116" source="vastness" target="vandalism" weight="0.012346" />
+      <edge id="117" source="vastness" target="validity" weight="0.022222" />
+      <edge id="118" source="vanish" target="vandalize" weight="0.023256" />
+      <edge id="119" source="vanish" target="varnish" weight="0.004237" />
+      <edge id="120" source="vanish" target="valley" weight="0.009615" />
+      <edge id="121" source="vanish" target="vaporize" weight="0.032967" />
+      <edge id="122" source="vanish" target="vapid" weight="0.00641" />
+      <edge id="123" source="vanish" target="vale" weight="0.018868" />
+      <edge id="124" source="vanish" target="vacate" weight="0.119048" />
+      <edge id="125" source="vanish" target="vandalism" weight="0.01" />
+      <edge id="126" source="vanish" target="validate" weight="0.009259" />
+      <edge id="127" source="vanish" target="vapor" weight="0.015038" />
+      <edge id="128" source="vandal" target="varmint" weight="0.092593" />
+      <edge id="129" source="vampire" target="vagrant" weight="0.004902" />
+      <edge id="130" source="vampire" target="vast" weight="0.008929" />
+      <edge id="131" source="valiant" target="vast" weight="0.0125" />
+      <edge id="132" source="vagrancy" target="vagrant" weight="0.031646" />
+      <edge id="133" source="varnish" target="vantage" weight="0.004525" />
+      <edge id="134" source="varnish" target="van" weight="0.004149" />
+      <edge id="135" source="varnish" target="vaudevillian" weight="0.004292" />
+      <edge id="136" source="varnish" target="vanguard" weight="0.004149" />
+      <edge id="137" source="varnish" target="variegated" weight="0.003413" />
+      <edge id="138" source="varnish" target="vacuum" weight="0.00463" />
+      <edge id="139" source="varnish" target="vanity" weight="0.004219" />
+      <edge id="140" source="validated" target="valid" weight="0.025478" />
+      <edge id="141" source="validated" target="various" weight="0.007813" />
+      <edge id="142" source="van" target="vapid" weight="0.006211" />
+      <edge id="143" source="van" target="variety" weight="0.00463" />
+      <edge id="144" source="van" target="vanguard" weight="0.292308" />
+      <edge id="145" source="van" target="vault" weight="0.004739" />
+      <edge id="146" source="van" target="vat" weight="0.011628" />
+      <edge id="147" source="varied" target="variety" weight="0.012605" />
+      <edge id="148" source="varied" target="variant" weight="0.447059" />
+      <edge id="149" source="varied" target="variegated" weight="0.333333" />
+      <edge id="150" source="varied" target="variform" weight="0.119565" />
+      <edge id="151" source="varied" target="various" weight="0.403846" />
+      <edge id="152" source="varied" target="varying" weight="0.414894" />
+      <edge id="153" source="varied" target="variable" weight="0.072917" />
+      <edge id="154" source="varied" target="vagrant" weight="0.009569" />
+      <edge id="155" source="varied" target="vague" weight="0.018349" />
+      <edge id="156" source="vaudevillian" target="vapor" weight="0.007634" />
+      <edge id="157" source="vaudevillian" target="validate" weight="0.009524" />
+      <edge id="158" source="vaudevillian" target="valid" weight="0.006897" />
+      <edge id="159" source="variety" target="vantage" weight="0.005102" />
+      <edge id="160" source="variety" target="various" weight="0.011905" />
+      <edge id="161" source="variety" target="variegated" weight="0.011278" />
+      <edge id="162" source="variety" target="vagary" weight="0.014851" />
+      <edge id="163" source="variety" target="variant" weight="0.004329" />
+      <edge id="164" source="variety" target="vacillate" weight="0.014085" />
+      <edge id="165" source="variety" target="vanguard" weight="0.00463" />
+      <edge id="166" source="variety" target="validity" weight="0.004032" />
+      <edge id="167" source="variety" target="variance" weight="0.15" />
+      <edge id="168" source="variety" target="vagrant" weight="0.003135" />
+      <edge id="169" source="vacuous" target="valueless" weight="0.017241" />
+      <edge id="170" source="vacuous" target="vagrant" weight="0.004367" />
+      <edge id="171" source="vacuous" target="vainglorious" weight="0.010638" />
+      <edge id="172" source="vacuous" target="vacuum" weight="0.02" />
+      <edge id="173" source="vacuous" target="vacuity" weight="0.021978" />
+      <edge id="174" source="vacuous" target="variant" weight="0.007092" />
+      <edge id="175" source="vacuous" target="vanished" weight="0.025862" />
+      <edge id="176" source="vacuous" target="vaporous" weight="0.039063" />
+      <edge id="177" source="vacuum" target="vapid" weight="0.007353" />
+      <edge id="178" source="vacuum" target="vacant" weight="0.027778" />
+      <edge id="179" source="vacuum" target="variation" weight="0.00495" />
+      <edge id="180" source="vacuum" target="vacate" weight="0.013699" />
+      <edge id="181" source="vacuum" target="variance" weight="0.014085" />
+      <edge id="182" source="vacuum" target="vault" weight="0.005376" />
+      <edge id="183" source="vacuum" target="vacuity" weight="0.25" />
+      <edge id="184" source="vacuum" target="valley" weight="0.011905" />
+      <edge id="185" source="vacuum" target="vanity" weight="0.037736" />
+      <edge id="186" source="valve" target="vault" weight="0.005102" />
+      <edge id="187" source="vagrant" target="variability" weight="0.005587" />
+      <edge id="188" source="vagrant" target="various" weight="0.066351" />
+      <edge id="189" source="vagrant" target="variegation" weight="0.005348" />
+      <edge id="190" source="vagrant" target="variant" weight="0.015075" />
+      <edge id="191" source="vagrant" target="variation" weight="0.02795" />
+      <edge id="192" source="vagrant" target="vanishing" weight="0.012195" />
+      <edge id="193" source="vagrant" target="varying" weight="0.070707" />
+      <edge id="194" source="vagrant" target="variable" weight="0.289593" />
+      <edge id="195" source="vagrant" target="vague" weight="0.052448" />
+      <edge id="196" source="vagrant" target="valetudinarian" weight="0.005435" />
+      <edge id="197" source="vagrant" target="vaporous" weight="0.005208" />
+      <edge id="198" source="vagrant" target="vapid" weight="0.019231" />
+      <edge id="199" source="vagrant" target="vacant" weight="0.004975" />
+      <edge id="200" source="vagrant" target="variegated" weight="0.062222" />
+      <edge id="201" source="vagrant" target="variform" weight="0.083333" />
+      <edge id="202" source="vacate" target="vantage" weight="0.012821" />
+      <edge id="203" source="vacate" target="vaporize" weight="0.017857" />
+      <edge id="204" source="vacate" target="vacuity" weight="0.015625" />
+      <edge id="205" source="valorous" target="vast" weight="0.013889" />
+      <edge id="206" source="valid" target="vaporous" weight="0.006289" />
+      <edge id="207" source="valid" target="various" weight="0.005236" />
+      <edge id="208" source="valid" target="validate" weight="0.005464" />
+      <edge id="209" source="valid" target="vast" weight="0.01227" />
+      <edge id="210" source="various" target="varying" weight="0.814815" />
+      <edge id="211" source="various" target="variegation" weight="0.008197" />
+      <edge id="212" source="various" target="variability" weight="0.008772" />
+      <edge id="213" source="various" target="vapid" weight="0.005025" />
+      <edge id="214" source="various" target="variegated" weight="0.611111" />
+      <edge id="215" source="various" target="variform" weight="0.444444" />
+      <edge id="216" source="various" target="variation" weight="0.003774" />
+      <edge id="217" source="various" target="variable" weight="0.195652" />
+      <edge id="218" source="various" target="variant" weight="0.383838" />
+      <edge id="219" source="various" target="vague" weight="0.039648" />
+      <edge id="220" source="various" target="vast" weight="0.007576" />
+      <edge id="221" source="vast" target="vapid" weight="0.005814" />
+      <edge id="222" source="vast" target="vague" weight="0.009662" />
+      <edge id="223" source="vandalism" target="vaporize" weight="0.043103" />
+      <edge id="224" source="vandalism" target="validity" weight="0.022222" />
+      <edge id="225" source="valor" target="validity" weight="0.012195" />
+      <edge id="226" source="vainglory" target="vanity" weight="0.047619" />
+      <edge id="227" source="vainglory" target="vaunt" weight="0.015625" />
+      <edge id="228" source="vacuity" target="vapid" weight="0.007874" />
+      <edge id="229" source="vacuity" target="vacant" weight="0.031746" />
+      <edge id="230" source="vacuity" target="vault" weight="0.011364" />
+      <edge id="231" source="vacuity" target="valley" weight="0.041096" />
+      <edge id="232" source="vacuity" target="vanity" weight="0.045455" />
+      <edge id="233" source="valley" target="vantage" weight="0.011236" />
+      <edge id="234" source="valley" target="vaporous" weight="0.008696" />
+      <edge id="235" source="valley" target="validate" weight="0.014493" />
+      <edge id="236" source="variability" target="vacillate" weight="0.027027" />
+      <edge id="237" source="variability" target="vagary" weight="0.048387" />
+      <edge id="238" source="variability" target="variegated" weight="0.007813" />
+      <edge id="239" source="variability" target="variance" weight="0.125" />
+      <edge id="240" source="variegation" target="vagary" weight="0.042857" />
+      <edge id="241" source="variegation" target="vantage" weight="0.015625" />
+      <edge id="242" source="variegation" target="variegated" weight="0.007353" />
+      <edge id="243" source="variegation" target="variance" weight="0.380282" />
+      <edge id="244" source="valueless" target="vapid" weight="0.02" />
+      <edge id="245" source="vandalize" target="vaporize" weight="0.270588" />
+      <edge id="246" source="vassal" target="varmint" weight="0.014493" />
+      <edge id="247" source="vassal" target="vassalage" weight="0.021739" />
+      <edge id="248" source="vainglorious" target="vapid" weight="0.007752" />
+      <edge id="249" source="vainglorious" target="vanity" weight="0.021277" />
+      <edge id="250" source="vainglorious" target="vaunt" weight="0.014706" />
+      <edge id="251" source="variant" target="variegated" weight="0.336283" />
+      <edge id="252" source="variant" target="variform" weight="0.119048" />
+      <edge id="253" source="variant" target="varying" weight="0.44186" />
+      <edge id="254" source="variant" target="variable" weight="0.053476" />
+      <edge id="255" source="variant" target="vague" weight="0.004717" />
+      <edge id="256" source="variation" target="vantage" weight="0.004831" />
+      <edge id="257" source="variation" target="vacillate" weight="0.013393" />
+      <edge id="258" source="variation" target="vagary" weight="0.038462" />
+      <edge id="259" source="variation" target="variegated" weight="0.003584" />
+      <edge id="260" source="variation" target="variance" weight="0.136792" />
+      <edge id="261" source="valuate" target="validate" weight="0.009091" />
+      <edge id="262" source="valuate" target="validity" weight="0.018018" />
+      <edge id="263" source="vale" target="validate" weight="0.011364" />
+      <edge id="264" source="varying" target="variegated" weight="0.694737" />
+      <edge id="265" source="variable" target="variegated" weight="0.187817" />
+      <edge id="266" source="vaporize" target="vantage" weight="0.012821" />
+      <edge id="267" source="vaporize" target="vapor" weight="0.040268" />
+      <edge id="268" source="vaporize" target="validity" weight="0.007692" />
+      <edge id="269" source="vault" target="vantage" weight="0.010526" />
+      <edge id="270" source="vault" target="vacillate" weight="0.009569" />
+      <edge id="271" source="vault" target="vanished" weight="0.004926" />
+      <edge id="272" source="vague" target="variegated" weight="0.041667" />
+      <edge id="273" source="vague" target="vaporous" weight="0.090909" />
+      <edge id="274" source="vaccine" target="vaudeville" weight="0.018182" />
+      <edge id="275" source="vaccine" target="variegated" weight="0.009709" />
+      <edge id="276" source="vanity" target="vagary" weight="0.014925" />
+      <edge id="277" source="vanity" target="vapor" weight="0.038168" />
+      <edge id="278" source="vanity" target="vaunt" weight="0.154762" />
+      <edge id="279" source="vantage" target="variance" weight="0.013158" />
+      <edge id="280" source="valued" target="validity" weight="0.011494" />
+      <edge id="281" source="vacillate" target="vaunt" weight="0.020408" />
+      <edge id="282" source="vaporous" target="vapid" weight="0.05" />
+      <edge id="283" source="vaporous" target="vacant" weight="0.009615" />
+      <edge id="284" source="vagary" target="variance" weight="0.036585" />
+      <edge id="285" source="vagary" target="vapor" weight="0.04065" />
+      <edge id="286" source="vagary" target="vaunt" weight="0.011364" />
+      <edge id="287" source="vapid" target="variegated" weight="0.009434" />
+      <edge id="288" source="vapid" target="vanished" weight="0.006536" />
+      <edge id="289" source="vaudeville" target="variance" weight="0.01" />
+      <edge id="290" source="variegated" target="variform" weight="0.378947" />
+      <edge id="291" source="validity" target="vapor" weight="0.005848" />
+      <edge id="292" source="vanishing" target="variance" weight="0.013333" />
+    </edges>
+  </graph>
+</gexf>

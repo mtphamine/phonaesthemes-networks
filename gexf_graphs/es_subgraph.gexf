@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="espial" label="espial" />
+      <node id="especial" label="especial" />
+      <node id="estimable" label="estimable" />
+      <node id="estuary" label="estuary" />
+      <node id="essence" label="essence" />
+      <node id="esquire" label="esquire" />
+      <node id="esoteric" label="esoteric" />
+      <node id="esteem" label="esteem" />
+      <node id="escort" label="escort" />
+      <node id="escape" label="escape" />
+      <node id="esteemed" label="esteemed" />
+      <node id="estimate" label="estimate" />
+      <node id="estimation" label="estimation" />
+      <node id="essential" label="essential" />
+      <node id="escapism" label="escapism" />
+      <node id="espionage" label="espionage" />
+    </nodes>
+    <edges>
+      <edge id="0" source="espial" target="espionage" />
+      <edge id="1" source="especial" target="esoteric" />
+      <edge id="2" source="estimable" target="esteemed" />
+      <edge id="3" source="estuary" target="escape" />
+      <edge id="4" source="essence" target="essential" />
+      <edge id="5" source="esquire" target="escort" />
+      <edge id="6" source="esteem" target="estimate" />
+      <edge id="7" source="esteem" target="estimation" />
+      <edge id="8" source="escape" target="escapism" />
+      <edge id="9" source="estimate" target="estimation" />
+    </edges>
+  </graph>
+</gexf>

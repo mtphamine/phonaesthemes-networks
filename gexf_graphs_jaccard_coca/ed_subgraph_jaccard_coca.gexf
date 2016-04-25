@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="edict" label="edict">
+        <attvalues>
+          <attvalue for="0" value="2.67209785794" />
+        </attvalues>
+      </node>
+      <node id="educational" label="educational">
+        <attvalues>
+          <attvalue for="0" value="4.46593280774" />
+        </attvalues>
+      </node>
+      <node id="educated" label="educated" />
+      <node id="edifying" label="edifying">
+        <attvalues>
+          <attvalue for="0" value="2.19865708695" />
+        </attvalues>
+      </node>
+      <node id="edify" label="edify" />
+      <node id="edema" label="edema" />
+      <node id="edit" label="edit">
+        <attvalues>
+          <attvalue for="0" value="3.17868923978" />
+        </attvalues>
+      </node>
+      <node id="education" label="education" />
+      <node id="educate" label="educate">
+        <attvalues>
+          <attvalue for="0" value="3.66010622172" />
+        </attvalues>
+      </node>
+      <node id="edition" label="edition">
+        <attvalues>
+          <attvalue for="0" value="4.17719008049" />
+        </attvalues>
+      </node>
+      <node id="eddy" label="eddy">
+        <attvalues>
+          <attvalue for="0" value="3.19534605835" />
+        </attvalues>
+      </node>
+      <node id="edge" label="edge" />
+      <node id="editor" label="editor">
+        <attvalues>
+          <attvalue for="0" value="4.59215454228" />
+        </attvalues>
+      </node>
+      <node id="editorial" label="editorial" />
+      <node id="educator" label="educator" />
+      <node id="edulcorate" label="edulcorate" />
+      <node id="editorialize" label="editorialize" />
+      <node id="educe" label="educe">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="edification" label="edification">
+        <attvalues>
+          <attvalue for="0" value="2.16435285578" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="edict" target="edge" weight="0.004902" />
+      <edge id="1" source="edict" target="editorial" weight="0.028571" />
+      <edge id="2" source="educational" target="educated" weight="0.018519" />
+      <edge id="3" source="educational" target="edifying" weight="0.75" />
+      <edge id="4" source="educational" target="editorial" weight="0.051282" />
+      <edge id="5" source="educated" target="edifying" weight="0.019608" />
+      <edge id="6" source="edifying" target="editorial" weight="0.055556" />
+      <edge id="7" source="edify" target="edit" weight="0.025974" />
+      <edge id="8" source="edify" target="educate" weight="0.795918" />
+      <edge id="9" source="edify" target="editor" weight="0.012821" />
+      <edge id="10" source="edema" target="educate" weight="0.019231" />
+      <edge id="11" source="edema" target="eddy" weight="0.006289" />
+      <edge id="12" source="edit" target="educate" weight="0.024691" />
+      <edge id="13" source="edit" target="edition" weight="0.031746" />
+      <edge id="14" source="edit" target="editor" weight="0.013699" />
+      <edge id="15" source="edit" target="editorial" weight="0.017241" />
+      <edge id="16" source="edit" target="edulcorate" weight="0.015625" />
+      <edge id="17" source="edit" target="editorialize" weight="0.021277" />
+      <edge id="18" source="education" target="edification" weight="0.538462" />
+      <edge id="19" source="educate" target="editor" weight="0.012195" />
+      <edge id="20" source="educate" target="educator" weight="0.015873" />
+      <edge id="21" source="educate" target="editorialize" weight="0.017857" />
+      <edge id="22" source="edition" target="edge" weight="0.005495" />
+      <edge id="23" source="eddy" target="edge" weight="0.004975" />
+      <edge id="24" source="edge" target="educe" weight="0.005917" />
+      <edge id="25" source="editor" target="educator" weight="0.018519" />
+    </edges>
+  </graph>
+</gexf>

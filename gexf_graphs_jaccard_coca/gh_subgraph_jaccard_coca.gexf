@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ghost" label="ghost" />
+      <node id="ghostwrite" label="ghostwrite">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="ghoulish" label="ghoulish" />
+      <node id="ghastly" label="ghastly">
+        <attvalues>
+          <attvalue for="0" value="2.90254677931" />
+        </attvalues>
+      </node>
+      <node id="ghostly" label="ghostly" />
+      <node id="ghoul" label="ghoul">
+        <attvalues>
+          <attvalue for="0" value="2.26481782301" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ghost" target="ghostwrite" weight="0.120805" />
+      <edge id="1" source="ghost" target="ghoul" weight="0.107784" />
+      <edge id="2" source="ghostwrite" target="ghoul" weight="0.018182" />
+      <edge id="3" source="ghoulish" target="ghastly" weight="0.224299" />
+      <edge id="4" source="ghastly" target="ghostly" weight="0.153153" />
+      <edge id="5" source="ghostly" target="ghoul" weight="0.012048" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="smirch" label="smirch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="smaller" label="smaller" />
+      <node id="smothered" label="smothered">
+        <attvalues>
+          <attvalue for="0" value="2.8790958795" />
+        </attvalues>
+      </node>
+      <node id="smoothly" label="smoothly" />
+      <node id="smashing" label="smashing">
+        <attvalues>
+          <attvalue for="0" value="3.17782497186" />
+        </attvalues>
+      </node>
+      <node id="smother" label="smother">
+        <attvalues>
+          <attvalue for="0" value="2.55509444858" />
+        </attvalues>
+      </node>
+      <node id="smashup" label="smashup" />
+      <node id="smoker" label="smoker" />
+      <node id="smoldering" label="smoldering">
+        <attvalues>
+          <attvalue for="0" value="2.98181860717" />
+        </attvalues>
+      </node>
+      <node id="smelly" label="smelly" />
+      <node id="smirched" label="smirched" />
+      <node id="smarmy" label="smarmy">
+        <attvalues>
+          <attvalue for="0" value="2.11394335231" />
+        </attvalues>
+      </node>
+      <node id="smiling" label="smiling" />
+      <node id="smallpox" label="smallpox" />
+      <node id="smite" label="smite" />
+      <node id="smelt" label="smelt" />
+      <node id="smirk" label="smirk">
+        <attvalues>
+          <attvalue for="0" value="2.875639937" />
+        </attvalues>
+      </node>
+      <node id="smoother" label="smoother" />
+      <node id="smith" label="smith" />
+      <node id="smutty" label="smutty" />
+      <node id="smallness" label="smallness">
+        <attvalues>
+          <attvalue for="0" value="2.35410843915" />
+        </attvalues>
+      </node>
+      <node id="smile" label="smile" />
+      <node id="smell" label="smell">
+        <attvalues>
+          <attvalue for="0" value="4.25787048582" />
+        </attvalues>
+      </node>
+      <node id="smart" label="smart" />
+      <node id="smatter" label="smatter">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="smolder" label="smolder" />
+      <node id="smut" label="smut" />
+      <node id="smudge" label="smudge" />
+      <node id="smugness" label="smugness">
+        <attvalues>
+          <attvalue for="0" value="2.19865708695" />
+        </attvalues>
+      </node>
+      <node id="small" label="small">
+        <attvalues>
+          <attvalue for="0" value="5.23364326011" />
+        </attvalues>
+      </node>
+      <node id="smack" label="smack" />
+      <node id="smug" label="smug">
+        <attvalues>
+          <attvalue for="0" value="3.03582982525" />
+        </attvalues>
+      </node>
+      <node id="smoking" label="smoking" />
+      <node id="smidgen" label="smidgen">
+        <attvalues>
+          <attvalue for="0" value="2.20682587603" />
+        </attvalues>
+      </node>
+      <node id="smash" label="smash">
+        <attvalues>
+          <attvalue for="0" value="3.30470589821" />
+        </attvalues>
+      </node>
+      <node id="smudgy" label="smudgy">
+        <attvalues>
+          <attvalue for="0" value="1.85733249643" />
+        </attvalues>
+      </node>
+      <node id="smear" label="smear" />
+      <node id="smoky" label="smoky" />
+      <node id="smacking" label="smacking">
+        <attvalues>
+          <attvalue for="0" value="2.7075701761" />
+        </attvalues>
+      </node>
+      <node id="smooth" label="smooth">
+        <attvalues>
+          <attvalue for="0" value="4.204526943" />
+        </attvalues>
+      </node>
+      <node id="smooch" label="smooch">
+        <attvalues>
+          <attvalue for="0" value="2.04139268516" />
+        </attvalues>
+      </node>
+      <node id="smattering" label="smattering" />
+      <node id="smithereen" label="smithereen">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="smoke" label="smoke">
+        <attvalues>
+          <attvalue for="0" value="4.3267863102" />
+        </attvalues>
+      </node>
+      <node id="smashed" label="smashed" />
+      <node id="smirking" label="smirking">
+        <attvalues>
+          <attvalue for="0" value="2.53907609879" />
+        </attvalues>
+      </node>
+      <node id="smelting" label="smelting">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="smirch" target="smother" weight="0.016043" />
+      <edge id="1" source="smirch" target="smelly" weight="0.01" />
+      <edge id="2" source="smirch" target="smirched" weight="0.010526" />
+      <edge id="3" source="smirch" target="smutty" weight="0.016" />
+      <edge id="4" source="smirch" target="smell" weight="0.015504" />
+      <edge id="5" source="smirch" target="smatter" weight="0.012821" />
+      <edge id="6" source="smirch" target="smolder" weight="0.016129" />
+      <edge id="7" source="smirch" target="smut" weight="0.240223" />
+      <edge id="8" source="smirch" target="smudge" weight="0.585106" />
+      <edge id="9" source="smirch" target="smudgy" weight="0.011628" />
+      <edge id="10" source="smirch" target="smack" weight="0.021201" />
+      <edge id="11" source="smirch" target="smoldering" weight="0.008" />
+      <edge id="12" source="smirch" target="smoking" weight="0.007813" />
+      <edge id="13" source="smirch" target="smidgen" weight="0.038095" />
+      <edge id="14" source="smirch" target="smash" weight="0.006042" />
+      <edge id="15" source="smirch" target="smear" weight="0.364238" />
+      <edge id="16" source="smirch" target="smoky" weight="0.007576" />
+      <edge id="17" source="smirch" target="smooth" weight="0.002347" />
+      <edge id="18" source="smirch" target="smooch" weight="0.074074" />
+      <edge id="19" source="smirch" target="smattering" weight="0.027523" />
+      <edge id="20" source="smirch" target="smithereen" weight="0.009174" />
+      <edge id="21" source="smirch" target="smoke" weight="0.171569" />
+      <edge id="22" source="smirch" target="small" weight="0.007752" />
+      <edge id="23" source="smaller" target="small" weight="0.00939" />
+      <edge id="24" source="smaller" target="smooth" weight="0.002625" />
+      <edge id="25" source="smaller" target="smothered" weight="0.016667" />
+      <edge id="26" source="smothered" target="smoky" weight="0.009434" />
+      <edge id="27" source="smothered" target="smooth" weight="0.005013" />
+      <edge id="28" source="smothered" target="smother" weight="0.006135" />
+      <edge id="29" source="smothered" target="smoker" weight="0.014493" />
+      <edge id="30" source="smothered" target="smashed" weight="0.070707" />
+      <edge id="31" source="smothered" target="small" weight="0.004292" />
+      <edge id="32" source="smothered" target="smoldering" weight="0.041667" />
+      <edge id="33" source="smoothly" target="smug" weight="0.023256" />
+      <edge id="34" source="smoothly" target="smarmy" weight="0.040816" />
+      <edge id="35" source="smoothly" target="smooth" weight="0.005168" />
+      <edge id="36" source="smashing" target="smash" weight="0.067901" />
+      <edge id="37" source="smashing" target="smatter" weight="0.010989" />
+      <edge id="38" source="smashing" target="smudgy" weight="0.010101" />
+      <edge id="39" source="smashing" target="smear" weight="0.009217" />
+      <edge id="40" source="smashing" target="smacking" weight="0.007752" />
+      <edge id="41" source="smashing" target="smother" weight="0.015" />
+      <edge id="42" source="smashing" target="smug" weight="0.037313" />
+      <edge id="43" source="smashing" target="smack" weight="0.02027" />
+      <edge id="44" source="smashing" target="smelly" weight="0.00885" />
+      <edge id="45" source="smashing" target="small" weight="0.003676" />
+      <edge id="46" source="smashing" target="smoking" weight="0.007092" />
+      <edge id="47" source="smashing" target="smoldering" weight="0.014599" />
+      <edge id="48" source="smashing" target="smashup" weight="0.039216" />
+      <edge id="49" source="smashing" target="smart" weight="0.023256" />
+      <edge id="50" source="smother" target="smile" weight="0.0125" />
+      <edge id="51" source="smother" target="smash" weight="0.08011" />
+      <edge id="52" source="smother" target="smatter" weight="0.007353" />
+      <edge id="53" source="smother" target="smashup" weight="0.006667" />
+      <edge id="54" source="smother" target="smooth" weight="0.014644" />
+      <edge id="55" source="smother" target="smoky" weight="0.005263" />
+      <edge id="56" source="smother" target="smut" weight="0.01083" />
+      <edge id="57" source="smother" target="smudge" weight="0.019704" />
+      <edge id="58" source="smother" target="smattering" weight="0.011905" />
+      <edge id="59" source="smother" target="smoldering" weight="0.016575" />
+      <edge id="60" source="smother" target="smack" weight="0.017595" />
+      <edge id="61" source="smother" target="smite" weight="0.015228" />
+      <edge id="62" source="smother" target="smoke" weight="0.04947" />
+      <edge id="63" source="smother" target="smear" weight="0.035294" />
+      <edge id="64" source="smother" target="smug" weight="0.005464" />
+      <edge id="65" source="smother" target="smell" weight="0.021622" />
+      <edge id="66" source="smother" target="smolder" weight="0.202614" />
+      <edge id="67" source="smother" target="smart" weight="0.009804" />
+      <edge id="68" source="smashup" target="smash" weight="0.097015" />
+      <edge id="69" source="smashup" target="smatter" weight="0.025641" />
+      <edge id="70" source="smashup" target="smoke" weight="0.005025" />
+      <edge id="71" source="smoker" target="smoldering" weight="0.011236" />
+      <edge id="72" source="smoker" target="smooth" weight="0.002564" />
+      <edge id="73" source="smoldering" target="smash" weight="0.003067" />
+      <edge id="74" source="smoldering" target="smutty" weight="0.008333" />
+      <edge id="75" source="smoldering" target="smooth" weight="0.002381" />
+      <edge id="76" source="smoldering" target="smoky" weight="0.040984" />
+      <edge id="77" source="smoldering" target="smooch" weight="0.0125" />
+      <edge id="78" source="smoldering" target="smacking" weight="0.018349" />
+      <edge id="79" source="smoldering" target="smelly" weight="0.021505" />
+      <edge id="80" source="smoldering" target="smirking" weight="0.009901" />
+      <edge id="81" source="smoldering" target="smoke" weight="0.00431" />
+      <edge id="82" source="smoldering" target="small" weight="0.007937" />
+      <edge id="83" source="smoldering" target="smoking" weight="0.23" />
+      <edge id="84" source="smoldering" target="smiling" weight="0.009524" />
+      <edge id="85" source="smoldering" target="smudge" weight="0.007042" />
+      <edge id="86" source="smoldering" target="smart" weight="0.00823" />
+      <edge id="87" source="smoldering" target="smelting" weight="0.019608" />
+      <edge id="88" source="smelly" target="smash" weight="0.003322" />
+      <edge id="89" source="smelly" target="smacking" weight="0.011765" />
+      <edge id="90" source="smelly" target="smooth" weight="0.002532" />
+      <edge id="91" source="smelly" target="smooch" weight="0.018182" />
+      <edge id="92" source="smelly" target="smug" weight="0.021505" />
+      <edge id="93" source="smelly" target="small" weight="0.022321" />
+      <edge id="94" source="smelly" target="smarmy" weight="0.017544" />
+      <edge id="95" source="smirched" target="smooth" weight="0.002564" />
+      <edge id="96" source="smirched" target="smooch" weight="0.02" />
+      <edge id="97" source="smirched" target="smudgy" weight="0.243902" />
+      <edge id="98" source="smirched" target="smoke" weight="0.00995" />
+      <edge id="99" source="smirched" target="small" weight="0.004484" />
+      <edge id="100" source="smarmy" target="smear" weight="0.006173" />
+      <edge id="101" source="smarmy" target="smooth" weight="0.054945" />
+      <edge id="102" source="smarmy" target="smug" weight="0.092105" />
+      <edge id="103" source="smarmy" target="smutty" weight="0.012048" />
+      <edge id="104" source="smarmy" target="small" weight="0.00463" />
+      <edge id="105" source="smarmy" target="smart" weight="0.004831" />
+      <edge id="106" source="smiling" target="smirk" weight="0.090909" />
+      <edge id="107" source="smiling" target="smirking" weight="0.275362" />
+      <edge id="108" source="smallpox" target="smoke" weight="0.00495" />
+      <edge id="109" source="smite" target="smash" weight="0.113636" />
+      <edge id="110" source="smite" target="smooth" weight="0.002294" />
+      <edge id="111" source="smite" target="smooch" weight="0.010417" />
+      <edge id="112" source="smite" target="smithereen" weight="0.016949" />
+      <edge id="113" source="smite" target="smell" weight="0.014388" />
+      <edge id="114" source="smelt" target="smash" weight="0.003484" />
+      <edge id="115" source="smelt" target="smooth" weight="0.002625" />
+      <edge id="116" source="smirk" target="smash" weight="0.003571" />
+      <edge id="117" source="smirk" target="smirking" weight="0.037037" />
+      <edge id="118" source="smirk" target="smart" weight="0.005051" />
+      <edge id="119" source="smirk" target="smile" weight="0.106383" />
+      <edge id="120" source="smoother" target="smooth" weight="0.002747" />
+      <edge id="121" source="smith" target="smash" weight="0.003311" />
+      <edge id="122" source="smutty" target="smash" weight="0.003058" />
+      <edge id="123" source="smutty" target="smudgy" weight="0.301587" />
+      <edge id="124" source="smutty" target="smooth" weight="0.004762" />
+      <edge id="125" source="smutty" target="smooch" weight="0.025" />
+      <edge id="126" source="smutty" target="smug" weight="0.008333" />
+      <edge id="127" source="smutty" target="smoke" weight="0.008621" />
+      <edge id="128" source="smutty" target="small" weight="0.02" />
+      <edge id="129" source="smallness" target="small" weight="0.004132" />
+      <edge id="130" source="smallness" target="smash" weight="0.003175" />
+      <edge id="131" source="smallness" target="smugness" weight="0.017544" />
+      <edge id="132" source="smile" target="smash" weight="0.003289" />
+      <edge id="133" source="smile" target="smirking" weight="0.025641" />
+      <edge id="134" source="smile" target="smooch" weight="0.017241" />
+      <edge id="135" source="smell" target="smash" weight="0.009119" />
+      <edge id="136" source="smell" target="smatter" weight="0.026316" />
+      <edge id="137" source="smell" target="smear" weight="0.025" />
+      <edge id="138" source="smell" target="smut" weight="0.018433" />
+      <edge id="139" source="smell" target="smooch" weight="0.011765" />
+      <edge id="140" source="smell" target="smattering" weight="0.275862" />
+      <edge id="141" source="smell" target="smack" weight="0.111969" />
+      <edge id="142" source="smell" target="smoke" weight="0.04386" />
+      <edge id="143" source="smell" target="smolder" weight="0.02459" />
+      <edge id="144" source="smell" target="smudge" weight="0.042254" />
+      <edge id="145" source="smell" target="smart" weight="0.008065" />
+      <edge id="146" source="smart" target="smash" weight="0.008929" />
+      <edge id="147" source="smart" target="smoke" weight="0.008451" />
+      <edge id="148" source="smart" target="smacking" weight="0.026087" />
+      <edge id="149" source="smart" target="smooth" weight="0.022472" />
+      <edge id="150" source="smart" target="smug" weight="0.139535" />
+      <edge id="151" source="smart" target="smirking" weight="0.112745" />
+      <edge id="152" source="smart" target="small" weight="0.002646" />
+      <edge id="153" source="smart" target="smelting" weight="0.004386" />
+      <edge id="154" source="smatter" target="smash" weight="0.014493" />
+      <edge id="155" source="smatter" target="smut" weight="0.005952" />
+      <edge id="156" source="smatter" target="smattering" weight="0.113208" />
+      <edge id="157" source="smatter" target="smudge" weight="0.010526" />
+      <edge id="158" source="smatter" target="smashed" weight="0.012821" />
+      <edge id="159" source="smatter" target="smack" weight="0.017241" />
+      <edge id="160" source="smatter" target="smithereen" weight="0.055556" />
+      <edge id="161" source="smatter" target="smear" weight="0.006579" />
+      <edge id="162" source="smatter" target="small" weight="0.004854" />
+      <edge id="163" source="smatter" target="smidgen" weight="0.037037" />
+      <edge id="164" source="smolder" target="smash" weight="0.009259" />
+      <edge id="165" source="smolder" target="smooth" weight="0.004773" />
+      <edge id="166" source="smolder" target="smoke" weight="0.088785" />
+      <edge id="167" source="smut" target="smash" weight="0.014388" />
+      <edge id="168" source="smut" target="smooth" weight="0.001938" />
+      <edge id="169" source="smut" target="smooch" weight="0.023121" />
+      <edge id="170" source="smut" target="smithereen" weight="0.010101" />
+      <edge id="171" source="smut" target="smoke" weight="0.192029" />
+      <edge id="172" source="smut" target="smidgen" weight="0.020513" />
+      <edge id="173" source="smudge" target="smash" weight="0.008646" />
+      <edge id="174" source="smudge" target="smooth" weight="0.006803" />
+      <edge id="175" source="smudge" target="smooch" weight="0.061224" />
+      <edge id="176" source="smudge" target="smudgy" weight="0.009709" />
+      <edge id="177" source="smudge" target="smithereen" weight="0.007937" />
+      <edge id="178" source="smudge" target="smoke" weight="0.273632" />
+      <edge id="179" source="smudge" target="small" weight="0.007273" />
+      <edge id="180" source="smudge" target="smidgen" weight="0.032787" />
+      <edge id="181" source="smugness" target="smash" weight="0.003636" />
+      <edge id="182" source="smugness" target="smear" weight="0.006757" />
+      <edge id="183" source="small" target="smug" weight="0.02008" />
+      <edge id="184" source="small" target="smoking" weight="0.011811" />
+      <edge id="185" source="small" target="smidgen" weight="0.004237" />
+      <edge id="186" source="small" target="smash" weight="0.004357" />
+      <edge id="187" source="small" target="smudgy" weight="0.00939" />
+      <edge id="188" source="small" target="smear" weight="0.003003" />
+      <edge id="189" source="small" target="smoky" weight="0.015564" />
+      <edge id="190" source="small" target="smooth" weight="0.022099" />
+      <edge id="191" source="small" target="smooch" weight="0.00939" />
+      <edge id="192" source="small" target="smattering" weight="0.008403" />
+      <edge id="193" source="small" target="smoke" weight="0.002732" />
+      <edge id="194" source="small" target="smashed" weight="0.003861" />
+      <edge id="195" source="smack" target="smash" weight="0.126437" />
+      <edge id="196" source="smack" target="smooth" weight="0.010381" />
+      <edge id="197" source="smack" target="smooch" weight="0.016667" />
+      <edge id="198" source="smack" target="smithereen" weight="0.007547" />
+      <edge id="199" source="smack" target="smoke" weight="0.020619" />
+      <edge id="200" source="smack" target="smug" weight="0.003546" />
+      <edge id="201" source="smug" target="smash" weight="0.003067" />
+      <edge id="202" source="smug" target="smooth" weight="0.031863" />
+      <edge id="203" source="smug" target="smirking" weight="0.009901" />
+      <edge id="204" source="smug" target="smear" weight="0.010101" />
+      <edge id="205" source="smoking" target="smacking" weight="0.017857" />
+      <edge id="206" source="smoking" target="smooth" weight="0.004739" />
+      <edge id="207" source="smoking" target="smudgy" weight="0.02439" />
+      <edge id="208" source="smoking" target="smirking" weight="0.009615" />
+      <edge id="209" source="smoking" target="smoke" weight="0.012876" />
+      <edge id="210" source="smoking" target="smelting" weight="0.028846" />
+      <edge id="211" source="smidgen" target="smash" weight="0.006494" />
+      <edge id="212" source="smidgen" target="smear" weight="0.02809" />
+      <edge id="213" source="smidgen" target="smooth" weight="0.004975" />
+      <edge id="214" source="smidgen" target="smattering" weight="0.011364" />
+      <edge id="215" source="smidgen" target="smithereen" weight="0.060976" />
+      <edge id="216" source="smash" target="smear" weight="0.032995" />
+      <edge id="217" source="smash" target="smooth" weight="0.022801" />
+      <edge id="218" source="smash" target="smooch" weight="0.006993" />
+      <edge id="219" source="smash" target="smattering" weight="0.012945" />
+      <edge id="220" source="smash" target="smithereen" weight="0.026403" />
+      <edge id="221" source="smash" target="smoke" weight="0.013825" />
+      <edge id="222" source="smash" target="smashed" weight="0.009091" />
+      <edge id="223" source="smudgy" target="smear" weight="0.00625" />
+      <edge id="224" source="smudgy" target="smoky" weight="0.275362" />
+      <edge id="225" source="smudgy" target="smooch" weight="0.02439" />
+      <edge id="226" source="smudgy" target="smoke" weight="0.010417" />
+      <edge id="227" source="smear" target="smooth" weight="0.018293" />
+      <edge id="228" source="smear" target="smooch" weight="0.025478" />
+      <edge id="229" source="smear" target="smithereen" weight="0.005464" />
+      <edge id="230" source="smear" target="smoke" weight="0.109929" />
+      <edge id="231" source="smoky" target="smooth" weight="0.007059" />
+      <edge id="232" source="smoky" target="smooch" weight="0.011494" />
+      <edge id="233" source="smoky" target="smoke" weight="0.012658" />
+      <edge id="234" source="smacking" target="smooth" weight="0.002433" />
+      <edge id="235" source="smooth" target="smoke" weight="0.003759" />
+      <edge id="236" source="smooth" target="smashed" weight="0.002347" />
+      <edge id="237" source="smooch" target="smattering" weight="0.015152" />
+      <edge id="238" source="smooch" target="smoke" weight="0.031915" />
+      <edge id="239" source="smattering" target="smirking" weight="0.011494" />
+      <edge id="240" source="smattering" target="smoke" weight="0.009217" />
+      <edge id="241" source="smithereen" target="smoke" weight="0.00463" />
+      <edge id="242" source="smithereen" target="smashed" weight="0.009174" />
+    </edges>
+  </graph>
+</gexf>

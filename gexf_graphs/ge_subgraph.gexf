@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="gestate" label="gestate" />
+      <node id="genial" label="genial" />
+      <node id="generality" label="generality" />
+      <node id="generation" label="generation" />
+      <node id="generalization" label="generalization" />
+      <node id="general" label="general" />
+      <node id="gentle" label="gentle" />
+      <node id="genital" label="genital" />
+      <node id="genteel" label="genteel" />
+      <node id="geodetics" label="geodetics" />
+      <node id="genus" label="genus" />
+      <node id="generative" label="generative" />
+      <node id="geography" label="geography" />
+      <node id="generous" label="generous" />
+      <node id="genetics" label="genetics" />
+      <node id="genotype" label="genotype" />
+      <node id="generic" label="generic" />
+      <node id="get" label="get" />
+      <node id="gentleman" label="gentleman" />
+      <node id="genius" label="genius" />
+      <node id="genetic" label="genetic" />
+      <node id="geographical" label="geographical" />
+      <node id="gesticulation" label="gesticulation" />
+      <node id="genesis" label="genesis" />
+      <node id="geology" label="geology" />
+      <node id="germicide" label="germicide" />
+      <node id="gentility" label="gentility" />
+      <node id="germinal" label="germinal" />
+      <node id="gelatin" label="gelatin" />
+      <node id="geophysics" label="geophysics" />
+      <node id="gee" label="gee" />
+      <node id="gentry" label="gentry" />
+      <node id="genre" label="genre" />
+      <node id="gentleness" label="gentleness" />
+      <node id="generate" label="generate" />
+      <node id="gem" label="gem" />
+      <node id="gel" label="gel" />
+      <node id="geniality" label="geniality" />
+      <node id="gentlemanly" label="gentlemanly" />
+      <node id="gentile" label="gentile" />
+      <node id="generosity" label="generosity" />
+      <node id="geodetic" label="geodetic" />
+      <node id="genocide" label="genocide" />
+      <node id="genie" label="genie" />
+      <node id="gene" label="gene" />
+      <node id="gesture" label="gesture" />
+      <node id="geographic" label="geographic" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gestate" target="generate" />
+      <edge id="1" source="genial" target="generative" />
+      <edge id="2" source="genial" target="gentle" />
+      <edge id="3" source="genial" target="generous" />
+      <edge id="4" source="genial" target="genetic" />
+      <edge id="5" source="genial" target="genital" />
+      <edge id="6" source="generality" target="generalization" />
+      <edge id="7" source="generation" target="genesis" />
+      <edge id="8" source="general" target="generic" />
+      <edge id="9" source="gentle" target="genteel" />
+      <edge id="10" source="gentle" target="gentlemanly" />
+      <edge id="11" source="genital" target="generative" />
+      <edge id="12" source="genital" target="genetic" />
+      <edge id="13" source="genteel" target="gentlemanly" />
+      <edge id="14" source="geodetics" target="geology" />
+      <edge id="15" source="geodetics" target="geophysics" />
+      <edge id="16" source="geodetics" target="geography" />
+      <edge id="17" source="genus" target="genre" />
+      <edge id="18" source="genus" target="genotype" />
+      <edge id="19" source="generative" target="genetic" />
+      <edge id="20" source="generative" target="germinal" />
+      <edge id="21" source="geography" target="geophysics" />
+      <edge id="22" source="geography" target="geology" />
+      <edge id="23" source="genetics" target="gene" />
+      <edge id="24" source="genotype" target="gene" />
+      <edge id="25" source="get" target="generate" />
+      <edge id="26" source="get" target="get" />
+      <edge id="27" source="gentleman" target="gem" />
+      <edge id="28" source="gentleman" target="gee" />
+      <edge id="29" source="genius" target="genie" />
+      <edge id="30" source="genetic" target="germinal" />
+      <edge id="31" source="genetic" target="gentile" />
+      <edge id="32" source="geographical" target="geographic" />
+      <edge id="33" source="gesticulation" target="gesture" />
+      <edge id="34" source="geology" target="geophysics" />
+      <edge id="35" source="germicide" target="genocide" />
+      <edge id="36" source="gentility" target="gentleness" />
+      <edge id="37" source="gentility" target="gentry" />
+      <edge id="38" source="gelatin" target="gel" />
+      <edge id="39" source="gentleness" target="geniality" />
+      <edge id="40" source="geniality" target="generosity" />
+      <edge id="41" source="geodetic" target="geographic" />
+    </edges>
+  </graph>
+</gexf>

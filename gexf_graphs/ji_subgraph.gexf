@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="jig" label="jig" />
+      <node id="jigger" label="jigger" />
+      <node id="jilter" label="jilter" />
+      <node id="jingling" label="jingling" />
+      <node id="jilt" label="jilt" />
+      <node id="jimjams" label="jimjams" />
+      <node id="jiggle" label="jiggle" />
+      <node id="jitters" label="jitters" />
+      <node id="jingle" label="jingle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="jig" target="jiggle" />
+      <edge id="1" source="jig" target="jigger" />
+      <edge id="2" source="jigger" target="jiggle" />
+      <edge id="3" source="jilter" target="jilt" />
+      <edge id="4" source="jingling" target="jingle" />
+      <edge id="5" source="jimjams" target="jitters" />
+    </edges>
+  </graph>
+</gexf>

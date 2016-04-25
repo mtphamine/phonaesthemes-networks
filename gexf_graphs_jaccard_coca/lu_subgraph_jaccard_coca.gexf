@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="lulling" label="lulling" />
+      <node id="lummox" label="lummox">
+        <attvalues>
+          <attvalue for="0" value="1.38021124171" />
+        </attvalues>
+      </node>
+      <node id="lubricious" label="lubricious" />
+      <node id="ludicrous" label="ludicrous" />
+      <node id="lush" label="lush" />
+      <node id="lurch" label="lurch">
+        <attvalues>
+          <attvalue for="0" value="2.88761730034" />
+        </attvalues>
+      </node>
+      <node id="lust" label="lust">
+        <attvalues>
+          <attvalue for="0" value="3.40157284568" />
+        </attvalues>
+      </node>
+      <node id="lull" label="lull">
+        <attvalues>
+          <attvalue for="0" value="2.96189547367" />
+        </attvalues>
+      </node>
+      <node id="lurking" label="lurking">
+        <attvalues>
+          <attvalue for="0" value="3.19755621315" />
+        </attvalues>
+      </node>
+      <node id="lumpen" label="lumpen" />
+      <node id="luminous" label="luminous" />
+      <node id="lunkhead" label="lunkhead">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="lumpy" label="lumpy">
+        <attvalues>
+          <attvalue for="0" value="2.92324401863" />
+        </attvalues>
+      </node>
+      <node id="luncheon" label="luncheon" />
+      <node id="lukewarm" label="lukewarm" />
+      <node id="lubricate" label="lubricate" />
+      <node id="luminary" label="luminary">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+      <node id="lumpish" label="lumpish">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="luscious" label="luscious" />
+      <node id="luxury" label="luxury" />
+      <node id="lumen" label="lumen" />
+      <node id="lug" label="lug">
+        <attvalues>
+          <attvalue for="0" value="2.73798732633" />
+        </attvalues>
+      </node>
+      <node id="lumbago" label="lumbago">
+        <attvalues>
+          <attvalue for="0" value="1.47712125472" />
+        </attvalues>
+      </node>
+      <node id="lucid" label="lucid" />
+      <node id="lurid" label="lurid">
+        <attvalues>
+          <attvalue for="0" value="2.84198480459" />
+        </attvalues>
+      </node>
+      <node id="lusty" label="lusty" />
+      <node id="lure" label="lure">
+        <attvalues>
+          <attvalue for="0" value="3.63708927353" />
+        </attvalues>
+      </node>
+      <node id="lunchroom" label="lunchroom">
+        <attvalues>
+          <attvalue for="0" value="2.51719589795" />
+        </attvalues>
+      </node>
+      <node id="lunatic" label="lunatic">
+        <attvalues>
+          <attvalue for="0" value="2.94792361983" />
+        </attvalues>
+      </node>
+      <node id="lucre" label="lucre">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="lustily" label="lustily">
+        <attvalues>
+          <attvalue for="0" value="2.02118929907" />
+        </attvalues>
+      </node>
+      <node id="lumbering" label="lumbering" />
+      <node id="lurk" label="lurk" />
+      <node id="lucky" label="lucky">
+        <attvalues>
+          <attvalue for="0" value="4.24221832025" />
+        </attvalues>
+      </node>
+      <node id="lump" label="lump" />
+      <node id="luxurious" label="luxurious">
+        <attvalues>
+          <attvalue for="0" value="3.2929202996" />
+        </attvalues>
+      </node>
+      <node id="lunge" label="lunge">
+        <attvalues>
+          <attvalue for="0" value="2.88081359228" />
+        </attvalues>
+      </node>
+      <node id="lunch" label="lunch" />
+      <node id="lucrative" label="lucrative" />
+      <node id="lustrous" label="lustrous" />
+      <node id="lubber" label="lubber">
+        <attvalues>
+          <attvalue for="0" value="1.54406804435" />
+        </attvalues>
+      </node>
+      <node id="lucidity" label="lucidity" />
+      <node id="lustful" label="lustful">
+        <attvalues>
+          <attvalue for="0" value="2.19865708695" />
+        </attvalues>
+      </node>
+      <node id="lumberyard" label="lumberyard" />
+      <node id="luxuriant" label="luxuriant">
+        <attvalues>
+          <attvalue for="0" value="2.3856062736" />
+        </attvalues>
+      </node>
+      <node id="lusterless" label="lusterless">
+        <attvalues>
+          <attvalue for="0" value="1.59106460703" />
+        </attvalues>
+      </node>
+      <node id="luggage" label="luggage" />
+      <node id="luxuriate" label="luxuriate" />
+      <node id="lupine" label="lupine" />
+      <node id="lux" label="lux">
+        <attvalues>
+          <attvalue for="0" value="2.33243845992" />
+        </attvalues>
+      </node>
+      <node id="lumber" label="lumber">
+        <attvalues>
+          <attvalue for="0" value="3.47741068791" />
+        </attvalues>
+      </node>
+      <node id="lucubration" label="lucubration" />
+      <node id="lurching" label="lurching" />
+      <node id="luster" label="luster">
+        <attvalues>
+          <attvalue for="0" value="2.95616843048" />
+        </attvalues>
+      </node>
+      <node id="lucent" label="lucent">
+        <attvalues>
+          <attvalue for="0" value="2.64246452024" />
+        </attvalues>
+      </node>
+      <node id="luck" label="luck" />
+    </nodes>
+    <edges>
+      <edge id="0" source="lulling" target="lull" weight="0.021127" />
+      <edge id="1" source="lulling" target="luxurious" weight="0.006369" />
+      <edge id="2" source="lummox" target="lumpish" weight="0.029412" />
+      <edge id="3" source="lummox" target="lump" weight="0.082969" />
+      <edge id="4" source="lummox" target="lurch" weight="0.006329" />
+      <edge id="5" source="lummox" target="lumber" weight="0.005319" />
+      <edge id="6" source="lummox" target="lubricate" weight="0.014706" />
+      <edge id="7" source="lummox" target="lubber" weight="0.32" />
+      <edge id="8" source="lummox" target="lug" weight="0.098592" />
+      <edge id="9" source="lummox" target="lumpen" weight="0.025641" />
+      <edge id="10" source="lummox" target="lunkhead" weight="0.02381" />
+      <edge id="11" source="lubricious" target="lurid" weight="0.035714" />
+      <edge id="12" source="lubricious" target="lustful" weight="0.42" />
+      <edge id="13" source="lubricious" target="luster" weight="0.009524" />
+      <edge id="14" source="lubricious" target="luxurious" weight="0.006536" />
+      <edge id="15" source="ludicrous" target="luxuriant" weight="0.014706" />
+      <edge id="16" source="ludicrous" target="lurid" weight="0.014634" />
+      <edge id="17" source="ludicrous" target="lunatic" weight="0.010309" />
+      <edge id="18" source="ludicrous" target="luxurious" weight="0.012739" />
+      <edge id="19" source="lush" target="lucre" weight="0.006944" />
+      <edge id="20" source="lush" target="lucky" weight="0.008" />
+      <edge id="21" source="lush" target="lumpish" weight="0.019231" />
+      <edge id="22" source="lush" target="lust" weight="0.006579" />
+      <edge id="23" source="lush" target="lustful" weight="0.007463" />
+      <edge id="24" source="lush" target="luxurious" weight="0.09" />
+      <edge id="25" source="lush" target="luxuriant" weight="0.387324" />
+      <edge id="26" source="lurch" target="lure" weight="0.013274" />
+      <edge id="27" source="lurch" target="luxuriate" weight="0.012579" />
+      <edge id="28" source="lurch" target="lucid" weight="0.004831" />
+      <edge id="29" source="lurch" target="lurk" weight="0.013158" />
+      <edge id="30" source="lurch" target="lump" weight="0.017094" />
+      <edge id="31" source="lurch" target="lumberyard" weight="0.005618" />
+      <edge id="32" source="lurch" target="lunge" weight="0.422535" />
+      <edge id="33" source="lurch" target="lurching" weight="0.005556" />
+      <edge id="34" source="lurch" target="lumber" weight="0.273504" />
+      <edge id="35" source="lurch" target="lubricate" weight="0.00565" />
+      <edge id="36" source="lurch" target="lubber" weight="0.011561" />
+      <edge id="37" source="lurch" target="lug" weight="0.027473" />
+      <edge id="38" source="lurch" target="lull" weight="0.008333" />
+      <edge id="39" source="lurch" target="luck" weight="0.011834" />
+      <edge id="40" source="lust" target="lupine" weight="0.014706" />
+      <edge id="41" source="lust" target="luxurious" weight="0.005682" />
+      <edge id="42" source="lust" target="luxury" weight="0.00813" />
+      <edge id="43" source="lust" target="lucidity" weight="0.009901" />
+      <edge id="44" source="lust" target="luxuriant" weight="0.006452" />
+      <edge id="45" source="lull" target="lusterless" weight="0.013333" />
+      <edge id="46" source="lull" target="lukewarm" weight="0.007463" />
+      <edge id="47" source="lull" target="lubricate" weight="0.027027" />
+      <edge id="48" source="lull" target="lumbering" weight="0.004975" />
+      <edge id="49" source="lull" target="lump" weight="0.00303" />
+      <edge id="50" source="lull" target="lumpish" weight="0.013636" />
+      <edge id="51" source="lull" target="lunge" weight="0.005714" />
+      <edge id="52" source="lull" target="lumber" weight="0.00369" />
+      <edge id="53" source="lull" target="luxury" weight="0.005714" />
+      <edge id="54" source="lull" target="lucidity" weight="0.006536" />
+      <edge id="55" source="lull" target="luck" weight="0.013986" />
+      <edge id="56" source="lull" target="lurid" weight="0.007246" />
+      <edge id="57" source="lurking" target="lumpish" weight="0.00641" />
+      <edge id="58" source="lumpen" target="lumpy" weight="0.006135" />
+      <edge id="59" source="lumpen" target="lunatic" weight="0.005155" />
+      <edge id="60" source="lumpen" target="lucre" weight="0.005495" />
+      <edge id="61" source="lumpen" target="lumpish" weight="0.072961" />
+      <edge id="62" source="lumpen" target="lusterless" weight="0.005618" />
+      <edge id="63" source="lumpen" target="lumber" weight="0.003356" />
+      <edge id="64" source="lumpen" target="lubber" weight="0.023256" />
+      <edge id="65" source="lumpen" target="lustful" weight="0.005814" />
+      <edge id="66" source="lumpen" target="luxuriant" weight="0.008584" />
+      <edge id="67" source="lumpen" target="lurid" weight="0.020067" />
+      <edge id="68" source="luminous" target="lucent" weight="0.115385" />
+      <edge id="69" source="luminous" target="lumpy" weight="0.007634" />
+      <edge id="70" source="luminous" target="luminary" weight="0.013793" />
+      <edge id="71" source="luminous" target="lucky" weight="0.015385" />
+      <edge id="72" source="luminous" target="luxurious" weight="0.009009" />
+      <edge id="73" source="luminous" target="lurid" weight="0.003676" />
+      <edge id="74" source="lunkhead" target="lubber" weight="0.053571" />
+      <edge id="75" source="lunkhead" target="lump" weight="0.004167" />
+      <edge id="76" source="lumpy" target="lusty" weight="0.00813" />
+      <edge id="77" source="lumpy" target="lumbering" weight="0.098214" />
+      <edge id="78" source="lumpy" target="lumpish" weight="0.142857" />
+      <edge id="79" source="lumpy" target="lump" weight="0.008" />
+      <edge id="80" source="lumpy" target="lurching" weight="0.013333" />
+      <edge id="81" source="luncheon" target="lunchroom" weight="0.034483" />
+      <edge id="82" source="lukewarm" target="lusterless" weight="0.014286" />
+      <edge id="83" source="lukewarm" target="lurid" weight="0.010256" />
+      <edge id="84" source="lukewarm" target="lumpish" weight="0.007092" />
+      <edge id="85" source="lukewarm" target="luxurious" weight="0.006803" />
+      <edge id="86" source="lubricate" target="lure" weight="0.007246" />
+      <edge id="87" source="lubricate" target="lunatic" weight="0.009709" />
+      <edge id="88" source="lubricate" target="lunge" weight="0.009009" />
+      <edge id="89" source="lubricate" target="lumber" weight="0.004831" />
+      <edge id="90" source="lubricate" target="lug" weight="0.010417" />
+      <edge id="91" source="lubricate" target="luster" weight="0.017391" />
+      <edge id="92" source="luminary" target="lure" weight="0.014599" />
+      <edge id="93" source="luminary" target="lux" weight="0.040816" />
+      <edge id="94" source="luminary" target="lucid" weight="0.008547" />
+      <edge id="95" source="luminary" target="lustrous" weight="0.012987" />
+      <edge id="96" source="luminary" target="lumen" weight="0.040816" />
+      <edge id="97" source="luminary" target="luster" weight="0.026316" />
+      <edge id="98" source="luminary" target="luck" weight="0.0125" />
+      <edge id="99" source="lumpish" target="lusty" weight="0.009615" />
+      <edge id="100" source="lumpish" target="lucre" weight="0.006173" />
+      <edge id="101" source="lumpish" target="lumbering" weight="0.215116" />
+      <edge id="102" source="lumpish" target="lump" weight="0.015015" />
+      <edge id="103" source="lumpish" target="luxurious" weight="0.008547" />
+      <edge id="104" source="lumpish" target="lusterless" weight="0.032468" />
+      <edge id="105" source="lumpish" target="lucrative" weight="0.007692" />
+      <edge id="106" source="lumpish" target="luxury" weight="0.005495" />
+      <edge id="107" source="lumpish" target="lubber" weight="0.026316" />
+      <edge id="108" source="lumpish" target="luxuriant" weight="0.02381" />
+      <edge id="109" source="lumpish" target="lurid" weight="0.014235" />
+      <edge id="110" source="luscious" target="lustful" weight="0.012048" />
+      <edge id="111" source="luscious" target="lurid" weight="0.004651" />
+      <edge id="112" source="luscious" target="luxuriant" weight="0.081481" />
+      <edge id="113" source="luscious" target="lucky" weight="0.013514" />
+      <edge id="114" source="luscious" target="luxurious" weight="0.10596" />
+      <edge id="115" source="luxury" target="lure" weight="0.012422" />
+      <edge id="116" source="luxury" target="lucre" weight="0.026549" />
+      <edge id="117" source="luxury" target="luxurious" weight="0.005319" />
+      <edge id="118" source="luxury" target="luxuriant" weight="0.005988" />
+      <edge id="119" source="luxury" target="luster" weight="0.036765" />
+      <edge id="120" source="lumen" target="lux" weight="0.75" />
+      <edge id="121" source="lumen" target="lumbago" weight="0.013158" />
+      <edge id="122" source="lug" target="lusty" weight="0.006803" />
+      <edge id="123" source="lug" target="lure" weight="0.049645" />
+      <edge id="124" source="lug" target="lucre" weight="0.01" />
+      <edge id="125" source="lug" target="luggage" weight="0.029851" />
+      <edge id="126" source="lug" target="lurk" weight="0.013889" />
+      <edge id="127" source="lug" target="lump" weight="0.041509" />
+      <edge id="128" source="lug" target="lunge" weight="0.016807" />
+      <edge id="129" source="lug" target="lumber" weight="0.018779" />
+      <edge id="130" source="lug" target="lubber" weight="0.08046" />
+      <edge id="131" source="lug" target="lucubration" weight="0.007634" />
+      <edge id="132" source="lumbago" target="lux" weight="0.013158" />
+      <edge id="133" source="lumbago" target="lustful" weight="0.009346" />
+      <edge id="134" source="lumbago" target="lump" weight="0.013841" />
+      <edge id="135" source="lucid" target="lucent" weight="0.101266" />
+      <edge id="136" source="lucid" target="lux" weight="0.0125" />
+      <edge id="137" source="lucid" target="lucky" weight="0.009804" />
+      <edge id="138" source="lucid" target="luxurious" weight="0.010363" />
+      <edge id="139" source="lucid" target="luxuriant" weight="0.00578" />
+      <edge id="140" source="lurid" target="lustily" weight="0.005435" />
+      <edge id="141" source="lurid" target="lumbering" weight="0.011494" />
+      <edge id="142" source="lurid" target="lump" weight="0.002551" />
+      <edge id="143" source="lurid" target="luxurious" weight="0.035587" />
+      <edge id="144" source="lurid" target="lusterless" weight="0.20904" />
+      <edge id="145" source="lurid" target="lustrous" weight="0.004926" />
+      <edge id="146" source="lurid" target="luxuriant" weight="0.018868" />
+      <edge id="147" source="lurid" target="lustful" weight="0.029703" />
+      <edge id="148" source="lusty" target="lucre" weight="0.007042" />
+      <edge id="149" source="lusty" target="luxurious" weight="0.014085" />
+      <edge id="150" source="lusty" target="luxuriant" weight="0.020942" />
+      <edge id="151" source="lusty" target="luster" weight="0.005988" />
+      <edge id="152" source="lure" target="lucre" weight="0.028777" />
+      <edge id="153" source="lure" target="lunge" weight="0.012422" />
+      <edge id="154" source="lure" target="lumber" weight="0.044355" />
+      <edge id="155" source="lunchroom" target="lunch" weight="0.03125" />
+      <edge id="156" source="lunatic" target="lurching" weight="0.019048" />
+      <edge id="157" source="lunatic" target="lubber" weight="0.01" />
+      <edge id="158" source="lucre" target="lumberyard" weight="0.01087" />
+      <edge id="159" source="lucre" target="lumber" weight="0.004739" />
+      <edge id="160" source="lucre" target="lucubration" weight="0.007937" />
+      <edge id="161" source="lucre" target="luxuriant" weight="0.006803" />
+      <edge id="162" source="lucre" target="luck" weight="0.011905" />
+      <edge id="163" source="lumbering" target="luxurious" weight="0.014151" />
+      <edge id="164" source="lumbering" target="lusterless" weight="0.007299" />
+      <edge id="165" source="lumbering" target="luxuriant" weight="0.010417" />
+      <edge id="166" source="lurk" target="lunge" weight="0.023256" />
+      <edge id="167" source="lurk" target="lumber" weight="0.016575" />
+      <edge id="168" source="lucky" target="lucent" weight="0.02439" />
+      <edge id="169" source="lucky" target="luxurious" weight="0.013514" />
+      <edge id="170" source="lucky" target="lustrous" weight="0.016129" />
+      <edge id="171" source="lucky" target="luck" weight="0.015385" />
+      <edge id="172" source="lump" target="luxuriant" weight="0.006231" />
+      <edge id="173" source="lump" target="lunge" weight="0.021053" />
+      <edge id="174" source="lump" target="lumber" weight="0.021108" />
+      <edge id="175" source="lump" target="lubber" weight="0.047619" />
+      <edge id="176" source="lump" target="luxurious" weight="0.002915" />
+      <edge id="177" source="luxurious" target="luxuriant" weight="0.181818" />
+      <edge id="178" source="luxurious" target="lucrative" weight="0.007353" />
+      <edge id="179" source="luxurious" target="lustrous" weight="0.013072" />
+      <edge id="180" source="luxurious" target="lustful" weight="0.006329" />
+      <edge id="181" source="luxurious" target="luster" weight="0.005181" />
+      <edge id="182" source="lunge" target="luxuriate" weight="0.010638" />
+      <edge id="183" source="lunge" target="lumberyard" weight="0.008929" />
+      <edge id="184" source="lunge" target="lumber" weight="0.34104" />
+      <edge id="185" source="lunge" target="lubber" weight="0.009259" />
+      <edge id="186" source="lunge" target="luck" weight="0.009615" />
+      <edge id="187" source="lunch" target="lumber" weight="0.005587" />
+      <edge id="188" source="lucrative" target="luxuriant" weight="0.017544" />
+      <edge id="189" source="lustrous" target="lucent" weight="0.175" />
+      <edge id="190" source="lubber" target="lumber" weight="0.004902" />
+      <edge id="191" source="lucidity" target="luster" weight="0.017094" />
+      <edge id="192" source="lumberyard" target="lumber" weight="0.004808" />
+      <edge id="193" source="luxuriant" target="luxuriate" weight="0.007937" />
+      <edge id="194" source="luxuriant" target="luster" weight="0.005814" />
+      <edge id="195" source="lusterless" target="luster" weight="0.008621" />
+      <edge id="196" source="luggage" target="lumber" weight="0.028571" />
+      <edge id="197" source="luxuriate" target="lumber" weight="0.005263" />
+      <edge id="198" source="luxuriate" target="luster" weight="0.010101" />
+      <edge id="199" source="lux" target="luck" weight="0.023256" />
+      <edge id="200" source="lumber" target="luck" weight="0.005" />
+      <edge id="201" source="lumber" target="luster" weight="0.004237" />
+    </edges>
+  </graph>
+</gexf>

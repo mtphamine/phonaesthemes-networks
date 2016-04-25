@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="epithet" label="epithet" />
+      <node id="epigram" label="epigram" />
+      <node id="epicurean" label="epicurean" />
+      <node id="epigraph" label="epigraph" />
+      <node id="epic" label="epic" />
+      <node id="epicure" label="epicure" />
+    </nodes>
+    <edges>
+      <edge id="0" source="epithet" target="epigraph" />
+      <edge id="1" source="epigram" target="epic" />
+      <edge id="2" source="epicurean" target="epicure" />
+    </edges>
+  </graph>
+</gexf>

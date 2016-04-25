@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="extravagance" label="extravagance" />
+      <node id="extramundane" label="extramundane" />
+      <node id="extremism" label="extremism" />
+      <node id="extrinsic" label="extrinsic" />
+      <node id="extramural" label="extramural" />
+      <node id="extraction" label="extraction" />
+      <node id="extricate" label="extricate" />
+      <node id="extrication" label="extrication" />
+      <node id="extremist" label="extremist" />
+      <node id="extraterrestrial" label="extraterrestrial" />
+      <node id="extravagant" label="extravagant" />
+      <node id="extraneous" label="extraneous" />
+      <node id="extremity" label="extremity" />
+      <node id="extract" label="extract" />
+      <node id="extravaganza" label="extravaganza" />
+      <node id="extreme" label="extreme" />
+    </nodes>
+    <edges>
+      <edge id="0" source="extravagance" target="extremity" />
+      <edge id="1" source="extravagance" target="extremism" />
+      <edge id="2" source="extravagance" target="extravaganza" />
+      <edge id="3" source="extravagance" target="extreme" />
+      <edge id="4" source="extramundane" target="extraterrestrial" />
+      <edge id="5" source="extramundane" target="extramural" />
+      <edge id="6" source="extremism" target="extremity" />
+      <edge id="7" source="extremism" target="extreme" />
+      <edge id="8" source="extrinsic" target="extraterrestrial" />
+      <edge id="9" source="extrinsic" target="extraneous" />
+      <edge id="10" source="extramural" target="extraterrestrial" />
+      <edge id="11" source="extraction" target="extract" />
+      <edge id="12" source="extraction" target="extrication" />
+      <edge id="13" source="extricate" target="extract" />
+      <edge id="14" source="extremist" target="extravagant" />
+      <edge id="15" source="extremist" target="extreme" />
+      <edge id="16" source="extraterrestrial" target="extraneous" />
+      <edge id="17" source="extravagant" target="extreme" />
+      <edge id="18" source="extremity" target="extreme" />
+    </edges>
+  </graph>
+</gexf>

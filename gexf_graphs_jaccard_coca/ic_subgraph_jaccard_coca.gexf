@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="iconography" label="iconography" />
+      <node id="iceberg" label="iceberg" />
+      <node id="icing" label="icing">
+        <attvalues>
+          <attvalue for="0" value="3.07003786661" />
+        </attvalues>
+      </node>
+      <node id="icicle" label="icicle" />
+      <node id="ice" label="ice" />
+      <node id="iconology" label="iconology">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="icy" label="icy">
+        <attvalues>
+          <attvalue for="0" value="3.54765165836" />
+        </attvalues>
+      </node>
+      <node id="icky" label="icky" />
+      <node id="ictus" label="ictus">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="icterus" label="icterus" />
+      <node id="icon" label="icon">
+        <attvalues>
+          <attvalue for="0" value="3.61204174465" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="iconography" target="iconology" weight="0.085106" />
+      <edge id="1" source="iconography" target="icon" weight="0.017094" />
+      <edge id="2" source="iceberg" target="icy" weight="0.008" />
+      <edge id="3" source="iceberg" target="icing" weight="0.037037" />
+      <edge id="4" source="icing" target="ice" weight="0.011765" />
+      <edge id="5" source="icing" target="icicle" weight="0.037037" />
+      <edge id="6" source="icicle" target="icy" weight="0.008" />
+      <edge id="7" source="ice" target="icy" weight="0.033708" />
+      <edge id="8" source="iconology" target="icon" weight="0.033708" />
+      <edge id="9" source="icy" target="icky" weight="0.005618" />
+      <edge id="10" source="icy" target="icterus" weight="0.006024" />
+      <edge id="11" source="ictus" target="icterus" weight="0.03" />
+    </edges>
+  </graph>
+</gexf>

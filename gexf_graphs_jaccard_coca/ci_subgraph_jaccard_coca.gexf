@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="circularity" label="circularity" />
+      <node id="cincture" label="cincture" />
+      <node id="citizenry" label="citizenry" />
+      <node id="civic" label="civic" />
+      <node id="civil" label="civil">
+        <attvalues>
+          <attvalue for="0" value="4.60802298765" />
+        </attvalues>
+      </node>
+      <node id="circus" label="circus">
+        <attvalues>
+          <attvalue for="0" value="3.58274496569" />
+        </attvalues>
+      </node>
+      <node id="circumlocution" label="circumlocution">
+        <attvalues>
+          <attvalue for="0" value="1.34242268082" />
+        </attvalues>
+      </node>
+      <node id="civilized" label="civilized">
+        <attvalues>
+          <attvalue for="0" value="3.44200915914" />
+        </attvalues>
+      </node>
+      <node id="circuitry" label="circuitry">
+        <attvalues>
+          <attvalue for="0" value="2.81291335664" />
+        </attvalues>
+      </node>
+      <node id="circling" label="circling" />
+      <node id="circumferential" label="circumferential" />
+      <node id="circumscription" label="circumscription" />
+      <node id="circumscribe" label="circumscribe" />
+      <node id="circumvent" label="circumvent">
+        <attvalues>
+          <attvalue for="0" value="2.84010609446" />
+        </attvalues>
+      </node>
+      <node id="civilize" label="civilize" />
+      <node id="city" label="city">
+        <attvalues>
+          <attvalue for="0" value="5.28065120191" />
+        </attvalues>
+      </node>
+      <node id="circumstance" label="circumstance">
+        <attvalues>
+          <attvalue for="0" value="3.39199307226" />
+        </attvalues>
+      </node>
+      <node id="citadel" label="citadel">
+        <attvalues>
+          <attvalue for="0" value="3.007747778" />
+        </attvalues>
+      </node>
+      <node id="civilization" label="civilization">
+        <attvalues>
+          <attvalue for="0" value="3.86640549838" />
+        </attvalues>
+      </node>
+      <node id="citizen" label="citizen">
+        <attvalues>
+          <attvalue for="0" value="4.03144886186" />
+        </attvalues>
+      </node>
+      <node id="circumnavigate" label="circumnavigate">
+        <attvalues>
+          <attvalue for="0" value="1.86332286012" />
+        </attvalues>
+      </node>
+      <node id="circumcision" label="circumcision">
+        <attvalues>
+          <attvalue for="0" value="2.67851837904" />
+        </attvalues>
+      </node>
+      <node id="circuitous" label="circuitous">
+        <attvalues>
+          <attvalue for="0" value="2.51587384371" />
+        </attvalues>
+      </node>
+      <node id="cite" label="cite" />
+      <node id="circular" label="circular">
+        <attvalues>
+          <attvalue for="0" value="3.55930801091" />
+        </attvalues>
+      </node>
+      <node id="citation" label="citation" />
+      <node id="civilian" label="civilian">
+        <attvalues>
+          <attvalue for="0" value="4.07729521393" />
+        </attvalues>
+      </node>
+      <node id="cicatrix" label="cicatrix" />
+      <node id="circumstantiality" label="circumstantiality">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="cipher" label="cipher">
+        <attvalues>
+          <attvalue for="0" value="2.46982201598" />
+        </attvalues>
+      </node>
+      <node id="cinema" label="cinema">
+        <attvalues>
+          <attvalue for="0" value="3.50826030551" />
+        </attvalues>
+      </node>
+      <node id="cinch" label="cinch" />
+      <node id="circle" label="circle" />
+      <node id="circumstances" label="circumstances" />
+      <node id="circumference" label="circumference">
+        <attvalues>
+          <attvalue for="0" value="2.83947804737" />
+        </attvalues>
+      </node>
+      <node id="circumstantial" label="circumstantial">
+        <attvalues>
+          <attvalue for="0" value="2.98272338767" />
+        </attvalues>
+      </node>
+      <node id="circulation" label="circulation" />
+      <node id="cist" label="cist" />
+      <node id="civility" label="civility" />
+      <node id="circumspect" label="circumspect" />
+      <node id="circuit" label="circuit" />
+      <node id="circumvention" label="circumvention" />
+      <node id="cinder" label="cinder">
+        <attvalues>
+          <attvalue for="0" value="2.74585519517" />
+        </attvalues>
+      </node>
+      <node id="circulate" label="circulate" />
+      <node id="cirrus" label="cirrus" />
+      <node id="circumstantiate" label="circumstantiate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="circularity" target="circumference" weight="0.010989" />
+      <edge id="1" source="circularity" target="circus" weight="0.009091" />
+      <edge id="2" source="circularity" target="circumlocution" weight="0.304348" />
+      <edge id="3" source="circularity" target="circumstantiality" weight="0.022222" />
+      <edge id="4" source="circularity" target="circuitry" weight="0.411765" />
+      <edge id="5" source="circularity" target="circumnavigate" weight="0.044118" />
+      <edge id="6" source="circularity" target="circuitous" weight="0.037037" />
+      <edge id="7" source="circularity" target="circumvent" weight="0.023622" />
+      <edge id="8" source="circularity" target="circular" weight="0.028571" />
+      <edge id="9" source="cincture" target="circumference" weight="0.019048" />
+      <edge id="10" source="cincture" target="circus" weight="0.041322" />
+      <edge id="11" source="cincture" target="circumlocution" weight="0.013514" />
+      <edge id="12" source="cincture" target="circuitry" weight="0.016129" />
+      <edge id="13" source="cincture" target="circumnavigate" weight="0.011765" />
+      <edge id="14" source="cincture" target="circumvent" weight="0.006944" />
+      <edge id="15" source="citizenry" target="civil" weight="0.019802" />
+      <edge id="16" source="citizenry" target="city" weight="0.015873" />
+      <edge id="17" source="citizenry" target="civilization" weight="0.03125" />
+      <edge id="18" source="citizenry" target="circumstance" weight="0.022727" />
+      <edge id="19" source="civic" target="civil" weight="0.360825" />
+      <edge id="20" source="civic" target="city" weight="0.107143" />
+      <edge id="21" source="civic" target="circumstantial" weight="0.008547" />
+      <edge id="22" source="civic" target="circumstance" weight="0.008475" />
+      <edge id="23" source="civic" target="citizen" weight="0.033898" />
+      <edge id="24" source="civil" target="city" weight="0.016" />
+      <edge id="25" source="civil" target="circumstantial" weight="0.006623" />
+      <edge id="26" source="civil" target="circumstance" weight="0.006579" />
+      <edge id="27" source="civil" target="civilized" weight="0.02439" />
+      <edge id="28" source="civil" target="circumspect" weight="0.026667" />
+      <edge id="29" source="civil" target="citizen" weight="0.021505" />
+      <edge id="30" source="civil" target="cite" weight="0.006849" />
+      <edge id="31" source="circus" target="circumlocution" weight="0.009615" />
+      <edge id="32" source="circus" target="circuitry" weight="0.01087" />
+      <edge id="33" source="circus" target="circling" weight="0.007752" />
+      <edge id="34" source="circus" target="circumscription" weight="0.011628" />
+      <edge id="35" source="circus" target="circumvent" weight="0.035503" />
+      <edge id="36" source="circus" target="civilize" weight="0.008403" />
+      <edge id="37" source="circus" target="city" weight="0.008264" />
+      <edge id="38" source="circus" target="circumnavigate" weight="0.054545" />
+      <edge id="39" source="circus" target="circle" weight="0.131579" />
+      <edge id="40" source="circus" target="cite" weight="0.007092" />
+      <edge id="41" source="circus" target="circular" weight="0.008621" />
+      <edge id="42" source="circus" target="circumstance" weight="0.006803" />
+      <edge id="43" source="circus" target="cicatrix" weight="0.006623" />
+      <edge id="44" source="circus" target="circuitous" weight="0.007813" />
+      <edge id="45" source="circus" target="circumstances" weight="0.036697" />
+      <edge id="46" source="circus" target="circumference" weight="0.245455" />
+      <edge id="47" source="circus" target="circulation" weight="0.029197" />
+      <edge id="48" source="circus" target="cist" weight="0.010526" />
+      <edge id="49" source="circus" target="circuit" weight="0.183784" />
+      <edge id="50" source="circus" target="circulate" weight="0.047619" />
+      <edge id="51" source="circumlocution" target="circumference" weight="0.011765" />
+      <edge id="52" source="circumlocution" target="circumferential" weight="0.055556" />
+      <edge id="53" source="circumlocution" target="circulation" weight="0.184211" />
+      <edge id="54" source="circumlocution" target="circuitry" weight="0.5" />
+      <edge id="55" source="circumlocution" target="circling" weight="0.234375" />
+      <edge id="56" source="circumlocution" target="circuit" weight="0.056604" />
+      <edge id="57" source="circumlocution" target="circumnavigate" weight="0.048387" />
+      <edge id="58" source="circumlocution" target="circuitous" weight="0.083333" />
+      <edge id="59" source="circumlocution" target="circular" weight="0.047619" />
+      <edge id="60" source="circumlocution" target="circumvent" weight="0.024793" />
+      <edge id="61" source="circumlocution" target="circle" weight="0.012146" />
+      <edge id="62" source="circumlocution" target="cirrus" weight="0.031746" />
+      <edge id="63" source="circumlocution" target="circulate" weight="0.038462" />
+      <edge id="64" source="civilized" target="circumspect" weight="0.00885" />
+      <edge id="65" source="circuitry" target="circumference" weight="0.013699" />
+      <edge id="66" source="circuitry" target="circumferential" weight="0.04" />
+      <edge id="67" source="circuitry" target="circulation" weight="0.21875" />
+      <edge id="68" source="circuitry" target="circling" weight="0.264151" />
+      <edge id="69" source="circuitry" target="circuit" weight="0.04698" />
+      <edge id="70" source="circuitry" target="circumnavigate" weight="0.06" />
+      <edge id="71" source="circuitry" target="circuitous" weight="0.047619" />
+      <edge id="72" source="circuitry" target="circular" weight="0.038462" />
+      <edge id="73" source="circuitry" target="circumvent" weight="0.027523" />
+      <edge id="74" source="circuitry" target="circle" weight="0.012766" />
+      <edge id="75" source="circuitry" target="cirrus" weight="0.039216" />
+      <edge id="76" source="circuitry" target="circulate" weight="0.045455" />
+      <edge id="77" source="circling" target="city" weight="0.010526" />
+      <edge id="78" source="circling" target="circumference" weight="0.009091" />
+      <edge id="79" source="circling" target="circumnavigate" weight="0.034483" />
+      <edge id="80" source="circling" target="circuitous" weight="0.05102" />
+      <edge id="81" source="circling" target="circumvent" weight="0.020548" />
+      <edge id="82" source="circling" target="circular" weight="0.05814" />
+      <edge id="83" source="circumferential" target="city" weight="0.018519" />
+      <edge id="84" source="circumferential" target="circuitous" weight="0.016393" />
+      <edge id="85" source="circumferential" target="circular" weight="0.020408" />
+      <edge id="86" source="circumscription" target="city" weight="0.007194" />
+      <edge id="87" source="circumscription" target="circumference" weight="0.054422" />
+      <edge id="88" source="circumscription" target="cipher" weight="0.005348" />
+      <edge id="89" source="circumscription" target="circumnavigate" weight="0.007519" />
+      <edge id="90" source="circumscription" target="circumvent" weight="0.005208" />
+      <edge id="91" source="circumscribe" target="circumnavigate" weight="0.010417" />
+      <edge id="92" source="circumscribe" target="cipher" weight="0.006667" />
+      <edge id="93" source="circumscribe" target="circumvent" weight="0.006452" />
+      <edge id="94" source="circumscribe" target="circumstance" weight="0.015748" />
+      <edge id="95" source="circumvent" target="circumnavigate" weight="0.184211" />
+      <edge id="96" source="circumvent" target="circuitous" weight="0.013699" />
+      <edge id="97" source="circumvent" target="cite" weight="0.00625" />
+      <edge id="98" source="circumvent" target="circulate" weight="0.135338" />
+      <edge id="99" source="circumvent" target="cicatrix" weight="0.005882" />
+      <edge id="100" source="circumvent" target="cipher" weight="0.005319" />
+      <edge id="101" source="circumvent" target="cinch" weight="0.014925" />
+      <edge id="102" source="circumvent" target="circle" weight="0.063123" />
+      <edge id="103" source="circumvent" target="circumstances" weight="0.023256" />
+      <edge id="104" source="circumvent" target="circumference" weight="0.04698" />
+      <edge id="105" source="circumvent" target="circulation" weight="0.038961" />
+      <edge id="106" source="circumvent" target="circumvention" weight="0.007692" />
+      <edge id="107" source="circumvent" target="circuit" weight="0.096774" />
+      <edge id="108" source="circumvent" target="circular" weight="0.014925" />
+      <edge id="109" source="circumvent" target="cirrus" weight="0.015038" />
+      <edge id="110" source="civilize" target="cinema" weight="0.016667" />
+      <edge id="111" source="city" target="circumference" weight="0.009804" />
+      <edge id="112" source="city" target="circumstance" weight="0.00885" />
+      <edge id="113" source="city" target="circuit" weight="0.022099" />
+      <edge id="114" source="city" target="circle" weight="0.015209" />
+      <edge id="115" source="city" target="citadel" weight="0.015625" />
+      <edge id="116" source="city" target="circumstances" weight="0.012821" />
+      <edge id="117" source="circumstance" target="circumstantial" weight="0.007246" />
+      <edge id="118" source="circumstance" target="circuit" weight="0.004762" />
+      <edge id="119" source="circumstance" target="citation" weight="0.030612" />
+      <edge id="120" source="circumstance" target="cicatrix" weight="0.006993" />
+      <edge id="121" source="circumstance" target="circumstantiality" weight="0.012195" />
+      <edge id="122" source="circumstance" target="cinema" weight="0.011364" />
+      <edge id="123" source="circumstance" target="circumstantiate" weight="0.009901" />
+      <edge id="124" source="circumstance" target="cinch" weight="0.005682" />
+      <edge id="125" source="circumstance" target="civility" weight="0.008621" />
+      <edge id="126" source="circumstance" target="circle" weight="0.010345" />
+      <edge id="127" source="circumstance" target="circulate" weight="0.00813" />
+      <edge id="128" source="circumstance" target="cite" weight="0.007519" />
+      <edge id="129" source="circumstance" target="circumstances" weight="0.009615" />
+      <edge id="130" source="civilization" target="circumstantiality" weight="0.04" />
+      <edge id="131" source="civilization" target="civility" weight="0.153846" />
+      <edge id="132" source="civilization" target="circle" weight="0.004255" />
+      <edge id="133" source="citizen" target="civilian" weight="0.055556" />
+      <edge id="134" source="circumnavigate" target="circulate" weight="0.243243" />
+      <edge id="135" source="circumnavigate" target="circumference" weight="0.077778" />
+      <edge id="136" source="circumnavigate" target="circuit" weight="0.140127" />
+      <edge id="137" source="circumnavigate" target="circulation" weight="0.063158" />
+      <edge id="138" source="circumnavigate" target="cirrus" weight="0.027027" />
+      <edge id="139" source="circumnavigate" target="cinch" weight="0.006944" />
+      <edge id="140" source="circumnavigate" target="circuitous" weight="0.022989" />
+      <edge id="141" source="circumnavigate" target="circumstances" weight="0.042857" />
+      <edge id="142" source="circumnavigate" target="circle" weight="0.078512" />
+      <edge id="143" source="circumnavigate" target="cipher" weight="0.007752" />
+      <edge id="144" source="circumnavigate" target="circular" weight="0.026667" />
+      <edge id="145" source="circumcision" target="citation" weight="0.021277" />
+      <edge id="146" source="circuitous" target="circumference" weight="0.009174" />
+      <edge id="147" source="circuitous" target="circulation" weight="0.036364" />
+      <edge id="148" source="circuitous" target="circumvention" weight="0.011905" />
+      <edge id="149" source="circuitous" target="circuit" weight="0.015873" />
+      <edge id="150" source="circuitous" target="circle" weight="0.007353" />
+      <edge id="151" source="circuitous" target="circular" weight="0.2" />
+      <edge id="152" source="circuitous" target="cirrus" weight="0.011364" />
+      <edge id="153" source="circuitous" target="circulate" weight="0.019417" />
+      <edge id="154" source="cite" target="circumference" weight="0.008197" />
+      <edge id="155" source="cite" target="circumstantiality" weight="0.013158" />
+      <edge id="156" source="cite" target="circular" weight="0.009804" />
+      <edge id="157" source="circular" target="circumference" weight="0.010309" />
+      <edge id="158" source="circular" target="circulation" weight="0.030303" />
+      <edge id="159" source="circular" target="circle" weight="0.007692" />
+      <edge id="160" source="circular" target="circuit" weight="0.016949" />
+      <edge id="161" source="circular" target="cirrus" weight="0.013158" />
+      <edge id="162" source="circular" target="circulate" weight="0.033333" />
+      <edge id="163" source="citation" target="cipher" weight="0.008197" />
+      <edge id="164" source="cicatrix" target="cinema" weight="0.01087" />
+      <edge id="165" source="cicatrix" target="cipher" weight="0.012195" />
+      <edge id="166" source="cicatrix" target="cinder" weight="0.009174" />
+      <edge id="167" source="circumstantiality" target="civility" weight="0.016949" />
+      <edge id="168" source="circumstantiality" target="circumstantiate" weight="0.022727" />
+      <edge id="169" source="cipher" target="cinch" weight="0.010152" />
+      <edge id="170" source="cipher" target="circuit" weight="0.00431" />
+      <edge id="171" source="cipher" target="circulate" weight="0.013889" />
+      <edge id="172" source="cinema" target="circumstantial" weight="0.011494" />
+      <edge id="173" source="cinema" target="cinch" weight="0.008" />
+      <edge id="174" source="cinema" target="circuit" weight="0.006289" />
+      <edge id="175" source="circle" target="circumference" weight="0.13253" />
+      <edge id="176" source="circumstances" target="circumference" weight="0.068182" />
+      <edge id="177" source="circumference" target="circulation" weight="0.033898" />
+      <edge id="178" source="circumference" target="circuit" weight="0.197605" />
+      <edge id="179" source="circumference" target="circulate" weight="0.066038" />
+    </edges>
+  </graph>
+</gexf>

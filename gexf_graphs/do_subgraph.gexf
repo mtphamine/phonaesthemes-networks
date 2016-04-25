@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="dogged" label="dogged" />
+      <node id="doodad" label="doodad" />
+      <node id="domestic" label="domestic" />
+      <node id="doubtful" label="doubtful" />
+      <node id="dough" label="dough" />
+      <node id="dopey" label="dopey" />
+      <node id="documentary" label="documentary" />
+      <node id="dockyard" label="dockyard" />
+      <node id="dolly" label="dolly" />
+      <node id="doorjamb" label="doorjamb" />
+      <node id="do" label="do" />
+      <node id="doubting" label="doubting" />
+      <node id="downpour" label="downpour" />
+      <node id="dope" label="dope" />
+      <node id="dock" label="dock" />
+      <node id="dockage" label="dockage" />
+      <node id="documented" label="documented" />
+      <node id="downright" label="downright" />
+      <node id="donate" label="donate" />
+      <node id="donna" label="donna" />
+      <node id="dogmatic" label="dogmatic" />
+      <node id="downward" label="downward" />
+      <node id="doctrinaire" label="doctrinaire" />
+      <node id="domain" label="domain" />
+      <node id="doorpost" label="doorpost" />
+      <node id="doll" label="doll" />
+      <node id="doing" label="doing" />
+      <node id="dole" label="dole" />
+      <node id="doings" label="doings" />
+      <node id="dolt" label="dolt" />
+      <node id="dormancy" label="dormancy" />
+      <node id="dormitory" label="dormitory" />
+      <node id="downturn" label="downturn" />
+      <node id="dominate" label="dominate" />
+      <node id="doting" label="doting" />
+      <node id="dovelike" label="dovelike" />
+      <node id="dogging" label="dogging" />
+      <node id="dorm" label="dorm" />
+      <node id="doldrums" label="doldrums" />
+      <node id="domineering" label="domineering" />
+      <node id="doorway" label="doorway" />
+      <node id="dominion" label="dominion" />
+      <node id="doleful" label="doleful" />
+      <node id="doublethink" label="doublethink" />
+      <node id="down" label="down" />
+      <node id="downgrade" label="downgrade" />
+      <node id="done" label="done" />
+      <node id="doctrine" label="doctrine" />
+      <node id="downhill" label="downhill" />
+      <node id="dowager" label="dowager" />
+      <node id="dolorous" label="dolorous" />
+      <node id="douse" label="douse" />
+      <node id="doubtlessly" label="doubtlessly" />
+      <node id="doubling" label="doubling" />
+      <node id="downer" label="downer" />
+      <node id="dormant" label="dormant" />
+      <node id="door" label="door" />
+      <node id="downhearted" label="downhearted" />
+      <node id="dogma" label="dogma" />
+      <node id="domination" label="domination" />
+      <node id="don" label="don" />
+      <node id="dogmatist" label="dogmatist" />
+      <node id="domineer" label="domineer" />
+      <node id="dohickey" label="dohickey" />
+      <node id="doddering" label="doddering" />
+      <node id="dowry" label="dowry" />
+      <node id="dossier" label="dossier" />
+      <node id="double" label="double" />
+      <node id="dower" label="dower" />
+      <node id="donkey" label="donkey" />
+      <node id="downfall" label="downfall" />
+      <node id="domesticated" label="domesticated" />
+      <node id="dotted" label="dotted" />
+      <node id="doctor" label="doctor" />
+      <node id="dose" label="dose" />
+      <node id="document" label="document" />
+      <node id="dominance" label="dominance" />
+      <node id="doubtless" label="doubtless" />
+      <node id="dojigger" label="dojigger" />
+      <node id="donation" label="donation" />
+      <node id="dogleg" label="dogleg" />
+      <node id="downcast" label="downcast" />
+      <node id="doff" label="doff" />
+      <node id="dotty" label="dotty" />
+      <node id="docket" label="docket" />
+      <node id="dot" label="dot" />
+    </nodes>
+    <edges>
+      <edge id="0" source="dogged" target="dogmatic" />
+      <edge id="1" source="doodad" target="dohickey" />
+      <edge id="2" source="doodad" target="dojigger" />
+      <edge id="3" source="domestic" target="domesticated" />
+      <edge id="4" source="doubtful" target="doubting" />
+      <edge id="5" source="dough" target="down" />
+      <edge id="6" source="dopey" target="dormant" />
+      <edge id="7" source="documentary" target="documented" />
+      <edge id="8" source="dockyard" target="dock" />
+      <edge id="9" source="dockyard" target="dockage" />
+      <edge id="10" source="dolly" target="downer" />
+      <edge id="11" source="dolly" target="doll" />
+      <edge id="12" source="doorjamb" target="doorway" />
+      <edge id="13" source="doorjamb" target="door" />
+      <edge id="14" source="doorjamb" target="doorpost" />
+      <edge id="15" source="do" target="dope" />
+      <edge id="16" source="downpour" target="down" />
+      <edge id="17" source="downpour" target="downturn" />
+      <edge id="18" source="downpour" target="downgrade" />
+      <edge id="19" source="downpour" target="downfall" />
+      <edge id="20" source="dope" target="donkey" />
+      <edge id="21" source="dope" target="dolt" />
+      <edge id="22" source="dope" target="dose" />
+      <edge id="23" source="dock" target="dockage" />
+      <edge id="24" source="documented" target="down" />
+      <edge id="25" source="downright" target="downgrade" />
+      <edge id="26" source="downright" target="down" />
+      <edge id="27" source="downright" target="downward" />
+      <edge id="28" source="downright" target="downhill" />
+      <edge id="29" source="donate" target="dole" />
+      <edge id="30" source="donna" target="dowager" />
+      <edge id="31" source="dogmatic" target="doubtless" />
+      <edge id="32" source="dogmatic" target="doctrinaire" />
+      <edge id="33" source="downward" target="down" />
+      <edge id="34" source="downward" target="downgrade" />
+      <edge id="35" source="downward" target="downhill" />
+      <edge id="36" source="doctrinaire" target="dogmatist" />
+      <edge id="37" source="domain" target="dominion" />
+      <edge id="38" source="doorpost" target="door" />
+      <edge id="39" source="doorpost" target="doorway" />
+      <edge id="40" source="doing" target="doings" />
+      <edge id="41" source="dole" target="donation" />
+      <edge id="42" source="dole" target="dot" />
+      <edge id="43" source="dolt" target="donkey" />
+      <edge id="44" source="dormancy" target="doldrums" />
+      <edge id="45" source="dormitory" target="dorm" />
+      <edge id="46" source="downturn" target="down" />
+      <edge id="47" source="downturn" target="downgrade" />
+      <edge id="48" source="downturn" target="downfall" />
+      <edge id="49" source="dominate" target="domineer" />
+      <edge id="50" source="doting" target="doddering" />
+      <edge id="51" source="dovelike" target="domesticated" />
+      <edge id="52" source="dogging" target="downer" />
+      <edge id="53" source="domineering" target="domination" />
+      <edge id="54" source="doorway" target="door" />
+      <edge id="55" source="dominion" target="domination" />
+      <edge id="56" source="dominion" target="dominance" />
+      <edge id="57" source="doleful" target="dolorous" />
+      <edge id="58" source="doublethink" target="doubling" />
+      <edge id="59" source="down" target="downhearted" />
+      <edge id="60" source="down" target="downfall" />
+      <edge id="61" source="down" target="downcast" />
+      <edge id="62" source="down" target="downhill" />
+      <edge id="63" source="down" target="down" />
+      <edge id="64" source="down" target="done" />
+      <edge id="65" source="down" target="downgrade" />
+      <edge id="66" source="downgrade" target="downfall" />
+      <edge id="67" source="downgrade" target="downhill" />
+      <edge id="68" source="doctrine" target="dogma" />
+      <edge id="69" source="douse" target="doff" />
+      <edge id="70" source="doubtlessly" target="doubtless" />
+      <edge id="71" source="doubling" target="double" />
+      <edge id="72" source="downhearted" target="downcast" />
+      <edge id="73" source="domination" target="dominance" />
+      <edge id="74" source="don" target="doctor" />
+      <edge id="75" source="dogmatist" target="donkey" />
+      <edge id="76" source="dohickey" target="dojigger" />
+      <edge id="77" source="dowry" target="dower" />
+      <edge id="78" source="dowry" target="dot" />
+      <edge id="79" source="dossier" target="document" />
+      <edge id="80" source="dossier" target="docket" />
+      <edge id="81" source="double" target="dogleg" />
+      <edge id="82" source="dower" target="dot" />
+      <edge id="83" source="dotted" target="dotty" />
+      <edge id="84" source="document" target="docket" />
+    </edges>
+  </graph>
+</gexf>

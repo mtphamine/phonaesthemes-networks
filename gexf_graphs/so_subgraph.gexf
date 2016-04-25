@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="sonnet" label="sonnet" />
+      <node id="soggy" label="soggy" />
+      <node id="sourness" label="sourness" />
+      <node id="soften" label="soften" />
+      <node id="soigne" label="soigne" />
+      <node id="solitary" label="solitary" />
+      <node id="softening" label="softening" />
+      <node id="soaking" label="soaking" />
+      <node id="solving" label="solving" />
+      <node id="soused" label="soused" />
+      <node id="sorry" label="sorry" />
+      <node id="southwest" label="southwest" />
+      <node id="someone" label="someone" />
+      <node id="somebody" label="somebody" />
+      <node id="song" label="song" />
+      <node id="softened" label="softened" />
+      <node id="soundness" label="soundness" />
+      <node id="soothing" label="soothing" />
+      <node id="sonant" label="sonant" />
+      <node id="solution" label="solution" />
+      <node id="sodden" label="sodden" />
+      <node id="solid" label="solid" />
+      <node id="sonar" label="sonar" />
+      <node id="soft" label="soft" />
+      <node id="sourdough" label="sourdough" />
+      <node id="sophistical" label="sophistical" />
+      <node id="somnolent" label="somnolent" />
+      <node id="some" label="some" />
+      <node id="society" label="society" />
+      <node id="softhearted" label="softhearted" />
+      <node id="southerly" label="southerly" />
+      <node id="solemn" label="solemn" />
+      <node id="southward" label="southward" />
+      <node id="songbird" label="songbird" />
+      <node id="songster" label="songster" />
+      <node id="sourpuss" label="sourpuss" />
+      <node id="solo" label="solo" />
+      <node id="sole" label="sole" />
+      <node id="solvent" label="solvent" />
+      <node id="southern" label="southern" />
+      <node id="solecism" label="solecism" />
+      <node id="southeast" label="southeast" />
+      <node id="sophism" label="sophism" />
+      <node id="soberly" label="soberly" />
+      <node id="sonorous" label="sonorous" />
+      <node id="social" label="social" />
+      <node id="sorrowful" label="sorrowful" />
+      <node id="sonority" label="sonority" />
+      <node id="south" label="south" />
+      <node id="sod" label="sod" />
+      <node id="soap" label="soap" />
+      <node id="son" label="son" />
+      <node id="sop" label="sop" />
+      <node id="softy" label="softy" />
+      <node id="sot" label="sot" />
+      <node id="sober" label="sober" />
+      <node id="sonny" label="sonny" />
+      <node id="sock" label="sock" />
+      <node id="sociable" label="sociable" />
+      <node id="solemnly" label="solemnly" />
+      <node id="sobriety" label="sobriety" />
+      <node id="soiree" label="soiree" />
+      <node id="sorcery" label="sorcery" />
+      <node id="sophisticated" label="sophisticated" />
+      <node id="sore" label="sore" />
+      <node id="soprano" label="soprano" />
+      <node id="somewhat" label="somewhat" />
+      <node id="sound" label="sound" />
+      <node id="soreness" label="soreness" />
+      <node id="somber" label="somber" />
+      <node id="soul" label="soul" />
+      <node id="sour" label="sour" />
+      <node id="sophistry" label="sophistry" />
+      <node id="solidification" label="solidification" />
+      <node id="souse" label="souse" />
+      <node id="soil" label="soil" />
+      <node id="sophistic" label="sophistic" />
+      <node id="soothe" label="soothe" />
+      <node id="something" label="something" />
+      <node id="sounding" label="sounding" />
+      <node id="soak" label="soak" />
+      <node id="soaked" label="soaked" />
+      <node id="sorehead" label="sorehead" />
+      <node id="sorority" label="sorority" />
+      <node id="soaker" label="soaker" />
+      <node id="sorcerer" label="sorcerer" />
+      <node id="solidity" label="solidity" />
+      <node id="songbook" label="songbook" />
+      <node id="soured" label="soured" />
+      <node id="sophistication" label="sophistication" />
+      <node id="solidarity" label="solidarity" />
+      <node id="solemnity" label="solemnity" />
+      <node id="socialistic" label="socialistic" />
+      <node id="sounder" label="sounder" />
+      <node id="sounded" label="sounded" />
+      <node id="soporific" label="soporific" />
+      <node id="sopping" label="sopping" />
+    </nodes>
+    <edges>
+      <edge id="0" source="sonnet" target="song" />
+      <edge id="1" source="soggy" target="soaking" />
+      <edge id="2" source="soggy" target="sopping" />
+      <edge id="3" source="soggy" target="soaked" />
+      <edge id="4" source="soggy" target="sodden" />
+      <edge id="5" source="soggy" target="soused" />
+      <edge id="6" source="sourness" target="soreness" />
+      <edge id="7" source="soften" target="soothe" />
+      <edge id="8" source="soigne" target="sophisticated" />
+      <edge id="9" source="solitary" target="solid" />
+      <edge id="10" source="solitary" target="solo" />
+      <edge id="11" source="solitary" target="sole" />
+      <edge id="12" source="softening" target="soothing" />
+      <edge id="13" source="soaking" target="souse" />
+      <edge id="14" source="soaking" target="soak" />
+      <edge id="15" source="soaking" target="soaked" />
+      <edge id="16" source="soaking" target="sopping" />
+      <edge id="17" source="soaking" target="soused" />
+      <edge id="18" source="soaking" target="sodden" />
+      <edge id="19" source="solving" target="solution" />
+      <edge id="20" source="soused" target="soaked" />
+      <edge id="21" source="soused" target="sodden" />
+      <edge id="22" source="soused" target="sopping" />
+      <edge id="23" source="sorry" target="sorrowful" />
+      <edge id="24" source="southwest" target="southern" />
+      <edge id="25" source="southwest" target="southerly" />
+      <edge id="26" source="southwest" target="southward" />
+      <edge id="27" source="southwest" target="south" />
+      <edge id="28" source="southwest" target="southeast" />
+      <edge id="29" source="someone" target="somebody" />
+      <edge id="30" source="someone" target="soul" />
+      <edge id="31" source="somebody" target="something" />
+      <edge id="32" source="somebody" target="soul" />
+      <edge id="33" source="song" target="solo" />
+      <edge id="34" source="softened" target="sober" />
+      <edge id="35" source="softened" target="soft" />
+      <edge id="36" source="softened" target="somber" />
+      <edge id="37" source="soundness" target="solidity" />
+      <edge id="38" source="soundness" target="sobriety" />
+      <edge id="39" source="soothing" target="soporific" />
+      <edge id="40" source="soothing" target="soft" />
+      <edge id="41" source="sonant" target="soft" />
+      <edge id="42" source="sonant" target="sonority" />
+      <edge id="43" source="sodden" target="souse" />
+      <edge id="44" source="sodden" target="soak" />
+      <edge id="45" source="sodden" target="soaked" />
+      <edge id="46" source="sodden" target="sop" />
+      <edge id="47" source="sodden" target="sopping" />
+      <edge id="48" source="solid" target="sound" />
+      <edge id="49" source="solid" target="sole" />
+      <edge id="50" source="solid" target="solvent" />
+      <edge id="51" source="sonar" target="sounding" />
+      <edge id="52" source="soft" target="somber" />
+      <edge id="53" source="soft" target="sober" />
+      <edge id="54" source="soft" target="softhearted" />
+      <edge id="55" source="sourdough" target="sour" />
+      <edge id="56" source="sophistical" target="sophistic" />
+      <edge id="57" source="somnolent" target="soporific" />
+      <edge id="58" source="some" target="something" />
+      <edge id="59" source="some" target="somewhat" />
+      <edge id="60" source="society" target="sorority" />
+      <edge id="61" source="society" target="sociable" />
+      <edge id="62" source="society" target="social" />
+      <edge id="63" source="southerly" target="southeast" />
+      <edge id="64" source="southerly" target="southern" />
+      <edge id="65" source="southerly" target="south" />
+      <edge id="66" source="solemn" target="sober" />
+      <edge id="67" source="solemn" target="somber" />
+      <edge id="68" source="southward" target="southeast" />
+      <edge id="69" source="southward" target="south" />
+      <edge id="70" source="songbird" target="soprano" />
+      <edge id="71" source="songbird" target="songster" />
+      <edge id="72" source="songster" target="soprano" />
+      <edge id="73" source="songster" target="songbook" />
+      <edge id="74" source="sourpuss" target="sorehead" />
+      <edge id="75" source="solo" target="sole" />
+      <edge id="76" source="solvent" target="sound" />
+      <edge id="77" source="solvent" target="soap" />
+      <edge id="78" source="southern" target="southeast" />
+      <edge id="79" source="southern" target="south" />
+      <edge id="80" source="solecism" target="sophistry" />
+      <edge id="81" source="solecism" target="sophism" />
+      <edge id="82" source="southeast" target="south" />
+      <edge id="83" source="sophism" target="sophistry" />
+      <edge id="84" source="sophism" target="sophistication" />
+      <edge id="85" source="soberly" target="solemnly" />
+      <edge id="86" source="sonorous" target="sounding" />
+      <edge id="87" source="sonorous" target="sounded" />
+      <edge id="88" source="social" target="socialistic" />
+      <edge id="89" source="social" target="sociable" />
+      <edge id="90" source="social" target="soiree" />
+      <edge id="91" source="sorrowful" target="sore" />
+      <edge id="92" source="sod" target="soil" />
+      <edge id="93" source="son" target="sonny" />
+      <edge id="94" source="sop" target="souse" />
+      <edge id="95" source="sop" target="softy" />
+      <edge id="96" source="sop" target="soak" />
+      <edge id="97" source="sot" target="soaker" />
+      <edge id="98" source="sot" target="soak" />
+      <edge id="99" source="sober" target="sound" />
+      <edge id="100" source="sober" target="somber" />
+      <edge id="101" source="sock" target="soak" />
+      <edge id="102" source="sobriety" target="solemnity" />
+      <edge id="103" source="sorcery" target="sorcerer" />
+      <edge id="104" source="sore" target="soreness" />
+      <edge id="105" source="somewhat" target="something" />
+      <edge id="106" source="sound" target="sounder" />
+      <edge id="107" source="soul" target="something" />
+      <edge id="108" source="sour" target="soured" />
+      <edge id="109" source="solidification" target="solidity" />
+      <edge id="110" source="solidification" target="solidarity" />
+      <edge id="111" source="souse" target="sopping" />
+      <edge id="112" source="souse" target="soak" />
+      <edge id="113" source="sounding" target="sounded" />
+      <edge id="114" source="soak" target="sopping" />
+      <edge id="115" source="soak" target="soaker" />
+      <edge id="116" source="soaked" target="sopping" />
+      <edge id="117" source="solidity" target="solidarity" />
+    </edges>
+  </graph>
+</gexf>

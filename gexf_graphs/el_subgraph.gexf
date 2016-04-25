@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="el" label="el" />
+      <node id="elect" label="elect" />
+      <node id="elegance" label="elegance" />
+      <node id="elfin" label="elfin" />
+      <node id="elegant" label="elegant" />
+      <node id="electrostatic" label="electrostatic" />
+      <node id="elevated" label="elevated" />
+      <node id="elaborateness" label="elaborateness" />
+      <node id="elementary" label="elementary" />
+      <node id="ell" label="ell" />
+      <node id="eligible" label="eligible" />
+      <node id="elemental" label="elemental" />
+      <node id="elision" label="elision" />
+      <node id="eliminate" label="eliminate" />
+      <node id="elliptic" label="elliptic" />
+      <node id="elliptical" label="elliptical" />
+      <node id="ellipsis" label="ellipsis" />
+      <node id="elate" label="elate" />
+      <node id="electric" label="electric" />
+      <node id="eligibility" label="eligibility" />
+      <node id="electroplating" label="electroplating" />
+      <node id="electrified" label="electrified" />
+      <node id="elite" label="elite" />
+      <node id="elocution" label="elocution" />
+      <node id="elated" label="elated" />
+      <node id="electrolysis" label="electrolysis" />
+      <node id="elevate" label="elevate" />
+      <node id="elected" label="elected" />
+      <node id="elaborate" label="elaborate" />
+      <node id="elide" label="elide" />
+      <node id="eloquence" label="eloquence" />
+      <node id="elfish" label="elfish" />
+      <node id="elbow" label="elbow" />
+      <node id="elongate" label="elongate" />
+      <node id="electrifying" label="electrifying" />
+      <node id="elongated" label="elongated" />
+    </nodes>
+    <edges>
+      <edge id="0" source="el" target="electric" />
+      <edge id="1" source="el" target="elevated" />
+      <edge id="2" source="elect" target="elected" />
+      <edge id="3" source="elect" target="elite" />
+      <edge id="4" source="elegance" target="elaborateness" />
+      <edge id="5" source="elfin" target="elfish" />
+      <edge id="6" source="elegant" target="elaborate" />
+      <edge id="7" source="electrostatic" target="electrifying" />
+      <edge id="8" source="electrostatic" target="electrified" />
+      <edge id="9" source="elevated" target="elated" />
+      <edge id="10" source="elevated" target="electric" />
+      <edge id="11" source="elementary" target="elemental" />
+      <edge id="12" source="ell" target="elbow" />
+      <edge id="13" source="eligible" target="eligibility" />
+      <edge id="14" source="elision" target="ellipsis" />
+      <edge id="15" source="eliminate" target="elide" />
+      <edge id="16" source="elliptic" target="elliptical" />
+      <edge id="17" source="elliptical" target="elongated" />
+      <edge id="18" source="elate" target="elevate" />
+      <edge id="19" source="electric" target="electrifying" />
+      <edge id="20" source="electroplating" target="electrolysis" />
+      <edge id="21" source="electrified" target="electrifying" />
+      <edge id="22" source="elocution" target="eloquence" />
+      <edge id="23" source="elongate" target="elongated" />
+    </edges>
+  </graph>
+</gexf>

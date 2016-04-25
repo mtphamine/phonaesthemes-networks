@@ -1,0 +1,787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="festal" label="festal" />
+      <node id="fetter" label="fetter">
+        <attvalues>
+          <attvalue for="0" value="1.74818802701" />
+        </attvalues>
+      </node>
+      <node id="feedback" label="feedback" />
+      <node id="federalese" label="federalese">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="fecal" label="fecal">
+        <attvalues>
+          <attvalue for="0" value="2.92012332629" />
+        </attvalues>
+      </node>
+      <node id="fecund" label="fecund">
+        <attvalues>
+          <attvalue for="0" value="2.22271647115" />
+        </attvalues>
+      </node>
+      <node id="felon" label="felon" />
+      <node id="festooned" label="festooned" />
+      <node id="fear" label="fear" />
+      <node id="feat" label="feat">
+        <attvalues>
+          <attvalue for="0" value="3.33525725643" />
+        </attvalues>
+      </node>
+      <node id="fend" label="fend" />
+      <node id="fealty" label="fealty" />
+      <node id="federalize" label="federalize" />
+      <node id="fenestra" label="fenestra">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="fervor" label="fervor">
+        <attvalues>
+          <attvalue for="0" value="3.11859536522" />
+        </attvalues>
+      </node>
+      <node id="federation" label="federation">
+        <attvalues>
+          <attvalue for="0" value="3.76700736395" />
+        </attvalues>
+      </node>
+      <node id="featherbedding" label="featherbedding">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="ferret" label="ferret">
+        <attvalues>
+          <attvalue for="0" value="2.74115159885" />
+        </attvalues>
+      </node>
+      <node id="fetlock" label="fetlock">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="federalistic" label="federalistic">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="feathered" label="feathered" />
+      <node id="feeble" label="feeble" />
+      <node id="feeder" label="feeder">
+        <attvalues>
+          <attvalue for="0" value="2.93601079572" />
+        </attvalues>
+      </node>
+      <node id="feral" label="feral">
+        <attvalues>
+          <attvalue for="0" value="2.94546858513" />
+        </attvalues>
+      </node>
+      <node id="feverish" label="feverish" />
+      <node id="feast" label="feast">
+        <attvalues>
+          <attvalue for="0" value="3.56122067893" />
+        </attvalues>
+      </node>
+      <node id="feckless" label="feckless" />
+      <node id="feigned" label="feigned">
+        <attvalues>
+          <attvalue for="0" value="2.71264970163" />
+        </attvalues>
+      </node>
+      <node id="feudalism" label="feudalism" />
+      <node id="fertility" label="fertility" />
+      <node id="feathery" label="feathery" />
+      <node id="feathers" label="feathers">
+        <attvalues>
+          <attvalue for="0" value="3.60670374133" />
+        </attvalues>
+      </node>
+      <node id="feasibility" label="feasibility">
+        <attvalues>
+          <attvalue for="0" value="3.10754912974" />
+        </attvalues>
+      </node>
+      <node id="felonious" label="felonious" />
+      <node id="feculence" label="feculence">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="federal" label="federal" />
+      <node id="feline" label="feline">
+        <attvalues>
+          <attvalue for="0" value="2.71180722904" />
+        </attvalues>
+      </node>
+      <node id="feudal" label="feudal">
+        <attvalues>
+          <attvalue for="0" value="2.76641284711" />
+        </attvalues>
+      </node>
+      <node id="fellowship" label="fellowship" />
+      <node id="fearless" label="fearless" />
+      <node id="fetish" label="fetish" />
+      <node id="ferocious" label="ferocious">
+        <attvalues>
+          <attvalue for="0" value="3.10551018477" />
+        </attvalues>
+      </node>
+      <node id="festive" label="festive">
+        <attvalues>
+          <attvalue for="0" value="3.22010808804" />
+        </attvalues>
+      </node>
+      <node id="felony" label="felony">
+        <attvalues>
+          <attvalue for="0" value="3.39375064035" />
+        </attvalues>
+      </node>
+      <node id="feisty" label="feisty" />
+      <node id="fervid" label="fervid">
+        <attvalues>
+          <attvalue for="0" value="1.89209460269" />
+        </attvalues>
+      </node>
+      <node id="festering" label="festering">
+        <attvalues>
+          <attvalue for="0" value="2.49415459402" />
+        </attvalues>
+      </node>
+      <node id="federalist" label="federalist" />
+      <node id="federated" label="federated" />
+      <node id="feasible" label="feasible" />
+      <node id="federalism" label="federalism">
+        <attvalues>
+          <attvalue for="0" value="2.92685670895" />
+        </attvalues>
+      </node>
+      <node id="feed" label="feed" />
+      <node id="fester" label="fester">
+        <attvalues>
+          <attvalue for="0" value="2.82994669594" />
+        </attvalues>
+      </node>
+      <node id="feign" label="feign">
+        <attvalues>
+          <attvalue for="0" value="2.34830486305" />
+        </attvalues>
+      </node>
+      <node id="fertile" label="fertile">
+        <attvalues>
+          <attvalue for="0" value="3.42193281328" />
+        </attvalues>
+      </node>
+      <node id="features" label="features">
+        <attvalues>
+          <attvalue for="0" value="4.49741346469" />
+        </attvalues>
+      </node>
+      <node id="feel" label="feel">
+        <attvalues>
+          <attvalue for="0" value="5.16817326217" />
+        </attvalues>
+      </node>
+      <node id="felicitous" label="felicitous" />
+      <node id="featly" label="featly">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="female" label="female">
+        <attvalues>
+          <attvalue for="0" value="4.60941297069" />
+        </attvalues>
+      </node>
+      <node id="fern" label="fern" />
+      <node id="featheredge" label="featheredge" />
+      <node id="fed" label="fed">
+        <attvalues>
+          <attvalue for="0" value="4.12956100231" />
+        </attvalues>
+      </node>
+      <node id="fee" label="fee" />
+      <node id="fence" label="fence">
+        <attvalues>
+          <attvalue for="0" value="4.03173153995" />
+        </attvalues>
+      </node>
+      <node id="featureless" label="featureless" />
+      <node id="festival" label="festival">
+        <attvalues>
+          <attvalue for="0" value="4.13500536694" />
+        </attvalues>
+      </node>
+      <node id="few" label="few">
+        <attvalues>
+          <attvalue for="0" value="5.33160543208" />
+        </attvalues>
+      </node>
+      <node id="feather" label="feather" />
+      <node id="ferocity" label="ferocity" />
+      <node id="fey" label="fey" />
+      <node id="festivity" label="festivity" />
+      <node id="featherbrained" label="featherbrained" />
+      <node id="fetishism" label="fetishism" />
+      <node id="feint" label="feint">
+        <attvalues>
+          <attvalue for="0" value="2.14921911266" />
+        </attvalues>
+      </node>
+      <node id="feminine" label="feminine">
+        <attvalues>
+          <attvalue for="0" value="3.61919771579" />
+        </attvalues>
+      </node>
+      <node id="fearful" label="fearful" />
+      <node id="feeler" label="feeler">
+        <attvalues>
+          <attvalue for="0" value="1.7242758696" />
+        </attvalues>
+      </node>
+      <node id="ferry" label="ferry" />
+      <node id="feeling" label="feeling" />
+      <node id="fetch" label="fetch" />
+      <node id="fermentation" label="fermentation" />
+      <node id="felicity" label="felicity">
+        <attvalues>
+          <attvalue for="0" value="2.86033800657" />
+        </attvalues>
+      </node>
+      <node id="federate" label="federate">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="fellow" label="fellow" />
+      <node id="fearsome" label="fearsome" />
+      <node id="fencing" label="fencing" />
+      <node id="febrile" label="febrile">
+        <attvalues>
+          <attvalue for="0" value="2.22788670461" />
+        </attvalues>
+      </node>
+      <node id="feature" label="feature" />
+      <node id="fete" label="fete">
+        <attvalues>
+          <attvalue for="0" value="2.33645973385" />
+        </attvalues>
+      </node>
+      <node id="ferment" label="ferment">
+        <attvalues>
+          <attvalue for="0" value="2.62117628178" />
+        </attvalues>
+      </node>
+      <node id="fever" label="fever" />
+      <node id="felt" label="felt" />
+      <node id="fetid" label="fetid" />
+      <node id="fell" label="fell">
+        <attvalues>
+          <attvalue for="0" value="4.5690694456" />
+        </attvalues>
+      </node>
+      <node id="featherweight" label="featherweight">
+        <attvalues>
+          <attvalue for="0" value="2.30319605742" />
+        </attvalues>
+      </node>
+      <node id="fervent" label="fervent" />
+      <node id="fecundate" label="fecundate" />
+      <node id="festoon" label="festoon">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="fertilize" label="fertilize">
+        <attvalues>
+          <attvalue for="0" value="2.59769518593" />
+        </attvalues>
+      </node>
+      <node id="feud" label="feud">
+        <attvalues>
+          <attvalue for="0" value="3.03582982525" />
+        </attvalues>
+      </node>
+      <node id="feces" label="feces">
+        <attvalues>
+          <attvalue for="0" value="2.85793526472" />
+        </attvalues>
+      </node>
+      <node id="fender" label="fender">
+        <attvalues>
+          <attvalue for="0" value="2.85793526472" />
+        </attvalues>
+      </node>
+      <node id="fetal" label="fetal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="festal" target="festival" weight="0.068966" />
+      <edge id="1" source="festal" target="fete" weight="0.014925" />
+      <edge id="2" source="festal" target="feline" weight="0.009259" />
+      <edge id="3" source="festal" target="feast" weight="0.044776" />
+      <edge id="4" source="festal" target="festive" weight="0.478261" />
+      <edge id="5" source="fetter" target="feed" weight="0.019608" />
+      <edge id="6" source="fetter" target="fend" weight="0.023438" />
+      <edge id="7" source="fetter" target="fealty" weight="0.028037" />
+      <edge id="8" source="fetter" target="fence" weight="0.012605" />
+      <edge id="9" source="fetter" target="feeble" weight="0.005236" />
+      <edge id="10" source="fetter" target="feud" weight="0.006135" />
+      <edge id="11" source="fetter" target="fenestra" weight="0.010204" />
+      <edge id="12" source="fetter" target="felicity" weight="0.006369" />
+      <edge id="13" source="fetter" target="feudalism" weight="0.010204" />
+      <edge id="14" source="fetter" target="feather" weight="0.008772" />
+      <edge id="15" source="fetter" target="feeder" weight="0.00641" />
+      <edge id="16" source="fetter" target="fetch" weight="0.004405" />
+      <edge id="17" source="fetter" target="fell" weight="0.003906" />
+      <edge id="18" source="feedback" target="ferment" weight="0.005464" />
+      <edge id="19" source="feedback" target="ferocious" weight="0.009615" />
+      <edge id="20" source="feedback" target="feral" weight="0.01" />
+      <edge id="21" source="federalese" target="fencing" weight="0.047619" />
+      <edge id="22" source="fecal" target="festering" weight="0.031008" />
+      <edge id="23" source="fecal" target="ferocious" weight="0.006579" />
+      <edge id="24" source="fecal" target="fearful" weight="0.007092" />
+      <edge id="25" source="fecal" target="fetid" weight="0.428571" />
+      <edge id="26" source="fecal" target="felonious" weight="0.008475" />
+      <edge id="27" source="fecal" target="fey" weight="0.009091" />
+      <edge id="28" source="fecund" target="fertile" weight="0.492958" />
+      <edge id="29" source="fecund" target="featureless" weight="0.015152" />
+      <edge id="30" source="fecund" target="feverish" weight="0.007042" />
+      <edge id="31" source="fecund" target="febrile" weight="0.01087" />
+      <edge id="32" source="fecund" target="feline" weight="0.015038" />
+      <edge id="33" source="fecund" target="felicitous" weight="0.007092" />
+      <edge id="34" source="fecund" target="fervid" weight="0.01" />
+      <edge id="35" source="fecund" target="festooned" weight="0.027397" />
+      <edge id="36" source="fecund" target="fertility" weight="0.010753" />
+      <edge id="37" source="fecund" target="fervent" weight="0.008197" />
+      <edge id="38" source="fecund" target="fetal" weight="0.054054" />
+      <edge id="39" source="felon" target="festering" weight="0.31" />
+      <edge id="40" source="felon" target="fester" weight="0.27193" />
+      <edge id="41" source="felon" target="feel" weight="0.010638" />
+      <edge id="42" source="felon" target="feeder" weight="0.007143" />
+      <edge id="43" source="felon" target="festoon" weight="0.012987" />
+      <edge id="44" source="felon" target="fete" weight="0.009346" />
+      <edge id="45" source="felon" target="ferment" weight="0.004367" />
+      <edge id="46" source="festooned" target="feel" weight="0.006098" />
+      <edge id="47" source="festooned" target="feigned" weight="0.041667" />
+      <edge id="48" source="festooned" target="fertile" weight="0.021505" />
+      <edge id="49" source="festooned" target="fervor" weight="0.009804" />
+      <edge id="50" source="fear" target="fester" weight="0.006452" />
+      <edge id="51" source="fear" target="fence" weight="0.004255" />
+      <edge id="52" source="fear" target="feel" weight="0.005" />
+      <edge id="53" source="fear" target="feasibility" weight="0.011628" />
+      <edge id="54" source="fear" target="fell" weight="0.003984" />
+      <edge id="55" source="fear" target="fervor" weight="0.014599" />
+      <edge id="56" source="fear" target="ferment" weight="0.057018" />
+      <edge id="57" source="feat" target="feed" weight="0.005747" />
+      <edge id="58" source="feat" target="feign" weight="0.018519" />
+      <edge id="59" source="feat" target="fellow" weight="0.003817" />
+      <edge id="60" source="feat" target="features" weight="0.012048" />
+      <edge id="61" source="feat" target="fence" weight="0.004831" />
+      <edge id="62" source="feat" target="feel" weight="0.005814" />
+      <edge id="63" source="feat" target="fertilize" weight="0.015385" />
+      <edge id="64" source="feat" target="feast" weight="0.01087" />
+      <edge id="65" source="feat" target="feature" weight="0.004184" />
+      <edge id="66" source="feat" target="feint" weight="0.021429" />
+      <edge id="67" source="feat" target="felicity" weight="0.008065" />
+      <edge id="68" source="feat" target="ferry" weight="0.009174" />
+      <edge id="69" source="feat" target="ferment" weight="0.004717" />
+      <edge id="70" source="feat" target="fetish" weight="0.018868" />
+      <edge id="71" source="feat" target="feather" weight="0.005102" />
+      <edge id="72" source="feat" target="feeling" weight="0.005236" />
+      <edge id="73" source="feat" target="fetch" weight="0.026316" />
+      <edge id="74" source="fend" target="fence" weight="0.158974" />
+      <edge id="75" source="fend" target="fender" weight="0.076923" />
+      <edge id="76" source="fend" target="feint" weight="0.018987" />
+      <edge id="77" source="fend" target="feud" weight="0.006757" />
+      <edge id="78" source="fend" target="fenestra" weight="0.012048" />
+      <edge id="79" source="fealty" target="fell" weight="0.004545" />
+      <edge id="80" source="fealty" target="feudal" weight="0.013514" />
+      <edge id="81" source="fealty" target="fervor" weight="0.090909" />
+      <edge id="82" source="fealty" target="feeler" weight="0.015152" />
+      <edge id="83" source="federalize" target="federate" weight="0.485714" />
+      <edge id="84" source="federalize" target="federation" weight="0.019608" />
+      <edge id="85" source="fenestra" target="fetch" weight="0.005556" />
+      <edge id="86" source="fenestra" target="featureless" weight="0.008621" />
+      <edge id="87" source="fenestra" target="ferry" weight="0.043478" />
+      <edge id="88" source="fervor" target="feed" weight="0.014778" />
+      <edge id="89" source="fervor" target="fellowship" weight="0.014218" />
+      <edge id="90" source="fervor" target="fell" weight="0.003937" />
+      <edge id="91" source="fervor" target="feature" weight="0.011194" />
+      <edge id="92" source="fervor" target="fever" weight="0.03352" />
+      <edge id="93" source="fervor" target="fellow" weight="0.010309" />
+      <edge id="94" source="fervor" target="feel" weight="0.009901" />
+      <edge id="95" source="fervor" target="felicity" weight="0.006452" />
+      <edge id="96" source="fervor" target="feeling" weight="0.022936" />
+      <edge id="97" source="fervor" target="ferment" weight="0.029536" />
+      <edge id="98" source="fervor" target="fermentation" weight="0.007194" />
+      <edge id="99" source="federation" target="festivity" weight="0.005618" />
+      <edge id="100" source="federation" target="ferocity" weight="0.009174" />
+      <edge id="101" source="federation" target="fellow" weight="0.006515" />
+      <edge id="102" source="federation" target="federate" weight="0.034483" />
+      <edge id="103" source="federation" target="feeder" weight="0.005917" />
+      <edge id="104" source="federation" target="fellowship" weight="0.156566" />
+      <edge id="105" source="federation" target="fete" weight="0.007353" />
+      <edge id="106" source="federation" target="feudalism" weight="0.009009" />
+      <edge id="107" source="federation" target="ferry" weight="0.006452" />
+      <edge id="108" source="federation" target="feint" weight="0.005319" />
+      <edge id="109" source="federation" target="fetch" weight="0.008368" />
+      <edge id="110" source="featherbedding" target="fertility" weight="0.0625" />
+      <edge id="111" source="featherbedding" target="feather" weight="0.00578" />
+      <edge id="112" source="featherbedding" target="felicity" weight="0.009901" />
+      <edge id="113" source="featherbedding" target="fertile" weight="0.012658" />
+      <edge id="114" source="featherbedding" target="fender" weight="0.014286" />
+      <edge id="115" source="ferret" target="ferry" weight="0.011364" />
+      <edge id="116" source="ferret" target="feline" weight="0.009091" />
+      <edge id="117" source="ferret" target="fellow" weight="0.004149" />
+      <edge id="118" source="ferret" target="feeder" weight="0.009804" />
+      <edge id="119" source="fetlock" target="feel" weight="0.006452" />
+      <edge id="120" source="fetlock" target="fender" weight="0.013158" />
+      <edge id="121" source="fetlock" target="feline" weight="0.008772" />
+      <edge id="122" source="fetlock" target="featheredge" weight="0.021277" />
+      <edge id="123" source="fetlock" target="feather" weight="0.011236" />
+      <edge id="124" source="fetlock" target="featherweight" weight="0.015873" />
+      <edge id="125" source="fetlock" target="fetch" weight="0.00565" />
+      <edge id="126" source="federalistic" target="federal" weight="0.481481" />
+      <edge id="127" source="federalistic" target="fed" weight="0.030303" />
+      <edge id="128" source="federalistic" target="federalist" weight="0.928571" />
+      <edge id="129" source="federalistic" target="feudal" weight="0.12069" />
+      <edge id="130" source="federalistic" target="felicitous" weight="0.008" />
+      <edge id="131" source="feathered" target="feigned" weight="0.015873" />
+      <edge id="132" source="feeble" target="fence" weight="0.007018" />
+      <edge id="133" source="feeble" target="fertilize" weight="0.006944" />
+      <edge id="134" source="feeble" target="feline" weight="0.004762" />
+      <edge id="135" source="feeble" target="few" weight="0.006536" />
+      <edge id="136" source="feeble" target="featherweight" weight="0.025641" />
+      <edge id="137" source="feeder" target="festivity" weight="0.005682" />
+      <edge id="138" source="feeder" target="features" weight="0.015873" />
+      <edge id="139" source="feeder" target="fence" weight="0.008" />
+      <edge id="140" source="feeder" target="feline" weight="0.023256" />
+      <edge id="141" source="feeder" target="fete" weight="0.007463" />
+      <edge id="142" source="feeder" target="feature" weight="0.021583" />
+      <edge id="143" source="feeder" target="feudal" weight="0.008264" />
+      <edge id="144" source="feeder" target="fellowship" weight="0.004425" />
+      <edge id="145" source="feeder" target="ferry" weight="0.006536" />
+      <edge id="146" source="feeder" target="feather" weight="0.016878" />
+      <edge id="147" source="feeder" target="fellow" weight="0.009868" />
+      <edge id="148" source="feeder" target="featheredge" weight="0.009259" />
+      <edge id="149" source="feral" target="fever" weight="0.004926" />
+      <edge id="150" source="feral" target="ferocious" weight="0.586207" />
+      <edge id="151" source="feral" target="feverish" weight="0.032609" />
+      <edge id="152" source="feral" target="fearful" weight="0.011696" />
+      <edge id="153" source="feral" target="febrile" weight="0.044776" />
+      <edge id="154" source="feral" target="feckless" weight="0.007874" />
+      <edge id="155" source="feral" target="fetid" weight="0.013761" />
+      <edge id="156" source="feral" target="fervid" weight="0.02069" />
+      <edge id="157" source="feral" target="fell" weight="0.136929" />
+      <edge id="158" source="feral" target="fellow" weight="0.003205" />
+      <edge id="159" source="feral" target="fervent" weight="0.017964" />
+      <edge id="160" source="feral" target="fey" weight="0.007092" />
+      <edge id="161" source="feverish" target="festering" weight="0.017544" />
+      <edge id="162" source="feverish" target="fertile" weight="0.006173" />
+      <edge id="163" source="feverish" target="festive" weight="0.008621" />
+      <edge id="164" source="feverish" target="febrile" weight="0.485149" />
+      <edge id="165" source="feverish" target="few" weight="0.015038" />
+      <edge id="166" source="feverish" target="fervid" weight="0.295082" />
+      <edge id="167" source="feverish" target="ferment" weight="0.011111" />
+      <edge id="168" source="feverish" target="ferocious" weight="0.037433" />
+      <edge id="169" source="feast" target="feed" weight="0.153374" />
+      <edge id="170" source="feast" target="festivity" weight="0.168" />
+      <edge id="171" source="feast" target="fellow" weight="0.003636" />
+      <edge id="172" source="feast" target="festive" weight="0.029412" />
+      <edge id="173" source="feast" target="festival" weight="0.240741" />
+      <edge id="174" source="feast" target="fee" weight="0.016807" />
+      <edge id="175" source="feast" target="featheredge" weight="0.012987" />
+      <edge id="176" source="feast" target="fellowship" weight="0.005128" />
+      <edge id="177" source="feast" target="fete" weight="0.130435" />
+      <edge id="178" source="feast" target="felicity" weight="0.007299" />
+      <edge id="179" source="feast" target="felicitous" weight="0.006623" />
+      <edge id="180" source="feast" target="fetch" weight="0.009709" />
+      <edge id="181" source="feast" target="fell" weight="0.004237" />
+      <edge id="182" source="feckless" target="ferocious" weight="0.007634" />
+      <edge id="183" source="feckless" target="febrile" weight="0.011494" />
+      <edge id="184" source="feckless" target="featherweight" weight="0.039474" />
+      <edge id="185" source="feigned" target="feign" weight="0.054545" />
+      <edge id="186" source="feigned" target="fellow" weight="0.003774" />
+      <edge id="187" source="feigned" target="fetid" weight="0.00578" />
+      <edge id="188" source="feigned" target="felonious" weight="0.009804" />
+      <edge id="189" source="feigned" target="feint" weight="0.006897" />
+      <edge id="190" source="feigned" target="feather" weight="0.005025" />
+      <edge id="191" source="feigned" target="fey" weight="0.032609" />
+      <edge id="192" source="feudalism" target="feud" weight="0.008621" />
+      <edge id="193" source="feudalism" target="federalism" weight="0.333333" />
+      <edge id="194" source="feudalism" target="felicity" weight="0.009091" />
+      <edge id="195" source="fertility" target="fertile" weight="0.017857" />
+      <edge id="196" source="fertility" target="fence" weight="0.004587" />
+      <edge id="197" source="fertility" target="feud" weight="0.007092" />
+      <edge id="198" source="fertility" target="felicity" weight="0.038168" />
+      <edge id="199" source="feathery" target="featly" weight="0.025" />
+      <edge id="200" source="feathery" target="featherweight" weight="0.015873" />
+      <edge id="201" source="feathers" target="feign" weight="0.021739" />
+      <edge id="202" source="feathers" target="felt" weight="0.020408" />
+      <edge id="203" source="feathers" target="features" weight="0.027027" />
+      <edge id="204" source="feathers" target="fertilize" weight="0.017544" />
+      <edge id="205" source="feathers" target="feline" weight="0.00813" />
+      <edge id="206" source="feathers" target="feature" weight="0.017544" />
+      <edge id="207" source="feathers" target="feint" weight="0.015038" />
+      <edge id="208" source="feathers" target="feather" weight="0.027174" />
+      <edge id="209" source="feasibility" target="felicity" weight="0.04" />
+      <edge id="210" source="felonious" target="festering" weight="0.015152" />
+      <edge id="211" source="felonious" target="fester" weight="0.006803" />
+      <edge id="212" source="felonious" target="fence" weight="0.004405" />
+      <edge id="213" source="felonious" target="felony" weight="0.010526" />
+      <edge id="214" source="felonious" target="feline" weight="0.034014" />
+      <edge id="215" source="feculence" target="feather" weight="0.005988" />
+      <edge id="216" source="feculence" target="feces" weight="0.285714" />
+      <edge id="217" source="federal" target="fed" weight="0.323944" />
+      <edge id="218" source="federal" target="feudal" weight="0.083333" />
+      <edge id="219" source="feline" target="fertile" weight="0.013072" />
+      <edge id="220" source="feline" target="features" weight="0.007407" />
+      <edge id="221" source="feline" target="featureless" weight="0.005495" />
+      <edge id="222" source="feline" target="fellow" weight="0.003185" />
+      <edge id="223" source="feline" target="feasible" weight="0.006623" />
+      <edge id="224" source="feline" target="feminine" weight="0.009615" />
+      <edge id="225" source="feline" target="fell" weight="0.003636" />
+      <edge id="226" source="feline" target="female" weight="0.009804" />
+      <edge id="227" source="feline" target="feather" weight="0.004032" />
+      <edge id="228" source="feline" target="felicitous" weight="0.015957" />
+      <edge id="229" source="feline" target="fetal" weight="0.007937" />
+      <edge id="230" source="feudal" target="feature" weight="0.004219" />
+      <edge id="231" source="feudal" target="federalist" weight="0.12069" />
+      <edge id="232" source="fellowship" target="federate" weight="0.017241" />
+      <edge id="233" source="fellowship" target="features" weight="0.005376" />
+      <edge id="234" source="fellowship" target="festoon" weight="0.006135" />
+      <edge id="235" source="fellowship" target="festival" weight="0.00641" />
+      <edge id="236" source="fellowship" target="fender" weight="0.005102" />
+      <edge id="237" source="fellowship" target="feel" weight="0.003636" />
+      <edge id="238" source="fellowship" target="fete" weight="0.010417" />
+      <edge id="239" source="fellowship" target="felicity" weight="0.004405" />
+      <edge id="240" source="fellowship" target="federalism" weight="0.013245" />
+      <edge id="241" source="fearless" target="feint" weight="0.008333" />
+      <edge id="242" source="ferocious" target="fever" weight="0.004831" />
+      <edge id="243" source="ferocious" target="fearful" weight="0.005682" />
+      <edge id="244" source="ferocious" target="febrile" weight="0.043478" />
+      <edge id="245" source="ferocious" target="fervid" weight="0.020134" />
+      <edge id="246" source="ferocious" target="fetid" weight="0.0181" />
+      <edge id="247" source="ferocious" target="fell" weight="0.139344" />
+      <edge id="248" source="ferocious" target="fervent" weight="0.023529" />
+      <edge id="249" source="ferocious" target="fey" weight="0.006897" />
+      <edge id="250" source="festive" target="festivity" weight="0.018519" />
+      <edge id="251" source="festive" target="festival" weight="0.033333" />
+      <edge id="252" source="festive" target="febrile" weight="0.015152" />
+      <edge id="253" source="festive" target="fervid" weight="0.013514" />
+      <edge id="254" source="festive" target="fete" weight="0.014925" />
+      <edge id="255" source="festive" target="fervent" weight="0.010417" />
+      <edge id="256" source="felony" target="fell" weight="0.004566" />
+      <edge id="257" source="felony" target="featherweight" weight="0.013158" />
+      <edge id="258" source="feisty" target="fence" weight="0.005208" />
+      <edge id="259" source="fervid" target="festering" weight="0.015385" />
+      <edge id="260" source="fervid" target="fever" weight="0.02994" />
+      <edge id="261" source="fervid" target="fertile" weight="0.008333" />
+      <edge id="262" source="fervid" target="fearful" weight="0.007143" />
+      <edge id="263" source="fervid" target="febrile" weight="0.5" />
+      <edge id="264" source="fervid" target="felicitous" weight="0.00641" />
+      <edge id="265" source="fervid" target="fermentation" weight="0.016" />
+      <edge id="266" source="fervid" target="ferment" weight="0.008734" />
+      <edge id="267" source="fervid" target="fervent" weight="0.586207" />
+      <edge id="268" source="fervid" target="fell" weight="0.004149" />
+      <edge id="269" source="festering" target="festivity" weight="0.006024" />
+      <edge id="270" source="festering" target="feud" weight="0.006098" />
+      <edge id="271" source="festering" target="fee" weight="0.007092" />
+      <edge id="272" source="festering" target="featureless" weight="0.006098" />
+      <edge id="273" source="festering" target="fester" weight="0.255814" />
+      <edge id="274" source="festering" target="feel" weight="0.009756" />
+      <edge id="275" source="festering" target="febrile" weight="0.024793" />
+      <edge id="276" source="festering" target="fever" weight="0.027322" />
+      <edge id="277" source="festering" target="fetid" weight="0.025" />
+      <edge id="278" source="festering" target="fete" weight="0.008065" />
+      <edge id="279" source="festering" target="ferment" weight="0.004065" />
+      <edge id="280" source="festering" target="feeling" weight="0.008929" />
+      <edge id="281" source="festering" target="fervent" weight="0.013158" />
+      <edge id="282" source="festering" target="fermentation" weight="0.007042" />
+      <edge id="283" source="federalist" target="fed" weight="0.030303" />
+      <edge id="284" source="federated" target="federate" weight="0.045455" />
+      <edge id="285" source="feasible" target="feel" weight="0.005208" />
+      <edge id="286" source="feasible" target="ferment" weight="0.00431" />
+      <edge id="287" source="feasible" target="fete" weight="0.009091" />
+      <edge id="288" source="feasible" target="feint" weight="0.006173" />
+      <edge id="289" source="feed" target="fester" weight="0.013636" />
+      <edge id="290" source="feed" target="features" weight="0.005618" />
+      <edge id="291" source="feed" target="fence" weight="0.006645" />
+      <edge id="292" source="feed" target="festival" weight="0.013605" />
+      <edge id="293" source="feed" target="fertilize" weight="0.018987" />
+      <edge id="294" source="feed" target="feint" weight="0.004219" />
+      <edge id="295" source="feed" target="feel" weight="0.02682" />
+      <edge id="296" source="feed" target="fete" weight="0.016393" />
+      <edge id="297" source="feed" target="felicity" weight="0.004566" />
+      <edge id="298" source="feed" target="featly" weight="0.006579" />
+      <edge id="299" source="feed" target="ferment" weight="0.009836" />
+      <edge id="300" source="feed" target="fell" weight="0.012698" />
+      <edge id="301" source="fester" target="fern" weight="0.008621" />
+      <edge id="302" source="fester" target="feel" weight="0.013761" />
+      <edge id="303" source="fester" target="fertilize" weight="0.017857" />
+      <edge id="304" source="fester" target="festivity" weight="0.005556" />
+      <edge id="305" source="fester" target="feature" weight="0.010526" />
+      <edge id="306" source="fester" target="fever" weight="0.020202" />
+      <edge id="307" source="fester" target="feint" weight="0.010582" />
+      <edge id="308" source="fester" target="fete" weight="0.007246" />
+      <edge id="309" source="fester" target="fell" weight="0.00369" />
+      <edge id="310" source="fester" target="ferment" weight="0.015564" />
+      <edge id="311" source="fester" target="feather" weight="0.004098" />
+      <edge id="312" source="fester" target="feeling" weight="0.004184" />
+      <edge id="313" source="fester" target="fetch" weight="0.008299" />
+      <edge id="314" source="fester" target="fermentation" weight="0.00641" />
+      <edge id="315" source="feign" target="feel" weight="0.006803" />
+      <edge id="316" source="feign" target="feature" weight="0.004673" />
+      <edge id="317" source="feign" target="feint" weight="0.026087" />
+      <edge id="318" source="feign" target="feeling" weight="0.006024" />
+      <edge id="319" source="feign" target="fetch" weight="0.005917" />
+      <edge id="320" source="fertile" target="fever" weight="0.005682" />
+      <edge id="321" source="fertile" target="febrile" weight="0.008929" />
+      <edge id="322" source="fertile" target="felicitous" weight="0.006211" />
+      <edge id="323" source="fertile" target="fell" weight="0.004065" />
+      <edge id="324" source="fertile" target="fervent" weight="0.007042" />
+      <edge id="325" source="fertile" target="fetal" weight="0.042553" />
+      <edge id="326" source="features" target="feint" weight="0.035211" />
+      <edge id="327" source="features" target="feel" weight="0.005682" />
+      <edge id="328" source="features" target="feature" weight="0.124424" />
+      <edge id="329" source="features" target="felicity" weight="0.007813" />
+      <edge id="330" source="features" target="feather" weight="0.02551" />
+      <edge id="331" source="features" target="feeling" weight="0.026178" />
+      <edge id="332" source="features" target="featheredge" weight="0.014706" />
+      <edge id="333" source="feel" target="felicitous" weight="0.004329" />
+      <edge id="334" source="feel" target="fee" weight="0.005" />
+      <edge id="335" source="feel" target="feature" weight="0.024615" />
+      <edge id="336" source="feel" target="fete" weight="0.005464" />
+      <edge id="337" source="feel" target="feather" weight="0.006944" />
+      <edge id="338" source="feel" target="festivity" weight="0.004444" />
+      <edge id="339" source="feel" target="felt" weight="0.02027" />
+      <edge id="340" source="feel" target="feint" weight="0.017241" />
+      <edge id="341" source="feel" target="fellow" weight="0.002817" />
+      <edge id="342" source="feel" target="feud" weight="0.004484" />
+      <edge id="343" source="feel" target="felicity" weight="0.013953" />
+      <edge id="344" source="feel" target="feeler" weight="0.006173" />
+      <edge id="345" source="feel" target="feeling" weight="0.168033" />
+      <edge id="346" source="feel" target="fetch" weight="0.024911" />
+      <edge id="347" source="felicitous" target="festival" weight="0.008929" />
+      <edge id="348" source="felicitous" target="febrile" weight="0.006757" />
+      <edge id="349" source="felicitous" target="feint" weight="0.004975" />
+      <edge id="350" source="felicitous" target="fete" weight="0.013514" />
+      <edge id="351" source="felicitous" target="fell" weight="0.003546" />
+      <edge id="352" source="felicitous" target="ferment" weight="0.00369" />
+      <edge id="353" source="featly" target="featherbrained" weight="0.027027" />
+      <edge id="354" source="featly" target="feature" weight="0.004608" />
+      <edge id="355" source="female" target="feminine" weight="0.5" />
+      <edge id="356" source="fern" target="feces" weight="0.016129" />
+      <edge id="357" source="featheredge" target="fence" weight="0.010471" />
+      <edge id="358" source="featheredge" target="fertilize" weight="0.02" />
+      <edge id="359" source="fed" target="feature" weight="0.004167" />
+      <edge id="360" source="fee" target="fence" weight="0.004255" />
+      <edge id="361" source="fee" target="feud" weight="0.039216" />
+      <edge id="362" source="fee" target="fell" weight="0.003984" />
+      <edge id="363" source="fee" target="feeler" weight="0.010309" />
+      <edge id="364" source="fence" target="fearsome" weight="0.005025" />
+      <edge id="365" source="fence" target="featureless" weight="0.003876" />
+      <edge id="366" source="fence" target="fencing" weight="0.005464" />
+      <edge id="367" source="fence" target="fender" weight="0.062201" />
+      <edge id="368" source="fence" target="fete" weight="0.009217" />
+      <edge id="369" source="fence" target="ferment" weight="0.011869" />
+      <edge id="370" source="fence" target="feather" weight="0.003086" />
+      <edge id="371" source="fence" target="ferocity" weight="0.005236" />
+      <edge id="372" source="fence" target="festivity" weight="0.007722" />
+      <edge id="373" source="fence" target="feint" weight="0.018797" />
+      <edge id="374" source="fence" target="fell" weight="0.002849" />
+      <edge id="375" source="fence" target="fellow" weight="0.005141" />
+      <edge id="376" source="fence" target="fearful" weight="0.004" />
+      <edge id="377" source="fence" target="fertilize" weight="0.005181" />
+      <edge id="378" source="fence" target="feud" weight="0.126087" />
+      <edge id="379" source="fence" target="fetch" weight="0.012539" />
+      <edge id="380" source="featureless" target="fell" weight="0.00365" />
+      <edge id="381" source="festival" target="festivity" weight="0.138298" />
+      <edge id="382" source="festival" target="fete" weight="0.226415" />
+      <edge id="383" source="festival" target="fellow" weight="0.004237" />
+      <edge id="384" source="festival" target="fetch" weight="0.005952" />
+      <edge id="385" source="few" target="featherbrained" weight="0.037736" />
+      <edge id="386" source="few" target="feature" weight="0.004274" />
+      <edge id="387" source="few" target="fellow" weight="0.003891" />
+      <edge id="388" source="few" target="feather" weight="0.005236" />
+      <edge id="389" source="feather" target="fender" weight="0.009569" />
+      <edge id="390" source="feather" target="feces" weight="0.010582" />
+      <edge id="391" source="feather" target="feint" weight="0.007752" />
+      <edge id="392" source="feather" target="festoon" weight="0.00565" />
+      <edge id="393" source="feather" target="featherweight" weight="0.005076" />
+      <edge id="394" source="feather" target="fertilize" weight="0.005495" />
+      <edge id="395" source="feather" target="ferment" weight="0.01227" />
+      <edge id="396" source="feather" target="fell" weight="0.014881" />
+      <edge id="397" source="ferocity" target="feud" weight="0.008772" />
+      <edge id="398" source="fey" target="fell" weight="0.004255" />
+      <edge id="399" source="festivity" target="fender" weight="0.013793" />
+      <edge id="400" source="festivity" target="feud" weight="0.005464" />
+      <edge id="401" source="festivity" target="fete" weight="0.531915" />
+      <edge id="402" source="festivity" target="felicity" weight="0.017143" />
+      <edge id="403" source="festivity" target="ferment" weight="0.007576" />
+      <edge id="404" source="festivity" target="feint" weight="0.010309" />
+      <edge id="405" source="fetishism" target="felicity" weight="0.008475" />
+      <edge id="406" source="feint" target="fellow" weight="0.009288" />
+      <edge id="407" source="feint" target="fencing" weight="0.017094" />
+      <edge id="408" source="feint" target="fender" weight="0.012903" />
+      <edge id="409" source="feint" target="feature" weight="0.030612" />
+      <edge id="410" source="feint" target="ferment" weight="0.003636" />
+      <edge id="411" source="feint" target="festoon" weight="0.00813" />
+      <edge id="412" source="feint" target="fertilize" weight="0.007813" />
+      <edge id="413" source="feint" target="ferry" weight="0.005814" />
+      <edge id="414" source="feint" target="feeling" weight="0.003937" />
+      <edge id="415" source="feint" target="fetch" weight="0.18894" />
+      <edge id="416" source="fearful" target="febrile" weight="0.015267" />
+      <edge id="417" source="fearful" target="fell" weight="0.019084" />
+      <edge id="418" source="fearful" target="featherweight" weight="0.00813" />
+      <edge id="419" source="feeler" target="fetch" weight="0.005435" />
+      <edge id="420" source="feeler" target="feature" weight="0.004367" />
+      <edge id="421" source="feeling" target="felicity" weight="0.012821" />
+      <edge id="422" source="feeling" target="ferment" weight="0.003086" />
+      <edge id="423" source="fetch" target="festoon" weight="0.005714" />
+      <edge id="424" source="fetch" target="fertilize" weight="0.011173" />
+      <edge id="425" source="fetch" target="fete" weight="0.004878" />
+      <edge id="426" source="fetch" target="federate" weight="0.005319" />
+      <edge id="427" source="fetch" target="felicity" weight="0.004184" />
+      <edge id="428" source="fetch" target="ferment" weight="0.009231" />
+      <edge id="429" source="fetch" target="fell" weight="0.01497" />
+      <edge id="430" source="fermentation" target="febrile" weight="0.017094" />
+      <edge id="431" source="fermentation" target="feud" weight="0.012658" />
+      <edge id="432" source="fermentation" target="ferment" weight="0.382857" />
+      <edge id="433" source="felicity" target="feature" weight="0.007067" />
+      <edge id="434" source="federate" target="fender" weight="0.011494" />
+      <edge id="435" source="federate" target="fellow" weight="0.019841" />
+      <edge id="436" source="fellow" target="fete" weight="0.003663" />
+      <edge id="437" source="fellow" target="fell" weight="0.002463" />
+      <edge id="438" source="fearsome" target="fell" weight="0.014085" />
+      <edge id="439" source="febrile" target="fever" weight="0.025" />
+      <edge id="440" source="febrile" target="ferment" weight="0.00905" />
+      <edge id="441" source="febrile" target="fervent" weight="0.397849" />
+      <edge id="442" source="feature" target="fertilize" weight="0.004444" />
+      <edge id="443" source="feature" target="feud" weight="0.003448" />
+      <edge id="444" source="fete" target="fender" weight="0.009615" />
+      <edge id="445" source="fete" target="feud" weight="0.007092" />
+      <edge id="446" source="fete" target="ferment" weight="0.009009" />
+      <edge id="447" source="ferment" target="fever" weight="0.23176" />
+      <edge id="448" source="ferment" target="fell" weight="0.005634" />
+      <edge id="449" source="ferment" target="fervent" weight="0.007968" />
+      <edge id="450" source="ferment" target="fertilize" weight="0.005051" />
+      <edge id="451" source="ferment" target="feud" weight="0.023256" />
+      <edge id="452" source="fever" target="feud" weight="0.009852" />
+      <edge id="453" source="fever" target="fell" weight="0.006757" />
+      <edge id="454" source="fetid" target="fell" weight="0.036184" />
+      <edge id="455" source="fell" target="fervent" weight="0.003802" />
+      <edge id="456" source="fell" target="feces" weight="0.004608" />
+      <edge id="457" source="fell" target="fetal" weight="0.004587" />
+      <edge id="458" source="fecundate" target="fertilize" weight="0.037037" />
+    </edges>
+  </graph>
+</gexf>

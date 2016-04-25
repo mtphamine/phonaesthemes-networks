@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="rumbling" label="rumbling" />
+      <node id="rubric" label="rubric">
+        <attvalues>
+          <attvalue for="0" value="2.91062440489" />
+        </attvalues>
+      </node>
+      <node id="ruthlessness" label="ruthlessness" />
+      <node id="ruminate" label="ruminate" />
+      <node id="rushing" label="rushing">
+        <attvalues>
+          <attvalue for="0" value="3.86338234844" />
+        </attvalues>
+      </node>
+      <node id="rundown" label="rundown" />
+      <node id="ruby" label="ruby" />
+      <node id="ruin" label="ruin">
+        <attvalues>
+          <attvalue for="0" value="3.62273196516" />
+        </attvalues>
+      </node>
+      <node id="rubbishy" label="rubbishy">
+        <attvalues>
+          <attvalue for="0" value="0.778151250384" />
+        </attvalues>
+      </node>
+      <node id="ruler" label="ruler">
+        <attvalues>
+          <attvalue for="0" value="3.34301449715" />
+        </attvalues>
+      </node>
+      <node id="rubicund" label="rubicund">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="runny" label="runny" />
+      <node id="ruff" label="ruff">
+        <attvalues>
+          <attvalue for="0" value="2.70156798506" />
+        </attvalues>
+      </node>
+      <node id="rusticate" label="rusticate" />
+      <node id="rumor" label="rumor">
+        <attvalues>
+          <attvalue for="0" value="3.4726101976" />
+        </attvalues>
+      </node>
+      <node id="rustle" label="rustle">
+        <attvalues>
+          <attvalue for="0" value="2.80071707828" />
+        </attvalues>
+      </node>
+      <node id="runs" label="runs">
+        <attvalues>
+          <attvalue for="0" value="4.53037901583" />
+        </attvalues>
+      </node>
+      <node id="rumpled" label="rumpled">
+        <attvalues>
+          <attvalue for="0" value="2.95951837697" />
+        </attvalues>
+      </node>
+      <node id="runt" label="runt">
+        <attvalues>
+          <attvalue for="0" value="2.29225607136" />
+        </attvalues>
+      </node>
+      <node id="runic" label="runic" />
+      <node id="rune" label="rune" />
+      <node id="ruddy" label="ruddy">
+        <attvalues>
+          <attvalue for="0" value="2.79726754083" />
+        </attvalues>
+      </node>
+      <node id="rung" label="rung">
+        <attvalues>
+          <attvalue for="0" value="2.9934362305" />
+        </attvalues>
+      </node>
+      <node id="ruche" label="ruche" />
+      <node id="rusty" label="rusty">
+        <attvalues>
+          <attvalue for="0" value="3.509874285" />
+        </attvalues>
+      </node>
+      <node id="ruffle" label="ruffle" />
+      <node id="ruse" label="ruse" />
+      <node id="ruthless" label="ruthless">
+        <attvalues>
+          <attvalue for="0" value="3.24353410183" />
+        </attvalues>
+      </node>
+      <node id="ruck" label="ruck">
+        <attvalues>
+          <attvalue for="0" value="1.78532983501" />
+        </attvalues>
+      </node>
+      <node id="ruinous" label="ruinous" />
+      <node id="ruptured" label="ruptured" />
+      <node id="run" label="run">
+        <attvalues>
+          <attvalue for="0" value="5.03527760841" />
+        </attvalues>
+      </node>
+      <node id="rum" label="rum" />
+      <node id="rub" label="rub">
+        <attvalues>
+          <attvalue for="0" value="3.65609820201" />
+        </attvalues>
+      </node>
+      <node id="rudimentary" label="rudimentary" />
+      <node id="rug" label="rug" />
+      <node id="rue" label="rue" />
+      <node id="rubbery" label="rubbery" />
+      <node id="rut" label="rut">
+        <attvalues>
+          <attvalue for="0" value="3.04688519084" />
+        </attvalues>
+      </node>
+      <node id="rumple" label="rumple" />
+      <node id="rueful" label="rueful">
+        <attvalues>
+          <attvalue for="0" value="2.54777470539" />
+        </attvalues>
+      </node>
+      <node id="rumpus" label="rumpus">
+        <attvalues>
+          <attvalue for="0" value="1.9956351946" />
+        </attvalues>
+      </node>
+      <node id="runoff" label="runoff" />
+      <node id="ruination" label="ruination">
+        <attvalues>
+          <attvalue for="0" value="1.98227123304" />
+        </attvalues>
+      </node>
+      <node id="rubberneck" label="rubberneck">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="rudiment" label="rudiment">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="runaway" label="runaway" />
+      <node id="runty" label="runty" />
+      <node id="rushed" label="rushed" />
+      <node id="rustic" label="rustic">
+        <attvalues>
+          <attvalue for="0" value="3.25454807711" />
+        </attvalues>
+      </node>
+      <node id="rump" label="rump" />
+      <node id="rube" label="rube">
+        <attvalues>
+          <attvalue for="0" value="2.30963016743" />
+        </attvalues>
+      </node>
+      <node id="rummage" label="rummage">
+        <attvalues>
+          <attvalue for="0" value="2.53907609879" />
+        </attvalues>
+      </node>
+      <node id="ruble" label="ruble" />
+      <node id="rumormonger" label="rumormonger" />
+      <node id="rubbish" label="rubbish">
+        <attvalues>
+          <attvalue for="0" value="2.88649072517" />
+        </attvalues>
+      </node>
+      <node id="rudeness" label="rudeness">
+        <attvalues>
+          <attvalue for="0" value="2.58206336291" />
+        </attvalues>
+      </node>
+      <node id="rupture" label="rupture" />
+      <node id="rush" label="rush">
+        <attvalues>
+          <attvalue for="0" value="4.23761912995" />
+        </attvalues>
+      </node>
+      <node id="rugged" label="rugged">
+        <attvalues>
+          <attvalue for="0" value="3.48953662948" />
+        </attvalues>
+      </node>
+      <node id="runway" label="runway" />
+      <node id="ruined" label="ruined">
+        <attvalues>
+          <attvalue for="0" value="3.62065647982" />
+        </attvalues>
+      </node>
+      <node id="ruling" label="ruling" />
+      <node id="rust" label="rust">
+        <attvalues>
+          <attvalue for="0" value="3.30102999566" />
+        </attvalues>
+      </node>
+      <node id="ruffian" label="ruffian" />
+      <node id="runner" label="runner" />
+      <node id="rubbing" label="rubbing" />
+      <node id="ruckus" label="ruckus">
+        <attvalues>
+          <attvalue for="0" value="2.61804809671" />
+        </attvalues>
+      </node>
+      <node id="rubble" label="rubble">
+        <attvalues>
+          <attvalue for="0" value="3.4387005329" />
+        </attvalues>
+      </node>
+      <node id="runaround" label="runaround">
+        <attvalues>
+          <attvalue for="0" value="2.0170333393" />
+        </attvalues>
+      </node>
+      <node id="runnel" label="runnel">
+        <attvalues>
+          <attvalue for="0" value="1.2552725051" />
+        </attvalues>
+      </node>
+      <node id="ruminant" label="ruminant" />
+      <node id="rubber" label="rubber" />
+      <node id="ruth" label="ruth">
+        <attvalues>
+          <attvalue for="0" value="3.9122752105" />
+        </attvalues>
+      </node>
+      <node id="rubella" label="rubella" />
+      <node id="rude" label="rude">
+        <attvalues>
+          <attvalue for="0" value="3.50623435961" />
+        </attvalues>
+      </node>
+      <node id="ruthful" label="ruthful">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="rumen" label="rumen">
+        <attvalues>
+          <attvalue for="0" value="1.43136376416" />
+        </attvalues>
+      </node>
+      <node id="rumble" label="rumble" />
+      <node id="running" label="running">
+        <attvalues>
+          <attvalue for="0" value="4.84484359301" />
+        </attvalues>
+      </node>
+      <node id="rutty" label="rutty">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="ruction" label="ruction" />
+      <node id="ruffianly" label="ruffianly" />
+      <node id="rugous" label="rugous" />
+      <node id="rundle" label="rundle" />
+      <node id="rummy" label="rummy" />
+      <node id="rule" label="rule" />
+      <node id="rural" label="rural">
+        <attvalues>
+          <attvalue for="0" value="4.30083451916" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="rumbling" target="ruckus" weight="0.021978" />
+      <edge id="1" source="rumbling" target="rumor" weight="0.021739" />
+      <edge id="2" source="rumbling" target="rumpus" weight="0.021053" />
+      <edge id="3" source="rubric" target="rubberneck" weight="0.005" />
+      <edge id="4" source="rubric" target="rudiment" weight="0.012048" />
+      <edge id="5" source="rubric" target="runner" weight="0.004926" />
+      <edge id="6" source="rubric" target="rusty" weight="0.009434" />
+      <edge id="7" source="rubric" target="runnel" weight="0.012048" />
+      <edge id="8" source="rubric" target="run" weight="0.020804" />
+      <edge id="9" source="rubric" target="ruminate" weight="0.005988" />
+      <edge id="10" source="rubric" target="rundown" weight="0.034014" />
+      <edge id="11" source="rubric" target="rupture" weight="0.007273" />
+      <edge id="12" source="rubric" target="ruin" weight="0.00277" />
+      <edge id="13" source="rubric" target="ruck" weight="0.004545" />
+      <edge id="14" source="rubric" target="ruddy" weight="0.005618" />
+      <edge id="15" source="rubric" target="ruffle" weight="0.002732" />
+      <edge id="16" source="rubric" target="ruler" weight="0.010811" />
+      <edge id="17" source="rubric" target="rubicund" weight="0.01227" />
+      <edge id="18" source="rubric" target="rug" weight="0.012048" />
+      <edge id="19" source="rubric" target="running" weight="0.011173" />
+      <edge id="20" source="rubric" target="rutty" weight="0.005682" />
+      <edge id="21" source="rubric" target="ruby" weight="0.006211" />
+      <edge id="22" source="rubric" target="rundle" weight="0.011494" />
+      <edge id="23" source="rubric" target="rush" weight="0.01385" />
+      <edge id="24" source="rubric" target="rustle" weight="0.00565" />
+      <edge id="25" source="rubric" target="rule" weight="0.119632" />
+      <edge id="26" source="rubric" target="ruling" weight="0.11236" />
+      <edge id="27" source="rubric" target="rung" weight="0.028409" />
+      <edge id="28" source="rubric" target="runoff" weight="0.006135" />
+      <edge id="29" source="rubric" target="rust" weight="0.008333" />
+      <edge id="30" source="ruthlessness" target="ruination" weight="0.014706" />
+      <edge id="31" source="ruthlessness" target="ruin" weight="0.004132" />
+      <edge id="32" source="ruthlessness" target="rudeness" weight="0.020408" />
+      <edge id="33" source="ruminate" target="run" weight="0.001585" />
+      <edge id="34" source="ruminate" target="rust" weight="0.007299" />
+      <edge id="35" source="ruminate" target="rub" weight="0.017316" />
+      <edge id="36" source="ruminate" target="rumor" weight="0.017857" />
+      <edge id="37" source="ruminate" target="rut" weight="0.01" />
+      <edge id="38" source="rushing" target="rush" weight="0.018382" />
+      <edge id="39" source="rushing" target="run" weight="0.00936" />
+      <edge id="40" source="rushing" target="rude" weight="0.004673" />
+      <edge id="41" source="rushing" target="rushed" weight="0.032787" />
+      <edge id="42" source="rushing" target="rudimentary" weight="0.007519" />
+      <edge id="43" source="rushing" target="runny" weight="0.052632" />
+      <edge id="44" source="rushing" target="running" weight="0.171674" />
+      <edge id="45" source="rushing" target="ruling" weight="0.004831" />
+      <edge id="46" source="ruby" target="rubicund" weight="0.571429" />
+      <edge id="47" source="ruby" target="ruined" weight="0.009434" />
+      <edge id="48" source="ruby" target="rusty" weight="0.238095" />
+      <edge id="49" source="ruby" target="rutty" weight="0.015152" />
+      <edge id="50" source="ruby" target="rust" weight="0.178571" />
+      <edge id="51" source="ruby" target="ruddy" weight="0.4375" />
+      <edge id="52" source="ruin" target="ruination" weight="0.158333" />
+      <edge id="53" source="ruin" target="ruffian" weight="0.003311" />
+      <edge id="54" source="ruin" target="ruckus" weight="0.020619" />
+      <edge id="55" source="ruin" target="runnel" weight="0.003891" />
+      <edge id="56" source="ruin" target="ruffle" weight="0.022371" />
+      <edge id="57" source="ruin" target="ruthless" weight="0.003497" />
+      <edge id="58" source="ruin" target="rubber" weight="0.003509" />
+      <edge id="59" source="ruin" target="ruck" weight="0.003226" />
+      <edge id="60" source="ruin" target="rut" weight="0.003401" />
+      <edge id="61" source="ruin" target="rump" weight="0.021898" />
+      <edge id="62" source="ruin" target="ruinous" weight="0.002994" />
+      <edge id="63" source="ruin" target="ruptured" weight="0.003922" />
+      <edge id="64" source="ruin" target="rummage" weight="0.007752" />
+      <edge id="65" source="ruin" target="run" weight="0.022277" />
+      <edge id="66" source="ruin" target="rude" weight="0.002545" />
+      <edge id="67" source="ruin" target="rub" weight="0.009412" />
+      <edge id="68" source="ruin" target="ruff" weight="0.007018" />
+      <edge id="69" source="ruin" target="rumen" weight="0.004115" />
+      <edge id="70" source="ruin" target="rumble" weight="0.00554" />
+      <edge id="71" source="ruin" target="running" weight="0.002217" />
+      <edge id="72" source="ruin" target="rubbish" weight="0.021807" />
+      <edge id="73" source="ruin" target="ruction" weight="0.004237" />
+      <edge id="74" source="ruin" target="rupture" weight="0.042614" />
+      <edge id="75" source="ruin" target="rundle" weight="0.003774" />
+      <edge id="76" source="ruin" target="rush" weight="0.013333" />
+      <edge id="77" source="ruin" target="rumple" weight="0.014337" />
+      <edge id="78" source="ruin" target="rule" weight="0.008869" />
+      <edge id="79" source="ruin" target="ruined" weight="0.009868" />
+      <edge id="80" source="ruin" target="rumpus" weight="0.020339" />
+      <edge id="81" source="ruin" target="rust" weight="0.027864" />
+      <edge id="82" source="rubbishy" target="rugged" weight="0.006536" />
+      <edge id="83" source="rubbishy" target="rude" weight="0.0199" />
+      <edge id="84" source="rubbishy" target="rudiment" weight="0.014706" />
+      <edge id="85" source="rubbishy" target="ruthful" weight="0.033898" />
+      <edge id="86" source="rubbishy" target="rudimentary" weight="0.00813" />
+      <edge id="87" source="rubbishy" target="rubble" weight="0.016129" />
+      <edge id="88" source="rubbishy" target="rum" weight="0.012987" />
+      <edge id="89" source="rubbishy" target="rustic" weight="0.009346" />
+      <edge id="90" source="rubbishy" target="running" weight="0.003817" />
+      <edge id="91" source="rubbishy" target="rueful" weight="0.075949" />
+      <edge id="92" source="rubbishy" target="ruling" weight="0.005076" />
+      <edge id="93" source="rubbishy" target="rubbish" weight="0.014599" />
+      <edge id="94" source="rubbishy" target="ruinous" weight="0.013889" />
+      <edge id="95" source="rubbishy" target="runty" weight="0.014925" />
+      <edge id="96" source="ruler" target="ruffle" weight="0.003559" />
+      <edge id="97" source="ruler" target="rum" weight="0.010989" />
+      <edge id="98" source="ruler" target="runner" weight="0.008475" />
+      <edge id="99" source="ruler" target="rumple" weight="0.009346" />
+      <edge id="100" source="ruler" target="rule" weight="0.01083" />
+      <edge id="101" source="ruler" target="ruff" weight="0.018182" />
+      <edge id="102" source="ruler" target="rubber" weight="0.018349" />
+      <edge id="103" source="ruler" target="run" weight="0.006182" />
+      <edge id="104" source="ruler" target="rupture" weight="0.005236" />
+      <edge id="105" source="ruler" target="ruling" weight="0.06" />
+      <edge id="106" source="rubicund" target="rush" weight="0.003876" />
+      <edge id="107" source="rubicund" target="run" weight="0.001592" />
+      <edge id="108" source="rubicund" target="rude" weight="0.005102" />
+      <edge id="109" source="rubicund" target="rum" weight="0.014493" />
+      <edge id="110" source="rubicund" target="rutty" weight="0.014493" />
+      <edge id="111" source="rubicund" target="ruff" weight="0.011236" />
+      <edge id="112" source="rubicund" target="rubber" weight="0.011364" />
+      <edge id="113" source="rubicund" target="rusty" weight="0.244186" />
+      <edge id="114" source="rubicund" target="runaway" weight="0.027027" />
+      <edge id="115" source="rubicund" target="ruling" weight="0.005291" />
+      <edge id="116" source="rubicund" target="rugged" weight="0.006897" />
+      <edge id="117" source="rubicund" target="ruinous" weight="0.014706" />
+      <edge id="118" source="rubicund" target="ruined" weight="0.009174" />
+      <edge id="119" source="rubicund" target="rust" weight="0.184211" />
+      <edge id="120" source="rubicund" target="ruddy" weight="0.636364" />
+      <edge id="121" source="runny" target="running" weight="0.012712" />
+      <edge id="122" source="runny" target="rust" weight="0.008475" />
+      <edge id="123" source="ruff" target="rubberneck" weight="0.008" />
+      <edge id="124" source="ruff" target="ruffian" weight="0.014706" />
+      <edge id="125" source="ruff" target="runner" weight="0.007813" />
+      <edge id="126" source="ruff" target="rubbing" weight="0.008929" />
+      <edge id="127" source="ruff" target="run" weight="0.007622" />
+      <edge id="128" source="ruff" target="ruined" weight="0.007092" />
+      <edge id="129" source="ruff" target="rubber" weight="0.186275" />
+      <edge id="130" source="ruff" target="ruck" weight="0.035461" />
+      <edge id="131" source="ruff" target="rut" weight="0.04" />
+      <edge id="132" source="ruff" target="rump" weight="0.008772" />
+      <edge id="133" source="ruff" target="rummage" weight="0.010638" />
+      <edge id="134" source="ruff" target="ruche" weight="0.138462" />
+      <edge id="135" source="ruff" target="ruffle" weight="0.15873" />
+      <edge id="136" source="ruff" target="rude" weight="0.004386" />
+      <edge id="137" source="ruff" target="ruble" weight="0.014706" />
+      <edge id="138" source="ruff" target="rub" weight="0.011494" />
+      <edge id="139" source="ruff" target="rumble" weight="0.015385" />
+      <edge id="140" source="ruff" target="running" weight="0.003497" />
+      <edge id="141" source="ruff" target="rubbery" weight="0.00813" />
+      <edge id="142" source="ruff" target="rundle" weight="0.01" />
+      <edge id="143" source="ruff" target="rush" weight="0.00692" />
+      <edge id="144" source="ruff" target="rugged" weight="0.00565" />
+      <edge id="145" source="ruff" target="runt" weight="0.010101" />
+      <edge id="146" source="ruff" target="rumple" weight="0.035088" />
+      <edge id="147" source="ruff" target="rule" weight="0.00346" />
+      <edge id="148" source="ruff" target="ruse" weight="0.019231" />
+      <edge id="149" source="ruff" target="ruddy" weight="0.009709" />
+      <edge id="150" source="ruff" target="rung" weight="0.009524" />
+      <edge id="151" source="rusticate" target="run" weight="0.004862" />
+      <edge id="152" source="rusticate" target="rub" weight="0.004505" />
+      <edge id="153" source="rusticate" target="rustic" weight="0.011111" />
+      <edge id="154" source="rusticate" target="ruck" weight="0.009615" />
+      <edge id="155" source="rusticate" target="rutty" weight="0.016667" />
+      <edge id="156" source="rusticate" target="rung" weight="0.015625" />
+      <edge id="157" source="rusticate" target="rural" weight="0.023256" />
+      <edge id="158" source="rusticate" target="rut" weight="0.011364" />
+      <edge id="159" source="rumor" target="rubberneck" weight="0.011236" />
+      <edge id="160" source="rumor" target="run" weight="0.001603" />
+      <edge id="161" source="rumor" target="rub" weight="0.004405" />
+      <edge id="162" source="rumor" target="ruckus" weight="0.010526" />
+      <edge id="163" source="rumor" target="rule" weight="0.003953" />
+      <edge id="164" source="rumor" target="rumble" weight="0.094595" />
+      <edge id="165" source="rumor" target="rumpus" weight="0.010101" />
+      <edge id="166" source="rumor" target="rumormonger" weight="0.028571" />
+      <edge id="167" source="rumor" target="rust" weight="0.007692" />
+      <edge id="168" source="rustle" target="rush" weight="0.034221" />
+      <edge id="169" source="rustle" target="run" weight="0.007849" />
+      <edge id="170" source="rustle" target="rub" weight="0.00823" />
+      <edge id="171" source="rustle" target="rumple" weight="0.010204" />
+      <edge id="172" source="rustle" target="rubber" weight="0.009901" />
+      <edge id="173" source="rustle" target="ruck" weight="0.007937" />
+      <edge id="174" source="rustle" target="ruffle" weight="0.00738" />
+      <edge id="175" source="runs" target="rub" weight="0.009302" />
+      <edge id="176" source="runs" target="running" weight="0.004184" />
+      <edge id="177" source="runs" target="rubella" weight="0.023256" />
+      <edge id="178" source="runs" target="run" weight="0.003268" />
+      <edge id="179" source="runs" target="rush" weight="0.008264" />
+      <edge id="180" source="rumpled" target="rugous" weight="0.333333" />
+      <edge id="181" source="rumpled" target="rugged" weight="0.081301" />
+      <edge id="182" source="rumpled" target="rutty" weight="0.075472" />
+      <edge id="183" source="rumpled" target="rude" weight="0.005464" />
+      <edge id="184" source="runt" target="rush" weight="0.007491" />
+      <edge id="185" source="runt" target="run" weight="0.00314" />
+      <edge id="186" source="runt" target="rub" weight="0.004149" />
+      <edge id="187" source="runt" target="rudimentary" weight="0.02439" />
+      <edge id="188" source="runt" target="rug" weight="0.014286" />
+      <edge id="189" source="runt" target="rule" weight="0.007519" />
+      <edge id="190" source="runt" target="rubber" weight="0.010204" />
+      <edge id="191" source="runt" target="runner" weight="0.009434" />
+      <edge id="192" source="runt" target="ruffian" weight="0.017544" />
+      <edge id="193" source="runt" target="runty" weight="0.044776" />
+      <edge id="194" source="runic" target="rustic" weight="0.025" />
+      <edge id="195" source="runic" target="rural" weight="0.060606" />
+      <edge id="196" source="runic" target="rube" weight="0.017857" />
+      <edge id="197" source="rune" target="rub" weight="0.004202" />
+      <edge id="198" source="rune" target="running" weight="0.003831" />
+      <edge id="199" source="rune" target="rudiment" weight="0.014925" />
+      <edge id="200" source="ruddy" target="rusty" weight="0.21" />
+      <edge id="201" source="ruddy" target="runnel" weight="0.013514" />
+      <edge id="202" source="ruddy" target="runaway" weight="0.019608" />
+      <edge id="203" source="ruddy" target="ruminant" weight="0.010989" />
+      <edge id="204" source="ruddy" target="ruthless" weight="0.009709" />
+      <edge id="205" source="ruddy" target="rubber" weight="0.009804" />
+      <edge id="206" source="ruddy" target="ruinous" weight="0.020134" />
+      <edge id="207" source="ruddy" target="run" weight="0.004687" />
+      <edge id="208" source="ruddy" target="rude" weight="0.009569" />
+      <edge id="209" source="ruddy" target="rum" weight="0.012048" />
+      <edge id="210" source="ruddy" target="running" weight="0.003731" />
+      <edge id="211" source="ruddy" target="rutty" weight="0.012048" />
+      <edge id="212" source="ruddy" target="rupture" weight="0.005464" />
+      <edge id="213" source="ruddy" target="rundle" weight="0.012195" />
+      <edge id="214" source="ruddy" target="rush" weight="0.003676" />
+      <edge id="215" source="ruddy" target="rugged" weight="0.006289" />
+      <edge id="216" source="ruddy" target="rule" weight="0.00369" />
+      <edge id="217" source="ruddy" target="ruined" weight="0.024793" />
+      <edge id="218" source="ruddy" target="ruling" weight="0.009901" />
+      <edge id="219" source="ruddy" target="rust" weight="0.164063" />
+      <edge id="220" source="rung" target="rush" weight="0.00365" />
+      <edge id="221" source="rung" target="run" weight="0.015748" />
+      <edge id="222" source="rung" target="rubbish" weight="0.013793" />
+      <edge id="223" source="rung" target="rub" weight="0.004049" />
+      <edge id="224" source="rung" target="rundle" weight="0.148649" />
+      <edge id="225" source="rung" target="rubbing" weight="0.010417" />
+      <edge id="226" source="rung" target="rule" weight="0.018587" />
+      <edge id="227" source="rung" target="rubber" weight="0.009615" />
+      <edge id="228" source="rung" target="ruck" weight="0.007752" />
+      <edge id="229" source="rung" target="running" weight="0.003704" />
+      <edge id="230" source="rung" target="runnel" weight="0.013158" />
+      <edge id="231" source="rung" target="rump" weight="0.03125" />
+      <edge id="232" source="rung" target="rutty" weight="0.011765" />
+      <edge id="233" source="rung" target="rupture" weight="0.016393" />
+      <edge id="234" source="rung" target="ruptured" weight="0.013514" />
+      <edge id="235" source="rung" target="rut" weight="0.017857" />
+      <edge id="236" source="rung" target="ruling" weight="0.009804" />
+      <edge id="237" source="ruche" target="rub" weight="0.009346" />
+      <edge id="238" source="ruche" target="ruck" weight="0.020833" />
+      <edge id="239" source="ruche" target="run" weight="0.001634" />
+      <edge id="240" source="ruche" target="rut" weight="0.012346" />
+      <edge id="241" source="rusty" target="rutty" weight="0.017094" />
+      <edge id="242" source="rusty" target="rude" weight="0.004082" />
+      <edge id="243" source="rusty" target="rum" weight="0.008475" />
+      <edge id="244" source="rusty" target="rudimentary" weight="0.01227" />
+      <edge id="245" source="rusty" target="ruined" weight="0.096552" />
+      <edge id="246" source="rusty" target="runaway" weight="0.011628" />
+      <edge id="247" source="rusty" target="ruthful" weight="0.009901" />
+      <edge id="248" source="rusty" target="ruling" weight="0.004202" />
+      <edge id="249" source="rusty" target="ruinous" weight="0.080925" />
+      <edge id="250" source="rusty" target="runty" weight="0.018692" />
+      <edge id="251" source="rusty" target="rubbery" weight="0.029197" />
+      <edge id="252" source="rusty" target="rust" weight="0.202614" />
+      <edge id="253" source="ruffle" target="ruination" weight="0.007117" />
+      <edge id="254" source="ruffle" target="rummage" weight="0.031128" />
+      <edge id="255" source="ruffle" target="rush" weight="0.010965" />
+      <edge id="256" source="ruffle" target="ruined" weight="0.006452" />
+      <edge id="257" source="ruffle" target="run" weight="0.023399" />
+      <edge id="258" source="ruffle" target="rub" weight="0.038278" />
+      <edge id="259" source="ruffle" target="ruckus" weight="0.078571" />
+      <edge id="260" source="ruffle" target="rubble" weight="0.003906" />
+      <edge id="261" source="ruffle" target="rut" weight="0.016949" />
+      <edge id="262" source="ruffle" target="ruck" weight="0.039474" />
+      <edge id="263" source="ruffle" target="running" weight="0.004396" />
+      <edge id="264" source="ruffle" target="rumpus" weight="0.077465" />
+      <edge id="265" source="ruffle" target="rubbish" weight="0.003012" />
+      <edge id="266" source="ruffle" target="rust" weight="0.008982" />
+      <edge id="267" source="ruse" target="run" weight="0.007813" />
+      <edge id="268" source="ruse" target="rude" weight="0.004717" />
+      <edge id="269" source="ruse" target="rub" weight="0.012245" />
+      <edge id="270" source="ruse" target="ruckus" weight="0.008696" />
+      <edge id="271" source="ruse" target="running" weight="0.003704" />
+      <edge id="272" source="ruse" target="rumpus" weight="0.008403" />
+      <edge id="273" source="ruthless" target="run" weight="0.003035" />
+      <edge id="274" source="ruthless" target="rude" weight="0.026906" />
+      <edge id="275" source="ruthless" target="rustic" weight="0.007634" />
+      <edge id="276" source="ruthless" target="rugged" weight="0.040936" />
+      <edge id="277" source="ruthless" target="rugous" weight="0.011905" />
+      <edge id="278" source="ruthless" target="rupture" weight="0.01" />
+      <edge id="279" source="ruck" target="runnel" weight="0.008621" />
+      <edge id="280" source="ruck" target="rubber" weight="0.006944" />
+      <edge id="281" source="ruck" target="rut" weight="0.175573" />
+      <edge id="282" source="ruck" target="ruptured" weight="0.017699" />
+      <edge id="283" source="ruck" target="run" weight="0.026987" />
+      <edge id="284" source="ruck" target="rub" weight="0.006993" />
+      <edge id="285" source="ruck" target="rumble" weight="0.004525" />
+      <edge id="286" source="ruck" target="running" weight="0.003226" />
+      <edge id="287" source="ruck" target="rutty" weight="0.016129" />
+      <edge id="288" source="ruck" target="rupture" weight="0.051163" />
+      <edge id="289" source="ruck" target="rundle" weight="0.008065" />
+      <edge id="290" source="ruck" target="rush" weight="0.022727" />
+      <edge id="291" source="ruck" target="runway" weight="0.029126" />
+      <edge id="292" source="ruck" target="rumple" weight="0.145161" />
+      <edge id="293" source="ruck" target="rule" weight="0.009646" />
+      <edge id="294" source="ruck" target="ruling" weight="0.004082" />
+      <edge id="295" source="ruinous" target="rube" weight="0.006494" />
+      <edge id="296" source="ruinous" target="rugged" weight="0.008929" />
+      <edge id="297" source="ruinous" target="rude" weight="0.003623" />
+      <edge id="298" source="ruinous" target="rubble" weight="0.007463" />
+      <edge id="299" source="ruinous" target="ruined" weight="0.225806" />
+      <edge id="300" source="ruinous" target="rueful" weight="0.00641" />
+      <edge id="301" source="ruinous" target="rubbish" weight="0.009569" />
+      <edge id="302" source="ruinous" target="rust" weight="0.004673" />
+      <edge id="303" source="ruinous" target="rutty" weight="0.020408" />
+      <edge id="304" source="ruptured" target="ruination" weight="0.012346" />
+      <edge id="305" source="ruptured" target="rush" weight="0.003861" />
+      <edge id="306" source="ruptured" target="run" weight="0.008" />
+      <edge id="307" source="ruptured" target="rude" weight="0.005076" />
+      <edge id="308" source="ruptured" target="rub" weight="0.008658" />
+      <edge id="309" source="ruptured" target="ruined" weight="0.018349" />
+      <edge id="310" source="ruptured" target="rutty" weight="0.044118" />
+      <edge id="311" source="ruptured" target="rut" weight="0.020619" />
+      <edge id="312" source="run" target="ruination" weight="0.004622" />
+      <edge id="313" source="run" target="rubberneck" weight="0.015267" />
+      <edge id="314" source="run" target="runner" weight="0.01059" />
+      <edge id="315" source="run" target="rubbing" weight="0.001536" />
+      <edge id="316" source="run" target="ruckus" weight="0.007508" />
+      <edge id="317" source="run" target="runnel" weight="0.03268" />
+      <edge id="318" source="run" target="rundle" weight="0.035599" />
+      <edge id="319" source="run" target="rubber" weight="0.006098" />
+      <edge id="320" source="run" target="rustic" weight="0.00299" />
+      <edge id="321" source="run" target="rump" weight="0.007704" />
+      <edge id="322" source="run" target="ruth" weight="0.0032" />
+      <edge id="323" source="run" target="ruling" weight="0.013316" />
+      <edge id="324" source="run" target="rummage" weight="0.007949" />
+      <edge id="325" source="run" target="ruined" weight="0.001471" />
+      <edge id="326" source="run" target="rude" weight="0.003922" />
+      <edge id="327" source="run" target="rub" weight="0.034794" />
+      <edge id="328" source="run" target="rug" weight="0.004769" />
+      <edge id="329" source="run" target="rumble" weight="0.010974" />
+      <edge id="330" source="run" target="running" weight="0.033792" />
+      <edge id="331" source="run" target="rutty" weight="0.004702" />
+      <edge id="332" source="run" target="rubbish" weight="0.002857" />
+      <edge id="333" source="run" target="ruction" weight="0.001639" />
+      <edge id="334" source="run" target="rupture" weight="0.099407" />
+      <edge id="335" source="run" target="rut" weight="0.055205" />
+      <edge id="336" source="run" target="rugged" weight="0.001397" />
+      <edge id="337" source="run" target="runway" weight="0.029851" />
+      <edge id="338" source="run" target="rumple" weight="0.009217" />
+      <edge id="339" source="run" target="rule" weight="0.038847" />
+      <edge id="340" source="run" target="rueful" weight="0.001546" />
+      <edge id="341" source="run" target="rumpus" weight="0.007463" />
+      <edge id="342" source="run" target="runoff" weight="0.011272" />
+      <edge id="343" source="run" target="rural" weight="0.001605" />
+      <edge id="344" source="run" target="rush" weight="0.126187" />
+      <edge id="345" source="run" target="rust" weight="0.002841" />
+      <edge id="346" source="rum" target="rugged" weight="0.025974" />
+      <edge id="347" source="rum" target="rude" weight="0.004808" />
+      <edge id="348" source="rum" target="rustic" weight="0.009009" />
+      <edge id="349" source="rum" target="rust" weight="0.006849" />
+      <edge id="350" source="rum" target="rutty" weight="0.012346" />
+      <edge id="351" source="rub" target="ruination" weight="0.007905" />
+      <edge id="352" source="rub" target="ruffian" weight="0.007194" />
+      <edge id="353" source="rub" target="rubbing" weight="0.02" />
+      <edge id="354" source="rub" target="ruckus" weight="0.007353" />
+      <edge id="355" source="rub" target="runnel" weight="0.004274" />
+      <edge id="356" source="rub" target="rubber" weight="0.011538" />
+      <edge id="357" source="rub" target="rudeness" weight="0.004255" />
+      <edge id="358" source="rub" target="rustic" weight="0.003663" />
+      <edge id="359" source="rub" target="rut" weight="0.014925" />
+      <edge id="360" source="rub" target="rummy" weight="0.004785" />
+      <edge id="361" source="rub" target="rump" weight="0.007843" />
+      <edge id="362" source="rub" target="ruth" weight="0.004367" />
+      <edge id="363" source="rub" target="rummage" weight="0.004237" />
+      <edge id="364" source="rub" target="rude" weight="0.002703" />
+      <edge id="365" source="rub" target="rush" weight="0.009324" />
+      <edge id="366" source="rub" target="rumble" weight="0.021021" />
+      <edge id="367" source="rub" target="rutty" weight="0.004115" />
+      <edge id="368" source="rub" target="rubbish" weight="0.003289" />
+      <edge id="369" source="rub" target="ruction" weight="0.004695" />
+      <edge id="370" source="rub" target="rupture" weight="0.04878" />
+      <edge id="371" source="rub" target="rundle" weight="0.004132" />
+      <edge id="372" source="rub" target="rugged" weight="0.003135" />
+      <edge id="373" source="rub" target="rumple" weight="0.015625" />
+      <edge id="374" source="rub" target="rueful" weight="0.004" />
+      <edge id="375" source="rub" target="rumpus" weight="0.010909" />
+      <edge id="376" source="rub" target="runoff" weight="0.004348" />
+      <edge id="377" source="rub" target="rust" weight="0.013115" />
+      <edge id="378" source="rudimentary" target="rube" weight="0.039063" />
+      <edge id="379" source="rudimentary" target="rugged" weight="0.014925" />
+      <edge id="380" source="rudimentary" target="rudiment" weight="0.025862" />
+      <edge id="381" source="rudimentary" target="rude" weight="0.108696" />
+      <edge id="382" source="rudimentary" target="running" weight="0.003205" />
+      <edge id="383" source="rudimentary" target="rustic" weight="0.006369" />
+      <edge id="384" source="rudimentary" target="rutty" weight="0.032258" />
+      <edge id="385" source="rug" target="rummage" weight="0.015385" />
+      <edge id="386" source="rug" target="rudiment" weight="0.04918" />
+      <edge id="387" source="rug" target="rubble" weight="0.017544" />
+      <edge id="388" source="rug" target="rubbish" weight="0.007519" />
+      <edge id="389" source="rue" target="running" weight="0.004065" />
+      <edge id="390" source="rue" target="ruth" weight="0.142857" />
+      <edge id="391" source="rubbery" target="rubberneck" weight="0.015873" />
+      <edge id="392" source="rubbery" target="ruthful" weight="0.011628" />
+      <edge id="393" source="rubbery" target="ruined" weight="0.006993" />
+      <edge id="394" source="rubbery" target="rustic" weight="0.007519" />
+      <edge id="395" source="rut" target="runnel" weight="0.041237" />
+      <edge id="396" source="rut" target="rubber" weight="0.007813" />
+      <edge id="397" source="rut" target="rump" weight="0.008197" />
+      <edge id="398" source="rut" target="rummage" weight="0.019802" />
+      <edge id="399" source="rut" target="rumble" weight="0.004878" />
+      <edge id="400" source="rut" target="running" weight="0.003401" />
+      <edge id="401" source="rut" target="rutty" weight="0.018519" />
+      <edge id="402" source="rut" target="rupture" weight="0.082474" />
+      <edge id="403" source="rut" target="rundle" weight="0.028302" />
+      <edge id="404" source="rut" target="rush" weight="0.006734" />
+      <edge id="405" source="rut" target="runway" weight="0.232877" />
+      <edge id="406" source="rut" target="rumple" weight="0.05" />
+      <edge id="407" source="rut" target="rule" weight="0.003367" />
+      <edge id="408" source="rut" target="ruined" weight="0.006711" />
+      <edge id="409" source="rut" target="ruling" weight="0.004367" />
+      <edge id="410" source="rumple" target="rummage" weight="0.070588" />
+      <edge id="411" source="rumple" target="rush" weight="0.007018" />
+      <edge id="412" source="rumple" target="ruined" weight="0.014706" />
+      <edge id="413" source="rumple" target="ruckus" weight="0.032258" />
+      <edge id="414" source="rumple" target="rubble" weight="0.012195" />
+      <edge id="415" source="rumple" target="running" weight="0.003546" />
+      <edge id="416" source="rumple" target="rumpus" weight="0.03125" />
+      <edge id="417" source="rumple" target="rubbish" weight="0.006329" />
+      <edge id="418" source="rueful" target="ruthful" weight="0.074627" />
+      <edge id="419" source="rueful" target="rubbing" weight="0.010101" />
+      <edge id="420" source="rueful" target="running" weight="0.003663" />
+      <edge id="421" source="rueful" target="rugged" weight="0.006098" />
+      <edge id="422" source="rueful" target="ruminant" weight="0.010417" />
+      <edge id="423" source="rueful" target="rupture" weight="0.005319" />
+      <edge id="424" source="rumpus" target="rummage" weight="0.009259" />
+      <edge id="425" source="rumpus" target="rush" weight="0.003289" />
+      <edge id="426" source="rumpus" target="ruckus" weight="0.921053" />
+      <edge id="427" source="rumpus" target="rubble" weight="0.01" />
+      <edge id="428" source="rumpus" target="running" weight="0.003333" />
+      <edge id="429" source="rumpus" target="rubber" weight="0.007463" />
+      <edge id="430" source="rumpus" target="rumble" weight="0.191011" />
+      <edge id="431" source="rumpus" target="rust" weight="0.005556" />
+      <edge id="432" source="rumpus" target="rubbish" weight="0.005682" />
+      <edge id="433" source="rumpus" target="ruction" weight="0.116883" />
+      <edge id="434" source="rumpus" target="ruined" weight="0.006452" />
+      <edge id="435" source="rumpus" target="rudeness" weight="0.018868" />
+      <edge id="436" source="runoff" target="rush" weight="0.019763" />
+      <edge id="437" source="runoff" target="runnel" weight="0.016949" />
+      <edge id="438" source="ruination" target="ruffian" weight="0.007813" />
+      <edge id="439" source="ruination" target="running" weight="0.00361" />
+      <edge id="440" source="ruination" target="rubbish" weight="0.006536" />
+      <edge id="441" source="ruination" target="rump" weight="0.009524" />
+      <edge id="442" source="ruination" target="rupture" weight="0.032086" />
+      <edge id="443" source="ruination" target="rust" weight="0.039474" />
+      <edge id="444" source="rubberneck" target="rube" weight="0.009091" />
+      <edge id="445" source="rubberneck" target="rust" weight="0.005882" />
+      <edge id="446" source="rubberneck" target="runner" weight="0.007576" />
+      <edge id="447" source="rubberneck" target="rupture" weight="0.004878" />
+      <edge id="448" source="rubberneck" target="rumble" weight="0.004975" />
+      <edge id="449" source="rubberneck" target="rumormonger" weight="0.041096" />
+      <edge id="450" source="rudiment" target="rubble" weight="0.017544" />
+      <edge id="451" source="rudiment" target="rule" weight="0.007722" />
+      <edge id="452" source="rudiment" target="runnel" weight="0.015873" />
+      <edge id="453" source="runaway" target="rust" weight="0.008772" />
+      <edge id="454" source="runaway" target="rutty" weight="0.020408" />
+      <edge id="455" source="runty" target="rugged" weight="0.006803" />
+      <edge id="456" source="runty" target="rude" weight="0.015306" />
+      <edge id="457" source="rushed" target="running" weight="0.008333" />
+      <edge id="458" source="rushed" target="rush" weight="0.008197" />
+      <edge id="459" source="rustic" target="ruffian" weight="0.042254" />
+      <edge id="460" source="rustic" target="ruminant" weight="0.008403" />
+      <edge id="461" source="rustic" target="rump" weight="0.008065" />
+      <edge id="462" source="rustic" target="rube" weight="0.135922" />
+      <edge id="463" source="rustic" target="rude" weight="0.034632" />
+      <edge id="464" source="rustic" target="running" weight="0.00678" />
+      <edge id="465" source="rustic" target="rutty" weight="0.009009" />
+      <edge id="466" source="rustic" target="ruffianly" weight="0.012048" />
+      <edge id="467" source="rustic" target="rupture" weight="0.004739" />
+      <edge id="468" source="rustic" target="rugged" weight="0.016216" />
+      <edge id="469" source="rustic" target="rule" weight="0.003344" />
+      <edge id="470" source="rustic" target="ruling" weight="0.004329" />
+      <edge id="471" source="rustic" target="rural" weight="0.144578" />
+      <edge id="472" source="rump" target="rube" weight="0.010101" />
+      <edge id="473" source="rump" target="rush" weight="0.003534" />
+      <edge id="474" source="rump" target="rubbish" weight="0.248" />
+      <edge id="475" source="rump" target="rubble" weight="0.025641" />
+      <edge id="476" source="rube" target="ruffian" weight="0.042373" />
+      <edge id="477" source="rube" target="rude" weight="0.028846" />
+      <edge id="478" source="rube" target="rutty" weight="0.023529" />
+      <edge id="479" source="rube" target="ruffianly" weight="0.092593" />
+      <edge id="480" source="rube" target="rural" weight="0.029412" />
+      <edge id="481" source="rummage" target="rush" weight="0.007634" />
+      <edge id="482" source="rummage" target="rubbish" weight="0.007407" />
+      <edge id="483" source="rummage" target="ruckus" weight="0.009615" />
+      <edge id="484" source="rummage" target="rubble" weight="0.016949" />
+      <edge id="485" source="rummage" target="rumble" weight="0.005882" />
+      <edge id="486" source="rummage" target="ruined" weight="0.008772" />
+      <edge id="487" source="rummage" target="rupture" weight="0.005747" />
+      <edge id="488" source="ruble" target="rush" weight="0.008475" />
+      <edge id="489" source="rubbish" target="rubbing" weight="0.013158" />
+      <edge id="490" source="rubbish" target="ruckus" weight="0.005814" />
+      <edge id="491" source="rubbish" target="rubble" weight="0.094017" />
+      <edge id="492" source="rubbish" target="ruminant" weight="0.006667" />
+      <edge id="493" source="rubbish" target="rundle" weight="0.007092" />
+      <edge id="494" source="rubbish" target="rush" weight="0.006061" />
+      <edge id="495" source="rubbish" target="rule" weight="0.00303" />
+      <edge id="496" source="rubbish" target="ruined" weight="0.005495" />
+      <edge id="497" source="rubbish" target="rust" weight="0.004831" />
+      <edge id="498" source="rudeness" target="rumble" weight="0.005917" />
+      <edge id="499" source="rudeness" target="ruckus" weight="0.019608" />
+      <edge id="500" source="rupture" target="rush" weight="0.013661" />
+      <edge id="501" source="rupture" target="runnel" weight="0.035928" />
+      <edge id="502" source="rupture" target="rude" weight="0.003247" />
+      <edge id="503" source="rupture" target="running" weight="0.002732" />
+      <edge id="504" source="rupture" target="rutty" weight="0.011111" />
+      <edge id="505" source="rupture" target="rust" weight="0.008163" />
+      <edge id="506" source="rush" target="runner" weight="0.010169" />
+      <edge id="507" source="rush" target="ruckus" weight="0.003333" />
+      <edge id="508" source="rush" target="runnel" weight="0.011583" />
+      <edge id="509" source="rush" target="rubber" weight="0.00346" />
+      <edge id="510" source="rush" target="rundle" weight="0.007463" />
+      <edge id="511" source="rush" target="ruling" weight="0.005141" />
+      <edge id="512" source="rush" target="rude" weight="0.005051" />
+      <edge id="513" source="rush" target="rumble" weight="0.008242" />
+      <edge id="514" source="rush" target="running" weight="0.020134" />
+      <edge id="515" source="rush" target="rugged" weight="0.00289" />
+      <edge id="516" source="rush" target="runway" weight="0.004" />
+      <edge id="517" source="rush" target="rule" weight="0.006579" />
+      <edge id="518" source="rush" target="rust" weight="0.002985" />
+      <edge id="519" source="rugged" target="ruffian" weight="0.010417" />
+      <edge id="520" source="rugged" target="rubber" weight="0.005682" />
+      <edge id="521" source="rugged" target="ruling" weight="0.037313" />
+      <edge id="522" source="rugged" target="rude" weight="0.079545" />
+      <edge id="523" source="rugged" target="rumble" weight="0.003953" />
+      <edge id="524" source="rugged" target="running" weight="0.005865" />
+      <edge id="525" source="rugged" target="rutty" weight="0.039474" />
+      <edge id="526" source="rugged" target="rugous" weight="0.194915" />
+      <edge id="527" source="runway" target="runnel" weight="0.019231" />
+      <edge id="528" source="ruined" target="rust" weight="0.005376" />
+      <edge id="529" source="ruined" target="ruckus" weight="0.006623" />
+      <edge id="530" source="ruined" target="rubber" weight="0.007143" />
+      <edge id="531" source="ruined" target="rutty" weight="0.016667" />
+      <edge id="532" source="ruling" target="rude" weight="0.015432" />
+      <edge id="533" source="ruling" target="running" weight="0.075" />
+      <edge id="534" source="ruling" target="rust" weight="0.007547" />
+      <edge id="535" source="rust" target="ruckus" weight="0.005682" />
+      <edge id="536" source="rust" target="runnel" weight="0.007299" />
+      <edge id="537" source="rust" target="rude" weight="0.003663" />
+      <edge id="538" source="rust" target="rumble" weight="0.008299" />
+      <edge id="539" source="rust" target="running" weight="0.003021" />
+      <edge id="540" source="rust" target="rutty" weight="0.013793" />
+      <edge id="541" source="rust" target="rundle" weight="0.006897" />
+      <edge id="542" source="ruffian" target="rude" weight="0.00823" />
+      <edge id="543" source="ruffian" target="rutty" weight="0.008547" />
+      <edge id="544" source="runner" target="running" weight="0.006849" />
+      <edge id="545" source="runner" target="runnel" weight="0.010101" />
+      <edge id="546" source="rubbing" target="running" weight="0.007246" />
+      <edge id="547" source="rubbing" target="ruth" weight="0.012821" />
+      <edge id="548" source="ruckus" target="rubble" weight="0.010417" />
+      <edge id="549" source="ruckus" target="running" weight="0.003378" />
+      <edge id="550" source="ruckus" target="rubber" weight="0.007692" />
+      <edge id="551" source="ruckus" target="rumble" weight="0.195402" />
+      <edge id="552" source="ruckus" target="ruction" weight="0.123288" />
+      <edge id="553" source="runaround" target="rundle" weight="0.022222" />
+      <edge id="554" source="runnel" target="rude" weight="0.005025" />
+      <edge id="555" source="runnel" target="rule" weight="0.003846" />
+      <edge id="556" source="runnel" target="running" weight="0.003891" />
+      <edge id="557" source="runnel" target="rundle" weight="0.333333" />
+      <edge id="558" source="rubber" target="rude" weight="0.004405" />
+      <edge id="559" source="rubber" target="rumen" weight="0.012987" />
+      <edge id="560" source="rubber" target="running" weight="0.003509" />
+      <edge id="561" source="ruth" target="rule" weight="0.003922" />
+      <edge id="562" source="rude" target="running" weight="0.010256" />
+      <edge id="563" source="rude" target="rutty" weight="0.02451" />
+      <edge id="564" source="rude" target="ruffianly" weight="0.011173" />
+      <edge id="565" source="rude" target="rugous" weight="0.015873" />
+      <edge id="566" source="rude" target="rundle" weight="0.004831" />
+      <edge id="567" source="rude" target="rural" weight="0.005236" />
+      <edge id="568" source="ruthful" target="running" weight="0.004016" />
+      <edge id="569" source="rumble" target="running" weight="0.002762" />
+      <edge id="570" source="running" target="rundle" weight="0.003774" />
+      <edge id="571" source="running" target="rule" weight="0.036446" />
+      <edge id="572" source="rutty" target="rugous" weight="0.048387" />
+      <edge id="573" source="rutty" target="rural" weight="0.015625" />
+    </edges>
+  </graph>
+</gexf>

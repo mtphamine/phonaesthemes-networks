@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="equinox" label="equinox" />
+      <node id="equator" label="equator" />
+      <node id="equipoise" label="equipoise" />
+      <node id="equipage" label="equipage" />
+      <node id="equanimity" label="equanimity" />
+      <node id="equivalence" label="equivalence" />
+      <node id="equipment" label="equipment" />
+      <node id="equate" label="equate" />
+      <node id="equity" label="equity" />
+      <node id="equilibrium" label="equilibrium" />
+      <node id="equalizing" label="equalizing" />
+      <node id="equivalent" label="equivalent" />
+      <node id="equidistant" label="equidistant" />
+      <node id="equitable" label="equitable" />
+      <node id="equatorial" label="equatorial" />
+      <node id="equilateral" label="equilateral" />
+      <node id="equality" label="equality" />
+      <node id="equine" label="equine" />
+      <node id="equation" label="equation" />
+      <node id="equispaced" label="equispaced" />
+      <node id="equal" label="equal" />
+      <node id="equalize" label="equalize" />
+      <node id="equable" label="equable" />
+      <node id="equestrian" label="equestrian" />
+    </nodes>
+    <edges>
+      <edge id="0" source="equinox" target="equator" />
+      <edge id="1" source="equipoise" target="equilibrium" />
+      <edge id="2" source="equipoise" target="equivalent" />
+      <edge id="3" source="equipoise" target="equivalence" />
+      <edge id="4" source="equipoise" target="equation" />
+      <edge id="5" source="equipoise" target="equity" />
+      <edge id="6" source="equipage" target="equipment" />
+      <edge id="7" source="equanimity" target="equilibrium" />
+      <edge id="8" source="equivalence" target="equation" />
+      <edge id="9" source="equivalence" target="equilibrium" />
+      <edge id="10" source="equivalence" target="equality" />
+      <edge id="11" source="equivalence" target="equity" />
+      <edge id="12" source="equate" target="equalize" />
+      <edge id="13" source="equity" target="equation" />
+      <edge id="14" source="equity" target="equilibrium" />
+      <edge id="15" source="equilibrium" target="equality" />
+      <edge id="16" source="equilibrium" target="equation" />
+      <edge id="17" source="equalizing" target="equivalent" />
+      <edge id="18" source="equalizing" target="equation" />
+      <edge id="19" source="equalizing" target="equal" />
+      <edge id="20" source="equivalent" target="equal" />
+      <edge id="21" source="equidistant" target="equatorial" />
+      <edge id="22" source="equidistant" target="equispaced" />
+      <edge id="23" source="equidistant" target="equal" />
+      <edge id="24" source="equitable" target="equal" />
+      <edge id="25" source="equilateral" target="equispaced" />
+      <edge id="26" source="equilateral" target="equal" />
+      <edge id="27" source="equine" target="equestrian" />
+      <edge id="28" source="equispaced" target="equal" />
+      <edge id="29" source="equal" target="equalize" />
+      <edge id="30" source="equal" target="equable" />
+    </edges>
+  </graph>
+</gexf>

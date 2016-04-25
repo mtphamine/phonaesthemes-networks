@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="needful" label="needful">
+        <attvalues>
+          <attvalue for="0" value="1.9956351946" />
+        </attvalues>
+      </node>
+      <node id="nearness" label="nearness">
+        <attvalues>
+          <attvalue for="0" value="2.28103336725" />
+        </attvalues>
+      </node>
+      <node id="negligence" label="negligence" />
+      <node id="nettled" label="nettled">
+        <attvalues>
+          <attvalue for="0" value="1.64345267649" />
+        </attvalues>
+      </node>
+      <node id="necromancer" label="necromancer">
+        <attvalues>
+          <attvalue for="0" value="2.14921911266" />
+        </attvalues>
+      </node>
+      <node id="neigh" label="neigh" />
+      <node id="nefarious" label="nefarious">
+        <attvalues>
+          <attvalue for="0" value="2.65321251378" />
+        </attvalues>
+      </node>
+      <node id="newsreel" label="newsreel">
+        <attvalues>
+          <attvalue for="0" value="2.45788189673" />
+        </attvalues>
+      </node>
+      <node id="nephritis" label="nephritis">
+        <attvalues>
+          <attvalue for="0" value="1.38021124171" />
+        </attvalues>
+      </node>
+      <node id="nemesis" label="nemesis" />
+      <node id="newfashioned" label="newfashioned" />
+      <node id="nervous" label="nervous" />
+      <node id="necromancy" label="necromancy" />
+      <node id="neoplasm" label="neoplasm" />
+      <node id="nervousness" label="nervousness">
+        <attvalues>
+          <attvalue for="0" value="2.94645226501" />
+        </attvalues>
+      </node>
+      <node id="neophyte" label="neophyte">
+        <attvalues>
+          <attvalue for="0" value="2.42160392687" />
+        </attvalues>
+      </node>
+      <node id="negligent" label="negligent">
+        <attvalues>
+          <attvalue for="0" value="2.92376196083" />
+        </attvalues>
+      </node>
+      <node id="nearly" label="nearly">
+        <attvalues>
+          <attvalue for="0" value="4.85503431668" />
+        </attvalues>
+      </node>
+      <node id="newly" label="newly" />
+      <node id="neurological" label="neurological" />
+      <node id="necessary" label="necessary">
+        <attvalues>
+          <attvalue for="0" value="4.64108723767" />
+        </attvalues>
+      </node>
+      <node id="nectar" label="nectar" />
+      <node id="newsmonger" label="newsmonger">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nerves" label="nerves" />
+      <node id="neighborhood" label="neighborhood" />
+      <node id="neuralgia" label="neuralgia" />
+      <node id="nearing" label="nearing">
+        <attvalues>
+          <attvalue for="0" value="3.18098558079" />
+        </attvalues>
+      </node>
+      <node id="necessaries" label="necessaries" />
+      <node id="nectarous" label="nectarous" />
+      <node id="negotiator" label="negotiator">
+        <attvalues>
+          <attvalue for="0" value="3.09760432887" />
+        </attvalues>
+      </node>
+      <node id="nephew" label="nephew" />
+      <node id="newsletter" label="newsletter">
+        <attvalues>
+          <attvalue for="0" value="3.47055748522" />
+        </attvalues>
+      </node>
+      <node id="network" label="network" />
+      <node id="neb" label="neb">
+        <attvalues>
+          <attvalue for="0" value="2.53655844257" />
+        </attvalues>
+      </node>
+      <node id="neurosis" label="neurosis" />
+      <node id="new" label="new" />
+      <node id="net" label="net">
+        <attvalues>
+          <attvalue for="0" value="4.25056636904" />
+        </attvalues>
+      </node>
+      <node id="nestor" label="nestor">
+        <attvalues>
+          <attvalue for="0" value="2.61278385672" />
+        </attvalues>
+      </node>
+      <node id="never" label="never" />
+      <node id="newcomer" label="newcomer" />
+      <node id="news" label="news">
+        <attvalues>
+          <attvalue for="0" value="5.12697189688" />
+        </attvalues>
+      </node>
+      <node id="newness" label="newness">
+        <attvalues>
+          <attvalue for="0" value="2.62634036738" />
+        </attvalues>
+      </node>
+      <node id="needing" label="needing" />
+      <node id="needlework" label="needlework">
+        <attvalues>
+          <attvalue for="0" value="2.34439227369" />
+        </attvalues>
+      </node>
+      <node id="necrological" label="necrological">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="neighbor" label="neighbor">
+        <attvalues>
+          <attvalue for="0" value="4.02649240705" />
+        </attvalues>
+      </node>
+      <node id="nearsighted" label="nearsighted">
+        <attvalues>
+          <attvalue for="0" value="2.23044892138" />
+        </attvalues>
+      </node>
+      <node id="nevus" label="nevus" />
+      <node id="neglect" label="neglect" />
+      <node id="nearby" label="nearby">
+        <attvalues>
+          <attvalue for="0" value="4.36692700659" />
+        </attvalues>
+      </node>
+      <node id="negotiation" label="negotiation">
+        <attvalues>
+          <attvalue for="0" value="3.59206567043" />
+        </attvalues>
+      </node>
+      <node id="nerve" label="nerve" />
+      <node id="nerveless" label="nerveless" />
+      <node id="newborn" label="newborn">
+        <attvalues>
+          <attvalue for="0" value="3.40053798939" />
+        </attvalues>
+      </node>
+      <node id="neutrality" label="neutrality" />
+      <node id="negate" label="negate" />
+      <node id="nervy" label="nervy">
+        <attvalues>
+          <attvalue for="0" value="2.01283722471" />
+        </attvalues>
+      </node>
+      <node id="needless" label="needless" />
+      <node id="negative" label="negative" />
+      <node id="next" label="next" />
+      <node id="newscast" label="newscast" />
+      <node id="negativism" label="negativism">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="newsman" label="newsman" />
+      <node id="needle" label="needle" />
+      <node id="neutral" label="neutral">
+        <attvalues>
+          <attvalue for="0" value="3.82911071016" />
+        </attvalues>
+      </node>
+      <node id="neologism" label="neologism">
+        <attvalues>
+          <attvalue for="0" value="1.69019608003" />
+        </attvalues>
+      </node>
+      <node id="neap" label="neap">
+        <attvalues>
+          <attvalue for="0" value="1.69019608003" />
+        </attvalues>
+      </node>
+      <node id="nestle" label="nestle" />
+      <node id="near" label="near" />
+      <node id="newspaperman" label="newspaperman">
+        <attvalues>
+          <attvalue for="0" value="2.27184160654" />
+        </attvalues>
+      </node>
+      <node id="neat" label="neat">
+        <attvalues>
+          <attvalue for="0" value="3.73695395378" />
+        </attvalues>
+      </node>
+      <node id="netting" label="netting" />
+      <node id="newspaper" label="newspaper">
+        <attvalues>
+          <attvalue for="0" value="4.40076241761" />
+        </attvalues>
+      </node>
+      <node id="neuritis" label="neuritis" />
+      <node id="neutralize" label="neutralize" />
+      <node id="nexus" label="nexus">
+        <attvalues>
+          <attvalue for="0" value="3.00130093302" />
+        </attvalues>
+      </node>
+      <node id="nepotism" label="nepotism">
+        <attvalues>
+          <attvalue for="0" value="2.41664050734" />
+        </attvalues>
+      </node>
+      <node id="neuron" label="neuron" />
+      <node id="need" label="need">
+        <attvalues>
+          <attvalue for="0" value="5.37394314739" />
+        </attvalues>
+      </node>
+      <node id="needled" label="needled">
+        <attvalues>
+          <attvalue for="0" value="2.00860017176" />
+        </attvalues>
+      </node>
+      <node id="neutralizer" label="neutralizer">
+        <attvalues>
+          <attvalue for="0" value="1.4623979979" />
+        </attvalues>
+      </node>
+      <node id="neatness" label="neatness" />
+      <node id="needy" label="needy">
+        <attvalues>
+          <attvalue for="0" value="3.25236751446" />
+        </attvalues>
+      </node>
+      <node id="newsy" label="newsy">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="negation" label="negation">
+        <attvalues>
+          <attvalue for="0" value="2.72015930341" />
+        </attvalues>
+      </node>
+      <node id="neurotic" label="neurotic" />
+      <node id="neighborly" label="neighborly" />
+      <node id="nestling" label="nestling">
+        <attvalues>
+          <attvalue for="0" value="2.15228834438" />
+        </attvalues>
+      </node>
+      <node id="neaten" label="neaten">
+        <attvalues>
+          <attvalue for="0" value="1.17609125906" />
+        </attvalues>
+      </node>
+      <node id="necrophilia" label="necrophilia">
+        <attvalues>
+          <attvalue for="0" value="1.67209785794" />
+        </attvalues>
+      </node>
+      <node id="nest" label="nest" />
+      <node id="negotiate" label="negotiate" />
+      <node id="necessity" label="necessity" />
+      <node id="neglectful" label="neglectful" />
+      <node id="neck" label="neck" />
+      <node id="neuter" label="neuter" />
+      <node id="nevertheless" label="nevertheless">
+        <attvalues>
+          <attvalue for="0" value="4.13653032353" />
+        </attvalues>
+      </node>
+      <node id="neighboring" label="neighboring">
+        <attvalues>
+          <attvalue for="0" value="3.76952502017" />
+        </attvalues>
+      </node>
+      <node id="necrosis" label="necrosis">
+        <attvalues>
+          <attvalue for="0" value="2.67117284272" />
+        </attvalues>
+      </node>
+      <node id="nebulous" label="nebulous" />
+      <node id="nettle" label="nettle">
+        <attvalues>
+          <attvalue for="0" value="2.42160392687" />
+        </attvalues>
+      </node>
+      <node id="necrology" label="necrology" />
+      <node id="nebbish" label="nebbish">
+        <attvalues>
+          <attvalue for="0" value="1.49136169383" />
+        </attvalues>
+      </node>
+      <node id="negligible" label="negligible">
+        <attvalues>
+          <attvalue for="0" value="3.06107532363" />
+        </attvalues>
+      </node>
+      <node id="necklace" label="necklace" />
+    </nodes>
+    <edges>
+      <edge id="0" source="needful" target="necessary" weight="0.15873" />
+      <edge id="1" source="needful" target="nervous" weight="0.008264" />
+      <edge id="2" source="needful" target="necessaries" weight="0.181818" />
+      <edge id="3" source="needful" target="necessity" weight="0.071429" />
+      <edge id="4" source="needful" target="need" weight="0.047619" />
+      <edge id="5" source="needful" target="net" weight="0.004444" />
+      <edge id="6" source="nearness" target="nervousness" weight="0.005747" />
+      <edge id="7" source="nearness" target="neighborhood" weight="0.039063" />
+      <edge id="8" source="nearness" target="neck" weight="0.015152" />
+      <edge id="9" source="nearness" target="nexus" weight="0.033613" />
+      <edge id="10" source="nearness" target="negligence" weight="0.006623" />
+      <edge id="11" source="nearness" target="near" weight="0.030612" />
+      <edge id="12" source="nearness" target="nearing" weight="0.08547" />
+      <edge id="13" source="nearness" target="negotiator" weight="0.010753" />
+      <edge id="14" source="nearness" target="negativism" weight="0.006711" />
+      <edge id="15" source="negligence" target="need" weight="0.006623" />
+      <edge id="16" source="negligence" target="negligible" weight="0.008772" />
+      <edge id="17" source="negligence" target="negation" weight="0.012821" />
+      <edge id="18" source="negligence" target="nearing" weight="0.007813" />
+      <edge id="19" source="nettled" target="nervous" weight="0.024" />
+      <edge id="20" source="nettled" target="nervy" weight="0.018519" />
+      <edge id="21" source="nettled" target="neurotic" weight="0.030303" />
+      <edge id="22" source="necromancer" target="negotiator" weight="0.035714" />
+      <edge id="23" source="necromancer" target="neat" weight="0.005525" />
+      <edge id="24" source="neigh" target="neap" weight="0.017857" />
+      <edge id="25" source="neigh" target="need" weight="0.009259" />
+      <edge id="26" source="neigh" target="neutral" weight="0.005556" />
+      <edge id="27" source="neigh" target="nefarious" weight="0.006667" />
+      <edge id="28" source="neigh" target="negligible" weight="0.014085" />
+      <edge id="29" source="nefarious" target="negligent" weight="0.026549" />
+      <edge id="30" source="nefarious" target="nemesis" weight="0.006667" />
+      <edge id="31" source="nefarious" target="necrology" weight="0.005682" />
+      <edge id="32" source="nefarious" target="needy" weight="0.015152" />
+      <edge id="33" source="nefarious" target="nearsighted" weight="0.027211" />
+      <edge id="34" source="nefarious" target="near" weight="0.004115" />
+      <edge id="35" source="nefarious" target="negative" weight="0.00303" />
+      <edge id="36" source="nefarious" target="neap" weight="0.014493" />
+      <edge id="37" source="nefarious" target="nexus" weight="0.006098" />
+      <edge id="38" source="nefarious" target="neutral" weight="0.003802" />
+      <edge id="39" source="nefarious" target="neat" weight="0.006969" />
+      <edge id="40" source="nefarious" target="negligible" weight="0.02649" />
+      <edge id="41" source="nefarious" target="net" weight="0.006098" />
+      <edge id="42" source="nefarious" target="nebulous" weight="0.011561" />
+      <edge id="43" source="nefarious" target="neutralizer" weight="0.007042" />
+      <edge id="44" source="newsreel" target="necrological" weight="0.038462" />
+      <edge id="45" source="newsreel" target="needing" weight="0.020833" />
+      <edge id="46" source="newsreel" target="negative" weight="0.004348" />
+      <edge id="47" source="newsreel" target="neap" weight="0.025641" />
+      <edge id="48" source="newsreel" target="negligible" weight="0.018519" />
+      <edge id="49" source="newsreel" target="nevus" weight="0.006849" />
+      <edge id="50" source="nephritis" target="necrosis" weight="0.025" />
+      <edge id="51" source="nephritis" target="neuritis" weight="0.6875" />
+      <edge id="52" source="nephritis" target="neuralgia" weight="0.033333" />
+      <edge id="53" source="nemesis" target="nettle" weight="0.027523" />
+      <edge id="54" source="nemesis" target="nervousness" weight="0.007519" />
+      <edge id="55" source="nemesis" target="net" weight="0.008163" />
+      <edge id="56" source="newfashioned" target="newness" weight="0.038462" />
+      <edge id="57" source="newfashioned" target="neologism" weight="0.030303" />
+      <edge id="58" source="newfashioned" target="nestling" weight="0.009524" />
+      <edge id="59" source="newfashioned" target="neat" weight="0.005263" />
+      <edge id="60" source="newfashioned" target="nervy" weight="0.009174" />
+      <edge id="61" source="nervous" target="nervousness" weight="0.014563" />
+      <edge id="62" source="nervous" target="necessary" weight="0.011976" />
+      <edge id="63" source="nervous" target="neat" weight="0.007168" />
+      <edge id="64" source="nervous" target="nervy" weight="0.212121" />
+      <edge id="65" source="nervous" target="neutralizer" weight="0.007463" />
+      <edge id="66" source="necromancy" target="necrophilia" weight="0.028571" />
+      <edge id="67" source="neoplasm" target="necrosis" weight="0.027778" />
+      <edge id="68" source="nervousness" target="nest" weight="0.005435" />
+      <edge id="69" source="nervousness" target="nerve" weight="0.005618" />
+      <edge id="70" source="nervousness" target="nectar" weight="0.008264" />
+      <edge id="71" source="nervousness" target="nexus" weight="0.006803" />
+      <edge id="72" source="nervousness" target="necrosis" weight="0.006329" />
+      <edge id="73" source="nervousness" target="needle" weight="0.011765" />
+      <edge id="74" source="nervousness" target="negative" weight="0.003195" />
+      <edge id="75" source="nervousness" target="nervy" weight="0.005263" />
+      <edge id="76" source="nervousness" target="nettle" weight="0.017143" />
+      <edge id="77" source="nervousness" target="netting" weight="0.007143" />
+      <edge id="78" source="nervousness" target="need" weight="0.005747" />
+      <edge id="79" source="nervousness" target="nerves" weight="0.048544" />
+      <edge id="80" source="nervousness" target="nevus" weight="0.004367" />
+      <edge id="81" source="nervousness" target="net" weight="0.003205" />
+      <edge id="82" source="neophyte" target="neologism" weight="0.016393" />
+      <edge id="83" source="neophyte" target="needing" weight="0.012821" />
+      <edge id="84" source="neophyte" target="nestling" weight="0.196429" />
+      <edge id="85" source="neophyte" target="newborn" weight="0.035088" />
+      <edge id="86" source="neophyte" target="nebbish" weight="0.012048" />
+      <edge id="87" source="neophyte" target="newcomer" weight="0.444444" />
+      <edge id="88" source="neophyte" target="newsmonger" weight="0.012821" />
+      <edge id="89" source="neophyte" target="new" weight="0.014388" />
+      <edge id="90" source="negligent" target="neglectful" weight="0.162393" />
+      <edge id="91" source="negligent" target="needled" weight="0.007752" />
+      <edge id="92" source="negligent" target="neuter" weight="0.030675" />
+      <edge id="93" source="negligent" target="nevertheless" weight="0.007634" />
+      <edge id="94" source="negligent" target="newsy" weight="0.006452" />
+      <edge id="95" source="negligent" target="nearing" weight="0.006024" />
+      <edge id="96" source="negligent" target="nerveless" weight="0.04321" />
+      <edge id="97" source="negligent" target="negative" weight="0.003049" />
+      <edge id="98" source="negligent" target="near" weight="0.004149" />
+      <edge id="99" source="negligent" target="neat" weight="0.003497" />
+      <edge id="100" source="negligent" target="neutral" weight="0.031496" />
+      <edge id="101" source="nearly" target="near" weight="0.044776" />
+      <edge id="102" source="nearly" target="neat" weight="0.005435" />
+      <edge id="103" source="nearly" target="nearing" weight="0.048387" />
+      <edge id="104" source="nearly" target="nearby" weight="0.2" />
+      <edge id="105" source="newly" target="nevertheless" weight="0.045455" />
+      <edge id="106" source="newly" target="nestling" weight="0.01087" />
+      <edge id="107" source="neurological" target="nervy" weight="0.010101" />
+      <edge id="108" source="necessary" target="negotiate" weight="0.016" />
+      <edge id="109" source="necessary" target="nearing" weight="0.009009" />
+      <edge id="110" source="necessary" target="necessaries" weight="0.073529" />
+      <edge id="111" source="necessary" target="negative" weight="0.007353" />
+      <edge id="112" source="necessary" target="neat" weight="0.008696" />
+      <edge id="113" source="necessary" target="necessity" weight="0.04902" />
+      <edge id="114" source="necessary" target="need" weight="0.038462" />
+      <edge id="115" source="necessary" target="net" weight="0.003676" />
+      <edge id="116" source="nectar" target="net" weight="0.004274" />
+      <edge id="117" source="newsmonger" target="nestor" weight="0.044444" />
+      <edge id="118" source="newsmonger" target="newsman" weight="0.05" />
+      <edge id="119" source="newsmonger" target="neck" weight="0.006369" />
+      <edge id="120" source="newsmonger" target="newscast" weight="0.02381" />
+      <edge id="121" source="newsmonger" target="negotiator" weight="0.040816" />
+      <edge id="122" source="newsmonger" target="newspaperman" weight="0.15873" />
+      <edge id="123" source="newsmonger" target="newspaper" weight="0.037736" />
+      <edge id="124" source="newsmonger" target="newsletter" weight="0.047619" />
+      <edge id="125" source="neighborhood" target="nexus" weight="0.009524" />
+      <edge id="126" source="neighborhood" target="net" weight="0.007435" />
+      <edge id="127" source="neighborhood" target="nearing" weight="0.009174" />
+      <edge id="128" source="nearing" target="neighboring" weight="0.013158" />
+      <edge id="129" source="nearing" target="next" weight="0.037037" />
+      <edge id="130" source="nearing" target="neighborly" weight="0.011628" />
+      <edge id="131" source="nearing" target="near" weight="0.177632" />
+      <edge id="132" source="nearing" target="neat" weight="0.004484" />
+      <edge id="133" source="nearing" target="neighbor" weight="0.021505" />
+      <edge id="134" source="nearing" target="new" weight="0.013889" />
+      <edge id="135" source="nearing" target="nearby" weight="0.061538" />
+      <edge id="136" source="necessaries" target="need" weight="0.157895" />
+      <edge id="137" source="nectarous" target="neat" weight="0.020408" />
+      <edge id="138" source="negotiator" target="neck" weight="0.006944" />
+      <edge id="139" source="negotiator" target="nexus" weight="0.015152" />
+      <edge id="140" source="negotiator" target="negotiate" weight="0.011765" />
+      <edge id="141" source="negotiator" target="neutral" weight="0.006061" />
+      <edge id="142" source="negotiator" target="neutralizer" weight="0.022727" />
+      <edge id="143" source="nephew" target="nebbish" weight="0.019608" />
+      <edge id="144" source="nephew" target="neighbor" weight="0.017544" />
+      <edge id="145" source="newsletter" target="newspaper" weight="0.346154" />
+      <edge id="146" source="newsletter" target="news" weight="0.222222" />
+      <edge id="147" source="newsletter" target="newscast" weight="0.045455" />
+      <edge id="148" source="network" target="nettle" weight="0.008621" />
+      <edge id="149" source="network" target="net" weight="0.166667" />
+      <edge id="150" source="neb" target="nettle" weight="0.02" />
+      <edge id="151" source="neb" target="nevus" weight="0.013158" />
+      <edge id="152" source="neb" target="needle" weight="0.052023" />
+      <edge id="153" source="neurosis" target="negativism" weight="0.011236" />
+      <edge id="154" source="new" target="neologism" weight="0.018692" />
+      <edge id="155" source="new" target="nevertheless" weight="0.009091" />
+      <edge id="156" source="new" target="neighboring" weight="0.008475" />
+      <edge id="157" source="new" target="newborn" weight="0.009524" />
+      <edge id="158" source="new" target="nestling" weight="0.160256" />
+      <edge id="159" source="new" target="neat" weight="0.007576" />
+      <edge id="160" source="new" target="neighbor" weight="0.007353" />
+      <edge id="161" source="new" target="newspaper" weight="0.008621" />
+      <edge id="162" source="new" target="news" weight="0.008772" />
+      <edge id="163" source="new" target="net" weight="0.009868" />
+      <edge id="164" source="new" target="nervy" weight="0.010929" />
+      <edge id="165" source="new" target="nearby" weight="0.009091" />
+      <edge id="166" source="net" target="nerve" weight="0.006897" />
+      <edge id="167" source="net" target="needless" weight="0.008772" />
+      <edge id="168" source="net" target="nepotism" weight="0.004444" />
+      <edge id="169" source="net" target="neuron" weight="0.004608" />
+      <edge id="170" source="net" target="near" weight="0.008902" />
+      <edge id="171" source="net" target="negative" weight="0.004706" />
+      <edge id="172" source="net" target="need" weight="0.006993" />
+      <edge id="173" source="net" target="negation" weight="0.006849" />
+      <edge id="174" source="net" target="nestling" weight="0.003344" />
+      <edge id="175" source="net" target="negativism" weight="0.006993" />
+      <edge id="176" source="net" target="nest" weight="0.003367" />
+      <edge id="177" source="net" target="needle" weight="0.013661" />
+      <edge id="178" source="net" target="negotiate" weight="0.01083" />
+      <edge id="179" source="net" target="neutral" weight="0.002786" />
+      <edge id="180" source="net" target="neck" weight="0.002959" />
+      <edge id="181" source="net" target="nettle" weight="0.010417" />
+      <edge id="182" source="net" target="nestle" weight="0.008065" />
+      <edge id="183" source="net" target="nebbish" weight="0.004016" />
+      <edge id="184" source="net" target="neat" weight="0.005222" />
+      <edge id="185" source="net" target="netting" weight="0.165138" />
+      <edge id="186" source="net" target="nevus" weight="0.008824" />
+      <edge id="187" source="nestor" target="needle" weight="0.005814" />
+      <edge id="188" source="nestor" target="neat" weight="0.005376" />
+      <edge id="189" source="nestor" target="negotiate" weight="0.012346" />
+      <edge id="190" source="nestor" target="neighbor" weight="0.017544" />
+      <edge id="191" source="never" target="nevertheless" weight="0.052632" />
+      <edge id="192" source="newcomer" target="newborn" weight="0.037037" />
+      <edge id="193" source="newcomer" target="neologism" weight="0.092593" />
+      <edge id="194" source="newcomer" target="nebbish" weight="0.0125" />
+      <edge id="195" source="newcomer" target="nestling" weight="0.201835" />
+      <edge id="196" source="news" target="needle" weight="0.005618" />
+      <edge id="197" source="news" target="negative" weight="0.004274" />
+      <edge id="198" source="news" target="necrology" weight="0.0125" />
+      <edge id="199" source="news" target="newspaper" weight="0.466667" />
+      <edge id="200" source="newness" target="neologism" weight="0.045455" />
+      <edge id="201" source="needing" target="newborn" weight="0.023256" />
+      <edge id="202" source="needing" target="neap" weight="0.018519" />
+      <edge id="203" source="needing" target="nestling" weight="0.034783" />
+      <edge id="204" source="needing" target="negligible" weight="0.014493" />
+      <edge id="205" source="needlework" target="neck" weight="0.007937" />
+      <edge id="206" source="necrological" target="necrology" weight="0.014493" />
+      <edge id="207" source="necrological" target="negative" weight="0.004484" />
+      <edge id="208" source="neighbor" target="neck" weight="0.018072" />
+      <edge id="209" source="neighbor" target="nexus" weight="0.011111" />
+      <edge id="210" source="neighbor" target="neighboring" weight="0.236364" />
+      <edge id="211" source="neighbor" target="needle" weight="0.005" />
+      <edge id="212" source="neighbor" target="next" weight="0.209677" />
+      <edge id="213" source="neighbor" target="near" weight="0.024096" />
+      <edge id="214" source="neighbor" target="nearby" weight="0.034483" />
+      <edge id="215" source="nearsighted" target="negligible" weight="0.043478" />
+      <edge id="216" source="nearsighted" target="near" weight="0.03871" />
+      <edge id="217" source="nearsighted" target="neat" weight="0.004878" />
+      <edge id="218" source="nearsighted" target="nebulous" weight="0.010989" />
+      <edge id="219" source="nevus" target="nexus" weight="0.00565" />
+      <edge id="220" source="nevus" target="necrosis" weight="0.010695" />
+      <edge id="221" source="nevus" target="nettle" weight="0.004831" />
+      <edge id="222" source="nevus" target="neat" weight="0.006667" />
+      <edge id="223" source="nevus" target="need" weight="0.004902" />
+      <edge id="224" source="nevus" target="negativism" weight="0.004902" />
+      <edge id="225" source="neglect" target="need" weight="0.00885" />
+      <edge id="226" source="neglect" target="negligible" weight="0.013158" />
+      <edge id="227" source="neglect" target="negation" weight="0.008403" />
+      <edge id="228" source="nearby" target="nexus" weight="0.015625" />
+      <edge id="229" source="nearby" target="neighboring" weight="0.05" />
+      <edge id="230" source="nearby" target="next" weight="0.042553" />
+      <edge id="231" source="nearby" target="near" weight="0.074627" />
+      <edge id="232" source="nearby" target="neat" weight="0.010695" />
+      <edge id="233" source="nearby" target="nervy" weight="0.009346" />
+      <edge id="234" source="negotiation" target="negotiate" weight="0.013889" />
+      <edge id="235" source="nerve" target="neat" weight="0.004" />
+      <edge id="236" source="nerve" target="neutral" weight="0.004444" />
+      <edge id="237" source="nerveless" target="nebbish" weight="0.011111" />
+      <edge id="238" source="nerveless" target="newsy" weight="0.010638" />
+      <edge id="239" source="nerveless" target="neat" weight="0.004444" />
+      <edge id="240" source="nerveless" target="neutral" weight="0.046875" />
+      <edge id="241" source="newborn" target="nestling" weight="0.020619" />
+      <edge id="242" source="newborn" target="negative" weight="0.008929" />
+      <edge id="243" source="newborn" target="nebbish" weight="0.020833" />
+      <edge id="244" source="neutrality" target="necrosis" weight="0.016129" />
+      <edge id="245" source="neutrality" target="negativism" weight="0.021583" />
+      <edge id="246" source="neutrality" target="neat" weight="0.004202" />
+      <edge id="247" source="neutrality" target="negation" weight="0.006803" />
+      <edge id="248" source="neutrality" target="neutral" weight="0.004695" />
+      <edge id="249" source="negate" target="need" weight="0.007042" />
+      <edge id="250" source="negate" target="negation" weight="0.049296" />
+      <edge id="251" source="negate" target="neutralizer" weight="0.021739" />
+      <edge id="252" source="negate" target="negativism" weight="0.021429" />
+      <edge id="253" source="nervy" target="neighborly" weight="0.008" />
+      <edge id="254" source="nervy" target="newsy" weight="0.007634" />
+      <edge id="255" source="nervy" target="needless" weight="0.009346" />
+      <edge id="256" source="nervy" target="nestling" weight="0.00565" />
+      <edge id="257" source="nervy" target="neurotic" weight="0.009524" />
+      <edge id="258" source="nervy" target="near" weight="0.004608" />
+      <edge id="259" source="nervy" target="neat" weight="0.007663" />
+      <edge id="260" source="nervy" target="negative" weight="0.003289" />
+      <edge id="261" source="needless" target="negligible" weight="0.057692" />
+      <edge id="262" source="needless" target="newsy" weight="0.035714" />
+      <edge id="263" source="needless" target="neat" weight="0.005319" />
+      <edge id="264" source="negative" target="nevertheless" weight="0.004348" />
+      <edge id="265" source="negative" target="negation" weight="0.088561" />
+      <edge id="266" source="negative" target="neutral" weight="0.005571" />
+      <edge id="267" source="negative" target="need" weight="0.003472" />
+      <edge id="268" source="negative" target="neutralizer" weight="0.012658" />
+      <edge id="269" source="negative" target="negativism" weight="0.017606" />
+      <edge id="270" source="next" target="neighboring" weight="0.295455" />
+      <edge id="271" source="newscast" target="newspaper" weight="0.030303" />
+      <edge id="272" source="negativism" target="neatness" weight="0.009524" />
+      <edge id="273" source="negativism" target="necessity" weight="0.008264" />
+      <edge id="274" source="negativism" target="neutralize" weight="0.010309" />
+      <edge id="275" source="negativism" target="need" weight="0.006711" />
+      <edge id="276" source="negativism" target="nest" weight="0.012658" />
+      <edge id="277" source="negativism" target="negation" weight="0.075862" />
+      <edge id="278" source="negativism" target="near" weight="0.004975" />
+      <edge id="279" source="negativism" target="netting" weight="0.008696" />
+      <edge id="280" source="negativism" target="neck" weight="0.015152" />
+      <edge id="281" source="newsman" target="newspaperman" weight="0.214286" />
+      <edge id="282" source="needle" target="needled" weight="0.005814" />
+      <edge id="283" source="needle" target="nettle" weight="0.311111" />
+      <edge id="284" source="needle" target="need" weight="0.00431" />
+      <edge id="285" source="needle" target="nestling" weight="0.004098" />
+      <edge id="286" source="needle" target="newspaper" weight="0.005556" />
+      <edge id="287" source="neutral" target="negotiate" weight="0.009434" />
+      <edge id="288" source="neutral" target="neglectful" weight="0.005988" />
+      <edge id="289" source="neutral" target="nevertheless" weight="0.006135" />
+      <edge id="290" source="neutral" target="newsy" weight="0.005348" />
+      <edge id="291" source="neutral" target="neighborly" weight="0.005525" />
+      <edge id="292" source="neutral" target="near" weight="0.003663" />
+      <edge id="293" source="neutral" target="neap" weight="0.011905" />
+      <edge id="294" source="neutral" target="neat" weight="0.009494" />
+      <edge id="295" source="neutral" target="neuter" weight="0.273885" />
+      <edge id="296" source="neutral" target="negligible" weight="0.005435" />
+      <edge id="297" source="neutral" target="nebulous" weight="0.084656" />
+      <edge id="298" source="neologism" target="negotiate" weight="0.012346" />
+      <edge id="299" source="neologism" target="nestling" weight="0.009901" />
+      <edge id="300" source="neap" target="nest" weight="0.009346" />
+      <edge id="301" source="neap" target="neatness" weight="0.018868" />
+      <edge id="302" source="neap" target="negligible" weight="0.033898" />
+      <edge id="303" source="neap" target="necrosis" weight="0.012346" />
+      <edge id="304" source="nestle" target="neat" weight="0.004808" />
+      <edge id="305" source="nestle" target="neaten" weight="0.025" />
+      <edge id="306" source="near" target="needy" weight="0.006993" />
+      <edge id="307" source="near" target="nexus" weight="0.005747" />
+      <edge id="308" source="near" target="neat" weight="0.013559" />
+      <edge id="309" source="near" target="neighboring" weight="0.013333" />
+      <edge id="310" source="near" target="need" weight="0.004975" />
+      <edge id="311" source="near" target="negligible" weight="0.01227" />
+      <edge id="312" source="near" target="neutralizer" weight="0.006579" />
+      <edge id="313" source="neat" target="nexus" weight="0.004566" />
+      <edge id="314" source="neat" target="need" weight="0.004065" />
+      <edge id="315" source="neat" target="neatness" weight="0.00495" />
+      <edge id="316" source="neat" target="neighborly" weight="0.004854" />
+      <edge id="317" source="neat" target="newsy" weight="0.014286" />
+      <edge id="318" source="neat" target="neaten" weight="0.011494" />
+      <edge id="319" source="neat" target="negotiate" weight="0.004202" />
+      <edge id="320" source="neat" target="neuter" weight="0.004464" />
+      <edge id="321" source="neat" target="nebulous" weight="0.004367" />
+      <edge id="322" source="neat" target="negligible" weight="0.004785" />
+      <edge id="323" source="netting" target="necrosis" weight="0.010101" />
+      <edge id="324" source="netting" target="nettle" weight="0.008475" />
+      <edge id="325" source="netting" target="need" weight="0.008696" />
+      <edge id="326" source="neuritis" target="necrosis" weight="0.022727" />
+      <edge id="327" source="neutralize" target="negation" weight="0.019608" />
+      <edge id="328" source="neutralize" target="neutralizer" weight="0.042553" />
+      <edge id="329" source="nexus" target="neck" weight="0.017544" />
+      <edge id="330" source="nexus" target="necklace" weight="0.011765" />
+      <edge id="331" source="nepotism" target="neatness" weight="0.023256" />
+      <edge id="332" source="nepotism" target="negation" weight="0.010753" />
+      <edge id="333" source="need" target="necessity" weight="0.244898" />
+      <edge id="334" source="need" target="negation" weight="0.012987" />
+      <edge id="335" source="need" target="nettle" weight="0.006579" />
+      <edge id="336" source="needled" target="nettle" weight="0.01087" />
+      <edge id="337" source="newsy" target="neighborly" weight="0.027027" />
+      <edge id="338" source="negation" target="neck" weight="0.004854" />
+      <edge id="339" source="negation" target="nebbish" weight="0.017241" />
+      <edge id="340" source="negation" target="necessity" weight="0.007874" />
+      <edge id="341" source="nestling" target="nest" weight="0.005848" />
+      <edge id="342" source="nestling" target="nebbish" weight="0.00813" />
+      <edge id="343" source="nest" target="nettle" weight="0.006173" />
+      <edge id="344" source="necessity" target="nettle" weight="0.008065" />
+      <edge id="345" source="neglectful" target="nevertheless" weight="0.027027" />
+      <edge id="346" source="neck" target="nettle" weight="0.004926" />
+      <edge id="347" source="neck" target="nebbish" weight="0.006173" />
+      <edge id="348" source="neuter" target="nevertheless" weight="0.014493" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="drunken" label="drunken" />
+      <node id="dreamworld" label="dreamworld" />
+      <node id="drub" label="drub" />
+      <node id="drunk" label="drunk" />
+      <node id="dryasdust" label="dryasdust" />
+      <node id="drab" label="drab" />
+      <node id="drool" label="drool" />
+      <node id="drifter" label="drifter" />
+      <node id="drivel" label="drivel" />
+      <node id="draining" label="draining" />
+      <node id="drenching" label="drenching" />
+      <node id="driveway" label="driveway" />
+      <node id="drowned" label="drowned" />
+      <node id="dreaming" label="dreaming" />
+      <node id="drive" label="drive" />
+      <node id="drafting" label="drafting" />
+      <node id="dress" label="dress" />
+      <node id="drizzle" label="drizzle" />
+      <node id="droopy" label="droopy" />
+      <node id="dreadful" label="dreadful" />
+      <node id="drove" label="drove" />
+      <node id="drumbeat" label="drumbeat" />
+      <node id="droop" label="droop" />
+      <node id="driving" label="driving" />
+      <node id="drenched" label="drenched" />
+      <node id="drying" label="drying" />
+      <node id="drown" label="drown" />
+      <node id="dribble" label="dribble" />
+      <node id="drooping" label="drooping" />
+      <node id="draught" label="draught" />
+      <node id="dross" label="dross" />
+      <node id="draft" label="draft" />
+      <node id="dreadfully" label="dreadfully" />
+      <node id="dressing" label="dressing" />
+      <node id="drunkard" label="drunkard" />
+      <node id="drapery" label="drapery" />
+      <node id="droning" label="droning" />
+      <node id="drowse" label="drowse" />
+      <node id="drayage" label="drayage" />
+      <node id="dryness" label="dryness" />
+      <node id="drink" label="drink" />
+      <node id="drift" label="drift" />
+      <node id="dreary" label="dreary" />
+      <node id="drag" label="drag" />
+      <node id="drain" label="drain" />
+      <node id="dreamy" label="dreamy" />
+      <node id="drumstick" label="drumstick" />
+      <node id="dram" label="dram" />
+      <node id="drought" label="drought" />
+      <node id="drench" label="drench" />
+      <node id="drowsy" label="drowsy" />
+      <node id="driblet" label="driblet" />
+      <node id="dry" label="dry" />
+      <node id="droplet" label="droplet" />
+      <node id="drumming" label="drumming" />
+      <node id="drum" label="drum" />
+      <node id="drained" label="drained" />
+      <node id="dredge" label="dredge" />
+      <node id="drugged" label="drugged" />
+      <node id="drop" label="drop" />
+      <node id="drip" label="drip" />
+      <node id="draw" label="draw" />
+      <node id="drape" label="drape" />
+      <node id="drama" label="drama" />
+      <node id="draggle" label="draggle" />
+      <node id="drone" label="drone" />
+      <node id="dread" label="dread" />
+      <node id="drill" label="drill" />
+      <node id="drainage" label="drainage" />
+      <node id="dregs" label="dregs" />
+      <node id="dreamland" label="dreamland" />
+      <node id="dream" label="dream" />
+      <node id="drawing" label="drawing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="drunken" target="drenched" />
+      <edge id="1" source="drunken" target="drunk" />
+      <edge id="2" source="dreamworld" target="dreamland" />
+      <edge id="3" source="dreamworld" target="dream" />
+      <edge id="4" source="drub" target="drumming" />
+      <edge id="5" source="drunk" target="drunkard" />
+      <edge id="6" source="drunk" target="drenched" />
+      <edge id="7" source="dryasdust" target="dry" />
+      <edge id="8" source="dryasdust" target="drag" />
+      <edge id="9" source="dryasdust" target="dreary" />
+      <edge id="10" source="dryasdust" target="drip" />
+      <edge id="11" source="drab" target="dreary" />
+      <edge id="12" source="drool" target="drivel" />
+      <edge id="13" source="drool" target="dribble" />
+      <edge id="14" source="drifter" target="drunkard" />
+      <edge id="15" source="drivel" target="dribble" />
+      <edge id="16" source="draining" target="drooping" />
+      <edge id="17" source="draining" target="drafting" />
+      <edge id="18" source="draining" target="drawing" />
+      <edge id="19" source="draining" target="drainage" />
+      <edge id="20" source="drenching" target="drench" />
+      <edge id="21" source="driveway" target="drive" />
+      <edge id="22" source="drowned" target="drenched" />
+      <edge id="23" source="dreaming" target="dream" />
+      <edge id="24" source="dreaming" target="dreamy" />
+      <edge id="25" source="drive" target="drove" />
+      <edge id="26" source="drive" target="drift" />
+      <edge id="27" source="drive" target="drill" />
+      <edge id="28" source="drive" target="dredge" />
+      <edge id="29" source="drafting" target="draft" />
+      <edge id="30" source="drafting" target="drawing" />
+      <edge id="31" source="drafting" target="drainage" />
+      <edge id="32" source="dress" target="drag" />
+      <edge id="33" source="dress" target="drape" />
+      <edge id="34" source="dress" target="drapery" />
+      <edge id="35" source="dress" target="dressing" />
+      <edge id="36" source="drizzle" target="drum" />
+      <edge id="37" source="droopy" target="drooping" />
+      <edge id="38" source="droopy" target="drugged" />
+      <edge id="39" source="dreadful" target="dread" />
+      <edge id="40" source="dreadful" target="dreadfully" />
+      <edge id="41" source="drove" target="drift" />
+      <edge id="42" source="drumbeat" target="drumming" />
+      <edge id="43" source="drumbeat" target="drum" />
+      <edge id="44" source="droop" target="drag" />
+      <edge id="45" source="droop" target="drop" />
+      <edge id="46" source="droop" target="draggle" />
+      <edge id="47" source="droop" target="drape" />
+      <edge id="48" source="driving" target="drumming" />
+      <edge id="49" source="drying" target="drainage" />
+      <edge id="50" source="drown" target="drench" />
+      <edge id="51" source="dribble" target="driblet" />
+      <edge id="52" source="dribble" target="drop" />
+      <edge id="53" source="dribble" target="drip" />
+      <edge id="54" source="dribble" target="dram" />
+      <edge id="55" source="draught" target="drink" />
+      <edge id="56" source="dross" target="dregs" />
+      <edge id="57" source="draft" target="drench" />
+      <edge id="58" source="draft" target="draw" />
+      <edge id="59" source="draft" target="drop" />
+      <edge id="60" source="draft" target="drayage" />
+      <edge id="61" source="draft" target="drink" />
+      <edge id="62" source="draft" target="drag" />
+      <edge id="63" source="draft" target="drain" />
+      <edge id="64" source="draft" target="dram" />
+      <edge id="65" source="draft" target="drawing" />
+      <edge id="66" source="dressing" target="drapery" />
+      <edge id="67" source="drapery" target="drape" />
+      <edge id="68" source="droning" target="drone" />
+      <edge id="69" source="drowse" target="dreamland" />
+      <edge id="70" source="drayage" target="drawing" />
+      <edge id="71" source="dryness" target="drought" />
+      <edge id="72" source="drink" target="drench" />
+      <edge id="73" source="drink" target="dram" />
+      <edge id="74" source="drink" target="drop" />
+      <edge id="75" source="dreary" target="dry" />
+      <edge id="76" source="drag" target="drench" />
+      <edge id="77" source="drag" target="draw" />
+      <edge id="78" source="drag" target="drape" />
+      <edge id="79" source="drag" target="draggle" />
+      <edge id="80" source="drag" target="drip" />
+      <edge id="81" source="drag" target="drain" />
+      <edge id="82" source="drain" target="drench" />
+      <edge id="83" source="drain" target="dry" />
+      <edge id="84" source="drain" target="draw" />
+      <edge id="85" source="drain" target="drainage" />
+      <edge id="86" source="dreamy" target="drugged" />
+      <edge id="87" source="dreamy" target="drowsy" />
+      <edge id="88" source="drumstick" target="drum" />
+      <edge id="89" source="dram" target="drench" />
+      <edge id="90" source="dram" target="driblet" />
+      <edge id="91" source="dram" target="drop" />
+      <edge id="92" source="drench" target="drop" />
+      <edge id="93" source="drowsy" target="drugged" />
+      <edge id="94" source="driblet" target="droplet" />
+      <edge id="95" source="dry" target="drained" />
+      <edge id="96" source="droplet" target="drop" />
+      <edge id="97" source="drumming" target="drum" />
+      <edge id="98" source="dredge" target="draw" />
+      <edge id="99" source="dredge" target="drill" />
+      <edge id="100" source="drop" target="drop" />
+      <edge id="101" source="drop" target="drip" />
+      <edge id="102" source="draw" target="draggle" />
+      <edge id="103" source="drape" target="draggle" />
+      <edge id="104" source="drama" target="drawing" />
+      <edge id="105" source="drainage" target="drawing" />
+      <edge id="106" source="dreamland" target="dream" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="casebook" label="casebook" />
+      <node id="cameo" label="cameo" />
+      <node id="canary" label="canary" />
+      <node id="catch" label="catch" />
+      <node id="caries" label="caries" />
+      <node id="carbonation" label="carbonation" />
+      <node id="captain" label="captain" />
+      <node id="capitulate" label="capitulate" />
+      <node id="caper" label="caper" />
+      <node id="canniness" label="canniness" />
+      <node id="carousal" label="carousal" />
+      <node id="catabolism" label="catabolism" />
+      <node id="catastrophe" label="catastrophe" />
+      <node id="caddie" label="caddie" />
+      <node id="caravan" label="caravan" />
+      <node id="carmine" label="carmine" />
+      <node id="capriole" label="capriole" />
+      <node id="canter" label="canter" />
+      <node id="casting" label="casting" />
+      <node id="captivating" label="captivating" />
+      <node id="cannon" label="cannon" />
+      <node id="carefree" label="carefree" />
+      <node id="cadaver" label="cadaver" />
+      <node id="cataclysmic" label="cataclysmic" />
+      <node id="cataclysm" label="cataclysm" />
+      <node id="capitulation" label="capitulation" />
+      <node id="catalysis" label="catalysis" />
+      <node id="cadenza" label="cadenza" />
+      <node id="calypso" label="calypso" />
+      <node id="cashbook" label="cashbook" />
+      <node id="carpetbagger" label="carpetbagger" />
+      <node id="candy" label="candy" />
+      <node id="calling" label="calling" />
+      <node id="capability" label="capability" />
+      <node id="carrion" label="carrion" />
+      <node id="capricious" label="capricious" />
+      <node id="cachet" label="cachet" />
+      <node id="caviling" label="caviling" />
+      <node id="captious" label="captious" />
+      <node id="carnivore" label="carnivore" />
+      <node id="carter" label="carter" />
+      <node id="catastrophic" label="catastrophic" />
+      <node id="canine" label="canine" />
+      <node id="caesura" label="caesura" />
+      <node id="captive" label="captive" />
+      <node id="catching" label="catching" />
+      <node id="calibrate" label="calibrate" />
+      <node id="caustic" label="caustic" />
+      <node id="canvass" label="canvass" />
+      <node id="callousness" label="callousness" />
+      <node id="calendar" label="calendar" />
+      <node id="cartel" label="cartel" />
+      <node id="casual" label="casual" />
+      <node id="category" label="category" />
+      <node id="canvas" label="canvas" />
+      <node id="cabaret" label="cabaret" />
+      <node id="capacity" label="capacity" />
+      <node id="capitalization" label="capitalization" />
+      <node id="cavity" label="cavity" />
+      <node id="carriage" label="carriage" />
+      <node id="capital" label="capital" />
+      <node id="careless" label="careless" />
+      <node id="cause" label="cause" />
+      <node id="caucus" label="caucus" />
+      <node id="calx" label="calx" />
+      <node id="castoff" label="castoff" />
+      <node id="carcass" label="carcass" />
+      <node id="camper" label="camper" />
+      <node id="carp" label="carp" />
+      <node id="carefulness" label="carefulness" />
+      <node id="casket" label="casket" />
+      <node id="cart" label="cart" />
+      <node id="carbon" label="carbon" />
+      <node id="carol" label="carol" />
+      <node id="carom" label="carom" />
+      <node id="card" label="card" />
+      <node id="cavort" label="cavort" />
+      <node id="cautious" label="cautious" />
+      <node id="career" label="career" />
+      <node id="carelessness" label="carelessness" />
+      <node id="cancel" label="cancel" />
+      <node id="casino" label="casino" />
+      <node id="caprice" label="caprice" />
+      <node id="cadre" label="cadre" />
+      <node id="carrier" label="carrier" />
+      <node id="careen" label="careen" />
+      <node id="carcinoma" label="carcinoma" />
+      <node id="cancellation" label="cancellation" />
+      <node id="cataract" label="cataract" />
+      <node id="cabal" label="cabal" />
+      <node id="campaign" label="campaign" />
+      <node id="caretaker" label="caretaker" />
+      <node id="canyon" label="canyon" />
+      <node id="carry" label="carry" />
+      <node id="categorize" label="categorize" />
+      <node id="cafeteria" label="cafeteria" />
+      <node id="carnivorous" label="carnivorous" />
+      <node id="canal" label="canal" />
+      <node id="cancer" label="cancer" />
+      <node id="caricature" label="caricature" />
+      <node id="catchy" label="catchy" />
+      <node id="cantina" label="cantina" />
+      <node id="cannibal" label="cannibal" />
+      <node id="cantata" label="cantata" />
+      <node id="call" label="call" />
+      <node id="calm" label="calm" />
+      <node id="care" label="care" />
+      <node id="cardsharp" label="cardsharp" />
+      <node id="calf" label="calf" />
+      <node id="catapult" label="catapult" />
+      <node id="carouse" label="carouse" />
+      <node id="causeless" label="causeless" />
+      <node id="cackle" label="cackle" />
+      <node id="caboose" label="caboose" />
+      <node id="cashier" label="cashier" />
+      <node id="cabinet" label="cabinet" />
+      <node id="carve" label="carve" />
+      <node id="carrying" label="carrying" />
+      <node id="carping" label="carping" />
+      <node id="cauterant" label="cauterant" />
+      <node id="cabdriver" label="cabdriver" />
+      <node id="careful" label="careful" />
+      <node id="case" label="case" />
+      <node id="carton" label="carton" />
+      <node id="catenary" label="catenary" />
+      <node id="car" label="car" />
+      <node id="cap" label="cap" />
+      <node id="cannonade" label="cannonade" />
+      <node id="cask" label="cask" />
+      <node id="cast" label="cast" />
+      <node id="calamity" label="calamity" />
+      <node id="canticle" label="canticle" />
+      <node id="cagey" label="cagey" />
+      <node id="can" label="can" />
+      <node id="caveat" label="caveat" />
+      <node id="cavalier" label="cavalier" />
+      <node id="cake" label="cake" />
+      <node id="cane" label="cane" />
+      <node id="capsize" label="capsize" />
+      <node id="calculation" label="calculation" />
+      <node id="cattle" label="cattle" />
+      <node id="canon" label="canon" />
+      <node id="calculate" label="calculate" />
+      <node id="cant" label="cant" />
+      <node id="caution" label="caution" />
+      <node id="cavern" label="cavern" />
+      <node id="canteen" label="canteen" />
+      <node id="cafe" label="cafe" />
+      <node id="callus" label="callus" />
+      <node id="casualty" label="casualty" />
+      <node id="capture" label="capture" />
+      <node id="calamitous" label="calamitous" />
+      <node id="cave" label="cave" />
+      <node id="camouflage" label="camouflage" />
+      <node id="campus" label="campus" />
+      <node id="cantor" label="cantor" />
+      <node id="cardinal" label="cardinal" />
+      <node id="castellan" label="castellan" />
+      <node id="cadence" label="cadence" />
+      <node id="cavil" label="cavil" />
+      <node id="caliber" label="caliber" />
+      <node id="calculating" label="calculating" />
+      <node id="carbuncle" label="carbuncle" />
+      <node id="cauterize" label="cauterize" />
+      <node id="canker" label="canker" />
+      <node id="catalog" label="catalog" />
+      <node id="caracole" label="caracole" />
+      <node id="canny" label="canny" />
+      <node id="capitalize" label="capitalize" />
+      <node id="cartoon" label="cartoon" />
+      <node id="cavalcade" label="cavalcade" />
+      <node id="castaway" label="castaway" />
+      <node id="casement" label="casement" />
+      <node id="camp" label="camp" />
+      <node id="capsule" label="capsule" />
+      <node id="cantabile" label="cantabile" />
+      <node id="cascade" label="cascade" />
+      <node id="caterwaul" label="caterwaul" />
+      <node id="calmness" label="calmness" />
+      <node id="caballero" label="caballero" />
+      <node id="caw" label="caw" />
+      <node id="caste" label="caste" />
+      <node id="catalyst" label="catalyst" />
+    </nodes>
+    <edges>
+      <edge id="0" source="casebook" target="calendar" />
+      <edge id="1" source="casebook" target="catalog" />
+      <edge id="2" source="cameo" target="catalog" />
+      <edge id="3" source="canary" target="cantor" />
+      <edge id="4" source="catch" target="captive" />
+      <edge id="5" source="catch" target="canon" />
+      <edge id="6" source="catch" target="capture" />
+      <edge id="7" source="caries" target="carrion" />
+      <edge id="8" source="carbonation" target="catalysis" />
+      <edge id="9" source="captain" target="castellan" />
+      <edge id="10" source="capitulate" target="cave" />
+      <edge id="11" source="caper" target="carol" />
+      <edge id="12" source="caper" target="capriole" />
+      <edge id="13" source="caper" target="caracole" />
+      <edge id="14" source="caper" target="cavort" />
+      <edge id="15" source="canniness" target="calculation" />
+      <edge id="16" source="canniness" target="caution" />
+      <edge id="17" source="canniness" target="carefulness" />
+      <edge id="18" source="canniness" target="care" />
+      <edge id="19" source="carousal" target="carouse" />
+      <edge id="20" source="catabolism" target="catalysis" />
+      <edge id="21" source="catastrophe" target="calamity" />
+      <edge id="22" source="catastrophe" target="cave" />
+      <edge id="23" source="catastrophe" target="cataclysm" />
+      <edge id="24" source="catastrophe" target="casualty" />
+      <edge id="25" source="caddie" target="carrier" />
+      <edge id="26" source="caddie" target="carter" />
+      <edge id="27" source="caravan" target="camper" />
+      <edge id="28" source="caravan" target="cavalcade" />
+      <edge id="29" source="carmine" target="cardinal" />
+      <edge id="30" source="capriole" target="caracole" />
+      <edge id="31" source="capriole" target="cavort" />
+      <edge id="32" source="canter" target="caracole" />
+      <edge id="33" source="casting" target="calculation" />
+      <edge id="34" source="casting" target="cast" />
+      <edge id="35" source="captivating" target="catching" />
+      <edge id="36" source="cannon" target="carom" />
+      <edge id="37" source="cannon" target="cannonade" />
+      <edge id="38" source="carefree" target="careless" />
+      <edge id="39" source="cadaver" target="carrion" />
+      <edge id="40" source="cadaver" target="carcass" />
+      <edge id="41" source="cataclysmic" target="catastrophic" />
+      <edge id="42" source="cataclysmic" target="calamitous" />
+      <edge id="43" source="cataclysm" target="calamity" />
+      <edge id="44" source="cataclysm" target="cave" />
+      <edge id="45" source="cataclysm" target="casualty" />
+      <edge id="46" source="cataclysm" target="cataract" />
+      <edge id="47" source="capitulation" target="cartel" />
+      <edge id="48" source="catalysis" target="catalyst" />
+      <edge id="49" source="cadenza" target="cadence" />
+      <edge id="50" source="calypso" target="carol" />
+      <edge id="51" source="calypso" target="canticle" />
+      <edge id="52" source="cashbook" target="calendar" />
+      <edge id="53" source="cashbook" target="catalog" />
+      <edge id="54" source="carpetbagger" target="cardsharp" />
+      <edge id="55" source="candy" target="cake" />
+      <edge id="56" source="calling" target="career" />
+      <edge id="57" source="calling" target="cause" />
+      <edge id="58" source="calling" target="call" />
+      <edge id="59" source="capability" target="caliber" />
+      <edge id="60" source="capability" target="capacity" />
+      <edge id="61" source="carrion" target="carcass" />
+      <edge id="62" source="capricious" target="catchy" />
+      <edge id="63" source="capricious" target="careless" />
+      <edge id="64" source="capricious" target="casual" />
+      <edge id="65" source="cachet" target="cast" />
+      <edge id="66" source="caviling" target="captious" />
+      <edge id="67" source="caviling" target="carping" />
+      <edge id="68" source="captious" target="carping" />
+      <edge id="69" source="carnivore" target="cannibal" />
+      <edge id="70" source="carnivore" target="canine" />
+      <edge id="71" source="carter" target="cabdriver" />
+      <edge id="72" source="carter" target="carrier" />
+      <edge id="73" source="catastrophic" target="calamitous" />
+      <edge id="74" source="canine" target="cannibal" />
+      <edge id="75" source="caesura" target="cadence" />
+      <edge id="76" source="calibrate" target="calculate" />
+      <edge id="77" source="caustic" target="cauterant" />
+      <edge id="78" source="caustic" target="catenary" />
+      <edge id="79" source="canvass" target="case" />
+      <edge id="80" source="canvass" target="campaign" />
+      <edge id="81" source="callousness" target="callus" />
+      <edge id="82" source="calendar" target="carve" />
+      <edge id="83" source="calendar" target="catalog" />
+      <edge id="84" source="calendar" target="card" />
+      <edge id="85" source="cartel" target="cabal" />
+      <edge id="86" source="casual" target="causeless" />
+      <edge id="87" source="casual" target="careless" />
+      <edge id="88" source="category" target="caste" />
+      <edge id="89" source="canvas" target="campus" />
+      <edge id="90" source="cabaret" target="cafe" />
+      <edge id="91" source="cabaret" target="casino" />
+      <edge id="92" source="capacity" target="caliber" />
+      <edge id="93" source="capacity" target="capital" />
+      <edge id="94" source="capitalization" target="capital" />
+      <edge id="95" source="cavity" target="canyon" />
+      <edge id="96" source="carriage" target="car" />
+      <edge id="97" source="carriage" target="carrying" />
+      <edge id="98" source="carriage" target="carrier" />
+      <edge id="99" source="carriage" target="cast" />
+      <edge id="100" source="carriage" target="caboose" />
+      <edge id="101" source="capital" target="case" />
+      <edge id="102" source="capital" target="cardinal" />
+      <edge id="103" source="capital" target="cap" />
+      <edge id="104" source="cause" target="case" />
+      <edge id="105" source="cause" target="call" />
+      <edge id="106" source="cause" target="campaign" />
+      <edge id="107" source="caucus" target="camp" />
+      <edge id="108" source="calx" target="carbon" />
+      <edge id="109" source="castoff" target="castaway" />
+      <edge id="110" source="carp" target="cavil" />
+      <edge id="111" source="carefulness" target="calculation" />
+      <edge id="112" source="carefulness" target="caution" />
+      <edge id="113" source="carefulness" target="care" />
+      <edge id="114" source="casket" target="case" />
+      <edge id="115" source="cart" target="carry" />
+      <edge id="116" source="carol" target="cackle" />
+      <edge id="117" source="carol" target="caw" />
+      <edge id="118" source="carol" target="canticle" />
+      <edge id="119" source="carol" target="caracole" />
+      <edge id="120" source="carol" target="call" />
+      <edge id="121" source="cavort" target="caracole" />
+      <edge id="122" source="cautious" target="canny" />
+      <edge id="123" source="cautious" target="careful" />
+      <edge id="124" source="career" target="careen" />
+      <edge id="125" source="carelessness" target="caprice" />
+      <edge id="126" source="cancel" target="cancellation" />
+      <edge id="127" source="cadre" target="case" />
+      <edge id="128" source="cadre" target="casement" />
+      <edge id="129" source="cadre" target="cabal" />
+      <edge id="130" source="cadre" target="cabinet" />
+      <edge id="131" source="carrier" target="cane" />
+      <edge id="132" source="careen" target="cant" />
+      <edge id="133" source="careen" target="capsize" />
+      <edge id="134" source="carcinoma" target="callus" />
+      <edge id="135" source="carcinoma" target="cancer" />
+      <edge id="136" source="cataract" target="cascade" />
+      <edge id="137" source="cabal" target="cast" />
+      <edge id="138" source="caretaker" target="castellan" />
+      <edge id="139" source="carry" target="capture" />
+      <edge id="140" source="carry" target="carrying" />
+      <edge id="141" source="carry" target="capitalize" />
+      <edge id="142" source="categorize" target="catalog" />
+      <edge id="143" source="cafeteria" target="canteen" />
+      <edge id="144" source="cafeteria" target="cantina" />
+      <edge id="145" source="cafeteria" target="cafe" />
+      <edge id="146" source="carnivorous" target="cannibal" />
+      <edge id="147" source="canal" target="carve" />
+      <edge id="148" source="cancer" target="callus" />
+      <edge id="149" source="cancer" target="canker" />
+      <edge id="150" source="caricature" target="cartoon" />
+      <edge id="151" source="caricature" target="camouflage" />
+      <edge id="152" source="catchy" target="cantabile" />
+      <edge id="153" source="cantina" target="canteen" />
+      <edge id="154" source="cantina" target="cafe" />
+      <edge id="155" source="cantata" target="canticle" />
+      <edge id="156" source="call" target="cackle" />
+      <edge id="157" source="call" target="caw" />
+      <edge id="158" source="call" target="caterwaul" />
+      <edge id="159" source="call" target="call" />
+      <edge id="160" source="calm" target="calmness" />
+      <edge id="161" source="care" target="calculation" />
+      <edge id="162" source="care" target="caution" />
+      <edge id="163" source="calf" target="cattle" />
+      <edge id="164" source="catapult" target="cast" />
+      <edge id="165" source="cackle" target="caw" />
+      <edge id="166" source="caboose" target="car" />
+      <edge id="167" source="cashier" target="can" />
+      <edge id="168" source="carve" target="cast" />
+      <edge id="169" source="carve" target="catalog" />
+      <edge id="170" source="carping" target="cavil" />
+      <edge id="171" source="careful" target="canny" />
+      <edge id="172" source="careful" target="calculating" />
+      <edge id="173" source="case" target="casement" />
+      <edge id="174" source="case" target="cap" />
+      <edge id="175" source="case" target="capsule" />
+      <edge id="176" source="case" target="cask" />
+      <edge id="177" source="case" target="can" />
+      <edge id="178" source="case" target="carton" />
+      <edge id="179" source="carton" target="capsule" />
+      <edge id="180" source="carton" target="can" />
+      <edge id="181" source="carton" target="cask" />
+      <edge id="182" source="catenary" target="cadence" />
+      <edge id="183" source="cap" target="cap" />
+      <edge id="184" source="cask" target="capsule" />
+      <edge id="185" source="cask" target="can" />
+      <edge id="186" source="cast" target="calculate" />
+      <edge id="187" source="cast" target="cauterize" />
+      <edge id="188" source="cast" target="cant" />
+      <edge id="189" source="calamity" target="casualty" />
+      <edge id="190" source="cagey" target="canny" />
+      <edge id="191" source="can" target="capsule" />
+      <edge id="192" source="caveat" target="caution" />
+      <edge id="193" source="cavalier" target="caballero" />
+      <edge id="194" source="canon" target="cardinal" />
+      <edge id="195" source="cavern" target="cave" />
+      <edge id="196" source="canteen" target="cafe" />
+      <edge id="197" source="calculating" target="canny" />
+      <edge id="198" source="carbuncle" target="canker" />
+      <edge id="199" source="catalog" target="catalog" />
+    </edges>
+  </graph>
+</gexf>

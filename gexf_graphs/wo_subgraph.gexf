@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="worshipful" label="worshipful" />
+      <node id="workbench" label="workbench" />
+      <node id="workingman" label="workingman" />
+      <node id="woodcut" label="woodcut" />
+      <node id="woebegone" label="woebegone" />
+      <node id="womanize" label="womanize" />
+      <node id="woods" label="woods" />
+      <node id="woody" label="woody" />
+      <node id="worrisome" label="worrisome" />
+      <node id="worthless" label="worthless" />
+      <node id="working" label="working" />
+      <node id="workhouse" label="workhouse" />
+      <node id="womanhood" label="womanhood" />
+      <node id="woodland" label="woodland" />
+      <node id="woof" label="woof" />
+      <node id="workaday" label="workaday" />
+      <node id="wood" label="wood" />
+      <node id="woodwind" label="woodwind" />
+      <node id="woeful" label="woeful" />
+      <node id="wool" label="wool" />
+      <node id="worshiping" label="worshiping" />
+      <node id="woodsy" label="woodsy" />
+      <node id="wondrous" label="wondrous" />
+      <node id="woman" label="woman" />
+      <node id="womanly" label="womanly" />
+      <node id="worse" label="worse" />
+      <node id="wonderful" label="wonderful" />
+      <node id="worker" label="worker" />
+      <node id="wordage" label="wordage" />
+      <node id="worst" label="worst" />
+      <node id="worthy" label="worthy" />
+      <node id="workings" label="workings" />
+      <node id="wont" label="wont" />
+      <node id="worsened" label="worsened" />
+      <node id="wooded" label="wooded" />
+      <node id="womanish" label="womanish" />
+      <node id="workshop" label="workshop" />
+      <node id="workman" label="workman" />
+      <node id="work" label="work" />
+      <node id="workroom" label="workroom" />
+      <node id="woodblock" label="woodblock" />
+      <node id="wolf" label="wolf" />
+      <node id="worry" label="worry" />
+      <node id="womanizer" label="womanizer" />
+      <node id="wonted" label="wonted" />
+      <node id="works" label="works" />
+      <node id="worrying" label="worrying" />
+      <node id="wording" label="wording" />
+    </nodes>
+    <edges>
+      <edge id="0" source="worshipful" target="worshiping" />
+      <edge id="1" source="worshipful" target="worthy" />
+      <edge id="2" source="workbench" target="workhouse" />
+      <edge id="3" source="workbench" target="workshop" />
+      <edge id="4" source="workbench" target="workroom" />
+      <edge id="5" source="workingman" target="workman" />
+      <edge id="6" source="workingman" target="worker" />
+      <edge id="7" source="woodcut" target="woodblock" />
+      <edge id="8" source="woebegone" target="woeful" />
+      <edge id="9" source="womanize" target="wolf" />
+      <edge id="10" source="woods" target="wood" />
+      <edge id="11" source="woods" target="woodland" />
+      <edge id="12" source="woods" target="woodwind" />
+      <edge id="13" source="woody" target="wooded" />
+      <edge id="14" source="woody" target="woodland" />
+      <edge id="15" source="woody" target="woodsy" />
+      <edge id="16" source="worrisome" target="worrying" />
+      <edge id="17" source="worthless" target="woeful" />
+      <edge id="18" source="worthless" target="worst" />
+      <edge id="19" source="working" target="workings" />
+      <edge id="20" source="working" target="workaday" />
+      <edge id="21" source="working" target="work" />
+      <edge id="22" source="workhouse" target="workshop" />
+      <edge id="23" source="workhouse" target="workroom" />
+      <edge id="24" source="womanhood" target="woman" />
+      <edge id="25" source="woodland" target="wooded" />
+      <edge id="26" source="woodland" target="wood" />
+      <edge id="27" source="woodland" target="woodsy" />
+      <edge id="28" source="woof" target="wool" />
+      <edge id="29" source="woeful" target="worst" />
+      <edge id="30" source="woodsy" target="wooded" />
+      <edge id="31" source="wondrous" target="wonderful" />
+      <edge id="32" source="womanly" target="womanish" />
+      <edge id="33" source="worse" target="worsened" />
+      <edge id="34" source="worker" target="workman" />
+      <edge id="35" source="wordage" target="wording" />
+      <edge id="36" source="workings" target="work" />
+      <edge id="37" source="workings" target="works" />
+      <edge id="38" source="wont" target="wonted" />
+      <edge id="39" source="workshop" target="workroom" />
+      <edge id="40" source="work" target="works" />
+      <edge id="41" source="wolf" target="womanizer" />
+      <edge id="42" source="worry" target="worrying" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="systematized" label="systematized" />
+      <node id="synchronized" label="synchronized" />
+      <node id="synchronous" label="synchronous" />
+      <node id="sync" label="sync" />
+      <node id="syntax" label="syntax" />
+      <node id="synergy" label="synergy" />
+      <node id="sympathy" label="sympathy" />
+      <node id="synchronism" label="synchronism" />
+      <node id="syllabary" label="syllabary" />
+      <node id="symmetry" label="symmetry" />
+      <node id="syncope" label="syncope" />
+      <node id="symbiotic" label="symbiotic" />
+      <node id="system" label="system" />
+      <node id="synod" label="synod" />
+      <node id="syllabus" label="syllabus" />
+      <node id="symphony" label="symphony" />
+      <node id="symbiosis" label="symbiosis" />
+      <node id="symposium" label="symposium" />
+      <node id="syllabic" label="syllabic" />
+      <node id="synthesis" label="synthesis" />
+      <node id="syllable" label="syllable" />
+      <node id="symbolic" label="symbolic" />
+      <node id="symbol" label="symbol" />
+      <node id="symptomatic" label="symptomatic" />
+      <node id="systematic" label="systematic" />
+      <node id="syndicate" label="syndicate" />
+      <node id="symbolism" label="symbolism" />
+      <node id="synergistic" label="synergistic" />
+      <node id="syllogism" label="syllogism" />
+      <node id="systematize" label="systematize" />
+      <node id="synonym" label="synonym" />
+      <node id="syncretism" label="syncretism" />
+      <node id="synthesize" label="synthesize" />
+      <node id="syndication" label="syndication" />
+      <node id="syncopation" label="syncopation" />
+      <node id="synchronize" label="synchronize" />
+      <node id="synopsis" label="synopsis" />
+      <node id="syntactics" label="syntactics" />
+      <node id="symmetrical" label="symmetrical" />
+    </nodes>
+    <edges>
+      <edge id="0" source="systematized" target="synchronized" />
+      <edge id="1" source="synchronized" target="symbiotic" />
+      <edge id="2" source="synchronized" target="synchronous" />
+      <edge id="3" source="synchronous" target="synergistic" />
+      <edge id="4" source="synchronous" target="symbiotic" />
+      <edge id="5" source="sync" target="synchronize" />
+      <edge id="6" source="sync" target="synchronism" />
+      <edge id="7" source="sync" target="symmetry" />
+      <edge id="8" source="syntax" target="syntactics" />
+      <edge id="9" source="synergy" target="synchronism" />
+      <edge id="10" source="synergy" target="symbiosis" />
+      <edge id="11" source="sympathy" target="symphony" />
+      <edge id="12" source="synchronism" target="symphony" />
+      <edge id="13" source="synchronism" target="symmetry" />
+      <edge id="14" source="synchronism" target="symbiosis" />
+      <edge id="15" source="syllabary" target="symbol" />
+      <edge id="16" source="symmetry" target="system" />
+      <edge id="17" source="syncope" target="syncopation" />
+      <edge id="18" source="syncope" target="synopsis" />
+      <edge id="19" source="symbiotic" target="synergistic" />
+      <edge id="20" source="synod" target="symposium" />
+      <edge id="21" source="synod" target="syndicate" />
+      <edge id="22" source="syllabus" target="synopsis" />
+      <edge id="23" source="syllabic" target="symbol" />
+      <edge id="24" source="synthesis" target="syncretism" />
+      <edge id="25" source="synthesis" target="syndication" />
+      <edge id="26" source="synthesis" target="syllogism" />
+      <edge id="27" source="syllable" target="synonym" />
+      <edge id="28" source="symbolic" target="symptomatic" />
+      <edge id="29" source="symbol" target="symbolism" />
+      <edge id="30" source="systematic" target="symmetrical" />
+      <edge id="31" source="syndicate" target="synthesize" />
+      <edge id="32" source="systematize" target="synchronize" />
+      <edge id="33" source="syncretism" target="syndication" />
+    </edges>
+  </graph>
+</gexf>

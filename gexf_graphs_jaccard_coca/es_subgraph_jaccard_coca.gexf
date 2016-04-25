@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="essay" label="essay">
+        <attvalues>
+          <attvalue for="0" value="3.99777943087" />
+        </attvalues>
+      </node>
+      <node id="escalation" label="escalation" />
+      <node id="estate" label="estate">
+        <attvalues>
+          <attvalue for="0" value="4.3140147711" />
+        </attvalues>
+      </node>
+      <node id="essence" label="essence">
+        <attvalues>
+          <attvalue for="0" value="3.94091473758" />
+        </attvalues>
+      </node>
+      <node id="esplanade" label="esplanade" />
+      <node id="espy" label="espy" />
+      <node id="esteem" label="esteem" />
+      <node id="escape" label="escape">
+        <attvalues>
+          <attvalue for="0" value="4.22770678206" />
+        </attvalues>
+      </node>
+      <node id="estop" label="estop">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="establish" label="establish" />
+      <node id="eschatology" label="eschatology" />
+      <node id="established" label="established" />
+      <node id="esoterica" label="esoterica">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="estuary" label="estuary">
+        <attvalues>
+          <attvalue for="0" value="2.75739602879" />
+        </attvalues>
+      </node>
+      <node id="esprit" label="esprit" />
+      <node id="escarpment" label="escarpment">
+        <attvalues>
+          <attvalue for="0" value="2.40140054078" />
+        </attvalues>
+      </node>
+      <node id="esquire" label="esquire" />
+      <node id="esoterics" label="esoterics" />
+      <node id="escutcheon" label="escutcheon" />
+      <node id="esteemed" label="esteemed" />
+      <node id="estrange" label="estrange" />
+      <node id="establishment" label="establishment">
+        <attvalues>
+          <attvalue for="0" value="4.03574983732" />
+        </attvalues>
+      </node>
+      <node id="espionage" label="espionage">
+        <attvalues>
+          <attvalue for="0" value="3.13767053724" />
+        </attvalues>
+      </node>
+      <node id="especial" label="especial" />
+      <node id="escalate" label="escalate">
+        <attvalues>
+          <attvalue for="0" value="2.99211148779" />
+        </attvalues>
+      </node>
+      <node id="escapism" label="escapism">
+        <attvalues>
+          <attvalue for="0" value="2.30749603791" />
+        </attvalues>
+      </node>
+      <node id="eschew" label="eschew">
+        <attvalues>
+          <attvalue for="0" value="2.5728716022" />
+        </attvalues>
+      </node>
+      <node id="esoteric" label="esoteric">
+        <attvalues>
+          <attvalue for="0" value="2.93196611473" />
+        </attvalues>
+      </node>
+      <node id="escrow" label="escrow" />
+      <node id="espousal" label="espousal">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="estimate" label="estimate">
+        <attvalues>
+          <attvalue for="0" value="4.03169116863" />
+        </attvalues>
+      </node>
+      <node id="espial" label="espial" />
+      <node id="essentially" label="essentially">
+        <attvalues>
+          <attvalue for="0" value="4.21428738291" />
+        </attvalues>
+      </node>
+      <node id="especially" label="especially">
+        <attvalues>
+          <attvalue for="0" value="4.92027989463" />
+        </attvalues>
+      </node>
+      <node id="estimable" label="estimable">
+        <attvalues>
+          <attvalue for="0" value="2.18469143082" />
+        </attvalues>
+      </node>
+      <node id="espouse" label="espouse" />
+      <node id="estimation" label="estimation" />
+      <node id="escapade" label="escapade" />
+      <node id="essential" label="essential">
+        <attvalues>
+          <attvalue for="0" value="4.31552953321" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="essay" target="espial" weight="0.013986" />
+      <edge id="1" source="essay" target="established" weight="0.004717" />
+      <edge id="2" source="essay" target="establish" weight="0.021008" />
+      <edge id="3" source="essay" target="establishment" weight="0.014286" />
+      <edge id="4" source="essay" target="escrow" weight="0.008403" />
+      <edge id="5" source="essay" target="escarpment" weight="0.006944" />
+      <edge id="6" source="essay" target="essence" weight="0.026022" />
+      <edge id="7" source="essay" target="estimate" weight="0.017778" />
+      <edge id="8" source="essay" target="estimation" weight="0.010526" />
+      <edge id="9" source="essay" target="escapade" weight="0.007813" />
+      <edge id="10" source="essay" target="essential" weight="0.004608" />
+      <edge id="11" source="essay" target="espionage" weight="0.007874" />
+      <edge id="12" source="escalation" target="escalate" weight="0.027027" />
+      <edge id="13" source="escalation" target="estimate" weight="0.007519" />
+      <edge id="14" source="escalation" target="establishment" weight="0.008547" />
+      <edge id="15" source="estate" target="espial" weight="0.007299" />
+      <edge id="16" source="estate" target="established" weight="0.009804" />
+      <edge id="17" source="estate" target="especial" weight="0.007752" />
+      <edge id="18" source="estate" target="esprit" weight="0.00885" />
+      <edge id="19" source="estate" target="essence" weight="0.015094" />
+      <edge id="20" source="estate" target="estimable" weight="0.004219" />
+      <edge id="21" source="estate" target="esplanade" weight="0.007463" />
+      <edge id="22" source="estate" target="escutcheon" weight="0.013514" />
+      <edge id="23" source="estate" target="espy" weight="0.008065" />
+      <edge id="24" source="estate" target="espouse" weight="0.007752" />
+      <edge id="25" source="estate" target="estimate" weight="0.023041" />
+      <edge id="26" source="estate" target="estimation" weight="0.022099" />
+      <edge id="27" source="estate" target="establish" weight="0.021645" />
+      <edge id="28" source="estate" target="establishment" weight="0.009804" />
+      <edge id="29" source="estate" target="estrange" weight="0.007519" />
+      <edge id="30" source="essence" target="espial" weight="0.004902" />
+      <edge id="31" source="essence" target="essentially" weight="0.005236" />
+      <edge id="32" source="essence" target="estuary" weight="0.004717" />
+      <edge id="33" source="essence" target="escapism" weight="0.004878" />
+      <edge id="34" source="essence" target="esprit" weight="0.020761" />
+      <edge id="35" source="essence" target="esplanade" weight="0.004975" />
+      <edge id="36" source="essence" target="escarpment" weight="0.004902" />
+      <edge id="37" source="essence" target="espy" weight="0.005236" />
+      <edge id="38" source="essence" target="esteem" weight="0.013841" />
+      <edge id="39" source="essence" target="escape" weight="0.007576" />
+      <edge id="40" source="essence" target="estimate" weight="0.006969" />
+      <edge id="41" source="essence" target="estimation" weight="0.003984" />
+      <edge id="42" source="essence" target="establish" weight="0.01" />
+      <edge id="43" source="essence" target="essential" weight="0.153527" />
+      <edge id="44" source="essence" target="establishment" weight="0.01487" />
+      <edge id="45" source="essence" target="eschatology" weight="0.004695" />
+      <edge id="46" source="esplanade" target="essential" weight="0.006993" />
+      <edge id="47" source="espy" target="estimate" weight="0.013986" />
+      <edge id="48" source="espy" target="espionage" weight="0.023256" />
+      <edge id="49" source="esteem" target="especially" weight="0.006897" />
+      <edge id="50" source="esteem" target="escalate" weight="0.006711" />
+      <edge id="51" source="esteem" target="espousal" weight="0.007634" />
+      <edge id="52" source="esteem" target="estimate" weight="0.123288" />
+      <edge id="53" source="esteem" target="espionage" weight="0.013986" />
+      <edge id="54" source="escape" target="estuary" weight="0.201681" />
+      <edge id="55" source="escape" target="escapism" weight="0.283019" />
+      <edge id="56" source="escape" target="escarpment" weight="0.007463" />
+      <edge id="57" source="escape" target="eschew" weight="0.046296" />
+      <edge id="58" source="escape" target="estimate" weight="0.004587" />
+      <edge id="59" source="escape" target="establishment" weight="0.00495" />
+      <edge id="60" source="escape" target="establish" weight="0.00431" />
+      <edge id="61" source="escape" target="essential" weight="0.004831" />
+      <edge id="62" source="escape" target="estrange" weight="0.007692" />
+      <edge id="63" source="estop" target="escutcheon" weight="0.014706" />
+      <edge id="64" source="establish" target="escalate" weight="0.012658" />
+      <edge id="65" source="establish" target="escapism" weight="0.005814" />
+      <edge id="66" source="establish" target="escarpment" weight="0.005848" />
+      <edge id="67" source="establish" target="estimate" weight="0.003922" />
+      <edge id="68" source="establish" target="establishment" weight="0.012658" />
+      <edge id="69" source="establish" target="essential" weight="0.004098" />
+      <edge id="70" source="eschatology" target="escarpment" weight="0.012195" />
+      <edge id="71" source="eschatology" target="estimate" weight="0.006024" />
+      <edge id="72" source="established" target="estimate" weight="0.004444" />
+      <edge id="73" source="established" target="estimable" weight="0.012552" />
+      <edge id="74" source="established" target="esoteric" weight="0.033333" />
+      <edge id="75" source="esoterica" target="esoteric" weight="0.008197" />
+      <edge id="76" source="esoterica" target="esoterics" weight="0.133333" />
+      <edge id="77" source="estuary" target="escapism" weight="0.0375" />
+      <edge id="78" source="estuary" target="estimable" weight="0.005525" />
+      <edge id="79" source="estuary" target="escarpment" weight="0.012346" />
+      <edge id="80" source="estuary" target="estimate" weight="0.006061" />
+      <edge id="81" source="estuary" target="establishment" weight="0.006711" />
+      <edge id="82" source="estuary" target="essential" weight="0.006494" />
+      <edge id="83" source="esprit" target="estimate" weight="0.00813" />
+      <edge id="84" source="esprit" target="espionage" weight="0.006849" />
+      <edge id="85" source="esprit" target="essential" weight="0.012821" />
+      <edge id="86" source="esquire" target="estimable" weight="0.005525" />
+      <edge id="87" source="escutcheon" target="essential" weight="0.006329" />
+      <edge id="88" source="esteemed" target="estimable" weight="0.225166" />
+      <edge id="89" source="esteemed" target="esoteric" weight="0.025641" />
+      <edge id="90" source="estrange" target="estimate" weight="0.013158" />
+      <edge id="91" source="establishment" target="espial" weight="0.007092" />
+      <edge id="92" source="establishment" target="estimate" weight="0.004444" />
+      <edge id="93" source="establishment" target="estimation" weight="0.005319" />
+      <edge id="94" source="espionage" target="espial" weight="0.5" />
+      <edge id="95" source="espionage" target="estimate" weight="0.014388" />
+      <edge id="96" source="espionage" target="estimation" weight="0.029703" />
+      <edge id="97" source="especial" target="estimable" weight="0.024691" />
+      <edge id="98" source="especial" target="esoteric" weight="0.236842" />
+      <edge id="99" source="escalate" target="estimable" weight="0.006211" />
+      <edge id="100" source="escalate" target="espouse" weight="0.018868" />
+      <edge id="101" source="escapism" target="estimate" weight="0.006329" />
+      <edge id="102" source="escapism" target="essential" weight="0.006803" />
+      <edge id="103" source="eschew" target="essential" weight="0.008065" />
+      <edge id="104" source="esoteric" target="estimable" weight="0.020492" />
+      <edge id="105" source="esoteric" target="essential" weight="0.013699" />
+      <edge id="106" source="estimate" target="estimable" weight="0.003891" />
+      <edge id="107" source="estimate" target="espial" weight="0.019355" />
+      <edge id="108" source="estimate" target="espouse" weight="0.006711" />
+      <edge id="109" source="estimate" target="estimation" weight="0.375839" />
+      <edge id="110" source="essentially" target="especially" weight="0.097561" />
+      <edge id="111" source="estimable" target="essential" weight="0.016461" />
+    </edges>
+  </graph>
+</gexf>

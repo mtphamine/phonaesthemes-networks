@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="saying" label="saying" />
+      <node id="salon" label="salon" />
+      <node id="sanctuary" label="sanctuary" />
+      <node id="saturated" label="saturated" />
+      <node id="safari" label="safari" />
+      <node id="saver" label="saver" />
+      <node id="sage" label="sage" />
+      <node id="satisfied" label="satisfied" />
+      <node id="salve" label="salve" />
+      <node id="sanctity" label="sanctity" />
+      <node id="salvo" label="salvo" />
+      <node id="satin" label="satin" />
+      <node id="sacrosanct" label="sacrosanct" />
+      <node id="saucy" label="saucy" />
+      <node id="safekeeping" label="safekeeping" />
+      <node id="satyr" label="satyr" />
+      <node id="salience" label="salience" />
+      <node id="savory" label="savory" />
+      <node id="save" label="save" />
+      <node id="sauce" label="sauce" />
+      <node id="sacking" label="sacking" />
+      <node id="sapid" label="sapid" />
+      <node id="sanguinary" label="sanguinary" />
+      <node id="sarcastic" label="sarcastic" />
+      <node id="sadist" label="sadist" />
+      <node id="sailplane" label="sailplane" />
+      <node id="sanitary" label="sanitary" />
+      <node id="sassy" label="sassy" />
+      <node id="salad" label="salad" />
+      <node id="savorless" label="savorless" />
+      <node id="sainthood" label="sainthood" />
+      <node id="sand" label="sand" />
+      <node id="sane" label="sane" />
+      <node id="satiated" label="satiated" />
+      <node id="satisfy" label="satisfy" />
+      <node id="satisfactory" label="satisfactory" />
+      <node id="sapless" label="sapless" />
+      <node id="salutation" label="salutation" />
+      <node id="sandy" label="sandy" />
+      <node id="savage" label="savage" />
+      <node id="sausage" label="sausage" />
+      <node id="satisfying" label="satisfying" />
+      <node id="saved" label="saved" />
+      <node id="sail" label="sail" />
+      <node id="safety" label="safety" />
+      <node id="sabotage" label="sabotage" />
+      <node id="sapphism" label="sapphism" />
+      <node id="salute" label="salute" />
+      <node id="satiate" label="satiate" />
+      <node id="satanic" label="satanic" />
+      <node id="salami" label="salami" />
+      <node id="salient" label="salient" />
+      <node id="satiny" label="satiny" />
+      <node id="sadistic" label="sadistic" />
+      <node id="salvation" label="salvation" />
+      <node id="saving" label="saving" />
+      <node id="sack" label="sack" />
+      <node id="satisfaction" label="satisfaction" />
+      <node id="sailor" label="sailor" />
+      <node id="sadism" label="sadism" />
+      <node id="sashay" label="sashay" />
+      <node id="salutary" label="salutary" />
+      <node id="sarcasm" label="sarcasm" />
+      <node id="satire" label="satire" />
+      <node id="sated" label="sated" />
+      <node id="saint" label="saint" />
+      <node id="salmagundi" label="salmagundi" />
+      <node id="sacrarium" label="sacrarium" />
+      <node id="satirical" label="satirical" />
+      <node id="savior" label="savior" />
+      <node id="safeguard" label="safeguard" />
+      <node id="sallow" label="sallow" />
+      <node id="savagery" label="savagery" />
+      <node id="sanctified" label="sanctified" />
+      <node id="sanctify" label="sanctify" />
+      <node id="sanctum" label="sanctum" />
+      <node id="savant" label="savant" />
+      <node id="salvage" label="salvage" />
+      <node id="sadomasochism" label="sadomasochism" />
+      <node id="sandbank" label="sandbank" />
+      <node id="saturation" label="saturation" />
+      <node id="salutatory" label="salutatory" />
+      <node id="sample" label="sample" />
+      <node id="sardonic" label="sardonic" />
+      <node id="say" label="say" />
+      <node id="salty" label="salty" />
+      <node id="sandbar" label="sandbar" />
+      <node id="sap" label="sap" />
+      <node id="saw" label="saw" />
+      <node id="saintly" label="saintly" />
+      <node id="sanctimonious" label="sanctimonious" />
+      <node id="savor" label="savor" />
+      <node id="sanguine" label="sanguine" />
+      <node id="same" label="same" />
+      <node id="sate" label="sate" />
+      <node id="sacred" label="sacred" />
+      <node id="salubrious" label="salubrious" />
+      <node id="sacristy" label="sacristy" />
+      <node id="sapient" label="sapient" />
+      <node id="said" label="said" />
+      <node id="sagacious" label="sagacious" />
+      <node id="sainted" label="sainted" />
+      <node id="salaam" label="salaam" />
+      <node id="sally" label="sally" />
+      <node id="saunter" label="saunter" />
+      <node id="saintliness" label="saintliness" />
+      <node id="saturate" label="saturate" />
+      <node id="savvy" label="savvy" />
+      <node id="saloon" label="saloon" />
+      <node id="salt" label="salt" />
+      <node id="sandpaper" label="sandpaper" />
+    </nodes>
+    <edges>
+      <edge id="0" source="saying" target="say" />
+      <edge id="1" source="saying" target="saw" />
+      <edge id="2" source="salon" target="saloon" />
+      <edge id="3" source="sanctuary" target="sacrarium" />
+      <edge id="4" source="sanctuary" target="sanctum" />
+      <edge id="5" source="sanctuary" target="safety" />
+      <edge id="6" source="saturated" target="satiated" />
+      <edge id="7" source="saturated" target="sated" />
+      <edge id="8" source="saturated" target="satisfied" />
+      <edge id="9" source="safari" target="sally" />
+      <edge id="10" source="saver" target="savior" />
+      <edge id="11" source="sage" target="savant" />
+      <edge id="12" source="sage" target="sane" />
+      <edge id="13" source="sage" target="sagacious" />
+      <edge id="14" source="sage" target="sapient" />
+      <edge id="15" source="satisfied" target="satiated" />
+      <edge id="16" source="satisfied" target="sated" />
+      <edge id="17" source="salve" target="salvage" />
+      <edge id="18" source="sanctity" target="saintliness" />
+      <edge id="19" source="sanctity" target="sainthood" />
+      <edge id="20" source="salvo" target="salute" />
+      <edge id="21" source="satin" target="satiny" />
+      <edge id="22" source="sacrosanct" target="sacred" />
+      <edge id="23" source="saucy" target="sassy" />
+      <edge id="24" source="safekeeping" target="safety" />
+      <edge id="25" source="safekeeping" target="saving" />
+      <edge id="26" source="safekeeping" target="salvation" />
+      <edge id="27" source="safekeeping" target="salvage" />
+      <edge id="28" source="satyr" target="sadist" />
+      <edge id="29" source="salience" target="salient" />
+      <edge id="30" source="savory" target="sapid" />
+      <edge id="31" source="save" target="salvage" />
+      <edge id="32" source="save" target="safeguard" />
+      <edge id="33" source="save" target="saving" />
+      <edge id="34" source="sauce" target="savor" />
+      <edge id="35" source="sauce" target="salmagundi" />
+      <edge id="36" source="sauce" target="salt" />
+      <edge id="37" source="sauce" target="salad" />
+      <edge id="38" source="sacking" target="sack" />
+      <edge id="39" source="sanguinary" target="sadistic" />
+      <edge id="40" source="sanguinary" target="savage" />
+      <edge id="41" source="sanguinary" target="satanic" />
+      <edge id="42" source="sanguinary" target="sanguine" />
+      <edge id="43" source="sarcastic" target="sardonic" />
+      <edge id="44" source="sarcastic" target="satirical" />
+      <edge id="45" source="sailplane" target="sail" />
+      <edge id="46" source="sanitary" target="salutary" />
+      <edge id="47" source="sanitary" target="salubrious" />
+      <edge id="48" source="salad" target="salmagundi" />
+      <edge id="49" source="savorless" target="sapless" />
+      <edge id="50" source="sainthood" target="saintliness" />
+      <edge id="51" source="sand" target="sandpaper" />
+      <edge id="52" source="sand" target="sandbar" />
+      <edge id="53" source="sane" target="sapient" />
+      <edge id="54" source="satiated" target="sated" />
+      <edge id="55" source="satisfy" target="satiate" />
+      <edge id="56" source="satisfy" target="saturate" />
+      <edge id="57" source="satisfy" target="sate" />
+      <edge id="58" source="satisfactory" target="satisfying" />
+      <edge id="59" source="sapless" target="sandy" />
+      <edge id="60" source="salutation" target="salaam" />
+      <edge id="61" source="salutation" target="salute" />
+      <edge id="62" source="sandy" target="sallow" />
+      <edge id="63" source="savage" target="sadistic" />
+      <edge id="64" source="savage" target="satanic" />
+      <edge id="65" source="savage" target="sack" />
+      <edge id="66" source="sausage" target="salami" />
+      <edge id="67" source="saved" target="saintly" />
+      <edge id="68" source="saved" target="sanctified" />
+      <edge id="69" source="saved" target="sainted" />
+      <edge id="70" source="safety" target="safeguard" />
+      <edge id="71" source="sabotage" target="sap" />
+      <edge id="72" source="sapphism" target="sadomasochism" />
+      <edge id="73" source="sapphism" target="sadism" />
+      <edge id="74" source="salute" target="salaam" />
+      <edge id="75" source="satiate" target="sated" />
+      <edge id="76" source="satiate" target="saturate" />
+      <edge id="77" source="satiate" target="sate" />
+      <edge id="78" source="satanic" target="sadistic" />
+      <edge id="79" source="salvation" target="salvage" />
+      <edge id="80" source="salvation" target="saving" />
+      <edge id="81" source="saving" target="salvage" />
+      <edge id="82" source="satisfaction" target="saturation" />
+      <edge id="83" source="satisfaction" target="salvage" />
+      <edge id="84" source="sailor" target="salt" />
+      <edge id="85" source="sadism" target="savagery" />
+      <edge id="86" source="sadism" target="sadomasochism" />
+      <edge id="87" source="sashay" target="saunter" />
+      <edge id="88" source="salutary" target="salubrious" />
+      <edge id="89" source="sarcasm" target="salt" />
+      <edge id="90" source="sarcasm" target="satire" />
+      <edge id="91" source="satire" target="salt" />
+      <edge id="92" source="saint" target="sanctify" />
+      <edge id="93" source="sacrarium" target="sanctum" />
+      <edge id="94" source="sacrarium" target="sacristy" />
+      <edge id="95" source="sanctified" target="saintly" />
+      <edge id="96" source="sanctified" target="sainted" />
+      <edge id="97" source="sanctified" target="sacred" />
+      <edge id="98" source="sanctified" target="sanctimonious" />
+      <edge id="99" source="savant" target="sapient" />
+      <edge id="100" source="sandbank" target="sandbar" />
+      <edge id="101" source="salutatory" target="say" />
+      <edge id="102" source="sample" target="savor" />
+      <edge id="103" source="salty" target="salt" />
+      <edge id="104" source="saintly" target="sainted" />
+      <edge id="105" source="savor" target="salt" />
+      <edge id="106" source="same" target="said" />
+      <edge id="107" source="sate" target="saturate" />
+      <edge id="108" source="sagacious" target="savvy" />
+    </edges>
+  </graph>
+</gexf>

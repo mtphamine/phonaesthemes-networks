@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="alluring" label="alluring" />
+      <node id="all" label="all" />
+      <node id="alleviation" label="alleviation">
+        <attvalues>
+          <attvalue for="0" value="2.44404479592" />
+        </attvalues>
+      </node>
+      <node id="alight" label="alight" />
+      <node id="alternation" label="alternation" />
+      <node id="allergy" label="allergy">
+        <attvalues>
+          <attvalue for="0" value="3.22608411598" />
+        </attvalues>
+      </node>
+      <node id="altruistic" label="altruistic">
+        <attvalues>
+          <attvalue for="0" value="2.84073323461" />
+        </attvalues>
+      </node>
+      <node id="alien" label="alien">
+        <attvalues>
+          <attvalue for="0" value="3.92090560416" />
+        </attvalues>
+      </node>
+      <node id="alacrity" label="alacrity">
+        <attvalues>
+          <attvalue for="0" value="2.18752072084" />
+        </attvalues>
+      </node>
+      <node id="alliance" label="alliance" />
+      <node id="alternative" label="alternative" />
+      <node id="alignment" label="alignment">
+        <attvalues>
+          <attvalue for="0" value="3.34654855855" />
+        </attvalues>
+      </node>
+      <node id="alveolus" label="alveolus" />
+      <node id="alimony" label="alimony">
+        <attvalues>
+          <attvalue for="0" value="2.55388302664" />
+        </attvalues>
+      </node>
+      <node id="alternate" label="alternate" />
+      <node id="allotropy" label="allotropy">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="alchemy" label="alchemy">
+        <attvalues>
+          <attvalue for="0" value="2.75127910398" />
+        </attvalues>
+      </node>
+      <node id="alphabetic" label="alphabetic">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+      <node id="alter" label="alter" />
+      <node id="ally" label="ally">
+        <attvalues>
+          <attvalue for="0" value="3.66847910293" />
+        </attvalues>
+      </node>
+      <node id="allocate" label="allocate">
+        <attvalues>
+          <attvalue for="0" value="2.95520653754" />
+        </attvalues>
+      </node>
+      <node id="alabaster" label="alabaster">
+        <attvalues>
+          <attvalue for="0" value="2.46089784276" />
+        </attvalues>
+      </node>
+      <node id="albino" label="albino" />
+      <node id="allergen" label="allergen" />
+      <node id="altogether" label="altogether">
+        <attvalues>
+          <attvalue for="0" value="3.87932530078" />
+        </attvalues>
+      </node>
+      <node id="aleatory" label="aleatory">
+        <attvalues>
+          <attvalue for="0" value="1.50514997832" />
+        </attvalues>
+      </node>
+      <node id="always" label="always">
+        <attvalues>
+          <attvalue for="0" value="5.29167958398" />
+        </attvalues>
+      </node>
+      <node id="alteration" label="alteration">
+        <attvalues>
+          <attvalue for="0" value="2.94299959337" />
+        </attvalues>
+      </node>
+      <node id="alkali" label="alkali">
+        <attvalues>
+          <attvalue for="0" value="2.20682587603" />
+        </attvalues>
+      </node>
+      <node id="allocution" label="allocution" />
+      <node id="allegation" label="allegation" />
+      <node id="albinism" label="albinism" />
+      <node id="allusion" label="allusion">
+        <attvalues>
+          <attvalue for="0" value="2.81291335664" />
+        </attvalues>
+      </node>
+      <node id="allegorize" label="allegorize">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="almond" label="almond" />
+      <node id="alive" label="alive">
+        <attvalues>
+          <attvalue for="0" value="4.42168617182" />
+        </attvalues>
+      </node>
+      <node id="allure" label="allure" />
+      <node id="aloof" label="aloof" />
+      <node id="allay" label="allay" />
+      <node id="album" label="album" />
+      <node id="alcohol" label="alcohol">
+        <attvalues>
+          <attvalue for="0" value="4.2573185131" />
+        </attvalues>
+      </node>
+      <node id="altercation" label="altercation" />
+      <node id="allegory" label="allegory">
+        <attvalues>
+          <attvalue for="0" value="2.89927318732" />
+        </attvalues>
+      </node>
+      <node id="alveolar" label="alveolar" />
+      <node id="algid" label="algid">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="althorn" label="althorn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="aloft" label="aloft" />
+      <node id="although" label="although">
+        <attvalues>
+          <attvalue for="0" value="5.06058453136" />
+        </attvalues>
+      </node>
+      <node id="alone" label="alone" />
+      <node id="along" label="along">
+        <attvalues>
+          <attvalue for="0" value="5.10563279179" />
+        </attvalues>
+      </node>
+      <node id="alto" label="alto" />
+      <node id="alleviative" label="alleviative">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="altarpiece" label="altarpiece" />
+      <node id="allied" label="allied">
+        <attvalues>
+          <attvalue for="0" value="3.7231271588" />
+        </attvalues>
+      </node>
+      <node id="allotment" label="allotment" />
+      <node id="allowance" label="allowance">
+        <attvalues>
+          <attvalue for="0" value="3.23704079138" />
+        </attvalues>
+      </node>
+      <node id="alphabetize" label="alphabetize">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="already" label="already" />
+      <node id="alleluia" label="alleluia" />
+      <node id="allegiance" label="allegiance">
+        <attvalues>
+          <attvalue for="0" value="3.36473855506" />
+        </attvalues>
+      </node>
+      <node id="alliterative" label="alliterative">
+        <attvalues>
+          <attvalue for="0" value="1.95904139232" />
+        </attvalues>
+      </node>
+      <node id="allusive" label="allusive">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="altitude" label="altitude">
+        <attvalues>
+          <attvalue for="0" value="3.46359440219" />
+        </attvalues>
+      </node>
+      <node id="almighty" label="almighty" />
+      <node id="allurement" label="allurement" />
+      <node id="allergic" label="allergic" />
+      <node id="aliquot" label="aliquot">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="albumen" label="albumen" />
+      <node id="almsgiver" label="almsgiver">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="altruism" label="altruism" />
+      <node id="albeit" label="albeit">
+        <attvalues>
+          <attvalue for="0" value="3.58467038446" />
+        </attvalues>
+      </node>
+      <node id="allegorical" label="allegorical" />
+      <node id="align" label="align" />
+      <node id="alcoholism" label="alcoholism" />
+      <node id="alliteration" label="alliteration" />
+      <node id="alluvium" label="alluvium" />
+      <node id="alcoholic" label="alcoholic">
+        <attvalues>
+          <attvalue for="0" value="3.47538059314" />
+        </attvalues>
+      </node>
+      <node id="almost" label="almost" />
+      <node id="alley" label="alley">
+        <attvalues>
+          <attvalue for="0" value="3.76656155264" />
+        </attvalues>
+      </node>
+      <node id="allegro" label="allegro" />
+      <node id="alike" label="alike" />
+      <node id="alphabetarian" label="alphabetarian" />
+      <node id="allege" label="allege">
+        <attvalues>
+          <attvalue for="0" value="2.83695673706" />
+        </attvalues>
+      </node>
+      <node id="almsman" label="almsman" />
+      <node id="alimentation" label="alimentation" />
+      <node id="alkalize" label="alkalize">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="alibi" label="alibi">
+        <attvalues>
+          <attvalue for="0" value="2.93247376468" />
+        </attvalues>
+      </node>
+      <node id="allow" label="allow">
+        <attvalues>
+          <attvalue for="0" value="4.64369936464" />
+        </attvalues>
+      </node>
+      <node id="also" label="also">
+        <attvalues>
+          <attvalue for="0" value="5.70655393112" />
+        </attvalues>
+      </node>
+      <node id="alleviate" label="alleviate">
+        <attvalues>
+          <attvalue for="0" value="3.27114431795" />
+        </attvalues>
+      </node>
+      <node id="alert" label="alert" />
+      <node id="allocation" label="allocation" />
+      <node id="alright" label="alright" />
+      <node id="alpha" label="alpha">
+        <attvalues>
+          <attvalue for="0" value="3.74865309342" />
+        </attvalues>
+      </node>
+      <node id="alienated" label="alienated">
+        <attvalues>
+          <attvalue for="0" value="3.24846371755" />
+        </attvalues>
+      </node>
+      <node id="alfresco" label="alfresco" />
+      <node id="algorithm" label="algorithm" />
+      <node id="alienate" label="alienate">
+        <attvalues>
+          <attvalue for="0" value="2.87215627275" />
+        </attvalues>
+      </node>
+      <node id="alarm" label="alarm">
+        <attvalues>
+          <attvalue for="0" value="3.86403618273" />
+        </attvalues>
+      </node>
+      <node id="alias" label="alias" />
+      <node id="allot" label="allot" />
+      <node id="alienation" label="alienation">
+        <attvalues>
+          <attvalue for="0" value="3.24551266781" />
+        </attvalues>
+      </node>
+      <node id="alphabet" label="alphabet">
+        <attvalues>
+          <attvalue for="0" value="3.24229290498" />
+        </attvalues>
+      </node>
+      <node id="alloy" label="alloy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="alluring" target="alien" weight="0.005435" />
+      <edge id="1" source="alluring" target="alphabet" weight="0.009901" />
+      <edge id="2" source="alluring" target="alchemy" weight="0.011494" />
+      <edge id="3" source="alluring" target="alcohol" weight="0.007874" />
+      <edge id="4" source="alluring" target="alarm" weight="0.007874" />
+      <edge id="5" source="all" target="aliquot" weight="0.010989" />
+      <edge id="6" source="all" target="altitude" weight="0.013333" />
+      <edge id="7" source="all" target="also" weight="0.012048" />
+      <edge id="8" source="all" target="allied" weight="0.008547" />
+      <edge id="9" source="all" target="allocate" weight="0.009709" />
+      <edge id="10" source="all" target="altogether" weight="0.09434" />
+      <edge id="11" source="all" target="alpha" weight="0.011905" />
+      <edge id="12" source="all" target="ally" weight="0.005747" />
+      <edge id="13" source="all" target="allowance" weight="0.004785" />
+      <edge id="14" source="alleviation" target="alimony" weight="0.014493" />
+      <edge id="15" source="alleviation" target="alleviative" weight="0.083333" />
+      <edge id="16" source="alleviation" target="algid" weight="0.011765" />
+      <edge id="17" source="alleviation" target="alveolus" weight="0.01087" />
+      <edge id="18" source="alleviation" target="alienation" weight="0.01105" />
+      <edge id="19" source="alleviation" target="alternate" weight="0.005714" />
+      <edge id="20" source="alleviation" target="alteration" weight="0.019231" />
+      <edge id="21" source="alleviation" target="alchemy" weight="0.012821" />
+      <edge id="22" source="alleviation" target="alliance" weight="0.004831" />
+      <edge id="23" source="alleviation" target="allotment" weight="0.008264" />
+      <edge id="24" source="alleviation" target="alleviate" weight="0.020202" />
+      <edge id="25" source="alleviation" target="allay" weight="0.007813" />
+      <edge id="26" source="alleviation" target="alternative" weight="0.009346" />
+      <edge id="27" source="alleviation" target="allowance" weight="0.037838" />
+      <edge id="28" source="alight" target="alcoholic" weight="0.010753" />
+      <edge id="29" source="alight" target="alive" weight="0.02459" />
+      <edge id="30" source="alight" target="ally" weight="0.005988" />
+      <edge id="31" source="alight" target="alienate" weight="0.00885" />
+      <edge id="32" source="alternation" target="alphabetize" weight="0.011765" />
+      <edge id="33" source="alternation" target="alienate" weight="0.009091" />
+      <edge id="34" source="alternation" target="alarm" weight="0.007937" />
+      <edge id="35" source="alternation" target="alteration" weight="0.00885" />
+      <edge id="36" source="alternation" target="alley" weight="0.008696" />
+      <edge id="37" source="alternation" target="allotropy" weight="0.016949" />
+      <edge id="38" source="alternation" target="alienation" weight="0.005263" />
+      <edge id="39" source="alternation" target="aleatory" weight="0.007246" />
+      <edge id="40" source="alternation" target="alignment" weight="0.011628" />
+      <edge id="41" source="allergy" target="alliance" weight="0.004608" />
+      <edge id="42" source="allergy" target="allergen" weight="0.05" />
+      <edge id="43" source="allergy" target="alienation" weight="0.010471" />
+      <edge id="44" source="allergy" target="alarm" weight="0.007813" />
+      <edge id="45" source="allergy" target="altercation" weight="0.022222" />
+      <edge id="46" source="allergy" target="allegation" weight="0.007752" />
+      <edge id="47" source="allergy" target="allurement" weight="0.01087" />
+      <edge id="48" source="allergy" target="alter" weight="0.008065" />
+      <edge id="49" source="allergy" target="allowance" weight="0.004975" />
+      <edge id="50" source="altruistic" target="aloof" weight="0.013514" />
+      <edge id="51" source="altruistic" target="alimony" weight="0.020833" />
+      <edge id="52" source="altruistic" target="almsgiver" weight="0.027027" />
+      <edge id="53" source="altruistic" target="allotment" weight="0.01" />
+      <edge id="54" source="altruistic" target="allowance" weight="0.005882" />
+      <edge id="55" source="alien" target="alienated" weight="0.064327" />
+      <edge id="56" source="alien" target="alphabetize" weight="0.012346" />
+      <edge id="57" source="alien" target="almond" weight="0.007407" />
+      <edge id="58" source="alien" target="alfresco" weight="0.007092" />
+      <edge id="59" source="alien" target="alienate" weight="0.044199" />
+      <edge id="60" source="alien" target="aliquot" weight="0.012658" />
+      <edge id="61" source="alien" target="alienation" weight="0.015094" />
+      <edge id="62" source="alien" target="align" weight="0.006024" />
+      <edge id="63" source="alien" target="allot" weight="0.010417" />
+      <edge id="64" source="alien" target="alteration" weight="0.015873" />
+      <edge id="65" source="alien" target="alone" weight="0.045977" />
+      <edge id="66" source="alien" target="allocate" weight="0.011765" />
+      <edge id="67" source="alien" target="allow" weight="0.004651" />
+      <edge id="68" source="alien" target="allegory" weight="0.010471" />
+      <edge id="69" source="alien" target="aloof" weight="0.044715" />
+      <edge id="70" source="alien" target="alphabetarian" weight="0.006579" />
+      <edge id="71" source="alien" target="allergic" weight="0.011364" />
+      <edge id="72" source="alacrity" target="altruism" weight="0.015625" />
+      <edge id="73" source="alacrity" target="allow" weight="0.007752" />
+      <edge id="74" source="alacrity" target="allegiance" weight="0.025316" />
+      <edge id="75" source="alacrity" target="alienation" weight="0.005495" />
+      <edge id="76" source="alacrity" target="alluvium" weight="0.01" />
+      <edge id="77" source="alacrity" target="allowance" weight="0.005236" />
+      <edge id="78" source="alliance" target="alimony" weight="0.005348" />
+      <edge id="79" source="alliance" target="alphabetize" weight="0.005128" />
+      <edge id="80" source="alliance" target="alienation" weight="0.003333" />
+      <edge id="81" source="alliance" target="alibi" weight="0.005208" />
+      <edge id="82" source="alliance" target="allegiance" weight="0.015306" />
+      <edge id="83" source="alliance" target="alley" weight="0.008929" />
+      <edge id="84" source="alliance" target="alteration" weight="0.004484" />
+      <edge id="85" source="alliance" target="alchemy" weight="0.005102" />
+      <edge id="86" source="alliance" target="allied" weight="0.004608" />
+      <edge id="87" source="alliance" target="ally" weight="0.041667" />
+      <edge id="88" source="alliance" target="allow" weight="0.004049" />
+      <edge id="89" source="alliance" target="allegory" weight="0.027397" />
+      <edge id="90" source="alliance" target="aleatory" weight="0.004032" />
+      <edge id="91" source="alliance" target="alignment" weight="0.152047" />
+      <edge id="92" source="alliance" target="allowance" weight="0.009772" />
+      <edge id="93" source="alternative" target="alimony" weight="0.011494" />
+      <edge id="94" source="alternative" target="alphabetize" weight="0.010526" />
+      <edge id="95" source="alternative" target="alibi" weight="0.01087" />
+      <edge id="96" source="alternative" target="alienate" weight="0.008333" />
+      <edge id="97" source="alternative" target="alphabet" weight="0.009091" />
+      <edge id="98" source="alternative" target="alarm" weight="0.007353" />
+      <edge id="99" source="alternative" target="alteration" weight="0.00813" />
+      <edge id="100" source="alternative" target="alchemy" weight="0.010417" />
+      <edge id="101" source="alternative" target="allocate" weight="0.009709" />
+      <edge id="102" source="alternative" target="alienation" weight="0.01005" />
+      <edge id="103" source="alternative" target="allegory" weight="0.033058" />
+      <edge id="104" source="alternative" target="ally" weight="0.005747" />
+      <edge id="105" source="alternative" target="allege" weight="0.007407" />
+      <edge id="106" source="alternative" target="aleatory" weight="0.006757" />
+      <edge id="107" source="alternative" target="alignment" weight="0.010417" />
+      <edge id="108" source="alternative" target="allowance" weight="0.004785" />
+      <edge id="109" source="alignment" target="alimony" weight="0.017241" />
+      <edge id="110" source="alignment" target="alternate" weight="0.006098" />
+      <edge id="111" source="alignment" target="alteration" weight="0.032609" />
+      <edge id="112" source="alignment" target="allotment" weight="0.009091" />
+      <edge id="113" source="alignment" target="alienation" weight="0.005848" />
+      <edge id="114" source="alignment" target="allegory" weight="0.010526" />
+      <edge id="115" source="alignment" target="alloy" weight="0.028302" />
+      <edge id="116" source="alignment" target="aleatory" weight="0.008403" />
+      <edge id="117" source="alignment" target="ally" weight="0.006897" />
+      <edge id="118" source="alignment" target="allowance" weight="0.005556" />
+      <edge id="119" source="alveolus" target="alienation" weight="0.005405" />
+      <edge id="120" source="alimony" target="alimentation" weight="0.21875" />
+      <edge id="121" source="alimony" target="alternate" weight="0.006452" />
+      <edge id="122" source="alimony" target="allocation" weight="0.015152" />
+      <edge id="123" source="alimony" target="allotment" weight="0.2" />
+      <edge id="124" source="alimony" target="allot" weight="0.023256" />
+      <edge id="125" source="alimony" target="allow" weight="0.018519" />
+      <edge id="126" source="alimony" target="allowance" weight="0.109677" />
+      <edge id="127" source="alternate" target="albeit" weight="0.006897" />
+      <edge id="128" source="alternate" target="alphabetize" weight="0.006135" />
+      <edge id="129" source="alternate" target="although" weight="0.006897" />
+      <edge id="130" source="alternate" target="alibi" weight="0.00625" />
+      <edge id="131" source="alternate" target="alienate" weight="0.010695" />
+      <edge id="132" source="alternate" target="aliquot" weight="0.012658" />
+      <edge id="133" source="alternate" target="alphabet" weight="0.005618" />
+      <edge id="134" source="alternate" target="alarm" weight="0.014851" />
+      <edge id="135" source="alternate" target="alteration" weight="0.021277" />
+      <edge id="136" source="alternate" target="alley" weight="0.005181" />
+      <edge id="137" source="alternate" target="alchemy" weight="0.024845" />
+      <edge id="138" source="alternate" target="allocate" weight="0.005848" />
+      <edge id="139" source="alternate" target="alleviate" weight="0.005376" />
+      <edge id="140" source="alternate" target="allegory" weight="0.021164" />
+      <edge id="141" source="alternate" target="ally" weight="0.016736" />
+      <edge id="142" source="alternate" target="alienation" weight="0.007491" />
+      <edge id="143" source="alternate" target="aleatory" weight="0.00463" />
+      <edge id="144" source="alternate" target="allowance" weight="0.00361" />
+      <edge id="145" source="allotropy" target="alteration" weight="0.0625" />
+      <edge id="146" source="allotropy" target="alienation" weight="0.006944" />
+      <edge id="147" source="allotropy" target="aleatory" weight="0.01087" />
+      <edge id="148" source="alchemy" target="allusion" weight="0.018182" />
+      <edge id="149" source="alchemy" target="alteration" weight="0.091954" />
+      <edge id="150" source="alchemy" target="alley" weight="0.010417" />
+      <edge id="151" source="alchemy" target="allure" weight="0.072727" />
+      <edge id="152" source="alchemy" target="allegory" weight="0.010526" />
+      <edge id="153" source="alchemy" target="allurement" weight="0.014085" />
+      <edge id="154" source="alchemy" target="alter" weight="0.019608" />
+      <edge id="155" source="alchemy" target="allowance" weight="0.005556" />
+      <edge id="156" source="alphabetic" target="alphabetarian" weight="0.033333" />
+      <edge id="157" source="alter" target="alleviate" weight="0.095652" />
+      <edge id="158" source="alter" target="alienate" weight="0.007874" />
+      <edge id="159" source="alter" target="alienation" weight="0.004831" />
+      <edge id="160" source="alter" target="alteration" weight="0.048" />
+      <edge id="161" source="alter" target="allocate" weight="0.018349" />
+      <edge id="162" source="alter" target="allow" weight="0.013072" />
+      <edge id="163" source="alter" target="alkalize" weight="0.012195" />
+      <edge id="164" source="alter" target="allowance" weight="0.00463" />
+      <edge id="165" source="ally" target="aliquot" weight="0.007143" />
+      <edge id="166" source="ally" target="allegorize" weight="0.006289" />
+      <edge id="167" source="ally" target="allegiance" weight="0.006803" />
+      <edge id="168" source="ally" target="altarpiece" weight="0.021277" />
+      <edge id="169" source="ally" target="allied" weight="0.030864" />
+      <edge id="170" source="ally" target="alike" weight="0.021505" />
+      <edge id="171" source="ally" target="alienation" weight="0.008065" />
+      <edge id="172" source="ally" target="allegory" weight="0.00578" />
+      <edge id="173" source="ally" target="alloy" weight="0.027473" />
+      <edge id="174" source="ally" target="alluvium" weight="0.005988" />
+      <edge id="175" source="ally" target="allege" weight="0.010929" />
+      <edge id="176" source="ally" target="align" weight="0.006803" />
+      <edge id="177" source="allocate" target="alto" weight="0.015152" />
+      <edge id="178" source="allocate" target="allocation" weight="0.012195" />
+      <edge id="179" source="allocate" target="alphabetize" weight="0.027778" />
+      <edge id="180" source="allocate" target="allegation" weight="0.008696" />
+      <edge id="181" source="allocate" target="algorithm" weight="0.014925" />
+      <edge id="182" source="allocate" target="alienate" weight="0.020619" />
+      <edge id="183" source="allocate" target="align" weight="0.241935" />
+      <edge id="184" source="allocate" target="allegiance" weight="0.013158" />
+      <edge id="185" source="allocate" target="alley" weight="0.009709" />
+      <edge id="186" source="allocate" target="allotment" weight="0.035088" />
+      <edge id="187" source="allocate" target="allot" weight="0.405405" />
+      <edge id="188" source="allocate" target="allow" weight="0.041322" />
+      <edge id="189" source="allocate" target="alloy" weight="0.008696" />
+      <edge id="190" source="allocate" target="allay" weight="0.008065" />
+      <edge id="191" source="allocate" target="allege" weight="0.036364" />
+      <edge id="192" source="allocate" target="allowance" weight="0.016216" />
+      <edge id="193" source="alabaster" target="alveolar" weight="0.01087" />
+      <edge id="194" source="alabaster" target="align" weight="0.016949" />
+      <edge id="195" source="alabaster" target="albino" weight="0.03125" />
+      <edge id="196" source="alabaster" target="alike" weight="0.02" />
+      <edge id="197" source="alabaster" target="allow" weight="0.009259" />
+      <edge id="198" source="alabaster" target="albinism" weight="0.028571" />
+      <edge id="199" source="alabaster" target="allot" weight="0.011628" />
+      <edge id="200" source="altogether" target="albeit" weight="0.030303" />
+      <edge id="201" source="altogether" target="already" weight="0.015625" />
+      <edge id="202" source="altogether" target="aloft" weight="0.03125" />
+      <edge id="203" source="altogether" target="almighty" weight="0.019608" />
+      <edge id="204" source="altogether" target="also" weight="0.345455" />
+      <edge id="205" source="altogether" target="alias" weight="0.018182" />
+      <edge id="206" source="altogether" target="alright" weight="0.038462" />
+      <edge id="207" source="altogether" target="although" weight="0.030303" />
+      <edge id="208" source="altogether" target="aloof" weight="0.011299" />
+      <edge id="209" source="altogether" target="along" weight="0.065574" />
+      <edge id="210" source="altogether" target="alone" weight="0.019608" />
+      <edge id="211" source="altogether" target="alike" weight="0.007692" />
+      <edge id="212" source="aleatory" target="alto" weight="0.009009" />
+      <edge id="213" source="aleatory" target="alike" weight="0.006135" />
+      <edge id="214" source="aleatory" target="alkalize" weight="0.010204" />
+      <edge id="215" source="aleatory" target="almsman" weight="0.010526" />
+      <edge id="216" source="aleatory" target="almighty" weight="0.007353" />
+      <edge id="217" source="aleatory" target="alphabet" weight="0.007519" />
+      <edge id="218" source="aleatory" target="aloof" weight="0.009524" />
+      <edge id="219" source="aleatory" target="alveolar" weight="0.013072" />
+      <edge id="220" source="aleatory" target="alteration" weight="0.013793" />
+      <edge id="221" source="aleatory" target="allotment" weight="0.012422" />
+      <edge id="222" source="aleatory" target="alloy" weight="0.012579" />
+      <edge id="223" source="aleatory" target="allowance" weight="0.008658" />
+      <edge id="224" source="always" target="alike" weight="0.010101" />
+      <edge id="225" source="alteration" target="alley" weight="0.00813" />
+      <edge id="226" source="alteration" target="alienation" weight="0.047368" />
+      <edge id="227" source="alteration" target="allowance" weight="0.019608" />
+      <edge id="228" source="alkali" target="aliquot" weight="0.021277" />
+      <edge id="229" source="alkali" target="alloy" weight="0.010753" />
+      <edge id="230" source="allocution" target="allege" weight="0.010526" />
+      <edge id="231" source="allegation" target="allusion" weight="0.021053" />
+      <edge id="232" source="allegation" target="alibi" weight="0.009615" />
+      <edge id="233" source="allegation" target="allegorize" weight="0.008197" />
+      <edge id="234" source="allegation" target="allegiance" weight="0.009091" />
+      <edge id="235" source="allegation" target="allow" weight="0.012658" />
+      <edge id="236" source="allegation" target="allegory" weight="0.014815" />
+      <edge id="237" source="allegation" target="allege" weight="0.057143" />
+      <edge id="238" source="allegation" target="allowance" weight="0.023041" />
+      <edge id="239" source="allusion" target="alarm" weight="0.021277" />
+      <edge id="240" source="allusion" target="allegorize" weight="0.029412" />
+      <edge id="241" source="allusion" target="allegory" weight="0.333333" />
+      <edge id="242" source="allegorize" target="alleluia" weight="0.013889" />
+      <edge id="243" source="allegorize" target="alibi" weight="0.012987" />
+      <edge id="244" source="allegorize" target="allow" weight="0.015267" />
+      <edge id="245" source="allegorize" target="alarm" weight="0.008264" />
+      <edge id="246" source="allegorize" target="allied" weight="0.009804" />
+      <edge id="247" source="allegorize" target="allegory" weight="0.028037" />
+      <edge id="248" source="allegorize" target="allege" weight="0.043103" />
+      <edge id="249" source="alive" target="alveolar" weight="0.007299" />
+      <edge id="250" source="alive" target="algid" weight="0.037736" />
+      <edge id="251" source="alive" target="alfresco" weight="0.012658" />
+      <edge id="252" source="alive" target="alarm" weight="0.007042" />
+      <edge id="253" source="alive" target="alert" weight="0.159091" />
+      <edge id="254" source="alive" target="alright" weight="0.010417" />
+      <edge id="255" source="alive" target="allegro" weight="0.011628" />
+      <edge id="256" source="aloof" target="alienated" weight="0.149351" />
+      <edge id="257" source="aloof" target="algid" weight="0.030864" />
+      <edge id="258" source="aloof" target="alcohol" weight="0.005025" />
+      <edge id="259" source="aloof" target="alienate" weight="0.005464" />
+      <edge id="260" source="aloof" target="also" weight="0.013793" />
+      <edge id="261" source="aloof" target="alleviate" weight="0.011111" />
+      <edge id="262" source="allay" target="albeit" weight="0.010204" />
+      <edge id="263" source="allay" target="alleviative" weight="0.026316" />
+      <edge id="264" source="allay" target="algid" weight="0.008065" />
+      <edge id="265" source="allay" target="alkalize" weight="0.010417" />
+      <edge id="266" source="allay" target="alienate" weight="0.007092" />
+      <edge id="267" source="allay" target="alleviate" weight="0.489362" />
+      <edge id="268" source="allay" target="although" weight="0.010204" />
+      <edge id="269" source="allay" target="allow" weight="0.011976" />
+      <edge id="270" source="allay" target="allege" weight="0.00641" />
+      <edge id="271" source="album" target="alphabetize" weight="0.014925" />
+      <edge id="272" source="album" target="alleviate" weight="0.011111" />
+      <edge id="273" source="alcohol" target="alleviative" weight="0.04902" />
+      <edge id="274" source="alcohol" target="albumen" weight="0.008621" />
+      <edge id="275" source="allegory" target="alienated" weight="0.008929" />
+      <edge id="276" source="allegory" target="alphabetize" weight="0.010638" />
+      <edge id="277" source="allegory" target="alphabet" weight="0.037736" />
+      <edge id="278" source="allegory" target="allotment" weight="0.007246" />
+      <edge id="279" source="allegory" target="alienation" weight="0.010101" />
+      <edge id="280" source="allegory" target="alarm" weight="0.014925" />
+      <edge id="281" source="allegory" target="allowance" weight="0.004808" />
+      <edge id="282" source="alveolar" target="alibi" weight="0.010204" />
+      <edge id="283" source="alveolar" target="alcoholic" weight="0.019048" />
+      <edge id="284" source="alveolar" target="aliquot" weight="0.010309" />
+      <edge id="285" source="alveolar" target="alley" weight="0.007634" />
+      <edge id="286" source="algid" target="alleviative" weight="0.013699" />
+      <edge id="287" source="algid" target="alert" weight="0.01626" />
+      <edge id="288" source="althorn" target="alto" weight="0.027778" />
+      <edge id="289" source="althorn" target="alarm" weight="0.011905" />
+      <edge id="290" source="althorn" target="alert" weight="0.010638" />
+      <edge id="291" source="aloft" target="alienated" weight="0.015873" />
+      <edge id="292" source="aloft" target="also" weight="0.0625" />
+      <edge id="293" source="although" target="albeit" weight="0.875" />
+      <edge id="294" source="although" target="already" weight="0.125" />
+      <edge id="295" source="although" target="aliquot" weight="0.023256" />
+      <edge id="296" source="although" target="align" weight="0.02" />
+      <edge id="297" source="although" target="also" weight="0.058824" />
+      <edge id="298" source="although" target="alike" weight="0.01087" />
+      <edge id="299" source="although" target="alright" weight="0.02381" />
+      <edge id="300" source="although" target="alone" weight="0.015385" />
+      <edge id="301" source="although" target="along" weight="0.038462" />
+      <edge id="302" source="alone" target="alienated" weight="0.275" />
+      <edge id="303" source="alone" target="albeit" weight="0.015385" />
+      <edge id="304" source="alone" target="alienate" weight="0.009259" />
+      <edge id="305" source="alone" target="aliquot" weight="0.012658" />
+      <edge id="306" source="along" target="albeit" weight="0.038462" />
+      <edge id="307" source="along" target="already" weight="0.043478" />
+      <edge id="308" source="along" target="also" weight="0.137931" />
+      <edge id="309" source="along" target="alike" weight="0.011236" />
+      <edge id="310" source="alto" target="alienate" weight="0.012048" />
+      <edge id="311" source="alto" target="allowance" weight="0.005814" />
+      <edge id="312" source="alleviative" target="alleviate" weight="0.022989" />
+      <edge id="313" source="alleviative" target="allowance" weight="0.011236" />
+      <edge id="314" source="altarpiece" target="alphabet" weight="0.012658" />
+      <edge id="315" source="altarpiece" target="alienation" weight="0.005917" />
+      <edge id="316" source="allied" target="alike" weight="0.031008" />
+      <edge id="317" source="allotment" target="alphabetize" weight="0.009174" />
+      <edge id="318" source="allotment" target="alienation" weight="0.014151" />
+      <edge id="319" source="allotment" target="alienate" weight="0.007463" />
+      <edge id="320" source="allotment" target="allow" weight="0.031847" />
+      <edge id="321" source="allotment" target="allege" weight="0.006711" />
+      <edge id="322" source="allotment" target="allowance" weight="0.325444" />
+      <edge id="323" source="allowance" target="alimentation" weight="0.012579" />
+      <edge id="324" source="allowance" target="alibi" weight="0.017241" />
+      <edge id="325" source="allowance" target="alienation" weight="0.003521" />
+      <edge id="326" source="allowance" target="alcoholism" weight="0.006494" />
+      <edge id="327" source="allowance" target="allot" weight="0.02439" />
+      <edge id="328" source="allowance" target="allow" weight="0.06422" />
+      <edge id="329" source="allowance" target="allocation" weight="0.010695" />
+      <edge id="330" source="allowance" target="alpha" weight="0.011976" />
+      <edge id="331" source="allowance" target="alienate" weight="0.009852" />
+      <edge id="332" source="allowance" target="align" weight="0.005495" />
+      <edge id="333" source="alphabetize" target="allocation" weight="0.013514" />
+      <edge id="334" source="alphabetize" target="algorithm" weight="0.016949" />
+      <edge id="335" source="alphabetize" target="alienate" weight="0.011111" />
+      <edge id="336" source="alphabetize" target="alphabet" weight="0.0125" />
+      <edge id="337" source="alphabetize" target="align" weight="0.061538" />
+      <edge id="338" source="alphabetize" target="allegiance" weight="0.014706" />
+      <edge id="339" source="alphabetize" target="alley" weight="0.010526" />
+      <edge id="340" source="alphabetize" target="alarm" weight="0.009434" />
+      <edge id="341" source="alphabetize" target="alpha" weight="0.018519" />
+      <edge id="342" source="alphabetize" target="allot" weight="0.032258" />
+      <edge id="343" source="already" target="albeit" weight="0.125" />
+      <edge id="344" source="already" target="aliquot" weight="0.025" />
+      <edge id="345" source="already" target="also" weight="0.03125" />
+      <edge id="346" source="alleluia" target="allege" weight="0.010309" />
+      <edge id="347" source="allegiance" target="align" weight="0.014085" />
+      <edge id="348" source="allegiance" target="alley" weight="0.010204" />
+      <edge id="349" source="allegiance" target="altruism" weight="0.056604" />
+      <edge id="350" source="allegiance" target="allege" weight="0.009259" />
+      <edge id="351" source="allegiance" target="allot" weight="0.010204" />
+      <edge id="352" source="alliterative" target="alliteration" weight="0.173913" />
+      <edge id="353" source="allusive" target="aliquot" weight="0.02381" />
+      <edge id="354" source="allusive" target="allegorical" weight="0.166667" />
+      <edge id="355" source="almighty" target="aliquot" weight="0.025641" />
+      <edge id="356" source="allurement" target="alarm" weight="0.009009" />
+      <edge id="357" source="allergic" target="alienated" weight="0.010309" />
+      <edge id="358" source="allergic" target="allow" weight="0.007634" />
+      <edge id="359" source="aliquot" target="allegorical" weight="0.020408" />
+      <edge id="360" source="aliquot" target="albeit" weight="0.023256" />
+      <edge id="361" source="aliquot" target="align" weight="0.015625" />
+      <edge id="362" source="aliquot" target="alike" weight="0.009434" />
+      <edge id="363" source="aliquot" target="alpha" weight="0.02" />
+      <edge id="364" source="altruism" target="alienation" weight="0.006369" />
+      <edge id="365" source="albeit" target="align" weight="0.02" />
+      <edge id="366" source="albeit" target="also" weight="0.058824" />
+      <edge id="367" source="albeit" target="alike" weight="0.01087" />
+      <edge id="368" source="albeit" target="alright" weight="0.02381" />
+      <edge id="369" source="align" target="alleviate" weight="0.010989" />
+      <edge id="370" source="align" target="alley" weight="0.020619" />
+      <edge id="371" source="align" target="allow" weight="0.025424" />
+      <edge id="372" source="align" target="allege" weight="0.038095" />
+      <edge id="373" source="alluvium" target="allow" weight="0.007143" />
+      <edge id="374" source="almost" target="alley" weight="0.013889" />
+      <edge id="375" source="alley" target="alienate" weight="0.008333" />
+      <edge id="376" source="alley" target="allot" weight="0.008" />
+      <edge id="377" source="alley" target="alloy" weight="0.007299" />
+      <edge id="378" source="alley" target="alpha" weight="0.011905" />
+      <edge id="379" source="alike" target="also" weight="0.010204" />
+      <edge id="380" source="allege" target="alleviate" weight="0.007813" />
+      <edge id="381" source="allege" target="alibi" weight="0.009804" />
+      <edge id="382" source="allege" target="allocation" weight="0.008772" />
+      <edge id="383" source="allege" target="allow" weight="0.046358" />
+      <edge id="384" source="allege" target="allot" weight="0.038168" />
+      <edge id="385" source="alkalize" target="alleviate" weight="0.014706" />
+      <edge id="386" source="alkalize" target="allow" weight="0.010309" />
+      <edge id="387" source="alkalize" target="alloy" weight="0.011494" />
+      <edge id="388" source="alibi" target="algorithm" weight="0.017857" />
+      <edge id="389" source="allow" target="alienate" weight="0.028777" />
+      <edge id="390" source="allow" target="allot" weight="0.321429" />
+      <edge id="391" source="allow" target="alleviate" weight="0.021739" />
+      <edge id="392" source="also" target="alias" weight="0.043478" />
+      <edge id="393" source="alert" target="alarm" weight="0.082192" />
+      <edge id="394" source="allocation" target="alienation" weight="0.016949" />
+      <edge id="395" source="alienated" target="alienate" weight="0.009259" />
+      <edge id="396" source="alienated" target="alienation" weight="0.005319" />
+      <edge id="397" source="alienate" target="alienation" weight="0.026178" />
+      <edge id="398" source="alienate" target="allot" weight="0.034188" />
+      <edge id="399" source="alienate" target="alloy" weight="0.007576" />
+      <edge id="400" source="alienation" target="alphabet" weight="0.005405" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="yearly" label="yearly">
+        <attvalues>
+          <attvalue for="0" value="3.40157284568" />
+        </attvalues>
+      </node>
+      <node id="yelling" label="yelling">
+        <attvalues>
+          <attvalue for="0" value="3.68886456805" />
+        </attvalues>
+      </node>
+      <node id="yelp" label="yelp">
+        <attvalues>
+          <attvalue for="0" value="2.66275783168" />
+        </attvalues>
+      </node>
+      <node id="yen" label="yen">
+        <attvalues>
+          <attvalue for="0" value="3.21192108431" />
+        </attvalues>
+      </node>
+      <node id="yea" label="yea" />
+      <node id="yelping" label="yelping" />
+      <node id="yearling" label="yearling">
+        <attvalues>
+          <attvalue for="0" value="2.35218251811" />
+        </attvalues>
+      </node>
+      <node id="yell" label="yell" />
+      <node id="yearning" label="yearning" />
+      <node id="yearn" label="yearn">
+        <attvalues>
+          <attvalue for="0" value="2.78675142215" />
+        </attvalues>
+      </node>
+      <node id="yes" label="yes">
+        <attvalues>
+          <attvalue for="0" value="5.24530287266" />
+        </attvalues>
+      </node>
+      <node id="yearbook" label="yearbook" />
+      <node id="yet" label="yet" />
+    </nodes>
+    <edges>
+      <edge id="0" source="yearly" target="yearbook" weight="0.12069" />
+      <edge id="1" source="yelling" target="yelping" weight="0.866667" />
+      <edge id="2" source="yelp" target="yes" weight="0.013333" />
+      <edge id="3" source="yelp" target="yearling" weight="0.008264" />
+      <edge id="4" source="yelp" target="yell" weight="0.635514" />
+      <edge id="5" source="yen" target="yearning" weight="0.115385" />
+      <edge id="6" source="yen" target="yearn" weight="0.153846" />
+      <edge id="7" source="yea" target="yes" weight="0.275" />
+      <edge id="8" source="yell" target="yes" weight="0.022727" />
+      <edge id="9" source="yearning" target="yearn" weight="0.043478" />
+      <edge id="10" source="yes" target="yet" weight="0.009709" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="smirch" label="smirch" />
+      <node id="smoothly" label="smoothly" />
+      <node id="smashing" label="smashing" />
+      <node id="smother" label="smother" />
+      <node id="smug" label="smug" />
+      <node id="smirking" label="smirking" />
+      <node id="smirched" label="smirched" />
+      <node id="smarmy" label="smarmy" />
+      <node id="smiling" label="smiling" />
+      <node id="smite" label="smite" />
+      <node id="smirk" label="smirk" />
+      <node id="smutty" label="smutty" />
+      <node id="smile" label="smile" />
+      <node id="smashup" label="smashup" />
+      <node id="smart" label="smart" />
+      <node id="smell" label="smell" />
+      <node id="smatter" label="smatter" />
+      <node id="smolder" label="smolder" />
+      <node id="smut" label="smut" />
+      <node id="smudge" label="smudge" />
+      <node id="smudgy" label="smudgy" />
+      <node id="smack" label="smack" />
+      <node id="smoldering" label="smoldering" />
+      <node id="smoking" label="smoking" />
+      <node id="smothered" label="smothered" />
+      <node id="smash" label="smash" />
+      <node id="smear" label="smear" />
+      <node id="smoky" label="smoky" />
+      <node id="smooth" label="smooth" />
+      <node id="smooch" label="smooch" />
+      <node id="smattering" label="smattering" />
+      <node id="smoke" label="smoke" />
+      <node id="smashed" label="smashed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="smirch" target="smear" />
+      <edge id="1" source="smirch" target="smut" />
+      <edge id="2" source="smirch" target="smooch" />
+      <edge id="3" source="smirch" target="smoke" />
+      <edge id="4" source="smirch" target="smudge" />
+      <edge id="5" source="smoothly" target="smooth" />
+      <edge id="6" source="smashing" target="smash" />
+      <edge id="7" source="smother" target="smash" />
+      <edge id="8" source="smother" target="smear" />
+      <edge id="9" source="smother" target="smolder" />
+      <edge id="10" source="smug" target="smooth" />
+      <edge id="11" source="smug" target="smart" />
+      <edge id="12" source="smirking" target="smiling" />
+      <edge id="13" source="smirking" target="smart" />
+      <edge id="14" source="smirched" target="smudgy" />
+      <edge id="15" source="smirched" target="smoky" />
+      <edge id="16" source="smirched" target="smutty" />
+      <edge id="17" source="smarmy" target="smooth" />
+      <edge id="18" source="smiling" target="smirk" />
+      <edge id="19" source="smiling" target="smile" />
+      <edge id="20" source="smite" target="smack" />
+      <edge id="21" source="smirk" target="smile" />
+      <edge id="22" source="smutty" target="smudgy" />
+      <edge id="23" source="smutty" target="smoky" />
+      <edge id="24" source="smashup" target="smash" />
+      <edge id="25" source="smell" target="smack" />
+      <edge id="26" source="smell" target="smattering" />
+      <edge id="27" source="smatter" target="smash" />
+      <edge id="28" source="smatter" target="smattering" />
+      <edge id="29" source="smolder" target="smoke" />
+      <edge id="30" source="smut" target="smear" />
+      <edge id="31" source="smut" target="smudge" />
+      <edge id="32" source="smut" target="smoke" />
+      <edge id="33" source="smudge" target="smear" />
+      <edge id="34" source="smudge" target="smooch" />
+      <edge id="35" source="smudge" target="smoke" />
+      <edge id="36" source="smudgy" target="smoky" />
+      <edge id="37" source="smack" target="smooch" />
+      <edge id="38" source="smack" target="smattering" />
+      <edge id="39" source="smack" target="smash" />
+      <edge id="40" source="smoldering" target="smoking" />
+      <edge id="41" source="smoking" target="smoky" />
+      <edge id="42" source="smoking" target="smoke" />
+      <edge id="43" source="smothered" target="smashed" />
+      <edge id="44" source="smear" target="smoke" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="omit" label="omit" />
+      <node id="omission" label="omission" />
+      <node id="omnipotent" label="omnipotent">
+        <attvalues>
+          <attvalue for="0" value="2.43616264704" />
+        </attvalues>
+      </node>
+      <node id="omnipotence" label="omnipotence" />
+      <node id="omnibus" label="omnibus">
+        <attvalues>
+          <attvalue for="0" value="2.61909333063" />
+        </attvalues>
+      </node>
+      <node id="omniscient" label="omniscient" />
+      <node id="omnivorous" label="omnivorous">
+        <attvalues>
+          <attvalue for="0" value="2.03342375549" />
+        </attvalues>
+      </node>
+      <node id="omniscience" label="omniscience">
+        <attvalues>
+          <attvalue for="0" value="2.07188200731" />
+        </attvalues>
+      </node>
+      <node id="omnipresent" label="omnipresent" />
+      <node id="omitting" label="omitting">
+        <attvalues>
+          <attvalue for="0" value="2.49276038903" />
+        </attvalues>
+      </node>
+      <node id="omnipresence" label="omnipresence" />
+      <node id="ominous" label="ominous">
+        <attvalues>
+          <attvalue for="0" value="3.32694999417" />
+        </attvalues>
+      </node>
+      <node id="omen" label="omen" />
+    </nodes>
+    <edges>
+      <edge id="0" source="omit" target="omitting" weight="0.033898" />
+      <edge id="1" source="omission" target="ominous" weight="0.005181" />
+      <edge id="2" source="omission" target="omitting" weight="0.015152" />
+      <edge id="3" source="omnipotent" target="omnibus" weight="0.038835" />
+      <edge id="4" source="omnipotent" target="omnipresent" weight="0.486111" />
+      <edge id="5" source="omnipotent" target="omnivorous" weight="0.0125" />
+      <edge id="6" source="omnipotent" target="omniscient" weight="0.607143" />
+      <edge id="7" source="omnipotence" target="omniscience" weight="0.714286" />
+      <edge id="8" source="omnibus" target="omnipresent" weight="0.333333" />
+      <edge id="9" source="omnibus" target="omniscient" weight="0.025" />
+      <edge id="10" source="omniscient" target="omnivorous" weight="0.010417" />
+      <edge id="11" source="omnivorous" target="omnipresent" weight="0.00885" />
+      <edge id="12" source="omniscience" target="omnipresence" weight="0.454545" />
+      <edge id="13" source="ominous" target="omen" weight="0.009174" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="niggle" label="niggle" />
+      <node id="niggard" label="niggard" />
+      <node id="nitwit" label="nitwit" />
+      <node id="nibble" label="nibble" />
+      <node id="niggling" label="niggling" />
+      <node id="ninny" label="ninny" />
+      <node id="niggardly" label="niggardly" />
+      <node id="nick" label="nick" />
+      <node id="nix" label="nix" />
+      <node id="nitrogen" label="nitrogen" />
+      <node id="nitrate" label="nitrate" />
+      <node id="nip" label="nip" />
+      <node id="nincompoop" label="nincompoop" />
+      <node id="nit" label="nit" />
+      <node id="nice" label="nice" />
+    </nodes>
+    <edges>
+      <edge id="0" source="niggle" target="niggling" />
+      <edge id="1" source="niggle" target="nit" />
+      <edge id="2" source="niggard" target="niggardly" />
+      <edge id="3" source="nitwit" target="nincompoop" />
+      <edge id="4" source="nitwit" target="ninny" />
+      <edge id="5" source="nibble" target="nip" />
+      <edge id="6" source="niggling" target="nit" />
+      <edge id="7" source="niggling" target="nice" />
+      <edge id="8" source="ninny" target="nincompoop" />
+      <edge id="9" source="nick" target="nip" />
+      <edge id="10" source="nix" target="nit" />
+      <edge id="11" source="nitrogen" target="nitrate" />
+    </edges>
+  </graph>
+</gexf>

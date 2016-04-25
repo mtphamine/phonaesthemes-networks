@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="origin" label="origin" />
+      <node id="organize" label="organize" />
+      <node id="ordered" label="ordered" />
+      <node id="organized" label="organized" />
+      <node id="orbit" label="orbit" />
+      <node id="orgasm" label="orgasm" />
+      <node id="organizer" label="organizer" />
+      <node id="or" label="or" />
+      <node id="ordering" label="ordering" />
+      <node id="original" label="original" />
+      <node id="ornament" label="ornament" />
+      <node id="orgasmic" label="orgasmic" />
+      <node id="orbiting" label="orbiting" />
+      <node id="ordinary" label="ordinary" />
+      <node id="originator" label="originator" />
+      <node id="orgiastic" label="orgiastic" />
+      <node id="origination" label="origination" />
+      <node id="originative" label="originative" />
+      <node id="orb" label="orb" />
+      <node id="organic" label="organic" />
+      <node id="originate" label="originate" />
+      <node id="ordain" label="ordain" />
+      <node id="order" label="order" />
+      <node id="orderly" label="orderly" />
+      <node id="orgy" label="orgy" />
+      <node id="organization" label="organization" />
+      <node id="organism" label="organism" />
+      <node id="ordination" label="ordination" />
+    </nodes>
+    <edges>
+      <edge id="0" source="origin" target="origination" />
+      <edge id="1" source="origin" target="original" />
+      <edge id="2" source="organize" target="originate" />
+      <edge id="3" source="organize" target="order" />
+      <edge id="4" source="ordered" target="orderly" />
+      <edge id="5" source="ordered" target="organized" />
+      <edge id="6" source="organized" target="organic" />
+      <edge id="7" source="organized" target="orderly" />
+      <edge id="8" source="orbit" target="orbiting" />
+      <edge id="9" source="orbit" target="orb" />
+      <edge id="10" source="orgasm" target="orgy" />
+      <edge id="11" source="organizer" target="originator" />
+      <edge id="12" source="or" target="ordinary" />
+      <edge id="13" source="ordering" target="order" />
+      <edge id="14" source="original" target="originator" />
+      <edge id="15" source="original" target="origination" />
+      <edge id="16" source="original" target="originative" />
+      <edge id="17" source="ornament" target="order" />
+      <edge id="18" source="orgasmic" target="orgiastic" />
+      <edge id="19" source="ordain" target="order" />
+      <edge id="20" source="order" target="organization" />
+      <edge id="21" source="organization" target="organism" />
+      <edge id="22" source="organization" target="ordination" />
+    </edges>
+  </graph>
+</gexf>

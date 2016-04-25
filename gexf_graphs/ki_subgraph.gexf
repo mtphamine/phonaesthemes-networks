@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="kinfolk" label="kinfolk" />
+      <node id="kindhearted" label="kindhearted" />
+      <node id="kinky" label="kinky" />
+      <node id="kill" label="kill" />
+      <node id="kilocycle" label="kilocycle" />
+      <node id="kilo" label="kilo" />
+      <node id="kidney" label="kidney" />
+      <node id="kishkes" label="kishkes" />
+      <node id="kilometer" label="kilometer" />
+      <node id="kinked" label="kinked" />
+      <node id="kick" label="kick" />
+      <node id="kinesis" label="kinesis" />
+      <node id="kitty" label="kitty" />
+      <node id="kindred" label="kindred" />
+      <node id="kit" label="kit" />
+      <node id="kin" label="kin" />
+      <node id="kitten" label="kitten" />
+      <node id="kibosh" label="kibosh" />
+      <node id="kid" label="kid" />
+      <node id="kind" label="kind" />
+      <node id="kindly" label="kindly" />
+      <node id="kickback" label="kickback" />
+      <node id="kinetics" label="kinetics" />
+      <node id="kinsmen" label="kinsmen" />
+      <node id="kinship" label="kinship" />
+    </nodes>
+    <edges>
+      <edge id="0" source="kinfolk" target="kinsmen" />
+      <edge id="1" source="kinfolk" target="kindred" />
+      <edge id="2" source="kinfolk" target="kin" />
+      <edge id="3" source="kindhearted" target="kind" />
+      <edge id="4" source="kindhearted" target="kindly" />
+      <edge id="5" source="kinky" target="kinked" />
+      <edge id="6" source="kill" target="kibosh" />
+      <edge id="7" source="kilocycle" target="kilometer" />
+      <edge id="8" source="kilocycle" target="kilo" />
+      <edge id="9" source="kilo" target="kilometer" />
+      <edge id="10" source="kidney" target="kind" />
+      <edge id="11" source="kidney" target="kishkes" />
+      <edge id="12" source="kidney" target="kin" />
+      <edge id="13" source="kick" target="kickback" />
+      <edge id="14" source="kinesis" target="kinetics" />
+      <edge id="15" source="kitty" target="kitten" />
+      <edge id="16" source="kitty" target="kit" />
+      <edge id="17" source="kindred" target="kinsmen" />
+      <edge id="18" source="kindred" target="kin" />
+      <edge id="19" source="kindred" target="kinship" />
+      <edge id="20" source="kit" target="kitten" />
+      <edge id="21" source="kit" target="kid" />
+      <edge id="22" source="kin" target="kind" />
+      <edge id="23" source="kin" target="kinsmen" />
+      <edge id="24" source="kitten" target="kid" />
+      <edge id="25" source="kind" target="kindly" />
+    </edges>
+  </graph>
+</gexf>

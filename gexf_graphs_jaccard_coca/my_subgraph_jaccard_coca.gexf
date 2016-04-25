@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="mystery" label="mystery" />
+      <node id="mystical" label="mystical" />
+      <node id="mystifying" label="mystifying">
+        <attvalues>
+          <attvalue for="0" value="2.3384564936" />
+        </attvalues>
+      </node>
+      <node id="mythical" label="mythical">
+        <attvalues>
+          <attvalue for="0" value="3.11461098423" />
+        </attvalues>
+      </node>
+      <node id="myth" label="myth">
+        <attvalues>
+          <attvalue for="0" value="3.86616914763" />
+        </attvalues>
+      </node>
+      <node id="mystic" label="mystic">
+        <attvalues>
+          <attvalue for="0" value="3.05499586153" />
+        </attvalues>
+      </node>
+      <node id="mythological" label="mythological" />
+      <node id="mystification" label="mystification" />
+      <node id="mythos" label="mythos">
+        <attvalues>
+          <attvalue for="0" value="2.04532297879" />
+        </attvalues>
+      </node>
+      <node id="mythicize" label="mythicize">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="mysterious" label="mysterious" />
+      <node id="mysticism" label="mysticism" />
+      <node id="mythology" label="mythology" />
+    </nodes>
+    <edges>
+      <edge id="0" source="mystery" target="myth" weight="0.082418" />
+      <edge id="1" source="mystery" target="mythos" weight="0.079787" />
+      <edge id="2" source="mystery" target="mythicize" weight="0.006289" />
+      <edge id="3" source="mystical" target="mystic" weight="0.1" />
+      <edge id="4" source="mystical" target="mystifying" weight="0.05" />
+      <edge id="5" source="mystifying" target="mysterious" weight="0.130841" />
+      <edge id="6" source="mystifying" target="mystification" weight="0.016667" />
+      <edge id="7" source="mythical" target="mythological" weight="0.085714" />
+      <edge id="8" source="myth" target="mystification" weight="0.010753" />
+      <edge id="9" source="myth" target="mythos" weight="0.2" />
+      <edge id="10" source="myth" target="mythicize" weight="0.017241" />
+      <edge id="11" source="myth" target="mysticism" weight="0.016667" />
+      <edge id="12" source="myth" target="mythology" weight="0.387755" />
+      <edge id="13" source="mystic" target="mysterious" weight="0.06087" />
+      <edge id="14" source="mystification" target="mythos" weight="0.010101" />
+      <edge id="15" source="mythos" target="mythicize" weight="0.015625" />
+      <edge id="16" source="mythos" target="mysticism" weight="0.015152" />
+      <edge id="17" source="mythos" target="mythology" weight="0.275862" />
+      <edge id="18" source="mythicize" target="mythology" weight="0.033333" />
+    </edges>
+  </graph>
+</gexf>

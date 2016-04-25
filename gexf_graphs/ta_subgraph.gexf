@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="taupe" label="taupe" />
+      <node id="tap" label="tap" />
+      <node id="tar" label="tar" />
+      <node id="taxation" label="taxation" />
+      <node id="taste" label="taste" />
+      <node id="taxonomy" label="taxonomy" />
+      <node id="tailgate" label="tailgate" />
+      <node id="tax" label="tax" />
+      <node id="tailpiece" label="tailpiece" />
+      <node id="tableau" label="tableau" />
+      <node id="taproot" label="taproot" />
+      <node id="talking" label="talking" />
+      <node id="talky" label="talky" />
+      <node id="tag" label="tag" />
+      <node id="tasty" label="tasty" />
+      <node id="tarnished" label="tarnished" />
+      <node id="tab" label="tab" />
+      <node id="tang" label="tang" />
+      <node id="table" label="table" />
+      <node id="tan" label="tan" />
+      <node id="tangle" label="tangle" />
+      <node id="talkative" label="talkative" />
+      <node id="tattletale" label="tattletale" />
+      <node id="tabulate" label="tabulate" />
+      <node id="tamed" label="tamed" />
+      <node id="tattoo" label="tattoo" />
+      <node id="taps" label="taps" />
+      <node id="tasteful" label="tasteful" />
+      <node id="tablet" label="tablet" />
+      <node id="tarnish" label="tarnish" />
+      <node id="taxing" label="taxing" />
+      <node id="tattle" label="tattle" />
+      <node id="tame" label="tame" />
+      <node id="tauten" label="tauten" />
+      <node id="tail" label="tail" />
+      <node id="tape" label="tape" />
+      <node id="take" label="take" />
+      <node id="taxidermy" label="taxidermy" />
+      <node id="taproom" label="taproom" />
+      <node id="tabes" label="tabes" />
+      <node id="tainted" label="tainted" />
+      <node id="tachycardia" label="tachycardia" />
+      <node id="tacky" label="tacky" />
+      <node id="tattered" label="tattered" />
+      <node id="tatter" label="tatter" />
+      <node id="tatty" label="tatty" />
+      <node id="tawny" label="tawny" />
+      <node id="tactful" label="tactful" />
+      <node id="tabulation" label="tabulation" />
+      <node id="talebearer" label="talebearer" />
+      <node id="tally" label="tally" />
+      <node id="tact" label="tact" />
+      <node id="tabloid" label="tabloid" />
+      <node id="tapeworm" label="tapeworm" />
+      <node id="tack" label="tack" />
+      <node id="tantalizing" label="tantalizing" />
+      <node id="tampon" label="tampon" />
+      <node id="tackle" label="tackle" />
+      <node id="tapestry" label="tapestry" />
+      <node id="tariff" label="tariff" />
+      <node id="tabular" label="tabular" />
+      <node id="task" label="task" />
+      <node id="tawdry" label="tawdry" />
+      <node id="tapering" label="tapering" />
+      <node id="taper" label="taper" />
+      <node id="tavern" label="tavern" />
+      <node id="taking" label="taking" />
+      <node id="tabby" label="tabby" />
+      <node id="taint" label="taint" />
+      <node id="taleteller" label="taleteller" />
+      <node id="tale" label="tale" />
+      <node id="talebearing" label="talebearing" />
+      <node id="tableland" label="tableland" />
+      <node id="talkathon" label="talkathon" />
+      <node id="tactical" label="tactical" />
+      <node id="tapered" label="tapered" />
+      <node id="talk" label="talk" />
+    </nodes>
+    <edges>
+      <edge id="0" source="taupe" target="tan" />
+      <edge id="1" source="taupe" target="tawny" />
+      <edge id="2" source="tap" target="taproot" />
+      <edge id="3" source="tap" target="taproom" />
+      <edge id="4" source="tar" target="tarnish" />
+      <edge id="5" source="taxation" target="tax" />
+      <edge id="6" source="taste" target="tang" />
+      <edge id="7" source="taste" target="tapeworm" />
+      <edge id="8" source="taste" target="tact" />
+      <edge id="9" source="taste" target="take" />
+      <edge id="10" source="taste" target="taint" />
+      <edge id="11" source="taxonomy" target="taxidermy" />
+      <edge id="12" source="taxonomy" target="tabulation" />
+      <edge id="13" source="tailgate" target="tail" />
+      <edge id="14" source="tailgate" target="tag" />
+      <edge id="15" source="tax" target="task" />
+      <edge id="16" source="tax" target="tariff" />
+      <edge id="17" source="tax" target="taxing" />
+      <edge id="18" source="tailpiece" target="tail" />
+      <edge id="19" source="tailpiece" target="tag" />
+      <edge id="20" source="tailpiece" target="tab" />
+      <edge id="21" source="tableau" target="tapestry" />
+      <edge id="22" source="tableau" target="tab" />
+      <edge id="23" source="talking" target="talkative" />
+      <edge id="24" source="talking" target="talk" />
+      <edge id="25" source="talky" target="talkative" />
+      <edge id="26" source="tag" target="tatter" />
+      <edge id="27" source="tag" target="tally" />
+      <edge id="28" source="tag" target="tail" />
+      <edge id="29" source="tag" target="tab" />
+      <edge id="30" source="tasty" target="tasteful" />
+      <edge id="31" source="tarnished" target="tainted" />
+      <edge id="32" source="tab" target="tail" />
+      <edge id="33" source="tab" target="tariff" />
+      <edge id="34" source="tang" target="taint" />
+      <edge id="35" source="table" target="tableland" />
+      <edge id="36" source="table" target="tablet" />
+      <edge id="37" source="tan" target="tawny" />
+      <edge id="38" source="tangle" target="take" />
+      <edge id="39" source="tattletale" target="tabby" />
+      <edge id="40" source="tattletale" target="talebearer" />
+      <edge id="41" source="tattletale" target="taleteller" />
+      <edge id="42" source="tabulate" target="tally" />
+      <edge id="43" source="tabulate" target="tape" />
+      <edge id="44" source="tamed" target="tame" />
+      <edge id="45" source="tattoo" target="taps" />
+      <edge id="46" source="tarnish" target="taint" />
+      <edge id="47" source="tattle" target="tale" />
+      <edge id="48" source="tattle" target="talebearing" />
+      <edge id="49" source="tattle" target="talk" />
+      <edge id="50" source="tauten" target="tackle" />
+      <edge id="51" source="tape" target="tampon" />
+      <edge id="52" source="taproom" target="tavern" />
+      <edge id="53" source="tabes" target="tachycardia" />
+      <edge id="54" source="tacky" target="tatty" />
+      <edge id="55" source="tacky" target="tawdry" />
+      <edge id="56" source="tacky" target="tattered" />
+      <edge id="57" source="tattered" target="tatty" />
+      <edge id="58" source="tactful" target="tactical" />
+      <edge id="59" source="talebearer" target="tabby" />
+      <edge id="60" source="talebearer" target="taleteller" />
+      <edge id="61" source="tally" target="tale" />
+      <edge id="62" source="tabloid" target="tabular" />
+      <edge id="63" source="tack" target="tackle" />
+      <edge id="64" source="tantalizing" target="taking" />
+      <edge id="65" source="task" target="talk" />
+      <edge id="66" source="tapering" target="tapered" />
+      <edge id="67" source="tapering" target="taper" />
+      <edge id="68" source="tabby" target="taleteller" />
+      <edge id="69" source="tale" target="talebearing" />
+      <edge id="70" source="tale" target="talk" />
+      <edge id="71" source="talebearing" target="talk" />
+      <edge id="72" source="talkathon" target="talk" />
+    </edges>
+  </graph>
+</gexf>

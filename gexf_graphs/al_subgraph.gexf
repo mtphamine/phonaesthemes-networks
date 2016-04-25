@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="all" label="all" />
+      <node id="alliance" label="alliance" />
+      <node id="allusion" label="allusion" />
+      <node id="allergy" label="allergy" />
+      <node id="alive" label="alive" />
+      <node id="although" label="although" />
+      <node id="aloof" label="aloof" />
+      <node id="alternative" label="alternative" />
+      <node id="allay" label="allay" />
+      <node id="alignment" label="alignment" />
+      <node id="alimony" label="alimony" />
+      <node id="alimentation" label="alimentation" />
+      <node id="alternate" label="alternate" />
+      <node id="also" label="also" />
+      <node id="allocate" label="allocate" />
+      <node id="allegory" label="allegory" />
+      <node id="allotment" label="allotment" />
+      <node id="alleviate" label="alleviate" />
+      <node id="altar" label="altar" />
+      <node id="albino" label="albino" />
+      <node id="allocation" label="allocation" />
+      <node id="aloft" label="aloft" />
+      <node id="allergen" label="allergen" />
+      <node id="altogether" label="altogether" />
+      <node id="alone" label="alone" />
+      <node id="alert" label="alert" />
+      <node id="alienated" label="alienated" />
+      <node id="albeit" label="albeit" />
+      <node id="altarpiece" label="altarpiece" />
+      <node id="align" label="align" />
+      <node id="allot" label="allot" />
+      <node id="allow" label="allow" />
+      <node id="allowance" label="allowance" />
+      <node id="alarm" label="alarm" />
+      <node id="albinism" label="albinism" />
+    </nodes>
+    <edges>
+      <edge id="0" source="all" target="altogether" />
+      <edge id="1" source="alliance" target="alignment" />
+      <edge id="2" source="allusion" target="allegory" />
+      <edge id="3" source="allergy" target="allergen" />
+      <edge id="4" source="alive" target="alert" />
+      <edge id="5" source="although" target="albeit" />
+      <edge id="6" source="aloof" target="alone" />
+      <edge id="7" source="aloof" target="aloft" />
+      <edge id="8" source="aloof" target="alienated" />
+      <edge id="9" source="alternative" target="alternate" />
+      <edge id="10" source="allay" target="alleviate" />
+      <edge id="11" source="alimony" target="alimentation" />
+      <edge id="12" source="alimony" target="allotment" />
+      <edge id="13" source="alimony" target="allowance" />
+      <edge id="14" source="also" target="altogether" />
+      <edge id="15" source="allocate" target="align" />
+      <edge id="16" source="allocate" target="allot" />
+      <edge id="17" source="allocate" target="allow" />
+      <edge id="18" source="allotment" target="allocation" />
+      <edge id="19" source="allotment" target="allowance" />
+      <edge id="20" source="altar" target="altarpiece" />
+      <edge id="21" source="albino" target="albinism" />
+      <edge id="22" source="alone" target="alienated" />
+      <edge id="23" source="alert" target="alarm" />
+      <edge id="24" source="align" target="allot" />
+      <edge id="25" source="allot" target="allow" />
+    </edges>
+  </graph>
+</gexf>

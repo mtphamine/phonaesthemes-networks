@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="italic" label="italic">
+        <attvalues>
+          <attvalue for="0" value="1.75587485567" />
+        </attvalues>
+      </node>
+      <node id="itch" label="itch">
+        <attvalues>
+          <attvalue for="0" value="3.01953168453" />
+        </attvalues>
+      </node>
+      <node id="itemization" label="itemization" />
+      <node id="itemize" label="itemize">
+        <attvalues>
+          <attvalue for="0" value="2.12385164097" />
+        </attvalues>
+      </node>
+      <node id="iteration" label="iteration" />
+      <node id="itching" label="itching">
+        <attvalues>
+          <attvalue for="0" value="2.96894968098" />
+        </attvalues>
+      </node>
+      <node id="item" label="item" />
+      <node id="itinerary" label="itinerary">
+        <attvalues>
+          <attvalue for="0" value="3.00216606176" />
+        </attvalues>
+      </node>
+      <node id="items" label="items">
+        <attvalues>
+          <attvalue for="0" value="4.50928318874" />
+        </attvalues>
+      </node>
+      <node id="iterate" label="iterate" />
+      <node id="itchy" label="itchy" />
+      <node id="italicized" label="italicized" />
+    </nodes>
+    <edges>
+      <edge id="0" source="italic" target="item" weight="0.012821" />
+      <edge id="1" source="italic" target="italicized" weight="0.27451" />
+      <edge id="2" source="itch" target="itching" weight="0.054545" />
+      <edge id="3" source="itch" target="itchy" weight="0.012821" />
+      <edge id="4" source="itemization" target="items" weight="0.137931" />
+      <edge id="5" source="itemization" target="itemize" weight="0.053191" />
+      <edge id="6" source="itemization" target="itinerary" weight="0.030769" />
+      <edge id="7" source="itemize" target="iteration" weight="0.013699" />
+      <edge id="8" source="itemize" target="item" weight="0.024242" />
+      <edge id="9" source="itemize" target="itinerary" weight="0.027027" />
+      <edge id="10" source="itemize" target="items" weight="0.086957" />
+      <edge id="11" source="itemize" target="iterate" weight="0.073529" />
+      <edge id="12" source="itching" target="itchy" weight="0.008621" />
+      <edge id="13" source="item" target="items" weight="0.022556" />
+      <edge id="14" source="itinerary" target="items" weight="0.04878" />
+    </edges>
+  </graph>
+</gexf>

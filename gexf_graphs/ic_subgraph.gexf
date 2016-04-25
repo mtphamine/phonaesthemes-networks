@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="icy" label="icy" />
+      <node id="iceberg" label="iceberg" />
+      <node id="ice" label="ice" />
+      <node id="icicle" label="icicle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="icy" target="ice" />
+      <edge id="1" source="iceberg" target="ice" />
+      <edge id="2" source="iceberg" target="icicle" />
+      <edge id="3" source="ice" target="icicle" />
+    </edges>
+  </graph>
+</gexf>

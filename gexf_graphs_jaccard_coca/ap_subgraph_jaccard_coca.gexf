@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="appease" label="appease" />
+      <node id="apostatize" label="apostatize" />
+      <node id="appetite" label="appetite" />
+      <node id="apostasy" label="apostasy">
+        <attvalues>
+          <attvalue for="0" value="2.18184358794" />
+        </attvalues>
+      </node>
+      <node id="appeasement" label="appeasement">
+        <attvalues>
+          <attvalue for="0" value="2.61384182188" />
+        </attvalues>
+      </node>
+      <node id="apace" label="apace" />
+      <node id="apothegm" label="apothegm" />
+      <node id="apex" label="apex">
+        <attvalues>
+          <attvalue for="0" value="2.97358962343" />
+        </attvalues>
+      </node>
+      <node id="aplomb" label="aplomb" />
+      <node id="apogee" label="apogee" />
+      <node id="aphorism" label="aphorism" />
+      <node id="appointment" label="appointment" />
+      <node id="appropriation" label="appropriation">
+        <attvalues>
+          <attvalue for="0" value="3.19368102954" />
+        </attvalues>
+      </node>
+      <node id="apart" label="apart" />
+      <node id="apartheid" label="apartheid" />
+      <node id="applicable" label="applicable" />
+      <node id="apologia" label="apologia">
+        <attvalues>
+          <attvalue for="0" value="1.91381385238" />
+        </attvalues>
+      </node>
+      <node id="apposite" label="apposite" />
+      <node id="approaching" label="approaching">
+        <attvalues>
+          <attvalue for="0" value="3.88722333136" />
+        </attvalues>
+      </node>
+      <node id="appertaining" label="appertaining" />
+      <node id="appearance" label="appearance">
+        <attvalues>
+          <attvalue for="0" value="4.24264079782" />
+        </attvalues>
+      </node>
+      <node id="aplenty" label="aplenty">
+        <attvalues>
+          <attvalue for="0" value="2.35218251811" />
+        </attvalues>
+      </node>
+      <node id="apotheosis" label="apotheosis">
+        <attvalues>
+          <attvalue for="0" value="2.38738982634" />
+        </attvalues>
+      </node>
+      <node id="approximation" label="approximation" />
+      <node id="appurtenance" label="appurtenance">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="append" label="append">
+        <attvalues>
+          <attvalue for="0" value="1.77085201164" />
+        </attvalues>
+      </node>
+      <node id="appear" label="appear" />
+      <node id="apparatus" label="apparatus">
+        <attvalues>
+          <attvalue for="0" value="3.45438746715" />
+        </attvalues>
+      </node>
+      <node id="appreciative" label="appreciative">
+        <attvalues>
+          <attvalue for="0" value="3.01114736078" />
+        </attvalues>
+      </node>
+      <node id="apologetic" label="apologetic" />
+      <node id="appeal" label="appeal">
+        <attvalues>
+          <attvalue for="0" value="4.25818216037" />
+        </attvalues>
+      </node>
+      <node id="approach" label="approach">
+        <attvalues>
+          <attvalue for="0" value="4.75194082169" />
+        </attvalues>
+      </node>
+      <node id="apathetic" label="apathetic" />
+      <node id="apocalyptic" label="apocalyptic">
+        <attvalues>
+          <attvalue for="0" value="3.0" />
+        </attvalues>
+      </node>
+      <node id="apostolic" label="apostolic" />
+      <node id="apparition" label="apparition">
+        <attvalues>
+          <attvalue for="0" value="2.83378437466" />
+        </attvalues>
+      </node>
+      <node id="appointments" label="appointments" />
+      <node id="approval" label="approval">
+        <attvalues>
+          <attvalue for="0" value="4.1330276729" />
+        </attvalues>
+      </node>
+      <node id="apish" label="apish" />
+      <node id="apostate" label="apostate">
+        <attvalues>
+          <attvalue for="0" value="2.09342168516" />
+        </attvalues>
+      </node>
+      <node id="appropriateness" label="appropriateness">
+        <attvalues>
+          <attvalue for="0" value="2.97034687623" />
+        </attvalues>
+      </node>
+      <node id="approve" label="approve">
+        <attvalues>
+          <attvalue for="0" value="3.70629095726" />
+        </attvalues>
+      </node>
+      <node id="apprehensive" label="apprehensive" />
+      <node id="apt" label="apt" />
+      <node id="appropriate" label="appropriate" />
+      <node id="aptitude" label="aptitude" />
+      <node id="apologize" label="apologize" />
+      <node id="apply" label="apply">
+        <attvalues>
+          <attvalue for="0" value="4.28016846521" />
+        </attvalues>
+      </node>
+      <node id="ape" label="ape">
+        <attvalues>
+          <attvalue for="0" value="3.20276068739" />
+        </attvalues>
+      </node>
+      <node id="apostle" label="apostle" />
+      <node id="appall" label="appall">
+        <attvalues>
+          <attvalue for="0" value="1.56820172407" />
+        </attvalues>
+      </node>
+      <node id="approximate" label="approximate" />
+      <node id="approximately" label="approximately" />
+      <node id="aperture" label="aperture" />
+      <node id="apparent" label="apparent">
+        <attvalues>
+          <attvalue for="0" value="4.14739803935" />
+        </attvalues>
+      </node>
+      <node id="approachable" label="approachable" />
+      <node id="appreciation" label="appreciation" />
+      <node id="appendix" label="appendix">
+        <attvalues>
+          <attvalue for="0" value="3.29136885045" />
+        </attvalues>
+      </node>
+      <node id="apologist" label="apologist" />
+      <node id="apprentice" label="apprentice" />
+      <node id="apportion" label="apportion" />
+      <node id="apprehension" label="apprehension" />
+      <node id="appliance" label="appliance">
+        <attvalues>
+          <attvalue for="0" value="3.0715138051" />
+        </attvalues>
+      </node>
+      <node id="aptness" label="aptness">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="apologetics" label="apologetics" />
+      <node id="appealing" label="appealing" />
+      <node id="apocryphal" label="apocryphal">
+        <attvalues>
+          <attvalue for="0" value="2.35410843915" />
+        </attvalues>
+      </node>
+      <node id="appendage" label="appendage" />
+      <node id="apoplexy" label="apoplexy">
+        <attvalues>
+          <attvalue for="0" value="1.80617997398" />
+        </attvalues>
+      </node>
+      <node id="appraisal" label="appraisal" />
+      <node id="appraise" label="appraise">
+        <attvalues>
+          <attvalue for="0" value="2.46834733041" />
+        </attvalues>
+      </node>
+      <node id="apprehend" label="apprehend">
+        <attvalues>
+          <attvalue for="0" value="2.56820172407" />
+        </attvalues>
+      </node>
+      <node id="apropos" label="apropos">
+        <attvalues>
+          <attvalue for="0" value="2.38916608436" />
+        </attvalues>
+      </node>
+      <node id="appetizing" label="appetizing" />
+      <node id="apparently" label="apparently">
+        <attvalues>
+          <attvalue for="0" value="4.4546009771" />
+        </attvalues>
+      </node>
+      <node id="appanage" label="appanage" />
+      <node id="apprise" label="apprise">
+        <attvalues>
+          <attvalue for="0" value="1.7242758696" />
+        </attvalues>
+      </node>
+      <node id="application" label="application">
+        <attvalues>
+          <attvalue for="0" value="4.18650429849" />
+        </attvalues>
+      </node>
+      <node id="appellation" label="appellation" />
+      <node id="applaud" label="applaud">
+        <attvalues>
+          <attvalue for="0" value="3.25017594808" />
+        </attvalues>
+      </node>
+      <node id="appreciably" label="appreciably" />
+      <node id="appurtenances" label="appurtenances" />
+      <node id="appreciable" label="appreciable" />
+      <node id="apprenticeship" label="apprenticeship">
+        <attvalues>
+          <attvalue for="0" value="2.91907809238" />
+        </attvalues>
+      </node>
+      <node id="approved" label="approved">
+        <attvalues>
+          <attvalue for="0" value="4.13219562957" />
+        </attvalues>
+      </node>
+      <node id="appoint" label="appoint" />
+      <node id="apocalypse" label="apocalypse">
+        <attvalues>
+          <attvalue for="0" value="2.99913054129" />
+        </attvalues>
+      </node>
+      <node id="applause" label="applause">
+        <attvalues>
+          <attvalue for="0" value="3.72172819857" />
+        </attvalues>
+      </node>
+      <node id="apology" label="apology">
+        <attvalues>
+          <attvalue for="0" value="3.57703198563" />
+        </attvalues>
+      </node>
+      <node id="apathy" label="apathy" />
+      <node id="appreciate" label="appreciate" />
+      <node id="appalling" label="appalling">
+        <attvalues>
+          <attvalue for="0" value="3.13289976994" />
+        </attvalues>
+      </node>
+      <node id="approbation" label="approbation">
+        <attvalues>
+          <attvalue for="0" value="2.18469143082" />
+        </attvalues>
+      </node>
+      <node id="apparel" label="apparel" />
+      <node id="apse" label="apse">
+        <attvalues>
+          <attvalue for="0" value="1.90848501888" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="appease" target="appeasement" weight="0.010204" />
+      <edge id="1" source="appease" target="application" weight="0.005291" />
+      <edge id="2" source="apostatize" target="apostasy" weight="0.022727" />
+      <edge id="3" source="apostatize" target="apostate" weight="0.055556" />
+      <edge id="4" source="appetite" target="apprehend" weight="0.007463" />
+      <edge id="5" source="appetite" target="apparition" weight="0.013699" />
+      <edge id="6" source="appetite" target="appliance" weight="0.008" />
+      <edge id="7" source="appetite" target="application" weight="0.014925" />
+      <edge id="8" source="appetite" target="approbation" weight="0.022059" />
+      <edge id="9" source="appetite" target="appendix" weight="0.007692" />
+      <edge id="10" source="appetite" target="appearance" weight="0.005319" />
+      <edge id="11" source="appetite" target="approval" weight="0.022556" />
+      <edge id="12" source="appetite" target="appeal" weight="0.006329" />
+      <edge id="13" source="appetite" target="approach" weight="0.005935" />
+      <edge id="14" source="apostasy" target="appearance" weight="0.005236" />
+      <edge id="15" source="apostasy" target="apologize" weight="0.012821" />
+      <edge id="16" source="apostasy" target="apt" weight="0.004902" />
+      <edge id="17" source="apostasy" target="apotheosis" weight="0.007143" />
+      <edge id="18" source="apostasy" target="approximation" weight="0.005181" />
+      <edge id="19" source="apostasy" target="appropriate" weight="0.004065" />
+      <edge id="20" source="apostasy" target="aptitude" weight="0.011561" />
+      <edge id="21" source="apostasy" target="apropos" weight="0.008929" />
+      <edge id="22" source="apostasy" target="apply" weight="0.008" />
+      <edge id="23" source="apostasy" target="appurtenance" weight="0.00641" />
+      <edge id="24" source="apostasy" target="appeasement" weight="0.008696" />
+      <edge id="25" source="apostasy" target="appropriation" weight="0.008065" />
+      <edge id="26" source="apostasy" target="apprenticeship" weight="0.010526" />
+      <edge id="27" source="apostasy" target="apprentice" weight="0.005882" />
+      <edge id="28" source="apostasy" target="apposite" weight="0.009259" />
+      <edge id="29" source="apostasy" target="apology" weight="0.007813" />
+      <edge id="30" source="apostasy" target="apartheid" weight="0.009259" />
+      <edge id="31" source="apostasy" target="apathy" weight="0.013158" />
+      <edge id="32" source="apostasy" target="appliance" weight="0.007813" />
+      <edge id="33" source="apostasy" target="applicable" weight="0.007519" />
+      <edge id="34" source="apostasy" target="aptness" weight="0.01087" />
+      <edge id="35" source="apostasy" target="apostate" weight="0.025" />
+      <edge id="36" source="apostasy" target="appendage" weight="0.005917" />
+      <edge id="37" source="apostasy" target="apoplexy" weight="0.016529" />
+      <edge id="38" source="appeasement" target="approximation" weight="0.006536" />
+      <edge id="39" source="appeasement" target="apartheid" weight="0.014706" />
+      <edge id="40" source="appeasement" target="aplomb" weight="0.016393" />
+      <edge id="41" source="apace" target="apparently" weight="0.022222" />
+      <edge id="42" source="apothegm" target="appearance" weight="0.006329" />
+      <edge id="43" source="apothegm" target="apocalypse" weight="0.012821" />
+      <edge id="44" source="apothegm" target="approach" weight="0.003247" />
+      <edge id="45" source="apothegm" target="apprise" weight="0.015873" />
+      <edge id="46" source="apex" target="appear" weight="0.008333" />
+      <edge id="47" source="apex" target="apparition" weight="0.006757" />
+      <edge id="48" source="apex" target="appreciate" weight="0.010582" />
+      <edge id="49" source="apex" target="apotheosis" weight="0.022059" />
+      <edge id="50" source="apex" target="appreciation" weight="0.026042" />
+      <edge id="51" source="apex" target="appropriate" weight="0.00823" />
+      <edge id="52" source="apex" target="apply" weight="0.00813" />
+      <edge id="53" source="apex" target="apoplexy" weight="0.008333" />
+      <edge id="54" source="apex" target="approach" weight="0.00295" />
+      <edge id="55" source="apex" target="apogee" weight="0.294118" />
+      <edge id="56" source="apex" target="apprentice" weight="0.005952" />
+      <edge id="57" source="aplomb" target="application" weight="0.006579" />
+      <edge id="58" source="aplomb" target="apparition" weight="0.010417" />
+      <edge id="59" source="aplomb" target="appearance" weight="0.007299" />
+      <edge id="60" source="aplomb" target="apprenticeship" weight="0.02439" />
+      <edge id="61" source="apogee" target="apoplexy" weight="0.01" />
+      <edge id="62" source="apogee" target="apotheosis" weight="0.017094" />
+      <edge id="63" source="aphorism" target="appearance" weight="0.006329" />
+      <edge id="64" source="aphorism" target="apocalypse" weight="0.012821" />
+      <edge id="65" source="aphorism" target="approach" weight="0.003247" />
+      <edge id="66" source="aphorism" target="apprise" weight="0.015873" />
+      <edge id="67" source="appointment" target="approach" weight="0.011976" />
+      <edge id="68" source="appointment" target="apparition" weight="0.013793" />
+      <edge id="69" source="appointment" target="appliance" weight="0.008065" />
+      <edge id="70" source="appointment" target="apprise" weight="0.01087" />
+      <edge id="71" source="appointment" target="apotheosis" weight="0.007353" />
+      <edge id="72" source="appointment" target="application" weight="0.030457" />
+      <edge id="73" source="appointment" target="approbation" weight="0.007299" />
+      <edge id="74" source="appointment" target="appropriation" weight="0.061404" />
+      <edge id="75" source="appointment" target="apply" weight="0.008264" />
+      <edge id="76" source="appointment" target="approval" weight="0.007463" />
+      <edge id="77" source="appointment" target="apoplexy" weight="0.008475" />
+      <edge id="78" source="appointment" target="appropriateness" weight="0.011765" />
+      <edge id="79" source="appointment" target="appurtenance" weight="0.006579" />
+      <edge id="80" source="appointment" target="approaching" weight="0.007813" />
+      <edge id="81" source="appropriation" target="appanage" weight="0.011628" />
+      <edge id="82" source="appropriation" target="apprehension" weight="0.006849" />
+      <edge id="83" source="appropriation" target="apathy" weight="0.016529" />
+      <edge id="84" source="appropriation" target="appearance" weight="0.012579" />
+      <edge id="85" source="appropriation" target="appealing" weight="0.008547" />
+      <edge id="86" source="appropriation" target="apotheosis" weight="0.009174" />
+      <edge id="87" source="appropriation" target="approximation" weight="0.012422" />
+      <edge id="88" source="appropriation" target="application" weight="0.02924" />
+      <edge id="89" source="appropriation" target="appropriate" weight="0.018868" />
+      <edge id="90" source="appropriation" target="apocryphal" weight="0.009524" />
+      <edge id="91" source="appropriation" target="appetizing" weight="0.009709" />
+      <edge id="92" source="appropriation" target="appendage" weight="0.007246" />
+      <edge id="93" source="appropriation" target="approach" weight="0.006472" />
+      <edge id="94" source="appropriation" target="apoplexy" weight="0.010989" />
+      <edge id="95" source="appropriation" target="appurtenance" weight="0.008" />
+      <edge id="96" source="apart" target="apparent" weight="0.006289" />
+      <edge id="97" source="apart" target="appurtenance" weight="0.006667" />
+      <edge id="98" source="applicable" target="approach" weight="0.003135" />
+      <edge id="99" source="applicable" target="apropos" weight="0.516667" />
+      <edge id="100" source="applicable" target="apoplexy" weight="0.01" />
+      <edge id="101" source="applicable" target="appurtenance" weight="0.007463" />
+      <edge id="102" source="applicable" target="approved" weight="0.025641" />
+      <edge id="103" source="apologia" target="apologetic" weight="0.041667" />
+      <edge id="104" source="apologia" target="apologist" weight="0.016667" />
+      <edge id="105" source="apologia" target="apology" weight="0.277778" />
+      <edge id="106" source="apologia" target="apologetics" weight="0.555556" />
+      <edge id="107" source="apposite" target="appurtenance" weight="0.009174" />
+      <edge id="108" source="apposite" target="apoplexy" weight="0.013333" />
+      <edge id="109" source="apposite" target="approved" weight="0.010638" />
+      <edge id="110" source="apposite" target="apropos" weight="0.833333" />
+      <edge id="111" source="approaching" target="apocalyptic" weight="0.03" />
+      <edge id="112" source="approaching" target="apprehension" weight="0.006494" />
+      <edge id="113" source="approaching" target="apparition" weight="0.015873" />
+      <edge id="114" source="approaching" target="appearance" weight="0.005952" />
+      <edge id="115" source="approaching" target="approximate" weight="0.14" />
+      <edge id="116" source="approaching" target="apt" weight="0.01676" />
+      <edge id="117" source="approaching" target="apotheosis" weight="0.008547" />
+      <edge id="118" source="approaching" target="approximation" weight="0.023952" />
+      <edge id="119" source="approaching" target="approach" weight="0.022436" />
+      <edge id="120" source="approaching" target="ape" weight="0.016807" />
+      <edge id="121" source="appertaining" target="apropos" weight="0.2" />
+      <edge id="122" source="appearance" target="apotheosis" weight="0.005682" />
+      <edge id="123" source="appearance" target="approximation" weight="0.022222" />
+      <edge id="124" source="appearance" target="ape" weight="0.005587" />
+      <edge id="125" source="appearance" target="appear" weight="0.025806" />
+      <edge id="126" source="appearance" target="apparently" weight="0.007246" />
+      <edge id="127" source="appearance" target="approximate" weight="0.011696" />
+      <edge id="128" source="appearance" target="approach" weight="0.032787" />
+      <edge id="129" source="appearance" target="apocalyptic" weight="0.006211" />
+      <edge id="130" source="appearance" target="apparition" weight="0.307692" />
+      <edge id="131" source="appearance" target="apparent" weight="0.020202" />
+      <edge id="132" source="appearance" target="apparel" weight="0.006944" />
+      <edge id="133" source="appearance" target="apprentice" weight="0.004854" />
+      <edge id="134" source="appearance" target="appurtenance" weight="0.010471" />
+      <edge id="135" source="appearance" target="apology" weight="0.078431" />
+      <edge id="136" source="appearance" target="apprehension" weight="0.009434" />
+      <edge id="137" source="appearance" target="appreciate" weight="0.004386" />
+      <edge id="138" source="appearance" target="apocryphal" weight="0.005814" />
+      <edge id="139" source="appearance" target="appendage" weight="0.004878" />
+      <edge id="140" source="appearance" target="apocalypse" weight="0.034965" />
+      <edge id="141" source="appearance" target="approve" weight="0.010929" />
+      <edge id="142" source="appearance" target="appraise" weight="0.006135" />
+      <edge id="143" source="aplenty" target="appealing" weight="0.008403" />
+      <edge id="144" source="apotheosis" target="appreciate" weight="0.034884" />
+      <edge id="145" source="apotheosis" target="approximation" weight="0.005618" />
+      <edge id="146" source="apotheosis" target="apprenticeship" weight="0.025316" />
+      <edge id="147" source="apotheosis" target="ape" weight="0.015748" />
+      <edge id="148" source="apotheosis" target="application" weight="0.015873" />
+      <edge id="149" source="apotheosis" target="appall" weight="0.011765" />
+      <edge id="150" source="apotheosis" target="approximate" weight="0.016667" />
+      <edge id="151" source="apotheosis" target="appreciative" weight="0.011364" />
+      <edge id="152" source="apotheosis" target="approach" weight="0.006154" />
+      <edge id="153" source="apotheosis" target="applaud" weight="0.010753" />
+      <edge id="154" source="apotheosis" target="appreciation" weight="0.157233" />
+      <edge id="155" source="apotheosis" target="approval" weight="0.215686" />
+      <edge id="156" source="apotheosis" target="applause" weight="0.048193" />
+      <edge id="157" source="apotheosis" target="appraisal" weight="0.021053" />
+      <edge id="158" source="apotheosis" target="approbation" weight="0.209524" />
+      <edge id="159" source="apotheosis" target="apoplexy" weight="0.009346" />
+      <edge id="160" source="apotheosis" target="approve" weight="0.015152" />
+      <edge id="161" source="approximation" target="approach" weight="0.120944" />
+      <edge id="162" source="approximation" target="apology" weight="0.006024" />
+      <edge id="163" source="approximation" target="appendix" weight="0.011765" />
+      <edge id="164" source="approximation" target="apocryphal" weight="0.005747" />
+      <edge id="165" source="approximation" target="application" weight="0.00823" />
+      <edge id="166" source="approximation" target="approbation" weight="0.016949" />
+      <edge id="167" source="approximation" target="approval" weight="0.017241" />
+      <edge id="168" source="approximation" target="apprenticeship" weight="0.007519" />
+      <edge id="169" source="approximation" target="apparition" weight="0.010695" />
+      <edge id="170" source="approximation" target="appraise" weight="0.018405" />
+      <edge id="171" source="approximation" target="appurtenance" weight="0.020942" />
+      <edge id="172" source="approximation" target="apoplexy" weight="0.00625" />
+      <edge id="173" source="approximation" target="apply" weight="0.012346" />
+      <edge id="174" source="approximation" target="ape" weight="0.005525" />
+      <edge id="175" source="appurtenance" target="appliance" weight="0.048387" />
+      <edge id="176" source="appurtenance" target="apt" weight="0.004878" />
+      <edge id="177" source="appurtenance" target="appropriate" weight="0.012245" />
+      <edge id="178" source="appurtenance" target="aptitude" weight="0.017341" />
+      <edge id="179" source="appurtenance" target="apropos" weight="0.00885" />
+      <edge id="180" source="appurtenance" target="append" weight="0.010638" />
+      <edge id="181" source="appurtenance" target="appanage" weight="0.322222" />
+      <edge id="182" source="appurtenance" target="apparatus" weight="0.016949" />
+      <edge id="183" source="appurtenance" target="application" weight="0.024631" />
+      <edge id="184" source="appurtenance" target="appeal" weight="0.006173" />
+      <edge id="185" source="appurtenance" target="appellation" weight="0.010101" />
+      <edge id="186" source="appurtenance" target="appreciably" weight="0.010309" />
+      <edge id="187" source="appurtenance" target="appurtenances" weight="0.009434" />
+      <edge id="188" source="appurtenance" target="appreciation" weight="0.020408" />
+      <edge id="189" source="appurtenance" target="appointments" weight="0.009434" />
+      <edge id="190" source="appurtenance" target="appendix" weight="0.046512" />
+      <edge id="191" source="appurtenance" target="approved" weight="0.007042" />
+      <edge id="192" source="appurtenance" target="appoint" weight="0.01626" />
+      <edge id="193" source="appurtenance" target="apology" weight="0.015625" />
+      <edge id="194" source="appurtenance" target="apportion" weight="0.01626" />
+      <edge id="195" source="appurtenance" target="appreciate" weight="0.005181" />
+      <edge id="196" source="appurtenance" target="aptness" weight="0.010753" />
+      <edge id="197" source="appurtenance" target="appendage" weight="0.315385" />
+      <edge id="198" source="appurtenance" target="appropriateness" weight="0.011111" />
+      <edge id="199" source="appurtenance" target="appraise" weight="0.007813" />
+      <edge id="200" source="append" target="appoint" weight="0.033333" />
+      <edge id="201" source="append" target="appanage" weight="0.018182" />
+      <edge id="202" source="append" target="appellation" weight="0.027778" />
+      <edge id="203" source="append" target="appropriate" weight="0.005435" />
+      <edge id="204" source="append" target="appendix" weight="0.074627" />
+      <edge id="205" source="append" target="appendage" weight="0.009346" />
+      <edge id="206" source="append" target="apply" weight="0.015873" />
+      <edge id="207" source="appear" target="apology" weight="0.010526" />
+      <edge id="208" source="appear" target="apparition" weight="0.017241" />
+      <edge id="209" source="appear" target="apparently" weight="0.014493" />
+      <edge id="210" source="appear" target="apparent" weight="0.015267" />
+      <edge id="211" source="appear" target="appliance" weight="0.021277" />
+      <edge id="212" source="appear" target="apprehend" weight="0.019417" />
+      <edge id="213" source="appear" target="approach" weight="0.019802" />
+      <edge id="214" source="appear" target="ape" weight="0.067308" />
+      <edge id="215" source="appear" target="approve" weight="0.008696" />
+      <edge id="216" source="appear" target="approved" weight="0.009259" />
+      <edge id="217" source="appear" target="appraise" weight="0.021505" />
+      <edge id="218" source="apparatus" target="appoint" weight="0.035714" />
+      <edge id="219" source="apparatus" target="apology" weight="0.010989" />
+      <edge id="220" source="apparatus" target="appliance" weight="0.095238" />
+      <edge id="221" source="apparatus" target="appurtenances" weight="0.533333" />
+      <edge id="222" source="apparatus" target="application" weight="0.005917" />
+      <edge id="223" source="apparatus" target="appointments" weight="0.533333" />
+      <edge id="224" source="apparatus" target="aptitude" weight="0.007299" />
+      <edge id="225" source="apparatus" target="apparel" weight="0.014085" />
+      <edge id="226" source="apparatus" target="approach" weight="0.009934" />
+      <edge id="227" source="appreciative" target="appropriate" weight="0.010363" />
+      <edge id="228" source="appreciative" target="apprehensive" weight="0.013333" />
+      <edge id="229" source="appreciative" target="appreciable" weight="0.020408" />
+      <edge id="230" source="appreciative" target="apt" weight="0.006579" />
+      <edge id="231" source="apologetic" target="apology" weight="0.024691" />
+      <edge id="232" source="appeal" target="applause" weight="0.009346" />
+      <edge id="233" source="appeal" target="applaud" weight="0.008772" />
+      <edge id="234" source="appeal" target="approach" weight="0.020528" />
+      <edge id="235" source="appeal" target="appreciate" weight="0.005051" />
+      <edge id="236" source="appeal" target="approximate" weight="0.007042" />
+      <edge id="237" source="appeal" target="application" weight="0.065" />
+      <edge id="238" source="appeal" target="appealing" weight="0.006494" />
+      <edge id="239" source="appeal" target="appliance" weight="0.007463" />
+      <edge id="240" source="appeal" target="appraise" weight="0.007519" />
+      <edge id="241" source="approach" target="approximate" weight="0.083893" />
+      <edge id="242" source="approach" target="apprehend" weight="0.022082" />
+      <edge id="243" source="approach" target="appliance" weight="0.00639" />
+      <edge id="244" source="approach" target="apprehensive" weight="0.003195" />
+      <edge id="245" source="approach" target="apt" weight="0.005141" />
+      <edge id="246" source="approach" target="appropriate" weight="0.016432" />
+      <edge id="247" source="approach" target="aptitude" weight="0.00838" />
+      <edge id="248" source="approach" target="apprenticeship" weight="0.003559" />
+      <edge id="249" source="approach" target="ape" weight="0.050955" />
+      <edge id="250" source="approach" target="apprise" weight="0.003546" />
+      <edge id="251" source="approach" target="application" weight="0.010283" />
+      <edge id="252" source="approach" target="aperture" weight="0.022152" />
+      <edge id="253" source="approach" target="apply" weight="0.009709" />
+      <edge id="254" source="approach" target="appellation" weight="0.003521" />
+      <edge id="255" source="approach" target="applaud" weight="0.006826" />
+      <edge id="256" source="approach" target="apparition" weight="0.018127" />
+      <edge id="257" source="approach" target="approachable" weight="0.003367" />
+      <edge id="258" source="approach" target="appreciation" weight="0.013158" />
+      <edge id="259" source="approach" target="approval" weight="0.009317" />
+      <edge id="260" source="approach" target="approved" weight="0.003058" />
+      <edge id="261" source="approach" target="apprentice" weight="0.011331" />
+      <edge id="262" source="approach" target="appoint" weight="0.003236" />
+      <edge id="263" source="approach" target="appropriateness" weight="0.003636" />
+      <edge id="264" source="approach" target="apish" weight="0.003077" />
+      <edge id="265" source="approach" target="apportion" weight="0.006494" />
+      <edge id="266" source="approach" target="apology" weight="0.009615" />
+      <edge id="267" source="approach" target="apprehension" weight="0.011111" />
+      <edge id="268" source="approach" target="appraisal" weight="0.006757" />
+      <edge id="269" source="approach" target="appreciate" weight="0.016086" />
+      <edge id="270" source="approach" target="aptness" weight="0.003597" />
+      <edge id="271" source="approach" target="approbation" weight="0.009231" />
+      <edge id="272" source="approach" target="apocryphal" weight="0.006231" />
+      <edge id="273" source="approach" target="apparel" weight="0.010274" />
+      <edge id="274" source="approach" target="apoplexy" weight="0.009804" />
+      <edge id="275" source="approach" target="apocalypse" weight="0.003367" />
+      <edge id="276" source="approach" target="approve" weight="0.009036" />
+      <edge id="277" source="approach" target="appraise" weight="0.00641" />
+      <edge id="278" source="apathetic" target="appalling" weight="0.005618" />
+      <edge id="279" source="apocalyptic" target="apostolic" weight="0.18" />
+      <edge id="280" source="apocalyptic" target="apprehension" weight="0.006803" />
+      <edge id="281" source="apocalyptic" target="apparition" weight="0.008333" />
+      <edge id="282" source="apocalyptic" target="apparent" weight="0.014925" />
+      <edge id="283" source="apocalyptic" target="apprehensive" weight="0.010309" />
+      <edge id="284" source="apocalyptic" target="apt" weight="0.005747" />
+      <edge id="285" source="apocalyptic" target="appalling" weight="0.020619" />
+      <edge id="286" source="apocalyptic" target="approachable" weight="0.012346" />
+      <edge id="287" source="apocalyptic" target="appropriate" weight="0.00463" />
+      <edge id="288" source="apocalyptic" target="apocalypse" weight="0.025" />
+      <edge id="289" source="apocalyptic" target="approved" weight="0.027523" />
+      <edge id="290" source="apostolic" target="apparent" weight="0.010204" />
+      <edge id="291" source="apostolic" target="approved" weight="0.041667" />
+      <edge id="292" source="apparition" target="appendage" weight="0.006098" />
+      <edge id="293" source="apparition" target="apprentice" weight="0.006061" />
+      <edge id="294" source="apparition" target="appreciation" weight="0.010417" />
+      <edge id="295" source="apparition" target="apparent" weight="0.012579" />
+      <edge id="296" source="apparition" target="appreciate" weight="0.010753" />
+      <edge id="297" source="apparition" target="approximate" weight="0.015385" />
+      <edge id="298" source="apparition" target="apt" weight="0.005025" />
+      <edge id="299" source="apparition" target="apprehension" weight="0.011696" />
+      <edge id="300" source="apparition" target="aperture" weight="0.007634" />
+      <edge id="301" source="apparition" target="apocalypse" weight="0.07" />
+      <edge id="302" source="apparition" target="appraise" weight="0.008197" />
+      <edge id="303" source="appointments" target="appliance" weight="0.039474" />
+      <edge id="304" source="approval" target="appreciation" weight="0.151899" />
+      <edge id="305" source="approval" target="applaud" weight="0.033708" />
+      <edge id="306" source="approval" target="appreciate" weight="0.04142" />
+      <edge id="307" source="approval" target="appall" weight="0.012048" />
+      <edge id="308" source="approval" target="approximate" weight="0.008403" />
+      <edge id="309" source="approval" target="application" weight="0.027027" />
+      <edge id="310" source="approval" target="approbation" weight="0.865672" />
+      <edge id="311" source="approval" target="aptitude" weight="0.025974" />
+      <edge id="312" source="approval" target="appraisal" weight="0.021505" />
+      <edge id="313" source="approval" target="approve" weight="0.073171" />
+      <edge id="314" source="approval" target="ape" weight="0.007937" />
+      <edge id="315" source="apish" target="ape" weight="0.007874" />
+      <edge id="316" source="apostate" target="appendage" weight="0.007353" />
+      <edge id="317" source="apostate" target="apostle" weight="0.036364" />
+      <edge id="318" source="apostate" target="apologist" weight="0.011494" />
+      <edge id="319" source="appropriateness" target="appliance" weight="0.05" />
+      <edge id="320" source="appropriateness" target="aptness" weight="0.227273" />
+      <edge id="321" source="appropriateness" target="application" weight="0.014388" />
+      <edge id="322" source="appropriateness" target="aptitude" weight="0.038095" />
+      <edge id="323" source="appropriateness" target="apply" weight="0.016949" />
+      <edge id="324" source="approve" target="appoint" weight="0.017391" />
+      <edge id="325" source="approve" target="apology" weight="0.008264" />
+      <edge id="326" source="approve" target="appreciation" weight="0.015873" />
+      <edge id="327" source="approve" target="applaud" weight="0.0625" />
+      <edge id="328" source="approve" target="apprise" weight="0.011236" />
+      <edge id="329" source="approve" target="apparent" weight="0.012739" />
+      <edge id="330" source="approve" target="appreciate" weight="0.033333" />
+      <edge id="331" source="approve" target="appropriate" weight="0.004184" />
+      <edge id="332" source="approve" target="application" weight="0.005025" />
+      <edge id="333" source="approve" target="approbation" weight="0.071429" />
+      <edge id="334" source="approve" target="approximate" weight="0.023622" />
+      <edge id="335" source="approve" target="aperture" weight="0.007752" />
+      <edge id="336" source="approve" target="appraise" weight="0.008333" />
+      <edge id="337" source="approve" target="apologist" weight="0.017857" />
+      <edge id="338" source="approve" target="ape" weight="0.014815" />
+      <edge id="339" source="apprehensive" target="apocalypse" weight="0.012048" />
+      <edge id="340" source="apt" target="approved" weight="0.038043" />
+      <edge id="341" source="apt" target="apropos" weight="0.191176" />
+      <edge id="342" source="apt" target="aptness" weight="0.007092" />
+      <edge id="343" source="apt" target="apoplexy" weight="0.005848" />
+      <edge id="344" source="appropriate" target="apply" weight="0.009302" />
+      <edge id="345" source="appropriate" target="apprehend" weight="0.031532" />
+      <edge id="346" source="appropriate" target="apparent" weight="0.003906" />
+      <edge id="347" source="appropriate" target="appalling" weight="0.004566" />
+      <edge id="348" source="appropriate" target="application" weight="0.006757" />
+      <edge id="349" source="appropriate" target="apropos" weight="0.186047" />
+      <edge id="350" source="appropriate" target="apocryphal" weight="0.004405" />
+      <edge id="351" source="appropriate" target="apoplexy" weight="0.004695" />
+      <edge id="352" source="appropriate" target="approved" weight="0.030973" />
+      <edge id="353" source="appropriate" target="ape" weight="0.017316" />
+      <edge id="354" source="aptitude" target="apprehend" weight="0.00641" />
+      <edge id="355" source="aptitude" target="appendix" weight="0.006579" />
+      <edge id="356" source="aptitude" target="appliance" weight="0.006803" />
+      <edge id="357" source="aptitude" target="aptness" weight="0.087379" />
+      <edge id="358" source="aptitude" target="application" weight="0.008929" />
+      <edge id="359" source="aptitude" target="approbation" weight="0.025478" />
+      <edge id="360" source="aptitude" target="apply" weight="0.006944" />
+      <edge id="361" source="aptitude" target="apocalypse" weight="0.007692" />
+      <edge id="362" source="apply" target="ape" weight="0.017857" />
+      <edge id="363" source="apply" target="approximate" weight="0.028846" />
+      <edge id="364" source="apply" target="application" weight="0.02907" />
+      <edge id="365" source="apply" target="appellation" weight="0.014706" />
+      <edge id="366" source="apply" target="apprenticeship" weight="0.015385" />
+      <edge id="367" source="apply" target="apprentice" weight="0.014388" />
+      <edge id="368" source="apply" target="appoint" weight="0.021739" />
+      <edge id="369" source="apply" target="apportion" weight="0.032967" />
+      <edge id="370" source="apply" target="apology" weight="0.010204" />
+      <edge id="371" source="apply" target="appliance" weight="0.03125" />
+      <edge id="372" source="apply" target="aptness" weight="0.016129" />
+      <edge id="373" source="apply" target="appendage" weight="0.007194" />
+      <edge id="374" source="apply" target="appraise" weight="0.010309" />
+      <edge id="375" source="ape" target="appoint" weight="0.009009" />
+      <edge id="376" source="ape" target="apprehend" weight="0.008" />
+      <edge id="377" source="ape" target="approximate" weight="0.146789" />
+      <edge id="378" source="ape" target="appreciate" weight="0.011173" />
+      <edge id="379" source="ape" target="appreciation" weight="0.005376" />
+      <edge id="380" source="ape" target="approbation" weight="0.007752" />
+      <edge id="381" source="ape" target="apocryphal" weight="0.02459" />
+      <edge id="382" source="ape" target="appendage" weight="0.006369" />
+      <edge id="383" source="ape" target="appliance" weight="0.008621" />
+      <edge id="384" source="appall" target="appreciation" weight="0.006993" />
+      <edge id="385" source="appall" target="approbation" weight="0.011628" />
+      <edge id="386" source="approximate" target="apprehend" weight="0.017094" />
+      <edge id="387" source="approximate" target="approbation" weight="0.008197" />
+      <edge id="388" source="approximate" target="apocryphal" weight="0.017241" />
+      <edge id="389" source="approximate" target="appraise" weight="0.028302" />
+      <edge id="390" source="approximately" target="apropos" weight="0.019608" />
+      <edge id="391" source="aperture" target="application" weight="0.005348" />
+      <edge id="392" source="aperture" target="apoplexy" weight="0.009709" />
+      <edge id="393" source="aperture" target="apse" weight="0.012195" />
+      <edge id="394" source="apparent" target="apparently" weight="0.018018" />
+      <edge id="395" source="apparent" target="appalling" weight="0.037313" />
+      <edge id="396" source="apparent" target="approachable" weight="0.008264" />
+      <edge id="397" source="apparent" target="apocryphal" weight="0.035211" />
+      <edge id="398" source="apparent" target="appreciable" weight="0.098039" />
+      <edge id="399" source="apparent" target="appendage" weight="0.005587" />
+      <edge id="400" source="appreciation" target="apprehend" weight="0.016854" />
+      <edge id="401" source="appreciation" target="applause" weight="0.006944" />
+      <edge id="402" source="appreciation" target="apology" weight="0.011765" />
+      <edge id="403" source="appreciation" target="appendix" weight="0.005682" />
+      <edge id="404" source="appreciation" target="application" weight="0.01626" />
+      <edge id="405" source="appreciation" target="approbation" weight="0.149068" />
+      <edge id="406" source="appreciation" target="apprenticeship" weight="0.007246" />
+      <edge id="407" source="appreciation" target="appraise" weight="0.005882" />
+      <edge id="408" source="appreciation" target="apoplexy" weight="0.006061" />
+      <edge id="409" source="appendix" target="appoint" weight="0.009901" />
+      <edge id="410" source="appendix" target="appanage" weight="0.078652" />
+      <edge id="411" source="appendix" target="appellation" weight="0.013158" />
+      <edge id="412" source="appendix" target="appliance" weight="0.009434" />
+      <edge id="413" source="appendix" target="appendage" weight="0.057143" />
+      <edge id="414" source="apologist" target="apology" weight="0.010753" />
+      <edge id="415" source="apprentice" target="apprehend" weight="0.006579" />
+      <edge id="416" source="apprentice" target="appliance" weight="0.006993" />
+      <edge id="417" source="apprentice" target="application" weight="0.013699" />
+      <edge id="418" source="apprentice" target="apropos" weight="0.007874" />
+      <edge id="419" source="apprentice" target="apprenticeship" weight="0.057143" />
+      <edge id="420" source="apprentice" target="apoplexy" weight="0.007299" />
+      <edge id="421" source="apportion" target="appraise" weight="0.043478" />
+      <edge id="422" source="apprehension" target="apprehend" weight="0.081081" />
+      <edge id="423" source="apprehension" target="appalling" weight="0.006667" />
+      <edge id="424" source="apprehension" target="application" weight="0.004386" />
+      <edge id="425" source="apprehension" target="apoplexy" weight="0.021127" />
+      <edge id="426" source="apprehension" target="apocalypse" weight="0.007519" />
+      <edge id="427" source="appliance" target="appanage" weight="0.022472" />
+      <edge id="428" source="appliance" target="application" weight="0.052632" />
+      <edge id="429" source="appliance" target="appurtenances" weight="0.039474" />
+      <edge id="430" source="appliance" target="apprenticeship" weight="0.014706" />
+      <edge id="431" source="appliance" target="apology" weight="0.009901" />
+      <edge id="432" source="appliance" target="apocryphal" weight="0.009174" />
+      <edge id="433" source="appliance" target="appendage" weight="0.036232" />
+      <edge id="434" source="apologetics" target="apology" weight="0.25" />
+      <edge id="435" source="apocryphal" target="apology" weight="0.009174" />
+      <edge id="436" source="appendage" target="applause" weight="0.008696" />
+      <edge id="437" source="appendage" target="application" weight="0.004545" />
+      <edge id="438" source="apoplexy" target="appoint" weight="0.011111" />
+      <edge id="439" source="apoplexy" target="apathy" weight="0.008333" />
+      <edge id="440" source="apoplexy" target="apprehend" weight="0.009615" />
+      <edge id="441" source="apoplexy" target="apropos" weight="0.012658" />
+      <edge id="442" source="appraisal" target="approbation" weight="0.020833" />
+      <edge id="443" source="appraisal" target="appraise" weight="0.037037" />
+      <edge id="444" source="appraise" target="appoint" weight="0.010526" />
+      <edge id="445" source="appraise" target="apprehend" weight="0.018519" />
+      <edge id="446" source="appraise" target="appreciate" weight="0.289063" />
+      <edge id="447" source="appraise" target="approved" weight="0.00885" />
+      <edge id="448" source="appraise" target="apse" weight="0.013699" />
+      <edge id="449" source="apprehend" target="appreciate" weight="0.206897" />
+      <edge id="450" source="apprehend" target="apprise" weight="0.012821" />
+      <edge id="451" source="apprehend" target="appalling" weight="0.009091" />
+      <edge id="452" source="apropos" target="appoint" weight="0.0125" />
+      <edge id="453" source="apropos" target="approved" weight="0.020619" />
+      <edge id="454" source="apropos" target="appreciable" weight="0.017241" />
+      <edge id="455" source="apparently" target="appreciably" weight="0.073171" />
+      <edge id="456" source="appanage" target="application" weight="0.005952" />
+      <edge id="457" source="application" target="apprenticeship" weight="0.020833" />
+      <edge id="458" source="application" target="appoint" weight="0.005747" />
+      <edge id="459" source="application" target="apathy" weight="0.009852" />
+      <edge id="460" source="application" target="appreciate" weight="0.012448" />
+      <edge id="461" source="application" target="approbation" weight="0.026596" />
+      <edge id="462" source="application" target="apparel" weight="0.006289" />
+      <edge id="463" source="appellation" target="apology" weight="0.014085" />
+      <edge id="464" source="applaud" target="applause" weight="0.222222" />
+      <edge id="465" source="applaud" target="approbation" weight="0.021505" />
+      <edge id="466" source="appreciable" target="appalling" weight="0.013514" />
+      <edge id="467" source="approved" target="appoint" weight="0.018519" />
+      <edge id="468" source="approved" target="appreciate" weight="0.005618" />
+      <edge id="469" source="applause" target="approbation" weight="0.011494" />
+      <edge id="470" source="apology" target="apparel" weight="0.012346" />
+      <edge id="471" source="appreciate" target="approbation" weight="0.040698" />
+      <edge id="472" source="appreciate" target="apse" weight="0.007246" />
+    </edges>
+  </graph>
+</gexf>

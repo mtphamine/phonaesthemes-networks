@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="jellied" label="jellied" />
+      <node id="jet" label="jet">
+        <attvalues>
+          <attvalue for="0" value="3.96642334594" />
+        </attvalues>
+      </node>
+      <node id="jerk" label="jerk">
+        <attvalues>
+          <attvalue for="0" value="3.40346370135" />
+        </attvalues>
+      </node>
+      <node id="jetstream" label="jetstream" />
+      <node id="jeopardy" label="jeopardy" />
+      <node id="jewel" label="jewel">
+        <attvalues>
+          <attvalue for="0" value="3.33142729652" />
+        </attvalues>
+      </node>
+      <node id="jester" label="jester" />
+      <node id="jete" label="jete">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="jetty" label="jetty" />
+      <node id="jejune" label="jejune">
+        <attvalues>
+          <attvalue for="0" value="1.54406804435" />
+        </attvalues>
+      </node>
+      <node id="jelly" label="jelly" />
+      <node id="jetsam" label="jetsam">
+        <attvalues>
+          <attvalue for="0" value="1.9956351946" />
+        </attvalues>
+      </node>
+      <node id="jeering" label="jeering">
+        <attvalues>
+          <attvalue for="0" value="2.24303804869" />
+        </attvalues>
+      </node>
+      <node id="jest" label="jest" />
+      <node id="jerking" label="jerking" />
+      <node id="jesting" label="jesting">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="jerky" label="jerky">
+        <attvalues>
+          <attvalue for="0" value="2.86981820798" />
+        </attvalues>
+      </node>
+      <node id="jell" label="jell">
+        <attvalues>
+          <attvalue for="0" value="1.89762709129" />
+        </attvalues>
+      </node>
+      <node id="jettison" label="jettison" />
+      <node id="jeer" label="jeer" />
+      <node id="jenny" label="jenny" />
+    </nodes>
+    <edges>
+      <edge id="0" source="jellied" target="jejune" weight="0.01105" />
+      <edge id="1" source="jellied" target="jell" weight="0.034884" />
+      <edge id="2" source="jet" target="jete" weight="0.051724" />
+      <edge id="3" source="jet" target="jetstream" weight="0.012821" />
+      <edge id="4" source="jet" target="jetty" weight="0.048077" />
+      <edge id="5" source="jet" target="jerk" weight="0.016484" />
+      <edge id="6" source="jerk" target="jenny" weight="0.006173" />
+      <edge id="7" source="jerk" target="jetstream" weight="0.005988" />
+      <edge id="8" source="jerk" target="jeopardy" weight="0.006494" />
+      <edge id="9" source="jerk" target="jewel" weight="0.004739" />
+      <edge id="10" source="jerk" target="jester" weight="0.012422" />
+      <edge id="11" source="jerk" target="jete" weight="0.020408" />
+      <edge id="12" source="jerk" target="jest" weight="0.012146" />
+      <edge id="13" source="jerk" target="jesting" weight="0.005988" />
+      <edge id="14" source="jerk" target="jettison" weight="0.016216" />
+      <edge id="15" source="jerk" target="jejune" weight="0.003521" />
+      <edge id="16" source="jetstream" target="jell" weight="0.011905" />
+      <edge id="17" source="jewel" target="jest" weight="0.010753" />
+      <edge id="18" source="jester" target="jesting" weight="0.017857" />
+      <edge id="19" source="jester" target="jerky" weight="0.008197" />
+      <edge id="20" source="jete" target="jettison" weight="0.015873" />
+      <edge id="21" source="jetty" target="jell" weight="0.008772" />
+      <edge id="22" source="jelly" target="jell" weight="0.728571" />
+      <edge id="23" source="jetsam" target="jettison" weight="0.101695" />
+      <edge id="24" source="jeering" target="jesting" weight="0.123288" />
+      <edge id="25" source="jeering" target="jeer" weight="0.319444" />
+      <edge id="26" source="jeering" target="jettison" weight="0.009901" />
+      <edge id="27" source="jeering" target="jest" weight="0.093333" />
+      <edge id="28" source="jest" target="jesting" weight="0.014085" />
+      <edge id="29" source="jest" target="jerky" weight="0.009615" />
+      <edge id="30" source="jerking" target="jerky" weight="0.078261" />
+    </edges>
+  </graph>
+</gexf>

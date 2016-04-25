@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ethics" label="ethics">
+        <attvalues>
+          <attvalue for="0" value="4.02804229509" />
+        </attvalues>
+      </node>
+      <node id="etiquette" label="etiquette">
+        <attvalues>
+          <attvalue for="0" value="3.10414555055" />
+        </attvalues>
+      </node>
+      <node id="etching" label="etching" />
+      <node id="etherize" label="etherize" />
+      <node id="ethical" label="ethical">
+        <attvalues>
+          <attvalue for="0" value="3.98864812524" />
+        </attvalues>
+      </node>
+      <node id="eternal" label="eternal" />
+      <node id="ether" label="ether">
+        <attvalues>
+          <attvalue for="0" value="2.74896286126" />
+        </attvalues>
+      </node>
+      <node id="etiology" label="etiology">
+        <attvalues>
+          <attvalue for="0" value="2.79448804666" />
+        </attvalues>
+      </node>
+      <node id="ethane" label="ethane">
+        <attvalues>
+          <attvalue for="0" value="1.71600334363" />
+        </attvalues>
+      </node>
+      <node id="ethereal" label="ethereal" />
+      <node id="etude" label="etude">
+        <attvalues>
+          <attvalue for="0" value="2.10720996965" />
+        </attvalues>
+      </node>
+      <node id="etch" label="etch">
+        <attvalues>
+          <attvalue for="0" value="2.45178643552" />
+        </attvalues>
+      </node>
+      <node id="ethyl" label="ethyl" />
+      <node id="ethos" label="ethos" />
+      <node id="etched" label="etched" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ethics" target="etiology" weight="0.019608" />
+      <edge id="1" source="ethics" target="ethos" weight="0.008929" />
+      <edge id="2" source="etiquette" target="ethos" weight="0.016807" />
+      <edge id="3" source="etching" target="etude" weight="0.012195" />
+      <edge id="4" source="etching" target="etch" weight="0.069444" />
+      <edge id="5" source="etherize" target="ethane" weight="0.016393" />
+      <edge id="6" source="etherize" target="ether" weight="0.021739" />
+      <edge id="7" source="ethical" target="eternal" weight="0.016807" />
+      <edge id="8" source="ethical" target="ethereal" weight="0.005376" />
+      <edge id="9" source="ether" target="ethos" weight="0.007299" />
+      <edge id="10" source="ether" target="ethane" weight="0.013699" />
+      <edge id="11" source="ether" target="ethereal" weight="0.015873" />
+      <edge id="12" source="ether" target="ethyl" weight="0.016667" />
+      <edge id="13" source="etiology" target="etch" weight="0.016393" />
+      <edge id="14" source="ethane" target="ethyl" weight="0.16" />
+      <edge id="15" source="etude" target="etch" weight="0.012346" />
+      <edge id="16" source="etude" target="ethos" weight="0.007813" />
+      <edge id="17" source="etch" target="ethos" weight="0.008197" />
+      <edge id="18" source="etch" target="etched" weight="0.018868" />
+    </edges>
+  </graph>
+</gexf>

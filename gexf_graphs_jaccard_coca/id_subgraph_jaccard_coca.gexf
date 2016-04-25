@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="idea" label="idea" />
+      <node id="identify" label="identify" />
+      <node id="idler" label="idler" />
+      <node id="id" label="id">
+        <attvalues>
+          <attvalue for="0" value="4.10305074744" />
+        </attvalues>
+      </node>
+      <node id="ideational" label="ideational">
+        <attvalues>
+          <attvalue for="0" value="2.10037054512" />
+        </attvalues>
+      </node>
+      <node id="idolatry" label="idolatry" />
+      <node id="idealism" label="idealism">
+        <attvalues>
+          <attvalue for="0" value="3.10822665637" />
+        </attvalues>
+      </node>
+      <node id="idiot" label="idiot">
+        <attvalues>
+          <attvalue for="0" value="3.53466057583" />
+        </attvalues>
+      </node>
+      <node id="idolization" label="idolization" />
+      <node id="idleness" label="idleness" />
+      <node id="ideation" label="ideation">
+        <attvalues>
+          <attvalue for="0" value="2.59549622183" />
+        </attvalues>
+      </node>
+      <node id="ideal" label="ideal">
+        <attvalues>
+          <attvalue for="0" value="4.16943929898" />
+        </attvalues>
+      </node>
+      <node id="identification" label="identification" />
+      <node id="idealization" label="idealization" />
+      <node id="idealist" label="idealist">
+        <attvalues>
+          <attvalue for="0" value="2.55509444858" />
+        </attvalues>
+      </node>
+      <node id="idol" label="idol">
+        <attvalues>
+          <attvalue for="0" value="3.47552591504" />
+        </attvalues>
+      </node>
+      <node id="identical" label="identical">
+        <attvalues>
+          <attvalue for="0" value="3.88462546326" />
+        </attvalues>
+      </node>
+      <node id="ideogram" label="ideogram" />
+      <node id="idealistic" label="idealistic" />
+      <node id="idiocy" label="idiocy">
+        <attvalues>
+          <attvalue for="0" value="2.38916608436" />
+        </attvalues>
+      </node>
+      <node id="identically" label="identically" />
+      <node id="idyll" label="idyll" />
+      <node id="identity" label="identity">
+        <attvalues>
+          <attvalue for="0" value="4.45565174533" />
+        </attvalues>
+      </node>
+      <node id="ideographic" label="ideographic" />
+      <node id="idyllic" label="idyllic">
+        <attvalues>
+          <attvalue for="0" value="2.93801909748" />
+        </attvalues>
+      </node>
+      <node id="idiosyncrasy" label="idiosyncrasy" />
+      <node id="idiotic" label="idiotic" />
+      <node id="idolize" label="idolize">
+        <attvalues>
+          <attvalue for="0" value="2.02938377769" />
+        </attvalues>
+      </node>
+      <node id="ideology" label="ideology">
+        <attvalues>
+          <attvalue for="0" value="3.85871761486" />
+        </attvalues>
+      </node>
+      <node id="idle" label="idle">
+        <attvalues>
+          <attvalue for="0" value="3.40636983547" />
+        </attvalues>
+      </node>
+      <node id="idealize" label="idealize">
+        <attvalues>
+          <attvalue for="0" value="2.1105897103" />
+        </attvalues>
+      </node>
+      <node id="idiosyncratic" label="idiosyncratic">
+        <attvalues>
+          <attvalue for="0" value="3.00259798072" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="idea" target="idealism" weight="0.00495" />
+      <edge id="1" source="idea" target="ideal" weight="0.022901" />
+      <edge id="2" source="idea" target="idolize" weight="0.004878" />
+      <edge id="3" source="idea" target="ideology" weight="0.010929" />
+      <edge id="4" source="idea" target="idle" weight="0.002907" />
+      <edge id="5" source="idea" target="idol" weight="0.013158" />
+      <edge id="6" source="idea" target="ideation" weight="0.046154" />
+      <edge id="7" source="idea" target="id" weight="0.005348" />
+      <edge id="8" source="idea" target="identity" weight="0.003846" />
+      <edge id="9" source="identify" target="idol" weight="0.006173" />
+      <edge id="10" source="identify" target="ideation" weight="0.007407" />
+      <edge id="11" source="idler" target="idle" weight="0.004545" />
+      <edge id="12" source="id" target="idealism" weight="0.021739" />
+      <edge id="13" source="id" target="idolization" weight="0.016393" />
+      <edge id="14" source="id" target="ideal" weight="0.009009" />
+      <edge id="15" source="id" target="idiosyncrasy" weight="0.008197" />
+      <edge id="16" source="id" target="idolatry" weight="0.012195" />
+      <edge id="17" source="id" target="identity" weight="0.009615" />
+      <edge id="18" source="ideational" target="idealism" weight="0.016667" />
+      <edge id="19" source="ideational" target="idyllic" weight="0.017241" />
+      <edge id="20" source="ideational" target="ideation" weight="0.016393" />
+      <edge id="21" source="ideational" target="ideal" weight="0.032787" />
+      <edge id="22" source="ideational" target="idealization" weight="0.019608" />
+      <edge id="23" source="ideational" target="identity" weight="0.008475" />
+      <edge id="24" source="idolatry" target="idealism" weight="0.020833" />
+      <edge id="25" source="idolatry" target="identical" weight="0.009346" />
+      <edge id="26" source="idolatry" target="idolize" weight="0.086022" />
+      <edge id="27" source="idolatry" target="ideal" weight="0.012422" />
+      <edge id="28" source="idolatry" target="identity" weight="0.019608" />
+      <edge id="29" source="idealism" target="idyllic" weight="0.016949" />
+      <edge id="30" source="idealism" target="ideal" weight="0.133929" />
+      <edge id="31" source="idealism" target="idealization" weight="0.152174" />
+      <edge id="32" source="idealism" target="idealize" weight="0.025" />
+      <edge id="33" source="idealism" target="idol" weight="0.011236" />
+      <edge id="34" source="idiot" target="idealist" weight="0.017241" />
+      <edge id="35" source="idiot" target="idiotic" weight="0.020202" />
+      <edge id="36" source="idiot" target="idiosyncratic" weight="0.008403" />
+      <edge id="37" source="idolization" target="identical" weight="0.011628" />
+      <edge id="38" source="idolization" target="ideal" weight="0.014286" />
+      <edge id="39" source="idolization" target="identity" weight="0.015038" />
+      <edge id="40" source="idolization" target="idolize" weight="0.081081" />
+      <edge id="41" source="idleness" target="idiocy" weight="0.046875" />
+      <edge id="42" source="idleness" target="idle" weight="0.013953" />
+      <edge id="43" source="ideation" target="identity" weight="0.008333" />
+      <edge id="44" source="ideal" target="identical" weight="0.007353" />
+      <edge id="45" source="ideal" target="ideographic" weight="0.014286" />
+      <edge id="46" source="ideal" target="idiosyncrasy" weight="0.00495" />
+      <edge id="47" source="ideal" target="idealistic" weight="0.02027" />
+      <edge id="48" source="ideal" target="ideogram" weight="0.006579" />
+      <edge id="49" source="ideal" target="identification" weight="0.006135" />
+      <edge id="50" source="ideal" target="idiosyncratic" weight="0.017857" />
+      <edge id="51" source="ideal" target="idealize" weight="0.009524" />
+      <edge id="52" source="ideal" target="idealist" weight="0.018519" />
+      <edge id="53" source="ideal" target="idol" weight="0.02649" />
+      <edge id="54" source="ideal" target="idealization" weight="0.063063" />
+      <edge id="55" source="identification" target="idiosyncratic" weight="0.007042" />
+      <edge id="56" source="identification" target="identity" weight="0.060811" />
+      <edge id="57" source="idealization" target="idyllic" weight="0.02" />
+      <edge id="58" source="idealization" target="identity" weight="0.009091" />
+      <edge id="59" source="idealization" target="idealize" weight="0.032258" />
+      <edge id="60" source="idealization" target="idol" weight="0.025316" />
+      <edge id="61" source="idealist" target="idealistic" weight="0.045455" />
+      <edge id="62" source="idol" target="identical" weight="0.030928" />
+      <edge id="63" source="idol" target="idiosyncrasy" weight="0.024691" />
+      <edge id="64" source="idol" target="identity" weight="0.027778" />
+      <edge id="65" source="identical" target="identity" weight="0.007752" />
+      <edge id="66" source="identical" target="identically" weight="0.038462" />
+      <edge id="67" source="idealistic" target="idle" weight="0.004405" />
+      <edge id="68" source="idealistic" target="idyllic" weight="0.02439" />
+      <edge id="69" source="idiocy" target="idiosyncrasy" weight="0.007813" />
+      <edge id="70" source="idiocy" target="identity" weight="0.009091" />
+      <edge id="71" source="idyll" target="idyllic" weight="0.039216" />
+      <edge id="72" source="identity" target="idiosyncrasy" weight="0.020833" />
+      <edge id="73" source="ideographic" target="idiosyncratic" weight="0.247423" />
+      <edge id="74" source="idyllic" target="idle" weight="0.004975" />
+      <edge id="75" source="idiosyncrasy" target="idiosyncratic" weight="0.01676" />
+      <edge id="76" source="idiotic" target="idle" weight="0.031532" />
+      <edge id="77" source="idiotic" target="idiosyncratic" weight="0.039683" />
+      <edge id="78" source="idolize" target="idealize" weight="0.047619" />
+    </edges>
+  </graph>
+</gexf>

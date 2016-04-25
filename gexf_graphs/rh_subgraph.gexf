@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="rhythmic" label="rhythmic" />
+      <node id="rhetoric" label="rhetoric" />
+      <node id="rhapsodic" label="rhapsodic" />
+      <node id="rhythmical" label="rhythmical" />
+      <node id="rhapsodical" label="rhapsodical" />
+      <node id="rhapsody" label="rhapsody" />
+      <node id="rhapsodize" label="rhapsodize" />
+    </nodes>
+    <edges>
+      <edge id="0" source="rhythmic" target="rhythmical" />
+      <edge id="1" source="rhetoric" target="rhapsody" />
+      <edge id="2" source="rhapsodic" target="rhapsodical" />
+      <edge id="3" source="rhapsody" target="rhapsodize" />
+    </edges>
+  </graph>
+</gexf>

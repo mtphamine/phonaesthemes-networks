@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="earthwork" label="earthwork">
+        <attvalues>
+          <attvalue for="0" value="1.64345267649" />
+        </attvalues>
+      </node>
+      <node id="earthshaker" label="earthshaker">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="eagerness" label="eagerness">
+        <attvalues>
+          <attvalue for="0" value="3.00259798072" />
+        </attvalues>
+      </node>
+      <node id="earnestness" label="earnestness">
+        <attvalues>
+          <attvalue for="0" value="2.44715803134" />
+        </attvalues>
+      </node>
+      <node id="earth" label="earth">
+        <attvalues>
+          <attvalue for="0" value="4.72667831759" />
+        </attvalues>
+      </node>
+      <node id="earthbound" label="earthbound">
+        <attvalues>
+          <attvalue for="0" value="2.48572142648" />
+        </attvalues>
+      </node>
+      <node id="ease" label="ease" />
+      <node id="earthy" label="earthy" />
+      <node id="eagerly" label="eagerly">
+        <attvalues>
+          <attvalue for="0" value="3.41027096425" />
+        </attvalues>
+      </node>
+      <node id="eardrum" label="eardrum" />
+      <node id="eager" label="eager" />
+      <node id="earnings" label="earnings" />
+      <node id="easy" label="easy">
+        <attvalues>
+          <attvalue for="0" value="4.79615787691" />
+        </attvalues>
+      </node>
+      <node id="eagle" label="eagle" />
+      <node id="earthshaking" label="earthshaking">
+        <attvalues>
+          <attvalue for="0" value="1.89209460269" />
+        </attvalues>
+      </node>
+      <node id="easygoing" label="easygoing" />
+      <node id="eavesdrop" label="eavesdrop">
+        <attvalues>
+          <attvalue for="0" value="2.48429983935" />
+        </attvalues>
+      </node>
+      <node id="earlier" label="earlier" />
+      <node id="early" label="early">
+        <attvalues>
+          <attvalue for="0" value="5.12862863454" />
+        </attvalues>
+      </node>
+      <node id="earnest" label="earnest">
+        <attvalues>
+          <attvalue for="0" value="3.48330195236" />
+        </attvalues>
+      </node>
+      <node id="earthly" label="earthly" />
+      <node id="ear" label="ear" />
+      <node id="eat" label="eat" />
+      <node id="easily" label="easily" />
+      <node id="earn" label="earn" />
+      <node id="easel" label="easel" />
+      <node id="earmark" label="earmark">
+        <attvalues>
+          <attvalue for="0" value="2.51851393988" />
+        </attvalues>
+      </node>
+      <node id="easement" label="easement" />
+      <node id="earthling" label="earthling" />
+      <node id="easing" label="easing">
+        <attvalues>
+          <attvalue for="0" value="3.20547503674" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="earthwork" target="eagle" weight="0.005435" />
+      <edge id="1" source="earthwork" target="ear" weight="0.006993" />
+      <edge id="2" source="earthwork" target="earmark" weight="0.005747" />
+      <edge id="3" source="earthwork" target="earnings" weight="0.009615" />
+      <edge id="4" source="earthshaker" target="eagle" weight="0.006993" />
+      <edge id="5" source="earthshaker" target="earn" weight="0.026316" />
+      <edge id="6" source="earthshaker" target="earthling" weight="0.02381" />
+      <edge id="7" source="eagerness" target="earmark" weight="0.004651" />
+      <edge id="8" source="eagerness" target="eager" weight="0.010695" />
+      <edge id="9" source="eagerness" target="earnestness" weight="0.042553" />
+      <edge id="10" source="eagerness" target="ease" weight="0.012384" />
+      <edge id="11" source="eagerness" target="earnest" weight="0.004673" />
+      <edge id="12" source="eagerness" target="eat" weight="0.007194" />
+      <edge id="13" source="earnestness" target="eagle" weight="0.005435" />
+      <edge id="14" source="earnestness" target="eavesdrop" weight="0.016129" />
+      <edge id="15" source="earnestness" target="ease" weight="0.003509" />
+      <edge id="16" source="earnestness" target="eardrum" weight="0.014706" />
+      <edge id="17" source="earnestness" target="earnest" weight="0.011628" />
+      <edge id="18" source="earnestness" target="earth" weight="0.006711" />
+      <edge id="19" source="earnestness" target="earmark" weight="0.005747" />
+      <edge id="20" source="earnestness" target="ear" weight="0.133858" />
+      <edge id="21" source="earth" target="easel" weight="0.008772" />
+      <edge id="22" source="earth" target="earmark" weight="0.009217" />
+      <edge id="23" source="earth" target="easy" weight="0.003086" />
+      <edge id="24" source="earth" target="earthbound" weight="0.025641" />
+      <edge id="25" source="earth" target="earthling" weight="0.015873" />
+      <edge id="26" source="earth" target="earthy" weight="0.024691" />
+      <edge id="27" source="earth" target="earthshaking" weight="0.008065" />
+      <edge id="28" source="earth" target="earthly" weight="0.033898" />
+      <edge id="29" source="earth" target="easygoing" weight="0.00431" />
+      <edge id="30" source="earthbound" target="earthling" weight="0.018868" />
+      <edge id="31" source="earthbound" target="ease" weight="0.003922" />
+      <edge id="32" source="earthbound" target="earthy" weight="0.057471" />
+      <edge id="33" source="earthbound" target="earnest" weight="0.006993" />
+      <edge id="34" source="earthbound" target="earthly" weight="0.090909" />
+      <edge id="35" source="ease" target="earnest" weight="0.008547" />
+      <edge id="36" source="ease" target="easy" weight="0.01766" />
+      <edge id="37" source="ease" target="easing" weight="0.065693" />
+      <edge id="38" source="ease" target="earmark" weight="0.002825" />
+      <edge id="39" source="earthy" target="earthshaking" weight="0.021053" />
+      <edge id="40" source="earthy" target="easy" weight="0.013652" />
+      <edge id="41" source="eagerly" target="easily" weight="0.03125" />
+      <edge id="42" source="eager" target="early" weight="0.006494" />
+      <edge id="43" source="eager" target="earnest" weight="0.043478" />
+      <edge id="44" source="eager" target="easy" weight="0.009375" />
+      <edge id="45" source="easy" target="eagle" weight="0.002786" />
+      <edge id="46" source="easy" target="earn" weight="0.003937" />
+      <edge id="47" source="easy" target="earmark" weight="0.002865" />
+      <edge id="48" source="easy" target="easygoing" weight="0.29078" />
+      <edge id="49" source="easy" target="earnest" weight="0.005764" />
+      <edge id="50" source="easy" target="easily" weight="0.007937" />
+      <edge id="51" source="easy" target="easing" weight="0.003497" />
+      <edge id="52" source="eagle" target="earmark" weight="0.016" />
+      <edge id="53" source="earthshaking" target="earthly" weight="0.039216" />
+      <edge id="54" source="easygoing" target="early" weight="0.005128" />
+      <edge id="55" source="eavesdrop" target="ear" weight="0.01" />
+      <edge id="56" source="earlier" target="early" weight="0.371429" />
+      <edge id="57" source="earnest" target="easement" weight="0.006061" />
+      <edge id="58" source="earnest" target="earmark" weight="0.004132" />
+      <edge id="59" source="earnest" target="ear" weight="0.004739" />
+      <edge id="60" source="ear" target="earmark" weight="0.019139" />
+      <edge id="61" source="eat" target="earmark" weight="0.012048" />
+      <edge id="62" source="earn" target="earmark" weight="0.006757" />
+      <edge id="63" source="earmark" target="earthling" weight="0.006579" />
+      <edge id="64" source="easement" target="easing" weight="0.223529" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="psychopathy" label="psychopathy" />
+      <node id="psychodrama" label="psychodrama" />
+      <node id="psychoneurotic" label="psychoneurotic" />
+      <node id="psychopathic" label="psychopathic" />
+      <node id="psychic" label="psychic" />
+      <node id="psychiatrist" label="psychiatrist" />
+      <node id="psalter" label="psalter" />
+      <node id="psychosis" label="psychosis" />
+      <node id="psychological" label="psychological" />
+      <node id="psychotic" label="psychotic" />
+      <node id="psychologist" label="psychologist" />
+      <node id="psalmbook" label="psalmbook" />
+      <node id="psychical" label="psychical" />
+      <node id="psychotherapy" label="psychotherapy" />
+      <node id="psychopath" label="psychopath" />
+      <node id="psycho" label="psycho" />
+    </nodes>
+    <edges>
+      <edge id="0" source="psychopathy" target="psychosis" />
+      <edge id="1" source="psychodrama" target="psychotherapy" />
+      <edge id="2" source="psychoneurotic" target="psychotic" />
+      <edge id="3" source="psychoneurotic" target="psychopath" />
+      <edge id="4" source="psychopathic" target="psychological" />
+      <edge id="5" source="psychopathic" target="psychotic" />
+      <edge id="6" source="psychic" target="psychological" />
+      <edge id="7" source="psychic" target="psychical" />
+      <edge id="8" source="psychiatrist" target="psychologist" />
+      <edge id="9" source="psalter" target="psalmbook" />
+      <edge id="10" source="psychological" target="psychical" />
+      <edge id="11" source="psychological" target="psychotic" />
+      <edge id="12" source="psychotic" target="psycho" />
+      <edge id="13" source="psychotic" target="psychopath" />
+      <edge id="14" source="psychopath" target="psycho" />
+    </edges>
+  </graph>
+</gexf>

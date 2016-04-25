@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ivory" label="ivory">
+        <attvalues>
+          <attvalue for="0" value="3.54406804435" />
+        </attvalues>
+      </node>
+      <node id="ivories" label="ivories">
+        <attvalues>
+          <attvalue for="0" value="2.25042000231" />
+        </attvalues>
+      </node>
+      <node id="ivy" label="ivy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ivory" target="ivories" weight="0.021277" />
+      <edge id="1" source="ivory" target="ivy" weight="0.013699" />
+    </edges>
+  </graph>
+</gexf>

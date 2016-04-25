@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="airiness" label="airiness">
+        <attvalues>
+          <attvalue for="0" value="1.43136376416" />
+        </attvalues>
+      </node>
+      <node id="aimless" label="aimless">
+        <attvalues>
+          <attvalue for="0" value="2.52762990087" />
+        </attvalues>
+      </node>
+      <node id="airmanship" label="airmanship" />
+      <node id="airsick" label="airsick" />
+      <node id="airlift" label="airlift" />
+      <node id="aide" label="aide">
+        <attvalues>
+          <attvalue for="0" value="3.73878055848" />
+        </attvalues>
+      </node>
+      <node id="aim" label="aim">
+        <attvalues>
+          <attvalue for="0" value="4.00177696708" />
+        </attvalues>
+      </node>
+      <node id="ail" label="ail" />
+      <node id="airs" label="airs" />
+      <node id="airing" label="airing" />
+      <node id="airline" label="airline">
+        <attvalues>
+          <attvalue for="0" value="3.91291255118" />
+        </attvalues>
+      </node>
+      <node id="airy" label="airy">
+        <attvalues>
+          <attvalue for="0" value="3.15381486434" />
+        </attvalues>
+      </node>
+      <node id="aid" label="aid">
+        <attvalues>
+          <attvalue for="0" value="4.43958530078" />
+        </attvalues>
+      </node>
+      <node id="airplane" label="airplane" />
+      <node id="air" label="air" />
+      <node id="airship" label="airship">
+        <attvalues>
+          <attvalue for="0" value="2.27646180417" />
+        </attvalues>
+      </node>
+      <node id="airmail" label="airmail">
+        <attvalues>
+          <attvalue for="0" value="1.98227123304" />
+        </attvalues>
+      </node>
+      <node id="airfreight" label="airfreight" />
+    </nodes>
+    <edges>
+      <edge id="0" source="airiness" target="airy" weight="0.003802" />
+      <edge id="1" source="airiness" target="airs" weight="0.016129" />
+      <edge id="2" source="aimless" target="airy" weight="0.017123" />
+      <edge id="3" source="aimless" target="aid" weight="0.006024" />
+      <edge id="4" source="airmanship" target="aim" weight="0.006711" />
+      <edge id="5" source="airsick" target="airy" weight="0.00431" />
+      <edge id="6" source="airlift" target="aim" weight="0.021429" />
+      <edge id="7" source="airlift" target="aid" weight="0.014925" />
+      <edge id="8" source="airlift" target="airship" weight="0.022222" />
+      <edge id="9" source="airlift" target="airmail" weight="0.035088" />
+      <edge id="10" source="airlift" target="airline" weight="0.02" />
+      <edge id="11" source="aide" target="aid" weight="0.150943" />
+      <edge id="12" source="aim" target="air" weight="0.034965" />
+      <edge id="13" source="aim" target="airing" weight="0.012739" />
+      <edge id="14" source="aim" target="airplane" weight="0.008197" />
+      <edge id="15" source="aim" target="airfreight" weight="0.015038" />
+      <edge id="16" source="ail" target="airy" weight="0.003378" />
+      <edge id="17" source="airing" target="aid" weight="0.006623" />
+      <edge id="18" source="airline" target="airy" weight="0.00431" />
+      <edge id="19" source="airy" target="air" weight="0.004796" />
+      <edge id="20" source="aid" target="air" weight="0.01049" />
+      <edge id="21" source="aid" target="airmail" weight="0.009091" />
+      <edge id="22" source="aid" target="airfreight" weight="0.024" />
+      <edge id="23" source="airplane" target="airship" weight="0.083333" />
+      <edge id="24" source="airplane" target="airmail" weight="0.026316" />
+      <edge id="25" source="airship" target="airmail" weight="0.05" />
+      <edge id="26" source="airship" target="airfreight" weight="0.027027" />
+      <edge id="27" source="airmail" target="airfreight" weight="0.378378" />
+    </edges>
+  </graph>
+</gexf>

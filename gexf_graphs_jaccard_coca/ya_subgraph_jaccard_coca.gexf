@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="yawning" label="yawning" />
+      <node id="yak" label="yak">
+        <attvalues>
+          <attvalue for="0" value="2.42975228" />
+        </attvalues>
+      </node>
+      <node id="yawn" label="yawn">
+        <attvalues>
+          <attvalue for="0" value="2.83058866869" />
+        </attvalues>
+      </node>
+      <node id="yaw" label="yaw">
+        <attvalues>
+          <attvalue for="0" value="2.19589965241" />
+        </attvalues>
+      </node>
+      <node id="yacht" label="yacht" />
+      <node id="yap" label="yap" />
+      <node id="yarn" label="yarn">
+        <attvalues>
+          <attvalue for="0" value="3.02816441942" />
+        </attvalues>
+      </node>
+      <node id="yawp" label="yawp">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="yapping" label="yapping">
+        <attvalues>
+          <attvalue for="0" value="2.357934847" />
+        </attvalues>
+      </node>
+      <node id="yard" label="yard" />
+      <node id="yammering" label="yammering">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="yardstick" label="yardstick" />
+      <node id="yank" label="yank" />
+      <node id="yammer" label="yammer">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="yawning" target="yawn" weight="0.030769" />
+      <edge id="1" source="yawning" target="yaw" weight="0.008547" />
+      <edge id="2" source="yawning" target="yammering" weight="0.020408" />
+      <edge id="3" source="yawning" target="yapping" weight="0.013699" />
+      <edge id="4" source="yak" target="yapping" weight="0.010526" />
+      <edge id="5" source="yak" target="yap" weight="0.035714" />
+      <edge id="6" source="yak" target="yarn" weight="0.046296" />
+      <edge id="7" source="yak" target="yawp" weight="0.02027" />
+      <edge id="8" source="yak" target="yawn" weight="0.011364" />
+      <edge id="9" source="yak" target="yammer" weight="0.042105" />
+      <edge id="10" source="yawn" target="yardstick" weight="0.019608" />
+      <edge id="11" source="yawn" target="yaw" weight="0.008929" />
+      <edge id="12" source="yaw" target="yacht" weight="0.01" />
+      <edge id="13" source="yaw" target="yap" weight="0.005076" />
+      <edge id="14" source="yaw" target="yarn" weight="0.007353" />
+      <edge id="15" source="yaw" target="yawp" weight="0.005747" />
+      <edge id="16" source="yaw" target="yank" weight="0.009615" />
+      <edge id="17" source="yap" target="yarn" weight="0.011834" />
+      <edge id="18" source="yap" target="yawp" weight="0.685484" />
+      <edge id="19" source="yap" target="yapping" weight="0.069444" />
+      <edge id="20" source="yap" target="yammer" weight="0.266129" />
+      <edge id="21" source="yarn" target="yawp" weight="0.006803" />
+      <edge id="22" source="yarn" target="yammer" weight="0.021277" />
+      <edge id="23" source="yawp" target="yard" weight="0.005714" />
+      <edge id="24" source="yawp" target="yapping" weight="0.048" />
+      <edge id="25" source="yawp" target="yank" weight="0.008696" />
+      <edge id="26" source="yawp" target="yammer" weight="0.34" />
+      <edge id="27" source="yapping" target="yammering" weight="0.333333" />
+      <edge id="28" source="yapping" target="yammer" weight="0.039474" />
+    </edges>
+  </graph>
+</gexf>

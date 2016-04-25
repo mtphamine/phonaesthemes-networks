@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="gudgeon" label="gudgeon" />
+      <node id="gunshot" label="gunshot" />
+      <node id="gully" label="gully" />
+      <node id="gumbo" label="gumbo" />
+      <node id="guywire" label="guywire" />
+      <node id="guaranty" label="guaranty" />
+      <node id="guarding" label="guarding" />
+      <node id="guard" label="guard" />
+      <node id="guzzle" label="guzzle" />
+      <node id="gunman" label="gunman" />
+      <node id="guidebook" label="guidebook" />
+      <node id="guidepost" label="guidepost" />
+      <node id="guarantee" label="guarantee" />
+      <node id="gusto" label="gusto" />
+      <node id="gunfight" label="gunfight" />
+      <node id="gunk" label="gunk" />
+      <node id="gulf" label="gulf" />
+      <node id="guru" label="guru" />
+      <node id="guidance" label="guidance" />
+      <node id="gull" label="gull" />
+      <node id="gunner" label="gunner" />
+      <node id="gulp" label="gulp" />
+      <node id="gurge" label="gurge" />
+      <node id="gunsel" label="gunsel" />
+      <node id="gummy" label="gummy" />
+      <node id="guardian" label="guardian" />
+      <node id="guardrail" label="guardrail" />
+      <node id="gulch" label="gulch" />
+      <node id="gushing" label="gushing" />
+      <node id="gutter" label="gutter" />
+      <node id="gullet" label="gullet" />
+      <node id="gust" label="gust" />
+      <node id="guarantor" label="guarantor" />
+      <node id="gun" label="gun" />
+      <node id="gunfire" label="gunfire" />
+      <node id="gush" label="gush" />
+      <node id="gut" label="gut" />
+      <node id="guy" label="guy" />
+      <node id="guide" label="guide" />
+      <node id="guardianship" label="guardianship" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gudgeon" target="gull" />
+      <edge id="1" source="gunshot" target="gun" />
+      <edge id="2" source="gunshot" target="gunfire" />
+      <edge id="3" source="gully" target="gulch" />
+      <edge id="4" source="gully" target="gulf" />
+      <edge id="5" source="gumbo" target="gummy" />
+      <edge id="6" source="gumbo" target="gunk" />
+      <edge id="7" source="guywire" target="guy" />
+      <edge id="8" source="guaranty" target="guarantor" />
+      <edge id="9" source="guaranty" target="guarantee" />
+      <edge id="10" source="guarding" target="guardian" />
+      <edge id="11" source="guard" target="guardian" />
+      <edge id="12" source="guard" target="guardrail" />
+      <edge id="13" source="guard" target="guarantee" />
+      <edge id="14" source="guard" target="guide" />
+      <edge id="15" source="guard" target="guardianship" />
+      <edge id="16" source="guzzle" target="gulp" />
+      <edge id="17" source="guzzle" target="gullet" />
+      <edge id="18" source="gunman" target="gunsel" />
+      <edge id="19" source="gunman" target="gun" />
+      <edge id="20" source="gunman" target="gunner" />
+      <edge id="21" source="guidebook" target="guide" />
+      <edge id="22" source="guidepost" target="guide" />
+      <edge id="23" source="guarantee" target="guarantor" />
+      <edge id="24" source="gusto" target="gust" />
+      <edge id="25" source="gunfight" target="gunfire" />
+      <edge id="26" source="gulf" target="gulch" />
+      <edge id="27" source="gulf" target="gurge" />
+      <edge id="28" source="gulf" target="gut" />
+      <edge id="29" source="guru" target="guide" />
+      <edge id="30" source="guidance" target="guardianship" />
+      <edge id="31" source="gunner" target="gun" />
+      <edge id="32" source="gunsel" target="gun" />
+      <edge id="33" source="guardian" target="guide" />
+      <edge id="34" source="gushing" target="gush" />
+      <edge id="35" source="gutter" target="guide" />
+      <edge id="36" source="gullet" target="gut" />
+      <edge id="37" source="gun" target="gunfire" />
+    </edges>
+  </graph>
+</gexf>

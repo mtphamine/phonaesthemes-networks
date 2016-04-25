@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="superlative" label="superlative" />
+      <node id="supernal" label="supernal" />
+      <node id="superintendent" label="superintendent" />
+      <node id="supply" label="supply" />
+      <node id="superabundance" label="superabundance" />
+      <node id="supervenient" label="supervenient" />
+      <node id="supreme" label="supreme" />
+      <node id="supposition" label="supposition" />
+      <node id="supplementary" label="supplementary" />
+      <node id="supplant" label="supplant" />
+      <node id="supervisor" label="supervisor" />
+      <node id="supportive" label="supportive" />
+      <node id="supporter" label="supporter" />
+      <node id="superpower" label="superpower" />
+      <node id="supplicatory" label="supplicatory" />
+      <node id="supplicant" label="supplicant" />
+      <node id="support" label="support" />
+      <node id="superb" label="superb" />
+      <node id="supercharged" label="supercharged" />
+      <node id="supernatural" label="supernatural" />
+      <node id="superiority" label="superiority" />
+      <node id="superhuman" label="superhuman" />
+      <node id="superfluous" label="superfluous" />
+      <node id="supposed" label="supposed" />
+      <node id="superfine" label="superfine" />
+      <node id="supporting" label="supporting" />
+      <node id="supererogatory" label="supererogatory" />
+      <node id="superior" label="superior" />
+      <node id="supersaturated" label="supersaturated" />
+      <node id="supereminent" label="supereminent" />
+      <node id="supposing" label="supposing" />
+      <node id="supposititious" label="supposititious" />
+      <node id="super" label="super" />
+      <node id="supremacy" label="supremacy" />
+      <node id="superstar" label="superstar" />
+      <node id="supersede" label="supersede" />
+      <node id="suppositional" label="suppositional" />
+      <node id="superfluity" label="superfluity" />
+      <node id="suppose" label="suppose" />
+      <node id="suppliant" label="suppliant" />
+      <node id="superannuated" label="superannuated" />
+      <node id="superphysical" label="superphysical" />
+      <node id="supercilious" label="supercilious" />
+      <node id="supersedure" label="supersedure" />
+      <node id="superseded" label="superseded" />
+      <node id="supplanting" label="supplanting" />
+    </nodes>
+    <edges>
+      <edge id="0" source="superlative" target="superior" />
+      <edge id="1" source="superlative" target="supreme" />
+      <edge id="2" source="superlative" target="supernal" />
+      <edge id="3" source="superlative" target="superb" />
+      <edge id="4" source="superintendent" target="super" />
+      <edge id="5" source="superintendent" target="supervisor" />
+      <edge id="6" source="supply" target="support" />
+      <edge id="7" source="superabundance" target="superfluity" />
+      <edge id="8" source="supervenient" target="supplementary" />
+      <edge id="9" source="supervenient" target="superfluous" />
+      <edge id="10" source="supreme" target="superior" />
+      <edge id="11" source="supposition" target="suppose" />
+      <edge id="12" source="supposition" target="supposing" />
+      <edge id="13" source="supplementary" target="superfluous" />
+      <edge id="14" source="supplant" target="supersede" />
+      <edge id="15" source="supervisor" target="superior" />
+      <edge id="16" source="supervisor" target="super" />
+      <edge id="17" source="supportive" target="supporting" />
+      <edge id="18" source="supporter" target="support" />
+      <edge id="19" source="superpower" target="superiority" />
+      <edge id="20" source="supplicatory" target="supplicant" />
+      <edge id="21" source="supplicatory" target="suppliant" />
+      <edge id="22" source="supplicant" target="suppliant" />
+      <edge id="23" source="support" target="super" />
+      <edge id="24" source="superb" target="superfine" />
+      <edge id="25" source="superb" target="super" />
+      <edge id="26" source="superb" target="supereminent" />
+      <edge id="27" source="supercharged" target="supersaturated" />
+      <edge id="28" source="supernatural" target="superhuman" />
+      <edge id="29" source="supernatural" target="superphysical" />
+      <edge id="30" source="superiority" target="supremacy" />
+      <edge id="31" source="superhuman" target="superior" />
+      <edge id="32" source="superhuman" target="superphysical" />
+      <edge id="33" source="superfluous" target="supererogatory" />
+      <edge id="34" source="supposed" target="suppositional" />
+      <edge id="35" source="supposed" target="supposititious" />
+      <edge id="36" source="superfine" target="super" />
+      <edge id="37" source="superfine" target="supereminent" />
+      <edge id="38" source="superior" target="superstar" />
+      <edge id="39" source="superior" target="supercilious" />
+      <edge id="40" source="superior" target="super" />
+      <edge id="41" source="supereminent" target="super" />
+      <edge id="42" source="supposititious" target="suppositional" />
+      <edge id="43" source="superannuated" target="superseded" />
+      <edge id="44" source="supersedure" target="supplanting" />
+    </edges>
+  </graph>
+</gexf>

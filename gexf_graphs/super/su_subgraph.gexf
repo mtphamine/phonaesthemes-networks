@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="summer" label="summer" />
+      <node id="supersaturate" label="supersaturate" />
+      <node id="suicidal" label="suicidal" />
+      <node id="surplus" label="surplus" />
+      <node id="sutler" label="sutler" />
+      <node id="suburban" label="suburban" />
+      <node id="sunshiny" label="sunshiny" />
+      <node id="supervenient" label="supervenient" />
+      <node id="supposition" label="supposition" />
+      <node id="sunk" label="sunk" />
+      <node id="supplement" label="supplement" />
+      <node id="subtle" label="subtle" />
+      <node id="suffer" label="suffer" />
+      <node id="surety" label="surety" />
+      <node id="supporter" label="supporter" />
+      <node id="superpower" label="superpower" />
+      <node id="succor" label="succor" />
+      <node id="subversive" label="subversive" />
+      <node id="superior" label="superior" />
+      <node id="superficial" label="superficial" />
+      <node id="suicide" label="suicide" />
+      <node id="submergence" label="submergence" />
+      <node id="susceptible" label="susceptible" />
+      <node id="supplicant" label="supplicant" />
+      <node id="supply" label="supply" />
+      <node id="suspecting" label="suspecting" />
+      <node id="surroundings" label="surroundings" />
+      <node id="suffocate" label="suffocate" />
+      <node id="suspicion" label="suspicion" />
+      <node id="suspension" label="suspension" />
+      <node id="supervisor" label="supervisor" />
+      <node id="subscription" label="subscription" />
+      <node id="subjugated" label="subjugated" />
+      <node id="subtile" label="subtile" />
+      <node id="submissive" label="submissive" />
+      <node id="suds" label="suds" />
+      <node id="sufficiency" label="sufficiency" />
+      <node id="sunny" label="sunny" />
+      <node id="supereminent" label="supereminent" />
+      <node id="suitor" label="suitor" />
+      <node id="subservient" label="subservient" />
+      <node id="suffocation" label="suffocation" />
+      <node id="successor" label="successor" />
+      <node id="susceptibility" label="susceptibility" />
+      <node id="sublimate" label="sublimate" />
+      <node id="subservience" label="subservience" />
+      <node id="submittal" label="submittal" />
+      <node id="summary" label="summary" />
+      <node id="supine" label="supine" />
+      <node id="superficiality" label="superficiality" />
+      <node id="superiority" label="superiority" />
+      <node id="suborder" label="suborder" />
+      <node id="submerge" label="submerge" />
+      <node id="subjection" label="subjection" />
+      <node id="surf" label="surf" />
+      <node id="sustainer" label="sustainer" />
+      <node id="subhead" label="subhead" />
+      <node id="sublet" label="sublet" />
+      <node id="surfeit" label="surfeit" />
+      <node id="subsidize" label="subsidize" />
+      <node id="superabundance" label="superabundance" />
+      <node id="surefire" label="surefire" />
+      <node id="subsidence" label="subsidence" />
+      <node id="supplementary" label="supplementary" />
+      <node id="surrounding" label="surrounding" />
+      <node id="suffocating" label="suffocating" />
+      <node id="supplant" label="supplant" />
+      <node id="sunup" label="sunup" />
+      <node id="surly" label="surly" />
+      <node id="sustaining" label="sustaining" />
+      <node id="suited" label="suited" />
+      <node id="subordinate" label="subordinate" />
+      <node id="supportive" label="supportive" />
+      <node id="subaltern" label="subaltern" />
+      <node id="substitute" label="substitute" />
+      <node id="subject" label="subject" />
+      <node id="sub" label="sub" />
+      <node id="sun" label="sun" />
+      <node id="sum" label="sum" />
+      <node id="subclass" label="subclass" />
+      <node id="superb" label="superb" />
+      <node id="substantiality" label="substantiality" />
+      <node id="surcease" label="surcease" />
+      <node id="suspect" label="suspect" />
+      <node id="succeeding" label="succeeding" />
+      <node id="succinct" label="succinct" />
+      <node id="sup" label="sup" />
+      <node id="supplier" label="supplier" />
+      <node id="subjugation" label="subjugation" />
+      <node id="subscript" label="subscript" />
+      <node id="subordination" label="subordination" />
+      <node id="succumb" label="succumb" />
+      <node id="subsiding" label="subsiding" />
+      <node id="supporting" label="supporting" />
+      <node id="supplicatory" label="supplicatory" />
+      <node id="substratum" label="substratum" />
+      <node id="sultry" label="sultry" />
+      <node id="succeed" label="succeed" />
+      <node id="surely" label="surely" />
+      <node id="substitution" label="substitution" />
+      <node id="sublease" label="sublease" />
+      <node id="subaudible" label="subaudible" />
+      <node id="superannuated" label="superannuated" />
+      <node id="super" label="super" />
+      <node id="subconscious" label="subconscious" />
+      <node id="substance" label="substance" />
+      <node id="superstar" label="superstar" />
+      <node id="subzero" label="subzero" />
+      <node id="substantiate" label="substantiate" />
+      <node id="sustain" label="sustain" />
+      <node id="suburbia" label="suburbia" />
+      <node id="surge" label="surge" />
+      <node id="survey" label="survey" />
+      <node id="supplanting" label="supplanting" />
+      <node id="suggestion" label="suggestion" />
+      <node id="submerged" label="submerged" />
+      <node id="suitable" label="suitable" />
+      <node id="suffice" label="suffice" />
+      <node id="supererogatory" label="supererogatory" />
+      <node id="suspender" label="suspender" />
+      <node id="suspend" label="suspend" />
+      <node id="subtitle" label="subtitle" />
+      <node id="suffix" label="suffix" />
+      <node id="superlative" label="superlative" />
+      <node id="suddenly" label="suddenly" />
+      <node id="subdivide" label="subdivide" />
+      <node id="supposing" label="supposing" />
+      <node id="supernal" label="supernal" />
+      <node id="summons" label="summons" />
+      <node id="submit" label="submit" />
+      <node id="sureness" label="sureness" />
+      <node id="summation" label="summation" />
+      <node id="superintendent" label="superintendent" />
+      <node id="supple" label="supple" />
+      <node id="suck" label="suck" />
+      <node id="subscriber" label="subscriber" />
+      <node id="submerging" label="submerging" />
+      <node id="suburbs" label="suburbs" />
+      <node id="subversionary" label="subversionary" />
+      <node id="support" label="support" />
+      <node id="subtilize" label="subtilize" />
+      <node id="sunlight" label="sunlight" />
+      <node id="subsidy" label="subsidy" />
+      <node id="submarine" label="submarine" />
+      <node id="subside" label="subside" />
+      <node id="suit" label="suit" />
+      <node id="survive" label="survive" />
+      <node id="superhuman" label="superhuman" />
+      <node id="submersion" label="submersion" />
+      <node id="superfine" label="superfine" />
+      <node id="successful" label="successful" />
+      <node id="subsistence" label="subsistence" />
+      <node id="sufficient" label="sufficient" />
+      <node id="sunshine" label="sunshine" />
+      <node id="surfacing" label="surfacing" />
+      <node id="surpassing" label="surpassing" />
+      <node id="subdued" label="subdued" />
+      <node id="suite" label="suite" />
+      <node id="subsidiary" label="subsidiary" />
+      <node id="suction" label="suction" />
+      <node id="surrender" label="surrender" />
+      <node id="superannuate" label="superannuate" />
+      <node id="superego" label="superego" />
+      <node id="supposititious" label="supposititious" />
+      <node id="suppressed" label="suppressed" />
+      <node id="suppositional" label="suppositional" />
+      <node id="suggestive" label="suggestive" />
+      <node id="superfluity" label="superfluity" />
+      <node id="suppose" label="suppose" />
+      <node id="supposed" label="supposed" />
+      <node id="suttee" label="suttee" />
+      <node id="subjugate" label="subjugate" />
+      <node id="supercilious" label="supercilious" />
+      <node id="supersedure" label="supersedure" />
+      <node id="subjoin" label="subjoin" />
+      <node id="sublime" label="sublime" />
+      <node id="suckle" label="suckle" />
+      <node id="supreme" label="supreme" />
+      <node id="surfeited" label="surfeited" />
+      <node id="supercooled" label="supercooled" />
+      <node id="subdue" label="subdue" />
+      <node id="sumptuous" label="sumptuous" />
+      <node id="suggestible" label="suggestible" />
+      <node id="suspicious" label="suspicious" />
+      <node id="surprisingly" label="surprisingly" />
+      <node id="surface" label="surface" />
+      <node id="sustenance" label="sustenance" />
+      <node id="supremacy" label="supremacy" />
+      <node id="surveyor" label="surveyor" />
+      <node id="substantial" label="substantial" />
+      <node id="subsist" label="subsist" />
+      <node id="surveying" label="surveying" />
+      <node id="subtropical" label="subtropical" />
+      <node id="surcharge" label="surcharge" />
+      <node id="sullen" label="sullen" />
+      <node id="sunken" label="sunken" />
+      <node id="suggest" label="suggest" />
+      <node id="summery" label="summery" />
+      <node id="sudden" label="sudden" />
+      <node id="submission" label="submission" />
+      <node id="surveillance" label="surveillance" />
+      <node id="subduing" label="subduing" />
+      <node id="supplication" label="supplication" />
+      <node id="sunrise" label="sunrise" />
+      <node id="suppress" label="suppress" />
+      <node id="success" label="success" />
+      <node id="sultanate" label="sultanate" />
+      <node id="surmise" label="surmise" />
+      <node id="superfluous" label="superfluous" />
+      <node id="suspense" label="suspense" />
+      <node id="subpoena" label="subpoena" />
+      <node id="supersaturated" label="supersaturated" />
+      <node id="subvention" label="subvention" />
+      <node id="sure" label="sure" />
+      <node id="suchlike" label="suchlike" />
+      <node id="substructure" label="substructure" />
+      <node id="sublimation" label="sublimation" />
+      <node id="superphysical" label="superphysical" />
+      <node id="suburb" label="suburb" />
+      <node id="suppression" label="suppression" />
+      <node id="successive" label="successive" />
+      <node id="such" label="such" />
+      <node id="summarize" label="summarize" />
+      <node id="subdual" label="subdual" />
+      <node id="subplot" label="subplot" />
+      <node id="suasive" label="suasive" />
+      <node id="subdivision" label="subdivision" />
+      <node id="supersede" label="supersede" />
+      <node id="surprising" label="surprising" />
+      <node id="surrogate" label="surrogate" />
+      <node id="summon" label="summon" />
+      <node id="supervision" label="supervision" />
+      <node id="substantive" label="substantive" />
+      <node id="superscription" label="superscription" />
+      <node id="supercharged" label="supercharged" />
+      <node id="sunset" label="sunset" />
+      <node id="suppliant" label="suppliant" />
+      <node id="supernatural" label="supernatural" />
+      <node id="subsequent" label="subsequent" />
+      <node id="subgroup" label="subgroup" />
+      <node id="sunbeam" label="sunbeam" />
+      <node id="superseded" label="superseded" />
+      <node id="subtraction" label="subtraction" />
+    </nodes>
+    <edges>
+      <edge id="0" source="summer" target="summery" />
+      <edge id="1" source="supersaturate" target="surfeit" />
+      <edge id="2" source="supersaturate" target="surcharge" />
+      <edge id="3" source="suicidal" target="subversive" />
+      <edge id="4" source="suicidal" target="subversionary" />
+      <edge id="5" source="suicidal" target="subdued" />
+      <edge id="6" source="surplus" target="suspend" />
+      <edge id="7" source="surplus" target="surfeit" />
+      <edge id="8" source="surplus" target="supplementary" />
+      <edge id="9" source="surplus" target="superfluity" />
+      <edge id="10" source="surplus" target="superiority" />
+      <edge id="11" source="surplus" target="superannuate" />
+      <edge id="12" source="surplus" target="superfluous" />
+      <edge id="13" source="sutler" target="supplier" />
+      <edge id="14" source="suburban" target="surrounding" />
+      <edge id="15" source="sunshiny" target="subtropical" />
+      <edge id="16" source="sunshiny" target="sunshine" />
+      <edge id="17" source="sunshiny" target="summery" />
+      <edge id="18" source="sunshiny" target="sunny" />
+      <edge id="19" source="supervenient" target="supplementary" />
+      <edge id="20" source="supervenient" target="subsidiary" />
+      <edge id="21" source="supervenient" target="superfluous" />
+      <edge id="22" source="supposition" target="supposing" />
+      <edge id="23" source="supposition" target="suppose" />
+      <edge id="24" source="supposition" target="suggestion" />
+      <edge id="25" source="supposition" target="surmise" />
+      <edge id="26" source="sunk" target="sunken" />
+      <edge id="27" source="sunk" target="submerged" />
+      <edge id="28" source="supplement" target="subsidiary" />
+      <edge id="29" source="supplement" target="subscript" />
+      <edge id="30" source="supplement" target="suffix" />
+      <edge id="31" source="subtle" target="supple" />
+      <edge id="32" source="subtle" target="subtile" />
+      <edge id="33" source="subtle" target="subdued" />
+      <edge id="34" source="suffer" target="support" />
+      <edge id="35" source="suffer" target="sustain" />
+      <edge id="36" source="surety" target="sureness" />
+      <edge id="37" source="supporter" target="suspender" />
+      <edge id="38" source="supporter" target="subscriber" />
+      <edge id="39" source="supporter" target="support" />
+      <edge id="40" source="supporter" target="sustainer" />
+      <edge id="41" source="supporter" target="successor" />
+      <edge id="42" source="superpower" target="sultanate" />
+      <edge id="43" source="superpower" target="superiority" />
+      <edge id="44" source="succor" target="support" />
+      <edge id="45" source="subversive" target="subversionary" />
+      <edge id="46" source="superior" target="superlative" />
+      <edge id="47" source="superior" target="supreme" />
+      <edge id="48" source="superior" target="superstar" />
+      <edge id="49" source="superior" target="surpassing" />
+      <edge id="50" source="superior" target="substantial" />
+      <edge id="51" source="superior" target="supervisor" />
+      <edge id="52" source="superior" target="superhuman" />
+      <edge id="53" source="superior" target="supercilious" />
+      <edge id="54" source="superior" target="super" />
+      <edge id="55" source="superficial" target="surface" />
+      <edge id="56" source="suicide" target="suttee" />
+      <edge id="57" source="submergence" target="submersion" />
+      <edge id="58" source="submergence" target="surfacing" />
+      <edge id="59" source="submergence" target="subsidence" />
+      <edge id="60" source="susceptible" target="suggestible" />
+      <edge id="61" source="susceptible" target="submissive" />
+      <edge id="62" source="susceptible" target="supple" />
+      <edge id="63" source="susceptible" target="subject" />
+      <edge id="64" source="supplicant" target="supplicatory" />
+      <edge id="65" source="supplicant" target="suppliant" />
+      <edge id="66" source="supplicant" target="suitor" />
+      <edge id="67" source="supply" target="subsidy" />
+      <edge id="68" source="supply" target="subvention" />
+      <edge id="69" source="supply" target="support" />
+      <edge id="70" source="supply" target="subsidize" />
+      <edge id="71" source="suspecting" target="suspicious" />
+      <edge id="72" source="surroundings" target="suburbs" />
+      <edge id="73" source="suffocate" target="suppress" />
+      <edge id="74" source="suffocate" target="subdue" />
+      <edge id="75" source="suspicion" target="suspect" />
+      <edge id="76" source="suspicion" target="suggestion" />
+      <edge id="77" source="suspicion" target="sup" />
+      <edge id="78" source="suspension" target="surcease" />
+      <edge id="79" source="suspension" target="suspense" />
+      <edge id="80" source="supervisor" target="surveyor" />
+      <edge id="81" source="supervisor" target="superintendent" />
+      <edge id="82" source="supervisor" target="super" />
+      <edge id="83" source="subscription" target="surrender" />
+      <edge id="84" source="subjugated" target="subdued" />
+      <edge id="85" source="subjugated" target="suppressed" />
+      <edge id="86" source="subtile" target="supple" />
+      <edge id="87" source="submissive" target="supine" />
+      <edge id="88" source="submissive" target="subservient" />
+      <edge id="89" source="submissive" target="supple" />
+      <edge id="90" source="submissive" target="subdued" />
+      <edge id="91" source="suds" target="surf" />
+      <edge id="92" source="sufficiency" target="susceptibility" />
+      <edge id="93" source="sufficiency" target="sufficient" />
+      <edge id="94" source="sunny" target="subtropical" />
+      <edge id="95" source="sunny" target="summery" />
+      <edge id="96" source="supereminent" target="superfine" />
+      <edge id="97" source="supereminent" target="super" />
+      <edge id="98" source="supereminent" target="sublime" />
+      <edge id="99" source="supereminent" target="superb" />
+      <edge id="100" source="suitor" target="suppliant" />
+      <edge id="101" source="subservient" target="sub" />
+      <edge id="102" source="subservient" target="supine" />
+      <edge id="103" source="subservient" target="subsidiary" />
+      <edge id="104" source="subservient" target="subordinate" />
+      <edge id="105" source="subservient" target="subaltern" />
+      <edge id="106" source="subservient" target="subject" />
+      <edge id="107" source="suffocation" target="suppression" />
+      <edge id="108" source="sublimate" target="suppress" />
+      <edge id="109" source="sublimate" target="sublime" />
+      <edge id="110" source="subservience" target="subjection" />
+      <edge id="111" source="subservience" target="subordination" />
+      <edge id="112" source="submittal" target="subjection" />
+      <edge id="113" source="submittal" target="submission" />
+      <edge id="114" source="summary" target="summation" />
+      <edge id="115" source="summary" target="sum" />
+      <edge id="116" source="summary" target="substance" />
+      <edge id="117" source="summary" target="succinct" />
+      <edge id="118" source="superficiality" target="surface" />
+      <edge id="119" source="superiority" target="supremacy" />
+      <edge id="120" source="suborder" target="subdivision" />
+      <edge id="121" source="suborder" target="subclass" />
+      <edge id="122" source="suborder" target="subgroup" />
+      <edge id="123" source="submerge" target="subside" />
+      <edge id="124" source="submerge" target="surface" />
+      <edge id="125" source="subjection" target="subordination" />
+      <edge id="126" source="subjection" target="subjugation" />
+      <edge id="127" source="surf" target="surge" />
+      <edge id="128" source="sustainer" target="support" />
+      <edge id="129" source="subhead" target="superscription" />
+      <edge id="130" source="subhead" target="subtitle" />
+      <edge id="131" source="sublet" target="sublease" />
+      <edge id="132" source="surfeit" target="superfluity" />
+      <edge id="133" source="surfeit" target="surcharge" />
+      <edge id="134" source="subsidize" target="support" />
+      <edge id="135" source="subsidize" target="sustain" />
+      <edge id="136" source="superabundance" target="substantiality" />
+      <edge id="137" source="superabundance" target="superfluity" />
+      <edge id="138" source="surefire" target="successful" />
+      <edge id="139" source="surefire" target="sure" />
+      <edge id="140" source="surefire" target="substantial" />
+      <edge id="141" source="surefire" target="succeeding" />
+      <edge id="142" source="supplementary" target="subordinate" />
+      <edge id="143" source="supplementary" target="superfluous" />
+      <edge id="144" source="supplementary" target="subsidiary" />
+      <edge id="145" source="suffocating" target="sultry" />
+      <edge id="146" source="suffocating" target="suppression" />
+      <edge id="147" source="suffocating" target="subdual" />
+      <edge id="148" source="supplant" target="succeed" />
+      <edge id="149" source="supplant" target="supersede" />
+      <edge id="150" source="supplant" target="substitute" />
+      <edge id="151" source="sunup" target="sunrise" />
+      <edge id="152" source="surly" target="sullen" />
+      <edge id="153" source="sustaining" target="subsidy" />
+      <edge id="154" source="sustaining" target="subvention" />
+      <edge id="155" source="sustaining" target="sustenance" />
+      <edge id="156" source="sustaining" target="supportive" />
+      <edge id="157" source="sustaining" target="supporting" />
+      <edge id="158" source="suited" target="suitable" />
+      <edge id="159" source="subordinate" target="sub" />
+      <edge id="160" source="subordinate" target="subjugate" />
+      <edge id="161" source="subordinate" target="subaltern" />
+      <edge id="162" source="subordinate" target="subject" />
+      <edge id="163" source="supportive" target="supporting" />
+      <edge id="164" source="subaltern" target="subject" />
+      <edge id="165" source="subaltern" target="sub" />
+      <edge id="166" source="substitute" target="sub" />
+      <edge id="167" source="substitute" target="surrogate" />
+      <edge id="168" source="substitute" target="support" />
+      <edge id="169" source="substitute" target="substitution" />
+      <edge id="170" source="substitute" target="super" />
+      <edge id="171" source="subject" target="subplot" />
+      <edge id="172" source="subject" target="substance" />
+      <edge id="173" source="subject" target="sub" />
+      <edge id="174" source="subject" target="subjugate" />
+      <edge id="175" source="sub" target="surrogate" />
+      <edge id="176" source="sub" target="substitution" />
+      <edge id="177" source="sub" target="submarine" />
+      <edge id="178" source="sun" target="sunshine" />
+      <edge id="179" source="sun" target="sunlight" />
+      <edge id="180" source="sum" target="summation" />
+      <edge id="181" source="sum" target="summarize" />
+      <edge id="182" source="sum" target="substance" />
+      <edge id="183" source="superb" target="superfine" />
+      <edge id="184" source="superb" target="superlative" />
+      <edge id="185" source="superb" target="sumptuous" />
+      <edge id="186" source="superb" target="super" />
+      <edge id="187" source="superb" target="sublime" />
+      <edge id="188" source="substantiality" target="subsistence" />
+      <edge id="189" source="suspect" target="suspicious" />
+      <edge id="190" source="suspect" target="suppose" />
+      <edge id="191" source="suspect" target="suppositional" />
+      <edge id="192" source="suspect" target="surmise" />
+      <edge id="193" source="succeeding" target="successful" />
+      <edge id="194" source="succeeding" target="subsequent" />
+      <edge id="195" source="succeeding" target="successive" />
+      <edge id="196" source="sup" target="suckle" />
+      <edge id="197" source="sup" target="suck" />
+      <edge id="198" source="sup" target="suggestion" />
+      <edge id="199" source="subjugation" target="subduing" />
+      <edge id="200" source="subjugation" target="subdual" />
+      <edge id="201" source="subscript" target="suffix" />
+      <edge id="202" source="succumb" target="surrender" />
+      <edge id="203" source="succumb" target="submit" />
+      <edge id="204" source="subsiding" target="submerging" />
+      <edge id="205" source="supplicatory" target="suppliant" />
+      <edge id="206" source="substratum" target="substance" />
+      <edge id="207" source="substratum" target="substructure" />
+      <edge id="208" source="succeed" target="supersede" />
+      <edge id="209" source="surely" target="sure" />
+      <edge id="210" source="substitution" target="supplanting" />
+      <edge id="211" source="substitution" target="sublimation" />
+      <edge id="212" source="substitution" target="surrogate" />
+      <edge id="213" source="subaudible" target="subdued" />
+      <edge id="214" source="superannuated" target="superseded" />
+      <edge id="215" source="super" target="superfine" />
+      <edge id="216" source="super" target="superintendent" />
+      <edge id="217" source="super" target="support" />
+      <edge id="218" source="super" target="surpassing" />
+      <edge id="219" source="super" target="surveyor" />
+      <edge id="220" source="subconscious" target="superego" />
+      <edge id="221" source="substance" target="summation" />
+      <edge id="222" source="subzero" target="supercooled" />
+      <edge id="223" source="substantiate" target="support" />
+      <edge id="224" source="substantiate" target="sustain" />
+      <edge id="225" source="sustain" target="suckle" />
+      <edge id="226" source="sustain" target="support" />
+      <edge id="227" source="sustain" target="subsist" />
+      <edge id="228" source="sustain" target="survive" />
+      <edge id="229" source="suburbia" target="suburbs" />
+      <edge id="230" source="suburbia" target="suburb" />
+      <edge id="231" source="survey" target="surveying" />
+      <edge id="232" source="supplanting" target="supersedure" />
+      <edge id="233" source="suggestion" target="supremacy" />
+      <edge id="234" source="submerged" target="sunken" />
+      <edge id="235" source="submerged" target="submarine" />
+      <edge id="236" source="suitable" target="sufficient" />
+      <edge id="237" source="suitable" target="substantial" />
+      <edge id="238" source="suffice" target="suit" />
+      <edge id="239" source="supererogatory" target="superfluous" />
+      <edge id="240" source="suspend" target="superannuate" />
+      <edge id="241" source="subtitle" target="superscription" />
+      <edge id="242" source="suffix" target="subjoin" />
+      <edge id="243" source="superlative" target="supreme" />
+      <edge id="244" source="superlative" target="surpassing" />
+      <edge id="245" source="superlative" target="supernal" />
+      <edge id="246" source="superlative" target="sublime" />
+      <edge id="247" source="suddenly" target="sudden" />
+      <edge id="248" source="suddenly" target="surprisingly" />
+      <edge id="249" source="subdivide" target="subtilize" />
+      <edge id="250" source="supposing" target="surmise" />
+      <edge id="251" source="supernal" target="sublime" />
+      <edge id="252" source="summons" target="subpoena" />
+      <edge id="253" source="summons" target="summon" />
+      <edge id="254" source="submit" target="suggest" />
+      <edge id="255" source="superintendent" target="surveyor" />
+      <edge id="256" source="suck" target="suckle" />
+      <edge id="257" source="suck" target="suction" />
+      <edge id="258" source="support" target="subvention" />
+      <edge id="259" source="support" target="subsistence" />
+      <edge id="260" source="support" target="sustenance" />
+      <edge id="261" source="support" target="subsidy" />
+      <edge id="262" source="sunlight" target="sunshine" />
+      <edge id="263" source="sunlight" target="sunbeam" />
+      <edge id="264" source="subsidy" target="subvention" />
+      <edge id="265" source="subsidy" target="subsistence" />
+      <edge id="266" source="subsidy" target="sustenance" />
+      <edge id="267" source="submarine" target="sunken" />
+      <edge id="268" source="suit" target="suite" />
+      <edge id="269" source="suit" target="supplication" />
+      <edge id="270" source="survive" target="subsist" />
+      <edge id="271" source="superhuman" target="supernatural" />
+      <edge id="272" source="superhuman" target="superphysical" />
+      <edge id="273" source="superfine" target="sumptuous" />
+      <edge id="274" source="subsistence" target="subvention" />
+      <edge id="275" source="subsistence" target="sustenance" />
+      <edge id="276" source="sufficient" target="substantial" />
+      <edge id="277" source="sunshine" target="sunbeam" />
+      <edge id="278" source="surpassing" target="supreme" />
+      <edge id="279" source="subdued" target="suppressed" />
+      <edge id="280" source="subsidiary" target="superfluous" />
+      <edge id="281" source="surrender" target="submission" />
+      <edge id="282" source="supposititious" target="suppositional" />
+      <edge id="283" source="supposititious" target="supposed" />
+      <edge id="284" source="suppositional" target="suspicious" />
+      <edge id="285" source="suppositional" target="supposed" />
+      <edge id="286" source="suggestive" target="sure" />
+      <edge id="287" source="suggestive" target="substantial" />
+      <edge id="288" source="suppose" target="suggest" />
+      <edge id="289" source="suppose" target="surmise" />
+      <edge id="290" source="subjugate" target="subdue" />
+      <edge id="291" source="subjugate" target="suppress" />
+      <edge id="292" source="sublime" target="supreme" />
+      <edge id="293" source="supreme" target="substantial" />
+      <edge id="294" source="surfeited" target="supersaturated" />
+      <edge id="295" source="surfeited" target="supercharged" />
+      <edge id="296" source="subdue" target="suppress" />
+      <edge id="297" source="sustenance" target="subvention" />
+      <edge id="298" source="substantial" target="suasive" />
+      <edge id="299" source="substantial" target="sure" />
+      <edge id="300" source="substantial" target="substantive" />
+      <edge id="301" source="subtropical" target="summery" />
+      <edge id="302" source="sudden" target="surprising" />
+      <edge id="303" source="surveillance" target="supervision" />
+      <edge id="304" source="subduing" target="success" />
+      <edge id="305" source="subduing" target="subdual" />
+      <edge id="306" source="sunrise" target="sunset" />
+      <edge id="307" source="success" target="subdual" />
+      <edge id="308" source="subpoena" target="summon" />
+      <edge id="309" source="supersaturated" target="supercharged" />
+      <edge id="310" source="suchlike" target="such" />
+      <edge id="311" source="sublimation" target="suppression" />
+      <edge id="312" source="superphysical" target="supernatural" />
+      <edge id="313" source="suppression" target="subdual" />
+      <edge id="314" source="successive" target="subsequent" />
+      <edge id="315" source="subdivision" target="subtraction" />
+      <edge id="316" source="subdivision" target="subgroup" />
+    </edges>
+  </graph>
+</gexf>

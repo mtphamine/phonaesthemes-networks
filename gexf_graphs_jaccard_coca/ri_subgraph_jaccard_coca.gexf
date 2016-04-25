@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="rive" label="rive" />
+      <node id="ritardando" label="ritardando">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="rigidity" label="rigidity" />
+      <node id="ritualistic" label="ritualistic">
+        <attvalues>
+          <attvalue for="0" value="2.50105926222" />
+        </attvalues>
+      </node>
+      <node id="rick" label="rick">
+        <attvalues>
+          <attvalue for="0" value="4.08944585827" />
+        </attvalues>
+      </node>
+      <node id="rich" label="rich" />
+      <node id="riding" label="riding">
+        <attvalues>
+          <attvalue for="0" value="4.12175675849" />
+        </attvalues>
+      </node>
+      <node id="riverside" label="riverside" />
+      <node id="righteous" label="righteous">
+        <attvalues>
+          <attvalue for="0" value="3.14238946612" />
+        </attvalues>
+      </node>
+      <node id="rinsing" label="rinsing">
+        <attvalues>
+          <attvalue for="0" value="2.53275437899" />
+        </attvalues>
+      </node>
+      <node id="righteousness" label="righteousness">
+        <attvalues>
+          <attvalue for="0" value="2.83314711191" />
+        </attvalues>
+      </node>
+      <node id="risk" label="risk">
+        <attvalues>
+          <attvalue for="0" value="4.78438903194" />
+        </attvalues>
+      </node>
+      <node id="rise" label="rise" />
+      <node id="rivaling" label="rivaling" />
+      <node id="riskiness" label="riskiness">
+        <attvalues>
+          <attvalue for="0" value="1.73239375982" />
+        </attvalues>
+      </node>
+      <node id="ritzy" label="ritzy">
+        <attvalues>
+          <attvalue for="0" value="2.32014628611" />
+        </attvalues>
+      </node>
+      <node id="risible" label="risible" />
+      <node id="rigmarole" label="rigmarole">
+        <attvalues>
+          <attvalue for="0" value="1.75587485567" />
+        </attvalues>
+      </node>
+      <node id="river" label="river" />
+      <node id="rivet" label="rivet">
+        <attvalues>
+          <attvalue for="0" value="2.22788670461" />
+        </attvalues>
+      </node>
+      <node id="right" label="right" />
+      <node id="ripply" label="ripply">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="rivulet" label="rivulet" />
+      <node id="rile" label="rile">
+        <attvalues>
+          <attvalue for="0" value="2.09342168516" />
+        </attvalues>
+      </node>
+      <node id="rigorous" label="rigorous">
+        <attvalues>
+          <attvalue for="0" value="3.52878819177" />
+        </attvalues>
+      </node>
+      <node id="ribbon" label="ribbon" />
+      <node id="rigidly" label="rigidly" />
+      <node id="rigging" label="rigging">
+        <attvalues>
+          <attvalue for="0" value="2.83122969387" />
+        </attvalues>
+      </node>
+      <node id="ribald" label="ribald">
+        <attvalues>
+          <attvalue for="0" value="2.14301480025" />
+        </attvalues>
+      </node>
+      <node id="rite" label="rite" />
+      <node id="rime" label="rime" />
+      <node id="rightness" label="rightness" />
+      <node id="ringleader" label="ringleader">
+        <attvalues>
+          <attvalue for="0" value="2.50379068306" />
+        </attvalues>
+      </node>
+      <node id="rightward" label="rightward" />
+      <node id="risibility" label="risibility">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="rigorously" label="rigorously">
+        <attvalues>
+          <attvalue for="0" value="2.83186977428" />
+        </attvalues>
+      </node>
+      <node id="riviera" label="riviera">
+        <attvalues>
+          <attvalue for="0" value="2.88649072517" />
+        </attvalues>
+      </node>
+      <node id="ribbed" label="ribbed" />
+      <node id="ritual" label="ritual">
+        <attvalues>
+          <attvalue for="0" value="3.9475807493" />
+        </attvalues>
+      </node>
+      <node id="riposte" label="riposte" />
+      <node id="riffraff" label="riffraff">
+        <attvalues>
+          <attvalue for="0" value="1.98227123304" />
+        </attvalues>
+      </node>
+      <node id="riddle" label="riddle" />
+      <node id="ringmaster" label="ringmaster" />
+      <node id="ridiculing" label="ridiculing">
+        <attvalues>
+          <attvalue for="0" value="2.27646180417" />
+        </attvalues>
+      </node>
+      <node id="rising" label="rising">
+        <attvalues>
+          <attvalue for="0" value="4.34954948359" />
+        </attvalues>
+      </node>
+      <node id="rink" label="rink" />
+      <node id="rind" label="rind" />
+      <node id="ring" label="ring">
+        <attvalues>
+          <attvalue for="0" value="4.31506724951" />
+        </attvalues>
+      </node>
+      <node id="ripping" label="ripping">
+        <attvalues>
+          <attvalue for="0" value="3.27875360095" />
+        </attvalues>
+      </node>
+      <node id="ridge" label="ridge">
+        <attvalues>
+          <attvalue for="0" value="4.00177696708" />
+        </attvalues>
+      </node>
+      <node id="ripened" label="ripened" />
+      <node id="rifleman" label="rifleman">
+        <attvalues>
+          <attvalue for="0" value="2.08990511144" />
+        </attvalues>
+      </node>
+      <node id="riot" label="riot">
+        <attvalues>
+          <attvalue for="0" value="3.45086469238" />
+        </attvalues>
+      </node>
+      <node id="rictus" label="rictus">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="rioting" label="rioting" />
+      <node id="ridiculous" label="ridiculous" />
+      <node id="rigid" label="rigid">
+        <attvalues>
+          <attvalue for="0" value="3.63928722591" />
+        </attvalues>
+      </node>
+      <node id="rifle" label="rifle" />
+      <node id="rivalry" label="rivalry" />
+      <node id="rioter" label="rioter">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="ringlet" label="ringlet" />
+      <node id="rigamarole" label="rigamarole">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="rival" label="rival" />
+      <node id="ride" label="ride" />
+      <node id="riches" label="riches" />
+      <node id="ripen" label="ripen" />
+      <node id="ribaldry" label="ribaldry" />
+      <node id="rigged" label="rigged">
+        <attvalues>
+          <attvalue for="0" value="3.1095785469" />
+        </attvalues>
+      </node>
+      <node id="riddance" label="riddance">
+        <attvalues>
+          <attvalue for="0" value="2.37839790095" />
+        </attvalues>
+      </node>
+      <node id="rickety" label="rickety">
+        <attvalues>
+          <attvalue for="0" value="2.91803033678" />
+        </attvalues>
+      </node>
+      <node id="rialto" label="rialto" />
+      <node id="risky" label="risky" />
+      <node id="ridicule" label="ridicule">
+        <attvalues>
+          <attvalue for="0" value="3.08600370562" />
+        </attvalues>
+      </node>
+      <node id="rightly" label="rightly">
+        <attvalues>
+          <attvalue for="0" value="3.40654018043" />
+        </attvalues>
+      </node>
+      <node id="ringing" label="ringing">
+        <attvalues>
+          <attvalue for="0" value="3.60422605308" />
+        </attvalues>
+      </node>
+      <node id="ripe" label="ripe" />
+      <node id="ringer" label="ringer" />
+      <node id="rippled" label="rippled" />
+      <node id="rip" label="rip">
+        <attvalues>
+          <attvalue for="0" value="3.51732788229" />
+        </attvalues>
+      </node>
+      <node id="risque" label="risque">
+        <attvalues>
+          <attvalue for="0" value="2.29446622616" />
+        </attvalues>
+      </node>
+      <node id="ripple" label="ripple" />
+      <node id="rim" label="rim" />
+      <node id="rig" label="rig">
+        <attvalues>
+          <attvalue for="0" value="3.38649896555" />
+        </attvalues>
+      </node>
+      <node id="rid" label="rid" />
+      <node id="rib" label="rib">
+        <attvalues>
+          <attvalue for="0" value="3.29928933409" />
+        </attvalues>
+      </node>
+      <node id="riotous" label="riotous" />
+      <node id="riptide" label="riptide" />
+      <node id="rider" label="rider">
+        <attvalues>
+          <attvalue for="0" value="3.57391544042" />
+        </attvalues>
+      </node>
+      <node id="rightfully" label="rightfully">
+        <attvalues>
+          <attvalue for="0" value="2.85491302231" />
+        </attvalues>
+      </node>
+      <node id="rightist" label="rightist" />
+      <node id="rigor" label="rigor" />
+      <node id="rightful" label="rightful">
+        <attvalues>
+          <attvalue for="0" value="2.9795483747" />
+        </attvalues>
+      </node>
+      <node id="rift" label="rift">
+        <attvalues>
+          <attvalue for="0" value="3.11561051167" />
+        </attvalues>
+      </node>
+      <node id="riverhead" label="riverhead" />
+      <node id="rimple" label="rimple" />
+      <node id="ricochet" label="ricochet">
+        <attvalues>
+          <attvalue for="0" value="2.31806333496" />
+        </attvalues>
+      </node>
+      <node id="rife" label="rife">
+        <attvalues>
+          <attvalue for="0" value="2.92427928606" />
+        </attvalues>
+      </node>
+      <node id="riffle" label="riffle" />
+      <node id="rinse" label="rinse" />
+    </nodes>
+    <edges>
+      <edge id="0" source="rive" target="rift" weight="0.197605" />
+      <edge id="1" source="rive" target="ridge" weight="0.005882" />
+      <edge id="2" source="rive" target="ringing" weight="0.011111" />
+      <edge id="3" source="rive" target="riot" weight="0.008163" />
+      <edge id="4" source="rive" target="rip" weight="0.172619" />
+      <edge id="5" source="rive" target="rider" weight="0.009804" />
+      <edge id="6" source="rive" target="ring" weight="0.003012" />
+      <edge id="7" source="rive" target="riddance" weight="0.009615" />
+      <edge id="8" source="rive" target="risk" weight="0.00885" />
+      <edge id="9" source="ritardando" target="ring" weight="0.003401" />
+      <edge id="10" source="ritardando" target="rise" weight="0.003125" />
+      <edge id="11" source="ritardando" target="ringing" weight="0.039216" />
+      <edge id="12" source="rigidity" target="rightly" weight="0.015873" />
+      <edge id="13" source="rigidity" target="rigorously" weight="0.012658" />
+      <edge id="14" source="rigidity" target="rightfully" weight="0.018519" />
+      <edge id="15" source="rigidity" target="ritual" weight="0.008621" />
+      <edge id="16" source="rigidity" target="rigorous" weight="0.004" />
+      <edge id="17" source="rigidity" target="righteous" weight="0.008696" />
+      <edge id="18" source="rigidity" target="riskiness" weight="0.017857" />
+      <edge id="19" source="rigidity" target="rightful" weight="0.007634" />
+      <edge id="20" source="ritualistic" target="right" weight="0.007853" />
+      <edge id="21" source="ritualistic" target="ritzy" weight="0.014706" />
+      <edge id="22" source="ritualistic" target="ritual" weight="0.178082" />
+      <edge id="23" source="ritualistic" target="rite" weight="0.089286" />
+      <edge id="24" source="ritualistic" target="righteous" weight="0.011905" />
+      <edge id="25" source="ritualistic" target="rightful" weight="0.01" />
+      <edge id="26" source="rick" target="riddle" weight="0.003135" />
+      <edge id="27" source="rick" target="rip" weight="0.008811" />
+      <edge id="28" source="rick" target="rim" weight="0.008264" />
+      <edge id="29" source="rick" target="rising" weight="0.008299" />
+      <edge id="30" source="rick" target="ripple" weight="0.005917" />
+      <edge id="31" source="rick" target="rig" weight="0.015957" />
+      <edge id="32" source="rick" target="ring" weight="0.00551" />
+      <edge id="33" source="rick" target="rib" weight="0.006173" />
+      <edge id="34" source="rick" target="ribbon" weight="0.01105" />
+      <edge id="35" source="rick" target="ridge" weight="0.00995" />
+      <edge id="36" source="rick" target="rigging" weight="0.01105" />
+      <edge id="37" source="rick" target="riotous" weight="0.005102" />
+      <edge id="38" source="rick" target="rich" weight="0.003623" />
+      <edge id="39" source="rick" target="riverside" weight="0.019417" />
+      <edge id="40" source="rick" target="riot" weight="0.014545" />
+      <edge id="41" source="rick" target="rictus" weight="0.017544" />
+      <edge id="42" source="rick" target="rise" weight="0.012953" />
+      <edge id="43" source="rick" target="rift" weight="0.004329" />
+      <edge id="44" source="rick" target="ripping" weight="0.007353" />
+      <edge id="45" source="rick" target="ringlet" weight="0.008929" />
+      <edge id="46" source="rick" target="rimple" weight="0.009524" />
+      <edge id="47" source="rick" target="riviera" weight="0.019608" />
+      <edge id="48" source="rick" target="ride" weight="0.010309" />
+      <edge id="49" source="rick" target="riches" weight="0.009804" />
+      <edge id="50" source="rick" target="rife" weight="0.006173" />
+      <edge id="51" source="rich" target="rinsing" weight="0.004608" />
+      <edge id="52" source="rich" target="ridiculing" weight="0.004115" />
+      <edge id="53" source="rich" target="ringing" weight="0.017857" />
+      <edge id="54" source="rich" target="riot" weight="0.005236" />
+      <edge id="55" source="rich" target="risque" weight="0.009217" />
+      <edge id="56" source="rich" target="rife" weight="0.201794" />
+      <edge id="57" source="rich" target="rising" weight="0.002882" />
+      <edge id="58" source="rich" target="ridge" weight="0.003257" />
+      <edge id="59" source="rich" target="rigorous" weight="0.015345" />
+      <edge id="60" source="rich" target="rigid" weight="0.009146" />
+      <edge id="61" source="rich" target="righteous" weight="0.003831" />
+      <edge id="62" source="rich" target="ripping" weight="0.008333" />
+      <edge id="63" source="rich" target="ritzy" weight="0.042373" />
+      <edge id="64" source="riding" target="ring" weight="0.003175" />
+      <edge id="65" source="riding" target="right" weight="0.002457" />
+      <edge id="66" source="riverside" target="riviera" weight="0.85" />
+      <edge id="67" source="riverside" target="rip" weight="0.006211" />
+      <edge id="68" source="righteous" target="right" weight="0.136247" />
+      <edge id="69" source="righteous" target="rightly" weight="0.034483" />
+      <edge id="70" source="righteous" target="ripe" weight="0.034014" />
+      <edge id="71" source="righteous" target="rigorous" weight="0.014652" />
+      <edge id="72" source="righteous" target="rig" weight="0.005714" />
+      <edge id="73" source="righteous" target="rigidly" weight="0.031579" />
+      <edge id="74" source="righteous" target="ripened" weight="0.010101" />
+      <edge id="75" source="righteous" target="rightist" weight="0.012048" />
+      <edge id="76" source="righteous" target="ritzy" weight="0.008" />
+      <edge id="77" source="righteous" target="rightfully" weight="0.025316" />
+      <edge id="78" source="righteous" target="rise" weight="0.002667" />
+      <edge id="79" source="righteous" target="ridiculous" weight="0.007353" />
+      <edge id="80" source="righteous" target="rigid" weight="0.014423" />
+      <edge id="81" source="righteous" target="rightful" weight="0.161765" />
+      <edge id="82" source="righteous" target="rightward" weight="0.012346" />
+      <edge id="83" source="righteous" target="rigorously" weight="0.029126" />
+      <edge id="84" source="righteous" target="ritual" weight="0.007042" />
+      <edge id="85" source="righteous" target="rife" weight="0.006803" />
+      <edge id="86" source="righteous" target="rigor" weight="0.005618" />
+      <edge id="87" source="righteous" target="rightness" weight="0.011765" />
+      <edge id="88" source="righteous" target="rialto" weight="0.011765" />
+      <edge id="89" source="rinsing" target="riddle" weight="0.003846" />
+      <edge id="90" source="rinsing" target="right" weight="0.002519" />
+      <edge id="91" source="rinsing" target="rigging" weight="0.00813" />
+      <edge id="92" source="rinsing" target="ride" weight="0.007353" />
+      <edge id="93" source="rinsing" target="rife" weight="0.009709" />
+      <edge id="94" source="rinsing" target="rinse" weight="0.1625" />
+      <edge id="95" source="rinsing" target="ripple" weight="0.009091" />
+      <edge id="96" source="rinsing" target="river" weight="0.019231" />
+      <edge id="97" source="rinsing" target="riotous" weight="0.007299" />
+      <edge id="98" source="righteousness" target="right" weight="0.007576" />
+      <edge id="99" source="risk" target="rift" weight="0.014778" />
+      <edge id="100" source="risk" target="ringmaster" weight="0.013333" />
+      <edge id="101" source="risk" target="right" weight="0.002326" />
+      <edge id="102" source="risk" target="riot" weight="0.003968" />
+      <edge id="103" source="risk" target="rialto" weight="0.013514" />
+      <edge id="104" source="risk" target="ridicule" weight="0.007194" />
+      <edge id="105" source="risk" target="riches" weight="0.013158" />
+      <edge id="106" source="risk" target="riddle" weight="0.006849" />
+      <edge id="107" source="risk" target="rivet" weight="0.01" />
+      <edge id="108" source="risk" target="rime" weight="0.016667" />
+      <edge id="109" source="risk" target="rise" weight="0.01108" />
+      <edge id="110" source="risk" target="rising" weight="0.00463" />
+      <edge id="111" source="risk" target="rip" weight="0.00495" />
+      <edge id="112" source="risk" target="rifleman" weight="0.012195" />
+      <edge id="113" source="risk" target="rifle" weight="0.006711" />
+      <edge id="114" source="risk" target="rigor" weight="0.012048" />
+      <edge id="115" source="risk" target="ring" weight="0.002959" />
+      <edge id="116" source="risk" target="riddance" weight="0.009091" />
+      <edge id="117" source="risk" target="riskiness" weight="0.16129" />
+      <edge id="118" source="risk" target="risky" weight="0.008264" />
+      <edge id="119" source="rise" target="ringing" weight="0.005882" />
+      <edge id="120" source="rise" target="rip" weight="0.022831" />
+      <edge id="121" source="rise" target="rile" weight="0.007895" />
+      <edge id="122" source="rise" target="rising" weight="0.163728" />
+      <edge id="123" source="rise" target="rigorous" weight="0.003929" />
+      <edge id="124" source="rise" target="ring" weight="0.028169" />
+      <edge id="125" source="rise" target="ripping" weight="0.002817" />
+      <edge id="126" source="rise" target="ridge" weight="0.039409" />
+      <edge id="127" source="rise" target="rigging" weight="0.002494" />
+      <edge id="128" source="rise" target="rib" weight="0.005263" />
+      <edge id="129" source="rise" target="rider" weight="0.002833" />
+      <edge id="130" source="rise" target="riot" weight="0.048421" />
+      <edge id="131" source="rise" target="rioter" weight="0.005714" />
+      <edge id="132" source="rise" target="rightful" weight="0.002558" />
+      <edge id="133" source="rise" target="rift" weight="0.006696" />
+      <edge id="134" source="rise" target="riviera" weight="0.003106" />
+      <edge id="135" source="rise" target="ritzy" weight="0.002786" />
+      <edge id="136" source="rise" target="ritual" weight="0.005333" />
+      <edge id="137" source="rise" target="ricochet" weight="0.003096" />
+      <edge id="138" source="rise" target="riddance" weight="0.008499" />
+      <edge id="139" source="rivaling" target="rising" weight="0.005405" />
+      <edge id="140" source="rivaling" target="rioter" weight="0.013333" />
+      <edge id="141" source="rivaling" target="ripping" weight="0.012658" />
+      <edge id="142" source="riskiness" target="rift" weight="0.006369" />
+      <edge id="143" source="riskiness" target="right" weight="0.002618" />
+      <edge id="144" source="riskiness" target="rigor" weight="0.008403" />
+      <edge id="145" source="riskiness" target="rightness" weight="0.038462" />
+      <edge id="146" source="ritzy" target="right" weight="0.009479" />
+      <edge id="147" source="ritzy" target="ridiculing" weight="0.009346" />
+      <edge id="148" source="ritzy" target="ripe" weight="0.014925" />
+      <edge id="149" source="ritzy" target="rigid" weight="0.010363" />
+      <edge id="150" source="ritzy" target="ritual" weight="0.007937" />
+      <edge id="151" source="ritzy" target="rim" weight="0.011111" />
+      <edge id="152" source="ritzy" target="ripen" weight="0.011111" />
+      <edge id="153" source="ritzy" target="rigorous" weight="0.015564" />
+      <edge id="154" source="ritzy" target="rife" weight="0.007634" />
+      <edge id="155" source="ritzy" target="riffle" weight="0.010989" />
+      <edge id="156" source="ritzy" target="ridiculous" weight="0.008333" />
+      <edge id="157" source="ritzy" target="riotous" weight="0.006061" />
+      <edge id="158" source="ritzy" target="ripple" weight="0.007246" />
+      <edge id="159" source="ritzy" target="rising" weight="0.004739" />
+      <edge id="160" source="ritzy" target="ring" weight="0.003003" />
+      <edge id="161" source="ritzy" target="ripping" weight="0.06" />
+      <edge id="162" source="ritzy" target="ripened" weight="0.02439" />
+      <edge id="163" source="risible" target="rife" weight="0.009346" />
+      <edge id="164" source="risible" target="rib" weight="0.009346" />
+      <edge id="165" source="risible" target="ridiculing" weight="0.012048" />
+      <edge id="166" source="rigmarole" target="riddle" weight="0.007576" />
+      <edge id="167" source="rigmarole" target="riot" weight="0.004464" />
+      <edge id="168" source="rigmarole" target="rigamarole" weight="0.939394" />
+      <edge id="169" source="rigmarole" target="ringer" weight="0.011628" />
+      <edge id="170" source="rigmarole" target="riffraff" weight="0.032258" />
+      <edge id="171" source="rigmarole" target="ripple" weight="0.008696" />
+      <edge id="172" source="river" target="rift" weight="0.005848" />
+      <edge id="173" source="river" target="rising" weight="0.01105" />
+      <edge id="174" source="river" target="rip" weight="0.018072" />
+      <edge id="175" source="river" target="riot" weight="0.018605" />
+      <edge id="176" source="rivet" target="riddle" weight="0.018519" />
+      <edge id="177" source="rivet" target="rift" weight="0.005376" />
+      <edge id="178" source="rivet" target="right" weight="0.004878" />
+      <edge id="179" source="rivet" target="ridge" weight="0.012821" />
+      <edge id="180" source="rivet" target="ringlet" weight="0.030303" />
+      <edge id="181" source="rivet" target="rimple" weight="0.016667" />
+      <edge id="182" source="rivet" target="rigging" weight="0.014706" />
+      <edge id="183" source="rivet" target="rip" weight="0.016575" />
+      <edge id="184" source="rivet" target="rider" weight="0.011236" />
+      <edge id="185" source="rivet" target="rime" weight="0.009804" />
+      <edge id="186" source="rivet" target="rifle" weight="0.007692" />
+      <edge id="187" source="rivet" target="rig" weight="0.006897" />
+      <edge id="188" source="rivet" target="ring" weight="0.015873" />
+      <edge id="189" source="rivet" target="rib" weight="0.017241" />
+      <edge id="190" source="rivet" target="rialto" weight="0.018182" />
+      <edge id="191" source="rivet" target="ribbon" weight="0.007299" />
+      <edge id="192" source="right" target="rightly" weight="0.023622" />
+      <edge id="193" source="right" target="ringing" weight="0.002457" />
+      <edge id="194" source="right" target="rip" weight="0.005871" />
+      <edge id="195" source="right" target="rising" weight="0.001898" />
+      <edge id="196" source="right" target="rigorous" weight="0.03777" />
+      <edge id="197" source="right" target="rig" weight="0.004219" />
+      <edge id="198" source="right" target="ring" weight="0.006192" />
+      <edge id="199" source="right" target="ripping" weight="0.00716" />
+      <edge id="200" source="right" target="rightfully" weight="0.01061" />
+      <edge id="201" source="right" target="rigid" weight="0.05144" />
+      <edge id="202" source="right" target="rightful" weight="0.114355" />
+      <edge id="203" source="right" target="rift" weight="0.003883" />
+      <edge id="204" source="right" target="rigorously" weight="0.054545" />
+      <edge id="205" source="right" target="ritual" weight="0.011416" />
+      <edge id="206" source="right" target="rife" weight="0.011287" />
+      <edge id="207" source="right" target="rigged" weight="0.002597" />
+      <edge id="208" source="ripply" target="riddle" weight="0.003906" />
+      <edge id="209" source="ripply" target="ribbed" weight="0.055556" />
+      <edge id="210" source="ripply" target="rival" weight="0.007407" />
+      <edge id="211" source="ripply" target="ribald" weight="0.023529" />
+      <edge id="212" source="ripply" target="ripple" weight="0.009434" />
+      <edge id="213" source="ripply" target="ridiculous" weight="0.011364" />
+      <edge id="214" source="ripply" target="rigorous" weight="0.004386" />
+      <edge id="215" source="ripply" target="rippled" weight="0.030303" />
+      <edge id="216" source="ripply" target="rickety" weight="0.009346" />
+      <edge id="217" source="ripply" target="rioter" weight="0.014493" />
+      <edge id="218" source="ripply" target="riotous" weight="0.007519" />
+      <edge id="219" source="rivulet" target="rift" weight="0.006024" />
+      <edge id="220" source="rivulet" target="rising" weight="0.011364" />
+      <edge id="221" source="rivulet" target="rip" weight="0.012346" />
+      <edge id="222" source="rivulet" target="riot" weight="0.009434" />
+      <edge id="223" source="rile" target="riddle" weight="0.022951" />
+      <edge id="224" source="rile" target="rift" weight="0.004484" />
+      <edge id="225" source="rile" target="ritual" weight="0.006711" />
+      <edge id="226" source="rile" target="ridge" weight="0.010363" />
+      <edge id="227" source="rile" target="riot" weight="0.018797" />
+      <edge id="228" source="rile" target="ringlet" weight="0.009615" />
+      <edge id="229" source="rile" target="rimple" weight="0.020833" />
+      <edge id="230" source="rile" target="rictus" weight="0.009346" />
+      <edge id="231" source="rile" target="ride" weight="0.296552" />
+      <edge id="232" source="rile" target="ridicule" weight="0.006369" />
+      <edge id="233" source="rile" target="ripen" weight="0.00885" />
+      <edge id="234" source="rile" target="rip" weight="0.027907" />
+      <edge id="235" source="rile" target="riffle" weight="0.026786" />
+      <edge id="236" source="rile" target="rigor" weight="0.005405" />
+      <edge id="237" source="rile" target="rifle" weight="0.005988" />
+      <edge id="238" source="rile" target="ripple" weight="0.182482" />
+      <edge id="239" source="rile" target="rite" weight="0.008065" />
+      <edge id="240" source="rile" target="rib" weight="0.019737" />
+      <edge id="241" source="rigorous" target="rightly" weight="0.004464" />
+      <edge id="242" source="rigorous" target="ringing" weight="0.004132" />
+      <edge id="243" source="rigorous" target="ripe" weight="0.003497" />
+      <edge id="244" source="rigorous" target="rip" weight="0.002874" />
+      <edge id="245" source="rigorous" target="risque" weight="0.004292" />
+      <edge id="246" source="rigorous" target="rising" weight="0.002762" />
+      <edge id="247" source="rigorous" target="ripple" weight="0.00346" />
+      <edge id="248" source="rigorous" target="ripping" weight="0.028" />
+      <edge id="249" source="rigorous" target="rigidly" weight="0.013043" />
+      <edge id="250" source="rigorous" target="ribald" weight="0.007463" />
+      <edge id="251" source="rigorous" target="ripened" weight="0.004274" />
+      <edge id="252" source="rigorous" target="riotous" weight="0.01278" />
+      <edge id="253" source="rigorous" target="rippled" weight="0.009302" />
+      <edge id="254" source="rigorous" target="rightist" weight="0.009217" />
+      <edge id="255" source="rigorous" target="riot" weight="0.002513" />
+      <edge id="256" source="rigorous" target="rightfully" weight="0.004651" />
+      <edge id="257" source="rigorous" target="ridiculous" weight="0.011152" />
+      <edge id="258" source="rigorous" target="rigid" weight="0.335907" />
+      <edge id="259" source="rigorous" target="rioter" weight="0.007968" />
+      <edge id="260" source="rigorous" target="rightful" weight="0.024476" />
+      <edge id="261" source="rigorous" target="rightward" weight="0.00463" />
+      <edge id="262" source="rigorous" target="rigorously" weight="0.012605" />
+      <edge id="263" source="rigorous" target="rival" weight="0.049342" />
+      <edge id="264" source="rigorous" target="riposte" weight="0.003788" />
+      <edge id="265" source="rigorous" target="rife" weight="0.003546" />
+      <edge id="266" source="rigorous" target="rigor" weight="0.003195" />
+      <edge id="267" source="rigorous" target="rightness" weight="0.004545" />
+      <edge id="268" source="rigorous" target="rialto" weight="0.004545" />
+      <edge id="269" source="rigorous" target="rinse" weight="0.00369" />
+      <edge id="270" source="rigorous" target="risky" weight="0.011321" />
+      <edge id="271" source="ribbon" target="riot" weight="0.00346" />
+      <edge id="272" source="ribbon" target="rigging" weight="0.010417" />
+      <edge id="273" source="ribbon" target="rising" weight="0.003953" />
+      <edge id="274" source="ribbon" target="ring" weight="0.032967" />
+      <edge id="275" source="rigidly" target="rightly" weight="0.045455" />
+      <edge id="276" source="rigidly" target="rigorously" weight="0.55" />
+      <edge id="277" source="rigidly" target="rightfully" weight="0.027778" />
+      <edge id="278" source="rigidly" target="rigid" weight="0.012121" />
+      <edge id="279" source="rigidly" target="rightful" weight="0.045872" />
+      <edge id="280" source="rigging" target="riddle" weight="0.00303" />
+      <edge id="281" source="rigging" target="ritual" weight="0.005952" />
+      <edge id="282" source="rigging" target="ridge" weight="0.014218" />
+      <edge id="283" source="rigging" target="rig" weight="0.195266" />
+      <edge id="284" source="rigging" target="rinse" weight="0.006173" />
+      <edge id="285" source="rigging" target="ride" weight="0.004854" />
+      <edge id="286" source="rigging" target="ridicule" weight="0.005682" />
+      <edge id="287" source="rigging" target="rip" weight="0.004184" />
+      <edge id="288" source="rigging" target="rising" weight="0.007937" />
+      <edge id="289" source="rigging" target="rifle" weight="0.005376" />
+      <edge id="290" source="rigging" target="rite" weight="0.006993" />
+      <edge id="291" source="rigging" target="ring" weight="0.021739" />
+      <edge id="292" source="rigging" target="rib" weight="0.011628" />
+      <edge id="293" source="rigging" target="riposte" weight="0.012987" />
+      <edge id="294" source="ribald" target="ringmaster" weight="0.012658" />
+      <edge id="295" source="ribald" target="ridiculing" weight="0.044643" />
+      <edge id="296" source="ribald" target="ringing" weight="0.01" />
+      <edge id="297" source="ribald" target="rival" weight="0.023121" />
+      <edge id="298" source="ribald" target="risque" weight="0.226667" />
+      <edge id="299" source="ribald" target="ripple" weight="0.006803" />
+      <edge id="300" source="ribald" target="ribaldry" weight="0.012346" />
+      <edge id="301" source="ribald" target="ridiculous" weight="0.007752" />
+      <edge id="302" source="ribald" target="rioter" weight="0.037383" />
+      <edge id="303" source="ribald" target="riotous" weight="0.005747" />
+      <edge id="304" source="ribald" target="risky" weight="0.008" />
+      <edge id="305" source="rite" target="riot" weight="0.004184" />
+      <edge id="306" source="rite" target="ritual" weight="0.322222" />
+      <edge id="307" source="rite" target="rig" weight="0.006623" />
+      <edge id="308" source="rime" target="rift" weight="0.395973" />
+      <edge id="309" source="rime" target="ridge" weight="0.011299" />
+      <edge id="310" source="rime" target="ringing" weight="0.010204" />
+      <edge id="311" source="rime" target="rip" weight="0.090426" />
+      <edge id="312" source="rime" target="rising" weight="0.009217" />
+      <edge id="313" source="rime" target="ring" weight="0.002941" />
+      <edge id="314" source="rime" target="riddance" weight="0.018018" />
+      <edge id="315" source="rightness" target="rightly" weight="0.030303" />
+      <edge id="316" source="rightness" target="rigorously" weight="0.020408" />
+      <edge id="317" source="rightness" target="rightfully" weight="0.041667" />
+      <edge id="318" source="rightness" target="rightful" weight="0.009901" />
+      <edge id="319" source="ringleader" target="ridge" weight="0.007246" />
+      <edge id="320" source="ringleader" target="rider" weight="0.014286" />
+      <edge id="321" source="ringleader" target="rig" weight="0.007937" />
+      <edge id="322" source="ringleader" target="ring" weight="0.003333" />
+      <edge id="323" source="ringleader" target="rib" weight="0.010204" />
+      <edge id="324" source="ringleader" target="rioter" weight="0.014706" />
+      <edge id="325" source="ringleader" target="ripping" weight="0.013889" />
+      <edge id="326" source="rightward" target="rightly" weight="0.034483" />
+      <edge id="327" source="rightward" target="rigorously" weight="0.022222" />
+      <edge id="328" source="rightward" target="rightfully" weight="0.05" />
+      <edge id="329" source="rightward" target="rightful" weight="0.010309" />
+      <edge id="330" source="risibility" target="riot" weight="0.004739" />
+      <edge id="331" source="rigorously" target="riddle" weight="0.003731" />
+      <edge id="332" source="rigorously" target="rightly" weight="0.08" />
+      <edge id="333" source="rigorously" target="rightfully" weight="0.022727" />
+      <edge id="334" source="rigorously" target="rival" weight="0.006803" />
+      <edge id="335" source="rigorously" target="rigid" weight="0.011561" />
+      <edge id="336" source="rigorously" target="rigor" weight="0.007042" />
+      <edge id="337" source="rigorously" target="rightist" weight="0.021277" />
+      <edge id="338" source="rigorously" target="rialto" weight="0.020408" />
+      <edge id="339" source="rigorously" target="rightful" weight="0.042735" />
+      <edge id="340" source="riviera" target="ride" weight="0.007874" />
+      <edge id="341" source="riviera" target="rip" weight="0.00625" />
+      <edge id="342" source="riviera" target="rim" weight="0.058824" />
+      <edge id="343" source="riviera" target="riptide" weight="0.038462" />
+      <edge id="344" source="ribbed" target="rift" weight="0.012579" />
+      <edge id="345" source="ribbed" target="rip" weight="0.012821" />
+      <edge id="346" source="ritual" target="riddle" weight="0.003279" />
+      <edge id="347" source="ritual" target="rightful" weight="0.006329" />
+      <edge id="348" source="ritual" target="ride" weight="0.005525" />
+      <edge id="349" source="ritual" target="rig" weight="0.005682" />
+      <edge id="350" source="ritual" target="rigor" weight="0.005587" />
+      <edge id="351" source="riposte" target="rift" weight="0.004902" />
+      <edge id="352" source="riposte" target="ridicule" weight="0.037313" />
+      <edge id="353" source="riposte" target="rip" weight="0.004975" />
+      <edge id="354" source="riposte" target="ring" weight="0.002967" />
+      <edge id="355" source="riffraff" target="ridge" weight="0.006757" />
+      <edge id="356" source="riffraff" target="rigamarole" weight="0.032258" />
+      <edge id="357" source="riffraff" target="ride" weight="0.007092" />
+      <edge id="358" source="riffraff" target="ridicule" weight="0.009009" />
+      <edge id="359" source="riffraff" target="rind" weight="0.011765" />
+      <edge id="360" source="riffraff" target="ring" weight="0.006472" />
+      <edge id="361" source="riffraff" target="rib" weight="0.018692" />
+      <edge id="362" source="riddle" target="rift" weight="0.041096" />
+      <edge id="363" source="riddle" target="ridge" weight="0.002857" />
+      <edge id="364" source="riddle" target="riot" weight="0.016667" />
+      <edge id="365" source="riddle" target="rigamarole" weight="0.007576" />
+      <edge id="366" source="riddle" target="rip" weight="0.050139" />
+      <edge id="367" source="riddle" target="rifleman" weight="0.003906" />
+      <edge id="368" source="riddle" target="rig" weight="0.01194" />
+      <edge id="369" source="riddle" target="ring" weight="0.005882" />
+      <edge id="370" source="riddle" target="rib" weight="0.003226" />
+      <edge id="371" source="ridiculing" target="ridicule" weight="0.047244" />
+      <edge id="372" source="ridiculing" target="risque" weight="0.065789" />
+      <edge id="373" source="ridiculing" target="ridiculous" weight="0.008475" />
+      <edge id="374" source="rising" target="ripe" weight="0.004219" />
+      <edge id="375" source="rising" target="rink" weight="0.005747" />
+      <edge id="376" source="rising" target="ripple" weight="0.012605" />
+      <edge id="377" source="rising" target="ring" weight="0.028302" />
+      <edge id="378" source="rising" target="rib" weight="0.030837" />
+      <edge id="379" source="rising" target="riptide" weight="0.018405" />
+      <edge id="380" source="rising" target="ridge" weight="0.030075" />
+      <edge id="381" source="rising" target="rider" weight="0.004878" />
+      <edge id="382" source="rising" target="riot" weight="0.029412" />
+      <edge id="383" source="rising" target="rictus" weight="0.005376" />
+      <edge id="384" source="rising" target="rioting" weight="0.005882" />
+      <edge id="385" source="rising" target="rip" weight="0.023891" />
+      <edge id="386" source="rising" target="rift" weight="0.041237" />
+      <edge id="387" source="rising" target="ripping" weight="0.004831" />
+      <edge id="388" source="rising" target="riverhead" weight="0.011976" />
+      <edge id="389" source="rising" target="ride" weight="0.007547" />
+      <edge id="390" source="rising" target="ripen" weight="0.021164" />
+      <edge id="391" source="rising" target="ricochet" weight="0.005714" />
+      <edge id="392" source="rising" target="rife" weight="0.012987" />
+      <edge id="393" source="rising" target="riotous" weight="0.003745" />
+      <edge id="394" source="rising" target="riffle" weight="0.015707" />
+      <edge id="395" source="rising" target="rigid" weight="0.003378" />
+      <edge id="396" source="rising" target="riddance" weight="0.009709" />
+      <edge id="397" source="rising" target="rickety" weight="0.004149" />
+      <edge id="398" source="rink" target="rift" weight="0.006135" />
+      <edge id="399" source="rink" target="ring" weight="0.013652" />
+      <edge id="400" source="rind" target="rift" weight="0.005025" />
+      <edge id="401" source="rind" target="ridge" weight="0.005882" />
+      <edge id="402" source="rind" target="ridicule" weight="0.007519" />
+      <edge id="403" source="rind" target="rip" weight="0.015464" />
+      <edge id="404" source="rind" target="ring" weight="0.003012" />
+      <edge id="405" source="rind" target="rib" weight="0.007692" />
+      <edge id="406" source="ring" target="ringing" weight="0.067568" />
+      <edge id="407" source="ring" target="ripe" weight="0.002786" />
+      <edge id="408" source="ring" target="rim" weight="0.012862" />
+      <edge id="409" source="ring" target="rig" weight="0.010526" />
+      <edge id="410" source="ring" target="ripple" weight="0.016807" />
+      <edge id="411" source="ring" target="ripping" weight="0.006098" />
+      <edge id="412" source="ring" target="ridge" weight="0.147826" />
+      <edge id="413" source="ring" target="rib" weight="0.163399" />
+      <edge id="414" source="ring" target="riot" weight="0.002123" />
+      <edge id="415" source="ring" target="rictus" weight="0.006515" />
+      <edge id="416" source="ring" target="rigid" weight="0.004796" />
+      <edge id="417" source="ring" target="rip" weight="0.00716" />
+      <edge id="418" source="ring" target="rift" weight="0.024096" />
+      <edge id="419" source="ring" target="ringlet" weight="0.003279" />
+      <edge id="420" source="ring" target="rimple" weight="0.006734" />
+      <edge id="421" source="ring" target="rival" weight="0.007712" />
+      <edge id="422" source="ring" target="ride" weight="0.007772" />
+      <edge id="423" source="ring" target="ripen" weight="0.003185" />
+      <edge id="424" source="ring" target="riffle" weight="0.009585" />
+      <edge id="425" source="ring" target="rigor" weight="0.002591" />
+      <edge id="426" source="ring" target="rialto" weight="0.013793" />
+      <edge id="427" source="ripping" target="ripe" weight="0.007634" />
+      <edge id="428" source="ripping" target="rip" weight="0.026455" />
+      <edge id="429" source="ripping" target="ripple" weight="0.007463" />
+      <edge id="430" source="ripping" target="rib" weight="0.007874" />
+      <edge id="431" source="ripping" target="riotous" weight="0.006211" />
+      <edge id="432" source="ripping" target="ridge" weight="0.005988" />
+      <edge id="433" source="ripping" target="rigor" weight="0.006329" />
+      <edge id="434" source="ripping" target="rioter" weight="0.020833" />
+      <edge id="435" source="ripping" target="rift" weight="0.005102" />
+      <edge id="436" source="ripping" target="rival" weight="0.012346" />
+      <edge id="437" source="ripping" target="riffle" weight="0.011494" />
+      <edge id="438" source="ripping" target="rigid" weight="0.015957" />
+      <edge id="439" source="ripping" target="riddance" weight="0.009901" />
+      <edge id="440" source="ridge" target="ringing" weight="0.006536" />
+      <edge id="441" source="ridge" target="rip" weight="0.003861" />
+      <edge id="442" source="ridge" target="rim" weight="0.026846" />
+      <edge id="443" source="ridge" target="ripple" weight="0.098361" />
+      <edge id="444" source="ridge" target="rib" weight="0.347222" />
+      <edge id="445" source="ridge" target="riot" weight="0.006494" />
+      <edge id="446" source="ridge" target="rictus" weight="0.013793" />
+      <edge id="447" source="ridge" target="rigor" weight="0.013514" />
+      <edge id="448" source="ridge" target="rifle" weight="0.014706" />
+      <edge id="449" source="ridge" target="rift" weight="0.039526" />
+      <edge id="450" source="ridge" target="riverhead" weight="0.007813" />
+      <edge id="451" source="ridge" target="ringlet" weight="0.006993" />
+      <edge id="452" source="ridge" target="rimple" weight="0.141667" />
+      <edge id="453" source="ridge" target="rival" weight="0.004367" />
+      <edge id="454" source="ridge" target="ride" weight="0.004425" />
+      <edge id="455" source="ridge" target="ripen" weight="0.006579" />
+      <edge id="456" source="ridge" target="riffle" weight="0.013158" />
+      <edge id="457" source="ripened" target="rigid" weight="0.005952" />
+      <edge id="458" source="rifleman" target="rider" weight="0.014085" />
+      <edge id="459" source="rifleman" target="rifle" weight="0.153061" />
+      <edge id="460" source="riot" target="ripe" weight="0.003663" />
+      <edge id="461" source="riot" target="ripple" weight="0.018382" />
+      <edge id="462" source="riot" target="rib" weight="0.015038" />
+      <edge id="463" source="riot" target="riptide" weight="0.01" />
+      <edge id="464" source="riot" target="rictus" weight="0.004505" />
+      <edge id="465" source="riot" target="rioting" weight="0.06701" />
+      <edge id="466" source="riot" target="rigid" weight="0.003012" />
+      <edge id="467" source="riot" target="rip" weight="0.018182" />
+      <edge id="468" source="riot" target="rifle" weight="0.010714" />
+      <edge id="469" source="riot" target="rivalry" weight="0.004717" />
+      <edge id="470" source="riot" target="rioter" weight="0.008403" />
+      <edge id="471" source="riot" target="rift" weight="0.002959" />
+      <edge id="472" source="riot" target="rigamarole" weight="0.004464" />
+      <edge id="473" source="riot" target="rival" weight="0.02" />
+      <edge id="474" source="riot" target="ride" weight="0.023649" />
+      <edge id="475" source="riot" target="ridicule" weight="0.018657" />
+      <edge id="476" source="riot" target="riches" weight="0.014493" />
+      <edge id="477" source="riot" target="ripen" weight="0.008811" />
+      <edge id="478" source="riot" target="rife" weight="0.007463" />
+      <edge id="479" source="riot" target="riffle" weight="0.013216" />
+      <edge id="480" source="riot" target="rigor" weight="0.006689" />
+      <edge id="481" source="riot" target="riotous" weight="0.013333" />
+      <edge id="482" source="riot" target="rinse" weight="0.003876" />
+      <edge id="483" source="rictus" target="ricochet" weight="0.020833" />
+      <edge id="484" source="rictus" target="rifle" weight="0.008403" />
+      <edge id="485" source="rictus" target="ripple" weight="0.00885" />
+      <edge id="486" source="rictus" target="rib" weight="0.019048" />
+      <edge id="487" source="ridiculous" target="risque" weight="0.010753" />
+      <edge id="488" source="ridiculous" target="rife" weight="0.021429" />
+      <edge id="489" source="ridiculous" target="rickety" weight="0.013423" />
+      <edge id="490" source="ridiculous" target="rioter" weight="0.008929" />
+      <edge id="491" source="rigid" target="ripe" weight="0.018433" />
+      <edge id="492" source="rigid" target="rival" weight="0.012" />
+      <edge id="493" source="rigid" target="rip" weight="0.003546" />
+      <edge id="494" source="rigid" target="rialto" weight="0.006494" />
+      <edge id="495" source="rigid" target="rightist" weight="0.013245" />
+      <edge id="496" source="rigid" target="riotous" weight="0.004" />
+      <edge id="497" source="rigid" target="rigged" weight="0.006494" />
+      <edge id="498" source="rigid" target="rightful" weight="0.022523" />
+      <edge id="499" source="rigid" target="rioter" weight="0.005376" />
+      <edge id="500" source="rifle" target="rift" weight="0.053571" />
+      <edge id="501" source="rifle" target="rip" weight="0.035556" />
+      <edge id="502" source="rioter" target="rival" weight="0.25" />
+      <edge id="503" source="rioter" target="riotous" weight="0.025974" />
+      <edge id="504" source="rioter" target="ripple" weight="0.007692" />
+      <edge id="505" source="rioter" target="rider" weight="0.010526" />
+      <edge id="506" source="ringlet" target="rift" weight="0.011696" />
+      <edge id="507" source="ringlet" target="rip" weight="0.005917" />
+      <edge id="508" source="rigamarole" target="ringer" weight="0.011628" />
+      <edge id="509" source="rigamarole" target="ripple" weight="0.008696" />
+      <edge id="510" source="rival" target="rift" weight="0.003876" />
+      <edge id="511" source="rival" target="rider" weight="0.0125" />
+      <edge id="512" source="rival" target="rib" weight="0.005291" />
+      <edge id="513" source="rival" target="rightful" weight="0.010101" />
+      <edge id="514" source="ride" target="rift" weight="0.003922" />
+      <edge id="515" source="ride" target="ridicule" weight="0.079545" />
+      <edge id="516" source="ride" target="rip" weight="0.020161" />
+      <edge id="517" source="ride" target="ricochet" weight="0.007813" />
+      <edge id="518" source="ride" target="rib" weight="0.093567" />
+      <edge id="519" source="ripen" target="rip" weight="0.005618" />
+      <edge id="520" source="ribaldry" target="ridicule" weight="0.010309" />
+      <edge id="521" source="ribaldry" target="risque" weight="0.022222" />
+      <edge id="522" source="rigged" target="rife" weight="0.010989" />
+      <edge id="523" source="rigged" target="ripe" weight="0.066667" />
+      <edge id="524" source="riddance" target="rift" weight="0.010256" />
+      <edge id="525" source="riddance" target="rip" weight="0.005181" />
+      <edge id="526" source="riddance" target="rid" weight="0.018182" />
+      <edge id="527" source="riddance" target="rinse" weight="0.008621" />
+      <edge id="528" source="rickety" target="rife" weight="0.006211" />
+      <edge id="529" source="rickety" target="rid" weight="0.022727" />
+      <edge id="530" source="rickety" target="riotous" weight="0.010309" />
+      <edge id="531" source="rickety" target="risky" weight="0.020833" />
+      <edge id="532" source="rialto" target="rightly" weight="0.030303" />
+      <edge id="533" source="rialto" target="rightfully" weight="0.041667" />
+      <edge id="534" source="rialto" target="rightful" weight="0.02" />
+      <edge id="535" source="risky" target="risque" weight="0.058824" />
+      <edge id="536" source="ridicule" target="ringer" weight="0.007463" />
+      <edge id="537" source="ridicule" target="rib" weight="0.090278" />
+      <edge id="538" source="rightly" target="rightfully" weight="0.45" />
+      <edge id="539" source="rightly" target="rigor" weight="0.007937" />
+      <edge id="540" source="rightly" target="rightist" weight="0.032258" />
+      <edge id="541" source="rightly" target="rightful" weight="0.019231" />
+      <edge id="542" source="ringing" target="rift" weight="0.005495" />
+      <edge id="543" source="ringing" target="ripe" weight="0.008547" />
+      <edge id="544" source="ringing" target="rib" weight="0.00885" />
+      <edge id="545" source="ringing" target="rip" weight="0.005587" />
+      <edge id="546" source="ringing" target="rife" weight="0.00885" />
+      <edge id="547" source="ringing" target="riotous" weight="0.006803" />
+      <edge id="548" source="ripe" target="rife" weight="0.006369" />
+      <edge id="549" source="ripe" target="rig" weight="0.005405" />
+      <edge id="550" source="ripe" target="rightful" weight="0.030675" />
+      <edge id="551" source="ringer" target="rig" weight="0.006289" />
+      <edge id="552" source="rip" target="ripple" weight="0.013393" />
+      <edge id="553" source="rip" target="rib" weight="0.004566" />
+      <edge id="554" source="rip" target="riptide" weight="0.055556" />
+      <edge id="555" source="rip" target="riotous" weight="0.003953" />
+      <edge id="556" source="rip" target="rift" weight="0.151394" />
+      <edge id="557" source="rip" target="rimple" weight="0.006173" />
+      <edge id="558" source="rip" target="ricochet" weight="0.006211" />
+      <edge id="559" source="rip" target="riffle" weight="0.005587" />
+      <edge id="560" source="rip" target="rigor" weight="0.004" />
+      <edge id="561" source="rip" target="rinse" weight="0.004808" />
+      <edge id="562" source="ripple" target="rift" weight="0.004367" />
+      <edge id="563" source="ripple" target="rib" weight="0.018987" />
+      <edge id="564" source="rim" target="ricochet" weight="0.018519" />
+      <edge id="565" source="rim" target="rig" weight="0.007143" />
+      <edge id="566" source="rim" target="rib" weight="0.018018" />
+      <edge id="567" source="rig" target="rinse" weight="0.005882" />
+      <edge id="568" source="rig" target="rightful" weight="0.005236" />
+      <edge id="569" source="rib" target="rift" weight="0.037209" />
+      <edge id="570" source="rib" target="rimple" weight="0.021053" />
+      <edge id="571" source="riotous" target="rife" weight="0.305556" />
+      <edge id="572" source="riptide" target="rift" weight="0.006494" />
+      <edge id="573" source="rightfully" target="rigor" weight="0.008547" />
+      <edge id="574" source="rightfully" target="rightist" weight="0.045455" />
+      <edge id="575" source="rightfully" target="rightful" weight="0.021053" />
+      <edge id="576" source="rightist" target="rightful" weight="0.010101" />
+      <edge id="577" source="rigor" target="rightful" weight="0.005155" />
+      <edge id="578" source="rightful" target="rife" weight="0.006135" />
+      <edge id="579" source="rift" target="rimple" weight="0.006061" />
+      <edge id="580" source="riverhead" target="ricochet" weight="0.033333" />
+      <edge id="581" source="rife" target="rinse" weight="0.007042" />
+    </edges>
+  </graph>
+</gexf>

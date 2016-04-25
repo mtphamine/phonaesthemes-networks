@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="affair" label="affair" />
+      <node id="afterwards" label="afterwards" />
+      <node id="afterworld" label="afterworld" />
+      <node id="affix" label="affix" />
+      <node id="affirmative" label="affirmative" />
+      <node id="affiliation" label="affiliation" />
+      <node id="affliction" label="affliction" />
+      <node id="afoot" label="afoot" />
+      <node id="affairs" label="affairs" />
+      <node id="afterlife" label="afterlife" />
+      <node id="afloat" label="afloat" />
+      <node id="affinity" label="affinity" />
+      <node id="aft" label="aft" />
+      <node id="aftertaste" label="aftertaste" />
+      <node id="affluence" label="affluence" />
+      <node id="after" label="after" />
+      <node id="affirmation" label="affirmation" />
+      <node id="afterglow" label="afterglow" />
+      <node id="aftermath" label="aftermath" />
+      <node id="affixation" label="affixation" />
+      <node id="aftereffect" label="aftereffect" />
+      <node id="affidavit" label="affidavit" />
+      <node id="afflux" label="afflux" />
+      <node id="afterimage" label="afterimage" />
+      <node id="affiliate" label="affiliate" />
+      <node id="affect" label="affect" />
+      <node id="affiliated" label="affiliated" />
+      <node id="affection" label="affection" />
+    </nodes>
+    <edges>
+      <edge id="0" source="affair" target="affairs" />
+      <edge id="1" source="afterwards" target="after" />
+      <edge id="2" source="afterworld" target="afterlife" />
+      <edge id="3" source="affix" target="affixation" />
+      <edge id="4" source="affirmative" target="affirmation" />
+      <edge id="5" source="affiliation" target="affairs" />
+      <edge id="6" source="affiliation" target="affinity" />
+      <edge id="7" source="affliction" target="affection" />
+      <edge id="8" source="afoot" target="afloat" />
+      <edge id="9" source="affairs" target="affinity" />
+      <edge id="10" source="aft" target="after" />
+      <edge id="11" source="aftertaste" target="aftermath" />
+      <edge id="12" source="aftertaste" target="afterglow" />
+      <edge id="13" source="aftertaste" target="aftereffect" />
+      <edge id="14" source="aftertaste" target="afterimage" />
+      <edge id="15" source="affluence" target="afflux" />
+      <edge id="16" source="affirmation" target="affidavit" />
+      <edge id="17" source="afterglow" target="afterimage" />
+      <edge id="18" source="afterglow" target="aftereffect" />
+      <edge id="19" source="afterglow" target="aftermath" />
+      <edge id="20" source="aftermath" target="aftereffect" />
+      <edge id="21" source="aftermath" target="afterimage" />
+      <edge id="22" source="aftereffect" target="afterimage" />
+      <edge id="23" source="affiliate" target="affiliated" />
+      <edge id="24" source="affect" target="affect" />
+      <edge id="25" source="affect" target="affection" />
+    </edges>
+  </graph>
+</gexf>

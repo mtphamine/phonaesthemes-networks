@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="twisty" label="twisty" />
+      <node id="twinkling" label="twinkling" />
+      <node id="twine" label="twine" />
+      <node id="twofold" label="twofold" />
+      <node id="twitchy" label="twitchy" />
+      <node id="twinkle" label="twinkle" />
+      <node id="twit" label="twit" />
+      <node id="tweak" label="tweak" />
+      <node id="tweet" label="tweet" />
+      <node id="twisting" label="twisting" />
+      <node id="twinge" label="twinge" />
+      <node id="two" label="two" />
+      <node id="twitching" label="twitching" />
+      <node id="twist" label="twist" />
+      <node id="tweedle" label="tweedle" />
+      <node id="twin" label="twin" />
+      <node id="twill" label="twill" />
+      <node id="twosome" label="twosome" />
+      <node id="twirl" label="twirl" />
+      <node id="twitch" label="twitch" />
+      <node id="twitter" label="twitter" />
+    </nodes>
+    <edges>
+      <edge id="0" source="twisty" target="twisting" />
+      <edge id="1" source="twinkling" target="twitch" />
+      <edge id="2" source="twinkling" target="twinkle" />
+      <edge id="3" source="twine" target="twist" />
+      <edge id="4" source="twine" target="twill" />
+      <edge id="5" source="twine" target="twirl" />
+      <edge id="6" source="twofold" target="twin" />
+      <edge id="7" source="twitchy" target="twitching" />
+      <edge id="8" source="twinkle" target="twitch" />
+      <edge id="9" source="twit" target="tweedle" />
+      <edge id="10" source="twit" target="tweet" />
+      <edge id="11" source="twit" target="twitter" />
+      <edge id="12" source="tweak" target="twist" />
+      <edge id="13" source="tweak" target="twitch" />
+      <edge id="14" source="tweak" target="twinge" />
+      <edge id="15" source="tweet" target="tweedle" />
+      <edge id="16" source="tweet" target="twitter" />
+      <edge id="17" source="twinge" target="twitch" />
+      <edge id="18" source="two" target="twosome" />
+      <edge id="19" source="two" target="twin" />
+      <edge id="20" source="twist" target="twill" />
+      <edge id="21" source="twist" target="twirl" />
+      <edge id="22" source="tweedle" target="twitter" />
+      <edge id="23" source="twitch" target="twitter" />
+    </edges>
+  </graph>
+</gexf>

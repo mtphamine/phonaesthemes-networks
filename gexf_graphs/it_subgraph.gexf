@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="itch" label="itch" />
+      <node id="itching" label="itching" />
+      <node id="itemization" label="itemization" />
+      <node id="italic" label="italic" />
+      <node id="items" label="items" />
+      <node id="itchy" label="itchy" />
+      <node id="italicized" label="italicized" />
+    </nodes>
+    <edges>
+      <edge id="0" source="itch" target="itching" />
+      <edge id="1" source="itching" target="itchy" />
+      <edge id="2" source="itemization" target="items" />
+      <edge id="3" source="italic" target="italicized" />
+    </edges>
+  </graph>
+</gexf>

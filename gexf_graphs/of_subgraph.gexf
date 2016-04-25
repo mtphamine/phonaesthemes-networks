@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="off" label="off" />
+      <node id="offering" label="offering" />
+      <node id="offer" label="offer" />
+      <node id="offscourings" label="offscourings" />
+      <node id="official" label="official" />
+      <node id="offensive" label="offensive" />
+      <node id="offbeat" label="offbeat" />
+      <node id="offal" label="offal" />
+      <node id="officeholder" label="officeholder" />
+      <node id="offset" label="offset" />
+      <node id="offshoot" label="offshoot" />
+      <node id="offense" label="offense" />
+      <node id="offertory" label="offertory" />
+      <node id="offspring" label="offspring" />
+      <node id="officer" label="officer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="off" target="offbeat" />
+      <edge id="1" source="offering" target="offertory" />
+      <edge id="2" source="offering" target="offer" />
+      <edge id="3" source="offscourings" target="offal" />
+      <edge id="4" source="official" target="officer" />
+      <edge id="5" source="official" target="officeholder" />
+      <edge id="6" source="offensive" target="offense" />
+      <edge id="7" source="officeholder" target="officer" />
+      <edge id="8" source="offset" target="offshoot" />
+      <edge id="9" source="offshoot" target="offspring" />
+    </edges>
+  </graph>
+</gexf>

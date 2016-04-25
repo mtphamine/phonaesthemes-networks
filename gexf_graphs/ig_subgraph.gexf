@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="ignobility" label="ignobility" />
+      <node id="ignominious" label="ignominious" />
+      <node id="ignominy" label="ignominy" />
+      <node id="ignoble" label="ignoble" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ignobility" target="ignominy" />
+      <edge id="1" source="ignominious" target="ignoble" />
+    </edges>
+  </graph>
+</gexf>

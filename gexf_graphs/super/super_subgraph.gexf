@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="superlative" label="superlative" />
+      <node id="supervisor" label="supervisor" />
+      <node id="superabundance" label="superabundance" />
+      <node id="supervenient" label="supervenient" />
+      <node id="supernal" label="supernal" />
+      <node id="superintendent" label="superintendent" />
+      <node id="superpower" label="superpower" />
+      <node id="superior" label="superior" />
+      <node id="superseded" label="superseded" />
+      <node id="superb" label="superb" />
+      <node id="superfluity" label="superfluity" />
+      <node id="supernatural" label="supernatural" />
+      <node id="superhuman" label="superhuman" />
+      <node id="superfluous" label="superfluous" />
+      <node id="supersaturated" label="supersaturated" />
+      <node id="supererogatory" label="supererogatory" />
+      <node id="supereminent" label="supereminent" />
+      <node id="super" label="super" />
+      <node id="superstar" label="superstar" />
+      <node id="superfine" label="superfine" />
+      <node id="supercharged" label="supercharged" />
+      <node id="superiority" label="superiority" />
+      <node id="superannuated" label="superannuated" />
+      <node id="superphysical" label="superphysical" />
+      <node id="supercilious" label="supercilious" />
+    </nodes>
+    <edges>
+      <edge id="0" source="superlative" target="superior" />
+      <edge id="1" source="superlative" target="supernal" />
+      <edge id="2" source="superlative" target="superb" />
+      <edge id="3" source="supervisor" target="superior" />
+      <edge id="4" source="supervisor" target="superintendent" />
+      <edge id="5" source="supervisor" target="super" />
+      <edge id="6" source="superabundance" target="superfluity" />
+      <edge id="7" source="supervenient" target="superfluous" />
+      <edge id="8" source="superintendent" target="super" />
+      <edge id="9" source="superpower" target="superiority" />
+      <edge id="10" source="superior" target="superstar" />
+      <edge id="11" source="superior" target="superhuman" />
+      <edge id="12" source="superior" target="supercilious" />
+      <edge id="13" source="superior" target="super" />
+      <edge id="14" source="superseded" target="superannuated" />
+      <edge id="15" source="superb" target="superfine" />
+      <edge id="16" source="superb" target="super" />
+      <edge id="17" source="superb" target="supereminent" />
+      <edge id="18" source="supernatural" target="superhuman" />
+      <edge id="19" source="supernatural" target="superphysical" />
+      <edge id="20" source="superhuman" target="superphysical" />
+      <edge id="21" source="superfluous" target="supererogatory" />
+      <edge id="22" source="supersaturated" target="supercharged" />
+      <edge id="23" source="supereminent" target="superfine" />
+      <edge id="24" source="supereminent" target="super" />
+      <edge id="25" source="super" target="superfine" />
+    </edges>
+  </graph>
+</gexf>

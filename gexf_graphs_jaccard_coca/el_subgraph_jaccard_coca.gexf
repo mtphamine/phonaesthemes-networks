@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="electorate" label="electorate" />
+      <node id="el" label="el" />
+      <node id="elopement" label="elopement" />
+      <node id="elect" label="elect" />
+      <node id="elegiac" label="elegiac" />
+      <node id="elliptical" label="elliptical" />
+      <node id="elemental" label="elemental">
+        <attvalues>
+          <attvalue for="0" value="2.93951925262" />
+        </attvalues>
+      </node>
+      <node id="elegize" label="elegize" />
+      <node id="elasticity" label="elasticity" />
+      <node id="elderly" label="elderly" />
+      <node id="elude" label="elude" />
+      <node id="elevate" label="elevate">
+        <attvalues>
+          <attvalue for="0" value="3.05499586153" />
+        </attvalues>
+      </node>
+      <node id="elan" label="elan">
+        <attvalues>
+          <attvalue for="0" value="2.66275783168" />
+        </attvalues>
+      </node>
+      <node id="electrostatic" label="electrostatic" />
+      <node id="elaborateness" label="elaborateness">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="elevated" label="elevated" />
+      <node id="elitist" label="elitist" />
+      <node id="elephantine" label="elephantine" />
+      <node id="elate" label="elate">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="elder" label="elder">
+        <attvalues>
+          <attvalue for="0" value="3.66595602945" />
+        </attvalues>
+      </node>
+      <node id="ellipse" label="ellipse">
+        <attvalues>
+          <attvalue for="0" value="2.34635297445" />
+        </attvalues>
+      </node>
+      <node id="elsewhere" label="elsewhere">
+        <attvalues>
+          <attvalue for="0" value="4.20852197293" />
+        </attvalues>
+      </node>
+      <node id="elk" label="elk" />
+      <node id="ell" label="ell">
+        <attvalues>
+          <attvalue for="0" value="2.72015930341" />
+        </attvalues>
+      </node>
+      <node id="eleven" label="eleven" />
+      <node id="electrify" label="electrify" />
+      <node id="eloquent" label="eloquent">
+        <attvalues>
+          <attvalue for="0" value="3.15533603747" />
+        </attvalues>
+      </node>
+      <node id="elf" label="elf" />
+      <node id="electrolyze" label="electrolyze" />
+      <node id="elegance" label="elegance">
+        <attvalues>
+          <attvalue for="0" value="3.26102483399" />
+        </attvalues>
+      </node>
+      <node id="election" label="election">
+        <attvalues>
+          <attvalue for="0" value="4.58495281569" />
+        </attvalues>
+      </node>
+      <node id="elation" label="elation" />
+      <node id="elision" label="elision">
+        <attvalues>
+          <attvalue for="0" value="1.74036268949" />
+        </attvalues>
+      </node>
+      <node id="eliminate" label="eliminate">
+        <attvalues>
+          <attvalue for="0" value="3.97598294371" />
+        </attvalues>
+      </node>
+      <node id="elliptic" label="elliptic" />
+      <node id="electroplating" label="electroplating">
+        <attvalues>
+          <attvalue for="0" value="1.85733249643" />
+        </attvalues>
+      </node>
+      <node id="ellipsis" label="ellipsis">
+        <attvalues>
+          <attvalue for="0" value="1.9956351946" />
+        </attvalues>
+      </node>
+      <node id="elfin" label="elfin">
+        <attvalues>
+          <attvalue for="0" value="2.31597034546" />
+        </attvalues>
+      </node>
+      <node id="elements" label="elements" />
+      <node id="elevation" label="elevation" />
+      <node id="electric" label="electric">
+        <attvalues>
+          <attvalue for="0" value="4.24261595757" />
+        </attvalues>
+      </node>
+      <node id="elbowroom" label="elbowroom" />
+      <node id="eleemosynary" label="eleemosynary" />
+      <node id="elucidate" label="elucidate">
+        <attvalues>
+          <attvalue for="0" value="2.59879050676" />
+        </attvalues>
+      </node>
+      <node id="elephant" label="elephant">
+        <attvalues>
+          <attvalue for="0" value="3.60379370414" />
+        </attvalues>
+      </node>
+      <node id="electrified" label="electrified">
+        <attvalues>
+          <attvalue for="0" value="2.72835378202" />
+        </attvalues>
+      </node>
+      <node id="elementary" label="elementary" />
+      <node id="elapsed" label="elapsed">
+        <attvalues>
+          <attvalue for="0" value="2.76641284711" />
+        </attvalues>
+      </node>
+      <node id="elbow" label="elbow">
+        <attvalues>
+          <attvalue for="0" value="3.74880800496" />
+        </attvalues>
+      </node>
+      <node id="electron" label="electron">
+        <attvalues>
+          <attvalue for="0" value="3.37694175715" />
+        </attvalues>
+      </node>
+      <node id="elixir" label="elixir" />
+      <node id="elimination" label="elimination" />
+      <node id="else" label="else" />
+      <node id="elite" label="elite" />
+      <node id="elocution" label="elocution">
+        <attvalues>
+          <attvalue for="0" value="1.83884909074" />
+        </attvalues>
+      </node>
+      <node id="elated" label="elated">
+        <attvalues>
+          <attvalue for="0" value="2.86153441086" />
+        </attvalues>
+      </node>
+      <node id="elapse" label="elapse">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="electrolysis" label="electrolysis" />
+      <node id="elastic" label="elastic" />
+      <node id="elope" label="elope">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="elegant" label="elegant">
+        <attvalues>
+          <attvalue for="0" value="3.88275215561" />
+        </attvalues>
+      </node>
+      <node id="elected" label="elected">
+        <attvalues>
+          <attvalue for="0" value="4.2564290823" />
+        </attvalues>
+      </node>
+      <node id="elaborate" label="elaborate" />
+      <node id="eligible" label="eligible" />
+      <node id="elide" label="elide">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="elicit" label="elicit">
+        <attvalues>
+          <attvalue for="0" value="3.16879202031" />
+        </attvalues>
+      </node>
+      <node id="element" label="element" />
+      <node id="eloquence" label="eloquence" />
+      <node id="electricity" label="electricity" />
+      <node id="elfish" label="elfish">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="elective" label="elective">
+        <attvalues>
+          <attvalue for="0" value="3.06520612805" />
+        </attvalues>
+      </node>
+      <node id="elusion" label="elusion">
+        <attvalues>
+          <attvalue for="0" value="1.11394335231" />
+        </attvalues>
+      </node>
+      <node id="elongate" label="elongate" />
+      <node id="elaboration" label="elaboration" />
+      <node id="electrifying" label="electrifying">
+        <attvalues>
+          <attvalue for="0" value="2.57518784493" />
+        </attvalues>
+      </node>
+      <node id="elongated" label="elongated">
+        <attvalues>
+          <attvalue for="0" value="3.00130093302" />
+        </attvalues>
+      </node>
+      <node id="elegy" label="elegy">
+        <attvalues>
+          <attvalue for="0" value="2.52244423351" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="electorate" target="elegance" weight="0.009174" />
+      <edge id="1" source="electorate" target="elaborateness" weight="0.021277" />
+      <edge id="2" source="el" target="elbow" weight="0.007299" />
+      <edge id="3" source="el" target="elated" weight="0.011236" />
+      <edge id="4" source="el" target="electrifying" weight="0.014493" />
+      <edge id="5" source="el" target="electric" weight="0.404255" />
+      <edge id="6" source="elopement" target="elope" weight="0.043478" />
+      <edge id="7" source="elect" target="elevate" weight="0.007246" />
+      <edge id="8" source="elect" target="elder" weight="0.015" />
+      <edge id="9" source="elect" target="elegant" weight="0.008439" />
+      <edge id="10" source="elect" target="elemental" weight="0.007634" />
+      <edge id="11" source="elect" target="elegance" weight="0.006944" />
+      <edge id="12" source="elect" target="elapsed" weight="0.011494" />
+      <edge id="13" source="elect" target="elected" weight="0.164179" />
+      <edge id="14" source="elect" target="elective" weight="0.00885" />
+      <edge id="15" source="elect" target="elaborateness" weight="0.012195" />
+      <edge id="16" source="elect" target="eliminate" weight="0.006993" />
+      <edge id="17" source="elect" target="election" weight="0.019417" />
+      <edge id="18" source="elegiac" target="elated" weight="0.016393" />
+      <edge id="19" source="elegiac" target="elegy" weight="0.054054" />
+      <edge id="20" source="elliptical" target="elongated" weight="0.111111" />
+      <edge id="21" source="elemental" target="elastic" weight="0.009174" />
+      <edge id="22" source="elemental" target="elfin" weight="0.022472" />
+      <edge id="23" source="elemental" target="eloquent" weight="0.011494" />
+      <edge id="24" source="elemental" target="elf" weight="0.018018" />
+      <edge id="25" source="elemental" target="element" weight="0.062069" />
+      <edge id="26" source="elemental" target="elder" weight="0.00495" />
+      <edge id="27" source="elemental" target="elective" weight="0.00885" />
+      <edge id="28" source="elemental" target="elixir" weight="0.025" />
+      <edge id="29" source="elemental" target="elementary" weight="0.593407" />
+      <edge id="30" source="elemental" target="elite" weight="0.008065" />
+      <edge id="31" source="elemental" target="election" weight="0.009615" />
+      <edge id="32" source="elegize" target="elegy" weight="0.102564" />
+      <edge id="33" source="elasticity" target="elegance" weight="0.010101" />
+      <edge id="34" source="elderly" target="elder" weight="0.006494" />
+      <edge id="35" source="elderly" target="elapsed" weight="0.025641" />
+      <edge id="36" source="elude" target="elbow" weight="0.006329" />
+      <edge id="37" source="elude" target="elusion" weight="0.038961" />
+      <edge id="38" source="elude" target="elan" weight="0.010204" />
+      <edge id="39" source="elude" target="eliminate" weight="0.007299" />
+      <edge id="40" source="elude" target="elope" weight="0.014085" />
+      <edge id="41" source="elevate" target="elapse" weight="0.022472" />
+      <edge id="42" source="elevate" target="elaboration" weight="0.013158" />
+      <edge id="43" source="elevate" target="elevation" weight="0.044118" />
+      <edge id="44" source="elevate" target="elucidate" weight="0.010526" />
+      <edge id="45" source="elevate" target="elaborate" weight="0.018018" />
+      <edge id="46" source="elevate" target="elevated" weight="0.007663" />
+      <edge id="47" source="elevate" target="eliminate" weight="0.006667" />
+      <edge id="48" source="elevate" target="elbow" weight="0.005848" />
+      <edge id="49" source="elevate" target="elate" weight="0.051948" />
+      <edge id="50" source="elan" target="elation" weight="0.032258" />
+      <edge id="51" source="elan" target="elegance" weight="0.008547" />
+      <edge id="52" source="elan" target="elixir" weight="0.010526" />
+      <edge id="53" source="electrostatic" target="electrifying" weight="0.15625" />
+      <edge id="54" source="electrostatic" target="electric" weight="0.03125" />
+      <edge id="55" source="electrostatic" target="electrified" weight="0.333333" />
+      <edge id="56" source="elaborateness" target="elevation" weight="0.019481" />
+      <edge id="57" source="elaborateness" target="elaborate" weight="0.005917" />
+      <edge id="58" source="elaborateness" target="elegance" weight="0.2" />
+      <edge id="59" source="elaborateness" target="elegant" weight="0.005291" />
+      <edge id="60" source="elaborateness" target="elite" weight="0.013333" />
+      <edge id="61" source="elevated" target="elated" weight="0.016878" />
+      <edge id="62" source="elevated" target="electric" weight="0.101523" />
+      <edge id="63" source="elevated" target="eloquent" weight="0.019231" />
+      <edge id="64" source="elevated" target="elegant" weight="0.052174" />
+      <edge id="65" source="elevated" target="elbow" weight="0.003472" />
+      <edge id="66" source="elevated" target="electrifying" weight="0.004545" />
+      <edge id="67" source="elevated" target="elongated" weight="0.009804" />
+      <edge id="68" source="elitist" target="elder" weight="0.013699" />
+      <edge id="69" source="elephantine" target="elegant" weight="0.007605" />
+      <edge id="70" source="elephantine" target="elephant" weight="0.026316" />
+      <edge id="71" source="elephantine" target="eliminate" weight="0.005917" />
+      <edge id="72" source="elephantine" target="elapsed" weight="0.00885" />
+      <edge id="73" source="elate" target="elation" weight="0.015625" />
+      <edge id="74" source="elate" target="elevation" weight="0.013699" />
+      <edge id="75" source="elder" target="elevation" weight="0.010949" />
+      <edge id="76" source="elder" target="eligible" weight="0.006667" />
+      <edge id="77" source="elder" target="elegant" weight="0.003236" />
+      <edge id="78" source="elder" target="elegance" weight="0.004651" />
+      <edge id="79" source="elder" target="elapsed" weight="0.006329" />
+      <edge id="80" source="elder" target="eleven" weight="0.025641" />
+      <edge id="81" source="elder" target="elective" weight="0.005435" />
+      <edge id="82" source="elder" target="elementary" weight="0.004651" />
+      <edge id="83" source="elder" target="elite" weight="0.010309" />
+      <edge id="84" source="ellipse" target="elbow" weight="0.017544" />
+      <edge id="85" source="ellipse" target="elite" weight="0.013333" />
+      <edge id="86" source="ellipse" target="ell" weight="0.042553" />
+      <edge id="87" source="elsewhere" target="elated" weight="0.041667" />
+      <edge id="88" source="elsewhere" target="elliptic" weight="0.015152" />
+      <edge id="89" source="elk" target="elbow" weight="0.008772" />
+      <edge id="90" source="elk" target="elephant" weight="0.108108" />
+      <edge id="91" source="ell" target="elbow" weight="0.247619" />
+      <edge id="92" source="ell" target="elusion" weight="0.019608" />
+      <edge id="93" source="ell" target="elevation" weight="0.017751" />
+      <edge id="94" source="ell" target="element" weight="0.008403" />
+      <edge id="95" source="eleven" target="eliminate" weight="0.01" />
+      <edge id="96" source="electrify" target="elbow" weight="0.02027" />
+      <edge id="97" source="electrify" target="elicit" weight="0.052632" />
+      <edge id="98" source="eloquent" target="eloquence" weight="0.033333" />
+      <edge id="99" source="eloquent" target="elegant" weight="0.010363" />
+      <edge id="100" source="eloquent" target="elliptic" weight="0.015625" />
+      <edge id="101" source="eloquent" target="elementary" weight="0.01" />
+      <edge id="102" source="eloquent" target="elocution" weight="0.051282" />
+      <edge id="103" source="elf" target="elfish" weight="0.015873" />
+      <edge id="104" source="elf" target="elfin" weight="0.058824" />
+      <edge id="105" source="electrolyze" target="elide" weight="0.016949" />
+      <edge id="106" source="elegance" target="elapse" weight="0.010417" />
+      <edge id="107" source="elegance" target="elaboration" weight="0.012658" />
+      <edge id="108" source="elegance" target="elevation" weight="0.023364" />
+      <edge id="109" source="elegance" target="elegant" weight="0.008" />
+      <edge id="110" source="elegance" target="elaborate" weight="0.008696" />
+      <edge id="111" source="elegance" target="elimination" weight="0.007092" />
+      <edge id="112" source="elegance" target="elixir" weight="0.007407" />
+      <edge id="113" source="elegance" target="elite" weight="0.007299" />
+      <edge id="114" source="election" target="elements" weight="0.015625" />
+      <edge id="115" source="election" target="elegant" weight="0.004739" />
+      <edge id="116" source="election" target="elective" weight="0.023529" />
+      <edge id="117" source="election" target="elementary" weight="0.008547" />
+      <edge id="118" source="election" target="elevation" weight="0.017045" />
+      <edge id="119" source="election" target="elite" weight="0.020833" />
+      <edge id="120" source="elision" target="elaboration" weight="0.030303" />
+      <edge id="121" source="elision" target="electrolysis" weight="0.028571" />
+      <edge id="122" source="elision" target="elide" weight="0.03125" />
+      <edge id="123" source="elision" target="eliminate" weight="0.010204" />
+      <edge id="124" source="elision" target="elliptic" weight="0.015873" />
+      <edge id="125" source="elision" target="ellipsis" weight="0.909091" />
+      <edge id="126" source="eliminate" target="elapse" weight="0.010526" />
+      <edge id="127" source="eliminate" target="elucidate" weight="0.01" />
+      <edge id="128" source="eliminate" target="elaborate" weight="0.004348" />
+      <edge id="129" source="eliminate" target="elide" weight="0.23" />
+      <edge id="130" source="eliminate" target="elimination" weight="0.052239" />
+      <edge id="131" source="eliminate" target="elegant" weight="0.004" />
+      <edge id="132" source="eliminate" target="elliptic" weight="0.008333" />
+      <edge id="133" source="eliminate" target="ellipsis" weight="0.010204" />
+      <edge id="134" source="elliptic" target="elide" weight="0.023256" />
+      <edge id="135" source="elliptic" target="elegant" weight="0.004651" />
+      <edge id="136" source="elliptic" target="ellipsis" weight="0.015873" />
+      <edge id="137" source="elliptic" target="elongated" weight="0.035088" />
+      <edge id="138" source="electroplating" target="electron" weight="0.058824" />
+      <edge id="139" source="electroplating" target="electrolysis" weight="0.222222" />
+      <edge id="140" source="electroplating" target="element" weight="0.032609" />
+      <edge id="141" source="ellipsis" target="elaboration" weight="0.030303" />
+      <edge id="142" source="ellipsis" target="electrolysis" weight="0.028571" />
+      <edge id="143" source="ellipsis" target="elide" weight="0.03125" />
+      <edge id="144" source="elfin" target="elementary" weight="0.019608" />
+      <edge id="145" source="elfin" target="elfish" weight="0.076923" />
+      <edge id="146" source="elevation" target="elapse" weight="0.006369" />
+      <edge id="147" source="elevation" target="elope" weight="0.006623" />
+      <edge id="148" source="elevation" target="elbow" weight="0.008439" />
+      <edge id="149" source="electric" target="elated" weight="0.012987" />
+      <edge id="150" source="electric" target="electrified" weight="0.051282" />
+      <edge id="151" source="electric" target="else" weight="0.017241" />
+      <edge id="152" source="elbowroom" target="elective" weight="0.016393" />
+      <edge id="153" source="eleemosynary" target="elegant" weight="0.005236" />
+      <edge id="154" source="eleemosynary" target="elective" weight="0.030769" />
+      <edge id="155" source="elucidate" target="elegant" weight="0.005128" />
+      <edge id="156" source="elucidate" target="elaborate" weight="0.011494" />
+      <edge id="157" source="elucidate" target="elide" weight="0.014925" />
+      <edge id="158" source="elephant" target="electricity" weight="0.032258" />
+      <edge id="159" source="electrified" target="electrifying" weight="0.125" />
+      <edge id="160" source="elementary" target="elegant" weight="0.020243" />
+      <edge id="161" source="elementary" target="elective" weight="0.007937" />
+      <edge id="162" source="elapsed" target="elected" weight="0.030303" />
+      <edge id="163" source="elapsed" target="elegant" weight="0.005155" />
+      <edge id="164" source="elapsed" target="else" weight="0.018868" />
+      <edge id="165" source="elbow" target="elapse" weight="0.008621" />
+      <edge id="166" source="elbow" target="elope" weight="0.009091" />
+      <edge id="167" source="elbow" target="element" weight="0.005376" />
+      <edge id="168" source="elbow" target="elusion" weight="0.008475" />
+      <edge id="169" source="elbow" target="elite" weight="0.006369" />
+      <edge id="170" source="electron" target="element" weight="0.042105" />
+      <edge id="171" source="electron" target="elixir" weight="0.014925" />
+      <edge id="172" source="electron" target="electrolysis" weight="0.04" />
+      <edge id="173" source="elixir" target="elicit" weight="0.011905" />
+      <edge id="174" source="elimination" target="elapse" weight="0.0125" />
+      <edge id="175" source="elimination" target="elide" weight="0.018868" />
+      <edge id="176" source="else" target="elegant" weight="0.004902" />
+      <edge id="177" source="elite" target="elected" weight="0.075758" />
+      <edge id="178" source="elite" target="elegant" weight="0.008696" />
+      <edge id="179" source="elocution" target="eloquence" weight="0.272727" />
+      <edge id="180" source="elated" target="elegant" weight="0.004484" />
+      <edge id="181" source="elapse" target="elaboration" weight="0.010204" />
+      <edge id="182" source="elapse" target="elope" weight="0.071429" />
+      <edge id="183" source="elapse" target="elusion" weight="0.027027" />
+      <edge id="184" source="elapse" target="elongate" weight="0.029412" />
+      <edge id="185" source="elastic" target="elegant" weight="0.00463" />
+      <edge id="186" source="elegant" target="elected" weight="0.005435" />
+      <edge id="187" source="elegant" target="elaboration" weight="0.003953" />
+      <edge id="188" source="elegant" target="elaborate" weight="0.189781" />
+      <edge id="189" source="elegant" target="elide" weight="0.009259" />
+      <edge id="190" source="elegant" target="elective" weight="0.004545" />
+      <edge id="191" source="elide" target="elaboration" weight="0.016129" />
+      <edge id="192" source="element" target="elective" weight="0.022556" />
+      <edge id="193" source="elongate" target="elongated" weight="0.1" />
+    </edges>
+  </graph>
+</gexf>

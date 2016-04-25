@@ -1,0 +1,2692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="cruising" label="cruising" />
+      <node id="criticism" label="criticism">
+        <attvalues>
+          <attvalue for="0" value="4.20145174912" />
+        </attvalues>
+      </node>
+      <node id="crumpled" label="crumpled">
+        <attvalues>
+          <attvalue for="0" value="3.26764098235" />
+        </attvalues>
+      </node>
+      <node id="cruiser" label="cruiser" />
+      <node id="crotchet" label="crotchet">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="crucial" label="crucial" />
+      <node id="crate" label="crate">
+        <attvalues>
+          <attvalue for="0" value="3.17055505852" />
+        </attvalues>
+      </node>
+      <node id="crayon" label="crayon" />
+      <node id="cruise" label="cruise" />
+      <node id="cretin" label="cretin">
+        <attvalues>
+          <attvalue for="0" value="1.77085201164" />
+        </attvalues>
+      </node>
+      <node id="crabby" label="crabby" />
+      <node id="cripple" label="cripple">
+        <attvalues>
+          <attvalue for="0" value="2.96614173274" />
+        </attvalues>
+      </node>
+      <node id="crew" label="crew" />
+      <node id="critical" label="critical" />
+      <node id="crying" label="crying">
+        <attvalues>
+          <attvalue for="0" value="4.14101055334" />
+        </attvalues>
+      </node>
+      <node id="crack" label="crack">
+        <attvalues>
+          <attvalue for="0" value="4.06096211309" />
+        </attvalues>
+      </node>
+      <node id="crimson" label="crimson" />
+      <node id="crimp" label="crimp">
+        <attvalues>
+          <attvalue for="0" value="2.53655844257" />
+        </attvalues>
+      </node>
+      <node id="criminal" label="criminal">
+        <attvalues>
+          <attvalue for="0" value="4.37406980373" />
+        </attvalues>
+      </node>
+      <node id="crest" label="crest" />
+      <node id="crash" label="crash">
+        <attvalues>
+          <attvalue for="0" value="4.11048869984" />
+        </attvalues>
+      </node>
+      <node id="cryptography" label="cryptography" />
+      <node id="crumbling" label="crumbling">
+        <attvalues>
+          <attvalue for="0" value="3.34576569311" />
+        </attvalues>
+      </node>
+      <node id="cranky" label="cranky">
+        <attvalues>
+          <attvalue for="0" value="2.92376196083" />
+        </attvalues>
+      </node>
+      <node id="crushed" label="crushed">
+        <attvalues>
+          <attvalue for="0" value="3.78986263005" />
+        </attvalues>
+      </node>
+      <node id="crux" label="crux" />
+      <node id="credentials" label="credentials">
+        <attvalues>
+          <attvalue for="0" value="3.49262072204" />
+        </attvalues>
+      </node>
+      <node id="crusher" label="crusher" />
+      <node id="crackbrain" label="crackbrain">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="crass" label="crass" />
+      <node id="crisp" label="crisp" />
+      <node id="crock" label="crock" />
+      <node id="cry" label="cry" />
+      <node id="craftsmanship" label="craftsmanship">
+        <attvalues>
+          <attvalue for="0" value="2.87737134587" />
+        </attvalues>
+      </node>
+      <node id="crossing" label="crossing" />
+      <node id="crucifixion" label="crucifixion">
+        <attvalues>
+          <attvalue for="0" value="2.80413943234" />
+        </attvalues>
+      </node>
+      <node id="cringle" label="cringle" />
+      <node id="cringe" label="cringe" />
+      <node id="crescendo" label="crescendo">
+        <attvalues>
+          <attvalue for="0" value="2.710963119" />
+        </attvalues>
+      </node>
+      <node id="cramp" label="cramp" />
+      <node id="cranny" label="cranny" />
+      <node id="creek" label="creek" />
+      <node id="crowd" label="crowd">
+        <attvalues>
+          <attvalue for="0" value="4.45345594678" />
+        </attvalues>
+      </node>
+      <node id="creator" label="creator" />
+      <node id="crabbed" label="crabbed" />
+      <node id="crow" label="crow">
+        <attvalues>
+          <attvalue for="0" value="3.58636222331" />
+        </attvalues>
+      </node>
+      <node id="creed" label="creed">
+        <attvalues>
+          <attvalue for="0" value="3.13097669161" />
+        </attvalues>
+      </node>
+      <node id="creation" label="creation" />
+      <node id="crown" label="crown" />
+      <node id="crop" label="crop">
+        <attvalues>
+          <attvalue for="0" value="3.88570038013" />
+        </attvalues>
+      </node>
+      <node id="crook" label="crook">
+        <attvalues>
+          <attvalue for="0" value="3.11193427633" />
+        </attvalues>
+      </node>
+      <node id="crave" label="crave">
+        <attvalues>
+          <attvalue for="0" value="3.04805317312" />
+        </attvalues>
+      </node>
+      <node id="crosscurrent" label="crosscurrent" />
+      <node id="croon" label="croon" />
+      <node id="crescent" label="crescent" />
+      <node id="critique" label="critique" />
+      <node id="crossbones" label="crossbones" />
+      <node id="crutch" label="crutch" />
+      <node id="creep" label="creep" />
+      <node id="crotchety" label="crotchety" />
+      <node id="crystalline" label="crystalline" />
+      <node id="croft" label="croft">
+        <attvalues>
+          <attvalue for="0" value="2.50242711998" />
+        </attvalues>
+      </node>
+      <node id="crepuscule" label="crepuscule">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="crooked" label="crooked">
+        <attvalues>
+          <attvalue for="0" value="3.37162192718" />
+        </attvalues>
+      </node>
+      <node id="crackpot" label="crackpot">
+        <attvalues>
+          <attvalue for="0" value="2.37291200297" />
+        </attvalues>
+      </node>
+      <node id="crust" label="crust" />
+      <node id="crush" label="crush">
+        <attvalues>
+          <attvalue for="0" value="3.58172215995" />
+        </attvalues>
+      </node>
+      <node id="cradle" label="cradle">
+        <attvalues>
+          <attvalue for="0" value="3.2487087356" />
+        </attvalues>
+      </node>
+      <node id="crude" label="crude" />
+      <node id="crenellate" label="crenellate">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="crony" label="crony">
+        <attvalues>
+          <attvalue for="0" value="2.34635297445" />
+        </attvalues>
+      </node>
+      <node id="crunch" label="crunch">
+        <attvalues>
+          <attvalue for="0" value="3.46389298899" />
+        </attvalues>
+      </node>
+      <node id="credo" label="credo" />
+      <node id="crouch" label="crouch">
+        <attvalues>
+          <attvalue for="0" value="2.9951962916" />
+        </attvalues>
+      </node>
+      <node id="crucified" label="crucified">
+        <attvalues>
+          <attvalue for="0" value="2.82216807937" />
+        </attvalues>
+      </node>
+      <node id="crippled" label="crippled" />
+      <node id="crone" label="crone" />
+      <node id="craving" label="craving">
+        <attvalues>
+          <attvalue for="0" value="3.12936759572" />
+        </attvalues>
+      </node>
+      <node id="cryptic" label="cryptic">
+        <attvalues>
+          <attvalue for="0" value="2.89872518159" />
+        </attvalues>
+      </node>
+      <node id="creeps" label="creeps">
+        <attvalues>
+          <attvalue for="0" value="3.00173371281" />
+        </attvalues>
+      </node>
+      <node id="crime" label="crime" />
+      <node id="crosier" label="crosier" />
+      <node id="creepy" label="creepy" />
+      <node id="credit" label="credit" />
+      <node id="crybaby" label="crybaby">
+        <attvalues>
+          <attvalue for="0" value="2.08278537032" />
+        </attvalues>
+      </node>
+      <node id="crucifix" label="crucifix">
+        <attvalues>
+          <attvalue for="0" value="2.82672252017" />
+        </attvalues>
+      </node>
+      <node id="craftsman" label="craftsman" />
+      <node id="crystallize" label="crystallize">
+        <attvalues>
+          <attvalue for="0" value="2.27646180417" />
+        </attvalues>
+      </node>
+      <node id="croak" label="croak" />
+      <node id="credible" label="credible">
+        <attvalues>
+          <attvalue for="0" value="3.60487377055" />
+        </attvalues>
+      </node>
+      <node id="crosshatch" label="crosshatch" />
+      <node id="crumpet" label="crumpet">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="crib" label="crib" />
+      <node id="craps" label="craps" />
+      <node id="croup" label="croup">
+        <attvalues>
+          <attvalue for="0" value="2.09342168516" />
+        </attvalues>
+      </node>
+      <node id="credulous" label="credulous">
+        <attvalues>
+          <attvalue for="0" value="2.08635983067" />
+        </attvalues>
+      </node>
+      <node id="crater" label="crater">
+        <attvalues>
+          <attvalue for="0" value="3.41027096425" />
+        </attvalues>
+      </node>
+      <node id="crisis" label="crisis">
+        <attvalues>
+          <attvalue for="0" value="4.52386347651" />
+        </attvalues>
+      </node>
+      <node id="crammed" label="crammed">
+        <attvalues>
+          <attvalue for="0" value="3.26245108973" />
+        </attvalues>
+      </node>
+      <node id="craw" label="craw" />
+      <node id="crap" label="crap">
+        <attvalues>
+          <attvalue for="0" value="3.45636603313" />
+        </attvalues>
+      </node>
+      <node id="create" label="create">
+        <attvalues>
+          <attvalue for="0" value="4.71999382637" />
+        </attvalues>
+      </node>
+      <node id="creativity" label="creativity" />
+      <node id="creamy" label="creamy">
+        <attvalues>
+          <attvalue for="0" value="3.46938013585" />
+        </attvalues>
+      </node>
+      <node id="crag" label="crag" />
+      <node id="crab" label="crab">
+        <attvalues>
+          <attvalue for="0" value="3.54145442875" />
+        </attvalues>
+      </node>
+      <node id="cram" label="cram">
+        <attvalues>
+          <attvalue for="0" value="2.82347422917" />
+        </attvalues>
+      </node>
+      <node id="critter" label="critter">
+        <attvalues>
+          <attvalue for="0" value="2.54157924395" />
+        </attvalues>
+      </node>
+      <node id="crafty" label="crafty">
+        <attvalues>
+          <attvalue for="0" value="2.66275783168" />
+        </attvalues>
+      </node>
+      <node id="crunched" label="crunched">
+        <attvalues>
+          <attvalue for="0" value="2.73957234445" />
+        </attvalues>
+      </node>
+      <node id="cricket" label="cricket">
+        <attvalues>
+          <attvalue for="0" value="3.13481437032" />
+        </attvalues>
+      </node>
+      <node id="crushing" label="crushing" />
+      <node id="crisscross" label="crisscross" />
+      <node id="crackle" label="crackle">
+        <attvalues>
+          <attvalue for="0" value="2.78247262417" />
+        </attvalues>
+      </node>
+      <node id="crooner" label="crooner" />
+      <node id="cruelty" label="cruelty">
+        <attvalues>
+          <attvalue for="0" value="3.31785448933" />
+        </attvalues>
+      </node>
+      <node id="crappy" label="crappy" />
+      <node id="crevice" label="crevice" />
+      <node id="crosswise" label="crosswise">
+        <attvalues>
+          <attvalue for="0" value="2.81690383938" />
+        </attvalues>
+      </node>
+      <node id="craft" label="craft" />
+      <node id="crank" label="crank" />
+      <node id="crane" label="crane">
+        <attvalues>
+          <attvalue for="0" value="3.54937115233" />
+        </attvalues>
+      </node>
+      <node id="crumble" label="crumble">
+        <attvalues>
+          <attvalue for="0" value="3.06483221974" />
+        </attvalues>
+      </node>
+      <node id="crawl" label="crawl" />
+      <node id="crumb" label="crumb" />
+      <node id="cruet" label="cruet" />
+      <node id="crossbreed" label="crossbreed" />
+      <node id="critic" label="critic" />
+      <node id="crupper" label="crupper" />
+      <node id="crossroads" label="crossroads" />
+      <node id="crystal" label="crystal">
+        <attvalues>
+          <attvalue for="0" value="3.91206255559" />
+        </attvalues>
+      </node>
+      <node id="cruel" label="cruel">
+        <attvalues>
+          <attvalue for="0" value="3.7199110642" />
+        </attvalues>
+      </node>
+      <node id="croissant" label="croissant" />
+      <node id="cracked" label="cracked" />
+      <node id="creeping" label="creeping" />
+      <node id="crucify" label="crucify">
+        <attvalues>
+          <attvalue for="0" value="2.03342375549" />
+        </attvalues>
+      </node>
+      <node id="crazy" label="crazy">
+        <attvalues>
+          <attvalue for="0" value="4.35251052782" />
+        </attvalues>
+      </node>
+      <node id="credence" label="credence">
+        <attvalues>
+          <attvalue for="0" value="2.8859263398" />
+        </attvalues>
+      </node>
+      <node id="crevasse" label="crevasse">
+        <attvalues>
+          <attvalue for="0" value="2.3909351071" />
+        </attvalues>
+      </node>
+      <node id="crowning" label="crowning" />
+      <node id="crick" label="crick">
+        <attvalues>
+          <attvalue for="0" value="2.69196510277" />
+        </attvalues>
+      </node>
+      <node id="creeper" label="creeper" />
+      <node id="crusade" label="crusade">
+        <attvalues>
+          <attvalue for="0" value="3.32263271169" />
+        </attvalues>
+      </node>
+      <node id="crumbly" label="crumbly" />
+      <node id="creak" label="creak" />
+      <node id="crusty" label="crusty">
+        <attvalues>
+          <attvalue for="0" value="2.9951962916" />
+        </attvalues>
+      </node>
+      <node id="crystallized" label="crystallized" />
+      <node id="craze" label="craze" />
+      <node id="cream" label="cream" />
+      <node id="cremation" label="cremation">
+        <attvalues>
+          <attvalue for="0" value="2.57749179984" />
+        </attvalues>
+      </node>
+      <node id="crypt" label="crypt" />
+      <node id="craniology" label="craniology">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="cross" label="cross">
+        <attvalues>
+          <attvalue for="0" value="4.39609468521" />
+        </attvalues>
+      </node>
+      <node id="cropped" label="cropped">
+        <attvalues>
+          <attvalue for="0" value="3.02897770521" />
+        </attvalues>
+      </node>
+      <node id="credibility" label="credibility">
+        <attvalues>
+          <attvalue for="0" value="3.85564028089" />
+        </attvalues>
+      </node>
+      <node id="criterion" label="criterion" />
+      <node id="crummy" label="crummy">
+        <attvalues>
+          <attvalue for="0" value="2.59549622183" />
+        </attvalues>
+      </node>
+      <node id="cropper" label="cropper" />
+      <node id="creature" label="creature">
+        <attvalues>
+          <attvalue for="0" value="3.90730384883" />
+        </attvalues>
+      </node>
+      <node id="credential" label="credential">
+        <attvalues>
+          <attvalue for="0" value="2.81557774832" />
+        </attvalues>
+      </node>
+      <node id="creedbound" label="creedbound">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="crockery" label="crockery" />
+      <node id="crawling" label="crawling" />
+      <node id="crosspatch" label="crosspatch" />
+      <node id="cracker" label="cracker">
+        <attvalues>
+          <attvalue for="0" value="3.01072386539" />
+        </attvalues>
+      </node>
+      <node id="cryogenics" label="cryogenics" />
+      <node id="creditable" label="creditable">
+        <attvalues>
+          <attvalue for="0" value="2.01283722471" />
+        </attvalues>
+      </node>
+      <node id="crucible" label="crucible">
+        <attvalues>
+          <attvalue for="0" value="2.73158876519" />
+        </attvalues>
+      </node>
+      <node id="crestfallen" label="crestfallen" />
+      <node id="criticize" label="criticize">
+        <attvalues>
+          <attvalue for="0" value="3.51134851549" />
+        </attvalues>
+      </node>
+      <node id="crowded" label="crowded">
+        <attvalues>
+          <attvalue for="0" value="3.94816836173" />
+        </attvalues>
+      </node>
+      <node id="crackerjack" label="crackerjack">
+        <attvalues>
+          <attvalue for="0" value="1.89762709129" />
+        </attvalues>
+      </node>
+      <node id="craven" label="craven" />
+      <node id="crease" label="crease" />
+      <node id="cramped" label="cramped" />
+      <node id="cryptologist" label="cryptologist">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="crinkle" label="crinkle" />
+      <node id="craggy" label="craggy">
+        <attvalues>
+          <attvalue for="0" value="2.77232170672" />
+        </attvalues>
+      </node>
+      <node id="crumple" label="crumple">
+        <attvalues>
+          <attvalue for="0" value="2.24551266781" />
+        </attvalues>
+      </node>
+      <node id="crowbar" label="crowbar">
+        <attvalues>
+          <attvalue for="0" value="2.53402610606" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="cruising" target="crescendo" weight="0.007463" />
+      <edge id="1" source="criticism" target="crunch" weight="0.012658" />
+      <edge id="2" source="criticism" target="cramp" weight="0.003774" />
+      <edge id="3" source="criticism" target="criticize" weight="0.107143" />
+      <edge id="4" source="criticism" target="crash" weight="0.01581" />
+      <edge id="5" source="criticism" target="cryptography" weight="0.041667" />
+      <edge id="6" source="criticism" target="creamy" weight="0.011364" />
+      <edge id="7" source="criticism" target="crotchet" weight="0.009901" />
+      <edge id="8" source="criticism" target="cry" weight="0.005348" />
+      <edge id="9" source="criticism" target="cranky" weight="0.005495" />
+      <edge id="10" source="criticism" target="crib" weight="0.008163" />
+      <edge id="11" source="criticism" target="credit" weight="0.005102" />
+      <edge id="12" source="criticism" target="crabby" weight="0.014085" />
+      <edge id="13" source="criticism" target="critical" weight="0.04142" />
+      <edge id="14" source="criticism" target="crab" weight="0.007874" />
+      <edge id="15" source="criticism" target="crack" weight="0.018083" />
+      <edge id="16" source="criticism" target="critique" weight="0.196429" />
+      <edge id="17" source="criticism" target="cram" weight="0.007194" />
+      <edge id="18" source="criticism" target="croak" weight="0.006623" />
+      <edge id="19" source="crumpled" target="crazy" weight="0.086957" />
+      <edge id="20" source="crumpled" target="crabbed" weight="0.022556" />
+      <edge id="21" source="crumpled" target="crook" weight="0.003788" />
+      <edge id="22" source="crumpled" target="crystalline" weight="0.04878" />
+      <edge id="23" source="crumpled" target="crooked" weight="0.13913" />
+      <edge id="24" source="crumpled" target="critical" weight="0.011696" />
+      <edge id="25" source="crumpled" target="credulous" weight="0.020408" />
+      <edge id="26" source="crumpled" target="crude" weight="0.005618" />
+      <edge id="27" source="crumpled" target="crimp" weight="0.006329" />
+      <edge id="28" source="crumpled" target="criminal" weight="0.010989" />
+      <edge id="29" source="crumpled" target="crunched" weight="0.35" />
+      <edge id="30" source="crumpled" target="crusty" weight="0.008403" />
+      <edge id="31" source="crumpled" target="cranky" weight="0.011236" />
+      <edge id="32" source="crumpled" target="crucified" weight="0.018182" />
+      <edge id="33" source="crumpled" target="crank" weight="0.009346" />
+      <edge id="34" source="crumpled" target="crenellate" weight="0.013514" />
+      <edge id="35" source="crumpled" target="crotchety" weight="0.018692" />
+      <edge id="36" source="crumpled" target="crystal" weight="0.044944" />
+      <edge id="37" source="crumpled" target="cruel" weight="0.008197" />
+      <edge id="38" source="crumpled" target="cramped" weight="0.029197" />
+      <edge id="39" source="crumpled" target="craggy" weight="0.32" />
+      <edge id="40" source="crumpled" target="cracked" weight="0.042169" />
+      <edge id="41" source="crumpled" target="crafty" weight="0.009174" />
+      <edge id="42" source="cruiser" target="create" weight="0.008264" />
+      <edge id="43" source="cruiser" target="cracker" weight="0.016949" />
+      <edge id="44" source="cruiser" target="cross" weight="0.004228" />
+      <edge id="45" source="crotchet" target="crescendo" weight="0.017045" />
+      <edge id="46" source="crotchet" target="cramp" weight="0.003534" />
+      <edge id="47" source="crotchet" target="cranny" weight="0.012579" />
+      <edge id="48" source="crotchet" target="creek" weight="0.01" />
+      <edge id="49" source="crotchet" target="crowd" weight="0.00346" />
+      <edge id="50" source="crotchet" target="crowning" weight="0.009524" />
+      <edge id="51" source="crotchet" target="crow" weight="0.009852" />
+      <edge id="52" source="crotchet" target="crackle" weight="0.009615" />
+      <edge id="53" source="crotchet" target="crib" weight="0.01145" />
+      <edge id="54" source="crotchet" target="crick" weight="0.010989" />
+      <edge id="55" source="crotchet" target="crook" weight="0.104247" />
+      <edge id="56" source="crotchet" target="critic" weight="0.007752" />
+      <edge id="57" source="crotchet" target="croon" weight="0.011628" />
+      <edge id="58" source="crotchet" target="crescent" weight="0.011696" />
+      <edge id="59" source="crotchet" target="craps" weight="0.0125" />
+      <edge id="60" source="crotchet" target="critique" weight="0.011905" />
+      <edge id="61" source="crotchet" target="crusty" weight="0.007143" />
+      <edge id="62" source="crotchet" target="cretin" weight="0.014493" />
+      <edge id="63" source="crotchet" target="craze" weight="0.086538" />
+      <edge id="64" source="crotchet" target="crap" weight="0.016529" />
+      <edge id="65" source="crotchet" target="crooked" weight="0.013333" />
+      <edge id="66" source="crotchet" target="create" weight="0.013514" />
+      <edge id="67" source="crotchet" target="crackpot" weight="0.031915" />
+      <edge id="68" source="crotchet" target="cross" weight="0.006" />
+      <edge id="69" source="crotchet" target="crater" weight="0.024" />
+      <edge id="70" source="crotchet" target="crush" weight="0.003745" />
+      <edge id="71" source="crotchet" target="creamy" weight="0.009434" />
+      <edge id="72" source="crotchet" target="crutch" weight="0.017241" />
+      <edge id="73" source="crotchet" target="crab" weight="0.006897" />
+      <edge id="74" source="crotchet" target="crack" weight="0.012195" />
+      <edge id="75" source="crotchet" target="cram" weight="0.006369" />
+      <edge id="76" source="crotchet" target="crimp" weight="0.011236" />
+      <edge id="77" source="crotchet" target="criminal" weight="0.004902" />
+      <edge id="78" source="crotchet" target="crest" weight="0.02809" />
+      <edge id="79" source="crotchet" target="creature" weight="0.004902" />
+      <edge id="80" source="crotchet" target="credential" weight="0.012346" />
+      <edge id="81" source="crotchet" target="crouch" weight="0.01087" />
+      <edge id="82" source="crotchet" target="crown" weight="0.019355" />
+      <edge id="83" source="crotchet" target="crawling" weight="0.005587" />
+      <edge id="84" source="crotchet" target="cranky" weight="0.005" />
+      <edge id="85" source="crotchet" target="crank" weight="0.240838" />
+      <edge id="86" source="crotchet" target="crosspatch" weight="0.026316" />
+      <edge id="87" source="crotchet" target="crumb" weight="0.012422" />
+      <edge id="88" source="crotchet" target="crane" weight="0.010417" />
+      <edge id="89" source="crotchet" target="crackbrain" weight="0.013158" />
+      <edge id="90" source="crotchet" target="crucify" weight="0.006623" />
+      <edge id="91" source="crotchet" target="crisp" weight="0.009709" />
+      <edge id="92" source="crotchet" target="cry" weight="0.014778" />
+      <edge id="93" source="crotchet" target="crosier" weight="0.012658" />
+      <edge id="94" source="crotchet" target="crumple" weight="0.03125" />
+      <edge id="95" source="crotchet" target="crotchety" weight="0.007752" />
+      <edge id="96" source="crotchet" target="credit" weight="0.004673" />
+      <edge id="97" source="crotchet" target="cruel" weight="0.006993" />
+      <edge id="98" source="crotchet" target="craftsman" weight="0.008772" />
+      <edge id="99" source="crotchet" target="crinkle" weight="0.009091" />
+      <edge id="100" source="crotchet" target="cracked" weight="0.010417" />
+      <edge id="101" source="crotchet" target="croak" weight="0.005917" />
+      <edge id="102" source="crotchet" target="cringe" weight="0.019608" />
+      <edge id="103" source="crotchet" target="crafty" weight="0.007692" />
+      <edge id="104" source="crotchet" target="crowbar" weight="0.012658" />
+      <edge id="105" source="crucial" target="crunch" weight="0.006173" />
+      <edge id="106" source="crucial" target="crammed" weight="0.008929" />
+      <edge id="107" source="crucial" target="crowded" weight="0.008065" />
+      <edge id="108" source="crucial" target="crackpot" weight="0.012346" />
+      <edge id="109" source="crucial" target="crisis" weight="0.018692" />
+      <edge id="110" source="crucial" target="cruel" weight="0.007813" />
+      <edge id="111" source="crucial" target="crying" weight="0.152174" />
+      <edge id="112" source="crucial" target="crack" weight="0.00177" />
+      <edge id="113" source="crucial" target="crafty" weight="0.008696" />
+      <edge id="114" source="crate" target="crucify" weight="0.005208" />
+      <edge id="115" source="crate" target="cramp" weight="0.018809" />
+      <edge id="116" source="crate" target="cranny" weight="0.004975" />
+      <edge id="117" source="crate" target="credence" weight="0.008264" />
+      <edge id="118" source="crate" target="crowd" weight="0.024768" />
+      <edge id="119" source="crate" target="cropped" weight="0.008475" />
+      <edge id="120" source="crate" target="crown" weight="0.008475" />
+      <edge id="121" source="crate" target="crop" weight="0.01581" />
+      <edge id="122" source="crate" target="crook" weight="0.006154" />
+      <edge id="123" source="crate" target="crescent" weight="0.004695" />
+      <edge id="124" source="crate" target="cruise" weight="0.006757" />
+      <edge id="125" source="crate" target="crew" weight="0.005814" />
+      <edge id="126" source="crate" target="crutch" weight="0.006329" />
+      <edge id="127" source="crate" target="creep" weight="0.005556" />
+      <edge id="128" source="crate" target="creek" weight="0.007092" />
+      <edge id="129" source="crate" target="craw" weight="0.008475" />
+      <edge id="130" source="crate" target="crawl" weight="0.005208" />
+      <edge id="131" source="crate" target="crackpot" weight="0.007299" />
+      <edge id="132" source="crate" target="cross" weight="0.013035" />
+      <edge id="133" source="crate" target="cripple" weight="0.017544" />
+      <edge id="134" source="crate" target="crater" weight="0.005952" />
+      <edge id="135" source="crate" target="crush" weight="0.023179" />
+      <edge id="136" source="crate" target="cradle" weight="0.010417" />
+      <edge id="137" source="crate" target="crab" weight="0.010811" />
+      <edge id="138" source="crate" target="crack" weight="0.00161" />
+      <edge id="139" source="crate" target="cram" weight="0.025773" />
+      <edge id="140" source="crate" target="crimp" weight="0.009132" />
+      <edge id="141" source="crate" target="crenellate" weight="0.007353" />
+      <edge id="142" source="crate" target="crest" weight="0.004484" />
+      <edge id="143" source="crate" target="crunch" weight="0.004587" />
+      <edge id="144" source="crate" target="crash" weight="0.006369" />
+      <edge id="145" source="crate" target="crockery" weight="0.008403" />
+      <edge id="146" source="crate" target="craft" weight="0.008439" />
+      <edge id="147" source="crate" target="crank" weight="0.00361" />
+      <edge id="148" source="crate" target="crib" weight="0.176923" />
+      <edge id="149" source="crate" target="crone" weight="0.008772" />
+      <edge id="150" source="crate" target="crucible" weight="0.015504" />
+      <edge id="151" source="crate" target="crisp" weight="0.004032" />
+      <edge id="152" source="crate" target="crock" weight="0.015625" />
+      <edge id="153" source="crate" target="cruet" weight="0.00813" />
+      <edge id="154" source="crate" target="cry" weight="0.004065" />
+      <edge id="155" source="crate" target="crease" weight="0.00625" />
+      <edge id="156" source="crate" target="credit" weight="0.007874" />
+      <edge id="157" source="crate" target="crypt" weight="0.032051" />
+      <edge id="158" source="crate" target="crucifixion" weight="0.007937" />
+      <edge id="159" source="crate" target="croak" weight="0.004762" />
+      <edge id="160" source="crayon" target="crow" weight="0.005714" />
+      <edge id="161" source="crayon" target="create" weight="0.008333" />
+      <edge id="162" source="crayon" target="cross" weight="0.002114" />
+      <edge id="163" source="crayon" target="crushed" weight="0.009091" />
+      <edge id="164" source="crayon" target="creamy" weight="0.012987" />
+      <edge id="165" source="crayon" target="cram" weight="0.007813" />
+      <edge id="166" source="crayon" target="creature" weight="0.005714" />
+      <edge id="167" source="cruise" target="crescendo" weight="0.006024" />
+      <edge id="168" source="cruise" target="crusty" weight="0.007813" />
+      <edge id="169" source="cruise" target="crevasse" weight="0.008929" />
+      <edge id="170" source="cruise" target="crowd" weight="0.007246" />
+      <edge id="171" source="cruise" target="crook" weight="0.007353" />
+      <edge id="172" source="cruise" target="creed" weight="0.009709" />
+      <edge id="173" source="cruise" target="crackle" weight="0.01087" />
+      <edge id="174" source="cruise" target="cross" weight="0.033684" />
+      <edge id="175" source="cruise" target="cripple" weight="0.008333" />
+      <edge id="176" source="cruise" target="crick" weight="0.012658" />
+      <edge id="177" source="cruise" target="cranky" weight="0.005319" />
+      <edge id="178" source="cruise" target="crosswise" weight="0.034483" />
+      <edge id="179" source="cruise" target="crusade" weight="0.016393" />
+      <edge id="180" source="cruise" target="crucifix" weight="0.014286" />
+      <edge id="181" source="cruise" target="crack" weight="0.003527" />
+      <edge id="182" source="cruise" target="cram" weight="0.006897" />
+      <edge id="183" source="cruise" target="crimp" weight="0.005988" />
+      <edge id="184" source="cruise" target="crucible" weight="0.012987" />
+      <edge id="185" source="cretin" target="crazy" weight="0.006897" />
+      <edge id="186" source="cretin" target="crap" weight="0.013889" />
+      <edge id="187" source="cretin" target="crowd" weight="0.004184" />
+      <edge id="188" source="cretin" target="crackpot" weight="0.044444" />
+      <edge id="189" source="cretin" target="cripple" weight="0.024691" />
+      <edge id="190" source="cretin" target="crank" weight="0.005376" />
+      <edge id="191" source="cretin" target="craps" weight="0.033333" />
+      <edge id="192" source="cretin" target="credulous" weight="0.014286" />
+      <edge id="193" source="cretin" target="cracked" weight="0.014085" />
+      <edge id="194" source="cretin" target="crackbrain" weight="0.038462" />
+      <edge id="195" source="cretin" target="cream" weight="0.006211" />
+      <edge id="196" source="crabby" target="crusty" weight="0.027778" />
+      <edge id="197" source="crabby" target="cranky" weight="0.1875" />
+      <edge id="198" source="crabby" target="cross" weight="0.010684" />
+      <edge id="199" source="crabby" target="crushed" weight="0.018519" />
+      <edge id="200" source="crabby" target="crab" weight="0.008696" />
+      <edge id="201" source="cripple" target="crucify" weight="0.006098" />
+      <edge id="202" source="cripple" target="crazy" weight="0.009662" />
+      <edge id="203" source="cripple" target="crowd" weight="0.006645" />
+      <edge id="204" source="cripple" target="crabbed" weight="0.005917" />
+      <edge id="205" source="cripple" target="crow" weight="0.009259" />
+      <edge id="206" source="cripple" target="cramp" weight="0.192771" />
+      <edge id="207" source="cripple" target="crop" weight="0.013274" />
+      <edge id="208" source="cripple" target="crumble" weight="0.013072" />
+      <edge id="209" source="cripple" target="croon" weight="0.010101" />
+      <edge id="210" source="cripple" target="crew" weight="0.006944" />
+      <edge id="211" source="cripple" target="craze" weight="0.012712" />
+      <edge id="212" source="cripple" target="cross" weight="0.011765" />
+      <edge id="213" source="cripple" target="crater" weight="0.007143" />
+      <edge id="214" source="cripple" target="crush" weight="0.018116" />
+      <edge id="215" source="cripple" target="creep" weight="0.013245" />
+      <edge id="216" source="cripple" target="crab" weight="0.012739" />
+      <edge id="217" source="cripple" target="crack" weight="0.00678" />
+      <edge id="218" source="cripple" target="cram" weight="0.011834" />
+      <edge id="219" source="cripple" target="crimp" weight="0.015789" />
+      <edge id="220" source="cripple" target="crunch" weight="0.010582" />
+      <edge id="221" source="cripple" target="cricket" weight="0.011364" />
+      <edge id="222" source="cripple" target="crusty" weight="0.006536" />
+      <edge id="223" source="cripple" target="credulous" weight="0.007519" />
+      <edge id="224" source="cripple" target="cranky" weight="0.004695" />
+      <edge id="225" source="cripple" target="crash" weight="0.003484" />
+      <edge id="226" source="cripple" target="crank" weight="0.004016" />
+      <edge id="227" source="cripple" target="crib" weight="0.007246" />
+      <edge id="228" source="cripple" target="crippled" weight="0.011494" />
+      <edge id="229" source="cripple" target="crick" weight="0.009615" />
+      <edge id="230" source="cripple" target="crawl" weight="0.006098" />
+      <edge id="231" source="cripple" target="crowded" weight="0.006579" />
+      <edge id="232" source="cripple" target="cracker" weight="0.01" />
+      <edge id="233" source="cripple" target="crotchety" weight="0.007042" />
+      <edge id="234" source="cripple" target="credit" weight="0.004405" />
+      <edge id="235" source="cripple" target="cramped" weight="0.005747" />
+      <edge id="236" source="cripple" target="cracked" weight="0.014706" />
+      <edge id="237" source="cripple" target="croak" weight="0.01105" />
+      <edge id="238" source="crew" target="crony" weight="0.019417" />
+      <edge id="239" source="crew" target="crescendo" weight="0.005263" />
+      <edge id="240" source="crew" target="crusty" weight="0.006579" />
+      <edge id="241" source="crew" target="crowd" weight="0.217742" />
+      <edge id="242" source="crew" target="create" weight="0.0125" />
+      <edge id="243" source="crew" target="crystallize" weight="0.012195" />
+      <edge id="244" source="crew" target="cross" weight="0.005859" />
+      <edge id="245" source="crew" target="crop" weight="0.017857" />
+      <edge id="246" source="crew" target="crash" weight="0.003497" />
+      <edge id="247" source="crew" target="crush" weight="0.014493" />
+      <edge id="248" source="crew" target="crook" weight="0.010169" />
+      <edge id="249" source="crew" target="crusade" weight="0.011765" />
+      <edge id="250" source="crew" target="crack" weight="0.003384" />
+      <edge id="251" source="crew" target="crap" weight="0.015038" />
+      <edge id="252" source="crew" target="critter" weight="0.008" />
+      <edge id="253" source="crew" target="cram" weight="0.017964" />
+      <edge id="254" source="crew" target="creature" weight="0.009302" />
+      <edge id="255" source="critical" target="crowd" weight="0.002755" />
+      <edge id="256" source="critical" target="crisis" weight="0.005076" />
+      <edge id="257" source="critical" target="crammed" weight="0.015075" />
+      <edge id="258" source="critical" target="croft" weight="0.006061" />
+      <edge id="259" source="critical" target="crooked" weight="0.008929" />
+      <edge id="260" source="critical" target="cross" weight="0.006981" />
+      <edge id="261" source="critical" target="creamy" weight="0.011173" />
+      <edge id="262" source="critical" target="crummy" weight="0.014493" />
+      <edge id="263" source="critical" target="crying" weight="0.089385" />
+      <edge id="264" source="critical" target="crack" weight="0.004601" />
+      <edge id="265" source="critical" target="criminal" weight="0.014545" />
+      <edge id="266" source="critical" target="crunch" weight="0.003984" />
+      <edge id="267" source="critical" target="crusty" weight="0.018957" />
+      <edge id="268" source="critical" target="creedbound" weight="0.024845" />
+      <edge id="269" source="critical" target="cranky" weight="0.01476" />
+      <edge id="270" source="critical" target="crushed" weight="0.004695" />
+      <edge id="271" source="critical" target="cryptic" weight="0.005618" />
+      <edge id="272" source="critical" target="crowded" weight="0.019048" />
+      <edge id="273" source="critical" target="cruel" weight="0.023474" />
+      <edge id="274" source="critical" target="craggy" weight="0.00625" />
+      <edge id="275" source="critical" target="crafty" weight="0.0199" />
+      <edge id="276" source="crying" target="cremation" weight="0.013514" />
+      <edge id="277" source="crying" target="crazy" weight="0.005102" />
+      <edge id="278" source="crying" target="crowd" weight="0.003448" />
+      <edge id="279" source="crying" target="crawling" weight="0.005556" />
+      <edge id="280" source="crying" target="crumbling" weight="0.007752" />
+      <edge id="281" source="crying" target="cry" weight="0.035" />
+      <edge id="282" source="crying" target="crackle" weight="0.009524" />
+      <edge id="283" source="crying" target="cruel" weight="0.021127" />
+      <edge id="284" source="crying" target="crummy" weight="0.022388" />
+      <edge id="285" source="crying" target="crack" weight="0.003448" />
+      <edge id="286" source="crying" target="crude" weight="0.020305" />
+      <edge id="287" source="crying" target="crucifixion" weight="0.011628" />
+      <edge id="288" source="crying" target="criminal" weight="0.019802" />
+      <edge id="289" source="crying" target="crafty" weight="0.007634" />
+      <edge id="290" source="crying" target="craze" weight="0.008889" />
+      <edge id="291" source="crying" target="crass" weight="0.014599" />
+      <edge id="292" source="crack" target="crimson" weight="0.001792" />
+      <edge id="293" source="crack" target="crimp" weight="0.068333" />
+      <edge id="294" source="crack" target="crest" weight="0.00468" />
+      <edge id="295" source="crack" target="crusty" weight="0.001664" />
+      <edge id="296" source="crack" target="crumbling" weight="0.005111" />
+      <edge id="297" source="crack" target="crushed" weight="0.001667" />
+      <edge id="298" source="crack" target="crux" weight="0.006993" />
+      <edge id="299" source="crack" target="crisp" weight="0.00753" />
+      <edge id="300" source="crack" target="cry" weight="0.010606" />
+      <edge id="301" source="crack" target="craftsmanship" weight="0.005059" />
+      <edge id="302" source="crack" target="crossing" weight="0.005093" />
+      <edge id="303" source="crack" target="crucifixion" weight="0.00367" />
+      <edge id="304" source="crack" target="cringle" weight="0.001828" />
+      <edge id="305" source="crack" target="crescendo" weight="0.006289" />
+      <edge id="306" source="crack" target="cramp" weight="0.023352" />
+      <edge id="307" source="crack" target="cranny" weight="0.135036" />
+      <edge id="308" source="crack" target="creek" weight="0.012613" />
+      <edge id="309" source="crack" target="crowd" weight="0.021769" />
+      <edge id="310" source="crack" target="creator" weight="0.001745" />
+      <edge id="311" source="crack" target="crabbed" weight="0.003247" />
+      <edge id="312" source="crack" target="crow" weight="0.016794" />
+      <edge id="313" source="crack" target="creed" weight="0.019435" />
+      <edge id="314" source="crack" target="creation" weight="0.006163" />
+      <edge id="315" source="crack" target="crown" weight="0.005175" />
+      <edge id="316" source="crack" target="crop" weight="0.013473" />
+      <edge id="317" source="crack" target="crook" weight="0.008097" />
+      <edge id="318" source="crack" target="crosscurrent" weight="0.001751" />
+      <edge id="319" source="crack" target="croon" weight="0.003663" />
+      <edge id="320" source="crack" target="crescent" weight="0.004754" />
+      <edge id="321" source="crack" target="critique" weight="0.005525" />
+      <edge id="322" source="crack" target="crossroads" weight="0.001862" />
+      <edge id="323" source="crack" target="creep" weight="0.003339" />
+      <edge id="324" source="crack" target="crooked" weight="0.001634" />
+      <edge id="325" source="crack" target="crust" weight="0.006993" />
+      <edge id="326" source="crack" target="crush" weight="0.025316" />
+      <edge id="327" source="crack" target="cradle" weight="0.001631" />
+      <edge id="328" source="crack" target="crenellate" weight="0.020147" />
+      <edge id="329" source="crack" target="crony" weight="0.001808" />
+      <edge id="330" source="crack" target="crunch" weight="0.025682" />
+      <edge id="331" source="crack" target="crucified" weight="0.001862" />
+      <edge id="332" source="crack" target="crone" weight="0.001873" />
+      <edge id="333" source="crack" target="craving" weight="0.001842" />
+      <edge id="334" source="crack" target="crime" weight="0.007168" />
+      <edge id="335" source="crack" target="crosier" weight="0.001852" />
+      <edge id="336" source="crack" target="credit" weight="0.008955" />
+      <edge id="337" source="crack" target="craftsman" weight="0.006993" />
+      <edge id="338" source="crack" target="crumple" weight="0.018182" />
+      <edge id="339" source="crack" target="croak" weight="0.017742" />
+      <edge id="340" source="crack" target="crosshatch" weight="0.019892" />
+      <edge id="341" source="crack" target="crib" weight="0.019663" />
+      <edge id="342" source="crack" target="craps" weight="0.003704" />
+      <edge id="343" source="crack" target="crater" weight="0.088725" />
+      <edge id="344" source="crack" target="crisis" weight="0.005155" />
+      <edge id="345" source="crack" target="crap" weight="0.005164" />
+      <edge id="346" source="crack" target="create" weight="0.01495" />
+      <edge id="347" source="crack" target="crag" weight="0.003591" />
+      <edge id="348" source="crack" target="crab" weight="0.004967" />
+      <edge id="349" source="crack" target="cram" weight="0.014754" />
+      <edge id="350" source="crack" target="critter" weight="0.001742" />
+      <edge id="351" source="crack" target="cricket" weight="0.001866" />
+      <edge id="352" source="crack" target="crisscross" weight="0.001855" />
+      <edge id="353" source="crack" target="crackle" weight="0.086372" />
+      <edge id="354" source="crack" target="creedbound" weight="0.001815" />
+      <edge id="355" source="crack" target="crevice" weight="0.115163" />
+      <edge id="356" source="crack" target="craft" weight="0.013846" />
+      <edge id="357" source="crack" target="crank" weight="0.013062" />
+      <edge id="358" source="crack" target="crane" weight="0.003597" />
+      <edge id="359" source="crack" target="crumble" weight="0.01005" />
+      <edge id="360" source="crack" target="crawl" weight="0.003273" />
+      <edge id="361" source="crack" target="crumb" weight="0.016287" />
+      <edge id="362" source="crack" target="crossbreed" weight="0.001832" />
+      <edge id="363" source="crack" target="crupper" weight="0.001825" />
+      <edge id="364" source="crack" target="crutch" weight="0.00173" />
+      <edge id="365" source="crack" target="cruel" weight="0.003317" />
+      <edge id="366" source="crack" target="cracked" weight="0.012365" />
+      <edge id="367" source="crack" target="crucify" weight="0.033727" />
+      <edge id="368" source="crack" target="crazy" weight="0.003053" />
+      <edge id="369" source="crack" target="crevasse" weight="0.11619" />
+      <edge id="370" source="crack" target="crowning" weight="0.00354" />
+      <edge id="371" source="crack" target="crick" weight="0.009124" />
+      <edge id="372" source="crack" target="critic" weight="0.003396" />
+      <edge id="373" source="crack" target="crumbly" weight="0.001825" />
+      <edge id="374" source="crack" target="crash" weight="0.055954" />
+      <edge id="375" source="crack" target="craze" weight="0.201049" />
+      <edge id="376" source="crack" target="cream" weight="0.005979" />
+      <edge id="377" source="crack" target="crypt" weight="0.012195" />
+      <edge id="378" source="crack" target="cross" weight="0.015806" />
+      <edge id="379" source="crack" target="criterion" weight="0.010526" />
+      <edge id="380" source="crack" target="crummy" weight="0.001678" />
+      <edge id="381" source="crack" target="cropper" weight="0.005425" />
+      <edge id="382" source="crack" target="creature" weight="0.003012" />
+      <edge id="383" source="crack" target="credential" weight="0.001845" />
+      <edge id="384" source="crack" target="crawling" weight="0.001563" />
+      <edge id="385" source="crack" target="cracker" weight="0.003656" />
+      <edge id="386" source="crack" target="creditable" weight="0.003472" />
+      <edge id="387" source="crack" target="crucible" weight="0.009158" />
+      <edge id="388" source="crack" target="criticize" weight="0.009328" />
+      <edge id="389" source="crack" target="crackerjack" weight="0.016334" />
+      <edge id="390" source="crack" target="crease" weight="0.028319" />
+      <edge id="391" source="crack" target="cramped" weight="0.001608" />
+      <edge id="392" source="crack" target="crinkle" weight="0.012389" />
+      <edge id="393" source="crack" target="crafty" weight="0.015437" />
+      <edge id="394" source="crack" target="crowbar" weight="0.003711" />
+      <edge id="395" source="crimson" target="crucify" weight="0.007752" />
+      <edge id="396" source="crimson" target="crammed" weight="0.009524" />
+      <edge id="397" source="crimson" target="croft" weight="0.014493" />
+      <edge id="398" source="crimson" target="crepuscule" weight="0.02381" />
+      <edge id="399" source="crimson" target="crumbling" weight="0.009434" />
+      <edge id="400" source="crimson" target="cross" weight="0.006276" />
+      <edge id="401" source="crimson" target="crook" weight="0.003802" />
+      <edge id="402" source="crimson" target="creamy" weight="0.011905" />
+      <edge id="403" source="crimson" target="crimp" weight="0.006369" />
+      <edge id="404" source="crimson" target="crenellate" weight="0.013699" />
+      <edge id="405" source="crimp" target="crucify" weight="0.014354" />
+      <edge id="406" source="crimp" target="crosshatch" weight="0.058442" />
+      <edge id="407" source="crimp" target="cranny" weight="0.110553" />
+      <edge id="408" source="crimp" target="creek" weight="0.00625" />
+      <edge id="409" source="crimp" target="crowd" weight="0.011561" />
+      <edge id="410" source="crimp" target="crabbed" weight="0.00463" />
+      <edge id="411" source="crimp" target="crow" weight="0.003788" />
+      <edge id="412" source="crimp" target="crown" weight="0.008043" />
+      <edge id="413" source="crimp" target="crazy" weight="0.003922" />
+      <edge id="414" source="crimp" target="crop" weight="0.014706" />
+      <edge id="415" source="crimp" target="crumble" weight="0.01" />
+      <edge id="416" source="crimp" target="crook" weight="0.014663" />
+      <edge id="417" source="crimp" target="critic" weight="0.005291" />
+      <edge id="418" source="crimp" target="crumbly" weight="0.013699" />
+      <edge id="419" source="crimp" target="crescent" weight="0.00431" />
+      <edge id="420" source="crimp" target="craps" weight="0.007143" />
+      <edge id="421" source="crimp" target="crash" weight="0.009036" />
+      <edge id="422" source="crimp" target="crease" weight="0.333333" />
+      <edge id="423" source="crimp" target="crisis" weight="0.005464" />
+      <edge id="424" source="crimp" target="craze" weight="0.04" />
+      <edge id="425" source="crimp" target="crusher" weight="0.007246" />
+      <edge id="426" source="crimp" target="crystalline" weight="0.006024" />
+      <edge id="427" source="crimp" target="crap" weight="0.005495" />
+      <edge id="428" source="crimp" target="croft" weight="0.006623" />
+      <edge id="429" source="crimp" target="crooked" weight="0.014354" />
+      <edge id="430" source="crimp" target="crypt" weight="0.011236" />
+      <edge id="431" source="crimp" target="create" weight="0.014493" />
+      <edge id="432" source="crimp" target="cross" weight="0.005357" />
+      <edge id="433" source="crimp" target="crater" weight="0.021739" />
+      <edge id="434" source="crimp" target="crush" weight="0.01548" />
+      <edge id="435" source="crimp" target="crag" weight="0.019355" />
+      <edge id="436" source="crimp" target="crab" weight="0.03" />
+      <edge id="437" source="crimp" target="crenellate" weight="0.147059" />
+      <edge id="438" source="crimp" target="crest" weight="0.0125" />
+      <edge id="439" source="crimp" target="crunch" weight="0.008475" />
+      <edge id="440" source="crimp" target="crusty" weight="0.005" />
+      <edge id="441" source="crimp" target="crevasse" weight="0.069364" />
+      <edge id="442" source="crimp" target="crackle" weight="0.024845" />
+      <edge id="443" source="crimp" target="cranky" weight="0.003846" />
+      <edge id="444" source="crimp" target="crevice" weight="0.071429" />
+      <edge id="445" source="crimp" target="crank" weight="0.013652" />
+      <edge id="446" source="crimp" target="crib" weight="0.018809" />
+      <edge id="447" source="crimp" target="crosspatch" weight="0.007299" />
+      <edge id="448" source="crimp" target="crumb" weight="0.018265" />
+      <edge id="449" source="crimp" target="crane" weight="0.00641" />
+      <edge id="450" source="crimp" target="crick" weight="0.013333" />
+      <edge id="451" source="crimp" target="crux" weight="0.017442" />
+      <edge id="452" source="crimp" target="crisp" weight="0.098361" />
+      <edge id="453" source="crimp" target="cramp" weight="0.033033" />
+      <edge id="454" source="crimp" target="crowded" weight="0.005025" />
+      <edge id="455" source="crimp" target="crackerjack" weight="0.006329" />
+      <edge id="456" source="crimp" target="cry" weight="0.003774" />
+      <edge id="457" source="crimp" target="crave" weight="0.006536" />
+      <edge id="458" source="crimp" target="crossroads" weight="0.007353" />
+      <edge id="459" source="crimp" target="crotchety" weight="0.005291" />
+      <edge id="460" source="crimp" target="cruel" weight="0.004926" />
+      <edge id="461" source="crimp" target="cramped" weight="0.004525" />
+      <edge id="462" source="crimp" target="crafty" weight="0.010582" />
+      <edge id="463" source="crimp" target="craftsman" weight="0.011561" />
+      <edge id="464" source="crimp" target="crinkle" weight="0.14" />
+      <edge id="465" source="crimp" target="craggy" weight="0.006849" />
+      <edge id="466" source="crimp" target="cracked" weight="0.016" />
+      <edge id="467" source="crimp" target="crumple" weight="0.12766" />
+      <edge id="468" source="crimp" target="croak" weight="0.008772" />
+      <edge id="469" source="criminal" target="crucify" weight="0.008511" />
+      <edge id="470" source="criminal" target="crabbed" weight="0.012552" />
+      <edge id="471" source="criminal" target="crazy" weight="0.01444" />
+      <edge id="472" source="criminal" target="crumble" weight="0.004425" />
+      <edge id="473" source="criminal" target="crook" weight="0.069164" />
+      <edge id="474" source="criminal" target="crisis" weight="0.004808" />
+      <edge id="475" source="criminal" target="crooked" weight="0.156098" />
+      <edge id="476" source="criminal" target="cross" weight="0.001704" />
+      <edge id="477" source="criminal" target="crime" weight="0.016393" />
+      <edge id="478" source="criminal" target="crummy" weight="0.0625" />
+      <edge id="479" source="criminal" target="crude" weight="0.047794" />
+      <edge id="480" source="criminal" target="crafty" weight="0.048544" />
+      <edge id="481" source="criminal" target="crunched" weight="0.012658" />
+      <edge id="482" source="criminal" target="creature" weight="0.00346" />
+      <edge id="483" source="criminal" target="crunch" weight="0.003817" />
+      <edge id="484" source="criminal" target="crash" weight="0.002786" />
+      <edge id="485" source="criminal" target="crumbling" weight="0.004695" />
+      <edge id="486" source="criminal" target="cranky" weight="0.007042" />
+      <edge id="487" source="criminal" target="crappy" weight="0.032086" />
+      <edge id="488" source="criminal" target="crank" weight="0.009404" />
+      <edge id="489" source="criminal" target="crippled" weight="0.006289" />
+      <edge id="490" source="criminal" target="crane" weight="0.005525" />
+      <edge id="491" source="criminal" target="crass" weight="0.018265" />
+      <edge id="492" source="criminal" target="cryptic" weight="0.005291" />
+      <edge id="493" source="criminal" target="cry" weight="0.003448" />
+      <edge id="494" source="criminal" target="crosier" weight="0.006098" />
+      <edge id="495" source="criminal" target="craven" weight="0.006536" />
+      <edge id="496" source="criminal" target="crutch" weight="0.00495" />
+      <edge id="497" source="criminal" target="crotchety" weight="0.00939" />
+      <edge id="498" source="criminal" target="cruel" weight="0.013274" />
+      <edge id="499" source="criminal" target="cracked" weight="0.01087" />
+      <edge id="500" source="criminal" target="crumple" weight="0.005464" />
+      <edge id="501" source="crest" target="crucify" weight="0.004673" />
+      <edge id="502" source="crest" target="crescendo" weight="0.004149" />
+      <edge id="503" source="crest" target="crowd" weight="0.008571" />
+      <edge id="504" source="crest" target="crow" weight="0.007519" />
+      <edge id="505" source="crest" target="crop" weight="0.014545" />
+      <edge id="506" source="crest" target="crook" weight="0.026471" />
+      <edge id="507" source="crest" target="crusty" weight="0.004926" />
+      <edge id="508" source="crest" target="crisis" weight="0.016304" />
+      <edge id="509" source="crest" target="croft" weight="0.013072" />
+      <edge id="510" source="crest" target="create" weight="0.004717" />
+      <edge id="511" source="crest" target="cross" weight="0.094778" />
+      <edge id="512" source="crest" target="crater" weight="0.005263" />
+      <edge id="513" source="crest" target="crush" weight="0.006079" />
+      <edge id="514" source="crest" target="creamy" weight="0.017964" />
+      <edge id="515" source="crest" target="crab" weight="0.014563" />
+      <edge id="516" source="crest" target="cram" weight="0.004545" />
+      <edge id="517" source="crest" target="crenellate" weight="0.006329" />
+      <edge id="518" source="crest" target="creature" weight="0.007519" />
+      <edge id="519" source="crest" target="crunch" weight="0.004167" />
+      <edge id="520" source="crest" target="crouch" weight="0.006452" />
+      <edge id="521" source="crest" target="cranky" weight="0.003802" />
+      <edge id="522" source="crest" target="crash" weight="0.011976" />
+      <edge id="523" source="crest" target="crosswise" weight="0.006098" />
+      <edge id="524" source="crest" target="crucible" weight="0.006579" />
+      <edge id="525" source="crest" target="crucifix" weight="0.006897" />
+      <edge id="526" source="crest" target="crumple" weight="0.0125" />
+      <edge id="527" source="crest" target="crowbar" weight="0.007042" />
+      <edge id="528" source="crash" target="crescendo" weight="0.040498" />
+      <edge id="529" source="crash" target="cramp" weight="0.009195" />
+      <edge id="530" source="crash" target="cranny" weight="0.016077" />
+      <edge id="531" source="crash" target="credence" weight="0.004255" />
+      <edge id="532" source="crash" target="crowd" weight="0.027714" />
+      <edge id="533" source="crash" target="crunch" weight="0.160279" />
+      <edge id="534" source="crash" target="crow" weight="0.014085" />
+      <edge id="535" source="crash" target="crackle" weight="0.015625" />
+      <edge id="536" source="crash" target="crop" weight="0.00542" />
+      <edge id="537" source="crash" target="crumble" weight="0.076087" />
+      <edge id="538" source="crash" target="crook" weight="0.013793" />
+      <edge id="539" source="crash" target="crosscurrent" weight="0.011407" />
+      <edge id="540" source="crash" target="craps" weight="0.004255" />
+      <edge id="541" source="crash" target="crease" weight="0.00365" />
+      <edge id="542" source="crash" target="crisis" weight="0.025735" />
+      <edge id="543" source="crash" target="craze" weight="0.013298" />
+      <edge id="544" source="crash" target="cream" weight="0.005479" />
+      <edge id="545" source="crash" target="crown" weight="0.00641" />
+      <edge id="546" source="crash" target="crap" weight="0.00361" />
+      <edge id="547" source="crash" target="crevasse" weight="0.01083" />
+      <edge id="548" source="crash" target="crime" weight="0.011858" />
+      <edge id="549" source="crash" target="creeper" weight="0.004115" />
+      <edge id="550" source="crash" target="crumpet" weight="0.004505" />
+      <edge id="551" source="crash" target="cross" weight="0.015432" />
+      <edge id="552" source="crash" target="crater" weight="0.007117" />
+      <edge id="553" source="crash" target="crush" weight="0.0575" />
+      <edge id="554" source="crash" target="crag" weight="0.003968" />
+      <edge id="555" source="crash" target="crummy" weight="0.003448" />
+      <edge id="556" source="crash" target="crab" weight="0.010067" />
+      <edge id="557" source="crash" target="crude" weight="0.002825" />
+      <edge id="558" source="crash" target="cram" weight="0.019544" />
+      <edge id="559" source="crash" target="crenellate" weight="0.004" />
+      <edge id="560" source="crash" target="creep" weight="0.003401" />
+      <edge id="561" source="crash" target="croak" weight="0.025237" />
+      <edge id="562" source="crash" target="crouch" weight="0.004049" />
+      <edge id="563" source="crash" target="crumbling" weight="0.014286" />
+      <edge id="564" source="crash" target="crinkle" weight="0.007576" />
+      <edge id="565" source="crash" target="crucified" weight="0.004329" />
+      <edge id="566" source="crash" target="crappy" weight="0.003817" />
+      <edge id="567" source="crash" target="crevice" weight="0.011029" />
+      <edge id="568" source="crash" target="cropper" weight="0.054852" />
+      <edge id="569" source="crash" target="crypt" weight="0.00365" />
+      <edge id="570" source="crash" target="crank" weight="0.002558" />
+      <edge id="571" source="crash" target="crib" weight="0.004785" />
+      <edge id="572" source="crash" target="crumb" weight="0.032468" />
+      <edge id="573" source="crash" target="crane" weight="0.003984" />
+      <edge id="574" source="crash" target="crusher" weight="0.008621" />
+      <edge id="575" source="crash" target="crawl" weight="0.003268" />
+      <edge id="576" source="crash" target="craving" weight="0.030303" />
+      <edge id="577" source="crash" target="crucify" weight="0.006557" />
+      <edge id="578" source="crash" target="criticize" weight="0.021739" />
+      <edge id="579" source="crash" target="crisp" weight="0.002762" />
+      <edge id="580" source="crash" target="crackerjack" weight="0.003953" />
+      <edge id="581" source="crash" target="cruet" weight="0.004219" />
+      <edge id="582" source="crash" target="cry" weight="0.002778" />
+      <edge id="583" source="crash" target="crosier" weight="0.004274" />
+      <edge id="584" source="crash" target="crossroads" weight="0.004329" />
+      <edge id="585" source="crash" target="craftsmanship" weight="0.00346" />
+      <edge id="586" source="crash" target="credit" weight="0.005435" />
+      <edge id="587" source="crash" target="craft" weight="0.002841" />
+      <edge id="588" source="crash" target="croissant" weight="0.004505" />
+      <edge id="589" source="crash" target="crossing" weight="0.003509" />
+      <edge id="590" source="crash" target="cracked" weight="0.005764" />
+      <edge id="591" source="crash" target="cringle" weight="0.004149" />
+      <edge id="592" source="crash" target="cringe" weight="0.007782" />
+      <edge id="593" source="crash" target="crumple" weight="0.016" />
+      <edge id="594" source="crash" target="crowbar" weight="0.004274" />
+      <edge id="595" source="cryptography" target="croft" weight="0.025641" />
+      <edge id="596" source="cryptography" target="cross" weight="0.004454" />
+      <edge id="597" source="crumbling" target="crazy" weight="0.004902" />
+      <edge id="598" source="crumbling" target="crabbed" weight="0.024691" />
+      <edge id="599" source="crumbling" target="crackle" weight="0.00885" />
+      <edge id="600" source="crumbling" target="crumble" weight="0.013423" />
+      <edge id="601" source="crumbling" target="crook" weight="0.003401" />
+      <edge id="602" source="crumbling" target="crumbly" weight="0.010417" />
+      <edge id="603" source="crumbling" target="craze" weight="0.004274" />
+      <edge id="604" source="crumbling" target="crooked" weight="0.00625" />
+      <edge id="605" source="crumbling" target="cross" weight="0.001957" />
+      <edge id="606" source="crumbling" target="crummy" weight="0.006944" />
+      <edge id="607" source="crumbling" target="crunch" weight="0.005376" />
+      <edge id="608" source="crumbling" target="cranky" weight="0.004785" />
+      <edge id="609" source="crumbling" target="crushed" weight="0.006757" />
+      <edge id="610" source="crumbling" target="crappy" weight="0.008621" />
+      <edge id="611" source="crumbling" target="crane" weight="0.009524" />
+      <edge id="612" source="crumbling" target="crawling" weight="0.010695" />
+      <edge id="613" source="crumbling" target="cracked" weight="0.00995" />
+      <edge id="614" source="crumbling" target="creeping" weight="0.013793" />
+      <edge id="615" source="cranky" target="crow" weight="0.007042" />
+      <edge id="616" source="cranky" target="crown" weight="0.002525" />
+      <edge id="617" source="cranky" target="crazy" weight="0.057252" />
+      <edge id="618" source="cranky" target="crook" weight="0.008242" />
+      <edge id="619" source="cranky" target="crosscurrent" weight="0.005236" />
+      <edge id="620" source="cranky" target="crescent" weight="0.003953" />
+      <edge id="621" source="cranky" target="crystallized" weight="0.006289" />
+      <edge id="622" source="cranky" target="craze" weight="0.003268" />
+      <edge id="623" source="cranky" target="crooked" weight="0.008658" />
+      <edge id="624" source="cranky" target="crackpot" weight="0.034884" />
+      <edge id="625" source="cranky" target="cross" weight="0.116635" />
+      <edge id="626" source="cranky" target="crabbed" weight="0.122642" />
+      <edge id="627" source="cranky" target="crummy" weight="0.00463" />
+      <edge id="628" source="cranky" target="crab" weight="0.017937" />
+      <edge id="629" source="cranky" target="credulous" weight="0.025381" />
+      <edge id="630" source="cranky" target="crude" weight="0.003571" />
+      <edge id="631" source="cranky" target="crossbreed" weight="0.006024" />
+      <edge id="632" source="cranky" target="crunched" weight="0.012987" />
+      <edge id="633" source="cranky" target="crossbones" weight="0.006667" />
+      <edge id="634" source="cranky" target="crusty" weight="0.121212" />
+      <edge id="635" source="cranky" target="creedbound" weight="0.005848" />
+      <edge id="636" source="cranky" target="crucified" weight="0.006369" />
+      <edge id="637" source="cranky" target="crappy" weight="0.005319" />
+      <edge id="638" source="cranky" target="crux" weight="0.005128" />
+      <edge id="639" source="cranky" target="crosswise" weight="0.016667" />
+      <edge id="640" source="cranky" target="crank" weight="0.131673" />
+      <edge id="641" source="cranky" target="crosspatch" weight="0.019231" />
+      <edge id="642" source="cranky" target="crane" weight="0.00565" />
+      <edge id="643" source="cranky" target="crackbrain" weight="0.019355" />
+      <edge id="644" source="cranky" target="crucible" weight="0.005882" />
+      <edge id="645" source="cranky" target="crisscross" weight="0.006289" />
+      <edge id="646" source="cranky" target="crestfallen" weight="0.017442" />
+      <edge id="647" source="cranky" target="crisp" weight="0.003472" />
+      <edge id="648" source="cranky" target="cramp" weight="0.00551" />
+      <edge id="649" source="cranky" target="cruet" weight="0.006135" />
+      <edge id="650" source="cranky" target="crosier" weight="0.00625" />
+      <edge id="651" source="cranky" target="crutch" weight="0.005051" />
+      <edge id="652" source="cranky" target="crotchety" weight="0.485915" />
+      <edge id="653" source="cranky" target="cramped" weight="0.004132" />
+      <edge id="654" source="cranky" target="crucifix" weight="0.006135" />
+      <edge id="655" source="cranky" target="crossing" weight="0.004739" />
+      <edge id="656" source="cranky" target="cracked" weight="0.041667" />
+      <edge id="657" source="cranky" target="croak" weight="0.004" />
+      <edge id="658" source="cranky" target="crushed" weight="0.013761" />
+      <edge id="659" source="cranky" target="crowbar" weight="0.00625" />
+      <edge id="660" source="crushed" target="crazy" weight="0.009346" />
+      <edge id="661" source="crushed" target="crabbed" weight="0.005682" />
+      <edge id="662" source="crushed" target="craps" weight="0.01" />
+      <edge id="663" source="crushed" target="crap" weight="0.007042" />
+      <edge id="664" source="crushed" target="crust" weight="0.007463" />
+      <edge id="665" source="crushed" target="cross" weight="0.001916" />
+      <edge id="666" source="crushed" target="crush" weight="0.014085" />
+      <edge id="667" source="crushed" target="creamy" weight="0.007937" />
+      <edge id="668" source="crushed" target="crummy" weight="0.012987" />
+      <edge id="669" source="crushed" target="credulous" weight="0.007143" />
+      <edge id="670" source="crushed" target="crappy" weight="0.007874" />
+      <edge id="671" source="crushed" target="crestfallen" weight="0.295455" />
+      <edge id="672" source="crushed" target="crank" weight="0.003906" />
+      <edge id="673" source="crushed" target="crippled" weight="0.010638" />
+      <edge id="674" source="crushed" target="cryptic" weight="0.02459" />
+      <edge id="675" source="crushed" target="crotchety" weight="0.006711" />
+      <edge id="676" source="crushed" target="cruel" weight="0.006135" />
+      <edge id="677" source="crushed" target="crawling" weight="0.010101" />
+      <edge id="678" source="crushed" target="cracked" weight="0.014218" />
+      <edge id="679" source="crux" target="crucify" weight="0.013793" />
+      <edge id="680" source="crux" target="crunch" weight="0.017647" />
+      <edge id="681" source="crux" target="crusty" weight="0.007407" />
+      <edge id="682" source="crux" target="crystal" weight="0.009259" />
+      <edge id="683" source="crux" target="crook" weight="0.007168" />
+      <edge id="684" source="crux" target="cross" weight="0.018405" />
+      <edge id="685" source="crux" target="crop" weight="0.004762" />
+      <edge id="686" source="crux" target="crick" weight="0.023529" />
+      <edge id="687" source="crux" target="crush" weight="0.011538" />
+      <edge id="688" source="crux" target="crosswise" weight="0.021053" />
+      <edge id="689" source="crux" target="crusade" weight="0.014706" />
+      <edge id="690" source="crux" target="crucifix" weight="0.114286" />
+      <edge id="691" source="crux" target="crucible" weight="0.011905" />
+      <edge id="692" source="crux" target="crumple" weight="0.010753" />
+      <edge id="693" source="crux" target="crisis" weight="0.214286" />
+      <edge id="694" source="crux" target="creature" weight="0.015228" />
+      <edge id="695" source="credentials" target="credential" weight="0.033333" />
+      <edge id="696" source="credentials" target="cross" weight="0.011186" />
+      <edge id="697" source="crusher" target="crowd" weight="0.004032" />
+      <edge id="698" source="crusher" target="crackerjack" weight="0.017544" />
+      <edge id="699" source="crusher" target="crumble" weight="0.020202" />
+      <edge id="700" source="crusher" target="crush" weight="0.008889" />
+      <edge id="701" source="crusher" target="crenellate" weight="0.018519" />
+      <edge id="702" source="crackbrain" target="crazy" weight="0.02" />
+      <edge id="703" source="crackbrain" target="croak" weight="0.007937" />
+      <edge id="704" source="crackbrain" target="crystal" weight="0.014286" />
+      <edge id="705" source="crackbrain" target="crow" weight="0.0125" />
+      <edge id="706" source="crackbrain" target="crackpot" weight="0.35" />
+      <edge id="707" source="crackbrain" target="crop" weight="0.005814" />
+      <edge id="708" source="crackbrain" target="crotchety" weight="0.023529" />
+      <edge id="709" source="crackbrain" target="crook" weight="0.004132" />
+      <edge id="710" source="crackbrain" target="critic" weight="0.011628" />
+      <edge id="711" source="crackbrain" target="crank" weight="0.054348" />
+      <edge id="712" source="crackbrain" target="crab" weight="0.009804" />
+      <edge id="713" source="crackbrain" target="crosspatch" weight="0.029412" />
+      <edge id="714" source="crackbrain" target="cracked" weight="0.013423" />
+      <edge id="715" source="crackbrain" target="craze" weight="0.005495" />
+      <edge id="716" source="crackbrain" target="crowbar" weight="0.027778" />
+      <edge id="717" source="crass" target="crazy" weight="0.014218" />
+      <edge id="718" source="crass" target="cryptic" weight="0.008197" />
+      <edge id="719" source="crass" target="crusty" weight="0.012739" />
+      <edge id="720" source="crass" target="crowded" weight="0.046358" />
+      <edge id="721" source="crass" target="crooked" weight="0.005917" />
+      <edge id="722" source="crass" target="crammed" weight="0.05036" />
+      <edge id="723" source="crass" target="crosswise" weight="0.008403" />
+      <edge id="724" source="crass" target="crummy" weight="0.040541" />
+      <edge id="725" source="crass" target="credulous" weight="0.022059" />
+      <edge id="726" source="crass" target="critter" weight="0.007634" />
+      <edge id="727" source="crisp" target="crucify" weight="0.004184" />
+      <edge id="728" source="crisp" target="crazy" weight="0.003534" />
+      <edge id="729" source="crisp" target="crowd" weight="0.008" />
+      <edge id="730" source="crisp" target="crow" weight="0.006873" />
+      <edge id="731" source="crisp" target="crackle" weight="0.005208" />
+      <edge id="732" source="crisp" target="crevasse" weight="0.004717" />
+      <edge id="733" source="crisp" target="crop" weight="0.009967" />
+      <edge id="734" source="crisp" target="crick" weight="0.005587" />
+      <edge id="735" source="crisp" target="crook" weight="0.005376" />
+      <edge id="736" source="crisp" target="croup" weight="0.005952" />
+      <edge id="737" source="crisp" target="crammed" weight="0.018868" />
+      <edge id="738" source="crisp" target="croft" weight="0.011236" />
+      <edge id="739" source="crisp" target="crooked" weight="0.012658" />
+      <edge id="740" source="crisp" target="create" weight="0.004219" />
+      <edge id="741" source="crisp" target="cross" weight="0.001695" />
+      <edge id="742" source="crisp" target="cropped" weight="0.057325" />
+      <edge id="743" source="crisp" target="crater" weight="0.009346" />
+      <edge id="744" source="crisp" target="crush" weight="0.002817" />
+      <edge id="745" source="crisp" target="creamy" weight="0.010363" />
+      <edge id="746" source="crisp" target="crab" weight="0.004292" />
+      <edge id="747" source="crisp" target="cram" weight="0.004082" />
+      <edge id="748" source="crisp" target="crenellate" weight="0.010989" />
+      <edge id="749" source="crisp" target="crusty" weight="0.031532" />
+      <edge id="750" source="crisp" target="credulous" weight="0.004808" />
+      <edge id="751" source="crisp" target="cryptic" weight="0.005208" />
+      <edge id="752" source="crisp" target="crowded" weight="0.022422" />
+      <edge id="753" source="crisp" target="crumple" weight="0.016304" />
+      <edge id="754" source="crisp" target="crystal" weight="0.046632" />
+      <edge id="755" source="crisp" target="cruel" weight="0.026549" />
+      <edge id="756" source="crisp" target="craggy" weight="0.005747" />
+      <edge id="757" source="crisp" target="crafty" weight="0.013889" />
+      <edge id="758" source="crock" target="crowd" weight="0.003876" />
+      <edge id="759" source="crock" target="crackerjack" weight="0.014925" />
+      <edge id="760" source="crock" target="crop" weight="0.005435" />
+      <edge id="761" source="crock" target="crater" weight="0.010417" />
+      <edge id="762" source="crock" target="cracker" weight="0.017857" />
+      <edge id="763" source="crock" target="cram" weight="0.007937" />
+      <edge id="764" source="crock" target="critter" weight="0.012195" />
+      <edge id="765" source="cry" target="crescendo" weight="0.007605" />
+      <edge id="766" source="cry" target="crowd" weight="0.002667" />
+      <edge id="767" source="cry" target="credential" weight="0.005988" />
+      <edge id="768" source="cry" target="crow" weight="0.136719" />
+      <edge id="769" source="cry" target="crumble" weight="0.004405" />
+      <edge id="770" source="cry" target="crave" weight="0.005587" />
+      <edge id="771" source="cry" target="crisis" weight="0.004785" />
+      <edge id="772" source="cry" target="cross" weight="0.003407" />
+      <edge id="773" source="cry" target="crater" weight="0.004695" />
+      <edge id="774" source="cry" target="crush" weight="0.002833" />
+      <edge id="775" source="cry" target="crummy" weight="0.004525" />
+      <edge id="776" source="cry" target="crab" weight="0.054545" />
+      <edge id="777" source="cry" target="crony" weight="0.005618" />
+      <edge id="778" source="cry" target="crunch" weight="0.023256" />
+      <edge id="779" source="cry" target="crackle" weight="0.010582" />
+      <edge id="780" source="cry" target="crick" weight="0.00565" />
+      <edge id="781" source="cry" target="crenellate" weight="0.005525" />
+      <edge id="782" source="cry" target="crafty" weight="0.00463" />
+      <edge id="783" source="craftsmanship" target="crescent" weight="0.005348" />
+      <edge id="784" source="craftsmanship" target="crescendo" weight="0.005181" />
+      <edge id="785" source="craftsmanship" target="crammed" weight="0.007042" />
+      <edge id="786" source="craftsmanship" target="crowd" weight="0.003289" />
+      <edge id="787" source="craftsmanship" target="cremation" weight="0.011364" />
+      <edge id="788" source="craftsmanship" target="crooked" weight="0.006024" />
+      <edge id="789" source="craftsmanship" target="create" weight="0.006098" />
+      <edge id="790" source="craftsmanship" target="creation" weight="0.169492" />
+      <edge id="791" source="craftsmanship" target="creativity" weight="0.010989" />
+      <edge id="792" source="craftsmanship" target="cramp" weight="0.003356" />
+      <edge id="793" source="craftsmanship" target="crop" weight="0.004348" />
+      <edge id="794" source="craftsmanship" target="crush" weight="0.003546" />
+      <edge id="795" source="craftsmanship" target="credit" weight="0.013216" />
+      <edge id="796" source="craftsmanship" target="craft" weight="0.267857" />
+      <edge id="797" source="craftsmanship" target="crib" weight="0.003584" />
+      <edge id="798" source="craftsmanship" target="critique" weight="0.010101" />
+      <edge id="799" source="craftsmanship" target="crafty" weight="0.006897" />
+      <edge id="800" source="craftsmanship" target="craze" weight="0.004167" />
+      <edge id="801" source="craftsmanship" target="creature" weight="0.018519" />
+      <edge id="802" source="crossing" target="crunch" weight="0.005319" />
+      <edge id="803" source="crossing" target="crap" weight="0.007519" />
+      <edge id="804" source="crossing" target="crevasse" weight="0.007407" />
+      <edge id="805" source="crossing" target="crowd" weight="0.006689" />
+      <edge id="806" source="crossing" target="creed" weight="0.007937" />
+      <edge id="807" source="crossing" target="crackle" weight="0.008696" />
+      <edge id="808" source="crossing" target="cross" weight="0.017822" />
+      <edge id="809" source="crossing" target="crick" weight="0.009804" />
+      <edge id="810" source="crossing" target="crosswise" weight="0.018018" />
+      <edge id="811" source="crossing" target="crusade" weight="0.011905" />
+      <edge id="812" source="crossing" target="cram" weight="0.005952" />
+      <edge id="813" source="crucifixion" target="crucify" weight="0.035088" />
+      <edge id="814" source="crucifixion" target="cremation" weight="0.025641" />
+      <edge id="815" source="crucifixion" target="cramp" weight="0.008065" />
+      <edge id="816" source="crucifixion" target="crackle" weight="0.014286" />
+      <edge id="817" source="crucifixion" target="crib" weight="0.008734" />
+      <edge id="818" source="crucifixion" target="crick" weight="0.017544" />
+      <edge id="819" source="crucifixion" target="crush" weight="0.012987" />
+      <edge id="820" source="crucifixion" target="crosswise" weight="0.014925" />
+      <edge id="821" source="crucifixion" target="cruel" weight="0.009174" />
+      <edge id="822" source="crucifixion" target="creep" weight="0.009524" />
+      <edge id="823" source="crucifixion" target="crawl" weight="0.008547" />
+      <edge id="824" source="crucifixion" target="craving" weight="0.020833" />
+      <edge id="825" source="crucifixion" target="craze" weight="0.010526" />
+      <edge id="826" source="cringle" target="create" weight="0.008621" />
+      <edge id="827" source="cringle" target="cross" weight="0.002132" />
+      <edge id="828" source="cringle" target="crop" weight="0.005495" />
+      <edge id="829" source="cringle" target="crook" weight="0.003968" />
+      <edge id="830" source="cringle" target="cryptologist" weight="0.027027" />
+      <edge id="831" source="cringle" target="crab" weight="0.008929" />
+      <edge id="832" source="cringle" target="crane" weight="0.015873" />
+      <edge id="833" source="cringle" target="creature" weight="0.005848" />
+      <edge id="834" source="cringe" target="crouch" weight="0.375" />
+      <edge id="835" source="cringe" target="crowd" weight="0.003663" />
+      <edge id="836" source="cringe" target="cross" weight="0.004124" />
+      <edge id="837" source="cringe" target="crumble" weight="0.016129" />
+      <edge id="838" source="cringe" target="crush" weight="0.003984" />
+      <edge id="839" source="cringe" target="crook" weight="0.015038" />
+      <edge id="840" source="cringe" target="crumple" weight="0.012195" />
+      <edge id="841" source="cringe" target="creature" weight="0.010695" />
+      <edge id="842" source="crescendo" target="cramp" weight="0.002924" />
+      <edge id="843" source="crescendo" target="crowd" weight="0.017493" />
+      <edge id="844" source="crescendo" target="crow" weight="0.011494" />
+      <edge id="845" source="crescendo" target="creation" weight="0.008032" />
+      <edge id="846" source="crescendo" target="crown" weight="0.019022" />
+      <edge id="847" source="crescendo" target="crop" weight="0.011029" />
+      <edge id="848" source="crescendo" target="crook" weight="0.005831" />
+      <edge id="849" source="crescendo" target="crosscurrent" weight="0.011905" />
+      <edge id="850" source="crescendo" target="crescent" weight="0.008696" />
+      <edge id="851" source="crescendo" target="crisis" weight="0.022346" />
+      <edge id="852" source="crescendo" target="creep" weight="0.005051" />
+      <edge id="853" source="crescendo" target="create" weight="0.014563" />
+      <edge id="854" source="crescendo" target="cross" weight="0.005367" />
+      <edge id="855" source="crescendo" target="crush" weight="0.006154" />
+      <edge id="856" source="crescendo" target="cropper" weight="0.006536" />
+      <edge id="857" source="crescendo" target="cram" weight="0.00463" />
+      <edge id="858" source="crescendo" target="critter" weight="0.005814" />
+      <edge id="859" source="crescendo" target="crony" weight="0.006623" />
+      <edge id="860" source="crescendo" target="crunch" weight="0.004237" />
+      <edge id="861" source="crescendo" target="crank" weight="0.006803" />
+      <edge id="862" source="crescendo" target="crib" weight="0.006211" />
+      <edge id="863" source="crescendo" target="crane" weight="0.012987" />
+      <edge id="864" source="crescendo" target="crawl" weight="0.004762" />
+      <edge id="865" source="crescendo" target="craving" weight="0.007092" />
+      <edge id="866" source="crescendo" target="criticize" weight="0.007246" />
+      <edge id="867" source="crescendo" target="crosier" weight="0.007246" />
+      <edge id="868" source="crescendo" target="crystal" weight="0.005814" />
+      <edge id="869" source="crescendo" target="crawling" weight="0.004202" />
+      <edge id="870" source="crescendo" target="crossbreed" weight="0.021127" />
+      <edge id="871" source="crescendo" target="croak" weight="0.004386" />
+      <edge id="872" source="crescendo" target="crowbar" weight="0.014599" />
+      <edge id="873" source="cramp" target="crazy" weight="0.002786" />
+      <edge id="874" source="cramp" target="crowd" weight="0.029478" />
+      <edge id="875" source="cramp" target="crow" weight="0.010959" />
+      <edge id="876" source="cramp" target="crackle" weight="0.034615" />
+      <edge id="877" source="cramp" target="crevasse" weight="0.01049" />
+      <edge id="878" source="cramp" target="crop" weight="0.032609" />
+      <edge id="879" source="cramp" target="crumble" weight="0.009901" />
+      <edge id="880" source="cramp" target="crook" weight="0.002227" />
+      <edge id="881" source="cramp" target="crave" weight="0.003891" />
+      <edge id="882" source="cramp" target="crisis" weight="0.010526" />
+      <edge id="883" source="cramp" target="crammed" weight="0.013889" />
+      <edge id="884" source="cramp" target="croft" weight="0.003922" />
+      <edge id="885" source="cramp" target="create" weight="0.009646" />
+      <edge id="886" source="cramp" target="cross" weight="0.015221" />
+      <edge id="887" source="cramp" target="crater" weight="0.006897" />
+      <edge id="888" source="cramp" target="crush" weight="0.033493" />
+      <edge id="889" source="cramp" target="cradle" weight="0.003165" />
+      <edge id="890" source="cramp" target="crab" weight="0.016393" />
+      <edge id="891" source="cramp" target="cram" weight="0.032051" />
+      <edge id="892" source="cramp" target="crenellate" weight="0.007752" />
+      <edge id="893" source="cramp" target="crunch" weight="0.027027" />
+      <edge id="894" source="cramp" target="cricket" weight="0.004184" />
+      <edge id="895" source="cramp" target="crusty" weight="0.009934" />
+      <edge id="896" source="cramp" target="creedbound" weight="0.011905" />
+      <edge id="897" source="cramp" target="crucified" weight="0.008368" />
+      <edge id="898" source="cramp" target="cryptic" weight="0.015094" />
+      <edge id="899" source="cramp" target="crane" weight="0.003846" />
+      <edge id="900" source="cramp" target="crick" weight="0.089362" />
+      <edge id="901" source="cramp" target="craving" weight="0.004065" />
+      <edge id="902" source="cramp" target="crucible" weight="0.003953" />
+      <edge id="903" source="cramp" target="crucify" weight="0.042904" />
+      <edge id="904" source="cramp" target="criticize" weight="0.004115" />
+      <edge id="905" source="cramp" target="creeps" weight="0.008333" />
+      <edge id="906" source="cramp" target="crowded" weight="0.059233" />
+      <edge id="907" source="cramp" target="cracker" weight="0.003984" />
+      <edge id="908" source="cramp" target="cruel" weight="0.009836" />
+      <edge id="909" source="cramp" target="crystallize" weight="0.012931" />
+      <edge id="910" source="cramp" target="crumple" weight="0.023346" />
+      <edge id="911" source="cranny" target="crucify" weight="0.005208" />
+      <edge id="912" source="cranny" target="crowd" weight="0.009146" />
+      <edge id="913" source="cranny" target="crow" weight="0.008197" />
+      <edge id="914" source="cranny" target="crackle" weight="0.073529" />
+      <edge id="915" source="cranny" target="crop" weight="0.003906" />
+      <edge id="916" source="cranny" target="crumble" weight="0.01105" />
+      <edge id="917" source="cranny" target="crook" weight="0.006154" />
+      <edge id="918" source="cranny" target="crisis" weight="0.006098" />
+      <edge id="919" source="cranny" target="crap" weight="0.006135" />
+      <edge id="920" source="cranny" target="crevasse" weight="0.522936" />
+      <edge id="921" source="cranny" target="create" weight="0.005263" />
+      <edge id="922" source="cranny" target="cross" weight="0.00369" />
+      <edge id="923" source="cranny" target="crater" weight="0.083333" />
+      <edge id="924" source="cranny" target="crush" weight="0.006515" />
+      <edge id="925" source="cranny" target="cram" weight="0.005051" />
+      <edge id="926" source="cranny" target="crenellate" weight="0.030075" />
+      <edge id="927" source="cranny" target="creature" weight="0.004082" />
+      <edge id="928" source="cranny" target="crunch" weight="0.009217" />
+      <edge id="929" source="cranny" target="crane" weight="0.007299" />
+      <edge id="930" source="cranny" target="cryptic" weight="0.006897" />
+      <edge id="931" source="cranny" target="crackerjack" weight="0.007194" />
+      <edge id="932" source="cranny" target="crumple" weight="0.037037" />
+      <edge id="933" source="creek" target="crucify" weight="0.007576" />
+      <edge id="934" source="creek" target="credible" weight="0.014706" />
+      <edge id="935" source="creek" target="crevasse" weight="0.019231" />
+      <edge id="936" source="creek" target="crow" weight="0.005405" />
+      <edge id="937" source="creek" target="crackle" weight="0.02381" />
+      <edge id="938" source="creek" target="crop" weight="0.010256" />
+      <edge id="939" source="creek" target="crick" weight="0.106061" />
+      <edge id="940" source="creek" target="crook" weight="0.011364" />
+      <edge id="941" source="creek" target="crisis" weight="0.009615" />
+      <edge id="942" source="creek" target="crowd" weight="0.007435" />
+      <edge id="943" source="creek" target="cross" weight="0.00207" />
+      <edge id="944" source="creek" target="crater" weight="0.009259" />
+      <edge id="945" source="creek" target="crush" weight="0.004032" />
+      <edge id="946" source="creek" target="cram" weight="0.007246" />
+      <edge id="947" source="creek" target="crenellate" weight="0.013158" />
+      <edge id="948" source="creek" target="crunch" weight="0.012739" />
+      <edge id="949" source="creek" target="crusty" weight="0.008264" />
+      <edge id="950" source="creek" target="crowded" weight="0.008333" />
+      <edge id="951" source="crowd" target="crusty" weight="0.003226" />
+      <edge id="952" source="crowd" target="crow" weight="0.005362" />
+      <edge id="953" source="crowd" target="creation" weight="0.00277" />
+      <edge id="954" source="crowd" target="crown" weight="0.008299" />
+      <edge id="955" source="crowd" target="crop" weight="0.026596" />
+      <edge id="956" source="crowd" target="crook" weight="0.011086" />
+      <edge id="957" source="crowd" target="crosscurrent" weight="0.021818" />
+      <edge id="958" source="crowd" target="croon" weight="0.003906" />
+      <edge id="959" source="crowd" target="crescent" weight="0.014793" />
+      <edge id="960" source="crowd" target="crossroads" weight="0.004065" />
+      <edge id="961" source="crowd" target="creep" weight="0.016393" />
+      <edge id="962" source="crowd" target="croft" weight="0.011583" />
+      <edge id="963" source="crowd" target="crush" weight="0.100503" />
+      <edge id="964" source="crowd" target="cradle" weight="0.006231" />
+      <edge id="965" source="crowd" target="crenellate" weight="0.011407" />
+      <edge id="966" source="crowd" target="crony" weight="0.007663" />
+      <edge id="967" source="crowd" target="crunch" weight="0.032641" />
+      <edge id="968" source="crowd" target="crouch" weight="0.003817" />
+      <edge id="969" source="crowd" target="craving" weight="0.003968" />
+      <edge id="970" source="crowd" target="cryptic" weight="0.00365" />
+      <edge id="971" source="crowd" target="crosier" weight="0.004016" />
+      <edge id="972" source="crowd" target="credit" weight="0.010499" />
+      <edge id="973" source="crowd" target="crystallize" weight="0.012605" />
+      <edge id="974" source="crowd" target="croak" weight="0.00295" />
+      <edge id="975" source="crowd" target="crib" weight="0.006944" />
+      <edge id="976" source="crowd" target="craps" weight="0.004" />
+      <edge id="977" source="crowd" target="croup" weight="0.004" />
+      <edge id="978" source="crowd" target="crisis" weight="0.010309" />
+      <edge id="979" source="crowd" target="crammed" weight="0.006757" />
+      <edge id="980" source="crowd" target="crap" weight="0.010345" />
+      <edge id="981" source="crowd" target="create" weight="0.012658" />
+      <edge id="982" source="crowd" target="crag" weight="0.003745" />
+      <edge id="983" source="crowd" target="cram" weight="0.28125" />
+      <edge id="984" source="crowd" target="critter" weight="0.007092" />
+      <edge id="985" source="crowd" target="crisscross" weight="0.004032" />
+      <edge id="986" source="crowd" target="crackle" weight="0.007326" />
+      <edge id="987" source="crowd" target="crooner" weight="0.004049" />
+      <edge id="988" source="crowd" target="crevice" weight="0.00346" />
+      <edge id="989" source="crowd" target="crank" weight="0.009926" />
+      <edge id="990" source="crowd" target="crumble" weight="0.012987" />
+      <edge id="991" source="crowd" target="crawl" weight="0.018987" />
+      <edge id="992" source="crowd" target="crumb" weight="0.012158" />
+      <edge id="993" source="crowd" target="crossbreed" weight="0.007874" />
+      <edge id="994" source="crowd" target="crupper" weight="0.003891" />
+      <edge id="995" source="crowd" target="crutch" weight="0.003484" />
+      <edge id="996" source="crowd" target="crystal" weight="0.003534" />
+      <edge id="997" source="crowd" target="creeping" weight="0.003257" />
+      <edge id="998" source="crowd" target="crucify" weight="0.003115" />
+      <edge id="999" source="crowd" target="crevasse" weight="0.003401" />
+      <edge id="1000" source="crowd" target="crick" weight="0.003831" />
+      <edge id="1001" source="crowd" target="crusade" weight="0.008264" />
+      <edge id="1002" source="crowd" target="crystallized" weight="0.004032" />
+      <edge id="1003" source="crowd" target="craze" weight="0.010204" />
+      <edge id="1004" source="crowd" target="cream" weight="0.013263" />
+      <edge id="1005" source="crowd" target="crypt" weight="0.00346" />
+      <edge id="1006" source="crowd" target="cross" weight="0.018154" />
+      <edge id="1007" source="crowd" target="cropper" weight="0.003788" />
+      <edge id="1008" source="crowd" target="creature" weight="0.005362" />
+      <edge id="1009" source="crowd" target="crawling" weight="0.008646" />
+      <edge id="1010" source="crowd" target="crosspatch" weight="0.004049" />
+      <edge id="1011" source="crowd" target="crowded" weight="0.006494" />
+      <edge id="1012" source="crowd" target="crease" weight="0.006944" />
+      <edge id="1013" source="crowd" target="cramped" weight="0.003021" />
+      <edge id="1014" source="crowd" target="crinkle" weight="0.003571" />
+      <edge id="1015" source="crowd" target="crumple" weight="0.007491" />
+      <edge id="1016" source="crowd" target="crowbar" weight="0.008065" />
+      <edge id="1017" source="creator" target="crackerjack" weight="0.022222" />
+      <edge id="1018" source="creator" target="create" weight="0.021429" />
+      <edge id="1019" source="creator" target="crush" weight="0.003846" />
+      <edge id="1020" source="creator" target="cradle" weight="0.006897" />
+      <edge id="1021" source="creator" target="creature" weight="0.010204" />
+      <edge id="1022" source="crabbed" target="crazy" weight="0.013043" />
+      <edge id="1023" source="crabbed" target="crick" weight="0.007813" />
+      <edge id="1024" source="crabbed" target="crook" weight="0.003106" />
+      <edge id="1025" source="crabbed" target="crammed" weight="0.006098" />
+      <edge id="1026" source="crabbed" target="crooked" weight="0.021622" />
+      <edge id="1027" source="crabbed" target="create" weight="0.005376" />
+      <edge id="1028" source="crabbed" target="cross" weight="0.048544" />
+      <edge id="1029" source="crabbed" target="creamy" weight="0.006993" />
+      <edge id="1030" source="crabbed" target="crummy" weight="0.005814" />
+      <edge id="1031" source="crabbed" target="crab" weight="0.005495" />
+      <edge id="1032" source="crabbed" target="crunched" weight="0.018182" />
+      <edge id="1033" source="crabbed" target="crusty" weight="0.178808" />
+      <edge id="1034" source="crabbed" target="creedbound" weight="0.007874" />
+      <edge id="1035" source="crabbed" target="crucified" weight="0.00885" />
+      <edge id="1036" source="crabbed" target="crosswise" weight="0.014599" />
+      <edge id="1037" source="crabbed" target="crucible" weight="0.007937" />
+      <edge id="1038" source="crabbed" target="cryptic" weight="0.014286" />
+      <edge id="1039" source="crabbed" target="crowded" weight="0.011429" />
+      <edge id="1040" source="crabbed" target="cruel" weight="0.011173" />
+      <edge id="1041" source="crabbed" target="crucifix" weight="0.008403" />
+      <edge id="1042" source="crabbed" target="crafty" weight="0.012048" />
+      <edge id="1043" source="crow" target="crazy" weight="0.003571" />
+      <edge id="1044" source="crow" target="crumpet" weight="0.006579" />
+      <edge id="1045" source="crow" target="crown" weight="0.007538" />
+      <edge id="1046" source="crow" target="crop" weight="0.003333" />
+      <edge id="1047" source="crow" target="crumble" weight="0.008889" />
+      <edge id="1048" source="crow" target="crook" weight="0.002703" />
+      <edge id="1049" source="crow" target="critic" weight="0.004673" />
+      <edge id="1050" source="crow" target="croon" weight="0.081761" />
+      <edge id="1051" source="crow" target="crescent" weight="0.003891" />
+      <edge id="1052" source="crow" target="craps" weight="0.006061" />
+      <edge id="1053" source="crow" target="creak" weight="0.071429" />
+      <edge id="1054" source="crow" target="crisis" weight="0.004808" />
+      <edge id="1055" source="crow" target="craze" weight="0.013029" />
+      <edge id="1056" source="crow" target="cream" weight="0.003378" />
+      <edge id="1057" source="crow" target="crap" weight="0.004831" />
+      <edge id="1058" source="crow" target="crevasse" weight="0.004785" />
+      <edge id="1059" source="crow" target="creeper" weight="0.00578" />
+      <edge id="1060" source="crow" target="crackpot" weight="0.005525" />
+      <edge id="1061" source="crow" target="cross" weight="0.005128" />
+      <edge id="1062" source="crow" target="crater" weight="0.004717" />
+      <edge id="1063" source="crow" target="crush" weight="0.005698" />
+      <edge id="1064" source="crow" target="crab" weight="0.054795" />
+      <edge id="1065" source="crow" target="cram" weight="0.0125" />
+      <edge id="1066" source="crow" target="crafty" weight="0.004651" />
+      <edge id="1067" source="crow" target="creature" weight="0.00346" />
+      <edge id="1068" source="crow" target="crunch" weight="0.039526" />
+      <edge id="1069" source="crow" target="cricket" weight="0.012579" />
+      <edge id="1070" source="crow" target="crisscross" weight="0.006135" />
+      <edge id="1071" source="crow" target="crackle" weight="0.010638" />
+      <edge id="1072" source="crow" target="cruelty" weight="0.006173" />
+      <edge id="1073" source="crow" target="crevice" weight="0.004902" />
+      <edge id="1074" source="crow" target="craft" weight="0.003546" />
+      <edge id="1075" source="crow" target="crank" weight="0.042071" />
+      <edge id="1076" source="crow" target="crosspatch" weight="0.006173" />
+      <edge id="1077" source="crow" target="crumb" weight="0.012245" />
+      <edge id="1078" source="crow" target="crane" weight="0.011111" />
+      <edge id="1079" source="crow" target="crick" weight="0.005682" />
+      <edge id="1080" source="crow" target="croissant" weight="0.006579" />
+      <edge id="1081" source="crow" target="cracker" weight="0.011696" />
+      <edge id="1082" source="crow" target="crave" weight="0.005618" />
+      <edge id="1083" source="crow" target="crease" weight="0.004902" />
+      <edge id="1084" source="crow" target="crotchety" weight="0.004673" />
+      <edge id="1085" source="crow" target="credit" weight="0.003344" />
+      <edge id="1086" source="crow" target="crackerjack" weight="0.005464" />
+      <edge id="1087" source="crow" target="cracked" weight="0.003597" />
+      <edge id="1088" source="crow" target="croak" weight="0.275" />
+      <edge id="1089" source="crow" target="creeping" weight="0.004505" />
+      <edge id="1090" source="crow" target="crowbar" weight="0.078431" />
+      <edge id="1091" source="creed" target="crosshatch" weight="0.010204" />
+      <edge id="1092" source="creed" target="credo" weight="0.245614" />
+      <edge id="1093" source="creed" target="credence" weight="0.026667" />
+      <edge id="1094" source="creed" target="craft" weight="0.010417" />
+      <edge id="1095" source="creed" target="cross" weight="0.002008" />
+      <edge id="1096" source="creed" target="crop" weight="0.004739" />
+      <edge id="1097" source="creed" target="crease" weight="0.008696" />
+      <edge id="1098" source="creed" target="credit" weight="0.019324" />
+      <edge id="1099" source="creed" target="crusade" weight="0.014493" />
+      <edge id="1100" source="creed" target="crosscurrent" weight="0.009434" />
+      <edge id="1101" source="creed" target="craps" weight="0.013158" />
+      <edge id="1102" source="creation" target="crazy" weight="0.003745" />
+      <edge id="1103" source="creation" target="craniology" weight="0.007463" />
+      <edge id="1104" source="creation" target="crevasse" weight="0.005102" />
+      <edge id="1105" source="creation" target="cremation" weight="0.013889" />
+      <edge id="1106" source="creation" target="crackerjack" weight="0.005882" />
+      <edge id="1107" source="creation" target="create" weight="0.062201" />
+      <edge id="1108" source="creation" target="crush" weight="0.00295" />
+      <edge id="1109" source="creation" target="crusade" weight="0.006897" />
+      <edge id="1110" source="creation" target="crop" weight="0.014085" />
+      <edge id="1111" source="creation" target="crumble" weight="0.004695" />
+      <edge id="1112" source="creation" target="crystallize" weight="0.007042" />
+      <edge id="1113" source="creation" target="cradle" weight="0.013514" />
+      <edge id="1114" source="creation" target="cram" weight="0.004367" />
+      <edge id="1115" source="creation" target="critter" weight="0.01087" />
+      <edge id="1116" source="creation" target="crisis" weight="0.010309" />
+      <edge id="1117" source="creation" target="creature" weight="0.116935" />
+      <edge id="1118" source="crown" target="crucify" weight="0.00578" />
+      <edge id="1119" source="crown" target="crumpet" weight="0.003802" />
+      <edge id="1120" source="crown" target="crop" weight="0.014778" />
+      <edge id="1121" source="crown" target="crumble" weight="0.002967" />
+      <edge id="1122" source="crown" target="crook" weight="0.038793" />
+      <edge id="1123" source="crown" target="crusty" weight="0.002976" />
+      <edge id="1124" source="crown" target="crisis" weight="0.009464" />
+      <edge id="1125" source="crown" target="crammed" weight="0.003096" />
+      <edge id="1126" source="crown" target="croft" weight="0.006993" />
+      <edge id="1127" source="crown" target="create" weight="0.014663" />
+      <edge id="1128" source="crown" target="cross" weight="0.090484" />
+      <edge id="1129" source="crown" target="crater" weight="0.003096" />
+      <edge id="1130" source="crown" target="crush" weight="0.010893" />
+      <edge id="1131" source="crown" target="creamy" weight="0.006645" />
+      <edge id="1132" source="crown" target="crab" weight="0.00885" />
+      <edge id="1133" source="crown" target="cram" weight="0.002833" />
+      <edge id="1134" source="crown" target="crenellate" weight="0.003436" />
+      <edge id="1135" source="crown" target="creature" weight="0.007538" />
+      <edge id="1136" source="crown" target="crunch" weight="0.002681" />
+      <edge id="1137" source="crown" target="crouch" weight="0.003472" />
+      <edge id="1138" source="crown" target="crosswise" weight="0.003367" />
+      <edge id="1139" source="crown" target="crane" weight="0.003425" />
+      <edge id="1140" source="crown" target="crucible" weight="0.003509" />
+      <edge id="1141" source="crown" target="crystal" weight="0.006494" />
+      <edge id="1142" source="crown" target="crucifix" weight="0.003597" />
+      <edge id="1143" source="crown" target="crumple" weight="0.006826" />
+      <edge id="1144" source="crown" target="crowbar" weight="0.003636" />
+      <edge id="1145" source="crop" target="crucify" weight="0.00813" />
+      <edge id="1146" source="crop" target="cropped" weight="0.00578" />
+      <edge id="1147" source="crop" target="crevasse" weight="0.004545" />
+      <edge id="1148" source="crop" target="crib" weight="0.022663" />
+      <edge id="1149" source="crop" target="crick" weight="0.005348" />
+      <edge id="1150" source="crop" target="crook" weight="0.002625" />
+      <edge id="1151" source="crop" target="critic" weight="0.004444" />
+      <edge id="1152" source="crop" target="crescent" weight="0.003731" />
+      <edge id="1153" source="crop" target="critique" weight="0.005556" />
+      <edge id="1154" source="crop" target="crisis" weight="0.009174" />
+      <edge id="1155" source="crop" target="craze" weight="0.012579" />
+      <edge id="1156" source="crop" target="cream" weight="0.009836" />
+      <edge id="1157" source="crop" target="craw" weight="0.10828" />
+      <edge id="1158" source="crop" target="croft" weight="0.021739" />
+      <edge id="1159" source="crop" target="create" weight="0.025" />
+      <edge id="1160" source="crop" target="crackpot" weight="0.005208" />
+      <edge id="1161" source="crop" target="crust" weight="0.004762" />
+      <edge id="1162" source="crop" target="cross" weight="0.00335" />
+      <edge id="1163" source="crop" target="croup" weight="0.005682" />
+      <edge id="1164" source="crop" target="crush" weight="0.013928" />
+      <edge id="1165" source="crop" target="crystallize" weight="0.006024" />
+      <edge id="1166" source="crop" target="crab" weight="0.004149" />
+      <edge id="1167" source="crop" target="cram" weight="0.011952" />
+      <edge id="1168" source="crop" target="crenellate" weight="0.010526" />
+      <edge id="1169" source="crop" target="creature" weight="0.013468" />
+      <edge id="1170" source="crop" target="crunch" weight="0.007353" />
+      <edge id="1171" source="crop" target="crouch" weight="0.005319" />
+      <edge id="1172" source="crop" target="crockery" weight="0.005747" />
+      <edge id="1173" source="crop" target="crisscross" weight="0.005747" />
+      <edge id="1174" source="crop" target="crackle" weight="0.005" />
+      <edge id="1175" source="crop" target="crinkle" weight="0.004854" />
+      <edge id="1176" source="crop" target="crevice" weight="0.004651" />
+      <edge id="1177" source="crop" target="crosshatch" weight="0.005051" />
+      <edge id="1178" source="crop" target="crank" weight="0.009091" />
+      <edge id="1179" source="crop" target="crumb" weight="0.019685" />
+      <edge id="1180" source="crop" target="crumble" weight="0.004219" />
+      <edge id="1181" source="crop" target="crone" weight="0.005917" />
+      <edge id="1182" source="crop" target="cracked" weight="0.00346" />
+      <edge id="1183" source="crop" target="crupper" weight="0.005464" />
+      <edge id="1184" source="crop" target="crease" weight="0.014085" />
+      <edge id="1185" source="crop" target="credit" weight="0.019672" />
+      <edge id="1186" source="crop" target="cryogenics" weight="0.005556" />
+      <edge id="1187" source="crop" target="crumple" weight="0.010363" />
+      <edge id="1188" source="crop" target="crowbar" weight="0.005714" />
+      <edge id="1189" source="crook" target="crossbreed" weight="0.003984" />
+      <edge id="1190" source="crook" target="crusty" weight="0.003268" />
+      <edge id="1191" source="crook" target="crotchety" weight="0.00339" />
+      <edge id="1192" source="crook" target="creature" weight="0.00542" />
+      <edge id="1193" source="crook" target="crave" weight="0.003861" />
+      <edge id="1194" source="crook" target="crosscurrent" weight="0.003623" />
+      <edge id="1195" source="crook" target="crescent" weight="0.018018" />
+      <edge id="1196" source="crook" target="crossroads" weight="0.004132" />
+      <edge id="1197" source="crook" target="creep" weight="0.006579" />
+      <edge id="1198" source="crook" target="crooked" weight="0.025806" />
+      <edge id="1199" source="crook" target="crackpot" weight="0.003817" />
+      <edge id="1200" source="crook" target="crush" weight="0.014019" />
+      <edge id="1201" source="crook" target="cradle" weight="0.029032" />
+      <edge id="1202" source="crook" target="crenellate" weight="0.003831" />
+      <edge id="1203" source="crook" target="crunch" weight="0.014749" />
+      <edge id="1204" source="crook" target="crouch" weight="0.011719" />
+      <edge id="1205" source="crook" target="crosier" weight="0.0837" />
+      <edge id="1206" source="crook" target="credit" weight="0.002632" />
+      <edge id="1207" source="crook" target="crucifix" weight="0.004032" />
+      <edge id="1208" source="crook" target="crib" weight="0.016509" />
+      <edge id="1209" source="crook" target="crystalline" weight="0.003676" />
+      <edge id="1210" source="crook" target="crisis" weight="0.00346" />
+      <edge id="1211" source="crook" target="crammed" weight="0.003413" />
+      <edge id="1212" source="crook" target="crap" weight="0.003472" />
+      <edge id="1213" source="crook" target="create" weight="0.003175" />
+      <edge id="1214" source="crook" target="crab" weight="0.016287" />
+      <edge id="1215" source="crook" target="cram" weight="0.006211" />
+      <edge id="1216" source="crook" target="crafty" weight="0.00678" />
+      <edge id="1217" source="crook" target="crunched" weight="0.004167" />
+      <edge id="1218" source="crook" target="crisscross" weight="0.004098" />
+      <edge id="1219" source="crook" target="crackle" weight="0.007435" />
+      <edge id="1220" source="crook" target="crosswise" weight="0.015152" />
+      <edge id="1221" source="crook" target="craft" weight="0.005525" />
+      <edge id="1222" source="crook" target="crank" weight="0.092141" />
+      <edge id="1223" source="crook" target="crane" weight="0.056225" />
+      <edge id="1224" source="crook" target="crumble" weight="0.006536" />
+      <edge id="1225" source="crook" target="crawl" weight="0.006329" />
+      <edge id="1226" source="crook" target="crumb" weight="0.006116" />
+      <edge id="1227" source="crook" target="cruet" weight="0.004032" />
+      <edge id="1228" source="crook" target="cracker" weight="0.003953" />
+      <edge id="1229" source="crook" target="crupper" weight="0.003953" />
+      <edge id="1230" source="crook" target="crutch" weight="0.198312" />
+      <edge id="1231" source="crook" target="crystal" weight="0.003584" />
+      <edge id="1232" source="crook" target="cracked" weight="0.005587" />
+      <edge id="1233" source="crook" target="creeping" weight="0.0033" />
+      <edge id="1234" source="crook" target="crucify" weight="0.009524" />
+      <edge id="1235" source="crook" target="crazy" weight="0.005556" />
+      <edge id="1236" source="crook" target="crowning" weight="0.00369" />
+      <edge id="1237" source="crook" target="crick" weight="0.007813" />
+      <edge id="1238" source="crook" target="craze" weight="0.018182" />
+      <edge id="1239" source="crook" target="cream" weight="0.002653" />
+      <edge id="1240" source="crook" target="crypt" weight="0.007042" />
+      <edge id="1241" source="crook" target="cross" weight="0.030817" />
+      <edge id="1242" source="crook" target="crossbones" weight="0.004255" />
+      <edge id="1243" source="crook" target="crater" weight="0.010309" />
+      <edge id="1244" source="crook" target="crawling" weight="0.002899" />
+      <edge id="1245" source="crook" target="crosspatch" weight="0.004115" />
+      <edge id="1246" source="crook" target="crucible" weight="0.003922" />
+      <edge id="1247" source="crook" target="crease" weight="0.010601" />
+      <edge id="1248" source="crook" target="crinkle" weight="0.033582" />
+      <edge id="1249" source="crook" target="crumple" weight="0.055777" />
+      <edge id="1250" source="crook" target="crowbar" weight="0.004082" />
+      <edge id="1251" source="crave" target="creeps" weight="0.019608" />
+      <edge id="1252" source="crave" target="credit" weight="0.005319" />
+      <edge id="1253" source="crave" target="crib" weight="0.004202" />
+      <edge id="1254" source="crave" target="crumble" weight="0.008696" />
+      <edge id="1255" source="crave" target="cradle" weight="0.007937" />
+      <edge id="1256" source="crave" target="crutch" weight="0.010989" />
+      <edge id="1257" source="crave" target="crackerjack" weight="0.013889" />
+      <edge id="1258" source="crave" target="crenellate" weight="0.014493" />
+      <edge id="1259" source="crave" target="craving" weight="0.055556" />
+      <edge id="1260" source="crosscurrent" target="cram" weight="0.006757" />
+      <edge id="1261" source="crosscurrent" target="crusty" weight="0.007634" />
+      <edge id="1262" source="crosscurrent" target="create" weight="0.007143" />
+      <edge id="1263" source="crosscurrent" target="crystallize" weight="0.016393" />
+      <edge id="1264" source="crosscurrent" target="crackle" weight="0.010526" />
+      <edge id="1265" source="crosscurrent" target="cross" weight="0.00611" />
+      <edge id="1266" source="crosscurrent" target="crick" weight="0.024691" />
+      <edge id="1267" source="crosscurrent" target="crush" weight="0.003876" />
+      <edge id="1268" source="crosscurrent" target="crosswise" weight="0.01087" />
+      <edge id="1269" source="crosscurrent" target="crap" weight="0.00885" />
+      <edge id="1270" source="croon" target="cricket" weight="0.02381" />
+      <edge id="1271" source="croon" target="criticize" weight="0.021739" />
+      <edge id="1272" source="croon" target="cracker" weight="0.018519" />
+      <edge id="1273" source="croon" target="crick" weight="0.017241" />
+      <edge id="1274" source="croon" target="crush" weight="0.004274" />
+      <edge id="1275" source="croon" target="cram" weight="0.008065" />
+      <edge id="1276" source="crescent" target="crucify" weight="0.004902" />
+      <edge id="1277" source="crescent" target="crevasse" weight="0.00565" />
+      <edge id="1278" source="crescent" target="crusade" weight="0.007937" />
+      <edge id="1279" source="crescent" target="crusty" weight="0.005181" />
+      <edge id="1280" source="crescent" target="crammed" weight="0.005556" />
+      <edge id="1281" source="crescent" target="croft" weight="0.021127" />
+      <edge id="1282" source="crescent" target="create" weight="0.00495" />
+      <edge id="1283" source="crescent" target="cross" weight="0.098814" />
+      <edge id="1284" source="crescent" target="crush" weight="0.009434" />
+      <edge id="1285" source="crescent" target="creamy" weight="0.012658" />
+      <edge id="1286" source="crescent" target="crab" weight="0.005051" />
+      <edge id="1287" source="crescent" target="cram" weight="0.009569" />
+      <edge id="1288" source="crescent" target="creature" weight="0.007813" />
+      <edge id="1289" source="crescent" target="crouch" weight="0.006897" />
+      <edge id="1290" source="crescent" target="crosswise" weight="0.006494" />
+      <edge id="1291" source="crescent" target="crucible" weight="0.007042" />
+      <edge id="1292" source="crescent" target="cryptic" weight="0.006369" />
+      <edge id="1293" source="crescent" target="crowded" weight="0.005208" />
+      <edge id="1294" source="crescent" target="crucifix" weight="0.007407" />
+      <edge id="1295" source="crescent" target="crumple" weight="0.006623" />
+      <edge id="1296" source="crescent" target="crowbar" weight="0.007576" />
+      <edge id="1297" source="critique" target="criticize" weight="0.046512" />
+      <edge id="1298" source="critique" target="creamy" weight="0.014085" />
+      <edge id="1299" source="critique" target="cram" weight="0.008197" />
+      <edge id="1300" source="crossbones" target="crusty" weight="0.011111" />
+      <edge id="1301" source="crossbones" target="crosswise" weight="0.04" />
+      <edge id="1302" source="crossbones" target="cross" weight="0.017978" />
+      <edge id="1303" source="crossbones" target="crucifix" weight="0.32" />
+      <edge id="1304" source="crossbones" target="crisis" weight="0.013699" />
+      <edge id="1305" source="crossbones" target="crucible" weight="0.025641" />
+      <edge id="1306" source="crutch" target="cracker" weight="0.011765" />
+      <edge id="1307" source="crutch" target="crenellate" weight="0.010753" />
+      <edge id="1308" source="crutch" target="crusty" weight="0.007246" />
+      <edge id="1309" source="crutch" target="crosswise" weight="0.010101" />
+      <edge id="1310" source="crutch" target="cross" weight="0.018293" />
+      <edge id="1311" source="crutch" target="crick" weight="0.011236" />
+      <edge id="1312" source="crutch" target="cradle" weight="0.070922" />
+      <edge id="1313" source="crutch" target="crucifix" weight="0.0125" />
+      <edge id="1314" source="crutch" target="crucible" weight="0.011494" />
+      <edge id="1315" source="crutch" target="cram" weight="0.006452" />
+      <edge id="1316" source="crutch" target="crane" weight="0.010638" />
+      <edge id="1317" source="crutch" target="crumple" weight="0.010417" />
+      <edge id="1318" source="crutch" target="creature" weight="0.00495" />
+      <edge id="1319" source="creep" target="crucify" weight="0.005848" />
+      <edge id="1320" source="creep" target="crammed" weight="0.006803" />
+      <edge id="1321" source="creep" target="crouch" weight="0.153061" />
+      <edge id="1322" source="creep" target="crunch" weight="0.005076" />
+      <edge id="1323" source="creep" target="crowded" weight="0.006289" />
+      <edge id="1324" source="creep" target="cross" weight="0.001916" />
+      <edge id="1325" source="creep" target="cradle" weight="0.005814" />
+      <edge id="1326" source="creep" target="crab" weight="0.006061" />
+      <edge id="1327" source="creep" target="crap" weight="0.014184" />
+      <edge id="1328" source="creep" target="cram" weight="0.017143" />
+      <edge id="1329" source="creep" target="creature" weight="0.004464" />
+      <edge id="1330" source="crotchety" target="crusty" weight="0.034247" />
+      <edge id="1331" source="crotchety" target="crosswise" weight="0.009009" />
+      <edge id="1332" source="crotchety" target="crooked" weight="0.0125" />
+      <edge id="1333" source="crotchety" target="crackpot" weight="0.059406" />
+      <edge id="1334" source="crotchety" target="crunched" weight="0.024096" />
+      <edge id="1335" source="crotchety" target="crazy" weight="0.072917" />
+      <edge id="1336" source="crotchety" target="cross" weight="0.038462" />
+      <edge id="1337" source="crotchety" target="crucified" weight="0.011628" />
+      <edge id="1338" source="crotchety" target="crab" weight="0.019608" />
+      <edge id="1339" source="crotchety" target="credulous" weight="0.039683" />
+      <edge id="1340" source="crotchety" target="crowbar" weight="0.011236" />
+      <edge id="1341" source="crystalline" target="crystal" weight="0.364865" />
+      <edge id="1342" source="crystalline" target="crazy" weight="0.005495" />
+      <edge id="1343" source="crystalline" target="crush" weight="0.003937" />
+      <edge id="1344" source="crystalline" target="creamy" weight="0.021739" />
+      <edge id="1345" source="crystalline" target="credulous" weight="0.009346" />
+      <edge id="1346" source="crystalline" target="craggy" weight="0.138462" />
+      <edge id="1347" source="croft" target="cream" weight="0.010989" />
+      <edge id="1348" source="croft" target="crammed" weight="0.010101" />
+      <edge id="1349" source="croft" target="crust" weight="0.011628" />
+      <edge id="1350" source="croft" target="cross" weight="0.006356" />
+      <edge id="1351" source="croft" target="creamy" weight="0.025974" />
+      <edge id="1352" source="croft" target="craft" weight="0.005917" />
+      <edge id="1353" source="croft" target="crib" weight="0.004237" />
+      <edge id="1354" source="croft" target="crumb" weight="0.007463" />
+      <edge id="1355" source="croft" target="cryptic" weight="0.013158" />
+      <edge id="1356" source="croft" target="crowded" weight="0.009009" />
+      <edge id="1357" source="croft" target="crease" weight="0.010989" />
+      <edge id="1358" source="croft" target="cramped" weight="0.007519" />
+      <edge id="1359" source="croft" target="crawling" weight="0.006623" />
+      <edge id="1360" source="crooked" target="crucify" weight="0.005464" />
+      <edge id="1361" source="crooked" target="crazy" weight="0.065421" />
+      <edge id="1362" source="crooked" target="crumble" weight="0.00578" />
+      <edge id="1363" source="crooked" target="cross" weight="0.001873" />
+      <edge id="1364" source="crooked" target="crude" weight="0.004329" />
+      <edge id="1365" source="crooked" target="crunched" weight="0.150538" />
+      <edge id="1366" source="crooked" target="crusty" weight="0.005814" />
+      <edge id="1367" source="crooked" target="crawling" weight="0.004739" />
+      <edge id="1368" source="crooked" target="credulous" weight="0.013245" />
+      <edge id="1369" source="crooked" target="crucified" weight="0.009259" />
+      <edge id="1370" source="crooked" target="crappy" weight="0.007194" />
+      <edge id="1371" source="crooked" target="crosswise" weight="0.007519" />
+      <edge id="1372" source="crooked" target="cryptic" weight="0.007353" />
+      <edge id="1373" source="crooked" target="crank" weight="0.015094" />
+      <edge id="1374" source="crooked" target="crenellate" weight="0.007874" />
+      <edge id="1375" source="crooked" target="crease" weight="0.006623" />
+      <edge id="1376" source="crooked" target="cruel" weight="0.005714" />
+      <edge id="1377" source="crooked" target="craft" weight="0.004367" />
+      <edge id="1378" source="crooked" target="crafty" weight="0.156028" />
+      <edge id="1379" source="crooked" target="craftsman" weight="0.006849" />
+      <edge id="1380" source="crooked" target="crinkle" weight="0.014184" />
+      <edge id="1381" source="crooked" target="craggy" weight="0.025862" />
+      <edge id="1382" source="crooked" target="cracked" weight="0.031963" />
+      <edge id="1383" source="crooked" target="creeping" weight="0.005917" />
+      <edge id="1384" source="crackpot" target="crosshatch" weight="0.012658" />
+      <edge id="1385" source="crackpot" target="crazy" weight="0.011696" />
+      <edge id="1386" source="crackpot" target="critic" weight="0.019048" />
+      <edge id="1387" source="crackpot" target="craps" weight="0.017544" />
+      <edge id="1388" source="crackpot" target="craze" weight="0.00995" />
+      <edge id="1389" source="crackpot" target="crap" weight="0.010101" />
+      <edge id="1390" source="crackpot" target="cross" weight="0.002088" />
+      <edge id="1391" source="crackpot" target="crush" weight="0.004098" />
+      <edge id="1392" source="crackpot" target="criterion" weight="0.022222" />
+      <edge id="1393" source="crackpot" target="crab" weight="0.008197" />
+      <edge id="1394" source="crackpot" target="critter" weight="0.011111" />
+      <edge id="1395" source="crackpot" target="creature" weight="0.005525" />
+      <edge id="1396" source="crackpot" target="credential" weight="0.017241" />
+      <edge id="1397" source="crackpot" target="crank" weight="0.163043" />
+      <edge id="1398" source="crackpot" target="crosspatch" weight="0.078431" />
+      <edge id="1399" source="crackpot" target="crease" weight="0.010417" />
+      <edge id="1400" source="crackpot" target="crystal" weight="0.011111" />
+      <edge id="1401" source="crackpot" target="cracked" weight="0.011834" />
+      <edge id="1402" source="crackpot" target="crowbar" weight="0.017857" />
+      <edge id="1403" source="crust" target="crucify" weight="0.006849" />
+      <edge id="1404" source="crust" target="credence" weight="0.013333" />
+      <edge id="1405" source="crust" target="cracker" weight="0.012195" />
+      <edge id="1406" source="crust" target="create" weight="0.006944" />
+      <edge id="1407" source="crust" target="crackle" weight="0.010101" />
+      <edge id="1408" source="crust" target="cross" weight="0.006061" />
+      <edge id="1409" source="crust" target="crumble" weight="0.007353" />
+      <edge id="1410" source="crust" target="crucifix" weight="0.012987" />
+      <edge id="1411" source="crust" target="crater" weight="0.016529" />
+      <edge id="1412" source="crust" target="creature" weight="0.005025" />
+      <edge id="1413" source="crush" target="crucify" weight="0.038062" />
+      <edge id="1414" source="crush" target="crowning" weight="0.003953" />
+      <edge id="1415" source="crush" target="crackle" weight="0.003968" />
+      <edge id="1416" source="crush" target="crick" weight="0.012658" />
+      <edge id="1417" source="crush" target="critic" weight="0.00361" />
+      <edge id="1418" source="crush" target="crease" weight="0.011321" />
+      <edge id="1419" source="crush" target="crisis" weight="0.022556" />
+      <edge id="1420" source="crush" target="craze" weight="0.01355" />
+      <edge id="1421" source="crush" target="cream" weight="0.022727" />
+      <edge id="1422" source="crush" target="crammed" weight="0.003636" />
+      <edge id="1423" source="crush" target="crevasse" weight="0.003676" />
+      <edge id="1424" source="crush" target="create" weight="0.003367" />
+      <edge id="1425" source="crush" target="cross" weight="0.030063" />
+      <edge id="1426" source="crush" target="cradle" weight="0.010067" />
+      <edge id="1427" source="crush" target="cropper" weight="0.008299" />
+      <edge id="1428" source="crush" target="cram" weight="0.047945" />
+      <edge id="1429" source="crush" target="crenellate" weight="0.004115" />
+      <edge id="1430" source="crush" target="crunch" weight="0.097643" />
+      <edge id="1431" source="crush" target="crouch" weight="0.004167" />
+      <edge id="1432" source="crush" target="crawling" weight="0.003058" />
+      <edge id="1433" source="crush" target="crystallize" weight="0.004587" />
+      <edge id="1434" source="crush" target="craft" weight="0.002899" />
+      <edge id="1435" source="crush" target="crank" weight="0.010499" />
+      <edge id="1436" source="crush" target="crib" weight="0.012255" />
+      <edge id="1437" source="crush" target="crippled" weight="0.004505" />
+      <edge id="1438" source="crush" target="crosspatch" weight="0.004444" />
+      <edge id="1439" source="crush" target="crumb" weight="0.091228" />
+      <edge id="1440" source="crush" target="crane" weight="0.004098" />
+      <edge id="1441" source="crush" target="crumble" weight="0.102662" />
+      <edge id="1442" source="crush" target="cryogenics" weight="0.00431" />
+      <edge id="1443" source="crush" target="craving" weight="0.008734" />
+      <edge id="1444" source="crush" target="crevice" weight="0.003745" />
+      <edge id="1445" source="crush" target="crackerjack" weight="0.004065" />
+      <edge id="1446" source="crush" target="crossroads" weight="0.013514" />
+      <edge id="1447" source="crush" target="credit" weight="0.00554" />
+      <edge id="1448" source="crush" target="cruel" weight="0.003436" />
+      <edge id="1449" source="crush" target="craftsman" weight="0.003817" />
+      <edge id="1450" source="crush" target="crinkle" weight="0.015686" />
+      <edge id="1451" source="crush" target="croak" weight="0.025806" />
+      <edge id="1452" source="crush" target="crumple" weight="0.016461" />
+      <edge id="1453" source="crush" target="crowbar" weight="0.004405" />
+      <edge id="1454" source="cradle" target="crib" weight="0.010169" />
+      <edge id="1455" source="cradle" target="cream" weight="0.004098" />
+      <edge id="1456" source="cradle" target="creeping" weight="0.005882" />
+      <edge id="1457" source="cradle" target="crawl" weight="0.005435" />
+      <edge id="1458" source="cradle" target="create" weight="0.01105" />
+      <edge id="1459" source="cradle" target="creamy" weight="0.007194" />
+      <edge id="1460" source="cradle" target="crag" weight="0.007692" />
+      <edge id="1461" source="cradle" target="crab" weight="0.005618" />
+      <edge id="1462" source="cradle" target="cram" weight="0.010582" />
+      <edge id="1463" source="cradle" target="creature" weight="0.004219" />
+      <edge id="1464" source="cradle" target="crouch" weight="0.008" />
+      <edge id="1465" source="cradle" target="crawling" weight="0.004717" />
+      <edge id="1466" source="cradle" target="crank" weight="0.003717" />
+      <edge id="1467" source="cradle" target="crosspatch" weight="0.009091" />
+      <edge id="1468" source="cradle" target="cryogenics" weight="0.008547" />
+      <edge id="1469" source="cradle" target="crossbreed" weight="0.008475" />
+      <edge id="1470" source="cradle" target="credit" weight="0.00813" />
+      <edge id="1471" source="cradle" target="craftsman" weight="0.006803" />
+      <edge id="1472" source="cradle" target="crypt" weight="0.013245" />
+      <edge id="1473" source="cradle" target="crafty" weight="0.006135" />
+      <edge id="1474" source="crude" target="crunch" weight="0.003891" />
+      <edge id="1475" source="crude" target="crusty" weight="0.018433" />
+      <edge id="1476" source="crude" target="crap" weight="0.00495" />
+      <edge id="1477" source="crude" target="create" weight="0.004367" />
+      <edge id="1478" source="crude" target="crazy" weight="0.014706" />
+      <edge id="1479" source="crude" target="cross" weight="0.001718" />
+      <edge id="1480" source="crude" target="crosswise" weight="0.005525" />
+      <edge id="1481" source="crude" target="cruel" weight="0.018182" />
+      <edge id="1482" source="crude" target="crummy" weight="0.090909" />
+      <edge id="1483" source="crude" target="craggy" weight="0.006024" />
+      <edge id="1484" source="crude" target="crisis" weight="0.004926" />
+      <edge id="1485" source="crenellate" target="crucify" weight="0.015873" />
+      <edge id="1486" source="crenellate" target="crosshatch" weight="0.039474" />
+      <edge id="1487" source="crenellate" target="crumble" weight="0.008547" />
+      <edge id="1488" source="crenellate" target="crumbly" weight="0.015873" />
+      <edge id="1489" source="crenellate" target="craps" weight="0.017857" />
+      <edge id="1490" source="crenellate" target="craze" weight="0.030612" />
+      <edge id="1491" source="crenellate" target="crap" weight="0.010204" />
+      <edge id="1492" source="crenellate" target="crevasse" weight="0.030612" />
+      <edge id="1493" source="crenellate" target="create" weight="0.008" />
+      <edge id="1494" source="crenellate" target="cross" weight="0.002092" />
+      <edge id="1495" source="crenellate" target="crag" weight="0.057143" />
+      <edge id="1496" source="crenellate" target="crab" weight="0.02521" />
+      <edge id="1497" source="crenellate" target="creature" weight="0.005556" />
+      <edge id="1498" source="crenellate" target="crackle" weight="0.038462" />
+      <edge id="1499" source="crenellate" target="crevice" weight="0.032258" />
+      <edge id="1500" source="crenellate" target="crib" weight="0.004167" />
+      <edge id="1501" source="crenellate" target="crumb" weight="0.014599" />
+      <edge id="1502" source="crenellate" target="crusade" weight="0.020408" />
+      <edge id="1503" source="crenellate" target="crease" weight="0.043478" />
+      <edge id="1504" source="crenellate" target="crinkle" weight="0.023529" />
+      <edge id="1505" source="crenellate" target="craggy" weight="0.016129" />
+      <edge id="1506" source="crenellate" target="cracked" weight="0.005917" />
+      <edge id="1507" source="crenellate" target="crumple" weight="0.013514" />
+      <edge id="1508" source="crony" target="crackerjack" weight="0.014085" />
+      <edge id="1509" source="crony" target="creature" weight="0.00565" />
+      <edge id="1510" source="crunch" target="crumble" weight="0.058201" />
+      <edge id="1511" source="crunch" target="crosshatch" weight="0.012579" />
+      <edge id="1512" source="crunch" target="crossroads" weight="0.106557" />
+      <edge id="1513" source="crunch" target="crisis" weight="0.130435" />
+      <edge id="1514" source="crunch" target="craze" weight="0.017921" />
+      <edge id="1515" source="crunch" target="cream" weight="0.007463" />
+      <edge id="1516" source="crunch" target="crevasse" weight="0.005495" />
+      <edge id="1517" source="crunch" target="cross" weight="0.018149" />
+      <edge id="1518" source="crunch" target="crater" weight="0.005405" />
+      <edge id="1519" source="crunch" target="crummy" weight="0.005181" />
+      <edge id="1520" source="crunch" target="crab" weight="0.02" />
+      <edge id="1521" source="crunch" target="cram" weight="0.048544" />
+      <edge id="1522" source="crunch" target="crackle" weight="0.025157" />
+      <edge id="1523" source="crunch" target="crucified" weight="0.007463" />
+      <edge id="1524" source="crunch" target="crappy" weight="0.006061" />
+      <edge id="1525" source="crunch" target="cropper" weight="0.013245" />
+      <edge id="1526" source="crunch" target="crank" weight="0.003401" />
+      <edge id="1527" source="crunch" target="crib" weight="0.006231" />
+      <edge id="1528" source="crunch" target="crane" weight="0.006494" />
+      <edge id="1529" source="crunch" target="crick" weight="0.013514" />
+      <edge id="1530" source="crunch" target="crawl" weight="0.004785" />
+      <edge id="1531" source="crunch" target="craving" weight="0.007143" />
+      <edge id="1532" source="crunch" target="crevice" weight="0.00565" />
+      <edge id="1533" source="crunch" target="crucify" weight="0.034483" />
+      <edge id="1534" source="crunch" target="criticize" weight="0.014706" />
+      <edge id="1535" source="crunch" target="crumb" weight="0.0625" />
+      <edge id="1536" source="crunch" target="crowded" weight="0.005076" />
+      <edge id="1537" source="crunch" target="cruet" weight="0.007143" />
+      <edge id="1538" source="crunch" target="crease" weight="0.011364" />
+      <edge id="1539" source="crunch" target="credit" weight="0.003676" />
+      <edge id="1540" source="crunch" target="cramped" weight="0.004566" />
+      <edge id="1541" source="crunch" target="crinkle" weight="0.011976" />
+      <edge id="1542" source="crunch" target="cracked" weight="0.003984" />
+      <edge id="1543" source="crunch" target="croak" weight="0.134328" />
+      <edge id="1544" source="crunch" target="crumple" weight="0.012903" />
+      <edge id="1545" source="crunch" target="crowbar" weight="0.007299" />
+      <edge id="1546" source="credo" target="credence" weight="0.058824" />
+      <edge id="1547" source="credo" target="crusade" weight="0.035714" />
+      <edge id="1548" source="crouch" target="crawl" weight="0.146789" />
+      <edge id="1549" source="crouch" target="crawling" weight="0.013245" />
+      <edge id="1550" source="crouch" target="cross" weight="0.002105" />
+      <edge id="1551" source="crouch" target="crumple" weight="0.014085" />
+      <edge id="1552" source="crouch" target="crank" weight="0.004785" />
+      <edge id="1553" source="crouch" target="crinkle" weight="0.012048" />
+      <edge id="1554" source="crouch" target="creeping" weight="0.018349" />
+      <edge id="1555" source="crouch" target="creature" weight="0.011364" />
+      <edge id="1556" source="crucified" target="crucify" weight="0.009259" />
+      <edge id="1557" source="crucified" target="crackle" weight="0.016393" />
+      <edge id="1558" source="crucified" target="crazy" weight="0.006579" />
+      <edge id="1559" source="crucified" target="cruel" weight="0.01" />
+      <edge id="1560" source="crucified" target="crank" weight="0.005181" />
+      <edge id="1561" source="crucified" target="cracked" weight="0.02027" />
+      <edge id="1562" source="crucified" target="crunched" weight="0.032258" />
+      <edge id="1563" source="crucified" target="craze" weight="0.005495" />
+      <edge id="1564" source="craving" target="credence" weight="0.023256" />
+      <edge id="1565" source="craving" target="credit" weight="0.00565" />
+      <edge id="1566" source="craving" target="cropper" weight="0.017544" />
+      <edge id="1567" source="craving" target="craze" weight="0.010695" />
+      <edge id="1568" source="cryptic" target="crammed" weight="0.008929" />
+      <edge id="1569" source="cryptic" target="crowded" weight="0.01626" />
+      <edge id="1570" source="cryptic" target="creedbound" weight="0.013333" />
+      <edge id="1571" source="cryptic" target="cramped" weight="0.020833" />
+      <edge id="1572" source="cryptic" target="crawling" weight="0.006098" />
+      <edge id="1573" source="creeps" target="cryogenics" weight="0.04878" />
+      <edge id="1574" source="crime" target="crucify" weight="0.015267" />
+      <edge id="1575" source="crime" target="crevasse" weight="0.019231" />
+      <edge id="1576" source="crime" target="crackle" weight="0.011765" />
+      <edge id="1577" source="crime" target="cruelty" weight="0.017241" />
+      <edge id="1578" source="crime" target="crater" weight="0.009259" />
+      <edge id="1579" source="crosier" target="crusty" weight="0.01" />
+      <edge id="1580" source="crosier" target="cracker" weight="0.021277" />
+      <edge id="1581" source="crosier" target="cross" weight="0.028889" />
+      <edge id="1582" source="crosier" target="crosswise" weight="0.016393" />
+      <edge id="1583" source="crosier" target="crucifix" weight="0.02381" />
+      <edge id="1584" source="crosier" target="crane" weight="0.017857" />
+      <edge id="1585" source="crosier" target="crumple" weight="0.017241" />
+      <edge id="1586" source="crosier" target="crucible" weight="0.020408" />
+      <edge id="1587" source="creepy" target="cruel" weight="0.009709" />
+      <edge id="1588" source="creepy" target="crazy" weight="0.006452" />
+      <edge id="1589" source="creepy" target="crummy" weight="0.185185" />
+      <edge id="1590" source="credit" target="credence" weight="0.1" />
+      <edge id="1591" source="credit" target="credential" weight="0.011429" />
+      <edge id="1592" source="credit" target="crumble" weight="0.004237" />
+      <edge id="1593" source="credit" target="crisis" weight="0.004587" />
+      <edge id="1594" source="credit" target="credibility" weight="0.012579" />
+      <edge id="1595" source="credit" target="create" weight="0.012397" />
+      <edge id="1596" source="credit" target="cross" weight="0.008432" />
+      <edge id="1597" source="credit" target="crummy" weight="0.004348" />
+      <edge id="1598" source="credit" target="cram" weight="0.012" />
+      <edge id="1599" source="credit" target="critter" weight="0.004808" />
+      <edge id="1600" source="credit" target="creature" weight="0.006711" />
+      <edge id="1601" source="credit" target="creditable" weight="0.004739" />
+      <edge id="1602" source="credit" target="criticize" weight="0.005747" />
+      <edge id="1603" source="credit" target="crusade" weight="0.005952" />
+      <edge id="1604" source="credit" target="crumple" weight="0.005181" />
+      <edge id="1605" source="crybaby" target="crumbly" weight="0.022727" />
+      <edge id="1606" source="crybaby" target="craven" weight="0.04" />
+      <edge id="1607" source="crybaby" target="creature" weight="0.006211" />
+      <edge id="1608" source="crucifix" target="crisscross" weight="0.235294" />
+      <edge id="1609" source="crucifix" target="crusty" weight="0.009709" />
+      <edge id="1610" source="crucifix" target="crosswise" weight="0.031746" />
+      <edge id="1611" source="crucifix" target="cruet" weight="0.483871" />
+      <edge id="1612" source="crucifix" target="cross" weight="0.047191" />
+      <edge id="1613" source="crucifix" target="crossbreed" weight="0.020833" />
+      <edge id="1614" source="crucifix" target="crisis" weight="0.011628" />
+      <edge id="1615" source="crucifix" target="crucible" weight="0.019231" />
+      <edge id="1616" source="craftsman" target="credential" weight="0.013158" />
+      <edge id="1617" source="craftsman" target="crusty" weight="0.007407" />
+      <edge id="1618" source="craftsman" target="crackerjack" weight="0.032967" />
+      <edge id="1619" source="craftsman" target="create" weight="0.021127" />
+      <edge id="1620" source="craftsman" target="cruel" weight="0.007246" />
+      <edge id="1621" source="craftsman" target="crafty" weight="0.008" />
+      <edge id="1622" source="crystallize" target="crammed" weight="0.012821" />
+      <edge id="1623" source="crystallize" target="crusty" weight="0.010989" />
+      <edge id="1624" source="crystallize" target="crowded" weight="0.011111" />
+      <edge id="1625" source="crystallize" target="crumb" weight="0.00885" />
+      <edge id="1626" source="crystallize" target="create" weight="0.020202" />
+      <edge id="1627" source="crystallize" target="crumble" weight="0.01087" />
+      <edge id="1628" source="crystallize" target="criterion" weight="0.015385" />
+      <edge id="1629" source="crystallize" target="cram" weight="0.018692" />
+      <edge id="1630" source="crystallize" target="crystallized" weight="0.034483" />
+      <edge id="1631" source="crystallize" target="cream" weight="0.006173" />
+      <edge id="1632" source="croak" target="crazy" weight="0.008197" />
+      <edge id="1633" source="croak" target="crumpet" weight="0.008547" />
+      <edge id="1634" source="croak" target="crackle" weight="0.019737" />
+      <edge id="1635" source="croak" target="crumble" weight="0.021277" />
+      <edge id="1636" source="croak" target="crisis" weight="0.017544" />
+      <edge id="1637" source="croak" target="crap" weight="0.005814" />
+      <edge id="1638" source="croak" target="crevasse" weight="0.005747" />
+      <edge id="1639" source="croak" target="create" weight="0.005025" />
+      <edge id="1640" source="croak" target="cross" weight="0.009124" />
+      <edge id="1641" source="croak" target="crater" weight="0.00565" />
+      <edge id="1642" source="croak" target="crab" weight="0.132948" />
+      <edge id="1643" source="croak" target="cram" weight="0.014634" />
+      <edge id="1644" source="croak" target="cricket" weight="0.016129" />
+      <edge id="1645" source="croak" target="cruelty" weight="0.007874" />
+      <edge id="1646" source="croak" target="crane" weight="0.006849" />
+      <edge id="1647" source="croak" target="crick" weight="0.007092" />
+      <edge id="1648" source="croak" target="critter" weight="0.006135" />
+      <edge id="1649" source="croak" target="crucify" weight="0.030612" />
+      <edge id="1650" source="croak" target="criticize" weight="0.015625" />
+      <edge id="1651" source="croak" target="crackerjack" weight="0.006757" />
+      <edge id="1652" source="croak" target="cracker" weight="0.014706" />
+      <edge id="1653" source="croak" target="crowbar" weight="0.007752" />
+      <edge id="1654" source="credible" target="credulous" weight="0.011364" />
+      <edge id="1655" source="credible" target="creditable" weight="0.049383" />
+      <edge id="1656" source="crosshatch" target="crucify" weight="0.007463" />
+      <edge id="1657" source="crosshatch" target="crevasse" weight="0.038462" />
+      <edge id="1658" source="crosshatch" target="credential" weight="0.015625" />
+      <edge id="1659" source="crosshatch" target="cruel" weight="0.007937" />
+      <edge id="1660" source="crosshatch" target="create" weight="0.047244" />
+      <edge id="1661" source="crosshatch" target="crackle" weight="0.035294" />
+      <edge id="1662" source="crosshatch" target="cross" weight="0.004132" />
+      <edge id="1663" source="crosshatch" target="crater" weight="0.009091" />
+      <edge id="1664" source="crosshatch" target="crumple" weight="0.025" />
+      <edge id="1665" source="crosshatch" target="crummy" weight="0.008475" />
+      <edge id="1666" source="crosshatch" target="creature" weight="0.010753" />
+      <edge id="1667" source="crumpet" target="crap" weight="0.014286" />
+      <edge id="1668" source="crumpet" target="crab" weight="0.010753" />
+      <edge id="1669" source="crumpet" target="crystal" weight="0.016393" />
+      <edge id="1670" source="crumpet" target="craps" weight="0.035714" />
+      <edge id="1671" source="crumpet" target="croissant" weight="0.777778" />
+      <edge id="1672" source="crib" target="credence" weight="0.004444" />
+      <edge id="1673" source="crib" target="crackle" weight="0.008065" />
+      <edge id="1674" source="crib" target="crevasse" weight="0.015038" />
+      <edge id="1675" source="crib" target="crumble" weight="0.010563" />
+      <edge id="1676" source="crib" target="crisis" weight="0.003731" />
+      <edge id="1677" source="crib" target="crap" weight="0.007519" />
+      <edge id="1678" source="crib" target="create" weight="0.010274" />
+      <edge id="1679" source="crib" target="cross" weight="0.006211" />
+      <edge id="1680" source="crib" target="crater" weight="0.018657" />
+      <edge id="1681" source="crib" target="creamy" weight="0.008" />
+      <edge id="1682" source="crib" target="crab" weight="0.010417" />
+      <edge id="1683" source="crib" target="cram" weight="0.006645" />
+      <edge id="1684" source="crib" target="crane" weight="0.008333" />
+      <edge id="1685" source="crib" target="crick" weight="0.012821" />
+      <edge id="1686" source="crib" target="crucify" weight="0.017123" />
+      <edge id="1687" source="crib" target="crowded" weight="0.003521" />
+      <edge id="1688" source="crib" target="cracker" weight="0.00431" />
+      <edge id="1689" source="crib" target="crumple" weight="0.004115" />
+      <edge id="1690" source="craps" target="crazy" weight="0.00641" />
+      <edge id="1691" source="craps" target="crap" weight="0.076923" />
+      <edge id="1692" source="craps" target="create" weight="0.009091" />
+      <edge id="1693" source="craps" target="crab" weight="0.009434" />
+      <edge id="1694" source="craps" target="crisis" weight="0.011905" />
+      <edge id="1695" source="croup" target="crumb" weight="0.00813" />
+      <edge id="1696" source="croup" target="create" weight="0.009091" />
+      <edge id="1697" source="croup" target="crupper" weight="0.139535" />
+      <edge id="1698" source="croup" target="cram" weight="0.008475" />
+      <edge id="1699" source="credulous" target="cross" weight="0.001988" />
+      <edge id="1700" source="credulous" target="crazy" weight="0.304636" />
+      <edge id="1701" source="credulous" target="creamy" weight="0.009346" />
+      <edge id="1702" source="credulous" target="crank" weight="0.021459" />
+      <edge id="1703" source="credulous" target="cracked" weight="0.065574" />
+      <edge id="1704" source="credulous" target="crunched" weight="0.027027" />
+      <edge id="1705" source="credulous" target="craze" weight="0.004425" />
+      <edge id="1706" source="credulous" target="creature" weight="0.004878" />
+      <edge id="1707" source="crater" target="crucify" weight="0.006289" />
+      <edge id="1708" source="crater" target="crevasse" weight="0.136752" />
+      <edge id="1709" source="crater" target="crackle" weight="0.036697" />
+      <edge id="1710" source="crater" target="crumble" weight="0.013514" />
+      <edge id="1711" source="crater" target="crisis" weight="0.007634" />
+      <edge id="1712" source="crater" target="craze" weight="0.193878" />
+      <edge id="1713" source="crater" target="crypt" weight="0.196262" />
+      <edge id="1714" source="crater" target="cross" weight="0.005906" />
+      <edge id="1715" source="crater" target="crag" weight="0.009524" />
+      <edge id="1716" source="crater" target="criterion" weight="0.008197" />
+      <edge id="1717" source="crater" target="crab" weight="0.006536" />
+      <edge id="1718" source="crater" target="crafty" weight="0.007246" />
+      <edge id="1719" source="crater" target="crockery" weight="0.011628" />
+      <edge id="1720" source="crater" target="crevice" weight="0.103448" />
+      <edge id="1721" source="crater" target="crank" weight="0.012397" />
+      <edge id="1722" source="crater" target="crumb" weight="0.005882" />
+      <edge id="1723" source="crater" target="crick" weight="0.010101" />
+      <edge id="1724" source="crater" target="crackerjack" weight="0.009434" />
+      <edge id="1725" source="crater" target="crease" weight="0.015873" />
+      <edge id="1726" source="crater" target="crinkle" weight="0.017094" />
+      <edge id="1727" source="crater" target="cracked" weight="0.01" />
+      <edge id="1728" source="crater" target="crumple" weight="0.019048" />
+      <edge id="1729" source="crisis" target="crucify" weight="0.019608" />
+      <edge id="1730" source="crisis" target="crick" weight="0.010526" />
+      <edge id="1731" source="crisis" target="crusade" weight="0.012987" />
+      <edge id="1732" source="crisis" target="crevasse" weight="0.007813" />
+      <edge id="1733" source="crisis" target="crystal" weight="0.008547" />
+      <edge id="1734" source="crisis" target="crypt" weight="0.00813" />
+      <edge id="1735" source="crisis" target="cross" weight="0.014" />
+      <edge id="1736" source="crisis" target="crag" weight="0.009901" />
+      <edge id="1737" source="crisis" target="crummy" weight="0.007194" />
+      <edge id="1738" source="crisis" target="cram" weight="0.018868" />
+      <edge id="1739" source="crisis" target="creature" weight="0.009662" />
+      <edge id="1740" source="crisis" target="crisscross" weight="0.012195" />
+      <edge id="1741" source="crisis" target="crevice" weight="0.00813" />
+      <edge id="1742" source="crisis" target="crank" weight="0.012605" />
+      <edge id="1743" source="crisis" target="crowded" weight="0.006993" />
+      <edge id="1744" source="crisis" target="crossroads" weight="0.191176" />
+      <edge id="1745" source="crisis" target="cramped" weight="0.006061" />
+      <edge id="1746" source="crisis" target="crinkle" weight="0.008772" />
+      <edge id="1747" source="crisis" target="crumple" weight="0.009804" />
+      <edge id="1748" source="crisis" target="crowbar" weight="0.02439" />
+      <edge id="1749" source="crammed" target="crushing" weight="0.010101" />
+      <edge id="1750" source="crammed" target="cropped" weight="0.02381" />
+      <edge id="1751" source="crammed" target="cram" weight="0.006061" />
+      <edge id="1752" source="crammed" target="crawling" weight="0.105882" />
+      <edge id="1753" source="crammed" target="craft" weight="0.004878" />
+      <edge id="1754" source="crammed" target="crank" weight="0.004098" />
+      <edge id="1755" source="crammed" target="crawl" weight="0.006289" />
+      <edge id="1756" source="crammed" target="crowded" weight="0.591398" />
+      <edge id="1757" source="crammed" target="cruel" weight="0.006623" />
+      <edge id="1758" source="crammed" target="cramped" weight="0.042945" />
+      <edge id="1759" source="crammed" target="cracked" weight="0.004975" />
+      <edge id="1760" source="crammed" target="creeping" weight="0.028169" />
+      <edge id="1761" source="crap" target="crazy" weight="0.005051" />
+      <edge id="1762" source="crap" target="crumble" weight="0.006944" />
+      <edge id="1763" source="crap" target="crusade" weight="0.013158" />
+      <edge id="1764" source="crap" target="cream" weight="0.00939" />
+      <edge id="1765" source="crap" target="crevasse" weight="0.007874" />
+      <edge id="1766" source="crap" target="create" weight="0.006579" />
+      <edge id="1767" source="crap" target="craze" weight="0.004386" />
+      <edge id="1768" source="crap" target="crab" weight="0.006757" />
+      <edge id="1769" source="crap" target="cram" weight="0.00625" />
+      <edge id="1770" source="crap" target="critter" weight="0.008621" />
+      <edge id="1771" source="crap" target="crevice" weight="0.008197" />
+      <edge id="1772" source="crap" target="crank" weight="0.012658" />
+      <edge id="1773" source="crap" target="croissant" weight="0.014286" />
+      <edge id="1774" source="crap" target="crinkle" weight="0.00885" />
+      <edge id="1775" source="create" target="crucify" weight="0.005525" />
+      <edge id="1776" source="create" target="crevasse" weight="0.006494" />
+      <edge id="1777" source="create" target="crumble" weight="0.005848" />
+      <edge id="1778" source="create" target="critic" weight="0.006289" />
+      <edge id="1779" source="create" target="crystallized" weight="0.009259" />
+      <edge id="1780" source="create" target="craze" weight="0.011858" />
+      <edge id="1781" source="create" target="creeper" weight="0.008475" />
+      <edge id="1782" source="create" target="criterion" weight="0.021127" />
+      <edge id="1783" source="create" target="cram" weight="0.005348" />
+      <edge id="1784" source="create" target="creature" weight="0.017316" />
+      <edge id="1785" source="create" target="crusty" weight="0.005882" />
+      <edge id="1786" source="create" target="crackle" weight="0.007463" />
+      <edge id="1787" source="create" target="crevice" weight="0.006711" />
+      <edge id="1788" source="create" target="craft" weight="0.00885" />
+      <edge id="1789" source="create" target="crank" weight="0.011364" />
+      <edge id="1790" source="create" target="crosspatch" weight="0.009346" />
+      <edge id="1791" source="create" target="crumb" weight="0.005208" />
+      <edge id="1792" source="create" target="creditable" weight="0.013793" />
+      <edge id="1793" source="create" target="crossbreed" weight="0.06422" />
+      <edge id="1794" source="create" target="crusade" weight="0.009709" />
+      <edge id="1795" source="create" target="crupper" weight="0.008547" />
+      <edge id="1796" source="create" target="crease" weight="0.034483" />
+      <edge id="1797" source="create" target="cracked" weight="0.004484" />
+      <edge id="1798" source="creativity" target="crackerjack" weight="0.018182" />
+      <edge id="1799" source="creativity" target="critter" weight="0.014286" />
+      <edge id="1800" source="creativity" target="creature" weight="0.0125" />
+      <edge id="1801" source="creamy" target="crazy" weight="0.005495" />
+      <edge id="1802" source="creamy" target="critic" weight="0.008621" />
+      <edge id="1803" source="creamy" target="crumbly" weight="0.027397" />
+      <edge id="1804" source="creamy" target="cream" weight="0.143678" />
+      <edge id="1805" source="creamy" target="cross" weight="0.004098" />
+      <edge id="1806" source="creamy" target="crummy" weight="0.008197" />
+      <edge id="1807" source="creamy" target="crooner" weight="0.015625" />
+      <edge id="1808" source="creamy" target="crank" weight="0.004484" />
+      <edge id="1809" source="creamy" target="creditable" weight="0.009709" />
+      <edge id="1810" source="creamy" target="crystal" weight="0.01" />
+      <edge id="1811" source="creamy" target="crawling" weight="0.006024" />
+      <edge id="1812" source="creamy" target="craggy" weight="0.013699" />
+      <edge id="1813" source="creamy" target="cracked" weight="0.011173" />
+      <edge id="1814" source="creamy" target="crafty" weight="0.008547" />
+      <edge id="1815" source="crag" target="crucify" weight="0.015625" />
+      <edge id="1816" source="crag" target="crusty" weight="0.008475" />
+      <edge id="1817" source="crag" target="cross" weight="0.004175" />
+      <edge id="1818" source="crag" target="crystal" weight="0.010989" />
+      <edge id="1819" source="crag" target="creature" weight="0.005495" />
+      <edge id="1820" source="crab" target="crucify" weight="0.011364" />
+      <edge id="1821" source="crab" target="crazy" weight="0.004525" />
+      <edge id="1822" source="crab" target="crick" weight="0.008547" />
+      <edge id="1823" source="crab" target="critic" weight="0.006452" />
+      <edge id="1824" source="crab" target="crumbly" weight="0.00885" />
+      <edge id="1825" source="crab" target="creak" weight="0.019231" />
+      <edge id="1826" source="crab" target="craze" weight="0.008" />
+      <edge id="1827" source="crab" target="creeper" weight="0.008772" />
+      <edge id="1828" source="crab" target="cross" weight="0.001894" />
+      <edge id="1829" source="crab" target="critter" weight="0.007194" />
+      <edge id="1830" source="crab" target="creature" weight="0.004348" />
+      <edge id="1831" source="crab" target="crypt" weight="0.013889" />
+      <edge id="1832" source="crab" target="crank" weight="0.082305" />
+      <edge id="1833" source="crab" target="crosspatch" weight="0.04" />
+      <edge id="1834" source="crab" target="crumb" weight="0.005319" />
+      <edge id="1835" source="crab" target="crane" weight="0.069565" />
+      <edge id="1836" source="crab" target="crowded" weight="0.006061" />
+      <edge id="1837" source="crab" target="croissant" weight="0.010753" />
+      <edge id="1838" source="crab" target="crupper" weight="0.00885" />
+      <edge id="1839" source="crab" target="crease" weight="0.006897" />
+      <edge id="1840" source="crab" target="cramped" weight="0.005348" />
+      <edge id="1841" source="crab" target="crinkle" weight="0.014815" />
+      <edge id="1842" source="crab" target="cracked" weight="0.004566" />
+      <edge id="1843" source="crab" target="crumple" weight="0.008065" />
+      <edge id="1844" source="crab" target="crowbar" weight="0.019231" />
+      <edge id="1845" source="cram" target="crowning" weight="0.006993" />
+      <edge id="1846" source="cram" target="crackle" weight="0.007042" />
+      <edge id="1847" source="cram" target="crick" weight="0.007752" />
+      <edge id="1848" source="cram" target="crusade" weight="0.009009" />
+      <edge id="1849" source="cram" target="craze" weight="0.003802" />
+      <edge id="1850" source="cram" target="cream" weight="0.012146" />
+      <edge id="1851" source="cram" target="crevasse" weight="0.006173" />
+      <edge id="1852" source="cram" target="cross" weight="0.013109" />
+      <edge id="1853" source="cram" target="critter" weight="0.006623" />
+      <edge id="1854" source="cram" target="cricket" weight="0.00885" />
+      <edge id="1855" source="cram" target="crawling" weight="0.004608" />
+      <edge id="1856" source="cram" target="crevice" weight="0.006369" />
+      <edge id="1857" source="cram" target="crank" weight="0.007326" />
+      <edge id="1858" source="cram" target="crosspatch" weight="0.008696" />
+      <edge id="1859" source="cram" target="crumb" weight="0.020305" />
+      <edge id="1860" source="cram" target="crumble" weight="0.016949" />
+      <edge id="1861" source="cram" target="crawl" weight="0.016043" />
+      <edge id="1862" source="cram" target="crucify" weight="0.005291" />
+      <edge id="1863" source="cram" target="criticize" weight="0.008547" />
+      <edge id="1864" source="cram" target="crowded" weight="0.00565" />
+      <edge id="1865" source="cram" target="cracker" weight="0.008" />
+      <edge id="1866" source="cram" target="crupper" weight="0.008" />
+      <edge id="1867" source="cram" target="crossroads" weight="0.008772" />
+      <edge id="1868" source="cram" target="crumple" weight="0.007353" />
+      <edge id="1869" source="cram" target="crowbar" weight="0.008547" />
+      <edge id="1870" source="critter" target="crumb" weight="0.00641" />
+      <edge id="1871" source="critter" target="cruel" weight="0.014706" />
+      <edge id="1872" source="critter" target="crank" weight="0.004348" />
+      <edge id="1873" source="critter" target="craze" weight="0.004566" />
+      <edge id="1874" source="critter" target="creature" weight="0.105556" />
+      <edge id="1875" source="crafty" target="crevasse" weight="0.007407" />
+      <edge id="1876" source="crafty" target="crowning" weight="0.008621" />
+      <edge id="1877" source="crafty" target="crazy" weight="0.004854" />
+      <edge id="1878" source="crafty" target="creak" weight="0.011111" />
+      <edge id="1879" source="crafty" target="cross" weight="0.001949" />
+      <edge id="1880" source="crafty" target="crunched" weight="0.011765" />
+      <edge id="1881" source="crafty" target="crusty" weight="0.006623" />
+      <edge id="1882" source="crafty" target="craft" weight="0.004808" />
+      <edge id="1883" source="crafty" target="crease" weight="0.007692" />
+      <edge id="1884" source="crafty" target="cruel" weight="0.013072" />
+      <edge id="1885" source="crafty" target="crawling" weight="0.010582" />
+      <edge id="1886" source="crafty" target="cracked" weight="0.004902" />
+      <edge id="1887" source="crafty" target="creeping" weight="0.013605" />
+      <edge id="1888" source="crunched" target="crazy" weight="0.10219" />
+      <edge id="1889" source="crunched" target="crank" weight="0.010526" />
+      <edge id="1890" source="crunched" target="craggy" weight="0.02439" />
+      <edge id="1891" source="crunched" target="cracked" weight="0.034722" />
+      <edge id="1892" source="cricket" target="crackle" weight="0.016667" />
+      <edge id="1893" source="cricket" target="creak" weight="0.028571" />
+      <edge id="1894" source="cricket" target="cracker" weight="0.294118" />
+      <edge id="1895" source="crushing" target="crosswise" weight="0.027778" />
+      <edge id="1896" source="crushing" target="cruel" weight="0.008696" />
+      <edge id="1897" source="crushing" target="crowded" weight="0.009009" />
+      <edge id="1898" source="crisscross" target="crusty" weight="0.010101" />
+      <edge id="1899" source="crisscross" target="cross" weight="0.040541" />
+      <edge id="1900" source="crisscross" target="crosswise" weight="0.12963" />
+      <edge id="1901" source="crisscross" target="crowbar" weight="0.026316" />
+      <edge id="1902" source="crisscross" target="crucible" weight="0.020833" />
+      <edge id="1903" source="crackle" target="crucify" weight="0.062016" />
+      <edge id="1904" source="crackle" target="crumble" weight="0.007937" />
+      <edge id="1905" source="crackle" target="craze" weight="0.219653" />
+      <edge id="1906" source="crackle" target="crevasse" weight="0.089109" />
+      <edge id="1907" source="crackle" target="cross" weight="0.006186" />
+      <edge id="1908" source="crackle" target="criterion" weight="0.010101" />
+      <edge id="1909" source="crackle" target="crevice" weight="0.09375" />
+      <edge id="1910" source="crackle" target="crank" weight="0.004525" />
+      <edge id="1911" source="crackle" target="crumb" weight="0.013699" />
+      <edge id="1912" source="crackle" target="crane" weight="0.012346" />
+      <edge id="1913" source="crackle" target="crick" weight="0.040541" />
+      <edge id="1914" source="crackle" target="cracked" weight="0.017045" />
+      <edge id="1915" source="crackle" target="crackerjack" weight="0.012048" />
+      <edge id="1916" source="crackle" target="cracker" weight="0.013889" />
+      <edge id="1917" source="crackle" target="crease" weight="0.029412" />
+      <edge id="1918" source="crackle" target="crumple" weight="0.02439" />
+      <edge id="1919" source="cruelty" target="cryogenics" weight="0.02381" />
+      <edge id="1920" source="crappy" target="crucify" weight="0.007194" />
+      <edge id="1921" source="crappy" target="cruel" weight="0.007634" />
+      <edge id="1922" source="crappy" target="crummy" weight="0.215686" />
+      <edge id="1923" source="crevice" target="crucify" weight="0.006623" />
+      <edge id="1924" source="crevice" target="crevasse" weight="0.838235" />
+      <edge id="1925" source="crevice" target="crumble" weight="0.014286" />
+      <edge id="1926" source="crevice" target="cross" weight="0.003992" />
+      <edge id="1927" source="crevice" target="creature" weight="0.004902" />
+      <edge id="1928" source="crevice" target="crane" weight="0.010417" />
+      <edge id="1929" source="crevice" target="crackerjack" weight="0.010204" />
+      <edge id="1930" source="crevice" target="crumple" weight="0.020619" />
+      <edge id="1931" source="crosswise" target="crossbreed" weight="0.014925" />
+      <edge id="1932" source="crosswise" target="cross" weight="0.021053" />
+      <edge id="1933" source="crosswise" target="crusty" weight="0.016529" />
+      <edge id="1934" source="crosswise" target="crucible" weight="0.014085" />
+      <edge id="1935" source="crosswise" target="cruet" weight="0.015625" />
+      <edge id="1936" source="crosswise" target="cramped" weight="0.021277" />
+      <edge id="1937" source="craft" target="cross" weight="0.003454" />
+      <edge id="1938" source="craft" target="crusade" weight="0.006623" />
+      <edge id="1939" source="craft" target="creature" weight="0.014337" />
+      <edge id="1940" source="crank" target="crucify" weight="0.003731" />
+      <edge id="1941" source="crank" target="credential" weight="0.005051" />
+      <edge id="1942" source="crank" target="crazy" weight="0.046823" />
+      <edge id="1943" source="crank" target="crick" weight="0.009662" />
+      <edge id="1944" source="crank" target="crusty" weight="0.003891" />
+      <edge id="1945" source="crank" target="cross" weight="0.013072" />
+      <edge id="1946" source="crank" target="creature" weight="0.009404" />
+      <edge id="1947" source="crank" target="crane" weight="0.019048" />
+      <edge id="1948" source="crank" target="crystal" weight="0.004348" />
+      <edge id="1949" source="crank" target="crumple" weight="0.023697" />
+      <edge id="1950" source="crank" target="crowbar" weight="0.064865" />
+      <edge id="1951" source="crane" target="crucify" weight="0.007813" />
+      <edge id="1952" source="crane" target="crevasse" weight="0.009901" />
+      <edge id="1953" source="crane" target="crumble" weight="0.008475" />
+      <edge id="1954" source="crane" target="cross" weight="0.006289" />
+      <edge id="1955" source="crane" target="cropper" weight="0.014085" />
+      <edge id="1956" source="crane" target="creature" weight="0.005525" />
+      <edge id="1957" source="crane" target="crosspatch" weight="0.018519" />
+      <edge id="1958" source="crane" target="crawl" weight="0.007813" />
+      <edge id="1959" source="crane" target="crumb" weight="0.007194" />
+      <edge id="1960" source="crane" target="crupper" weight="0.015625" />
+      <edge id="1961" source="crane" target="cracked" weight="0.005882" />
+      <edge id="1962" source="crane" target="crumple" weight="0.013333" />
+      <edge id="1963" source="crane" target="crowbar" weight="0.017857" />
+      <edge id="1964" source="crumble" target="crucify" weight="0.029586" />
+      <edge id="1965" source="crumble" target="craze" weight="0.012245" />
+      <edge id="1966" source="crumble" target="cream" weight="0.004292" />
+      <edge id="1967" source="crumble" target="crevasse" weight="0.013793" />
+      <edge id="1968" source="crumble" target="creeper" weight="0.009091" />
+      <edge id="1969" source="crumble" target="cross" weight="0.005747" />
+      <edge id="1970" source="crumble" target="cropper" weight="0.054054" />
+      <edge id="1971" source="crumble" target="crypt" weight="0.007092" />
+      <edge id="1972" source="crumble" target="crumb" weight="0.149068" />
+      <edge id="1973" source="crumble" target="crinkle" weight="0.007576" />
+      <edge id="1974" source="crumble" target="cracked" weight="0.004651" />
+      <edge id="1975" source="crumble" target="crumple" weight="0.034188" />
+      <edge id="1976" source="crawl" target="crucify" weight="0.005464" />
+      <edge id="1977" source="crawl" target="crowded" weight="0.005848" />
+      <edge id="1978" source="crawl" target="creature" weight="0.004237" />
+      <edge id="1979" source="crumb" target="crucify" weight="0.020942" />
+      <edge id="1980" source="crumb" target="crevasse" weight="0.005988" />
+      <edge id="1981" source="crumb" target="cross" weight="0.003676" />
+      <edge id="1982" source="crumb" target="creature" weight="0.00813" />
+      <edge id="1983" source="crumb" target="crick" weight="0.015038" />
+      <edge id="1984" source="crumb" target="cracker" weight="0.007692" />
+      <edge id="1985" source="crumb" target="crumple" weight="0.007092" />
+      <edge id="1986" source="cruet" target="crusty" weight="0.009709" />
+      <edge id="1987" source="cruet" target="cross" weight="0.033259" />
+      <edge id="1988" source="cruet" target="crucible" weight="0.019231" />
+      <edge id="1989" source="crossbreed" target="crusty" weight="0.009434" />
+      <edge id="1990" source="crossbreed" target="cross" weight="0.024017" />
+      <edge id="1991" source="crossbreed" target="crucible" weight="0.018182" />
+      <edge id="1992" source="critic" target="credential" weight="0.010989" />
+      <edge id="1993" source="critic" target="crackerjack" weight="0.018692" />
+      <edge id="1994" source="critic" target="cryptologist" weight="0.140845" />
+      <edge id="1995" source="crupper" target="cross" weight="0.004264" />
+      <edge id="1996" source="crossroads" target="crucify" weight="0.018692" />
+      <edge id="1997" source="crossroads" target="crevasse" weight="0.012346" />
+      <edge id="1998" source="crossroads" target="crowded" weight="0.010417" />
+      <edge id="1999" source="crossroads" target="cross" weight="0.002179" />
+      <edge id="2000" source="crossroads" target="crick" weight="0.020833" />
+      <edge id="2001" source="crossroads" target="crumple" weight="0.018182" />
+      <edge id="2002" source="crystal" target="crucify" weight="0.006897" />
+      <edge id="2003" source="crystal" target="croissant" weight="0.016393" />
+      <edge id="2004" source="crystal" target="cross" weight="0.002016" />
+      <edge id="2005" source="crystal" target="crumbly" weight="0.012346" />
+      <edge id="2006" source="crystal" target="craggy" weight="0.125" />
+      <edge id="2007" source="crystal" target="cream" weight="0.004878" />
+      <edge id="2008" source="cruel" target="crucify" weight="0.011494" />
+      <edge id="2009" source="cruel" target="crazy" weight="0.009174" />
+      <edge id="2010" source="cruel" target="crick" weight="0.017544" />
+      <edge id="2011" source="cruel" target="craze" weight="0.008065" />
+      <edge id="2012" source="cruel" target="crypt" weight="0.006993" />
+      <edge id="2013" source="cruel" target="cross" weight="0.001901" />
+      <edge id="2014" source="cruel" target="crummy" weight="0.025641" />
+      <edge id="2015" source="cruel" target="creature" weight="0.008811" />
+      <edge id="2016" source="cruel" target="crusty" weight="0.03125" />
+      <edge id="2017" source="cruel" target="crowded" weight="0.006135" />
+      <edge id="2018" source="cruel" target="cracked" weight="0.009259" />
+      <edge id="2019" source="cruel" target="crease" weight="0.006993" />
+      <edge id="2020" source="cruel" target="craggy" weight="0.009091" />
+      <edge id="2021" source="cracked" target="crucify" weight="0.008929" />
+      <edge id="2022" source="cracked" target="crevasse" weight="0.031088" />
+      <edge id="2023" source="cracked" target="crazy" weight="0.227273" />
+      <edge id="2024" source="cracked" target="cross" weight="0.012281" />
+      <edge id="2025" source="cracked" target="crummy" weight="0.004785" />
+      <edge id="2026" source="cracked" target="crusty" weight="0.02381" />
+      <edge id="2027" source="cracked" target="crowded" weight="0.004695" />
+      <edge id="2028" source="cracked" target="craggy" weight="0.012579" />
+      <edge id="2029" source="creeping" target="credence" weight="0.010204" />
+      <edge id="2030" source="creeping" target="crowded" weight="0.025974" />
+      <edge id="2031" source="creeping" target="crummy" weight="0.013158" />
+      <edge id="2032" source="creeping" target="creature" weight="0.004505" />
+      <edge id="2033" source="crucify" target="crease" weight="0.006623" />
+      <edge id="2034" source="crucify" target="craze" weight="0.070539" />
+      <edge id="2035" source="crucify" target="crevasse" weight="0.00641" />
+      <edge id="2036" source="crucify" target="cryogenics" weight="0.008621" />
+      <edge id="2037" source="crucify" target="cross" weight="0.01711" />
+      <edge id="2038" source="crucify" target="criterion" weight="0.006849" />
+      <edge id="2039" source="crucify" target="crick" weight="0.059829" />
+      <edge id="2040" source="crucify" target="crucible" weight="0.008264" />
+      <edge id="2041" source="crucify" target="crinkle" weight="0.014184" />
+      <edge id="2042" source="crucify" target="crumple" weight="0.015504" />
+      <edge id="2043" source="crazy" target="crowning" weight="0.005525" />
+      <edge id="2044" source="crazy" target="craze" weight="0.003322" />
+      <edge id="2045" source="crazy" target="cross" weight="0.00173" />
+      <edge id="2046" source="crazy" target="crummy" weight="0.004739" />
+      <edge id="2047" source="crazy" target="craggy" weight="0.006173" />
+      <edge id="2048" source="credence" target="credibility" weight="0.038462" />
+      <edge id="2049" source="credence" target="crusade" weight="0.029412" />
+      <edge id="2050" source="credence" target="crawling" weight="0.007143" />
+      <edge id="2051" source="crevasse" target="craze" weight="0.074419" />
+      <edge id="2052" source="crevasse" target="crypt" weight="0.033058" />
+      <edge id="2053" source="crevasse" target="cross" weight="0.005941" />
+      <edge id="2054" source="crevasse" target="criterion" weight="0.008403" />
+      <edge id="2055" source="crevasse" target="creature" weight="0.004785" />
+      <edge id="2056" source="crevasse" target="crease" weight="0.02459" />
+      <edge id="2057" source="crevasse" target="crackerjack" weight="0.009709" />
+      <edge id="2058" source="crevasse" target="crinkle" weight="0.008696" />
+      <edge id="2059" source="crevasse" target="crumple" weight="0.019608" />
+      <edge id="2060" source="crowning" target="crackerjack" weight="0.036585" />
+      <edge id="2061" source="crowning" target="cross" weight="0.004107" />
+      <edge id="2062" source="crick" target="creak" weight="0.04" />
+      <edge id="2063" source="crick" target="craze" weight="0.020619" />
+      <edge id="2064" source="crick" target="cross" weight="0.00211" />
+      <edge id="2065" source="crick" target="cryogenics" weight="0.017857" />
+      <edge id="2066" source="crick" target="crowded" weight="0.009009" />
+      <edge id="2067" source="crick" target="cramped" weight="0.007519" />
+      <edge id="2068" source="crick" target="crumple" weight="0.014286" />
+      <edge id="2069" source="crusade" target="criterion" weight="0.014706" />
+      <edge id="2070" source="crusade" target="creature" weight="0.006329" />
+      <edge id="2071" source="crumbly" target="crumple" weight="0.015152" />
+      <edge id="2072" source="crumbly" target="creature" weight="0.005814" />
+      <edge id="2073" source="creak" target="cracker" weight="0.021277" />
+      <edge id="2074" source="crusty" target="crystallized" weight="0.219512" />
+      <edge id="2075" source="crusty" target="cross" weight="0.0501" />
+      <edge id="2076" source="crusty" target="crummy" weight="0.00641" />
+      <edge id="2077" source="crusty" target="creedbound" weight="0.009009" />
+      <edge id="2078" source="crusty" target="crucible" weight="0.009091" />
+      <edge id="2079" source="crusty" target="cramped" weight="0.016667" />
+      <edge id="2080" source="crusty" target="craggy" weight="0.009346" />
+      <edge id="2081" source="crystallized" target="cross" weight="0.002169" />
+      <edge id="2082" source="craze" target="cross" weight="0.015" />
+      <edge id="2083" source="craze" target="creature" weight="0.006472" />
+      <edge id="2084" source="craze" target="crackerjack" weight="0.004902" />
+      <edge id="2085" source="craze" target="cracker" weight="0.005181" />
+      <edge id="2086" source="craze" target="crumple" weight="0.030151" />
+      <edge id="2087" source="craze" target="crowbar" weight="0.01087" />
+      <edge id="2088" source="cream" target="cross" weight="0.006768" />
+      <edge id="2089" source="cream" target="creditable" weight="0.004808" />
+      <edge id="2090" source="cream" target="crucible" weight="0.005525" />
+      <edge id="2091" source="cream" target="craggy" weight="0.005618" />
+      <edge id="2092" source="cream" target="crowbar" weight="0.005848" />
+      <edge id="2093" source="cremation" target="creature" weight="0.006329" />
+      <edge id="2094" source="crypt" target="cross" weight="0.02444" />
+      <edge id="2095" source="crypt" target="crummy" weight="0.007407" />
+      <edge id="2096" source="cross" target="creature" weight="0.005128" />
+      <edge id="2097" source="cross" target="crumple" weight="0.004167" />
+      <edge id="2098" source="cross" target="creedbound" weight="0.002114" />
+      <edge id="2099" source="cross" target="criterion" weight="0.006061" />
+      <edge id="2100" source="cross" target="crummy" weight="0.003868" />
+      <edge id="2101" source="cross" target="credential" weight="0.00432" />
+      <edge id="2102" source="cross" target="cracker" weight="0.002128" />
+      <edge id="2103" source="cross" target="cryogenics" weight="0.002141" />
+      <edge id="2104" source="cross" target="crucible" weight="0.010684" />
+      <edge id="2105" source="cross" target="criticize" weight="0.002165" />
+      <edge id="2106" source="cross" target="crease" weight="0.006" />
+      <edge id="2107" source="cross" target="cramped" weight="0.001838" />
+      <edge id="2108" source="cross" target="crowbar" weight="0.004338" />
+      <edge id="2109" source="cropped" target="crowded" weight="0.020833" />
+      <edge id="2110" source="cropped" target="cramped" weight="0.025641" />
+      <edge id="2111" source="criterion" target="creditable" weight="0.009009" />
+      <edge id="2112" source="criterion" target="crucible" weight="0.164384" />
+      <edge id="2113" source="crummy" target="creedbound" weight="0.038835" />
+      <edge id="2114" source="crummy" target="craven" weight="0.011905" />
+      <edge id="2115" source="crummy" target="crease" weight="0.007407" />
+      <edge id="2116" source="crummy" target="cramped" weight="0.028902" />
+      <edge id="2117" source="crummy" target="crawling" weight="0.020833" />
+      <edge id="2118" source="cropper" target="crumple" weight="0.013699" />
+      <edge id="2119" source="cropper" target="creature" weight="0.005587" />
+      <edge id="2120" source="creature" target="credential" weight="0.006024" />
+      <edge id="2121" source="creature" target="crease" weight="0.009852" />
+      <edge id="2122" source="creature" target="crawling" weight="0.003788" />
+      <edge id="2123" source="creature" target="crowbar" weight="0.006098" />
+      <edge id="2124" source="credential" target="crease" weight="0.012346" />
+      <edge id="2125" source="creedbound" target="crowded" weight="0.027778" />
+      <edge id="2126" source="creedbound" target="cramped" weight="0.209091" />
+      <edge id="2127" source="crockery" target="crackerjack" weight="0.017544" />
+      <edge id="2128" source="crockery" target="cracker" weight="0.021739" />
+      <edge id="2129" source="crawling" target="crowded" weight="0.142857" />
+      <edge id="2130" source="crosspatch" target="crowbar" weight="0.027027" />
+      <edge id="2131" source="crowded" target="cramped" weight="0.123457" />
+      <edge id="2132" source="crease" target="crumple" weight="0.207317" />
+      <edge id="2133" source="cramped" target="craggy" weight="0.007813" />
+      <edge id="2134" source="crinkle" target="crumple" weight="0.343284" />
+      <edge id="2135" source="crinkle" target="crowbar" weight="0.014286" />
+    </edges>
+  </graph>
+</gexf>

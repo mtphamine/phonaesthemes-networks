@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="emerge" label="emerge" />
+      <node id="emanation" label="emanation" />
+      <node id="emblazon" label="emblazon" />
+      <node id="emotive" label="emotive" />
+      <node id="emote" label="emote" />
+      <node id="emanate" label="emanate" />
+      <node id="embroidered" label="embroidered" />
+      <node id="embossment" label="embossment" />
+      <node id="embrace" label="embrace" />
+      <node id="eminence" label="eminence" />
+      <node id="employment" label="employment" />
+      <node id="emotionalize" label="emotionalize" />
+      <node id="embellishment" label="embellishment" />
+      <node id="empowered" label="empowered" />
+      <node id="eminent" label="eminent" />
+      <node id="embroidery" label="embroidery" />
+      <node id="emphatically" label="emphatically" />
+      <node id="eminently" label="eminently" />
+      <node id="emission" label="emission" />
+      <node id="embellish" label="embellish" />
+      <node id="emergence" label="emergence" />
+      <node id="embroider" label="embroider" />
+      <node id="employ" label="employ" />
+      <node id="embody" label="embody" />
+      <node id="emotional" label="emotional" />
+      <node id="embellished" label="embellished" />
+      <node id="emit" label="emit" />
+    </nodes>
+    <edges>
+      <edge id="0" source="emerge" target="emanate" />
+      <edge id="1" source="emanation" target="emergence" />
+      <edge id="2" source="emanation" target="emission" />
+      <edge id="3" source="emblazon" target="embellish" />
+      <edge id="4" source="emblazon" target="embroider" />
+      <edge id="5" source="emotive" target="emotional" />
+      <edge id="6" source="emote" target="emotionalize" />
+      <edge id="7" source="emanate" target="emit" />
+      <edge id="8" source="embroidered" target="embellished" />
+      <edge id="9" source="embossment" target="eminence" />
+      <edge id="10" source="embrace" target="embody" />
+      <edge id="11" source="employment" target="employ" />
+      <edge id="12" source="embellishment" target="embroidery" />
+      <edge id="13" source="empowered" target="eminent" />
+      <edge id="14" source="emphatically" target="eminently" />
+      <edge id="15" source="emission" target="emergence" />
+      <edge id="16" source="embellish" target="embroider" />
+    </edges>
+  </graph>
+</gexf>

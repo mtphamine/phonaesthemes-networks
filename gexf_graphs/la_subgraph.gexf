@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="languid" label="languid" />
+      <node id="languorous" label="languorous" />
+      <node id="laziness" label="laziness" />
+      <node id="lavish" label="lavish" />
+      <node id="lacy" label="lacy" />
+      <node id="lace" label="lace" />
+      <node id="laced" label="laced" />
+      <node id="lariat" label="lariat" />
+      <node id="latent" label="latent" />
+      <node id="lateral" label="lateral" />
+      <node id="late" label="late" />
+      <node id="lattice" label="lattice" />
+      <node id="lawlessness" label="lawlessness" />
+      <node id="lade" label="lade" />
+      <node id="lack" label="lack" />
+      <node id="lancinate" label="lancinate" />
+      <node id="ladle" label="ladle" />
+      <node id="launder" label="launder" />
+      <node id="lady" label="lady" />
+      <node id="large" label="large" />
+      <node id="laughing" label="laughing" />
+      <node id="landlord" label="landlord" />
+      <node id="lasting" label="lasting" />
+      <node id="lagging" label="lagging" />
+      <node id="largeness" label="largeness" />
+      <node id="languor" label="languor" />
+      <node id="lavishness" label="lavishness" />
+      <node id="lachrymose" label="lachrymose" />
+      <node id="laxity" label="laxity" />
+      <node id="lasso" label="lasso" />
+      <node id="lazy" label="lazy" />
+      <node id="lag" label="lag" />
+      <node id="lawmaker" label="lawmaker" />
+      <node id="lapping" label="lapping" />
+      <node id="lagniappe" label="lagniappe" />
+      <node id="laze" label="laze" />
+      <node id="lass" label="lass" />
+      <node id="last" label="last" />
+      <node id="language" label="language" />
+      <node id="launch" label="launch" />
+      <node id="latrine" label="latrine" />
+      <node id="lacteal" label="lacteal" />
+      <node id="labored" label="labored" />
+      <node id="larrup" label="larrup" />
+      <node id="lantern" label="lantern" />
+      <node id="labial" label="labial" />
+      <node id="lavatory" label="lavatory" />
+      <node id="laugh" label="laugh" />
+      <node id="lawbreaking" label="lawbreaking" />
+      <node id="lamellate" label="lamellate" />
+      <node id="lambaste" label="lambaste" />
+      <node id="largehearted" label="largehearted" />
+      <node id="lacing" label="lacing" />
+      <node id="lacerate" label="lacerate" />
+      <node id="landed" label="landed" />
+      <node id="lather" label="lather" />
+      <node id="laxness" label="laxness" />
+      <node id="lapse" label="lapse" />
+      <node id="landslide" label="landslide" />
+      <node id="lachrymal" label="lachrymal" />
+      <node id="lawgiver" label="lawgiver" />
+      <node id="laughter" label="laughter" />
+      <node id="lassitude" label="lassitude" />
+      <node id="laird" label="laird" />
+      <node id="layer" label="layer" />
+      <node id="layoff" label="layoff" />
+      <node id="laminated" label="laminated" />
+      <node id="laggard" label="laggard" />
+      <node id="languishing" label="languishing" />
+      <node id="latency" label="latency" />
+      <node id="lave" label="lave" />
+      <node id="lackadaisical" label="lackadaisical" />
+      <node id="largess" label="largess" />
+      <node id="lamp" label="lamp" />
+      <node id="landholding" label="landholding" />
+      <node id="lance" label="lance" />
+      <node id="lashing" label="lashing" />
+      <node id="lash" label="lash" />
+      <node id="lax" label="lax" />
+      <node id="laborious" label="laborious" />
+      <node id="lap" label="lap" />
+      <node id="land" label="land" />
+      <node id="laminate" label="laminate" />
+      <node id="later" label="later" />
+      <node id="lacuna" label="lacuna" />
+      <node id="latest" label="latest" />
+      <node id="landlady" label="landlady" />
+    </nodes>
+    <edges>
+      <edge id="0" source="languid" target="lazy" />
+      <edge id="1" source="languid" target="lackadaisical" />
+      <edge id="2" source="languid" target="latent" />
+      <edge id="3" source="languid" target="languorous" />
+      <edge id="4" source="languorous" target="lazy" />
+      <edge id="5" source="languorous" target="latent" />
+      <edge id="6" source="languorous" target="languishing" />
+      <edge id="7" source="languorous" target="lackadaisical" />
+      <edge id="8" source="laziness" target="languor" />
+      <edge id="9" source="laziness" target="laze" />
+      <edge id="10" source="lavish" target="large" />
+      <edge id="11" source="lavish" target="largehearted" />
+      <edge id="12" source="lacy" target="laced" />
+      <edge id="13" source="lace" target="lash" />
+      <edge id="14" source="lace" target="lattice" />
+      <edge id="15" source="lace" target="lacing" />
+      <edge id="16" source="lariat" target="lasso" />
+      <edge id="17" source="lateral" target="labial" />
+      <edge id="18" source="lateral" target="lax" />
+      <edge id="19" source="late" target="later" />
+      <edge id="20" source="lattice" target="lacing" />
+      <edge id="21" source="lattice" target="lantern" />
+      <edge id="22" source="lawlessness" target="lawbreaking" />
+      <edge id="23" source="lade" target="ladle" />
+      <edge id="24" source="lack" target="lacuna" />
+      <edge id="25" source="lack" target="lag" />
+      <edge id="26" source="lancinate" target="lacerate" />
+      <edge id="27" source="launder" target="lave" />
+      <edge id="28" source="launder" target="lather" />
+      <edge id="29" source="lady" target="lass" />
+      <edge id="30" source="large" target="largehearted" />
+      <edge id="31" source="laughing" target="laughter" />
+      <edge id="32" source="laughing" target="laugh" />
+      <edge id="33" source="landlord" target="laird" />
+      <edge id="34" source="landlord" target="landlady" />
+      <edge id="35" source="lasting" target="languishing" />
+      <edge id="36" source="lagging" target="laggard" />
+      <edge id="37" source="lagging" target="lazy" />
+      <edge id="38" source="lagging" target="lag" />
+      <edge id="39" source="lagging" target="lax" />
+      <edge id="40" source="lagging" target="lackadaisical" />
+      <edge id="41" source="largeness" target="largess" />
+      <edge id="42" source="languor" target="latency" />
+      <edge id="43" source="languor" target="lassitude" />
+      <edge id="44" source="lavishness" target="landslide" />
+      <edge id="45" source="lachrymose" target="lacteal" />
+      <edge id="46" source="lachrymose" target="lachrymal" />
+      <edge id="47" source="laxity" target="laxness" />
+      <edge id="48" source="laxity" target="lapse" />
+      <edge id="49" source="lasso" target="land" />
+      <edge id="50" source="lazy" target="lackadaisical" />
+      <edge id="51" source="lazy" target="laggard" />
+      <edge id="52" source="lazy" target="lax" />
+      <edge id="53" source="lazy" target="laze" />
+      <edge id="54" source="lag" target="latest" />
+      <edge id="55" source="lawmaker" target="lawgiver" />
+      <edge id="56" source="lapping" target="lap" />
+      <edge id="57" source="lagniappe" target="largess" />
+      <edge id="58" source="last" target="lapse" />
+      <edge id="59" source="last" target="latest" />
+      <edge id="60" source="language" target="language" />
+      <edge id="61" source="launch" target="lance" />
+      <edge id="62" source="latrine" target="lavatory" />
+      <edge id="63" source="lacteal" target="lachrymal" />
+      <edge id="64" source="labored" target="laborious" />
+      <edge id="65" source="larrup" target="lambaste" />
+      <edge id="66" source="larrup" target="lather" />
+      <edge id="67" source="lantern" target="lamp" />
+      <edge id="68" source="labial" target="lax" />
+      <edge id="69" source="laugh" target="laughter" />
+      <edge id="70" source="lamellate" target="laminated" />
+      <edge id="71" source="lambaste" target="lash" />
+      <edge id="72" source="lambaste" target="lather" />
+      <edge id="73" source="lacing" target="lashing" />
+      <edge id="74" source="landed" target="landholding" />
+      <edge id="75" source="lather" target="lash" />
+      <edge id="76" source="lather" target="lave" />
+      <edge id="77" source="laxness" target="lapse" />
+      <edge id="78" source="lapse" target="layoff" />
+      <edge id="79" source="laird" target="landlady" />
+      <edge id="80" source="layer" target="laminate" />
+      <edge id="81" source="laggard" target="lax" />
+      <edge id="82" source="laggard" target="lackadaisical" />
+      <edge id="83" source="languishing" target="lackadaisical" />
+      <edge id="84" source="lave" target="lap" />
+      <edge id="85" source="lackadaisical" target="lax" />
+    </edges>
+  </graph>
+</gexf>

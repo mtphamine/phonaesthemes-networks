@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="dysentery" label="dysentery" />
+      <node id="dyspepsia" label="dyspepsia">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="dying" label="dying" />
+      <node id="dynamic" label="dynamic">
+        <attvalues>
+          <attvalue for="0" value="3.96689229587" />
+        </attvalues>
+      </node>
+      <node id="dybbuk" label="dybbuk" />
+      <node id="dye" label="dye">
+        <attvalues>
+          <attvalue for="0" value="3.30081279412" />
+        </attvalues>
+      </node>
+      <node id="dynamics" label="dynamics">
+        <attvalues>
+          <attvalue for="0" value="3.81928064697" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="dysentery" target="dynamics" weight="0.009009" />
+      <edge id="1" source="dysentery" target="dyspepsia" weight="0.553191" />
+      <edge id="2" source="dying" target="dynamics" weight="0.007143" />
+      <edge id="3" source="dying" target="dynamic" weight="0.005464" />
+      <edge id="4" source="dynamic" target="dynamics" weight="0.0125" />
+      <edge id="5" source="dybbuk" target="dye" weight="0.018018" />
+    </edges>
+  </graph>
+</gexf>

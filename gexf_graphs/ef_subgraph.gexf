@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="effluent" label="effluent" />
+      <node id="efficacious" label="efficacious" />
+      <node id="effectuate" label="effectuate" />
+      <node id="efficiency" label="efficiency" />
+      <node id="efficient" label="efficient" />
+      <node id="effective" label="effective" />
+      <node id="effect" label="effect" />
+      <node id="effectively" label="effectively" />
+      <node id="effectual" label="effectual" />
+      <node id="effusive" label="effusive" />
+      <node id="effectiveness" label="effectiveness" />
+      <node id="efficiently" label="efficiently" />
+    </nodes>
+    <edges>
+      <edge id="0" source="effluent" target="effusive" />
+      <edge id="1" source="efficacious" target="efficient" />
+      <edge id="2" source="efficacious" target="effectual" />
+      <edge id="3" source="efficacious" target="effective" />
+      <edge id="4" source="effectuate" target="effect" />
+      <edge id="5" source="efficiency" target="effectiveness" />
+      <edge id="6" source="efficient" target="effectual" />
+      <edge id="7" source="efficient" target="effective" />
+      <edge id="8" source="effective" target="effectual" />
+      <edge id="9" source="effect" target="effectiveness" />
+      <edge id="10" source="effectively" target="efficiently" />
+    </edges>
+  </graph>
+</gexf>

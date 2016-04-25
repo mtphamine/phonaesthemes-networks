@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="dunce" label="dunce" />
+      <node id="dumbstruck" label="dumbstruck" />
+      <node id="durability" label="durability" />
+      <node id="dud" label="dud" />
+      <node id="dupe" label="dupe" />
+      <node id="dumbness" label="dumbness" />
+      <node id="dualistic" label="dualistic" />
+      <node id="dumb" label="dumb" />
+      <node id="dual" label="dual" />
+      <node id="duck" label="duck" />
+      <node id="duration" label="duration" />
+      <node id="dumbbell" label="dumbbell" />
+      <node id="duplicated" label="duplicated" />
+      <node id="duplicity" label="duplicity" />
+      <node id="duffer" label="duffer" />
+      <node id="duo" label="duo" />
+      <node id="duplex" label="duplex" />
+      <node id="dub" label="dub" />
+      <node id="dusk" label="dusk" />
+      <node id="dumbfounded" label="dumbfounded" />
+      <node id="due" label="due" />
+      <node id="duplicate" label="duplicate" />
+      <node id="duteous" label="duteous" />
+      <node id="dullness" label="dullness" />
+      <node id="dunk" label="dunk" />
+      <node id="dukedom" label="dukedom" />
+      <node id="dullard" label="dullard" />
+      <node id="duchy" label="duchy" />
+      <node id="dutiful" label="dutiful" />
+      <node id="dull" label="dull" />
+      <node id="dualism" label="dualism" />
+      <node id="dummy" label="dummy" />
+      <node id="dunking" label="dunking" />
+      <node id="dusty" label="dusty" />
+      <node id="duckling" label="duckling" />
+      <node id="dusky" label="dusky" />
+      <node id="duet" label="duet" />
+      <node id="duplication" label="duplication" />
+      <node id="dues" label="dues" />
+    </nodes>
+    <edges>
+      <edge id="0" source="dunce" target="dummy" />
+      <edge id="1" source="dunce" target="dumbbell" />
+      <edge id="2" source="dunce" target="dullard" />
+      <edge id="3" source="dumbstruck" target="dumb" />
+      <edge id="4" source="dumbstruck" target="dumbfounded" />
+      <edge id="5" source="durability" target="duration" />
+      <edge id="6" source="dud" target="dummy" />
+      <edge id="7" source="dupe" target="dummy" />
+      <edge id="8" source="dupe" target="duplicate" />
+      <edge id="9" source="dupe" target="duplication" />
+      <edge id="10" source="dumbness" target="dullness" />
+      <edge id="11" source="dualistic" target="duplex" />
+      <edge id="12" source="dualistic" target="dual" />
+      <edge id="13" source="dualistic" target="duplicated" />
+      <edge id="14" source="dumb" target="dumbfounded" />
+      <edge id="15" source="dumb" target="dull" />
+      <edge id="16" source="dual" target="duplex" />
+      <edge id="17" source="dual" target="duplicate" />
+      <edge id="18" source="dual" target="duplicated" />
+      <edge id="19" source="duck" target="dunk" />
+      <edge id="20" source="duck" target="dunking" />
+      <edge id="21" source="duck" target="duckling" />
+      <edge id="22" source="dumbbell" target="dummy" />
+      <edge id="23" source="dumbbell" target="dullard" />
+      <edge id="24" source="duplicated" target="duplex" />
+      <edge id="25" source="duplicity" target="dualism" />
+      <edge id="26" source="duplicity" target="duplication" />
+      <edge id="27" source="duffer" target="dub" />
+      <edge id="28" source="duo" target="duet" />
+      <edge id="29" source="duplex" target="duplicate" />
+      <edge id="30" source="dusk" target="dusky" />
+      <edge id="31" source="due" target="dues" />
+      <edge id="32" source="duplicate" target="duplication" />
+      <edge id="33" source="duteous" target="dutiful" />
+      <edge id="34" source="dukedom" target="duchy" />
+      <edge id="35" source="dullard" target="dummy" />
+      <edge id="36" source="dull" target="dusty" />
+      <edge id="37" source="dualism" target="duplication" />
+      <edge id="38" source="dummy" target="duplication" />
+    </edges>
+  </graph>
+</gexf>

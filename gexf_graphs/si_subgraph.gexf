@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="sibling" label="sibling" />
+      <node id="sinistral" label="sinistral" />
+      <node id="singleton" label="singleton" />
+      <node id="sinister" label="sinister" />
+      <node id="signify" label="signify" />
+      <node id="simpatico" label="simpatico" />
+      <node id="simile" label="simile" />
+      <node id="simple" label="simple" />
+      <node id="sigh" label="sigh" />
+      <node id="sincere" label="sincere" />
+      <node id="sidestep" label="sidestep" />
+      <node id="signboard" label="signboard" />
+      <node id="site" label="site" />
+      <node id="silverware" label="silverware" />
+      <node id="sign" label="sign" />
+      <node id="sickly" label="sickly" />
+      <node id="single" label="single" />
+      <node id="sincerity" label="sincerity" />
+      <node id="sight" label="sight" />
+      <node id="sidetrack" label="sidetrack" />
+      <node id="signification" label="signification" />
+      <node id="signalize" label="signalize" />
+      <node id="singing" label="singing" />
+      <node id="signpost" label="signpost" />
+      <node id="size" label="size" />
+      <node id="simulacrum" label="simulacrum" />
+      <node id="silky" label="silky" />
+      <node id="sideline" label="sideline" />
+      <node id="sib" label="sib" />
+      <node id="similarity" label="similarity" />
+      <node id="sissy" label="sissy" />
+      <node id="silvery" label="silvery" />
+      <node id="sidle" label="sidle" />
+      <node id="sisterly" label="sisterly" />
+      <node id="simmer" label="simmer" />
+      <node id="sick" label="sick" />
+      <node id="sinful" label="sinful" />
+      <node id="silken" label="silken" />
+      <node id="simulation" label="simulation" />
+      <node id="sinking" label="sinking" />
+      <node id="simplicity" label="simplicity" />
+      <node id="sizzle" label="sizzle" />
+      <node id="singular" label="singular" />
+      <node id="sideways" label="sideways" />
+      <node id="simulated" label="simulated" />
+      <node id="sissified" label="sissified" />
+      <node id="sink" label="sink" />
+      <node id="significant" label="significant" />
+      <node id="simpleminded" label="simpleminded" />
+      <node id="sing" label="sing" />
+      <node id="singularity" label="singularity" />
+      <node id="sinus" label="sinus" />
+      <node id="silver" label="silver" />
+      <node id="similitude" label="similitude" />
+      <node id="sister" label="sister" />
+      <node id="singleness" label="singleness" />
+      <node id="signal" label="signal" />
+      <node id="sideward" label="sideward" />
+      <node id="sift" label="sift" />
+      <node id="sizzling" label="sizzling" />
+      <node id="sidelong" label="sidelong" />
+      <node id="signalizing" label="signalizing" />
+      <node id="siding" label="siding" />
+      <node id="signet" label="signet" />
+      <node id="sieve" label="sieve" />
+      <node id="signature" label="signature" />
+      <node id="sifter" label="sifter" />
+      <node id="situation" label="situation" />
+      <node id="significance" label="significance" />
+      <node id="similar" label="similar" />
+      <node id="side" label="side" />
+      <node id="sibilate" label="sibilate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="sibling" target="sib" />
+      <edge id="1" source="sinistral" target="sinister" />
+      <edge id="2" source="sinistral" target="side" />
+      <edge id="3" source="sinistral" target="sidelong" />
+      <edge id="4" source="singleton" target="single" />
+      <edge id="5" source="sinister" target="sinful" />
+      <edge id="6" source="sinister" target="side" />
+      <edge id="7" source="sinister" target="sidelong" />
+      <edge id="8" source="signify" target="signalize" />
+      <edge id="9" source="simpatico" target="sisterly" />
+      <edge id="10" source="simile" target="similitude" />
+      <edge id="11" source="simile" target="simulation" />
+      <edge id="12" source="simile" target="similarity" />
+      <edge id="13" source="simple" target="simpleminded" />
+      <edge id="14" source="simple" target="sincere" />
+      <edge id="15" source="simple" target="single" />
+      <edge id="16" source="simple" target="singular" />
+      <edge id="17" source="sigh" target="sing" />
+      <edge id="18" source="sigh" target="sibilate" />
+      <edge id="19" source="sincere" target="simpleminded" />
+      <edge id="20" source="sidestep" target="sidle" />
+      <edge id="21" source="sidestep" target="side" />
+      <edge id="22" source="sidestep" target="sidetrack" />
+      <edge id="23" source="signboard" target="signpost" />
+      <edge id="24" source="site" target="situation" />
+      <edge id="25" source="silverware" target="silver" />
+      <edge id="26" source="sign" target="signal" />
+      <edge id="27" source="sign" target="signalize" />
+      <edge id="28" source="sign" target="significant" />
+      <edge id="29" source="sign" target="signature" />
+      <edge id="30" source="sickly" target="sick" />
+      <edge id="31" source="single" target="singular" />
+      <edge id="32" source="sincerity" target="simplicity" />
+      <edge id="33" source="sight" target="situation" />
+      <edge id="34" source="sight" target="side" />
+      <edge id="35" source="sidetrack" target="sidle" />
+      <edge id="36" source="sidetrack" target="siding" />
+      <edge id="37" source="sidetrack" target="side" />
+      <edge id="38" source="signification" target="significance" />
+      <edge id="39" source="signalize" target="signal" />
+      <edge id="40" source="singing" target="sing" />
+      <edge id="41" source="size" target="sift" />
+      <edge id="42" source="size" target="sieve" />
+      <edge id="43" source="simulacrum" target="similitude" />
+      <edge id="44" source="simulacrum" target="sister" />
+      <edge id="45" source="simulacrum" target="side" />
+      <edge id="46" source="simulacrum" target="simulation" />
+      <edge id="47" source="silky" target="silken" />
+      <edge id="48" source="sideline" target="side" />
+      <edge id="49" source="similarity" target="similitude" />
+      <edge id="50" source="sissy" target="sissified" />
+      <edge id="51" source="sissy" target="sister" />
+      <edge id="52" source="silvery" target="silver" />
+      <edge id="53" source="sidle" target="side" />
+      <edge id="54" source="simmer" target="sizzle" />
+      <edge id="55" source="simulation" target="similitude" />
+      <edge id="56" source="sinking" target="sideward" />
+      <edge id="57" source="simplicity" target="singularity" />
+      <edge id="58" source="simplicity" target="singleness" />
+      <edge id="59" source="sizzle" target="sizzling" />
+      <edge id="60" source="sizzle" target="sibilate" />
+      <edge id="61" source="singular" target="signal" />
+      <edge id="62" source="sideways" target="sideward" />
+      <edge id="63" source="sideways" target="side" />
+      <edge id="64" source="sideways" target="sidelong" />
+      <edge id="65" source="simulated" target="similar" />
+      <edge id="66" source="sink" target="sinus" />
+      <edge id="67" source="significant" target="signalizing" />
+      <edge id="68" source="significant" target="signal" />
+      <edge id="69" source="sing" target="sibilate" />
+      <edge id="70" source="singularity" target="singleness" />
+      <edge id="71" source="similitude" target="sister" />
+      <edge id="72" source="signal" target="signature" />
+      <edge id="73" source="sideward" target="side" />
+      <edge id="74" source="sideward" target="sidelong" />
+      <edge id="75" source="sift" target="sieve" />
+      <edge id="76" source="sidelong" target="side" />
+      <edge id="77" source="signet" target="signature" />
+      <edge id="78" source="sieve" target="sifter" />
+      <edge id="79" source="situation" target="side" />
+    </edges>
+  </graph>
+</gexf>

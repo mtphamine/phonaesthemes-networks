@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="voluble" label="voluble">
+        <attvalues>
+          <attvalue for="0" value="2.16731733475" />
+        </attvalues>
+      </node>
+      <node id="vocalize" label="vocalize" />
+      <node id="volcanic" label="volcanic">
+        <attvalues>
+          <attvalue for="0" value="3.33785842904" />
+        </attvalues>
+      </node>
+      <node id="voiced" label="voiced">
+        <attvalues>
+          <attvalue for="0" value="3.32510498297" />
+        </attvalues>
+      </node>
+      <node id="vocalization" label="vocalization">
+        <attvalues>
+          <attvalue for="0" value="2.00860017176" />
+        </attvalues>
+      </node>
+      <node id="vow" label="vow" />
+      <node id="vortical" label="vortical" />
+      <node id="voucher" label="voucher">
+        <attvalues>
+          <attvalue for="0" value="3.10585067439" />
+        </attvalues>
+      </node>
+      <node id="vote" label="vote" />
+      <node id="voyeurism" label="voyeurism">
+        <attvalues>
+          <attvalue for="0" value="2.37106786227" />
+        </attvalues>
+      </node>
+      <node id="vocation" label="vocation" />
+      <node id="volition" label="volition" />
+      <node id="voyage" label="voyage" />
+      <node id="volplane" label="volplane">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="voluntary" label="voluntary" />
+      <node id="voracity" label="voracity">
+        <attvalues>
+          <attvalue for="0" value="1.59106460703" />
+        </attvalues>
+      </node>
+      <node id="voiceless" label="voiceless">
+        <attvalues>
+          <attvalue for="0" value="2.38916608436" />
+        </attvalues>
+      </node>
+      <node id="vocable" label="vocable">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="vortex" label="vortex" />
+      <node id="volubility" label="volubility">
+        <attvalues>
+          <attvalue for="0" value="1.17609125906" />
+        </attvalues>
+      </node>
+      <node id="volatile" label="volatile" />
+      <node id="volute" label="volute">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="voyager" label="voyager" />
+      <node id="vomitory" label="vomitory" />
+      <node id="vocabulary" label="vocabulary">
+        <attvalues>
+          <attvalue for="0" value="3.70009770461" />
+        </attvalues>
+      </node>
+      <node id="void" label="void" />
+      <node id="vomity" label="vomity">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="voracious" label="voracious" />
+      <node id="votary" label="votary">
+        <attvalues>
+          <attvalue for="0" value="0.778151250384" />
+        </attvalues>
+      </node>
+      <node id="vouch" label="vouch">
+        <attvalues>
+          <attvalue for="0" value="2.54654266348" />
+        </attvalues>
+      </node>
+      <node id="vomit" label="vomit" />
+      <node id="vowel" label="vowel">
+        <attvalues>
+          <attvalue for="0" value="2.81954393554" />
+        </attvalues>
+      </node>
+      <node id="vocalist" label="vocalist" />
+      <node id="volume" label="volume">
+        <attvalues>
+          <attvalue for="0" value="4.17292386363" />
+        </attvalues>
+      </node>
+      <node id="vouchsafe" label="vouchsafe">
+        <attvalues>
+          <attvalue for="0" value="1.34242268082" />
+        </attvalues>
+      </node>
+      <node id="voting" label="voting">
+        <attvalues>
+          <attvalue for="0" value="4.0531937276" />
+        </attvalues>
+      </node>
+      <node id="volatilize" label="volatilize">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="vocal" label="vocal">
+        <attvalues>
+          <attvalue for="0" value="3.73687436165" />
+        </attvalues>
+      </node>
+      <node id="voluminous" label="voluminous" />
+      <node id="vociferate" label="vociferate" />
+      <node id="voodoo" label="voodoo" />
+      <node id="volley" label="volley">
+        <attvalues>
+          <attvalue for="0" value="2.74036268949" />
+        </attvalues>
+      </node>
+      <node id="voodooism" label="voodooism" />
+      <node id="voice" label="voice">
+        <attvalues>
+          <attvalue for="0" value="4.93302642805" />
+        </attvalues>
+      </node>
+      <node id="vogue" label="vogue">
+        <attvalues>
+          <attvalue for="0" value="3.17143390094" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="voluble" target="voluminous" weight="0.013333" />
+      <edge id="1" source="voluble" target="volatile" weight="0.006897" />
+      <edge id="2" source="voluble" target="vortical" weight="0.023256" />
+      <edge id="3" source="voluble" target="vocal" weight="0.017241" />
+      <edge id="4" source="vocalize" target="vouchsafe" weight="0.043011" />
+      <edge id="5" source="vocalize" target="voting" weight="0.024691" />
+      <edge id="6" source="vocalize" target="volatilize" weight="0.012048" />
+      <edge id="7" source="vocalize" target="vocable" weight="0.020202" />
+      <edge id="8" source="vocalize" target="volume" weight="0.005747" />
+      <edge id="9" source="vocalize" target="vocalization" weight="0.029412" />
+      <edge id="10" source="vocalize" target="vouch" weight="0.028846" />
+      <edge id="11" source="vocalize" target="vowel" weight="0.007634" />
+      <edge id="12" source="vocalize" target="voiced" weight="0.007813" />
+      <edge id="13" source="vocalize" target="voice" weight="0.179641" />
+      <edge id="14" source="volcanic" target="voice" weight="0.005747" />
+      <edge id="15" source="volcanic" target="volatile" weight="0.033557" />
+      <edge id="16" source="volcanic" target="vocable" weight="0.012821" />
+      <edge id="17" source="volcanic" target="vowel" weight="0.009174" />
+      <edge id="18" source="voiced" target="volplane" weight="0.009709" />
+      <edge id="19" source="voiced" target="vocabulary" weight="0.010101" />
+      <edge id="20" source="voiced" target="voluminous" weight="0.016" />
+      <edge id="21" source="voiced" target="voiceless" weight="0.705882" />
+      <edge id="22" source="voiced" target="vocable" weight="0.150943" />
+      <edge id="23" source="voiced" target="vomity" weight="0.007353" />
+      <edge id="24" source="voiced" target="vocal" weight="0.157895" />
+      <edge id="25" source="voiced" target="vocalization" weight="0.011111" />
+      <edge id="26" source="voiced" target="volatile" weight="0.005102" />
+      <edge id="27" source="voiced" target="vowel" weight="0.663043" />
+      <edge id="28" source="voiced" target="vote" weight="0.008065" />
+      <edge id="29" source="voiced" target="voice" weight="0.09" />
+      <edge id="30" source="vocalization" target="vocable" weight="0.032787" />
+      <edge id="31" source="vocalization" target="vocal" weight="0.085106" />
+      <edge id="32" source="vocalization" target="vouch" weight="0.029851" />
+      <edge id="33" source="vocalization" target="vowel" weight="0.010753" />
+      <edge id="34" source="vocalization" target="voice" weight="0.025806" />
+      <edge id="35" source="vow" target="vocable" weight="0.026316" />
+      <edge id="36" source="vow" target="vouch" weight="0.292308" />
+      <edge id="37" source="vow" target="voice" weight="0.017544" />
+      <edge id="38" source="vow" target="voucher" weight="0.028986" />
+      <edge id="39" source="vortical" target="vocal" weight="0.018519" />
+      <edge id="40" source="voucher" target="voyager" weight="0.015385" />
+      <edge id="41" source="voucher" target="vouchsafe" weight="0.012195" />
+      <edge id="42" source="voucher" target="void" weight="0.009259" />
+      <edge id="43" source="voucher" target="vocable" weight="0.011628" />
+      <edge id="44" source="voucher" target="vouch" weight="0.021978" />
+      <edge id="45" source="voucher" target="vomit" weight="0.013699" />
+      <edge id="46" source="voucher" target="vowel" weight="0.008547" />
+      <edge id="47" source="voucher" target="vote" weight="0.022727" />
+      <edge id="48" source="voucher" target="volley" weight="0.013514" />
+      <edge id="49" source="voucher" target="voice" weight="0.01105" />
+      <edge id="50" source="voucher" target="vogue" weight="0.014085" />
+      <edge id="51" source="vote" target="voting" weight="0.316667" />
+      <edge id="52" source="vote" target="voiceless" weight="0.008403" />
+      <edge id="53" source="vote" target="vocable" weight="0.010417" />
+      <edge id="54" source="vote" target="votary" weight="0.006803" />
+      <edge id="55" source="vote" target="vouch" weight="0.019802" />
+      <edge id="56" source="vote" target="vowel" weight="0.015873" />
+      <edge id="57" source="vote" target="voice" weight="0.169697" />
+      <edge id="58" source="voyeurism" target="voodoo" weight="0.017857" />
+      <edge id="59" source="voyeurism" target="voodooism" weight="0.03125" />
+      <edge id="60" source="vocation" target="vocable" weight="0.009434" />
+      <edge id="61" source="vocation" target="volume" weight="0.016854" />
+      <edge id="62" source="vocation" target="vouch" weight="0.008929" />
+      <edge id="63" source="vocation" target="vowel" weight="0.007299" />
+      <edge id="64" source="vocation" target="voice" weight="0.00495" />
+      <edge id="65" source="vocation" target="vogue" weight="0.010989" />
+      <edge id="66" source="volition" target="voracity" weight="0.029412" />
+      <edge id="67" source="voyage" target="volume" weight="0.017241" />
+      <edge id="68" source="voyage" target="volatilize" weight="0.011765" />
+      <edge id="69" source="voyage" target="volplane" weight="0.036585" />
+      <edge id="70" source="volplane" target="volute" weight="0.019608" />
+      <edge id="71" source="volplane" target="voiceless" weight="0.010204" />
+      <edge id="72" source="volplane" target="vocable" weight="0.013333" />
+      <edge id="73" source="volplane" target="vortex" weight="0.009259" />
+      <edge id="74" source="volplane" target="vowel" weight="0.009434" />
+      <edge id="75" source="volplane" target="voice" weight="0.005848" />
+      <edge id="76" source="voluntary" target="volume" weight="0.005464" />
+      <edge id="77" source="voluntary" target="voice" weight="0.004878" />
+      <edge id="78" source="voracity" target="voracious" weight="0.020833" />
+      <edge id="79" source="voiceless" target="voluminous" weight="0.016667" />
+      <edge id="80" source="voiceless" target="vocable" weight="0.158416" />
+      <edge id="81" source="voiceless" target="vomity" weight="0.007634" />
+      <edge id="82" source="voiceless" target="vocal" weight="0.039604" />
+      <edge id="83" source="voiceless" target="volatile" weight="0.005236" />
+      <edge id="84" source="voiceless" target="vowel" weight="0.701149" />
+      <edge id="85" source="voiceless" target="voice" weight="0.081218" />
+      <edge id="86" source="vocable" target="void" weight="0.004464" />
+      <edge id="87" source="vocable" target="vocal" weight="0.037975" />
+      <edge id="88" source="vocable" target="voting" weight="0.013333" />
+      <edge id="89" source="vocable" target="volume" weight="0.005988" />
+      <edge id="90" source="vocable" target="vouch" weight="0.020408" />
+      <edge id="91" source="vocable" target="volatile" weight="0.005952" />
+      <edge id="92" source="vocable" target="vowel" weight="0.302083" />
+      <edge id="93" source="vocable" target="voice" weight="0.25" />
+      <edge id="94" source="vocable" target="vocalist" weight="0.015625" />
+      <edge id="95" source="vortex" target="volume" weight="0.005" />
+      <edge id="96" source="vortex" target="volley" weight="0.008772" />
+      <edge id="97" source="vortex" target="volute" weight="0.22619" />
+      <edge id="98" source="vortex" target="volatilize" weight="0.009174" />
+      <edge id="99" source="volubility" target="vomit" weight="0.022727" />
+      <edge id="100" source="volatile" target="vowel" weight="0.010101" />
+      <edge id="101" source="volatile" target="voice" weight="0.003788" />
+      <edge id="102" source="vomitory" target="voice" weight="0.005917" />
+      <edge id="103" source="vocabulary" target="vocal" weight="0.016949" />
+      <edge id="104" source="void" target="vouchsafe" weight="0.004545" />
+      <edge id="105" source="void" target="volume" weight="0.060284" />
+      <edge id="106" source="void" target="volatilize" weight="0.009709" />
+      <edge id="107" source="void" target="vowel" weight="0.003922" />
+      <edge id="108" source="void" target="volley" weight="0.009479" />
+      <edge id="109" source="void" target="voice" weight="0.009434" />
+      <edge id="110" source="vomity" target="vowel" weight="0.007194" />
+      <edge id="111" source="vouch" target="voting" weight="0.012346" />
+      <edge id="112" source="vouch" target="voice" weight="0.026178" />
+      <edge id="113" source="vomit" target="volume" weight="0.006494" />
+      <edge id="114" source="vomit" target="volatilize" weight="0.015873" />
+      <edge id="115" source="vomit" target="volley" weight="0.029851" />
+      <edge id="116" source="vowel" target="voluminous" weight="0.015625" />
+      <edge id="117" source="vowel" target="vocal" weight="0.027273" />
+      <edge id="118" source="vowel" target="voting" weight="0.009434" />
+      <edge id="119" source="vowel" target="volume" weight="0.005051" />
+      <edge id="120" source="vowel" target="voice" weight="0.151042" />
+      <edge id="121" source="vowel" target="vocalist" weight="0.010526" />
+      <edge id="122" source="vocalist" target="vocal" weight="0.081633" />
+      <edge id="123" source="vocalist" target="voice" weight="0.118056" />
+      <edge id="124" source="vocalist" target="voting" weight="0.021739" />
+      <edge id="125" source="volume" target="vouchsafe" weight="0.006135" />
+      <edge id="126" source="volume" target="voice" weight="0.015385" />
+      <edge id="127" source="vouchsafe" target="voice" weight="0.021978" />
+      <edge id="128" source="voting" target="voice" weight="0.109677" />
+      <edge id="129" source="volatilize" target="volley" weight="0.015625" />
+      <edge id="130" source="volatilize" target="voice" weight="0.005814" />
+      <edge id="131" source="vocal" target="voice" weight="0.065868" />
+      <edge id="132" source="vociferate" target="vogue" weight="0.027778" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="kayo" label="kayo" />
+      <node id="kaleidoscopic" label="kaleidoscopic" />
+      <node id="kaput" label="kaput">
+        <attvalues>
+          <attvalue for="0" value="2.03342375549" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="kayo" target="kaput" weight="0.011765" />
+      <edge id="1" source="kaleidoscopic" target="kaput" weight="0.009804" />
+    </edges>
+  </graph>
+</gexf>

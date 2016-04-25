@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="eulogize" label="eulogize">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="eulogy" label="eulogy" />
+      <node id="euphoric" label="euphoric">
+        <attvalues>
+          <attvalue for="0" value="2.652246341" />
+        </attvalues>
+      </node>
+      <node id="euphoria" label="euphoria" />
+      <node id="euphony" label="euphony">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="eurythmics" label="eurythmics" />
+      <node id="eupeptic" label="eupeptic">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="euphonious" label="euphonious">
+        <attvalues>
+          <attvalue for="0" value="1.39794000867" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="eulogize" target="eulogy" weight="0.041667" />
+      <edge id="1" source="eulogy" target="euphony" weight="0.0125" />
+      <edge id="2" source="euphoric" target="eupeptic" weight="0.862745" />
+      <edge id="3" source="euphoric" target="euphoria" weight="0.010989" />
+      <edge id="4" source="euphoric" target="euphonious" weight="0.013889" />
+      <edge id="5" source="euphoria" target="eupeptic" weight="0.010417" />
+      <edge id="6" source="euphony" target="eurythmics" weight="0.102564" />
+      <edge id="7" source="eupeptic" target="euphonious" weight="0.012987" />
+    </edges>
+  </graph>
+</gexf>

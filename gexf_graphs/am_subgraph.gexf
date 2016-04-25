@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="amendment" label="amendment" />
+      <node id="among" label="among" />
+      <node id="amazement" label="amazement" />
+      <node id="ambrosia" label="ambrosia" />
+      <node id="ambient" label="ambient" />
+      <node id="ameliorate" label="ameliorate" />
+      <node id="amicable" label="amicable" />
+      <node id="amphibious" label="amphibious" />
+      <node id="ambit" label="ambit" />
+      <node id="amalgamation" label="amalgamation" />
+      <node id="ambivalence" label="ambivalence" />
+      <node id="amaze" label="amaze" />
+      <node id="amateur" label="amateur" />
+      <node id="amelioration" label="amelioration" />
+      <node id="ambiguity" label="ambiguity" />
+      <node id="ambience" label="ambience" />
+      <node id="ambergris" label="ambergris" />
+      <node id="amorous" label="amorous" />
+      <node id="amiable" label="amiable" />
+      <node id="amalgam" label="amalgam" />
+      <node id="ambidextrous" label="ambidextrous" />
+      <node id="amateurish" label="amateurish" />
+      <node id="ambivalent" label="ambivalent" />
+      <node id="ambiguous" label="ambiguous" />
+      <node id="amend" label="amend" />
+      <node id="amount" label="amount" />
+      <node id="amplitude" label="amplitude" />
+      <node id="amatory" label="amatory" />
+    </nodes>
+    <edges>
+      <edge id="0" source="amendment" target="amelioration" />
+      <edge id="1" source="among" target="among" />
+      <edge id="2" source="amazement" target="amaze" />
+      <edge id="3" source="ambrosia" target="ambergris" />
+      <edge id="4" source="ambient" target="ambience" />
+      <edge id="5" source="ameliorate" target="amend" />
+      <edge id="6" source="amicable" target="amiable" />
+      <edge id="7" source="amphibious" target="ambidextrous" />
+      <edge id="8" source="amphibious" target="ambiguous" />
+      <edge id="9" source="amphibious" target="ambivalent" />
+      <edge id="10" source="ambit" target="ambience" />
+      <edge id="11" source="amalgamation" target="amalgam" />
+      <edge id="12" source="ambivalence" target="ambiguity" />
+      <edge id="13" source="amateur" target="amateurish" />
+      <edge id="14" source="amorous" target="amatory" />
+      <edge id="15" source="ambivalent" target="ambiguous" />
+      <edge id="16" source="amount" target="amplitude" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="urgent" label="urgent">
+        <attvalues>
+          <attvalue for="0" value="3.67200544502" />
+        </attvalues>
+      </node>
+      <node id="urgency" label="urgency" />
+      <node id="urge" label="urge" />
+    </nodes>
+    <edges>
+      <edge id="0" source="urgent" target="urge" weight="0.017751" />
+      <edge id="1" source="urgent" target="urgency" weight="0.07619" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="nimbus" label="nimbus" />
+      <node id="niggle" label="niggle">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="nipper" label="nipper" />
+      <node id="nigh" label="nigh" />
+      <node id="nibble" label="nibble" />
+      <node id="niggling" label="niggling" />
+      <node id="niggardly" label="niggardly" />
+      <node id="nitrogen" label="nitrogen">
+        <attvalues>
+          <attvalue for="0" value="3.63488014077" />
+        </attvalues>
+      </node>
+      <node id="nippy" label="nippy">
+        <attvalues>
+          <attvalue for="0" value="1.90848501888" />
+        </attvalues>
+      </node>
+      <node id="nightclub" label="nightclub" />
+      <node id="nightwalk" label="nightwalk">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nitwit" label="nitwit" />
+      <node id="nightmare" label="nightmare">
+        <attvalues>
+          <attvalue for="0" value="3.79878871395" />
+        </attvalues>
+      </node>
+      <node id="nihilism" label="nihilism">
+        <attvalues>
+          <attvalue for="0" value="2.49415459402" />
+        </attvalues>
+      </node>
+      <node id="nicety" label="nicety">
+        <attvalues>
+          <attvalue for="0" value="1.7075701761" />
+        </attvalues>
+      </node>
+      <node id="nick" label="nick">
+        <attvalues>
+          <attvalue for="0" value="4.08618180465" />
+        </attvalues>
+      </node>
+      <node id="nipped" label="nipped">
+        <attvalues>
+          <attvalue for="0" value="2.47275644932" />
+        </attvalues>
+      </node>
+      <node id="nihilist" label="nihilist" />
+      <node id="nifty" label="nifty">
+        <attvalues>
+          <attvalue for="0" value="2.83442070368" />
+        </attvalues>
+      </node>
+      <node id="nitrate" label="nitrate" />
+      <node id="nipple" label="nipple" />
+      <node id="nincompoop" label="nincompoop" />
+      <node id="nice" label="nice" />
+      <node id="nightcap" label="nightcap">
+        <attvalues>
+          <attvalue for="0" value="2.23552844691" />
+        </attvalues>
+      </node>
+      <node id="niggard" label="niggard">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nickel" label="nickel" />
+      <node id="nirvanic" label="nirvanic" />
+      <node id="nitwitted" label="nitwitted">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="nib" label="nib" />
+      <node id="nitpick" label="nitpick">
+        <attvalues>
+          <attvalue for="0" value="1.86332286012" />
+        </attvalues>
+      </node>
+      <node id="nicked" label="nicked" />
+      <node id="nimbly" label="nimbly" />
+      <node id="ninny" label="ninny">
+        <attvalues>
+          <attvalue for="0" value="1.7075701761" />
+        </attvalues>
+      </node>
+      <node id="nihilistic" label="nihilistic" />
+      <node id="nimble" label="nimble">
+        <attvalues>
+          <attvalue for="0" value="2.91169015875" />
+        </attvalues>
+      </node>
+      <node id="nix" label="nix">
+        <attvalues>
+          <attvalue for="0" value="2.94645226501" />
+        </attvalues>
+      </node>
+      <node id="nip" label="nip">
+        <attvalues>
+          <attvalue for="0" value="2.75663610825" />
+        </attvalues>
+      </node>
+      <node id="nickname" label="nickname" />
+      <node id="nit" label="nit" />
+      <node id="nimbleness" label="nimbleness">
+        <attvalues>
+          <attvalue for="0" value="1.50514997832" />
+        </attvalues>
+      </node>
+      <node id="nicely" label="nicely">
+        <attvalues>
+          <attvalue for="0" value="3.58149454229" />
+        </attvalues>
+      </node>
+      <node id="nightwalking" label="nightwalking" />
+      <node id="nickelodeon" label="nickelodeon">
+        <attvalues>
+          <attvalue for="0" value="2.6857417386" />
+        </attvalues>
+      </node>
+      <node id="nine" label="nine" />
+    </nodes>
+    <edges>
+      <edge id="0" source="nimbus" target="nightcap" weight="0.026316" />
+      <edge id="1" source="nimbus" target="nimbleness" weight="0.019231" />
+      <edge id="2" source="niggle" target="nitpick" weight="0.0625" />
+      <edge id="3" source="niggle" target="niggling" weight="0.328571" />
+      <edge id="4" source="niggle" target="nix" weight="0.015385" />
+      <edge id="5" source="niggle" target="nip" weight="0.003096" />
+      <edge id="6" source="niggle" target="nit" weight="0.589744" />
+      <edge id="7" source="niggle" target="nice" weight="0.008584" />
+      <edge id="8" source="nipper" target="nip" weight="0.003215" />
+      <edge id="9" source="nigh" target="nip" weight="0.012384" />
+      <edge id="10" source="nigh" target="nippy" weight="0.024691" />
+      <edge id="11" source="nigh" target="nifty" weight="0.011364" />
+      <edge id="12" source="nibble" target="nick" weight="0.006369" />
+      <edge id="13" source="nibble" target="nip" weight="0.052459" />
+      <edge id="14" source="niggling" target="nitpick" weight="0.02381" />
+      <edge id="15" source="niggling" target="nimble" weight="0.016949" />
+      <edge id="16" source="niggling" target="nix" weight="0.01" />
+      <edge id="17" source="niggling" target="nip" weight="0.002793" />
+      <edge id="18" source="niggling" target="nipped" weight="0.010526" />
+      <edge id="19" source="niggardly" target="nip" weight="0.002809" />
+      <edge id="20" source="niggardly" target="niggard" weight="0.076923" />
+      <edge id="21" source="niggardly" target="nifty" weight="0.008475" />
+      <edge id="22" source="nitrogen" target="nitrate" weight="0.26087" />
+      <edge id="23" source="nippy" target="nimble" weight="0.059406" />
+      <edge id="24" source="nippy" target="nirvanic" weight="0.011628" />
+      <edge id="25" source="nippy" target="nifty" weight="0.038462" />
+      <edge id="26" source="nippy" target="nip" weight="0.005814" />
+      <edge id="27" source="nippy" target="nice" weight="0.007843" />
+      <edge id="28" source="nightclub" target="nip" weight="0.003086" />
+      <edge id="29" source="nightwalk" target="nick" weight="0.006536" />
+      <edge id="30" source="nightwalk" target="nip" weight="0.003165" />
+      <edge id="31" source="nightwalk" target="nightwalking" weight="0.166667" />
+      <edge id="32" source="nightwalk" target="nitpick" weight="0.023256" />
+      <edge id="33" source="nitwit" target="ninny" weight="0.72" />
+      <edge id="34" source="nitwit" target="nihilism" weight="0.023256" />
+      <edge id="35" source="nightmare" target="nip" weight="0.009202" />
+      <edge id="36" source="nihilism" target="nix" weight="0.016667" />
+      <edge id="37" source="nihilism" target="nincompoop" weight="0.021277" />
+      <edge id="38" source="nihilism" target="ninny" weight="0.021739" />
+      <edge id="39" source="nicety" target="nicely" weight="0.015625" />
+      <edge id="40" source="nicety" target="nip" weight="0.005917" />
+      <edge id="41" source="nicety" target="nimbleness" weight="0.013889" />
+      <edge id="42" source="nicety" target="nice" weight="0.012097" />
+      <edge id="43" source="nick" target="nightcap" weight="0.006897" />
+      <edge id="44" source="nick" target="nickel" weight="0.005952" />
+      <edge id="45" source="nick" target="nib" weight="0.012195" />
+      <edge id="46" source="nick" target="nickname" weight="0.006711" />
+      <edge id="47" source="nick" target="nicked" weight="0.007092" />
+      <edge id="48" source="nick" target="nihilistic" weight="0.005714" />
+      <edge id="49" source="nick" target="nine" weight="0.006849" />
+      <edge id="50" source="nick" target="nihilist" weight="0.005917" />
+      <edge id="51" source="nick" target="nipple" weight="0.006289" />
+      <edge id="52" source="nick" target="nip" weight="0.036408" />
+      <edge id="53" source="nick" target="nice" weight="0.005952" />
+      <edge id="54" source="nipped" target="nip" weight="0.003067" />
+      <edge id="55" source="nipped" target="nice" weight="0.004219" />
+      <edge id="56" source="nifty" target="niggard" weight="0.015625" />
+      <edge id="57" source="nifty" target="nimble" weight="0.036697" />
+      <edge id="58" source="nifty" target="nip" weight="0.005714" />
+      <edge id="59" source="nifty" target="nice" weight="0.023346" />
+      <edge id="60" source="nitrate" target="nip" weight="0.003175" />
+      <edge id="61" source="nipple" target="nip" weight="0.009375" />
+      <edge id="62" source="nincompoop" target="ninny" weight="0.88" />
+      <edge id="63" source="nice" target="nimble" weight="0.015504" />
+      <edge id="64" source="nice" target="nicely" weight="0.018018" />
+      <edge id="65" source="nice" target="nip" weight="0.004008" />
+      <edge id="66" source="nightcap" target="nip" weight="0.009804" />
+      <edge id="67" source="nickel" target="nip" weight="0.003021" />
+      <edge id="68" source="nickel" target="nimble" weight="0.01087" />
+      <edge id="69" source="nirvanic" target="nitwitted" weight="0.022727" />
+      <edge id="70" source="nib" target="nickelodeon" weight="0.022727" />
+      <edge id="71" source="nib" target="nip" weight="0.009202" />
+      <edge id="72" source="nitpick" target="nit" weight="0.037736" />
+      <edge id="73" source="nimbly" target="nicely" weight="0.028571" />
+      <edge id="74" source="nimbly" target="nimble" weight="0.014085" />
+      <edge id="75" source="nihilistic" target="nix" weight="0.0125" />
+      <edge id="76" source="nimble" target="nip" weight="0.002857" />
+      <edge id="77" source="nix" target="nit" weight="0.014493" />
+      <edge id="78" source="nip" target="nit" weight="0.006135" />
+      <edge id="79" source="nip" target="nickname" weight="0.003205" />
+      <edge id="80" source="nip" target="nimbleness" weight="0.006231" />
+    </edges>
+  </graph>
+</gexf>

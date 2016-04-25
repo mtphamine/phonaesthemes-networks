@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="scouring" label="scouring" />
+      <node id="scratch" label="scratch" />
+      <node id="scorched" label="scorched" />
+      <node id="scattered" label="scattered" />
+      <node id="scrubland" label="scrubland" />
+      <node id="scrape" label="scrape" />
+      <node id="scheming" label="scheming" />
+      <node id="scarce" label="scarce" />
+      <node id="scattering" label="scattering" />
+      <node id="scurrilous" label="scurrilous" />
+      <node id="scrappy" label="scrappy" />
+      <node id="scrimp" label="scrimp" />
+      <node id="scrawny" label="scrawny" />
+      <node id="scapegrace" label="scapegrace" />
+      <node id="scrimpy" label="scrimpy" />
+      <node id="scuff" label="scuff" />
+      <node id="scaling" label="scaling" />
+      <node id="scout" label="scout" />
+      <node id="scour" label="scour" />
+      <node id="school" label="school" />
+      <node id="schoolteacher" label="schoolteacher" />
+      <node id="scan" label="scan" />
+      <node id="scholar" label="scholar" />
+      <node id="scantiness" label="scantiness" />
+      <node id="scape" label="scape" />
+      <node id="scorch" label="scorch" />
+      <node id="scanning" label="scanning" />
+      <node id="scrip" label="scrip" />
+      <node id="scruffy" label="scruffy" />
+      <node id="scribbler" label="scribbler" />
+      <node id="scanty" label="scanty" />
+      <node id="scared" label="scared" />
+      <node id="scuffle" label="scuffle" />
+      <node id="schizophrenic" label="schizophrenic" />
+      <node id="scrimmage" label="scrimmage" />
+      <node id="scrutinize" label="scrutinize" />
+      <node id="scholastic" label="scholastic" />
+      <node id="scrabble" label="scrabble" />
+      <node id="scarcity" label="scarcity" />
+      <node id="schoolmate" label="schoolmate" />
+      <node id="scribe" label="scribe" />
+      <node id="scald" label="scald" />
+      <node id="scale" label="scale" />
+      <node id="scorching" label="scorching" />
+      <node id="scrap" label="scrap" />
+      <node id="schism" label="schism" />
+      <node id="score" label="score" />
+      <node id="schist" label="schist" />
+      <node id="scorn" label="scorn" />
+      <node id="screen" label="screen" />
+      <node id="scaly" label="scaly" />
+      <node id="scenery" label="scenery" />
+      <node id="schoolman" label="schoolman" />
+      <node id="screwball" label="screwball" />
+      <node id="scientific" label="scientific" />
+      <node id="scandalize" label="scandalize" />
+      <node id="schedule" label="schedule" />
+      <node id="scoria" label="scoria" />
+      <node id="scintilla" label="scintilla" />
+      <node id="scraggy" label="scraggy" />
+      <node id="scuttle" label="scuttle" />
+      <node id="schismatic" label="schismatic" />
+      <node id="scalawag" label="scalawag" />
+      <node id="scarred" label="scarred" />
+      <node id="science" label="science" />
+      <node id="scary" label="scary" />
+      <node id="scarp" label="scarp" />
+      <node id="screech" label="screech" />
+      <node id="scurry" label="scurry" />
+      <node id="scraggly" label="scraggly" />
+      <node id="scamp" label="scamp" />
+      <node id="scarf" label="scarf" />
+      <node id="scalding" label="scalding" />
+      <node id="screamer" label="screamer" />
+      <node id="scansion" label="scansion" />
+      <node id="scene" label="scene" />
+      <node id="scallop" label="scallop" />
+      <node id="scurfy" label="scurfy" />
+      <node id="scalded" label="scalded" />
+      <node id="scandal" label="scandal" />
+      <node id="scamping" label="scamping" />
+      <node id="scrunch" label="scrunch" />
+      <node id="scathing" label="scathing" />
+      <node id="script" label="script" />
+      <node id="scamper" label="scamper" />
+      <node id="scrimping" label="scrimping" />
+      <node id="scriptwriter" label="scriptwriter" />
+      <node id="scant" label="scant" />
+      <node id="scope" label="scope" />
+      <node id="scheme" label="scheme" />
+      <node id="scarecrow" label="scarecrow" />
+      <node id="scathe" label="scathe" />
+      <node id="schoolboy" label="schoolboy" />
+      <node id="scratched" label="scratched" />
+      <node id="scarehead" label="scarehead" />
+      <node id="scurvy" label="scurvy" />
+      <node id="scuzzy" label="scuzzy" />
+      <node id="scrutiny" label="scrutiny" />
+      <node id="schlock" label="schlock" />
+      <node id="scribble" label="scribble" />
+      <node id="scurf" label="scurf" />
+      <node id="sculpt" label="sculpt" />
+      <node id="scoundrel" label="scoundrel" />
+      <node id="scabby" label="scabby" />
+      <node id="scuz" label="scuz" />
+      <node id="scud" label="scud" />
+      <node id="scum" label="scum" />
+      <node id="schema" label="schema" />
+      <node id="sculpture" label="sculpture" />
+      <node id="scramble" label="scramble" />
+      <node id="schismatical" label="schismatical" />
+      <node id="scam" label="scam" />
+      <node id="scandalous" label="scandalous" />
+      <node id="scab" label="scab" />
+      <node id="sconce" label="sconce" />
+      <node id="scrawl" label="scrawl" />
+      <node id="screwy" label="screwy" />
+      <node id="scar" label="scar" />
+      <node id="scrubby" label="scrubby" />
+      <node id="screw" label="screw" />
+      <node id="schizoid" label="schizoid" />
+      <node id="scrivener" label="scrivener" />
+      <node id="scarer" label="scarer" />
+      <node id="scholarly" label="scholarly" />
+      <node id="schoolmaster" label="schoolmaster" />
+      <node id="scree" label="scree" />
+      <node id="scored" label="scored" />
+      <node id="scrub" label="scrub" />
+      <node id="scoff" label="scoff" />
+      <node id="scarify" label="scarify" />
+      <node id="scabrous" label="scabrous" />
+      <node id="scorer" label="scorer" />
+      <node id="scalloped" label="scalloped" />
+      <node id="scratchy" label="scratchy" />
+      <node id="scarcely" label="scarcely" />
+      <node id="scenario" label="scenario" />
+      <node id="scourge" label="scourge" />
+      <node id="scintillation" label="scintillation" />
+      <node id="scream" label="scream" />
+      <node id="scoop" label="scoop" />
+      <node id="scummy" label="scummy" />
+      <node id="scoot" label="scoot" />
+      <node id="screak" label="screak" />
+      <node id="scotch" label="scotch" />
+      <node id="scroll" label="scroll" />
+      <node id="scholarship" label="scholarship" />
+    </nodes>
+    <edges>
+      <edge id="0" source="scouring" target="scratch" />
+      <edge id="1" source="scouring" target="scrub" />
+      <edge id="2" source="scouring" target="scuff" />
+      <edge id="3" source="scouring" target="scrape" />
+      <edge id="4" source="scratch" target="scald" />
+      <edge id="5" source="scratch" target="scrunch" />
+      <edge id="6" source="scratch" target="scrub" />
+      <edge id="7" source="scratch" target="scuff" />
+      <edge id="8" source="scratch" target="sculpture" />
+      <edge id="9" source="scratch" target="scrap" />
+      <edge id="10" source="scratch" target="scab" />
+      <edge id="11" source="scratch" target="scotch" />
+      <edge id="12" source="scratch" target="scrape" />
+      <edge id="13" source="scratch" target="scarify" />
+      <edge id="14" source="scratch" target="scoop" />
+      <edge id="15" source="scratch" target="scrawl" />
+      <edge id="16" source="scratch" target="score" />
+      <edge id="17" source="scratch" target="scrabble" />
+      <edge id="18" source="scratch" target="scar" />
+      <edge id="19" source="scratch" target="scribble" />
+      <edge id="20" source="scratch" target="scorch" />
+      <edge id="21" source="scorched" target="scalded" />
+      <edge id="22" source="scattered" target="scanty" />
+      <edge id="23" source="scattered" target="scarce" />
+      <edge id="24" source="scattered" target="scrimping" />
+      <edge id="25" source="scattered" target="scant" />
+      <edge id="26" source="scrubland" target="scrub" />
+      <edge id="27" source="scrape" target="screw" />
+      <edge id="28" source="scrape" target="scald" />
+      <edge id="29" source="scrape" target="scrunch" />
+      <edge id="30" source="scrape" target="scrub" />
+      <edge id="31" source="scrape" target="scuff" />
+      <edge id="32" source="scrape" target="scotch" />
+      <edge id="33" source="scrape" target="scoop" />
+      <edge id="34" source="scrape" target="score" />
+      <edge id="35" source="scrape" target="scrabble" />
+      <edge id="36" source="scrape" target="scour" />
+      <edge id="37" source="scrape" target="scrimp" />
+      <edge id="38" source="scrape" target="sculpture" />
+      <edge id="39" source="scrape" target="scorch" />
+      <edge id="40" source="scheming" target="scheme" />
+      <edge id="41" source="scarce" target="scarcely" />
+      <edge id="42" source="scarce" target="scrimpy" />
+      <edge id="43" source="scarce" target="scanty" />
+      <edge id="44" source="scarce" target="scrimping" />
+      <edge id="45" source="scarce" target="scant" />
+      <edge id="46" source="scattering" target="scaling" />
+      <edge id="47" source="scurrilous" target="scandalous" />
+      <edge id="48" source="scrappy" target="scanty" />
+      <edge id="49" source="scrappy" target="scant" />
+      <edge id="50" source="scrimp" target="screw" />
+      <edge id="51" source="scrimp" target="scrimpy" />
+      <edge id="52" source="scrimp" target="scanty" />
+      <edge id="53" source="scrimp" target="scamp" />
+      <edge id="54" source="scrimp" target="scant" />
+      <edge id="55" source="scrawny" target="scanty" />
+      <edge id="56" source="scrawny" target="scant" />
+      <edge id="57" source="scrawny" target="scraggy" />
+      <edge id="58" source="scapegrace" target="scamp" />
+      <edge id="59" source="scrimpy" target="scanty" />
+      <edge id="60" source="scrimpy" target="scant" />
+      <edge id="61" source="scuff" target="scald" />
+      <edge id="62" source="scuff" target="scrub" />
+      <edge id="63" source="scuff" target="scuffle" />
+      <edge id="64" source="scuff" target="scour" />
+      <edge id="65" source="scuff" target="scotch" />
+      <edge id="66" source="scuff" target="scorch" />
+      <edge id="67" source="scuff" target="scuttle" />
+      <edge id="68" source="scout" target="scorn" />
+      <edge id="69" source="scout" target="scoff" />
+      <edge id="70" source="scout" target="scour" />
+      <edge id="71" source="scour" target="scrub" />
+      <edge id="72" source="scour" target="scamper" />
+      <edge id="73" source="scour" target="scurry" />
+      <edge id="74" source="scour" target="scud" />
+      <edge id="75" source="scour" target="scuttle" />
+      <edge id="76" source="scour" target="scramble" />
+      <edge id="77" source="scour" target="scoot" />
+      <edge id="78" source="school" target="scholastic" />
+      <edge id="79" source="school" target="schism" />
+      <edge id="80" source="schoolteacher" target="schoolmaster" />
+      <edge id="81" source="scan" target="scope" />
+      <edge id="82" source="scan" target="scrutinize" />
+      <edge id="83" source="scan" target="scrutiny" />
+      <edge id="84" source="scholar" target="schoolman" />
+      <edge id="85" source="scholar" target="scholastic" />
+      <edge id="86" source="scantiness" target="scarcity" />
+      <edge id="87" source="scape" target="scenery" />
+      <edge id="88" source="scape" target="scene" />
+      <edge id="89" source="scorch" target="scald" />
+      <edge id="90" source="scorch" target="scourge" />
+      <edge id="91" source="scorch" target="scathe" />
+      <edge id="92" source="scorch" target="scarify" />
+      <edge id="93" source="scorch" target="scotch" />
+      <edge id="94" source="scanning" target="scansion" />
+      <edge id="95" source="scrip" target="scroll" />
+      <edge id="96" source="scrip" target="script" />
+      <edge id="97" source="scruffy" target="scurvy" />
+      <edge id="98" source="scruffy" target="scummy" />
+      <edge id="99" source="scruffy" target="scabby" />
+      <edge id="100" source="scruffy" target="scuzzy" />
+      <edge id="101" source="scruffy" target="scrubby" />
+      <edge id="102" source="scribbler" target="scrivener" />
+      <edge id="103" source="scribbler" target="scribe" />
+      <edge id="104" source="scanty" target="scrimping" />
+      <edge id="105" source="scanty" target="scant" />
+      <edge id="106" source="scared" target="scary" />
+      <edge id="107" source="scuffle" target="scrimmage" />
+      <edge id="108" source="scuffle" target="scrap" />
+      <edge id="109" source="scuffle" target="scuttle" />
+      <edge id="110" source="scuffle" target="scramble" />
+      <edge id="111" source="schizophrenic" target="schizoid" />
+      <edge id="112" source="scrimmage" target="scramble" />
+      <edge id="113" source="scholastic" target="schoolman" />
+      <edge id="114" source="scholastic" target="scholarly" />
+      <edge id="115" source="scrabble" target="scoop" />
+      <edge id="116" source="scrabble" target="scrawl" />
+      <edge id="117" source="scrabble" target="scribble" />
+      <edge id="118" source="scrabble" target="scramble" />
+      <edge id="119" source="schoolmate" target="schoolboy" />
+      <edge id="120" source="scribe" target="scriptwriter" />
+      <edge id="121" source="scribe" target="scrivener" />
+      <edge id="122" source="scribe" target="scroll" />
+      <edge id="123" source="scribe" target="scorer" />
+      <edge id="124" source="scald" target="scotch" />
+      <edge id="125" source="scale" target="scum" />
+      <edge id="126" source="scale" target="scope" />
+      <edge id="127" source="scale" target="scurf" />
+      <edge id="128" source="scale" target="scab" />
+      <edge id="129" source="scorching" target="scalding" />
+      <edge id="130" source="scorching" target="scathing" />
+      <edge id="131" source="scrap" target="scoop" />
+      <edge id="132" source="score" target="scenario" />
+      <edge id="133" source="score" target="script" />
+      <edge id="134" source="score" target="schedule" />
+      <edge id="135" source="score" target="scotch" />
+      <edge id="136" source="score" target="scarify" />
+      <edge id="137" source="score" target="scallop" />
+      <edge id="138" source="score" target="scar" />
+      <edge id="139" source="score" target="sculpture" />
+      <edge id="140" source="score" target="schema" />
+      <edge id="141" source="schist" target="scoria" />
+      <edge id="142" source="schist" target="scree" />
+      <edge id="143" source="screen" target="scenery" />
+      <edge id="144" source="screen" target="scum" />
+      <edge id="145" source="screen" target="scene" />
+      <edge id="146" source="scaly" target="scabrous" />
+      <edge id="147" source="scaly" target="scurfy" />
+      <edge id="148" source="scaly" target="scabby" />
+      <edge id="149" source="scenery" target="scene" />
+      <edge id="150" source="screwball" target="screwy" />
+      <edge id="151" source="scientific" target="scholarly" />
+      <edge id="152" source="scandalize" target="scandal" />
+      <edge id="153" source="schedule" target="scheme" />
+      <edge id="154" source="schedule" target="schema" />
+      <edge id="155" source="scoria" target="scum" />
+      <edge id="156" source="scoria" target="scree" />
+      <edge id="157" source="scintilla" target="scintillation" />
+      <edge id="158" source="scraggy" target="scraggly" />
+      <edge id="159" source="scraggy" target="scabrous" />
+      <edge id="160" source="scraggy" target="scrubby" />
+      <edge id="161" source="scuttle" target="scamper" />
+      <edge id="162" source="scuttle" target="scurry" />
+      <edge id="163" source="scuttle" target="scud" />
+      <edge id="164" source="scuttle" target="scramble" />
+      <edge id="165" source="scuttle" target="scoot" />
+      <edge id="166" source="schismatic" target="schismatical" />
+      <edge id="167" source="scalawag" target="scoundrel" />
+      <edge id="168" source="scalawag" target="scamp" />
+      <edge id="169" source="scarred" target="scabby" />
+      <edge id="170" source="science" target="scholarship" />
+      <edge id="171" source="scarp" target="scar" />
+      <edge id="172" source="scarp" target="sconce" />
+      <edge id="173" source="screech" target="screak" />
+      <edge id="174" source="screech" target="scream" />
+      <edge id="175" source="scurry" target="scamper" />
+      <edge id="176" source="scurry" target="scud" />
+      <edge id="177" source="scurry" target="scoot" />
+      <edge id="178" source="scurry" target="scramble" />
+      <edge id="179" source="scamp" target="screw" />
+      <edge id="180" source="scamp" target="scant" />
+      <edge id="181" source="scamp" target="scoundrel" />
+      <edge id="182" source="scarf" target="screw" />
+      <edge id="183" source="screamer" target="scarehead" />
+      <edge id="184" source="scallop" target="scarify" />
+      <edge id="185" source="scallop" target="screw" />
+      <edge id="186" source="scallop" target="scotch" />
+      <edge id="187" source="scurfy" target="scabrous" />
+      <edge id="188" source="scurfy" target="scummy" />
+      <edge id="189" source="scurfy" target="scabby" />
+      <edge id="190" source="scamping" target="scrimping" />
+      <edge id="191" source="scrunch" target="screw" />
+      <edge id="192" source="script" target="scroll" />
+      <edge id="193" source="script" target="scenario" />
+      <edge id="194" source="script" target="schema" />
+      <edge id="195" source="scamper" target="screw" />
+      <edge id="196" source="scamper" target="scoot" />
+      <edge id="197" source="scamper" target="scud" />
+      <edge id="198" source="scamper" target="scramble" />
+      <edge id="199" source="scrimping" target="scant" />
+      <edge id="200" source="scant" target="screw" />
+      <edge id="201" source="scheme" target="schema" />
+      <edge id="202" source="scarecrow" target="sculpture" />
+      <edge id="203" source="scarecrow" target="scarer" />
+      <edge id="204" source="scathe" target="scarify" />
+      <edge id="205" source="scathe" target="scourge" />
+      <edge id="206" source="scratched" target="scored" />
+      <edge id="207" source="scratched" target="scratchy" />
+      <edge id="208" source="scurvy" target="scandalous" />
+      <edge id="209" source="scurvy" target="scuzzy" />
+      <edge id="210" source="scurvy" target="scabby" />
+      <edge id="211" source="scurvy" target="scummy" />
+      <edge id="212" source="scurvy" target="schlock" />
+      <edge id="213" source="scurvy" target="scrubby" />
+      <edge id="214" source="scuzzy" target="scummy" />
+      <edge id="215" source="scuzzy" target="scrubby" />
+      <edge id="216" source="schlock" target="scandalous" />
+      <edge id="217" source="scribble" target="scrawl" />
+      <edge id="218" source="scurf" target="scum" />
+      <edge id="219" source="scurf" target="scuz" />
+      <edge id="220" source="sculpt" target="sculpture" />
+      <edge id="221" source="scabby" target="scabrous" />
+      <edge id="222" source="scabby" target="scummy" />
+      <edge id="223" source="scabby" target="scrubby" />
+      <edge id="224" source="scud" target="scoot" />
+      <edge id="225" source="scud" target="scum" />
+      <edge id="226" source="scud" target="scramble" />
+      <edge id="227" source="scramble" target="scoot" />
+      <edge id="228" source="scam" target="screw" />
+      <edge id="229" source="scab" target="scarify" />
+      <edge id="230" source="scab" target="scar" />
+      <edge id="231" source="scar" target="scarify" />
+      <edge id="232" source="scar" target="scotch" />
+      <edge id="233" source="scrubby" target="scummy" />
+      <edge id="234" source="screw" target="scroll" />
+      <edge id="235" source="screw" target="scoot" />
+      <edge id="236" source="scrivener" target="scorer" />
+      <edge id="237" source="scored" target="scalloped" />
+      <edge id="238" source="scarify" target="scourge" />
+      <edge id="239" source="scarify" target="scotch" />
+      <edge id="240" source="scream" target="screak" />
+    </edges>
+  </graph>
+</gexf>

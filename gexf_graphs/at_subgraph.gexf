@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="attendance" label="attendance" />
+      <node id="atrocious" label="atrocious" />
+      <node id="attenuated" label="attenuated" />
+      <node id="attribute" label="attribute" />
+      <node id="attenuate" label="attenuate" />
+      <node id="attending" label="attending" />
+      <node id="attempt" label="attempt" />
+      <node id="atomization" label="atomization" />
+      <node id="atone" label="atone" />
+      <node id="attach" label="attach" />
+      <node id="attack" label="attack" />
+      <node id="attune" label="attune" />
+      <node id="attrition" label="attrition" />
+      <node id="attendant" label="attendant" />
+    </nodes>
+    <edges>
+      <edge id="0" source="attendance" target="attendant" />
+      <edge id="1" source="atrocious" target="atrocious" />
+      <edge id="2" source="attenuated" target="attenuate" />
+      <edge id="3" source="attribute" target="attach" />
+      <edge id="4" source="attending" target="attendant" />
+      <edge id="5" source="attempt" target="attack" />
+      <edge id="6" source="atomization" target="attrition" />
+      <edge id="7" source="atone" target="attune" />
+      <edge id="8" source="attack" target="attack" />
+    </edges>
+  </graph>
+</gexf>

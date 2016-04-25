@@ -1,0 +1,1137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="lexicon" label="lexicon" />
+      <node id="letterer" label="letterer" />
+      <node id="letterpress" label="letterpress">
+        <attvalues>
+          <attvalue for="0" value="1.74818802701" />
+        </attvalues>
+      </node>
+      <node id="less" label="less">
+        <attvalues>
+          <attvalue for="0" value="5.19810424668" />
+        </attvalues>
+      </node>
+      <node id="learner" label="learner">
+        <attvalues>
+          <attvalue for="0" value="3.35044185654" />
+        </attvalues>
+      </node>
+      <node id="lengthwise" label="lengthwise">
+        <attvalues>
+          <attvalue for="0" value="3.10140335056" />
+        </attvalues>
+      </node>
+      <node id="leftward" label="leftward">
+        <attvalues>
+          <attvalue for="0" value="2.03742649794" />
+        </attvalues>
+      </node>
+      <node id="lettered" label="lettered">
+        <attvalues>
+          <attvalue for="0" value="2.44247976906" />
+        </attvalues>
+      </node>
+      <node id="leeway" label="leeway">
+        <attvalues>
+          <attvalue for="0" value="2.83632411571" />
+        </attvalues>
+      </node>
+      <node id="leagued" label="leagued">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="lethal" label="lethal">
+        <attvalues>
+          <attvalue for="0" value="3.55942779976" />
+        </attvalues>
+      </node>
+      <node id="lenitive" label="lenitive" />
+      <node id="legion" label="legion" />
+      <node id="leeward" label="leeward">
+        <attvalues>
+          <attvalue for="0" value="2.25285303098" />
+        </attvalues>
+      </node>
+      <node id="leering" label="leering">
+        <attvalues>
+          <attvalue for="0" value="2.48713837548" />
+        </attvalues>
+      </node>
+      <node id="leisure" label="leisure" />
+      <node id="leapfrog" label="leapfrog">
+        <attvalues>
+          <attvalue for="0" value="2.41497334797" />
+        </attvalues>
+      </node>
+      <node id="lesser" label="lesser">
+        <attvalues>
+          <attvalue for="0" value="3.68779641138" />
+        </attvalues>
+      </node>
+      <node id="leisurely" label="leisurely" />
+      <node id="learned" label="learned">
+        <attvalues>
+          <attvalue for="0" value="4.70818286533" />
+        </attvalues>
+      </node>
+      <node id="level" label="level">
+        <attvalues>
+          <attvalue for="0" value="4.95884567709" />
+        </attvalues>
+      </node>
+      <node id="leather" label="leather">
+        <attvalues>
+          <attvalue for="0" value="4.08357427967" />
+        </attvalues>
+      </node>
+      <node id="levee" label="levee" />
+      <node id="leave" label="leave" />
+      <node id="legume" label="legume">
+        <attvalues>
+          <attvalue for="0" value="2.19033169817" />
+        </attvalues>
+      </node>
+      <node id="leviathan" label="leviathan" />
+      <node id="lever" label="lever">
+        <attvalues>
+          <attvalue for="0" value="3.29490691061" />
+        </attvalues>
+      </node>
+      <node id="lettering" label="lettering" />
+      <node id="leisured" label="leisured" />
+      <node id="lethargy" label="lethargy">
+        <attvalues>
+          <attvalue for="0" value="2.5301996982" />
+        </attvalues>
+      </node>
+      <node id="lecturing" label="lecturing" />
+      <node id="lengthened" label="lengthened">
+        <attvalues>
+          <attvalue for="0" value="2.66181268554" />
+        </attvalues>
+      </node>
+      <node id="legacy" label="legacy">
+        <attvalues>
+          <attvalue for="0" value="3.98753220273" />
+        </attvalues>
+      </node>
+      <node id="legwork" label="legwork">
+        <attvalues>
+          <attvalue for="0" value="2.23044892138" />
+        </attvalues>
+      </node>
+      <node id="leaseholder" label="leaseholder">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="levitate" label="levitate">
+        <attvalues>
+          <attvalue for="0" value="2.12385164097" />
+        </attvalues>
+      </node>
+      <node id="leery" label="leery">
+        <attvalues>
+          <attvalue for="0" value="2.76715586608" />
+        </attvalues>
+      </node>
+      <node id="leakage" label="leakage">
+        <attvalues>
+          <attvalue for="0" value="2.9253120915" />
+        </attvalues>
+      </node>
+      <node id="leaden" label="leaden">
+        <attvalues>
+          <attvalue for="0" value="2.55750720191" />
+        </attvalues>
+      </node>
+      <node id="leaf" label="leaf" />
+      <node id="lead" label="lead">
+        <attvalues>
+          <attvalue for="0" value="4.79145905711" />
+        </attvalues>
+      </node>
+      <node id="leak" label="leak" />
+      <node id="lexical" label="lexical" />
+      <node id="lean" label="lean">
+        <attvalues>
+          <attvalue for="0" value="3.92916338321" />
+        </attvalues>
+      </node>
+      <node id="legal" label="legal" />
+      <node id="legato" label="legato" />
+      <node id="leap" label="leap" />
+      <node id="lexicography" label="lexicography">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="lecture" label="lecture">
+        <attvalues>
+          <attvalue for="0" value="3.77055747485" />
+        </attvalues>
+      </node>
+      <node id="legate" label="legate">
+        <attvalues>
+          <attvalue for="0" value="2.07554696139" />
+        </attvalues>
+      </node>
+      <node id="levitation" label="levitation">
+        <attvalues>
+          <attvalue for="0" value="2.09342168516" />
+        </attvalues>
+      </node>
+      <node id="leader" label="leader">
+        <attvalues>
+          <attvalue for="0" value="4.62059406176" />
+        </attvalues>
+      </node>
+      <node id="lethargic" label="lethargic" />
+      <node id="lea" label="lea" />
+      <node id="leavings" label="leavings" />
+      <node id="lee" label="lee">
+        <attvalues>
+          <attvalue for="0" value="4.47008692841" />
+        </attvalues>
+      </node>
+      <node id="leg" label="leg" />
+      <node id="legitimacy" label="legitimacy">
+        <attvalues>
+          <attvalue for="0" value="3.64236558084" />
+        </attvalues>
+      </node>
+      <node id="leaning" label="leaning">
+        <attvalues>
+          <attvalue for="0" value="3.88149877961" />
+        </attvalues>
+      </node>
+      <node id="leaping" label="leaping">
+        <attvalues>
+          <attvalue for="0" value="3.24723654951" />
+        </attvalues>
+      </node>
+      <node id="leadership" label="leadership" />
+      <node id="let" label="let">
+        <attvalues>
+          <attvalue for="0" value="5.38253572364" />
+        </attvalues>
+      </node>
+      <node id="lex" label="lex" />
+      <node id="leftover" label="leftover" />
+      <node id="leakproof" label="leakproof" />
+      <node id="legend" label="legend" />
+      <node id="legit" label="legit">
+        <attvalues>
+          <attvalue for="0" value="2.55630250077" />
+        </attvalues>
+      </node>
+      <node id="legislature" label="legislature" />
+      <node id="league" label="league" />
+      <node id="letup" label="letup">
+        <attvalues>
+          <attvalue for="0" value="1.84509804001" />
+        </attvalues>
+      </node>
+      <node id="leprous" label="leprous" />
+      <node id="lector" label="lector">
+        <attvalues>
+          <attvalue for="0" value="2.19033169817" />
+        </attvalues>
+      </node>
+      <node id="leaving" label="leaving">
+        <attvalues>
+          <attvalue for="0" value="4.58827170684" />
+        </attvalues>
+      </node>
+      <node id="length" label="length" />
+      <node id="leaven" label="leaven" />
+      <node id="leprechaun" label="leprechaun">
+        <attvalues>
+          <attvalue for="0" value="2.27646180417" />
+        </attvalues>
+      </node>
+      <node id="lemon" label="lemon" />
+      <node id="leaved" label="leaved" />
+      <node id="letters" label="letters" />
+      <node id="lengthen" label="lengthen">
+        <attvalues>
+          <attvalue for="0" value="2.60745502321" />
+        </attvalues>
+      </node>
+      <node id="leniency" label="leniency">
+        <attvalues>
+          <attvalue for="0" value="2.54032947479" />
+        </attvalues>
+      </node>
+      <node id="letterhead" label="letterhead" />
+      <node id="learning" label="learning">
+        <attvalues>
+          <attvalue for="0" value="4.79207636131" />
+        </attvalues>
+      </node>
+      <node id="lewdness" label="lewdness" />
+      <node id="lesson" label="lesson">
+        <attvalues>
+          <attvalue for="0" value="4.21186776066" />
+        </attvalues>
+      </node>
+      <node id="lewd" label="lewd" />
+      <node id="legislator" label="legislator" />
+      <node id="legislative" label="legislative">
+        <attvalues>
+          <attvalue for="0" value="3.95827712555" />
+        </attvalues>
+      </node>
+      <node id="leverage" label="leverage" />
+      <node id="leading" label="leading" />
+      <node id="legislation" label="legislation" />
+      <node id="least" label="least">
+        <attvalues>
+          <attvalue for="0" value="5.14405710501" />
+        </attvalues>
+      </node>
+      <node id="lessening" label="lessening">
+        <attvalues>
+          <attvalue for="0" value="2.68033551341" />
+        </attvalues>
+      </node>
+      <node id="leash" label="leash" />
+      <node id="leech" label="leech" />
+      <node id="lease" label="lease">
+        <attvalues>
+          <attvalue for="0" value="3.57124285056" />
+        </attvalues>
+      </node>
+      <node id="levelheaded" label="levelheaded">
+        <attvalues>
+          <attvalue for="0" value="1.9731278536" />
+        </attvalues>
+      </node>
+      <node id="leach" label="leach">
+        <attvalues>
+          <attvalue for="0" value="3.15014216185" />
+        </attvalues>
+      </node>
+      <node id="legation" label="legation">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+      <node id="leper" label="leper">
+        <attvalues>
+          <attvalue for="0" value="2.49692964807" />
+        </attvalues>
+      </node>
+      <node id="lecherous" label="lecherous">
+        <attvalues>
+          <attvalue for="0" value="2.12385164097" />
+        </attvalues>
+      </node>
+      <node id="lessee" label="lessee">
+        <attvalues>
+          <attvalue for="0" value="1.53147891704" />
+        </attvalues>
+      </node>
+      <node id="legalize" label="legalize" />
+      <node id="lessen" label="lessen" />
+      <node id="lexeme" label="lexeme" />
+      <node id="leprosy" label="leprosy" />
+      <node id="learn" label="learn">
+        <attvalues>
+          <attvalue for="0" value="4.75782858927" />
+        </attvalues>
+      </node>
+      <node id="leathery" label="leathery" />
+      <node id="lexicology" label="lexicology">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="letdown" label="letdown" />
+      <node id="leafy" label="leafy" />
+      <node id="levity" label="levity" />
+      <node id="legislate" label="legislate">
+        <attvalues>
+          <attvalue for="0" value="2.7923916895" />
+        </attvalues>
+      </node>
+      <node id="lengthy" label="lengthy" />
+      <node id="leukocyte" label="leukocyte" />
+      <node id="lees" label="lees">
+        <attvalues>
+          <attvalue for="0" value="2.43775056282" />
+        </attvalues>
+      </node>
+      <node id="lexigraphic" label="lexigraphic" />
+      <node id="legalistic" label="legalistic" />
+      <node id="ledger" label="ledger" />
+      <node id="leached" label="leached">
+        <attvalues>
+          <attvalue for="0" value="2.21484384805" />
+        </attvalues>
+      </node>
+      <node id="ledge" label="ledge" />
+      <node id="lengthening" label="lengthening">
+        <attvalues>
+          <attvalue for="0" value="2.65705585286" />
+        </attvalues>
+      </node>
+      <node id="lenient" label="lenient" />
+      <node id="lecturer" label="lecturer" />
+      <node id="levy" label="levy">
+        <attvalues>
+          <attvalue for="0" value="3.52270499273" />
+        </attvalues>
+      </node>
+      <node id="lesion" label="lesion">
+        <attvalues>
+          <attvalue for="0" value="2.99387691494" />
+        </attvalues>
+      </node>
+      <node id="lend" label="lend">
+        <attvalues>
+          <attvalue for="0" value="3.57159238336" />
+        </attvalues>
+      </node>
+      <node id="lexicographer" label="lexicographer" />
+      <node id="leopard" label="leopard" />
+      <node id="lens" label="lens" />
+      <node id="legality" label="legality" />
+      <node id="letter" label="letter">
+        <attvalues>
+          <attvalue for="0" value="4.57037946496" />
+        </attvalues>
+      </node>
+      <node id="leer" label="leer" />
+      <node id="lesbian" label="lesbian" />
+      <node id="lecher" label="lecher">
+        <attvalues>
+          <attvalue for="0" value="1.68124123738" />
+        </attvalues>
+      </node>
+      <node id="leaflet" label="leaflet" />
+      <node id="left" label="left">
+        <attvalues>
+          <attvalue for="0" value="5.28615321107" />
+        </attvalues>
+      </node>
+      <node id="leasehold" label="leasehold" />
+      <node id="legitimate" label="legitimate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="lexicon" target="lean" weight="0.006452" />
+      <edge id="1" source="lexicon" target="leader" weight="0.00813" />
+      <edge id="2" source="lexicon" target="leaning" weight="0.008403" />
+      <edge id="3" source="letterer" target="lector" weight="0.047619" />
+      <edge id="4" source="letterpress" target="leaf" weight="0.017857" />
+      <edge id="5" source="letterpress" target="levy" weight="0.008264" />
+      <edge id="6" source="letterpress" target="letterhead" weight="0.044444" />
+      <edge id="7" source="letterpress" target="letter" weight="0.013514" />
+      <edge id="8" source="letterpress" target="leaning" weight="0.007874" />
+      <edge id="9" source="less" target="legato" weight="0.0125" />
+      <edge id="10" source="less" target="lean" weight="0.005155" />
+      <edge id="11" source="less" target="lessen" weight="0.006369" />
+      <edge id="12" source="less" target="leisure" weight="0.013333" />
+      <edge id="13" source="less" target="lessening" weight="0.008" />
+      <edge id="14" source="less" target="lesser" weight="0.706897" />
+      <edge id="15" source="less" target="least" weight="0.084507" />
+      <edge id="16" source="less" target="leisured" weight="0.014286" />
+      <edge id="17" source="learner" target="lens" weight="0.027027" />
+      <edge id="18" source="learner" target="levy" weight="0.032258" />
+      <edge id="19" source="lengthwise" target="leaden" weight="0.005464" />
+      <edge id="20" source="lengthwise" target="leach" weight="0.009434" />
+      <edge id="21" source="lengthwise" target="level" weight="0.010526" />
+      <edge id="22" source="lengthwise" target="lean" weight="0.006849" />
+      <edge id="23" source="lengthwise" target="legal" weight="0.015152" />
+      <edge id="24" source="lengthwise" target="leap" weight="0.005405" />
+      <edge id="25" source="lengthwise" target="ledge" weight="0.029851" />
+      <edge id="26" source="leftward" target="leftover" weight="0.027027" />
+      <edge id="27" source="leftward" target="leeward" weight="0.35" />
+      <edge id="28" source="leftward" target="lee" weight="0.071429" />
+      <edge id="29" source="leftward" target="left" weight="0.04878" />
+      <edge id="30" source="lettered" target="lexigraphic" weight="0.258065" />
+      <edge id="31" source="lettered" target="leading" weight="0.006849" />
+      <edge id="32" source="lettered" target="lexical" weight="0.03125" />
+      <edge id="33" source="lettered" target="legitimate" weight="0.007576" />
+      <edge id="34" source="lettered" target="letter" weight="0.006623" />
+      <edge id="35" source="lettered" target="learned" weight="0.35" />
+      <edge id="36" source="leeway" target="lengthen" weight="0.012195" />
+      <edge id="37" source="leeway" target="leniency" weight="0.008475" />
+      <edge id="38" source="leeway" target="lead" weight="0.003106" />
+      <edge id="39" source="leeway" target="leak" weight="0.017857" />
+      <edge id="40" source="leeway" target="leash" weight="0.009259" />
+      <edge id="41" source="leeway" target="leap" weight="0.08867" />
+      <edge id="42" source="leeway" target="ledge" weight="0.009709" />
+      <edge id="43" source="leeway" target="lengthening" weight="0.044118" />
+      <edge id="44" source="leeway" target="levitation" weight="0.024096" />
+      <edge id="45" source="leeway" target="lea" weight="0.018182" />
+      <edge id="46" source="leeway" target="leg" weight="0.008696" />
+      <edge id="47" source="leeway" target="legitimacy" weight="0.016667" />
+      <edge id="48" source="leeway" target="leapfrog" weight="0.036364" />
+      <edge id="49" source="leeway" target="let" weight="0.007299" />
+      <edge id="50" source="leeway" target="letter" weight="0.012048" />
+      <edge id="51" source="leeway" target="leftover" weight="0.014706" />
+      <edge id="52" source="leeway" target="legend" weight="0.008547" />
+      <edge id="53" source="leeway" target="league" weight="0.004808" />
+      <edge id="54" source="leeway" target="letup" weight="0.040984" />
+      <edge id="55" source="leeway" target="level" weight="0.022152" />
+      <edge id="56" source="leeway" target="leave" weight="0.006211" />
+      <edge id="57" source="leeway" target="length" weight="0.253521" />
+      <edge id="58" source="leagued" target="levelheaded" weight="0.015625" />
+      <edge id="59" source="leagued" target="league" weight="0.009756" />
+      <edge id="60" source="leagued" target="leg" weight="0.00885" />
+      <edge id="61" source="leagued" target="leak" weight="0.005952" />
+      <edge id="62" source="leagued" target="level" weight="0.00627" />
+      <edge id="63" source="leagued" target="levee" weight="0.008333" />
+      <edge id="64" source="leagued" target="leapfrog" weight="0.018519" />
+      <edge id="65" source="leagued" target="leap" weight="0.004587" />
+      <edge id="66" source="lethal" target="leprous" weight="0.018519" />
+      <edge id="67" source="lenitive" target="leniency" weight="0.033058" />
+      <edge id="68" source="lenitive" target="letup" weight="0.031008" />
+      <edge id="69" source="lenitive" target="lessening" weight="0.072072" />
+      <edge id="70" source="legion" target="levy" weight="0.006135" />
+      <edge id="71" source="legion" target="lethargy" weight="0.006993" />
+      <edge id="72" source="legion" target="lead" weight="0.00289" />
+      <edge id="73" source="legion" target="level" weight="0.011662" />
+      <edge id="74" source="legion" target="leaving" weight="0.010417" />
+      <edge id="75" source="legion" target="leakage" weight="0.008" />
+      <edge id="76" source="leeward" target="lee" weight="0.275862" />
+      <edge id="77" source="leeward" target="lead" weight="0.003356" />
+      <edge id="78" source="leeward" target="ledge" weight="0.012658" />
+      <edge id="79" source="leeward" target="leaning" weight="0.008264" />
+      <edge id="80" source="leeward" target="levitate" weight="0.020408" />
+      <edge id="81" source="leeward" target="left" weight="0.041667" />
+      <edge id="82" source="leering" target="levitation" weight="0.014085" />
+      <edge id="83" source="leering" target="leaping" weight="0.015152" />
+      <edge id="84" source="leering" target="levity" weight="0.182927" />
+      <edge id="85" source="leisure" target="leaden" weight="0.005025" />
+      <edge id="86" source="leisure" target="letup" weight="0.018868" />
+      <edge id="87" source="leisure" target="lean" weight="0.012422" />
+      <edge id="88" source="leisure" target="leniency" weight="0.010101" />
+      <edge id="89" source="leisure" target="leached" weight="0.019608" />
+      <edge id="90" source="leisure" target="lessening" weight="0.021739" />
+      <edge id="91" source="leisure" target="left" weight="0.018519" />
+      <edge id="92" source="leapfrog" target="leach" weight="0.008621" />
+      <edge id="93" source="leapfrog" target="level" weight="0.003367" />
+      <edge id="94" source="leapfrog" target="leaping" weight="0.018519" />
+      <edge id="95" source="leapfrog" target="leave" weight="0.014815" />
+      <edge id="96" source="leapfrog" target="leap" weight="0.082873" />
+      <edge id="97" source="leapfrog" target="levitation" weight="0.071429" />
+      <edge id="98" source="leapfrog" target="levity" weight="0.011905" />
+      <edge id="99" source="lesser" target="lean" weight="0.01087" />
+      <edge id="100" source="lesser" target="lessen" weight="0.006757" />
+      <edge id="101" source="lesser" target="least" weight="0.114754" />
+      <edge id="102" source="leisurely" target="legwork" weight="0.116667" />
+      <edge id="103" source="leisurely" target="leery" weight="0.014706" />
+      <edge id="104" source="leisurely" target="lees" weight="0.011111" />
+      <edge id="105" source="leisurely" target="leaden" weight="0.041667" />
+      <edge id="106" source="learned" target="lecturing" weight="0.019608" />
+      <edge id="107" source="learned" target="lexigraphic" weight="0.02381" />
+      <edge id="108" source="level" target="least" weight="0.003289" />
+      <edge id="109" source="level" target="letters" weight="0.00625" />
+      <edge id="110" source="level" target="lean" weight="0.026699" />
+      <edge id="111" source="level" target="lengthen" weight="0.003096" />
+      <edge id="112" source="level" target="lengthened" weight="0.003344" />
+      <edge id="113" source="level" target="letdown" weight="0.002941" />
+      <edge id="114" source="level" target="legacy" weight="0.003155" />
+      <edge id="115" source="level" target="leaf" weight="0.01084" />
+      <edge id="116" source="level" target="lesson" weight="0.003115" />
+      <edge id="117" source="level" target="letterhead" weight="0.006579" />
+      <edge id="118" source="level" target="leakage" weight="0.002924" />
+      <edge id="119" source="level" target="legislative" weight="0.013333" />
+      <edge id="120" source="level" target="legislate" weight="0.010067" />
+      <edge id="121" source="level" target="leukocyte" weight="0.003378" />
+      <edge id="122" source="level" target="lees" weight="0.003077" />
+      <edge id="123" source="level" target="lead" weight="0.031079" />
+      <edge id="124" source="level" target="leading" weight="0.004975" />
+      <edge id="125" source="level" target="lend" weight="0.006944" />
+      <edge id="126" source="level" target="legislation" weight="0.00639" />
+      <edge id="127" source="level" target="ledger" weight="0.003185" />
+      <edge id="128" source="level" target="legal" weight="0.075235" />
+      <edge id="129" source="level" target="lessening" weight="0.002833" />
+      <edge id="130" source="level" target="leash" weight="0.008646" />
+      <edge id="131" source="level" target="leached" weight="0.003215" />
+      <edge id="132" source="level" target="ledge" weight="0.105769" />
+      <edge id="133" source="level" target="lengthening" weight="0.003215" />
+      <edge id="134" source="level" target="lecture" weight="0.006154" />
+      <edge id="135" source="level" target="lenient" weight="0.002833" />
+      <edge id="136" source="level" target="levitation" weight="0.003077" />
+      <edge id="137" source="level" target="leaden" weight="0.004367" />
+      <edge id="138" source="level" target="leech" weight="0.006042" />
+      <edge id="139" source="level" target="lease" weight="0.003175" />
+      <edge id="140" source="level" target="levelheaded" weight="0.009836" />
+      <edge id="141" source="level" target="lea" weight="0.03125" />
+      <edge id="142" source="level" target="leach" weight="0.013228" />
+      <edge id="143" source="level" target="leavings" weight="0.006079" />
+      <edge id="144" source="level" target="lesion" weight="0.002732" />
+      <edge id="145" source="level" target="lee" weight="0.006667" />
+      <edge id="146" source="level" target="leg" weight="0.014205" />
+      <edge id="147" source="level" target="legitimacy" weight="0.006667" />
+      <edge id="148" source="level" target="leak" weight="0.014778" />
+      <edge id="149" source="level" target="levy" weight="0.007937" />
+      <edge id="150" source="level" target="leopard" weight="0.003322" />
+      <edge id="151" source="level" target="leadership" weight="0.002681" />
+      <edge id="152" source="level" target="legality" weight="0.003436" />
+      <edge id="153" source="level" target="letter" weight="0.004914" />
+      <edge id="154" source="level" target="leap" weight="0.087059" />
+      <edge id="155" source="level" target="lex" weight="0.006557" />
+      <edge id="156" source="level" target="leftover" weight="0.003236" />
+      <edge id="157" source="level" target="legation" weight="0.003135" />
+      <edge id="158" source="level" target="legend" weight="0.016997" />
+      <edge id="159" source="level" target="legit" weight="0.013158" />
+      <edge id="160" source="level" target="league" weight="0.025057" />
+      <edge id="161" source="level" target="letup" weight="0.010989" />
+      <edge id="162" source="level" target="leader" weight="0.007732" />
+      <edge id="163" source="level" target="leather" weight="0.003268" />
+      <edge id="164" source="level" target="legalize" weight="0.003268" />
+      <edge id="165" source="level" target="lessen" weight="0.013123" />
+      <edge id="166" source="level" target="levee" weight="0.002755" />
+      <edge id="167" source="level" target="leaving" weight="0.003195" />
+      <edge id="168" source="level" target="leave" weight="0.004988" />
+      <edge id="169" source="level" target="length" weight="0.034483" />
+      <edge id="170" source="level" target="leaning" weight="0.010444" />
+      <edge id="171" source="level" target="leasehold" weight="0.003257" />
+      <edge id="172" source="level" target="legitimate" weight="0.031746" />
+      <edge id="173" source="leather" target="lemon" weight="0.017241" />
+      <edge id="174" source="leather" target="lesion" weight="0.009174" />
+      <edge id="175" source="leather" target="leviathan" weight="0.021739" />
+      <edge id="176" source="leather" target="leaf" weight="0.008696" />
+      <edge id="177" source="leather" target="leathery" weight="0.021739" />
+      <edge id="178" source="levee" target="levy" weight="0.005556" />
+      <edge id="179" source="levee" target="lesion" weight="0.006024" />
+      <edge id="180" source="levee" target="lee" weight="0.009901" />
+      <edge id="181" source="levee" target="lead" weight="0.005525" />
+      <edge id="182" source="levee" target="lean" weight="0.004505" />
+      <edge id="183" source="levee" target="letter" weight="0.004808" />
+      <edge id="184" source="levee" target="lever" weight="0.015385" />
+      <edge id="185" source="levee" target="leakage" weight="0.007042" />
+      <edge id="186" source="leave" target="levy" weight="0.004566" />
+      <edge id="187" source="leave" target="legacy" weight="0.019481" />
+      <edge id="188" source="leave" target="leakage" weight="0.011111" />
+      <edge id="189" source="leave" target="legislate" weight="0.007194" />
+      <edge id="190" source="leave" target="lees" weight="0.006098" />
+      <edge id="191" source="leave" target="lead" weight="0.004988" />
+      <edge id="192" source="leave" target="lean" weight="0.011583" />
+      <edge id="193" source="leave" target="lessening" weight="0.005208" />
+      <edge id="194" source="leave" target="leached" weight="0.006667" />
+      <edge id="195" source="leave" target="levitation" weight="0.006098" />
+      <edge id="196" source="leave" target="lease" weight="0.013072" />
+      <edge id="197" source="leave" target="leach" weight="0.018349" />
+      <edge id="198" source="leave" target="lesion" weight="0.004878" />
+      <edge id="199" source="leave" target="leaden" weight="0.003356" />
+      <edge id="200" source="leave" target="lengthen" weight="0.006173" />
+      <edge id="201" source="leave" target="let" weight="0.05314" />
+      <edge id="202" source="leave" target="letter" weight="0.004049" />
+      <edge id="203" source="leave" target="legation" weight="0.012739" />
+      <edge id="204" source="leave" target="letup" weight="0.009756" />
+      <edge id="205" source="leave" target="leaving" weight="0.108696" />
+      <edge id="206" source="legume" target="lees" weight="0.012658" />
+      <edge id="207" source="legume" target="leviathan" weight="0.017544" />
+      <edge id="208" source="legume" target="leprosy" weight="0.013699" />
+      <edge id="209" source="legume" target="leaning" weight="0.007143" />
+      <edge id="210" source="legume" target="lewdness" weight="0.019231" />
+      <edge id="211" source="legume" target="leafy" weight="0.017241" />
+      <edge id="212" source="legume" target="leaved" weight="0.019231" />
+      <edge id="213" source="legume" target="leech" weight="0.023529" />
+      <edge id="214" source="leviathan" target="lean" weight="0.006173" />
+      <edge id="215" source="lever" target="lead" weight="0.003021" />
+      <edge id="216" source="lever" target="leg" weight="0.02459" />
+      <edge id="217" source="lever" target="leap" weight="0.004367" />
+      <edge id="218" source="lever" target="ledge" weight="0.008929" />
+      <edge id="219" source="lever" target="levitate" weight="0.024691" />
+      <edge id="220" source="lettering" target="letter" weight="0.014925" />
+      <edge id="221" source="lettering" target="lexicography" weight="0.076923" />
+      <edge id="222" source="leisured" target="leaden" weight="0.005155" />
+      <edge id="223" source="leisured" target="leached" weight="0.021739" />
+      <edge id="224" source="leisured" target="lean" weight="0.012821" />
+      <edge id="225" source="leisured" target="left" weight="0.020408" />
+      <edge id="226" source="lethargy" target="leniency" weight="0.00641" />
+      <edge id="227" source="lethargy" target="leaden" weight="0.003906" />
+      <edge id="228" source="lethargy" target="leer" weight="0.007813" />
+      <edge id="229" source="lethargy" target="letup" weight="0.006098" />
+      <edge id="230" source="lethargy" target="lessening" weight="0.006667" />
+      <edge id="231" source="lethargy" target="lengthening" weight="0.009259" />
+      <edge id="232" source="lethargy" target="lesion" weight="0.006135" />
+      <edge id="233" source="lethargy" target="leaving" weight="0.009091" />
+      <edge id="234" source="lethargy" target="leasehold" weight="0.009615" />
+      <edge id="235" source="lethargy" target="levity" weight="0.02069" />
+      <edge id="236" source="lethargy" target="lethargic" weight="0.012987" />
+      <edge id="237" source="lethargy" target="lease" weight="0.008929" />
+      <edge id="238" source="lecturing" target="lecture" weight="0.014925" />
+      <edge id="239" source="lecturing" target="lesson" weight="0.016129" />
+      <edge id="240" source="lengthened" target="lengthy" weight="0.194444" />
+      <edge id="241" source="lengthened" target="leakproof" weight="0.03125" />
+      <edge id="242" source="lengthened" target="lengthen" weight="0.016949" />
+      <edge id="243" source="lengthened" target="lessening" weight="0.011236" />
+      <edge id="244" source="lengthened" target="lengthening" weight="0.021277" />
+      <edge id="245" source="lengthened" target="leathery" weight="0.025641" />
+      <edge id="246" source="legacy" target="leader" weight="0.013986" />
+      <edge id="247" source="legacy" target="lexicology" weight="0.020833" />
+      <edge id="248" source="legacy" target="lees" weight="0.012658" />
+      <edge id="249" source="legacy" target="lead" weight="0.003155" />
+      <edge id="250" source="legacy" target="leg" weight="0.009091" />
+      <edge id="251" source="legacy" target="leak" weight="0.006061" />
+      <edge id="252" source="legacy" target="lean" weight="0.005682" />
+      <edge id="253" source="legacy" target="lesbian" weight="0.015625" />
+      <edge id="254" source="legacy" target="leap" weight="0.004651" />
+      <edge id="255" source="legacy" target="leadership" weight="0.007874" />
+      <edge id="256" source="legacy" target="lease" weight="0.014493" />
+      <edge id="257" source="legacy" target="leasehold" weight="0.016393" />
+      <edge id="258" source="legacy" target="leakage" weight="0.010417" />
+      <edge id="259" source="legacy" target="leverage" weight="0.012821" />
+      <edge id="260" source="legwork" target="leaden" weight="0.005076" />
+      <edge id="261" source="leaseholder" target="legate" weight="0.038462" />
+      <edge id="262" source="leaseholder" target="leech" weight="0.016667" />
+      <edge id="263" source="leaseholder" target="lessee" weight="0.692308" />
+      <edge id="264" source="levitate" target="league" weight="0.005" />
+      <edge id="265" source="levitate" target="levy" weight="0.007634" />
+      <edge id="266" source="levitate" target="leaf" weight="0.00813" />
+      <edge id="267" source="levitate" target="lead" weight="0.003185" />
+      <edge id="268" source="levitate" target="leg" weight="0.018868" />
+      <edge id="269" source="levitate" target="lean" weight="0.017544" />
+      <edge id="270" source="levitate" target="lengthen" weight="0.056338" />
+      <edge id="271" source="levitate" target="leaflet" weight="0.021739" />
+      <edge id="272" source="levitate" target="leap" weight="0.049261" />
+      <edge id="273" source="levitate" target="leaven" weight="0.011111" />
+      <edge id="274" source="levitate" target="levitation" weight="0.084507" />
+      <edge id="275" source="levitate" target="leader" weight="0.007092" />
+      <edge id="276" source="leakage" target="levy" weight="0.006289" />
+      <edge id="277" source="leakage" target="leaf" weight="0.006623" />
+      <edge id="278" source="leakage" target="lees" weight="0.009615" />
+      <edge id="279" source="leakage" target="lead" weight="0.002924" />
+      <edge id="280" source="leakage" target="leak" weight="0.157576" />
+      <edge id="281" source="leakage" target="lean" weight="0.004975" />
+      <edge id="282" source="leakage" target="lessening" weight="0.039063" />
+      <edge id="283" source="leakage" target="leap" weight="0.008368" />
+      <edge id="284" source="leakage" target="leached" weight="0.011111" />
+      <edge id="285" source="leakage" target="leader" weight="0.005917" />
+      <edge id="286" source="leakage" target="leach" weight="0.038462" />
+      <edge id="287" source="leakage" target="leavings" weight="0.009174" />
+      <edge id="288" source="leakage" target="lesion" weight="0.006897" />
+      <edge id="289" source="leakage" target="leg" weight="0.007407" />
+      <edge id="290" source="leakage" target="leadership" weight="0.006579" />
+      <edge id="291" source="leakage" target="let" weight="0.012821" />
+      <edge id="292" source="leakage" target="letter" weight="0.005348" />
+      <edge id="293" source="leakage" target="leverage" weight="0.009709" />
+      <edge id="294" source="leakage" target="letup" weight="0.027972" />
+      <edge id="295" source="leakage" target="lessen" weight="0.024845" />
+      <edge id="296" source="leakage" target="leaving" weight="0.033333" />
+      <edge id="297" source="leaden" target="lewd" weight="0.008734" />
+      <edge id="298" source="leaden" target="leafy" weight="0.005" />
+      <edge id="299" source="leaden" target="lengthy" weight="0.00495" />
+      <edge id="300" source="leaden" target="lemon" weight="0.024155" />
+      <edge id="301" source="leaden" target="lees" weight="0.004525" />
+      <edge id="302" source="leaden" target="lead" weight="0.045455" />
+      <edge id="303" source="leaden" target="leading" weight="0.006711" />
+      <edge id="304" source="leaden" target="legalistic" weight="0.010811" />
+      <edge id="305" source="leaden" target="lean" weight="0.022436" />
+      <edge id="306" source="leaden" target="legal" weight="0.004202" />
+      <edge id="307" source="leaden" target="leached" weight="0.029703" />
+      <edge id="308" source="leaden" target="ledge" weight="0.004167" />
+      <edge id="309" source="leaden" target="lenient" weight="0.012146" />
+      <edge id="310" source="leaden" target="leader" weight="0.003497" />
+      <edge id="311" source="leaden" target="lethargic" weight="0.191589" />
+      <edge id="312" source="leaden" target="levelheaded" weight="0.004926" />
+      <edge id="313" source="leaden" target="leavings" weight="0.004425" />
+      <edge id="314" source="leaden" target="leg" weight="0.003968" />
+      <edge id="315" source="leaden" target="leak" weight="0.003257" />
+      <edge id="316" source="leaden" target="let" weight="0.00365" />
+      <edge id="317" source="leaden" target="leprous" weight="0.005128" />
+      <edge id="318" source="leaden" target="lessen" weight="0.010753" />
+      <edge id="319" source="leaden" target="leathery" weight="0.005025" />
+      <edge id="320" source="leaden" target="leaved" weight="0.005155" />
+      <edge id="321" source="leaden" target="legitimate" weight="0.007042" />
+      <edge id="322" source="leaf" target="legislate" weight="0.009174" />
+      <edge id="323" source="leaf" target="leach" weight="0.005236" />
+      <edge id="324" source="leaf" target="lesion" weight="0.005714" />
+      <edge id="325" source="leaf" target="lees" weight="0.007463" />
+      <edge id="326" source="leaf" target="lead" weight="0.019126" />
+      <edge id="327" source="leaf" target="lean" weight="0.004329" />
+      <edge id="328" source="leaf" target="levy" weight="0.005291" />
+      <edge id="329" source="leaf" target="leaving" weight="0.016529" />
+      <edge id="330" source="leaf" target="left" weight="0.00813" />
+      <edge id="331" source="leaf" target="let" weight="0.005348" />
+      <edge id="332" source="leaf" target="letter" weight="0.009259" />
+      <edge id="333" source="leaf" target="leaning" weight="0.005128" />
+      <edge id="334" source="leaf" target="leader" weight="0.010101" />
+      <edge id="335" source="leaf" target="lessening" weight="0.006173" />
+      <edge id="336" source="leaf" target="lease" weight="0.008065" />
+      <edge id="337" source="lead" target="letters" weight="0.00625" />
+      <edge id="338" source="lead" target="lean" weight="0.062814" />
+      <edge id="339" source="lead" target="lengthen" weight="0.003096" />
+      <edge id="340" source="lead" target="leniency" weight="0.002786" />
+      <edge id="341" source="lead" target="levy" weight="0.01061" />
+      <edge id="342" source="lead" target="lesson" weight="0.003115" />
+      <edge id="343" source="lead" target="letterhead" weight="0.003279" />
+      <edge id="344" source="lead" target="leg" weight="0.008475" />
+      <edge id="345" source="lead" target="legislate" weight="0.006689" />
+      <edge id="346" source="lead" target="leaflet" weight="0.00339" />
+      <edge id="347" source="lead" target="lemon" weight="0.009585" />
+      <edge id="348" source="lead" target="lees" weight="0.003077" />
+      <edge id="349" source="lead" target="leading" weight="0.05483" />
+      <edge id="350" source="lead" target="legislation" weight="0.009615" />
+      <edge id="351" source="lead" target="leap" weight="0.019868" />
+      <edge id="352" source="lead" target="legal" weight="0.002924" />
+      <edge id="353" source="lead" target="legato" weight="0.003247" />
+      <edge id="354" source="lead" target="leash" weight="0.011561" />
+      <edge id="355" source="lead" target="legislator" weight="0.003279" />
+      <edge id="356" source="lead" target="ledge" weight="0.008772" />
+      <edge id="357" source="lead" target="lengthening" weight="0.003215" />
+      <edge id="358" source="lead" target="lecture" weight="0.003067" />
+      <edge id="359" source="lead" target="legate" weight="0.003356" />
+      <edge id="360" source="lead" target="levitation" weight="0.003077" />
+      <edge id="361" source="lead" target="leader" weight="0.077135" />
+      <edge id="362" source="lead" target="leech" weight="0.003012" />
+      <edge id="363" source="lead" target="lease" weight="0.003175" />
+      <edge id="364" source="lead" target="leach" weight="0.005249" />
+      <edge id="365" source="lead" target="leavings" weight="0.006079" />
+      <edge id="366" source="lead" target="lesion" weight="0.002732" />
+      <edge id="367" source="lead" target="lee" weight="0.006667" />
+      <edge id="368" source="lead" target="legitimacy" weight="0.003322" />
+      <edge id="369" source="lead" target="leak" weight="0.004878" />
+      <edge id="370" source="lead" target="lexicographer" weight="0.003367" />
+      <edge id="371" source="lead" target="learn" weight="0.006452" />
+      <edge id="372" source="lead" target="leadership" weight="0.050562" />
+      <edge id="373" source="lead" target="legitimate" weight="0.002571" />
+      <edge id="374" source="lead" target="letter" weight="0.030227" />
+      <edge id="375" source="lead" target="lex" weight="0.009868" />
+      <edge id="376" source="lead" target="leer" weight="0.003021" />
+      <edge id="377" source="lead" target="legation" weight="0.003135" />
+      <edge id="378" source="lead" target="legend" weight="0.008427" />
+      <edge id="379" source="lead" target="leverage" weight="0.045016" />
+      <edge id="380" source="lead" target="league" weight="0.006711" />
+      <edge id="381" source="lead" target="letup" weight="0.005464" />
+      <edge id="382" source="lead" target="legalize" weight="0.009868" />
+      <edge id="383" source="lead" target="lessen" weight="0.01847" />
+      <edge id="384" source="lead" target="lexeme" weight="0.01" />
+      <edge id="385" source="lead" target="length" weight="0.009174" />
+      <edge id="386" source="lead" target="lethargic" weight="0.005602" />
+      <edge id="387" source="lead" target="leaning" weight="0.026525" />
+      <edge id="388" source="lead" target="leasehold" weight="0.003257" />
+      <edge id="389" source="lead" target="leaven" weight="0.005917" />
+      <edge id="390" source="leak" target="lengthen" weight="0.005848" />
+      <edge id="391" source="leak" target="lesson" weight="0.005917" />
+      <edge id="392" source="leak" target="legislate" weight="0.006757" />
+      <edge id="393" source="leak" target="lees" weight="0.00578" />
+      <edge id="394" source="leak" target="lean" weight="0.003704" />
+      <edge id="395" source="leak" target="lessening" weight="0.004975" />
+      <edge id="396" source="leak" target="lecture" weight="0.005747" />
+      <edge id="397" source="leak" target="leader" weight="0.004202" />
+      <edge id="398" source="leak" target="lease" weight="0.006135" />
+      <edge id="399" source="leak" target="leach" weight="0.05" />
+      <edge id="400" source="leak" target="lesion" weight="0.04878" />
+      <edge id="401" source="leak" target="let" weight="0.017937" />
+      <edge id="402" source="leak" target="letter" weight="0.007843" />
+      <edge id="403" source="leak" target="letup" weight="0.043478" />
+      <edge id="404" source="leak" target="leaving" weight="0.025316" />
+      <edge id="405" source="lean" target="letters" weight="0.005556" />
+      <edge id="406" source="lean" target="levy" weight="0.008403" />
+      <edge id="407" source="lean" target="leafy" weight="0.006135" />
+      <edge id="408" source="lean" target="lengthy" weight="0.012195" />
+      <edge id="409" source="lean" target="leer" weight="0.010582" />
+      <edge id="410" source="lean" target="lees" weight="0.005435" />
+      <edge id="411" source="lean" target="leading" weight="0.007663" />
+      <edge id="412" source="lean" target="leap" weight="0.022293" />
+      <edge id="413" source="lean" target="least" weight="0.037975" />
+      <edge id="414" source="lean" target="lessening" weight="0.004717" />
+      <edge id="415" source="lean" target="leash" weight="0.004808" />
+      <edge id="416" source="lean" target="leached" weight="0.017857" />
+      <edge id="417" source="lean" target="ledge" weight="0.025126" />
+      <edge id="418" source="lean" target="levitation" weight="0.016484" />
+      <edge id="419" source="lean" target="leader" weight="0.012146" />
+      <edge id="420" source="lean" target="leech" weight="0.005236" />
+      <edge id="421" source="lean" target="levelheaded" weight="0.006024" />
+      <edge id="422" source="lean" target="leach" weight="0.008333" />
+      <edge id="423" source="lean" target="leaven" weight="0.005051" />
+      <edge id="424" source="lean" target="leadership" weight="0.00431" />
+      <edge id="425" source="lean" target="let" weight="0.004219" />
+      <edge id="426" source="lean" target="legitimate" weight="0.024691" />
+      <edge id="427" source="lean" target="letter" weight="0.003745" />
+      <edge id="428" source="lean" target="leftover" weight="0.011976" />
+      <edge id="429" source="lean" target="legend" weight="0.004608" />
+      <edge id="430" source="lean" target="leverage" weight="0.005464" />
+      <edge id="431" source="lean" target="league" weight="0.009804" />
+      <edge id="432" source="lean" target="letup" weight="0.004425" />
+      <edge id="433" source="lean" target="lessen" weight="0.033755" />
+      <edge id="434" source="lean" target="leaving" weight="0.005814" />
+      <edge id="435" source="lean" target="lethargic" weight="0.004608" />
+      <edge id="436" source="lean" target="leaning" weight="0.064935" />
+      <edge id="437" source="lean" target="leaved" weight="0.006369" />
+      <edge id="438" source="lean" target="left" weight="0.00578" />
+      <edge id="439" source="legal" target="legislative" weight="0.257576" />
+      <edge id="440" source="legal" target="levelheaded" weight="0.048193" />
+      <edge id="441" source="legal" target="legitimacy" weight="0.0125" />
+      <edge id="442" source="legal" target="legit" weight="0.242857" />
+      <edge id="443" source="legato" target="levy" weight="0.008" />
+      <edge id="444" source="legato" target="letter" weight="0.013158" />
+      <edge id="445" source="legato" target="lessening" weight="0.010204" />
+      <edge id="446" source="leap" target="lengthen" weight="0.023041" />
+      <edge id="447" source="leap" target="levy" weight="0.00722" />
+      <edge id="448" source="leap" target="lessening" weight="0.003984" />
+      <edge id="449" source="leap" target="lengthening" weight="0.014493" />
+      <edge id="450" source="leap" target="levitation" weight="0.154639" />
+      <edge id="451" source="leap" target="leader" weight="0.006969" />
+      <edge id="452" source="leap" target="leach" weight="0.01444" />
+      <edge id="453" source="leap" target="lesion" weight="0.019231" />
+      <edge id="454" source="leap" target="lee" weight="0.010101" />
+      <edge id="455" source="leap" target="lend" weight="0.005348" />
+      <edge id="456" source="leap" target="legitimacy" weight="0.005025" />
+      <edge id="457" source="leap" target="learn" weight="0.004785" />
+      <edge id="458" source="leap" target="leaping" weight="0.033019" />
+      <edge id="459" source="leap" target="let" weight="0.003623" />
+      <edge id="460" source="leap" target="letter" weight="0.006557" />
+      <edge id="461" source="leap" target="letup" weight="0.027027" />
+      <edge id="462" source="leap" target="leaving" weight="0.004739" />
+      <edge id="463" source="leap" target="leaning" weight="0.003521" />
+      <edge id="464" source="lexicography" target="lexicology" weight="0.125" />
+      <edge id="465" source="lexicography" target="letters" weight="0.022727" />
+      <edge id="466" source="lexicography" target="leader" weight="0.00885" />
+      <edge id="467" source="lecture" target="levy" weight="0.006993" />
+      <edge id="468" source="lecture" target="learning" weight="0.018182" />
+      <edge id="469" source="lecture" target="lesson" weight="0.491228" />
+      <edge id="470" source="lecture" target="legation" weight="0.024691" />
+      <edge id="471" source="lecture" target="letterhead" weight="0.014706" />
+      <edge id="472" source="legate" target="lessee" weight="0.035714" />
+      <edge id="473" source="legate" target="legislator" weight="0.108108" />
+      <edge id="474" source="legate" target="leader" weight="0.016129" />
+      <edge id="475" source="legate" target="leech" weight="0.014925" />
+      <edge id="476" source="levitation" target="league" weight="0.004739" />
+      <edge id="477" source="levitation" target="lesion" weight="0.007813" />
+      <edge id="478" source="levitation" target="leader" weight="0.006579" />
+      <edge id="479" source="levitation" target="lengthen" weight="0.011765" />
+      <edge id="480" source="levitation" target="leaping" weight="0.077922" />
+      <edge id="481" source="levitation" target="leniency" weight="0.033898" />
+      <edge id="482" source="levitation" target="levity" weight="0.097087" />
+      <edge id="483" source="leader" target="lesson" weight="0.006757" />
+      <edge id="484" source="leader" target="legislator" weight="0.007576" />
+      <edge id="485" source="leader" target="leverage" weight="0.006623" />
+      <edge id="486" source="leader" target="leading" weight="0.05" />
+      <edge id="487" source="leader" target="leech" weight="0.006289" />
+      <edge id="488" source="leader" target="levy" weight="0.009709" />
+      <edge id="489" source="leader" target="lexicographer" weight="0.008065" />
+      <edge id="490" source="leader" target="leaven" weight="0.006024" />
+      <edge id="491" source="leader" target="leopard" weight="0.007813" />
+      <edge id="492" source="leader" target="leadership" weight="0.005" />
+      <edge id="493" source="leader" target="letter" weight="0.008547" />
+      <edge id="494" source="leader" target="legend" weight="0.005405" />
+      <edge id="495" source="leader" target="learn" weight="0.007246" />
+      <edge id="496" source="lethargic" target="lees" weight="0.008333" />
+      <edge id="497" source="leavings" target="lee" weight="0.014706" />
+      <edge id="498" source="leavings" target="lesion" weight="0.007519" />
+      <edge id="499" source="leavings" target="lees" weight="0.328571" />
+      <edge id="500" source="leavings" target="leached" weight="0.012821" />
+      <edge id="501" source="leavings" target="lease" weight="0.012195" />
+      <edge id="502" source="leavings" target="letup" weight="0.007463" />
+      <edge id="503" source="lee" target="league" weight="0.005348" />
+      <edge id="504" source="lee" target="leer" weight="0.014493" />
+      <edge id="505" source="lee" target="lens" weight="0.035714" />
+      <edge id="506" source="lee" target="ledge" weight="0.012195" />
+      <edge id="507" source="lee" target="leaning" weight="0.008065" />
+      <edge id="508" source="leg" target="leach" weight="0.005714" />
+      <edge id="509" source="leg" target="lesion" weight="0.012658" />
+      <edge id="510" source="leg" target="lengthen" weight="0.008621" />
+      <edge id="511" source="leg" target="letter" weight="0.004975" />
+      <edge id="512" source="leg" target="leprechaun" weight="0.011364" />
+      <edge id="513" source="leg" target="lengthening" weight="0.009615" />
+      <edge id="514" source="leg" target="legation" weight="0.008929" />
+      <edge id="515" source="leg" target="letup" weight="0.00625" />
+      <edge id="516" source="legitimacy" target="leverage" weight="0.016129" />
+      <edge id="517" source="legitimacy" target="length" weight="0.014925" />
+      <edge id="518" source="legitimacy" target="leadership" weight="0.018182" />
+      <edge id="519" source="legitimacy" target="legation" weight="0.017544" />
+      <edge id="520" source="legitimacy" target="legality" weight="0.2" />
+      <edge id="521" source="leaning" target="letters" weight="0.006944" />
+      <edge id="522" source="leaning" target="lengthen" weight="0.006849" />
+      <edge id="523" source="leaning" target="leniency" weight="0.016667" />
+      <edge id="524" source="leaning" target="levy" weight="0.009901" />
+      <edge id="525" source="leaning" target="letterhead" weight="0.007813" />
+      <edge id="526" source="leaning" target="leverage" weight="0.013699" />
+      <edge id="527" source="leaning" target="legislation" weight="0.007299" />
+      <edge id="528" source="leaning" target="ledge" weight="0.005988" />
+      <edge id="529" source="leaning" target="lengthening" weight="0.007463" />
+      <edge id="530" source="leaning" target="lease" weight="0.007246" />
+      <edge id="531" source="leaning" target="leach" weight="0.004878" />
+      <edge id="532" source="leaning" target="leadership" weight="0.010256" />
+      <edge id="533" source="leaning" target="let" weight="0.004975" />
+      <edge id="534" source="leaning" target="letter" weight="0.017544" />
+      <edge id="535" source="leaning" target="leftover" weight="0.007576" />
+      <edge id="536" source="leaning" target="legislature" weight="0.007692" />
+      <edge id="537" source="leaning" target="lessen" weight="0.004808" />
+      <edge id="538" source="leaning" target="lexeme" weight="0.008" />
+      <edge id="539" source="leaning" target="leaven" weight="0.006173" />
+      <edge id="540" source="leaning" target="leasehold" weight="0.007692" />
+      <edge id="541" source="leaping" target="lesion" weight="0.00813" />
+      <edge id="542" source="leaping" target="leading" weight="0.00625" />
+      <edge id="543" source="leaping" target="lesbian" weight="0.014925" />
+      <edge id="544" source="leadership" target="lengthen" weight="0.007519" />
+      <edge id="545" source="leadership" target="leniency" weight="0.005917" />
+      <edge id="546" source="leadership" target="let" weight="0.010695" />
+      <edge id="547" source="leadership" target="letter" weight="0.004587" />
+      <edge id="548" source="leadership" target="legation" weight="0.048387" />
+      <edge id="549" source="leadership" target="lease" weight="0.008" />
+      <edge id="550" source="let" target="lengthen" weight="0.007246" />
+      <edge id="551" source="let" target="letdown" weight="0.054054" />
+      <edge id="552" source="let" target="letterhead" weight="0.008333" />
+      <edge id="553" source="let" target="leverage" weight="0.014493" />
+      <edge id="554" source="let" target="leash" weight="0.01227" />
+      <edge id="555" source="let" target="leech" weight="0.006803" />
+      <edge id="556" source="let" target="lease" weight="0.065041" />
+      <edge id="557" source="let" target="leach" weight="0.010204" />
+      <edge id="558" source="let" target="lesion" weight="0.01676" />
+      <edge id="559" source="let" target="learn" weight="0.040984" />
+      <edge id="560" source="let" target="letter" weight="0.009009" />
+      <edge id="561" source="let" target="levy" weight="0.010309" />
+      <edge id="562" source="let" target="legation" weight="0.007463" />
+      <edge id="563" source="let" target="league" weight="0.003788" />
+      <edge id="564" source="let" target="letup" weight="0.051724" />
+      <edge id="565" source="let" target="legalize" weight="0.016667" />
+      <edge id="566" source="let" target="lessen" weight="0.005" />
+      <edge id="567" source="let" target="leaving" weight="0.007813" />
+      <edge id="568" source="let" target="leasehold" weight="0.016529" />
+      <edge id="569" source="lex" target="legislate" weight="0.023256" />
+      <edge id="570" source="lex" target="lease" weight="0.017241" />
+      <edge id="571" source="leftover" target="left" weight="0.173077" />
+      <edge id="572" source="leftover" target="lease" weight="0.016393" />
+      <edge id="573" source="legend" target="learning" weight="0.011494" />
+      <edge id="574" source="legend" target="letter" weight="0.02" />
+      <edge id="575" source="legend" target="lease" weight="0.009091" />
+      <edge id="576" source="legit" target="legislative" weight="0.548387" />
+      <edge id="577" source="legit" target="leading" weight="0.013699" />
+      <edge id="578" source="legit" target="legalize" weight="0.02" />
+      <edge id="579" source="legit" target="legitimate" weight="0.145299" />
+      <edge id="580" source="legit" target="letter" weight="0.006579" />
+      <edge id="581" source="legislature" target="legislative" weight="0.021277" />
+      <edge id="582" source="legislature" target="legation" weight="0.015873" />
+      <edge id="583" source="legislature" target="leaving" weight="0.017544" />
+      <edge id="584" source="league" target="legislate" weight="0.005376" />
+      <edge id="585" source="league" target="leach" weight="0.007491" />
+      <edge id="586" source="league" target="levy" weight="0.019084" />
+      <edge id="587" source="league" target="letter" weight="0.006826" />
+      <edge id="588" source="league" target="learn" weight="0.005076" />
+      <edge id="589" source="letup" target="leniency" weight="0.15493" />
+      <edge id="590" source="letup" target="letdown" weight="0.306306" />
+      <edge id="591" source="letup" target="letterhead" weight="0.009174" />
+      <edge id="592" source="letup" target="lessening" weight="0.284553" />
+      <edge id="593" source="letup" target="leach" weight="0.005376" />
+      <edge id="594" source="letup" target="lesion" weight="0.011834" />
+      <edge id="595" source="letup" target="lessen" weight="0.010638" />
+      <edge id="596" source="letup" target="leaving" weight="0.026087" />
+      <edge id="597" source="lector" target="lecturer" weight="0.409091" />
+      <edge id="598" source="lector" target="legislator" weight="0.027778" />
+      <edge id="599" source="leaving" target="leach" weight="0.007576" />
+      <edge id="600" source="leaving" target="legislation" weight="0.015625" />
+      <edge id="601" source="leaving" target="lessen" weight="0.007407" />
+      <edge id="602" source="leaving" target="lessening" weight="0.009709" />
+      <edge id="603" source="leaving" target="lesion" weight="0.008621" />
+      <edge id="604" source="length" target="lengthen" weight="0.011236" />
+      <edge id="605" source="length" target="letter" weight="0.011561" />
+      <edge id="606" source="length" target="lengthening" weight="0.04" />
+      <edge id="607" source="leaven" target="levy" weight="0.00641" />
+      <edge id="608" source="leaven" target="leach" weight="0.081633" />
+      <edge id="609" source="leaven" target="lengthen" weight="0.010101" />
+      <edge id="610" source="leprechaun" target="lesbian" weight="0.02381" />
+      <edge id="611" source="leprechaun" target="ledge" weight="0.013158" />
+      <edge id="612" source="lemon" target="leached" weight="0.015873" />
+      <edge id="613" source="letters" target="legislate" weight="0.017241" />
+      <edge id="614" source="letters" target="levy" weight="0.007246" />
+      <edge id="615" source="letters" target="lexicology" weight="0.019231" />
+      <edge id="616" source="letters" target="learning" weight="0.0625" />
+      <edge id="617" source="letters" target="letter" weight="0.030864" />
+      <edge id="618" source="lengthen" target="levy" weight="0.007143" />
+      <edge id="619" source="lengthen" target="lengthy" weight="0.015152" />
+      <edge id="620" source="lengthen" target="leverage" weight="0.011905" />
+      <edge id="621" source="lengthen" target="lengthening" weight="0.028571" />
+      <edge id="622" source="lengthen" target="lease" weight="0.013333" />
+      <edge id="623" source="lengthen" target="leach" weight="0.007042" />
+      <edge id="624" source="lengthen" target="leasehold" weight="0.014925" />
+      <edge id="625" source="leniency" target="lessening" weight="0.162791" />
+      <edge id="626" source="leniency" target="letdown" weight="0.181034" />
+      <edge id="627" source="leniency" target="letter" weight="0.004902" />
+      <edge id="628" source="leniency" target="lengthening" weight="0.018868" />
+      <edge id="629" source="leniency" target="leer" weight="0.007874" />
+      <edge id="630" source="leniency" target="levity" weight="0.05" />
+      <edge id="631" source="leniency" target="leverage" weight="0.008333" />
+      <edge id="632" source="letterhead" target="lesion" weight="0.009259" />
+      <edge id="633" source="letterhead" target="letter" weight="0.013423" />
+      <edge id="634" source="learning" target="lesson" weight="0.02" />
+      <edge id="635" source="lewdness" target="lees" weight="0.016667" />
+      <edge id="636" source="lesson" target="levy" weight="0.022059" />
+      <edge id="637" source="lesson" target="leer" weight="0.011236" />
+      <edge id="638" source="lesson" target="legation" weight="0.04" />
+      <edge id="639" source="lewd" target="lecher" weight="0.014286" />
+      <edge id="640" source="lewd" target="lecherous" weight="0.418182" />
+      <edge id="641" source="legislative" target="leading" weight="0.014085" />
+      <edge id="642" source="legislative" target="legalize" weight="0.021739" />
+      <edge id="643" source="legislative" target="legislation" weight="0.018519" />
+      <edge id="644" source="legislative" target="legitimate" weight="0.150442" />
+      <edge id="645" source="leverage" target="letter" weight="0.005917" />
+      <edge id="646" source="leverage" target="legation" weight="0.0125" />
+      <edge id="647" source="leverage" target="lease" weight="0.013158" />
+      <edge id="648" source="leading" target="letter" weight="0.008097" />
+      <edge id="649" source="leading" target="learn" weight="0.006623" />
+      <edge id="650" source="leading" target="legation" weight="0.006289" />
+      <edge id="651" source="legislation" target="legislate" weight="0.04" />
+      <edge id="652" source="legislation" target="legation" weight="0.014286" />
+      <edge id="653" source="legislation" target="lease" weight="0.015152" />
+      <edge id="654" source="least" target="legitimate" weight="0.007692" />
+      <edge id="655" source="least" target="ledge" weight="0.011765" />
+      <edge id="656" source="lessening" target="letdown" weight="0.201835" />
+      <edge id="657" source="lessening" target="leach" weight="0.011696" />
+      <edge id="658" source="lessening" target="lessen" weight="0.017341" />
+      <edge id="659" source="lessening" target="lesion" weight="0.00641" />
+      <edge id="660" source="lessening" target="leer" weight="0.008264" />
+      <edge id="661" source="leech" target="leach" weight="0.006623" />
+      <edge id="662" source="leech" target="lessee" weight="0.016129" />
+      <edge id="663" source="lease" target="levy" weight="0.007576" />
+      <edge id="664" source="lease" target="lesion" weight="0.008475" />
+      <edge id="665" source="lease" target="legation" weight="0.014085" />
+      <edge id="666" source="lease" target="legalize" weight="0.017241" />
+      <edge id="667" source="lease" target="leasehold" weight="0.714286" />
+      <edge id="668" source="levelheaded" target="legitimate" weight="0.046875" />
+      <edge id="669" source="levelheaded" target="lenient" weight="0.010309" />
+      <edge id="670" source="leach" target="lees" weight="0.006944" />
+      <edge id="671" source="leach" target="lengthening" weight="0.015504" />
+      <edge id="672" source="leach" target="levy" weight="0.005025" />
+      <edge id="673" source="leach" target="lesion" weight="0.01087" />
+      <edge id="674" source="leach" target="lessen" weight="0.151685" />
+      <edge id="675" source="legation" target="levy" weight="0.014815" />
+      <edge id="676" source="legation" target="legalize" weight="0.032787" />
+      <edge id="677" source="legation" target="letter" weight="0.006098" />
+      <edge id="678" source="legation" target="leasehold" weight="0.015873" />
+      <edge id="679" source="leper" target="left" weight="0.05" />
+      <edge id="680" source="lecherous" target="lecher" weight="0.04878" />
+      <edge id="681" source="legalize" target="legislate" weight="0.333333" />
+      <edge id="682" source="lessen" target="lesion" weight="0.005319" />
+      <edge id="683" source="lessen" target="lees" weight="0.006803" />
+      <edge id="684" source="lessen" target="levy" weight="0.00995" />
+      <edge id="685" source="lessen" target="leached" weight="0.007519" />
+      <edge id="686" source="lexeme" target="letter" weight="0.027778" />
+      <edge id="687" source="letdown" target="lesion" weight="0.014085" />
+      <edge id="688" source="legislate" target="ledger" weight="0.019608" />
+      <edge id="689" source="legislate" target="legitimate" weight="0.03252" />
+      <edge id="690" source="legislate" target="ledge" weight="0.012346" />
+      <edge id="691" source="lees" target="lesion" weight="0.007813" />
+      <edge id="692" source="lees" target="leached" weight="0.013699" />
+      <edge id="693" source="lees" target="lenient" weight="0.008696" />
+      <edge id="694" source="lexigraphic" target="letter" weight="0.007143" />
+      <edge id="695" source="leached" target="lenient" weight="0.009901" />
+      <edge id="696" source="ledge" target="levy" weight="0.006211" />
+      <edge id="697" source="ledge" target="letter" weight="0.010638" />
+      <edge id="698" source="lengthening" target="letter" weight="0.00641" />
+      <edge id="699" source="lengthening" target="lesion" weight="0.017699" />
+      <edge id="700" source="lenient" target="lesion" weight="0.00641" />
+      <edge id="701" source="levy" target="lesion" weight="0.005464" />
+      <edge id="702" source="levy" target="letter" weight="0.004444" />
+      <edge id="703" source="levy" target="leasehold" weight="0.008065" />
+      <edge id="704" source="letter" target="leer" weight="0.005682" />
+      <edge id="705" source="letter" target="legitimate" weight="0.004274" />
+    </edges>
+  </graph>
+</gexf>

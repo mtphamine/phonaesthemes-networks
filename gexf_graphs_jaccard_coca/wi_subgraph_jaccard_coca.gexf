@@ -1,0 +1,762 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="winnings" label="winnings">
+        <attvalues>
+          <attvalue for="0" value="2.79795964374" />
+        </attvalues>
+      </node>
+      <node id="winged" label="winged">
+        <attvalues>
+          <attvalue for="0" value="3.08955188289" />
+        </attvalues>
+      </node>
+      <node id="windy" label="windy" />
+      <node id="wifely" label="wifely" />
+      <node id="wickedness" label="wickedness" />
+      <node id="witty" label="witty" />
+      <node id="winner" label="winner">
+        <attvalues>
+          <attvalue for="0" value="4.16432310857" />
+        </attvalues>
+      </node>
+      <node id="wizardry" label="wizardry" />
+      <node id="winning" label="winning" />
+      <node id="window" label="window" />
+      <node id="willing" label="willing" />
+      <node id="wizened" label="wizened">
+        <attvalues>
+          <attvalue for="0" value="2.49415459402" />
+        </attvalues>
+      </node>
+      <node id="witching" label="witching" />
+      <node id="wiggle" label="wiggle">
+        <attvalues>
+          <attvalue for="0" value="2.96378782735" />
+        </attvalues>
+      </node>
+      <node id="winsome" label="winsome">
+        <attvalues>
+          <attvalue for="0" value="2.36921585741" />
+        </attvalues>
+      </node>
+      <node id="windowpane" label="windowpane">
+        <attvalues>
+          <attvalue for="0" value="2.34830486305" />
+        </attvalues>
+      </node>
+      <node id="wiener" label="wiener">
+        <attvalues>
+          <attvalue for="0" value="2.74585519517" />
+        </attvalues>
+      </node>
+      <node id="willowy" label="willowy" />
+      <node id="withdrawal" label="withdrawal" />
+      <node id="withstand" label="withstand" />
+      <node id="witchcraft" label="witchcraft" />
+      <node id="windward" label="windward">
+        <attvalues>
+          <attvalue for="0" value="2.46982201598" />
+        </attvalues>
+      </node>
+      <node id="winnow" label="winnow" />
+      <node id="widened" label="widened" />
+      <node id="windstorm" label="windstorm" />
+      <node id="wisecrack" label="wisecrack" />
+      <node id="witness" label="witness" />
+      <node id="wire" label="wire">
+        <attvalues>
+          <attvalue for="0" value="4.08303654241" />
+        </attvalues>
+      </node>
+      <node id="windfall" label="windfall" />
+      <node id="wittingly" label="wittingly" />
+      <node id="widdershins" label="widdershins" />
+      <node id="witless" label="witless">
+        <attvalues>
+          <attvalue for="0" value="2.18469143082" />
+        </attvalues>
+      </node>
+      <node id="wiry" label="wiry" />
+      <node id="widget" label="widget">
+        <attvalues>
+          <attvalue for="0" value="2.20682587603" />
+        </attvalues>
+      </node>
+      <node id="withering" label="withering">
+        <attvalues>
+          <attvalue for="0" value="2.87332060182" />
+        </attvalues>
+      </node>
+      <node id="witch" label="witch">
+        <attvalues>
+          <attvalue for="0" value="3.5524248457" />
+        </attvalues>
+      </node>
+      <node id="witticism" label="witticism">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="widening" label="widening" />
+      <node id="wildlife" label="wildlife">
+        <attvalues>
+          <attvalue for="0" value="4.12083706025" />
+        </attvalues>
+      </node>
+      <node id="windproof" label="windproof">
+        <attvalues>
+          <attvalue for="0" value="1.9731278536" />
+        </attvalues>
+      </node>
+      <node id="windjammer" label="windjammer" />
+      <node id="wither" label="wither">
+        <attvalues>
+          <attvalue for="0" value="2.66745295289" />
+        </attvalues>
+      </node>
+      <node id="wittiness" label="wittiness">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="wig" label="wig" />
+      <node id="wizard" label="wizard">
+        <attvalues>
+          <attvalue for="0" value="3.43055876952" />
+        </attvalues>
+      </node>
+      <node id="widen" label="widen" />
+      <node id="wilderness" label="wilderness" />
+      <node id="win" label="win">
+        <attvalues>
+          <attvalue for="0" value="4.72706115328" />
+        </attvalues>
+      </node>
+      <node id="wit" label="wit" />
+      <node id="withdrawn" label="withdrawn">
+        <attvalues>
+          <attvalue for="0" value="3.3928727454" />
+        </attvalues>
+      </node>
+      <node id="witchery" label="witchery" />
+      <node id="wishbone" label="wishbone" />
+      <node id="wield" label="wield" />
+      <node id="wicket" label="wicket">
+        <attvalues>
+          <attvalue for="0" value="2.10037054512" />
+        </attvalues>
+      </node>
+      <node id="wigwag" label="wigwag" />
+      <node id="width" label="width">
+        <attvalues>
+          <attvalue for="0" value="3.47377883465" />
+        </attvalues>
+      </node>
+      <node id="wildly" label="wildly" />
+      <node id="wicked" label="wicked" />
+      <node id="wisdom" label="wisdom" />
+      <node id="wireless" label="wireless" />
+      <node id="wiredrawn" label="wiredrawn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="wince" label="wince">
+        <attvalues>
+          <attvalue for="0" value="2.76715586608" />
+        </attvalues>
+      </node>
+      <node id="with" label="with">
+        <attvalues>
+          <attvalue for="0" value="6.46679409534" />
+        </attvalues>
+      </node>
+      <node id="wildcat" label="wildcat" />
+      <node id="wide" label="wide">
+        <attvalues>
+          <attvalue for="0" value="4.59938083338" />
+        </attvalues>
+      </node>
+      <node id="wise" label="wise" />
+      <node id="wily" label="wily">
+        <attvalues>
+          <attvalue for="0" value="2.67942789661" />
+        </attvalues>
+      </node>
+      <node id="windup" label="windup">
+        <attvalues>
+          <attvalue for="0" value="2.27646180417" />
+        </attvalues>
+      </node>
+      <node id="wilt" label="wilt" />
+      <node id="windbag" label="windbag">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="will" label="will">
+        <attvalues>
+          <attvalue for="0" value="5.93698497773" />
+        </attvalues>
+      </node>
+      <node id="wisp" label="wisp">
+        <attvalues>
+          <attvalue for="0" value="2.62736585659" />
+        </attvalues>
+      </node>
+      <node id="winery" label="winery">
+        <attvalues>
+          <attvalue for="0" value="3.17811325231" />
+        </attvalues>
+      </node>
+      <node id="wild" label="wild" />
+      <node id="wile" label="wile">
+        <attvalues>
+          <attvalue for="0" value="2.14301480025" />
+        </attvalues>
+      </node>
+      <node id="withered" label="withered">
+        <attvalues>
+          <attvalue for="0" value="2.92890769024" />
+        </attvalues>
+      </node>
+      <node id="willingness" label="willingness">
+        <attvalues>
+          <attvalue for="0" value="3.83790394459" />
+        </attvalues>
+      </node>
+      <node id="wingding" label="wingding">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="winding" label="winding" />
+      <node id="wizen" label="wizen">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="wisely" label="wisely">
+        <attvalues>
+          <attvalue for="0" value="3.28080592839" />
+        </attvalues>
+      </node>
+      <node id="wintry" label="wintry" />
+      <node id="witling" label="witling" />
+      <node id="wipe" label="wipe">
+        <attvalues>
+          <attvalue for="0" value="3.62910365018" />
+        </attvalues>
+      </node>
+      <node id="willful" label="willful">
+        <attvalues>
+          <attvalue for="0" value="2.93196611473" />
+        </attvalues>
+      </node>
+      <node id="wisecracker" label="wisecracker">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="wilted" label="wilted">
+        <attvalues>
+          <attvalue for="0" value="2.86391737696" />
+        </attvalues>
+      </node>
+      <node id="wieldy" label="wieldy">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="widespread" label="widespread" />
+      <node id="wistful" label="wistful" />
+      <node id="wispy" label="wispy">
+        <attvalues>
+          <attvalue for="0" value="2.79726754083" />
+        </attvalues>
+      </node>
+      <node id="wiretap" label="wiretap" />
+      <node id="withhold" label="withhold" />
+      <node id="wink" label="wink">
+        <attvalues>
+          <attvalue for="0" value="3.22036963245" />
+        </attvalues>
+      </node>
+      <node id="without" label="without" />
+      <node id="withdraw" label="withdraw" />
+      <node id="wing" label="wing" />
+      <node id="wind" label="wind">
+        <attvalues>
+          <attvalue for="0" value="4.57590337903" />
+        </attvalues>
+      </node>
+      <node id="wine" label="wine">
+        <attvalues>
+          <attvalue for="0" value="4.42881487203" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="winnings" target="witchery" weight="0.013514" />
+      <edge id="1" source="winnings" target="widen" weight="0.02439" />
+      <edge id="2" source="winnings" target="win" weight="0.047059" />
+      <edge id="3" source="winnings" target="winning" weight="0.007246" />
+      <edge id="4" source="winnings" target="wile" weight="0.010989" />
+      <edge id="5" source="winnings" target="wisdom" weight="0.021978" />
+      <edge id="6" source="winnings" target="wing" weight="0.008811" />
+      <edge id="7" source="winnings" target="wind" weight="0.003731" />
+      <edge id="8" source="winnings" target="widening" weight="0.026316" />
+      <edge id="9" source="winged" target="windproof" weight="0.027778" />
+      <edge id="10" source="winged" target="wink" weight="0.010309" />
+      <edge id="11" source="winged" target="willing" weight="0.022472" />
+      <edge id="12" source="winged" target="witless" weight="0.007143" />
+      <edge id="13" source="winged" target="wildly" weight="0.026316" />
+      <edge id="14" source="winged" target="wild" weight="0.023529" />
+      <edge id="15" source="winged" target="wile" weight="0.011236" />
+      <edge id="16" source="winged" target="wintry" weight="0.014706" />
+      <edge id="17" source="winged" target="wing" weight="0.004425" />
+      <edge id="18" source="windy" target="wide" weight="0.020243" />
+      <edge id="19" source="windy" target="withered" weight="0.012048" />
+      <edge id="20" source="windy" target="wispy" weight="0.113333" />
+      <edge id="21" source="windy" target="wily" weight="0.017751" />
+      <edge id="22" source="windy" target="windowpane" weight="0.007692" />
+      <edge id="23" source="windy" target="wicket" weight="0.007874" />
+      <edge id="24" source="windy" target="wiener" weight="0.008197" />
+      <edge id="25" source="windy" target="wither" weight="0.006024" />
+      <edge id="26" source="windy" target="wiredrawn" weight="0.114865" />
+      <edge id="27" source="windy" target="wizen" weight="0.006061" />
+      <edge id="28" source="windy" target="wizened" weight="0.01105" />
+      <edge id="29" source="windy" target="witless" weight="0.03125" />
+      <edge id="30" source="windy" target="wind" weight="0.002809" />
+      <edge id="31" source="wifely" target="wide" weight="0.006211" />
+      <edge id="32" source="wifely" target="withering" weight="0.008403" />
+      <edge id="33" source="wifely" target="witless" weight="0.014388" />
+      <edge id="34" source="wifely" target="wipe" weight="0.011494" />
+      <edge id="35" source="wickedness" target="wide" weight="0.005882" />
+      <edge id="36" source="witty" target="wily" weight="0.020833" />
+      <edge id="37" source="witty" target="withering" weight="0.030303" />
+      <edge id="38" source="witty" target="wizard" weight="0.011236" />
+      <edge id="39" source="witty" target="wince" weight="0.010753" />
+      <edge id="40" source="witty" target="wittiness" weight="0.040816" />
+      <edge id="41" source="witty" target="winsome" weight="0.008" />
+      <edge id="42" source="winner" target="wire" weight="0.012658" />
+      <edge id="43" source="winner" target="win" weight="0.020833" />
+      <edge id="44" source="winner" target="wizard" weight="0.024096" />
+      <edge id="45" source="winner" target="winning" weight="0.006803" />
+      <edge id="46" source="winner" target="windfall" weight="0.309524" />
+      <edge id="47" source="winner" target="wile" weight="0.01" />
+      <edge id="48" source="winner" target="wind" weight="0.00361" />
+      <edge id="49" source="wizardry" target="wisecracker" weight="0.011765" />
+      <edge id="50" source="wizardry" target="wily" weight="0.008197" />
+      <edge id="51" source="wizardry" target="willingness" weight="0.031746" />
+      <edge id="52" source="wizardry" target="win" weight="0.015873" />
+      <edge id="53" source="wizardry" target="will" weight="0.006173" />
+      <edge id="54" source="wizardry" target="witch" weight="0.025478" />
+      <edge id="55" source="wizardry" target="wile" weight="0.031496" />
+      <edge id="56" source="wizardry" target="wittiness" weight="0.027027" />
+      <edge id="57" source="wizardry" target="winsome" weight="0.006667" />
+      <edge id="58" source="winning" target="wide" weight="0.004" />
+      <edge id="59" source="winning" target="win" weight="0.08642" />
+      <edge id="60" source="winning" target="witch" weight="0.004808" />
+      <edge id="61" source="winning" target="winsome" weight="0.391608" />
+      <edge id="62" source="window" target="wide" weight="0.006579" />
+      <edge id="63" source="window" target="wispy" weight="0.014925" />
+      <edge id="64" source="window" target="windowpane" weight="0.684211" />
+      <edge id="65" source="window" target="wicket" weight="0.8125" />
+      <edge id="66" source="window" target="wiredrawn" weight="0.015385" />
+      <edge id="67" source="window" target="wind" weight="0.007813" />
+      <edge id="68" source="willing" target="wide" weight="0.004902" />
+      <edge id="69" source="willing" target="wildlife" weight="0.013889" />
+      <edge id="70" source="willing" target="wieldy" weight="0.050633" />
+      <edge id="71" source="willing" target="wily" weight="0.01626" />
+      <edge id="72" source="willing" target="willingness" weight="0.007634" />
+      <edge id="73" source="willing" target="wink" weight="0.007143" />
+      <edge id="74" source="willing" target="wile" weight="0.007576" />
+      <edge id="75" source="willing" target="willful" weight="0.019481" />
+      <edge id="76" source="willing" target="winsome" weight="0.006579" />
+      <edge id="77" source="wizened" target="wilted" weight="0.12" />
+      <edge id="78" source="wizened" target="withered" weight="0.757143" />
+      <edge id="79" source="wizened" target="wispy" weight="0.051724" />
+      <edge id="80" source="wizened" target="withdraw" weight="0.005025" />
+      <edge id="81" source="wizened" target="wide" weight="0.004854" />
+      <edge id="82" source="wizened" target="wilt" weight="0.008" />
+      <edge id="83" source="wizened" target="wigwag" weight="0.009009" />
+      <edge id="84" source="wizened" target="wither" weight="0.016667" />
+      <edge id="85" source="wizened" target="wiredrawn" weight="0.034483" />
+      <edge id="86" source="wizened" target="wizen" weight="0.016807" />
+      <edge id="87" source="wizened" target="wild" weight="0.003279" />
+      <edge id="88" source="wizened" target="willowy" weight="0.030303" />
+      <edge id="89" source="wizened" target="wipe" weight="0.007576" />
+      <edge id="90" source="wizened" target="wine" weight="0.011236" />
+      <edge id="91" source="witching" target="win" weight="0.008696" />
+      <edge id="92" source="witching" target="witch" weight="0.006757" />
+      <edge id="93" source="witching" target="winsome" weight="0.527473" />
+      <edge id="94" source="witching" target="wide" weight="0.005263" />
+      <edge id="95" source="wiggle" target="wisecracker" weight="0.009346" />
+      <edge id="96" source="wiggle" target="wilt" weight="0.006993" />
+      <edge id="97" source="wiggle" target="witling" weight="0.008" />
+      <edge id="98" source="wiggle" target="widen" weight="0.006944" />
+      <edge id="99" source="wiggle" target="wire" weight="0.007634" />
+      <edge id="100" source="wiggle" target="wisp" weight="0.007937" />
+      <edge id="101" source="wiggle" target="wit" weight="0.005263" />
+      <edge id="102" source="wiggle" target="wizard" weight="0.007353" />
+      <edge id="103" source="wiggle" target="wield" weight="0.033058" />
+      <edge id="104" source="wiggle" target="wigwag" weight="0.031746" />
+      <edge id="105" source="wiggle" target="wink" weight="0.012579" />
+      <edge id="106" source="wiggle" target="wither" weight="0.014493" />
+      <edge id="107" source="wiggle" target="wizen" weight="0.014599" />
+      <edge id="108" source="wiggle" target="wince" weight="0.036765" />
+      <edge id="109" source="wiggle" target="wing" weight="0.006944" />
+      <edge id="110" source="wiggle" target="wind" weight="0.021672" />
+      <edge id="111" source="wiggle" target="widening" weight="0.007246" />
+      <edge id="112" source="winsome" target="wide" weight="0.004484" />
+      <edge id="113" source="winsome" target="wise" weight="0.004545" />
+      <edge id="114" source="winsome" target="witchcraft" weight="0.009091" />
+      <edge id="115" source="winsome" target="win" weight="0.006757" />
+      <edge id="116" source="winsome" target="witchery" weight="0.007463" />
+      <edge id="117" source="winsome" target="witch" weight="0.005525" />
+      <edge id="118" source="winsome" target="wild" weight="0.003106" />
+      <edge id="119" source="winsome" target="wine" weight="0.009434" />
+      <edge id="120" source="winsome" target="wildcat" weight="0.007519" />
+      <edge id="121" source="windowpane" target="wide" weight="0.006494" />
+      <edge id="122" source="windowpane" target="wispy" weight="0.014493" />
+      <edge id="123" source="windowpane" target="wise" weight="0.006623" />
+      <edge id="124" source="windowpane" target="wicket" weight="0.722222" />
+      <edge id="125" source="windowpane" target="wiredrawn" weight="0.014925" />
+      <edge id="126" source="windowpane" target="willowy" weight="0.012048" />
+      <edge id="127" source="windowpane" target="wind" weight="0.007752" />
+      <edge id="128" source="wiener" target="witch" weight="0.009615" />
+      <edge id="129" source="willowy" target="wilted" weight="0.012346" />
+      <edge id="130" source="willowy" target="withered" weight="0.034188" />
+      <edge id="131" source="willowy" target="wispy" weight="0.445783" />
+      <edge id="132" source="willowy" target="wieldy" weight="0.106667" />
+      <edge id="133" source="willowy" target="wily" weight="0.01626" />
+      <edge id="134" source="willowy" target="wide" weight="0.014851" />
+      <edge id="135" source="willowy" target="wicket" weight="0.0125" />
+      <edge id="136" source="willowy" target="wither" weight="0.008403" />
+      <edge id="137" source="willowy" target="wiredrawn" weight="0.45679" />
+      <edge id="138" source="willowy" target="wizen" weight="0.008475" />
+      <edge id="139" source="willowy" target="wind" weight="0.003236" />
+      <edge id="140" source="withdrawal" target="willingness" weight="0.004016" />
+      <edge id="141" source="withdrawal" target="windup" weight="0.004367" />
+      <edge id="142" source="withdrawal" target="will" weight="0.010714" />
+      <edge id="143" source="withdrawal" target="wince" weight="0.017021" />
+      <edge id="144" source="withdrawal" target="witticism" weight="0.00431" />
+      <edge id="145" source="withdrawal" target="wipe" weight="0.016327" />
+      <edge id="146" source="withstand" target="wide" weight="0.005988" />
+      <edge id="147" source="withstand" target="widget" weight="0.021739" />
+      <edge id="148" source="withstand" target="wince" weight="0.012048" />
+      <edge id="149" source="witchcraft" target="win" weight="0.011494" />
+      <edge id="150" source="witchcraft" target="witch" weight="0.034188" />
+      <edge id="151" source="witchcraft" target="wile" weight="0.022472" />
+      <edge id="152" source="windward" target="wide" weight="0.006452" />
+      <edge id="153" source="windward" target="wise" weight="0.006579" />
+      <edge id="154" source="windward" target="wing" weight="0.004545" />
+      <edge id="155" source="windward" target="widdershins" weight="0.259259" />
+      <edge id="156" source="winnow" target="wide" weight="0.004673" />
+      <edge id="157" source="winnow" target="wisp" weight="0.008621" />
+      <edge id="158" source="winnow" target="withdrawn" weight="0.005236" />
+      <edge id="159" source="winnow" target="will" weight="0.005747" />
+      <edge id="160" source="winnow" target="width" weight="0.008929" />
+      <edge id="161" source="winnow" target="winery" weight="0.010638" />
+      <edge id="162" source="winnow" target="wince" weight="0.007692" />
+      <edge id="163" source="winnow" target="wipe" weight="0.014388" />
+      <edge id="164" source="winnow" target="wind" weight="0.025641" />
+      <edge id="165" source="widened" target="width" weight="0.018182" />
+      <edge id="166" source="widened" target="wide" weight="0.006369" />
+      <edge id="167" source="windstorm" target="wind" weight="0.003922" />
+      <edge id="168" source="wisecrack" target="witticism" weight="0.350877" />
+      <edge id="169" source="wisecrack" target="wink" weight="0.009804" />
+      <edge id="170" source="wisecrack" target="wittiness" weight="0.025641" />
+      <edge id="171" source="witness" target="wire" weight="0.006369" />
+      <edge id="172" source="witness" target="willingness" weight="0.00565" />
+      <edge id="173" source="witness" target="wizard" weight="0.006173" />
+      <edge id="174" source="witness" target="will" weight="0.009569" />
+      <edge id="175" source="witness" target="wink" weight="0.005376" />
+      <edge id="176" source="witness" target="witch" weight="0.004808" />
+      <edge id="177" source="witness" target="witticism" weight="0.00625" />
+      <edge id="178" source="witness" target="wind" weight="0.002817" />
+      <edge id="179" source="wire" target="wise" weight="0.011236" />
+      <edge id="180" source="wire" target="willingness" weight="0.009174" />
+      <edge id="181" source="wire" target="wing" weight="0.00813" />
+      <edge id="182" source="wire" target="wireless" weight="0.014925" />
+      <edge id="183" source="wire" target="wink" weight="0.017094" />
+      <edge id="184" source="wire" target="wind" weight="0.014085" />
+      <edge id="185" source="wire" target="width" weight="0.0125" />
+      <edge id="186" source="windfall" target="win" weight="0.012195" />
+      <edge id="187" source="windfall" target="wind" weight="0.003817" />
+      <edge id="188" source="windfall" target="wile" weight="0.011765" />
+      <edge id="189" source="wittingly" target="wisely" weight="0.166667" />
+      <edge id="190" source="widdershins" target="wide" weight="0.006536" />
+      <edge id="191" source="widdershins" target="withdrawn" weight="0.007692" />
+      <edge id="192" source="widdershins" target="wind" weight="0.003876" />
+      <edge id="193" source="witless" target="wide" weight="0.003937" />
+      <edge id="194" source="witless" target="witling" weight="0.006452" />
+      <edge id="195" source="witless" target="withdrawn" weight="0.008696" />
+      <edge id="196" source="witless" target="winding" weight="0.006135" />
+      <edge id="197" source="witless" target="without" weight="0.006993" />
+      <edge id="198" source="witless" target="wistful" weight="0.006711" />
+      <edge id="199" source="witless" target="wild" weight="0.03207" />
+      <edge id="200" source="witless" target="wing" weight="0.003135" />
+      <edge id="201" source="witless" target="wicked" weight="0.011236" />
+      <edge id="202" source="wiry" target="wide" weight="0.011765" />
+      <edge id="203" source="wiry" target="wispy" weight="0.023529" />
+      <edge id="204" source="wiry" target="wizard" weight="0.012048" />
+      <edge id="205" source="wiry" target="wiredrawn" weight="0.036585" />
+      <edge id="206" source="wiry" target="witch" weight="0.007752" />
+      <edge id="207" source="wiry" target="willful" weight="0.016393" />
+      <edge id="208" source="widget" target="wile" weight="0.012195" />
+      <edge id="209" source="withering" target="wise" weight="0.004348" />
+      <edge id="210" source="withering" target="wily" weight="0.006536" />
+      <edge id="211" source="withering" target="wilderness" weight="0.007463" />
+      <edge id="212" source="withering" target="wilt" weight="0.006579" />
+      <edge id="213" source="withering" target="wizard" weight="0.006897" />
+      <edge id="214" source="withering" target="withdrawn" weight="0.009569" />
+      <edge id="215" source="withering" target="wither" weight="0.006757" />
+      <edge id="216" source="withering" target="wistful" weight="0.015748" />
+      <edge id="217" source="withering" target="wizen" weight="0.006803" />
+      <edge id="218" source="withering" target="wild" weight="0.003012" />
+      <edge id="219" source="withering" target="wintry" weight="0.052239" />
+      <edge id="220" source="withering" target="wipe" weight="0.012658" />
+      <edge id="221" source="witch" target="wizard" weight="0.006897" />
+      <edge id="222" source="witch" target="wilderness" weight="0.007463" />
+      <edge id="223" source="witch" target="wingding" weight="0.00885" />
+      <edge id="224" source="witch" target="wit" weight="0.005025" />
+      <edge id="225" source="witch" target="wizen" weight="0.006803" />
+      <edge id="226" source="witch" target="witchery" weight="0.028369" />
+      <edge id="227" source="witch" target="witling" weight="0.007463" />
+      <edge id="228" source="witch" target="win" weight="0.019231" />
+      <edge id="229" source="witch" target="willful" weight="0.005405" />
+      <edge id="230" source="witch" target="wicked" weight="0.004032" />
+      <edge id="231" source="witch" target="wisecracker" weight="0.008621" />
+      <edge id="232" source="witch" target="wipe" weight="0.006289" />
+      <edge id="233" source="witch" target="wildcat" weight="0.082707" />
+      <edge id="234" source="witch" target="wisp" weight="0.007407" />
+      <edge id="235" source="witch" target="wither" weight="0.006757" />
+      <edge id="236" source="witch" target="wild" weight="0.012158" />
+      <edge id="237" source="witch" target="wile" weight="0.045161" />
+      <edge id="238" source="witch" target="wing" weight="0.003356" />
+      <edge id="239" source="witticism" target="wisdom" weight="0.337209" />
+      <edge id="240" source="witticism" target="will" weight="0.013889" />
+      <edge id="241" source="witticism" target="wink" weight="0.008264" />
+      <edge id="242" source="witticism" target="wittiness" weight="0.017241" />
+      <edge id="243" source="widening" target="win" weight="0.008772" />
+      <edge id="244" source="widening" target="wink" weight="0.008" />
+      <edge id="245" source="widening" target="width" weight="0.035294" />
+      <edge id="246" source="widening" target="wipe" weight="0.008696" />
+      <edge id="247" source="wildlife" target="wile" weight="0.014085" />
+      <edge id="248" source="wildlife" target="widespread" weight="0.014925" />
+      <edge id="249" source="windproof" target="wide" weight="0.006667" />
+      <edge id="250" source="windproof" target="wild" weight="0.004016" />
+      <edge id="251" source="windproof" target="windup" weight="0.017544" />
+      <edge id="252" source="windjammer" target="windbag" weight="0.375" />
+      <edge id="253" source="wither" target="withered" weight="0.019048" />
+      <edge id="254" source="wither" target="wilderness" weight="0.022222" />
+      <edge id="255" source="wither" target="wizen" weight="0.875" />
+      <edge id="256" source="wither" target="wile" weight="0.008475" />
+      <edge id="257" source="wither" target="wield" weight="0.011111" />
+      <edge id="258" source="wither" target="wigwag" weight="0.010526" />
+      <edge id="259" source="wither" target="wiredrawn" weight="0.009709" />
+      <edge id="260" source="wither" target="wince" weight="0.019048" />
+      <edge id="261" source="wither" target="wipe" weight="0.285714" />
+      <edge id="262" source="wither" target="wispy" weight="0.009524" />
+      <edge id="263" source="wither" target="wilt" weight="0.208791" />
+      <edge id="264" source="wither" target="wink" weight="0.016" />
+      <edge id="265" source="wither" target="withdraw" weight="0.051429" />
+      <edge id="266" source="wither" target="wild" weight="0.006944" />
+      <edge id="267" source="wither" target="wing" weight="0.011858" />
+      <edge id="268" source="wither" target="wind" weight="0.010239" />
+      <edge id="269" source="wittiness" target="willingness" weight="0.013333" />
+      <edge id="270" source="wittiness" target="wit" weight="0.036036" />
+      <edge id="271" source="wig" target="wipe" weight="0.014493" />
+      <edge id="272" source="wizard" target="wide" weight="0.005348" />
+      <edge id="273" source="wizard" target="wintry" weight="0.010638" />
+      <edge id="274" source="wizard" target="wise" weight="0.010929" />
+      <edge id="275" source="wizard" target="withhold" weight="0.010101" />
+      <edge id="276" source="wizard" target="widen" weight="0.009346" />
+      <edge id="277" source="wizard" target="withdrawn" weight="0.006098" />
+      <edge id="278" source="wizard" target="wicked" weight="0.015" />
+      <edge id="279" source="widen" target="wide" weight="0.005128" />
+      <edge id="280" source="widen" target="width" weight="0.021739" />
+      <edge id="281" source="widen" target="win" weight="0.008333" />
+      <edge id="282" source="widen" target="wink" weight="0.007634" />
+      <edge id="283" source="widen" target="wind" weight="0.006689" />
+      <edge id="284" source="wilderness" target="wisp" weight="0.025974" />
+      <edge id="285" source="wilderness" target="wizen" weight="0.022472" />
+      <edge id="286" source="wilderness" target="wipe" weight="0.009804" />
+      <edge id="287" source="wilderness" target="wind" weight="0.014388" />
+      <edge id="288" source="win" target="witchery" weight="0.009009" />
+      <edge id="289" source="win" target="wisdom" weight="0.007752" />
+      <edge id="290" source="win" target="wilt" weight="0.008403" />
+      <edge id="291" source="win" target="width" weight="0.010204" />
+      <edge id="292" source="win" target="wit" weight="0.006024" />
+      <edge id="293" source="win" target="withdraw" weight="0.005181" />
+      <edge id="294" source="win" target="wile" weight="0.040323" />
+      <edge id="295" source="win" target="wing" weight="0.007576" />
+      <edge id="296" source="win" target="wipe" weight="0.007937" />
+      <edge id="297" source="win" target="wind" weight="0.013245" />
+      <edge id="298" source="wit" target="wisecracker" weight="0.179245" />
+      <edge id="299" source="wit" target="wily" weight="0.006211" />
+      <edge id="300" source="wit" target="willingness" weight="0.030488" />
+      <edge id="301" source="wit" target="will" weight="0.01" />
+      <edge id="302" source="wit" target="width" weight="0.007194" />
+      <edge id="303" source="wit" target="wile" weight="0.036585" />
+      <edge id="304" source="withdrawn" target="withhold" weight="0.006098" />
+      <edge id="305" source="withdrawn" target="withdraw" weight="0.004082" />
+      <edge id="306" source="withdrawn" target="wild" weight="0.005714" />
+      <edge id="307" source="withdrawn" target="wintry" weight="0.019108" />
+      <edge id="308" source="withdrawn" target="with" weight="0.007407" />
+      <edge id="309" source="withdrawn" target="wind" weight="0.002801" />
+      <edge id="310" source="witchery" target="wile" weight="0.017699" />
+      <edge id="311" source="wishbone" target="wind" weight="0.003817" />
+      <edge id="312" source="wield" target="wisecracker" weight="0.017241" />
+      <edge id="313" source="wield" target="wink" weight="0.037037" />
+      <edge id="314" source="wield" target="wizen" weight="0.011236" />
+      <edge id="315" source="wield" target="wile" weight="0.019608" />
+      <edge id="316" source="wield" target="wind" weight="0.007168" />
+      <edge id="317" source="wicket" target="wide" weight="0.006623" />
+      <edge id="318" source="wicket" target="wispy" weight="0.015152" />
+      <edge id="319" source="wicket" target="wise" weight="0.006757" />
+      <edge id="320" source="wicket" target="wiredrawn" weight="0.015625" />
+      <edge id="321" source="wicket" target="wind" weight="0.007843" />
+      <edge id="322" source="wigwag" target="wisecracker" weight="0.015873" />
+      <edge id="323" source="wigwag" target="withered" weight="0.010417" />
+      <edge id="324" source="wigwag" target="wink" weight="0.21875" />
+      <edge id="325" source="wigwag" target="wizen" weight="0.010638" />
+      <edge id="326" source="wigwag" target="wind" weight="0.010601" />
+      <edge id="327" source="width" target="wisdom" weight="0.009804" />
+      <edge id="328" source="width" target="wireless" weight="0.017241" />
+      <edge id="329" source="width" target="widespread" weight="0.010309" />
+      <edge id="330" source="width" target="wing" weight="0.008439" />
+      <edge id="331" source="wicked" target="wide" weight="0.017483" />
+      <edge id="332" source="wicked" target="wispy" weight="0.004878" />
+      <edge id="333" source="wicked" target="wily" weight="0.014423" />
+      <edge id="334" source="wicked" target="wiredrawn" weight="0.004926" />
+      <edge id="335" source="wicked" target="willful" weight="0.004132" />
+      <edge id="336" source="wisdom" target="willingness" weight="0.007634" />
+      <edge id="337" source="wisdom" target="will" weight="0.018519" />
+      <edge id="338" source="wireless" target="will" weight="0.008333" />
+      <edge id="339" source="wireless" target="wink" weight="0.010417" />
+      <edge id="340" source="wireless" target="willful" weight="0.008929" />
+      <edge id="341" source="wireless" target="wind" weight="0.003774" />
+      <edge id="342" source="wiredrawn" target="wilted" weight="0.015385" />
+      <edge id="343" source="wiredrawn" target="withered" weight="0.039604" />
+      <edge id="344" source="wiredrawn" target="wispy" weight="0.6" />
+      <edge id="345" source="wiredrawn" target="wise" weight="0.005405" />
+      <edge id="346" source="wiredrawn" target="withdraw" weight="0.005525" />
+      <edge id="347" source="wiredrawn" target="wide" weight="0.016129" />
+      <edge id="348" source="wiredrawn" target="wily" weight="0.018692" />
+      <edge id="349" source="wiredrawn" target="wizen" weight="0.009804" />
+      <edge id="350" source="wiredrawn" target="wind" weight="0.003413" />
+      <edge id="351" source="wince" target="withdraw" weight="0.045198" />
+      <edge id="352" source="wince" target="wilt" weight="0.018349" />
+      <edge id="353" source="wince" target="withhold" weight="0.009709" />
+      <edge id="354" source="wince" target="wink" weight="0.015873" />
+      <edge id="355" source="wince" target="wizen" weight="0.019231" />
+      <edge id="356" source="wince" target="wile" weight="0.008403" />
+      <edge id="357" source="wince" target="wind" weight="0.003378" />
+      <edge id="358" source="with" target="wide" weight="0.006329" />
+      <edge id="359" source="wildcat" target="willful" weight="0.15" />
+      <edge id="360" source="wide" target="withered" weight="0.005236" />
+      <edge id="361" source="wide" target="widespread" weight="0.104972" />
+      <edge id="362" source="wide" target="winding" weight="0.010929" />
+      <edge id="363" source="wide" target="wispy" weight="0.015957" />
+      <edge id="364" source="wide" target="wise" weight="0.00738" />
+      <edge id="365" source="wide" target="wily" weight="0.010309" />
+      <edge id="366" source="wide" target="windup" weight="0.005495" />
+      <edge id="367" source="wide" target="without" weight="0.018519" />
+      <edge id="368" source="wide" target="withdraw" weight="0.003731" />
+      <edge id="369" source="wide" target="wild" weight="0.005362" />
+      <edge id="370" source="wide" target="wing" weight="0.0059" />
+      <edge id="371" source="wide" target="wind" weight="0.005277" />
+      <edge id="372" source="wise" target="wieldy" weight="0.02027" />
+      <edge id="373" source="wise" target="wily" weight="0.037634" />
+      <edge id="374" source="wise" target="willingness" weight="0.005025" />
+      <edge id="375" source="wise" target="windup" weight="0.005587" />
+      <edge id="376" source="wise" target="will" weight="0.013043" />
+      <edge id="377" source="wise" target="wink" weight="0.009662" />
+      <edge id="378" source="wise" target="wispy" weight="0.005348" />
+      <edge id="379" source="wise" target="wile" weight="0.005" />
+      <edge id="380" source="wise" target="willful" weight="0.013514" />
+      <edge id="381" source="wise" target="wind" weight="0.008" />
+      <edge id="382" source="wily" target="wispy" weight="0.009091" />
+      <edge id="383" source="wily" target="winding" weight="0.039604" />
+      <edge id="384" source="wily" target="wile" weight="0.00813" />
+      <edge id="385" source="wily" target="willful" weight="0.006803" />
+      <edge id="386" source="wily" target="wintry" weight="0.009804" />
+      <edge id="387" source="wily" target="widespread" weight="0.008403" />
+      <edge id="388" source="wily" target="wind" weight="0.003333" />
+      <edge id="389" source="windup" target="will" weight="0.014184" />
+      <edge id="390" source="windup" target="wing" weight="0.004049" />
+      <edge id="391" source="windup" target="wind" weight="0.003484" />
+      <edge id="392" source="wilt" target="withered" weight="0.009091" />
+      <edge id="393" source="wilt" target="wink" weight="0.007692" />
+      <edge id="394" source="wilt" target="wizen" weight="0.197802" />
+      <edge id="395" source="wilt" target="wipe" weight="0.052174" />
+      <edge id="396" source="wilt" target="wind" weight="0.094891" />
+      <edge id="397" source="will" target="willingness" weight="0.025157" />
+      <edge id="398" source="will" target="wind" weight="0.002941" />
+      <edge id="399" source="will" target="withdraw" weight="0.004386" />
+      <edge id="400" source="will" target="wile" weight="0.006135" />
+      <edge id="401" source="wisp" target="wispy" weight="0.01087" />
+      <edge id="402" source="wisp" target="witling" weight="0.012821" />
+      <edge id="403" source="wisp" target="wing" weight="0.0125" />
+      <edge id="404" source="wild" target="wisecracker" weight="0.003891" />
+      <edge id="405" source="wild" target="withered" weight="0.003448" />
+      <edge id="406" source="wild" target="wizen" weight="0.006969" />
+      <edge id="407" source="wild" target="willful" weight="0.058252" />
+      <edge id="408" source="wild" target="wipe" weight="0.003333" />
+      <edge id="409" source="wild" target="wine" weight="0.003891" />
+      <edge id="410" source="wile" target="wingding" weight="0.012048" />
+      <edge id="411" source="wile" target="wizen" weight="0.008547" />
+      <edge id="412" source="wile" target="wisecracker" weight="0.011628" />
+      <edge id="413" source="wile" target="wing" weight="0.007491" />
+      <edge id="414" source="wile" target="wink" weight="0.007194" />
+      <edge id="415" source="wile" target="withdraw" weight="0.005102" />
+      <edge id="416" source="wile" target="witling" weight="0.009615" />
+      <edge id="417" source="wile" target="wind" weight="0.009804" />
+      <edge id="418" source="withered" target="wilted" weight="0.15" />
+      <edge id="419" source="withered" target="wispy" weight="0.059406" />
+      <edge id="420" source="withered" target="wizen" weight="0.019231" />
+      <edge id="421" source="withered" target="withdraw" weight="0.005435" />
+      <edge id="422" source="withered" target="wipe" weight="0.008547" />
+      <edge id="423" source="withered" target="wine" weight="0.013514" />
+      <edge id="424" source="willingness" target="wiretap" weight="0.011494" />
+      <edge id="425" source="willingness" target="wink" weight="0.007246" />
+      <edge id="426" source="willingness" target="wind" weight="0.013158" />
+      <edge id="427" source="willingness" target="wing" weight="0.003745" />
+      <edge id="428" source="wingding" target="wind" weight="0.003846" />
+      <edge id="429" source="winding" target="wink" weight="0.008333" />
+      <edge id="430" source="winding" target="wind" weight="0.010453" />
+      <edge id="431" source="wizen" target="wipe" weight="0.288889" />
+      <edge id="432" source="wizen" target="wispy" weight="0.009615" />
+      <edge id="433" source="wizen" target="wink" weight="0.016129" />
+      <edge id="434" source="wizen" target="withdraw" weight="0.045714" />
+      <edge id="435" source="wizen" target="wing" weight="0.007905" />
+      <edge id="436" source="wizen" target="wind" weight="0.006826" />
+      <edge id="437" source="witling" target="wisecracker" weight="0.463415" />
+      <edge id="438" source="witling" target="wispy" weight="0.010989" />
+      <edge id="439" source="wipe" target="withdraw" weight="0.010363" />
+      <edge id="440" source="wipe" target="wing" weight="0.007547" />
+      <edge id="441" source="wipe" target="wind" weight="0.003268" />
+      <edge id="442" source="willful" target="widespread" weight="0.013333" />
+      <edge id="443" source="willful" target="wing" weight="0.003425" />
+      <edge id="444" source="willful" target="wind" weight="0.003012" />
+      <edge id="445" source="wilted" target="wispy" weight="0.030303" />
+      <edge id="446" source="widespread" target="wind" weight="0.003289" />
+      <edge id="447" source="wistful" target="wind" weight="0.003636" />
+      <edge id="448" source="wispy" target="withdraw" weight="0.005464" />
+      <edge id="449" source="wispy" target="wind" weight="0.00339" />
+      <edge id="450" source="wink" target="wing" weight="0.003623" />
+      <edge id="451" source="wink" target="wind" weight="0.039344" />
+      <edge id="452" source="withdraw" target="wind" weight="0.005376" />
+      <edge id="453" source="withdraw" target="wine" weight="0.006623" />
+      <edge id="454" source="wing" target="wind" weight="0.015945" />
+    </edges>
+  </graph>
+</gexf>

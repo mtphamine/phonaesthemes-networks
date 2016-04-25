@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="front" label="front" />
+      <node id="freight" label="freight" />
+      <node id="frostbite" label="frostbite" />
+      <node id="friable" label="friable" />
+      <node id="frisky" label="frisky" />
+      <node id="friendly" label="friendly" />
+      <node id="frontal" label="frontal" />
+      <node id="freezing" label="freezing" />
+      <node id="framework" label="framework" />
+      <node id="frigid" label="frigid" />
+      <node id="frailty" label="frailty" />
+      <node id="fretting" label="fretting" />
+      <node id="frightening" label="frightening" />
+      <node id="frontage" label="frontage" />
+      <node id="frayed" label="frayed" />
+      <node id="frankness" label="frankness" />
+      <node id="fragile" label="fragile" />
+      <node id="friendship" label="friendship" />
+      <node id="fragrant" label="fragrant" />
+      <node id="frame" label="frame" />
+      <node id="fragility" label="fragility" />
+      <node id="frosted" label="frosted" />
+      <node id="freeze" label="freeze" />
+      <node id="frankfurter" label="frankfurter" />
+      <node id="fraught" label="fraught" />
+      <node id="frontier" label="frontier" />
+      <node id="frustrated" label="frustrated" />
+      <node id="freed" label="freed" />
+      <node id="fricassee" label="fricassee" />
+      <node id="froufrou" label="froufrou" />
+      <node id="frank" label="frank" />
+      <node id="free" label="free" />
+      <node id="freeborn" label="freeborn" />
+      <node id="fretfulness" label="fretfulness" />
+      <node id="franchise" label="franchise" />
+      <node id="freeloader" label="freeloader" />
+      <node id="fret" label="fret" />
+      <node id="frolicsome" label="frolicsome" />
+      <node id="freedom" label="freedom" />
+      <node id="fringe" label="fringe" />
+      <node id="frightful" label="frightful" />
+      <node id="fraternity" label="fraternity" />
+      <node id="frizzle" label="frizzle" />
+      <node id="fractious" label="fractious" />
+      <node id="frumpish" label="frumpish" />
+      <node id="freakish" label="freakish" />
+      <node id="fretwork" label="fretwork" />
+      <node id="freemasonry" label="freemasonry" />
+      <node id="frosty" label="frosty" />
+      <node id="frenetic" label="frenetic" />
+      <node id="frazzle" label="frazzle" />
+      <node id="frazzled" label="frazzled" />
+      <node id="fructify" label="fructify" />
+      <node id="frill" label="frill" />
+      <node id="freebie" label="freebie" />
+      <node id="frisk" label="frisk" />
+      <node id="fry" label="fry" />
+      <node id="frenzied" label="frenzied" />
+      <node id="frost" label="frost" />
+      <node id="frowsty" label="frowsty" />
+      <node id="fretful" label="fretful" />
+      <node id="fraud" label="fraud" />
+      <node id="frozen" label="frozen" />
+      <node id="freely" label="freely" />
+      <node id="fruity" label="fruity" />
+      <node id="fraternization" label="fraternization" />
+      <node id="frowzy" label="frowzy" />
+      <node id="freak" label="freak" />
+      <node id="frantic" label="frantic" />
+      <node id="fraternal" label="fraternal" />
+      <node id="frippery" label="frippery" />
+      <node id="frothy" label="frothy" />
+      <node id="fribble" label="fribble" />
+      <node id="fruitlike" label="fruitlike" />
+      <node id="frequenter" label="frequenter" />
+      <node id="freighted" label="freighted" />
+      <node id="fracture" label="fracture" />
+      <node id="frail" label="frail" />
+      <node id="freighter" label="freighter" />
+      <node id="frolic" label="frolic" />
+      <node id="frivolous" label="frivolous" />
+      <node id="frilly" label="frilly" />
+      <node id="fruit" label="fruit" />
+      <node id="fracas" label="fracas" />
+      <node id="frangible" label="frangible" />
+      <node id="fray" label="fray" />
+      <node id="fraudulence" label="fraudulence" />
+      <node id="frontispiece" label="frontispiece" />
+    </nodes>
+    <edges>
+      <edge id="0" source="front" target="frontal" />
+      <edge id="1" source="front" target="frontage" />
+      <edge id="2" source="front" target="fringe" />
+      <edge id="3" source="front" target="fraud" />
+      <edge id="4" source="freight" target="freighter" />
+      <edge id="5" source="frostbite" target="frost" />
+      <edge id="6" source="frostbite" target="freeze" />
+      <edge id="7" source="friable" target="frangible" />
+      <edge id="8" source="friable" target="fragile" />
+      <edge id="9" source="friable" target="frail" />
+      <edge id="10" source="frisky" target="frolicsome" />
+      <edge id="11" source="friendly" target="fraternal" />
+      <edge id="12" source="frontal" target="frontage" />
+      <edge id="13" source="frontal" target="frontispiece" />
+      <edge id="14" source="frontal" target="frontier" />
+      <edge id="15" source="freezing" target="frosty" />
+      <edge id="16" source="freezing" target="frigid" />
+      <edge id="17" source="framework" target="frame" />
+      <edge id="18" source="frigid" target="frozen" />
+      <edge id="19" source="frigid" target="frustrated" />
+      <edge id="20" source="frigid" target="frosty" />
+      <edge id="21" source="frigid" target="frosted" />
+      <edge id="22" source="frailty" target="fragility" />
+      <edge id="23" source="fretting" target="fretful" />
+      <edge id="24" source="fretting" target="fretfulness" />
+      <edge id="25" source="frightening" target="frightful" />
+      <edge id="26" source="frontage" target="frontispiece" />
+      <edge id="27" source="frontage" target="frontier" />
+      <edge id="28" source="frayed" target="frazzled" />
+      <edge id="29" source="frankness" target="freedom" />
+      <edge id="30" source="fragile" target="frangible" />
+      <edge id="31" source="fragile" target="frail" />
+      <edge id="32" source="friendship" target="fraternity" />
+      <edge id="33" source="fragrant" target="fruity" />
+      <edge id="34" source="frame" target="fringe" />
+      <edge id="35" source="frosted" target="frozen" />
+      <edge id="36" source="frosted" target="frosty" />
+      <edge id="37" source="freeze" target="frost" />
+      <edge id="38" source="frankfurter" target="frank" />
+      <edge id="39" source="fraught" target="freighted" />
+      <edge id="40" source="frontier" target="frontispiece" />
+      <edge id="41" source="freed" target="free" />
+      <edge id="42" source="freed" target="freeborn" />
+      <edge id="43" source="fricassee" target="fry" />
+      <edge id="44" source="fricassee" target="frizzle" />
+      <edge id="45" source="froufrou" target="frippery" />
+      <edge id="46" source="frank" target="free" />
+      <edge id="47" source="free" target="freely" />
+      <edge id="48" source="free" target="freeborn" />
+      <edge id="49" source="free" target="freebie" />
+      <edge id="50" source="franchise" target="freedom" />
+      <edge id="51" source="freeloader" target="frequenter" />
+      <edge id="52" source="fret" target="fretwork" />
+      <edge id="53" source="fret" target="fray" />
+      <edge id="54" source="fret" target="fracture" />
+      <edge id="55" source="fret" target="frazzle" />
+      <edge id="56" source="fringe" target="frill" />
+      <edge id="57" source="fraternity" target="freemasonry" />
+      <edge id="58" source="fraternity" target="fraternization" />
+      <edge id="59" source="frizzle" target="fry" />
+      <edge id="60" source="fractious" target="fretful" />
+      <edge id="61" source="frumpish" target="frowzy" />
+      <edge id="62" source="freakish" target="freak" />
+      <edge id="63" source="freemasonry" target="fraternization" />
+      <edge id="64" source="frosty" target="frozen" />
+      <edge id="65" source="frenetic" target="frantic" />
+      <edge id="66" source="frenetic" target="frenzied" />
+      <edge id="67" source="frazzle" target="fray" />
+      <edge id="68" source="frazzle" target="fracture" />
+      <edge id="69" source="fructify" target="fruit" />
+      <edge id="70" source="frill" target="frippery" />
+      <edge id="71" source="frisk" target="frolic" />
+      <edge id="72" source="frenzied" target="frantic" />
+      <edge id="73" source="frowsty" target="frowzy" />
+      <edge id="74" source="fraud" target="fraudulence" />
+      <edge id="75" source="fruity" target="fruitlike" />
+      <edge id="76" source="frippery" target="fribble" />
+      <edge id="77" source="frothy" target="frilly" />
+      <edge id="78" source="frothy" target="frivolous" />
+      <edge id="79" source="frothy" target="fribble" />
+      <edge id="80" source="fribble" target="frivolous" />
+      <edge id="81" source="fracture" target="fray" />
+      <edge id="82" source="frail" target="frangible" />
+      <edge id="83" source="fracas" target="fray" />
+    </edges>
+  </graph>
+</gexf>

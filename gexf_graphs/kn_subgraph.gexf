@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="knob" label="knob" />
+      <node id="knowing" label="knowing" />
+      <node id="knurl" label="knurl" />
+      <node id="knowledgeable" label="knowledgeable" />
+      <node id="knotted" label="knotted" />
+      <node id="knobbed" label="knobbed" />
+      <node id="knitted" label="knitted" />
+      <node id="knee" label="knee" />
+      <node id="knuckle" label="knuckle" />
+      <node id="knobby" label="knobby" />
+      <node id="knot" label="knot" />
+      <node id="knoll" label="knoll" />
+      <node id="knotty" label="knotty" />
+      <node id="knickknack" label="knickknack" />
+      <node id="knack" label="knack" />
+      <node id="knit" label="knit" />
+      <node id="knurled" label="knurled" />
+    </nodes>
+    <edges>
+      <edge id="0" source="knob" target="knoll" />
+      <edge id="1" source="knob" target="knot" />
+      <edge id="2" source="knob" target="knurl" />
+      <edge id="3" source="knowing" target="knowledgeable" />
+      <edge id="4" source="knurl" target="knot" />
+      <edge id="5" source="knotted" target="knitted" />
+      <edge id="6" source="knotted" target="knotty" />
+      <edge id="7" source="knotted" target="knurled" />
+      <edge id="8" source="knotted" target="knobby" />
+      <edge id="9" source="knotted" target="knobbed" />
+      <edge id="10" source="knobbed" target="knotty" />
+      <edge id="11" source="knobbed" target="knurled" />
+      <edge id="12" source="knobbed" target="knobby" />
+      <edge id="13" source="knee" target="knuckle" />
+      <edge id="14" source="knobby" target="knotty" />
+      <edge id="15" source="knobby" target="knurled" />
+      <edge id="16" source="knot" target="knit" />
+      <edge id="17" source="knotty" target="knurled" />
+      <edge id="18" source="knickknack" target="knack" />
+    </edges>
+  </graph>
+</gexf>

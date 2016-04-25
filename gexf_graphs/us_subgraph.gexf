@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="usage" label="usage" />
+      <node id="use" label="use" />
+      <node id="usefulness" label="usefulness" />
+    </nodes>
+    <edges>
+      <edge id="0" source="usage" target="use" />
+      <edge id="1" source="use" target="usefulness" />
+    </edges>
+  </graph>
+</gexf>

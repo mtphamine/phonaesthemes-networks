@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="arousing" label="arousing" />
+      <node id="arrayed" label="arrayed">
+        <attvalues>
+          <attvalue for="0" value="2.83442070368" />
+        </attvalues>
+      </node>
+      <node id="aroma" label="aroma">
+        <attvalues>
+          <attvalue for="0" value="3.2350231595" />
+        </attvalues>
+      </node>
+      <node id="arabesque" label="arabesque">
+        <attvalues>
+          <attvalue for="0" value="2.12710479836" />
+        </attvalues>
+      </node>
+      <node id="aristocrat" label="aristocrat">
+        <attvalues>
+          <attvalue for="0" value="2.58994960133" />
+        </attvalues>
+      </node>
+      <node id="arrogation" label="arrogation" />
+      <node id="arrogant" label="arrogant">
+        <attvalues>
+          <attvalue for="0" value="3.39357520327" />
+        </attvalues>
+      </node>
+      <node id="argosy" label="argosy" />
+      <node id="arteriosclerosis" label="arteriosclerosis" />
+      <node id="aria" label="aria">
+        <attvalues>
+          <attvalue for="0" value="2.90200289135" />
+        </attvalues>
+      </node>
+      <node id="arid" label="arid" />
+      <node id="arrogance" label="arrogance">
+        <attvalues>
+          <attvalue for="0" value="3.32756326019" />
+        </attvalues>
+      </node>
+      <node id="arrest" label="arrest">
+        <attvalues>
+          <attvalue for="0" value="4.05334739217" />
+        </attvalues>
+      </node>
+      <node id="aristocratic" label="aristocratic">
+        <attvalues>
+          <attvalue for="0" value="3.07003786661" />
+        </attvalues>
+      </node>
+      <node id="artisan" label="artisan" />
+      <node id="artlessness" label="artlessness" />
+      <node id="artilleryman" label="artilleryman" />
+      <node id="armament" label="armament" />
+      <node id="around" label="around" />
+      <node id="articulation" label="articulation">
+        <attvalues>
+          <attvalue for="0" value="3.13924921757" />
+        </attvalues>
+      </node>
+      <node id="arboreal" label="arboreal">
+        <attvalues>
+          <attvalue for="0" value="2.06445798923" />
+        </attvalues>
+      </node>
+      <node id="ardor" label="ardor">
+        <attvalues>
+          <attvalue for="0" value="2.56110138365" />
+        </attvalues>
+      </node>
+      <node id="artery" label="artery">
+        <attvalues>
+          <attvalue for="0" value="3.31785448933" />
+        </attvalues>
+      </node>
+      <node id="arrange" label="arrange" />
+      <node id="artist" label="artist">
+        <attvalues>
+          <attvalue for="0" value="4.48964916287" />
+        </attvalues>
+      </node>
+      <node id="artfulness" label="artfulness" />
+      <node id="arrested" label="arrested">
+        <attvalues>
+          <attvalue for="0" value="4.1553967737" />
+        </attvalues>
+      </node>
+      <node id="architecture" label="architecture" />
+      <node id="arrow" label="arrow">
+        <attvalues>
+          <attvalue for="0" value="3.56014583985" />
+        </attvalues>
+      </node>
+      <node id="arbitrary" label="arbitrary" />
+      <node id="archaism" label="archaism">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="art" label="art" />
+      <node id="arc" label="arc" />
+      <node id="ardent" label="ardent" />
+      <node id="arrearage" label="arrearage" />
+      <node id="ark" label="ark">
+        <attvalues>
+          <attvalue for="0" value="3.18440748541" />
+        </attvalues>
+      </node>
+      <node id="archetype" label="archetype" />
+      <node id="arm" label="arm" />
+      <node id="areola" label="areola">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="armor" label="armor" />
+      <node id="artificial" label="artificial">
+        <attvalues>
+          <attvalue for="0" value="3.85570083084" />
+        </attvalues>
+      </node>
+      <node id="archer" label="archer" />
+      <node id="arcane" label="arcane">
+        <attvalues>
+          <attvalue for="0" value="2.95951837697" />
+        </attvalues>
+      </node>
+      <node id="arguable" label="arguable" />
+      <node id="arrival" label="arrival">
+        <attvalues>
+          <attvalue for="0" value="3.94978020836" />
+        </attvalues>
+      </node>
+      <node id="arraign" label="arraign">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="architectural" label="architectural" />
+      <node id="article" label="article" />
+      <node id="arena" label="arena" />
+      <node id="archway" label="archway">
+        <attvalues>
+          <attvalue for="0" value="2.58883172559" />
+        </attvalues>
+      </node>
+      <node id="area" label="area" />
+      <node id="argue" label="argue">
+        <attvalues>
+          <attvalue for="0" value="4.29497297472" />
+        </attvalues>
+      </node>
+      <node id="arterial" label="arterial" />
+      <node id="artistry" label="artistry" />
+      <node id="archetypical" label="archetypical">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="argumentative" label="argumentative" />
+      <node id="arsenal" label="arsenal" />
+      <node id="articulate" label="articulate">
+        <attvalues>
+          <attvalue for="0" value="3.54802069491" />
+        </attvalues>
+      </node>
+      <node id="arriviste" label="arriviste" />
+      <node id="artifice" label="artifice">
+        <attvalues>
+          <attvalue for="0" value="2.70500795933" />
+        </attvalues>
+      </node>
+      <node id="armada" label="armada">
+        <attvalues>
+          <attvalue for="0" value="2.54282542696" />
+        </attvalues>
+      </node>
+      <node id="array" label="array">
+        <attvalues>
+          <attvalue for="0" value="3.90832413928" />
+        </attvalues>
+      </node>
+      <node id="armed" label="armed" />
+      <node id="archangel" label="archangel" />
+      <node id="arcade" label="arcade" />
+      <node id="army" label="army">
+        <attvalues>
+          <attvalue for="0" value="4.70391871683" />
+        </attvalues>
+      </node>
+      <node id="archbishop" label="archbishop" />
+      <node id="arms" label="arms" />
+      <node id="arbitrator" label="arbitrator">
+        <attvalues>
+          <attvalue for="0" value="2.63144376901" />
+        </attvalues>
+      </node>
+      <node id="archives" label="archives">
+        <attvalues>
+          <attvalue for="0" value="3.61436983955" />
+        </attvalues>
+      </node>
+      <node id="armory" label="armory">
+        <attvalues>
+          <attvalue for="0" value="2.74973631557" />
+        </attvalues>
+      </node>
+      <node id="aristocracy" label="aristocracy" />
+      <node id="armistice" label="armistice">
+        <attvalues>
+          <attvalue for="0" value="2.61278385672" />
+        </attvalues>
+      </node>
+      <node id="artless" label="artless">
+        <attvalues>
+          <attvalue for="0" value="1.97772360529" />
+        </attvalues>
+      </node>
+      <node id="archbishopric" label="archbishopric">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="artifact" label="artifact" />
+      <node id="archaic" label="archaic">
+        <attvalues>
+          <attvalue for="0" value="2.97081161087" />
+        </attvalues>
+      </node>
+      <node id="armadillo" label="armadillo" />
+      <node id="arboretum" label="arboretum">
+        <attvalues>
+          <attvalue for="0" value="2.72015930341" />
+        </attvalues>
+      </node>
+      <node id="arranged" label="arranged">
+        <attvalues>
+          <attvalue for="0" value="3.93580945381" />
+        </attvalues>
+      </node>
+      <node id="arched" label="arched">
+        <attvalues>
+          <attvalue for="0" value="3.26670196688" />
+        </attvalues>
+      </node>
+      <node id="arrant" label="arrant" />
+      <node id="arouse" label="arouse" />
+      <node id="architect" label="architect">
+        <attvalues>
+          <attvalue for="0" value="3.78304557211" />
+        </attvalues>
+      </node>
+      <node id="arraignment" label="arraignment" />
+      <node id="arrive" label="arrive" />
+      <node id="armored" label="armored">
+        <attvalues>
+          <attvalue for="0" value="3.48925516837" />
+        </attvalues>
+      </node>
+      <node id="argument" label="argument" />
+      <node id="archipelago" label="archipelago">
+        <attvalues>
+          <attvalue for="0" value="2.87794695163" />
+        </attvalues>
+      </node>
+      <node id="arise" label="arise" />
+      <node id="arousal" label="arousal" />
+      <node id="arbor" label="arbor">
+        <attvalues>
+          <attvalue for="0" value="3.27715061396" />
+        </attvalues>
+      </node>
+      <node id="aroused" label="aroused">
+        <attvalues>
+          <attvalue for="0" value="3.20924684875" />
+        </attvalues>
+      </node>
+      <node id="arrangement" label="arrangement" />
+      <node id="arctic" label="arctic">
+        <attvalues>
+          <attvalue for="0" value="3.62613497864" />
+        </attvalues>
+      </node>
+      <node id="arbiter" label="arbiter">
+        <attvalues>
+          <attvalue for="0" value="2.75739602879" />
+        </attvalues>
+      </node>
+      <node id="arthritic" label="arthritic">
+        <attvalues>
+          <attvalue for="0" value="2.61489721603" />
+        </attvalues>
+      </node>
+      <node id="arch" label="arch" />
+      <node id="archery" label="archery">
+        <attvalues>
+          <attvalue for="0" value="2.84073323461" />
+        </attvalues>
+      </node>
+      <node id="arduous" label="arduous" />
+      <node id="arbitrate" label="arbitrate">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="artful" label="artful">
+        <attvalues>
+          <attvalue for="0" value="2.84447717575" />
+        </attvalues>
+      </node>
+      <node id="artistic" label="artistic" />
+      <node id="arrogate" label="arrogate">
+        <attvalues>
+          <attvalue for="0" value="1.38021124171" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="arousing" target="ardor" weight="0.016529" />
+      <edge id="1" source="arrayed" target="arranged" weight="0.285714" />
+      <edge id="2" source="arrayed" target="armored" weight="0.040816" />
+      <edge id="3" source="arrayed" target="arrested" weight="0.008475" />
+      <edge id="4" source="arrayed" target="arcane" weight="0.012195" />
+      <edge id="5" source="arrayed" target="ardent" weight="0.005405" />
+      <edge id="6" source="arrayed" target="array" weight="0.004386" />
+      <edge id="7" source="arrayed" target="armed" weight="0.05" />
+      <edge id="8" source="aroma" target="arena" weight="0.007194" />
+      <edge id="9" source="aroma" target="art" weight="0.009804" />
+      <edge id="10" source="aroma" target="area" weight="0.00495" />
+      <edge id="11" source="aroma" target="ardor" weight="0.005917" />
+      <edge id="12" source="aroma" target="artfulness" weight="0.007246" />
+      <edge id="13" source="aroma" target="artifact" weight="0.00813" />
+      <edge id="14" source="aroma" target="arrangement" weight="0.01049" />
+      <edge id="15" source="aroma" target="arouse" weight="0.006897" />
+      <edge id="16" source="aroma" target="architecture" weight="0.011765" />
+      <edge id="17" source="aroma" target="arrow" weight="0.009174" />
+      <edge id="18" source="aroma" target="artifice" weight="0.01227" />
+      <edge id="19" source="aroma" target="armory" weight="0.004926" />
+      <edge id="20" source="aroma" target="article" weight="0.004505" />
+      <edge id="21" source="aroma" target="artlessness" weight="0.011628" />
+      <edge id="22" source="aroma" target="argue" weight="0.006289" />
+      <edge id="23" source="aroma" target="archetype" weight="0.065574" />
+      <edge id="24" source="aroma" target="aristocracy" weight="0.008475" />
+      <edge id="25" source="aroma" target="arrange" weight="0.025157" />
+      <edge id="26" source="arabesque" target="artistry" weight="0.009174" />
+      <edge id="27" source="arabesque" target="arc" weight="0.012346" />
+      <edge id="28" source="arabesque" target="article" weight="0.009662" />
+      <edge id="29" source="arabesque" target="array" weight="0.012" />
+      <edge id="30" source="arabesque" target="archetype" weight="0.008696" />
+      <edge id="31" source="arabesque" target="arm" weight="0.004566" />
+      <edge id="32" source="arabesque" target="arcade" weight="0.009434" />
+      <edge id="33" source="arabesque" target="army" weight="0.007299" />
+      <edge id="34" source="arabesque" target="armor" weight="0.012821" />
+      <edge id="35" source="arabesque" target="aria" weight="0.013889" />
+      <edge id="36" source="arabesque" target="arms" weight="0.009524" />
+      <edge id="37" source="arabesque" target="arrangement" weight="0.026119" />
+      <edge id="38" source="arabesque" target="arrest" weight="0.008439" />
+      <edge id="39" source="arabesque" target="armory" weight="0.005291" />
+      <edge id="40" source="arabesque" target="articulation" weight="0.004926" />
+      <edge id="41" source="arabesque" target="artery" weight="0.008264" />
+      <edge id="42" source="arabesque" target="arch" weight="0.004016" />
+      <edge id="43" source="arabesque" target="artfulness" weight="0.008065" />
+      <edge id="44" source="arabesque" target="arouse" weight="0.007634" />
+      <edge id="45" source="arabesque" target="architecture" weight="0.025974" />
+      <edge id="46" source="arabesque" target="arrow" weight="0.010526" />
+      <edge id="47" source="arabesque" target="arrive" weight="0.013333" />
+      <edge id="48" source="aristocrat" target="article" weight="0.005714" />
+      <edge id="49" source="aristocrat" target="aristocratic" weight="0.02" />
+      <edge id="50" source="aristocrat" target="arraignment" weight="0.021739" />
+      <edge id="51" source="arrogation" target="articulation" weight="0.005263" />
+      <edge id="52" source="arrogation" target="arrogate" weight="0.044118" />
+      <edge id="53" source="arrogation" target="arraign" weight="0.029412" />
+      <edge id="54" source="arrogation" target="arrest" weight="0.004444" />
+      <edge id="55" source="arrogation" target="ardor" weight="0.014184" />
+      <edge id="56" source="arrogation" target="armory" weight="0.005682" />
+      <edge id="57" source="arrogation" target="array" weight="0.008403" />
+      <edge id="58" source="arrogant" target="arctic" weight="0.014925" />
+      <edge id="59" source="arrogant" target="archetypical" weight="0.008197" />
+      <edge id="60" source="arrogant" target="arduous" weight="0.0125" />
+      <edge id="61" source="arrogant" target="arid" weight="0.01005" />
+      <edge id="62" source="arrogant" target="arrogance" weight="0.006711" />
+      <edge id="63" source="arrogant" target="arm" weight="0.003676" />
+      <edge id="64" source="arrogant" target="arrest" weight="0.003436" />
+      <edge id="65" source="arrogant" target="aristocratic" weight="0.167702" />
+      <edge id="66" source="arrogant" target="arouse" weight="0.005435" />
+      <edge id="67" source="arrogant" target="artistic" weight="0.018868" />
+      <edge id="68" source="arrogant" target="arbitrary" weight="0.158824" />
+      <edge id="69" source="arrogant" target="ardent" weight="0.003817" />
+      <edge id="70" source="arrogant" target="article" weight="0.003831" />
+      <edge id="71" source="arrogant" target="arch" weight="0.013378" />
+      <edge id="72" source="arrogant" target="arrant" weight="0.030769" />
+      <edge id="73" source="argosy" target="army" weight="0.018692" />
+      <edge id="74" source="argosy" target="articulation" weight="0.005747" />
+      <edge id="75" source="argosy" target="aria" weight="0.023256" />
+      <edge id="76" source="argosy" target="artifice" weight="0.008264" />
+      <edge id="77" source="argosy" target="armada" weight="0.230769" />
+      <edge id="78" source="argosy" target="array" weight="0.004484" />
+      <edge id="79" source="arteriosclerosis" target="arrest" weight="0.015152" />
+      <edge id="80" source="arteriosclerosis" target="archaism" weight="0.035714" />
+      <edge id="81" source="arteriosclerosis" target="artifice" weight="0.008929" />
+      <edge id="82" source="aria" target="artistry" weight="0.013514" />
+      <edge id="83" source="aria" target="art" weight="0.00641" />
+      <edge id="84" source="aria" target="articulation" weight="0.005952" />
+      <edge id="85" source="aria" target="artfulness" weight="0.011236" />
+      <edge id="86" source="aria" target="argument" weight="0.007407" />
+      <edge id="87" source="aria" target="arrangement" weight="0.008403" />
+      <edge id="88" source="aria" target="area" weight="0.013158" />
+      <edge id="89" source="aria" target="architecture" weight="0.008197" />
+      <edge id="90" source="aria" target="artifice" weight="0.008696" />
+      <edge id="91" source="aria" target="article" weight="0.011628" />
+      <edge id="92" source="aria" target="array" weight="0.004608" />
+      <edge id="93" source="aria" target="argue" weight="0.009091" />
+      <edge id="94" source="aria" target="artistic" weight="0.013699" />
+      <edge id="95" source="arid" target="arctic" weight="0.02139" />
+      <edge id="96" source="arid" target="arrested" weight="0.01105" />
+      <edge id="97" source="arid" target="artificial" weight="0.006494" />
+      <edge id="98" source="arid" target="arrest" weight="0.003597" />
+      <edge id="99" source="arid" target="aristocratic" weight="0.005747" />
+      <edge id="100" source="arid" target="armory" weight="0.004367" />
+      <edge id="101" source="arid" target="artless" weight="0.012422" />
+      <edge id="102" source="arrogance" target="armor" weight="0.014925" />
+      <edge id="103" source="arrogance" target="ardor" weight="0.013986" />
+      <edge id="104" source="arrogance" target="armament" weight="0.010753" />
+      <edge id="105" source="arrogance" target="army" weight="0.007937" />
+      <edge id="106" source="arrest" target="artistry" weight="0.008368" />
+      <edge id="107" source="arrest" target="art" weight="0.003106" />
+      <edge id="108" source="arrest" target="armament" weight="0.008547" />
+      <edge id="109" source="arrest" target="arsenal" weight="0.004065" />
+      <edge id="110" source="arrest" target="articulate" weight="0.003145" />
+      <edge id="111" source="arrest" target="archipelago" weight="0.005155" />
+      <edge id="112" source="arrest" target="arouse" weight="0.003817" />
+      <edge id="113" source="arrest" target="artifice" weight="0.010753" />
+      <edge id="114" source="arrest" target="array" weight="0.002611" />
+      <edge id="115" source="arrest" target="arm" weight="0.014451" />
+      <edge id="116" source="arrest" target="arcade" weight="0.004219" />
+      <edge id="117" source="arrest" target="armor" weight="0.009615" />
+      <edge id="118" source="arrest" target="arrogate" weight="0.02381" />
+      <edge id="119" source="arrest" target="arrangement" weight="0.00495" />
+      <edge id="120" source="arrest" target="archives" weight="0.004115" />
+      <edge id="121" source="arrest" target="armory" weight="0.009434" />
+      <edge id="122" source="arrest" target="artilleryman" weight="0.005025" />
+      <edge id="123" source="arrest" target="arise" weight="0.008264" />
+      <edge id="124" source="arrest" target="articulation" weight="0.015152" />
+      <edge id="125" source="arrest" target="arctic" weight="0.003559" />
+      <edge id="126" source="arrest" target="artery" weight="0.007968" />
+      <edge id="127" source="arrest" target="arch" weight="0.002632" />
+      <edge id="128" source="arrest" target="arena" weight="0.003906" />
+      <edge id="129" source="arrest" target="artfulness" weight="0.007874" />
+      <edge id="130" source="arrest" target="arrested" weight="0.003663" />
+      <edge id="131" source="arrest" target="arbitrate" weight="0.01005" />
+      <edge id="132" source="arrest" target="archer" weight="0.013825" />
+      <edge id="133" source="arrest" target="arraignment" weight="0.004762" />
+      <edge id="134" source="arrest" target="argue" weight="0.007273" />
+      <edge id="135" source="aristocratic" target="aroused" weight="0.010204" />
+      <edge id="136" source="aristocratic" target="arctic" weight="0.00565" />
+      <edge id="137" source="aristocratic" target="archetypical" weight="0.010417" />
+      <edge id="138" source="aristocratic" target="arduous" weight="0.014925" />
+      <edge id="139" source="aristocratic" target="artistic" weight="0.022556" />
+      <edge id="140" source="aristocratic" target="arbitrary" weight="0.195804" />
+      <edge id="141" source="aristocratic" target="arch" weight="0.010949" />
+      <edge id="142" source="aristocratic" target="arrant" weight="0.008333" />
+      <edge id="143" source="artisan" target="artist" weight="0.333333" />
+      <edge id="144" source="artisan" target="arctic" weight="0.00813" />
+      <edge id="145" source="artisan" target="archetypical" weight="0.02381" />
+      <edge id="146" source="artisan" target="artful" weight="0.010309" />
+      <edge id="147" source="artisan" target="architect" weight="0.111111" />
+      <edge id="148" source="artisan" target="arbiter" weight="0.066667" />
+      <edge id="149" source="artlessness" target="ardor" weight="0.008333" />
+      <edge id="150" source="artilleryman" target="arrow" weight="0.017857" />
+      <edge id="151" source="artilleryman" target="artist" weight="0.010989" />
+      <edge id="152" source="armament" target="archery" weight="0.033898" />
+      <edge id="153" source="armament" target="archbishopric" weight="0.009091" />
+      <edge id="154" source="armament" target="army" weight="0.007463" />
+      <edge id="155" source="armament" target="artifice" weight="0.006803" />
+      <edge id="156" source="armament" target="armory" weight="0.010811" />
+      <edge id="157" source="armament" target="array" weight="0.008065" />
+      <edge id="158" source="around" target="arched" weight="0.025641" />
+      <edge id="159" source="around" target="areola" weight="0.018182" />
+      <edge id="160" source="around" target="articulation" weight="0.00565" />
+      <edge id="161" source="around" target="arrested" weight="0.017391" />
+      <edge id="162" source="around" target="arcane" weight="0.0125" />
+      <edge id="163" source="around" target="artery" weight="0.010526" />
+      <edge id="164" source="around" target="array" weight="0.004425" />
+      <edge id="165" source="around" target="artless" weight="0.010417" />
+      <edge id="166" source="articulation" target="arterial" weight="0.005435" />
+      <edge id="167" source="articulation" target="art" weight="0.003484" />
+      <edge id="168" source="articulation" target="argument" weight="0.003759" />
+      <edge id="169" source="articulation" target="articulate" weight="0.071698" />
+      <edge id="170" source="articulation" target="arc" weight="0.00565" />
+      <edge id="171" source="articulation" target="artery" weight="0.018692" />
+      <edge id="172" source="articulation" target="array" weight="0.133117" />
+      <edge id="173" source="articulation" target="arm" weight="0.025974" />
+      <edge id="174" source="articulation" target="arbor" weight="0.011696" />
+      <edge id="175" source="articulation" target="arcade" weight="0.015" />
+      <edge id="176" source="articulation" target="area" weight="0.021505" />
+      <edge id="177" source="articulation" target="arms" weight="0.004975" />
+      <edge id="178" source="articulation" target="arrangement" weight="0.016438" />
+      <edge id="179" source="articulation" target="arbitrator" weight="0.006024" />
+      <edge id="180" source="articulation" target="archives" weight="0.004808" />
+      <edge id="181" source="articulation" target="armory" weight="0.014184" />
+      <edge id="182" source="articulation" target="arrange" weight="0.016598" />
+      <edge id="183" source="articulation" target="aristocracy" weight="0.005" />
+      <edge id="184" source="articulation" target="artless" weight="0.004587" />
+      <edge id="185" source="articulation" target="arsenal" weight="0.004739" />
+      <edge id="186" source="articulation" target="article" weight="0.003289" />
+      <edge id="187" source="articulation" target="arch" weight="0.005814" />
+      <edge id="188" source="articulation" target="arched" weight="0.006211" />
+      <edge id="189" source="articulation" target="arena" weight="0.004525" />
+      <edge id="190" source="articulation" target="arranged" weight="0.005" />
+      <edge id="191" source="articulation" target="areola" weight="0.011364" />
+      <edge id="192" source="articulation" target="arrant" weight="0.003226" />
+      <edge id="193" source="articulation" target="army" weight="0.017391" />
+      <edge id="194" source="articulation" target="architecture" weight="0.003953" />
+      <edge id="195" source="arboreal" target="arrant" weight="0.00578" />
+      <edge id="196" source="ardor" target="arterial" weight="0.007353" />
+      <edge id="197" source="ardor" target="artistry" weight="0.006369" />
+      <edge id="198" source="ardor" target="arrearage" weight="0.015038" />
+      <edge id="199" source="ardor" target="art" weight="0.004184" />
+      <edge id="200" source="ardor" target="area" weight="0.004237" />
+      <edge id="201" source="ardor" target="artfulness" weight="0.005814" />
+      <edge id="202" source="ardor" target="article" weight="0.007843" />
+      <edge id="203" source="ardor" target="arouse" weight="0.016949" />
+      <edge id="204" source="ardor" target="arrangement" weight="0.003106" />
+      <edge id="205" source="ardor" target="army" weight="0.005405" />
+      <edge id="206" source="ardor" target="artifice" weight="0.005051" />
+      <edge id="207" source="ardor" target="arousal" weight="0.016529" />
+      <edge id="208" source="ardor" target="artery" weight="0.005917" />
+      <edge id="209" source="ardor" target="array" weight="0.003333" />
+      <edge id="210" source="ardor" target="archetype" weight="0.006135" />
+      <edge id="211" source="ardor" target="artistic" weight="0.00641" />
+      <edge id="212" source="artery" target="arena" weight="0.021898" />
+      <edge id="213" source="artery" target="arterial" weight="0.471429" />
+      <edge id="214" source="artery" target="arcade" weight="0.359551" />
+      <edge id="215" source="artery" target="archway" weight="0.020202" />
+      <edge id="216" source="artery" target="area" weight="0.00995" />
+      <edge id="217" source="artery" target="arms" weight="0.008403" />
+      <edge id="218" source="artery" target="arbitrator" weight="0.011905" />
+      <edge id="219" source="artery" target="arcane" weight="0.008333" />
+      <edge id="220" source="artery" target="artifice" weight="0.006098" />
+      <edge id="221" source="artery" target="armory" weight="0.004926" />
+      <edge id="222" source="artery" target="article" weight="0.004505" />
+      <edge id="223" source="artery" target="array" weight="0.011364" />
+      <edge id="224" source="artery" target="arch" weight="0.003802" />
+      <edge id="225" source="artery" target="arm" weight="0.008621" />
+      <edge id="226" source="artery" target="army" weight="0.006623" />
+      <edge id="227" source="artery" target="arrange" weight="0.012422" />
+      <edge id="228" source="arrange" target="arranged" weight="0.006897" />
+      <edge id="229" source="arrange" target="army" weight="0.017045" />
+      <edge id="230" source="arrange" target="artful" weight="0.006061" />
+      <edge id="231" source="arrange" target="arcane" weight="0.006803" />
+      <edge id="232" source="arrange" target="articulate" weight="0.013274" />
+      <edge id="233" source="arrange" target="arrow" weight="0.007353" />
+      <edge id="234" source="arrange" target="artifice" weight="0.005236" />
+      <edge id="235" source="arrange" target="armory" weight="0.008734" />
+      <edge id="236" source="arrange" target="array" weight="0.097015" />
+      <edge id="237" source="artist" target="arctic" weight="0.00578" />
+      <edge id="238" source="artist" target="archetypical" weight="0.021978" />
+      <edge id="239" source="artist" target="artful" weight="0.006803" />
+      <edge id="240" source="artist" target="archer" weight="0.018182" />
+      <edge id="241" source="artist" target="architect" weight="0.368421" />
+      <edge id="242" source="artist" target="artistic" weight="0.03937" />
+      <edge id="243" source="artist" target="article" weight="0.004329" />
+      <edge id="244" source="artist" target="arbiter" weight="0.042553" />
+      <edge id="245" source="artist" target="arch" weight="0.00738" />
+      <edge id="246" source="artfulness" target="archbishopric" weight="0.015504" />
+      <edge id="247" source="artfulness" target="artful" weight="0.007092" />
+      <edge id="248" source="artfulness" target="artifice" weight="0.183099" />
+      <edge id="249" source="artfulness" target="array" weight="0.007463" />
+      <edge id="250" source="arrested" target="arena" weight="0.00625" />
+      <edge id="251" source="arrested" target="arranged" weight="0.007194" />
+      <edge id="252" source="arrested" target="area" weight="0.004484" />
+      <edge id="253" source="arrested" target="arduous" weight="0.006993" />
+      <edge id="254" source="arrested" target="arrangement" weight="0.003236" />
+      <edge id="255" source="arrested" target="arriviste" weight="0.008" />
+      <edge id="256" source="arrested" target="archaic" weight="0.008772" />
+      <edge id="257" source="arrested" target="argumentative" weight="0.010309" />
+      <edge id="258" source="arrested" target="artistic" weight="0.014085" />
+      <edge id="259" source="arrested" target="article" weight="0.004115" />
+      <edge id="260" source="arrested" target="armed" weight="0.008264" />
+      <edge id="261" source="arrested" target="arm" weight="0.003937" />
+      <edge id="262" source="arrested" target="artless" weight="0.012821" />
+      <edge id="263" source="architecture" target="archery" weight="0.00885" />
+      <edge id="264" source="architecture" target="architect" weight="0.00641" />
+      <edge id="265" source="architecture" target="artifice" weight="0.036082" />
+      <edge id="266" source="architecture" target="armory" weight="0.004184" />
+      <edge id="267" source="architecture" target="array" weight="0.041237" />
+      <edge id="268" source="architecture" target="army" weight="0.005348" />
+      <edge id="269" source="arrow" target="army" weight="0.008" />
+      <edge id="270" source="arrow" target="arch" weight="0.008475" />
+      <edge id="271" source="arrow" target="argument" weight="0.006329" />
+      <edge id="272" source="arrow" target="articulate" weight="0.005714" />
+      <edge id="273" source="arrow" target="archer" weight="0.013158" />
+      <edge id="274" source="arrow" target="armadillo" weight="0.04" />
+      <edge id="275" source="arrow" target="arms" weight="0.010753" />
+      <edge id="276" source="arrow" target="armory" weight="0.00565" />
+      <edge id="277" source="arrow" target="argue" weight="0.007519" />
+      <edge id="278" source="arrow" target="archetype" weight="0.009709" />
+      <edge id="279" source="arrow" target="arm" weight="0.004831" />
+      <edge id="280" source="arbitrary" target="archetypical" weight="0.009524" />
+      <edge id="281" source="arbitrary" target="arctic" weight="0.005376" />
+      <edge id="282" source="arbitrary" target="artless" weight="0.019231" />
+      <edge id="283" source="archaism" target="article" weight="0.005988" />
+      <edge id="284" source="archaism" target="archaic" weight="0.026316" />
+      <edge id="285" source="archaism" target="artifact" weight="0.210526" />
+      <edge id="286" source="art" target="archery" weight="0.006803" />
+      <edge id="287" source="art" target="archbishopric" weight="0.005076" />
+      <edge id="288" source="art" target="artful" weight="0.004808" />
+      <edge id="289" source="art" target="artifice" weight="0.263441" />
+      <edge id="290" source="art" target="armory" weight="0.007353" />
+      <edge id="291" source="art" target="array" weight="0.002976" />
+      <edge id="292" source="arc" target="arched" weight="0.025641" />
+      <edge id="293" source="arc" target="areola" weight="0.037037" />
+      <edge id="294" source="arc" target="archway" weight="0.016667" />
+      <edge id="295" source="arc" target="army" weight="0.009009" />
+      <edge id="296" source="arc" target="artful" weight="0.010204" />
+      <edge id="297" source="arc" target="arbitrator" weight="0.022727" />
+      <edge id="298" source="arc" target="architect" weight="0.0125" />
+      <edge id="299" source="arc" target="articulate" weight="0.006211" />
+      <edge id="300" source="arc" target="artifice" weight="0.008065" />
+      <edge id="301" source="arc" target="armory" weight="0.006135" />
+      <edge id="302" source="arc" target="array" weight="0.004425" />
+      <edge id="303" source="arc" target="artless" weight="0.010417" />
+      <edge id="304" source="ardent" target="arranged" weight="0.004854" />
+      <edge id="305" source="ardent" target="arctic" weight="0.007968" />
+      <edge id="306" source="ardent" target="artful" weight="0.004425" />
+      <edge id="307" source="ardent" target="archaic" weight="0.005525" />
+      <edge id="308" source="ardent" target="artifice" weight="0.003968" />
+      <edge id="309" source="ardent" target="aroused" weight="0.029586" />
+      <edge id="310" source="ardent" target="artless" weight="0.008969" />
+      <edge id="311" source="ark" target="armory" weight="0.006623" />
+      <edge id="312" source="ark" target="arch" weight="0.004739" />
+      <edge id="313" source="ark" target="arms" weight="0.014925" />
+      <edge id="314" source="archetype" target="arranged" weight="0.008929" />
+      <edge id="315" source="archetype" target="archetypical" weight="0.012987" />
+      <edge id="316" source="archetype" target="array" weight="0.019531" />
+      <edge id="317" source="arm" target="arbor" weight="0.005319" />
+      <edge id="318" source="arm" target="archway" weight="0.005051" />
+      <edge id="319" source="arm" target="army" weight="0.01626" />
+      <edge id="320" source="arm" target="articulate" weight="0.020408" />
+      <edge id="321" source="arm" target="armada" weight="0.005814" />
+      <edge id="322" source="arm" target="archives" weight="0.008969" />
+      <edge id="323" source="arm" target="artifice" weight="0.003817" />
+      <edge id="324" source="arm" target="armory" weight="0.02027" />
+      <edge id="325" source="arm" target="array" weight="0.019553" />
+      <edge id="326" source="arm" target="argue" weight="0.003891" />
+      <edge id="327" source="areola" target="arena" weight="0.06383" />
+      <edge id="328" source="areola" target="arched" weight="0.025641" />
+      <edge id="329" source="areola" target="area" weight="0.01875" />
+      <edge id="330" source="areola" target="arms" weight="0.052632" />
+      <edge id="331" source="areola" target="armory" weight="0.031447" />
+      <edge id="332" source="areola" target="array" weight="0.008889" />
+      <edge id="333" source="areola" target="artless" weight="0.010417" />
+      <edge id="334" source="areola" target="arch" weight="0.009009" />
+      <edge id="335" source="armor" target="archbishopric" weight="0.011905" />
+      <edge id="336" source="armor" target="army" weight="0.009259" />
+      <edge id="337" source="armor" target="articulate" weight="0.006329" />
+      <edge id="338" source="armor" target="armory" weight="0.00625" />
+      <edge id="339" source="armor" target="array" weight="0.004484" />
+      <edge id="340" source="artificial" target="arrant" weight="0.009091" />
+      <edge id="341" source="artificial" target="arduous" weight="0.017544" />
+      <edge id="342" source="artificial" target="artful" weight="0.015385" />
+      <edge id="343" source="archer" target="army" weight="0.008475" />
+      <edge id="344" source="arcane" target="arena" weight="0.008065" />
+      <edge id="345" source="arcane" target="arterial" weight="0.011494" />
+      <edge id="346" source="arcane" target="arranged" weight="0.009709" />
+      <edge id="347" source="arcane" target="arrant" weight="0.009434" />
+      <edge id="348" source="arcane" target="arduous" weight="0.009346" />
+      <edge id="349" source="arcane" target="artful" weight="0.00813" />
+      <edge id="350" source="arcane" target="arch" weight="0.004032" />
+      <edge id="351" source="arguable" target="argue" weight="0.009346" />
+      <edge id="352" source="arrival" target="arriviste" weight="0.104167" />
+      <edge id="353" source="arrival" target="arrive" weight="0.027027" />
+      <edge id="354" source="arrival" target="arrangement" weight="0.004237" />
+      <edge id="355" source="arrival" target="arise" weight="0.013514" />
+      <edge id="356" source="arraign" target="arrant" weight="0.005291" />
+      <edge id="357" source="arraign" target="arms" weight="0.0125" />
+      <edge id="358" source="arraign" target="artifact" weight="0.011905" />
+      <edge id="359" source="arraign" target="arraignment" weight="0.078431" />
+      <edge id="360" source="arraign" target="armory" weight="0.006098" />
+      <edge id="361" source="arraign" target="article" weight="0.115152" />
+      <edge id="362" source="arraign" target="array" weight="0.004405" />
+      <edge id="363" source="arraign" target="argue" weight="0.016807" />
+      <edge id="364" source="architectural" target="arranged" weight="0.018182" />
+      <edge id="365" source="article" target="army" weight="0.017021" />
+      <edge id="366" source="article" target="arthritic" weight="0.005525" />
+      <edge id="367" source="article" target="articulate" weight="0.006969" />
+      <edge id="368" source="article" target="architect" weight="0.004831" />
+      <edge id="369" source="article" target="artifice" weight="0.003984" />
+      <edge id="370" source="article" target="armory" weight="0.003448" />
+      <edge id="371" source="article" target="array" weight="0.002833" />
+      <edge id="372" source="article" target="argue" weight="0.012295" />
+      <edge id="373" source="arena" target="archbishopric" weight="0.023256" />
+      <edge id="374" source="arena" target="arched" weight="0.012048" />
+      <edge id="375" source="arena" target="archives" weight="0.007692" />
+      <edge id="376" source="arena" target="arboretum" weight="0.021053" />
+      <edge id="377" source="arena" target="artifice" weight="0.005952" />
+      <edge id="378" source="arena" target="armory" weight="0.024631" />
+      <edge id="379" source="arena" target="array" weight="0.003704" />
+      <edge id="380" source="arena" target="artless" weight="0.007143" />
+      <edge id="381" source="archway" target="arterial" weight="0.014925" />
+      <edge id="382" source="archway" target="arcade" weight="0.146667" />
+      <edge id="383" source="archway" target="arsenal" weight="0.010638" />
+      <edge id="384" source="archway" target="articulate" weight="0.006024" />
+      <edge id="385" source="archway" target="archives" weight="0.010989" />
+      <edge id="386" source="archway" target="armory" weight="0.005952" />
+      <edge id="387" source="archway" target="artful" weight="0.009709" />
+      <edge id="388" source="archway" target="arch" weight="0.050459" />
+      <edge id="389" source="area" target="army" weight="0.013889" />
+      <edge id="390" source="area" target="archbishopric" weight="0.026316" />
+      <edge id="391" source="area" target="arched" weight="0.006849" />
+      <edge id="392" source="area" target="articulate" weight="0.003731" />
+      <edge id="393" source="area" target="armada" weight="0.007092" />
+      <edge id="394" source="area" target="architect" weight="0.005348" />
+      <edge id="395" source="area" target="artifice" weight="0.0131" />
+      <edge id="396" source="area" target="armory" weight="0.011194" />
+      <edge id="397" source="area" target="array" weight="0.037267" />
+      <edge id="398" source="area" target="artless" weight="0.004926" />
+      <edge id="399" source="argue" target="arrive" weight="0.00885" />
+      <edge id="400" source="argue" target="archbishopric" weight="0.006623" />
+      <edge id="401" source="argue" target="arrant" weight="0.003968" />
+      <edge id="402" source="argue" target="arduous" weight="0.006849" />
+      <edge id="403" source="argue" target="argument" weight="0.045" />
+      <edge id="404" source="argue" target="articulate" weight="0.031963" />
+      <edge id="405" source="argue" target="arsenal" weight="0.006536" />
+      <edge id="406" source="argue" target="arouse" weight="0.005917" />
+      <edge id="407" source="argue" target="archives" weight="0.006667" />
+      <edge id="408" source="argue" target="arise" weight="0.006667" />
+      <edge id="409" source="argue" target="armory" weight="0.004405" />
+      <edge id="410" source="argue" target="array" weight="0.010417" />
+      <edge id="411" source="arterial" target="army" weight="0.008475" />
+      <edge id="412" source="arterial" target="armory" weight="0.005882" />
+      <edge id="413" source="arterial" target="array" weight="0.008621" />
+      <edge id="414" source="artistry" target="archbishopric" weight="0.017544" />
+      <edge id="415" source="artistry" target="artful" weight="0.007937" />
+      <edge id="416" source="artistry" target="artifice" weight="0.0625" />
+      <edge id="417" source="artistry" target="array" weight="0.007905" />
+      <edge id="418" source="archetypical" target="armed" weight="0.042553" />
+      <edge id="419" source="archetypical" target="arrant" weight="0.005682" />
+      <edge id="420" source="archetypical" target="arrangement" weight="0.004237" />
+      <edge id="421" source="archetypical" target="arbiter" weight="0.027778" />
+      <edge id="422" source="archetypical" target="artistic" weight="0.044118" />
+      <edge id="423" source="arsenal" target="arbor" weight="0.011905" />
+      <edge id="424" source="arsenal" target="archives" weight="0.592105" />
+      <edge id="425" source="arsenal" target="arboretum" weight="0.011628" />
+      <edge id="426" source="arsenal" target="armory" weight="0.445255" />
+      <edge id="427" source="arsenal" target="array" weight="0.003846" />
+      <edge id="428" source="articulate" target="array" weight="0.009091" />
+      <edge id="429" source="articulate" target="arbor" weight="0.012903" />
+      <edge id="430" source="articulate" target="arcade" weight="0.005376" />
+      <edge id="431" source="articulate" target="army" weight="0.009259" />
+      <edge id="432" source="articulate" target="arrangement" weight="0.002825" />
+      <edge id="433" source="articulate" target="armory" weight="0.015038" />
+      <edge id="434" source="articulate" target="artless" weight="0.00995" />
+      <edge id="435" source="articulate" target="arch" weight="0.01227" />
+      <edge id="436" source="articulate" target="arrant" weight="0.003401" />
+      <edge id="437" source="articulate" target="artful" weight="0.009852" />
+      <edge id="438" source="articulate" target="arouse" weight="0.004739" />
+      <edge id="439" source="articulate" target="artistic" weight="0.005319" />
+      <edge id="440" source="artifice" target="argument" weight="0.038835" />
+      <edge id="441" source="artifice" target="arouse" weight="0.005747" />
+      <edge id="442" source="artifice" target="arcade" weight="0.006711" />
+      <edge id="443" source="artifice" target="arrangement" weight="0.022508" />
+      <edge id="444" source="artifice" target="armory" weight="0.00431" />
+      <edge id="445" source="artifice" target="artistic" weight="0.006623" />
+      <edge id="446" source="artifice" target="artifact" weight="0.006579" />
+      <edge id="447" source="artifice" target="arch" weight="0.010345" />
+      <edge id="448" source="artifice" target="arrive" weight="0.008475" />
+      <edge id="449" source="artifice" target="artful" weight="0.012048" />
+      <edge id="450" source="artifice" target="artless" weight="0.006061" />
+      <edge id="451" source="armada" target="arrangement" weight="0.004405" />
+      <edge id="452" source="armada" target="army" weight="0.022472" />
+      <edge id="453" source="array" target="argument" weight="0.009585" />
+      <edge id="454" source="array" target="arouse" weight="0.003623" />
+      <edge id="455" source="array" target="arise" weight="0.003891" />
+      <edge id="456" source="array" target="arms" weight="0.008032" />
+      <edge id="457" source="array" target="army" weight="0.040441" />
+      <edge id="458" source="array" target="arrangement" weight="0.096606" />
+      <edge id="459" source="array" target="arbitrator" weight="0.004651" />
+      <edge id="460" source="array" target="arcade" weight="0.003984" />
+      <edge id="461" source="array" target="archives" weight="0.003891" />
+      <edge id="462" source="array" target="armory" weight="0.015152" />
+      <edge id="463" source="array" target="aristocracy" weight="0.004016" />
+      <edge id="464" source="array" target="armistice" weight="0.004975" />
+      <edge id="465" source="array" target="artistic" weight="0.003953" />
+      <edge id="466" source="array" target="artless" weight="0.003745" />
+      <edge id="467" source="array" target="arch" weight="0.002538" />
+      <edge id="468" source="array" target="arrive" weight="0.009132" />
+      <edge id="469" source="array" target="arranged" weight="0.004016" />
+      <edge id="470" source="array" target="arched" weight="0.004762" />
+      <edge id="471" source="array" target="arrant" weight="0.002786" />
+      <edge id="472" source="armed" target="arranged" weight="0.063291" />
+      <edge id="473" source="armed" target="armored" weight="0.038462" />
+      <edge id="474" source="armed" target="artful" weight="0.009709" />
+      <edge id="475" source="archangel" target="archbishopric" weight="0.015625" />
+      <edge id="476" source="arcade" target="arbor" weight="0.013333" />
+      <edge id="477" source="arcade" target="army" weight="0.007353" />
+      <edge id="478" source="arcade" target="artful" weight="0.00813" />
+      <edge id="479" source="arcade" target="arbitrator" weight="0.014493" />
+      <edge id="480" source="arcade" target="archives" weight="0.009009" />
+      <edge id="481" source="arcade" target="armory" weight="0.005319" />
+      <edge id="482" source="army" target="arrangement" weight="0.009934" />
+      <edge id="483" source="army" target="arms" weight="0.007407" />
+      <edge id="484" source="army" target="armory" weight="0.004566" />
+      <edge id="485" source="army" target="aristocracy" weight="0.007463" />
+      <edge id="486" source="army" target="arch" weight="0.003584" />
+      <edge id="487" source="army" target="arrant" weight="0.004098" />
+      <edge id="488" source="archbishop" target="architect" weight="0.014706" />
+      <edge id="489" source="arms" target="archbishopric" weight="0.009009" />
+      <edge id="490" source="arms" target="archipelago" weight="0.016393" />
+      <edge id="491" source="arms" target="archives" weight="0.009091" />
+      <edge id="492" source="arms" target="armory" weight="0.333333" />
+      <edge id="493" source="arbitrator" target="arbitrate" weight="0.137931" />
+      <edge id="494" source="arbitrator" target="architect" weight="0.014493" />
+      <edge id="495" source="arbitrator" target="arbiter" weight="0.225806" />
+      <edge id="496" source="archives" target="arbor" weight="0.012346" />
+      <edge id="497" source="archives" target="arboretum" weight="0.02439" />
+      <edge id="498" source="archives" target="armory" weight="0.3" />
+      <edge id="499" source="archives" target="arch" weight="0.007905" />
+      <edge id="500" source="armory" target="argument" weight="0.007968" />
+      <edge id="501" source="armory" target="archipelago" weight="0.006897" />
+      <edge id="502" source="armory" target="arouse" weight="0.004695" />
+      <edge id="503" source="armory" target="arbor" weight="0.012739" />
+      <edge id="504" source="armory" target="arrangement" weight="0.005634" />
+      <edge id="505" source="armory" target="archbishopric" weight="0.005128" />
+      <edge id="506" source="armory" target="arboretum" weight="0.00625" />
+      <edge id="507" source="armory" target="arch" weight="0.012195" />
+      <edge id="508" source="armory" target="arranged" weight="0.005376" />
+      <edge id="509" source="armory" target="arraignment" weight="0.006211" />
+      <edge id="510" source="aristocracy" target="archbishopric" weight="0.275862" />
+      <edge id="511" source="armistice" target="arrangement" weight="0.004484" />
+      <edge id="512" source="artless" target="arched" weight="0.0125" />
+      <edge id="513" source="artless" target="arctic" weight="0.006061" />
+      <edge id="514" source="artless" target="artistic" weight="0.016393" />
+      <edge id="515" source="artless" target="arch" weight="0.003788" />
+      <edge id="516" source="artless" target="arrant" weight="0.013216" />
+      <edge id="517" source="artifact" target="archaic" weight="0.012346" />
+      <edge id="518" source="archaic" target="arrant" weight="0.005376" />
+      <edge id="519" source="arranged" target="arch" weight="0.008163" />
+      <edge id="520" source="arranged" target="arrant" weight="0.004739" />
+      <edge id="521" source="arranged" target="artful" weight="0.016667" />
+      <edge id="522" source="arranged" target="arrangement" weight="0.00369" />
+      <edge id="523" source="arched" target="arch" weight="0.004831" />
+      <edge id="524" source="arrant" target="arthritic" weight="0.005348" />
+      <edge id="525" source="architect" target="argument" weight="0.005917" />
+      <edge id="526" source="architect" target="arch" weight="0.004032" />
+      <edge id="527" source="argument" target="arthritic" weight="0.006993" />
+      <edge id="528" source="arousal" target="archery" weight="0.033333" />
+      <edge id="529" source="arrangement" target="arrogate" weight="0.004" />
+      <edge id="530" source="arrangement" target="arbitrate" weight="0.004237" />
+      <edge id="531" source="arctic" target="arduous" weight="0.013333" />
+      <edge id="532" source="arctic" target="artful" weight="0.005988" />
+      <edge id="533" source="arctic" target="arch" weight="0.003425" />
+      <edge id="534" source="arbiter" target="arbitrate" weight="0.088235" />
+      <edge id="535" source="arbiter" target="artistic" weight="0.027027" />
+      <edge id="536" source="arch" target="artful" weight="0.202703" />
+      <edge id="537" source="arduous" target="artful" weight="0.008" />
+      <edge id="538" source="artful" target="artistic" weight="0.095652" />
+    </edges>
+  </graph>
+</gexf>

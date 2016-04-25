@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ejaculation" label="ejaculation">
+        <attvalues>
+          <attvalue for="0" value="2.32633586093" />
+        </attvalues>
+      </node>
+      <node id="ejection" label="ejection" />
+      <node id="ejaculate" label="ejaculate">
+        <attvalues>
+          <attvalue for="0" value="2.07918124605" />
+        </attvalues>
+      </node>
+      <node id="eject" label="eject" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ejaculation" target="ejection" weight="0.148148" />
+      <edge id="1" source="ejaculation" target="ejaculate" weight="0.121212" />
+      <edge id="2" source="ejaculation" target="eject" weight="0.020202" />
+      <edge id="3" source="ejection" target="ejaculate" weight="0.016129" />
+      <edge id="4" source="ejaculate" target="eject" weight="0.073684" />
+    </edges>
+  </graph>
+</gexf>

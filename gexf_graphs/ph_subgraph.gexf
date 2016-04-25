@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="phenomenon" label="phenomenon" />
+      <node id="phosphorescence" label="phosphorescence" />
+      <node id="phantomlike" label="phantomlike" />
+      <node id="phoneme" label="phoneme" />
+      <node id="phosphor" label="phosphor" />
+      <node id="phrase" label="phrase" />
+      <node id="pharisaical" label="pharisaical" />
+      <node id="philological" label="philological" />
+      <node id="phantom" label="phantom" />
+      <node id="phonemic" label="phonemic" />
+      <node id="phantasm" label="phantasm" />
+      <node id="phonetics" label="phonetics" />
+      <node id="philosopher" label="philosopher" />
+      <node id="pharmacy" label="pharmacy" />
+      <node id="physic" label="physic" />
+      <node id="photo" label="photo" />
+      <node id="philander" label="philander" />
+      <node id="philologist" label="philologist" />
+      <node id="philology" label="philology" />
+      <node id="pharisaic" label="pharisaic" />
+      <node id="pharmacology" label="pharmacology" />
+      <node id="photography" label="photography" />
+      <node id="philosophy" label="philosophy" />
+      <node id="philanderer" label="philanderer" />
+      <node id="phony" label="phony" />
+      <node id="phone" label="phone" />
+      <node id="photoengraving" label="photoengraving" />
+      <node id="photographic" label="photographic" />
+      <node id="physiology" label="physiology" />
+      <node id="phraseology" label="phraseology" />
+      <node id="phantasmagoric" label="phantasmagoric" />
+      <node id="photograph" label="photograph" />
+      <node id="phantasmagoria" label="phantasmagoria" />
+      <node id="physical" label="physical" />
+      <node id="phrasing" label="phrasing" />
+      <node id="photogenic" label="photogenic" />
+      <node id="phonic" label="phonic" />
+      <node id="phonate" label="phonate" />
+      <node id="phonology" label="phonology" />
+      <node id="phantasmal" label="phantasmal" />
+      <node id="pharisee" label="pharisee" />
+      <node id="phenomenal" label="phenomenal" />
+      <node id="phonetic" label="phonetic" />
+      <node id="phonetician" label="phonetician" />
+      <node id="pharyngeal" label="pharyngeal" />
+      <node id="photocopy" label="photocopy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="phenomenon" target="phantom" />
+      <edge id="1" source="phosphorescence" target="phosphor" />
+      <edge id="2" source="phantomlike" target="phantom" />
+      <edge id="3" source="phantomlike" target="phantasmal" />
+      <edge id="4" source="phoneme" target="phone" />
+      <edge id="5" source="phoneme" target="pharyngeal" />
+      <edge id="6" source="phrase" target="phrasing" />
+      <edge id="7" source="phrase" target="phonate" />
+      <edge id="8" source="phrase" target="phraseology" />
+      <edge id="9" source="pharisaical" target="pharisaic" />
+      <edge id="10" source="philological" target="phonetic" />
+      <edge id="11" source="philological" target="phonemic" />
+      <edge id="12" source="phantom" target="phantasmagoric" />
+      <edge id="13" source="phantom" target="phantasmagoria" />
+      <edge id="14" source="phantom" target="phantasmal" />
+      <edge id="15" source="phantom" target="phantasm" />
+      <edge id="16" source="phonemic" target="phonetic" />
+      <edge id="17" source="phonemic" target="pharyngeal" />
+      <edge id="18" source="phonemic" target="phonic" />
+      <edge id="19" source="phantasm" target="phantasmagoria" />
+      <edge id="20" source="phonetics" target="phonology" />
+      <edge id="21" source="phonetics" target="philology" />
+      <edge id="22" source="philosopher" target="philologist" />
+      <edge id="23" source="pharmacy" target="pharmacology" />
+      <edge id="24" source="physic" target="philosophy" />
+      <edge id="25" source="photo" target="photographic" />
+      <edge id="26" source="photo" target="photograph" />
+      <edge id="27" source="photo" target="photogenic" />
+      <edge id="28" source="philander" target="philanderer" />
+      <edge id="29" source="philologist" target="phonetician" />
+      <edge id="30" source="philology" target="phonology" />
+      <edge id="31" source="pharmacology" target="physiology" />
+      <edge id="32" source="photography" target="photoengraving" />
+      <edge id="33" source="phony" target="pharisee" />
+      <edge id="34" source="phone" target="pharyngeal" />
+      <edge id="35" source="photographic" target="photogenic" />
+      <edge id="36" source="phraseology" target="phrasing" />
+      <edge id="37" source="phantasmagoric" target="phantasmal" />
+      <edge id="38" source="photograph" target="photocopy" />
+      <edge id="39" source="physical" target="phenomenal" />
+      <edge id="40" source="phonic" target="phonetic" />
+      <edge id="41" source="phonic" target="pharyngeal" />
+      <edge id="42" source="phonetic" target="pharyngeal" />
+    </edges>
+  </graph>
+</gexf>

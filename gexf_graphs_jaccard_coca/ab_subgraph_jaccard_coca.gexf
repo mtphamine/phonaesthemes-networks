@@ -1,0 +1,912 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="abstainer" label="abstainer">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="abstain" label="abstain" />
+      <node id="absorbing" label="absorbing">
+        <attvalues>
+          <attvalue for="0" value="3.16879202031" />
+        </attvalues>
+      </node>
+      <node id="abbreviation" label="abbreviation" />
+      <node id="abatement" label="abatement">
+        <attvalues>
+          <attvalue for="0" value="2.78887511578" />
+        </attvalues>
+      </node>
+      <node id="abstruse" label="abstruse">
+        <attvalues>
+          <attvalue for="0" value="2.02530586526" />
+        </attvalues>
+      </node>
+      <node id="abundant" label="abundant" />
+      <node id="abbreviate" label="abbreviate">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="abbess" label="abbess" />
+      <node id="abstention" label="abstention" />
+      <node id="abstemious" label="abstemious">
+        <attvalues>
+          <attvalue for="0" value="1.53147891704" />
+        </attvalues>
+      </node>
+      <node id="abatis" label="abatis">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="absorption" label="absorption" />
+      <node id="abjure" label="abjure">
+        <attvalues>
+          <attvalue for="0" value="1.49136169383" />
+        </attvalues>
+      </node>
+      <node id="abulia" label="abulia" />
+      <node id="abhorrent" label="abhorrent" />
+      <node id="abiding" label="abiding">
+        <attvalues>
+          <attvalue for="0" value="2.96567197122" />
+        </attvalues>
+      </node>
+      <node id="absence" label="absence" />
+      <node id="abode" label="abode" />
+      <node id="absolutism" label="absolutism" />
+      <node id="abashed" label="abashed" />
+      <node id="abrasion" label="abrasion">
+        <attvalues>
+          <attvalue for="0" value="2.47567118832" />
+        </attvalues>
+      </node>
+      <node id="abound" label="abound">
+        <attvalues>
+          <attvalue for="0" value="3.25815819334" />
+        </attvalues>
+      </node>
+      <node id="abduction" label="abduction" />
+      <node id="absolve" label="absolve" />
+      <node id="absentmindedness" label="absentmindedness" />
+      <node id="abjection" label="abjection">
+        <attvalues>
+          <attvalue for="0" value="1.63346845558" />
+        </attvalues>
+      </node>
+      <node id="abbreviated" label="abbreviated">
+        <attvalues>
+          <attvalue for="0" value="2.82347422917" />
+        </attvalues>
+      </node>
+      <node id="abstracted" label="abstracted" />
+      <node id="absolutely" label="absolutely">
+        <attvalues>
+          <attvalue for="0" value="4.6097437723" />
+        </attvalues>
+      </node>
+      <node id="abridge" label="abridge" />
+      <node id="abnormal" label="abnormal">
+        <attvalues>
+          <attvalue for="0" value="3.36642295723" />
+        </attvalues>
+      </node>
+      <node id="ablaze" label="ablaze">
+        <attvalues>
+          <attvalue for="0" value="2.74896286126" />
+        </attvalues>
+      </node>
+      <node id="abominable" label="abominable">
+        <attvalues>
+          <attvalue for="0" value="2.42488163663" />
+        </attvalues>
+      </node>
+      <node id="absurdity" label="absurdity">
+        <attvalues>
+          <attvalue for="0" value="2.92890769024" />
+        </attvalues>
+      </node>
+      <node id="abdication" label="abdication">
+        <attvalues>
+          <attvalue for="0" value="2.36172783602" />
+        </attvalues>
+      </node>
+      <node id="aboveboard" label="aboveboard">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="aberration" label="aberration" />
+      <node id="abide" label="abide" />
+      <node id="abrade" label="abrade" />
+      <node id="above" label="above" />
+      <node id="ability" label="ability">
+        <attvalues>
+          <attvalue for="0" value="4.69039102563" />
+        </attvalues>
+      </node>
+      <node id="abscond" label="abscond" />
+      <node id="abecedarian" label="abecedarian">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="abjuration" label="abjuration">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="aboriginal" label="aboriginal">
+        <attvalues>
+          <attvalue for="0" value="3.29269900304" />
+        </attvalues>
+      </node>
+      <node id="abate" label="abate" />
+      <node id="abroad" label="abroad" />
+      <node id="abruptly" label="abruptly">
+        <attvalues>
+          <attvalue for="0" value="3.70372115993" />
+        </attvalues>
+      </node>
+      <node id="about" label="about" />
+      <node id="abasement" label="abasement" />
+      <node id="abstinence" label="abstinence">
+        <attvalues>
+          <attvalue for="0" value="3.20574554094" />
+        </attvalues>
+      </node>
+      <node id="abolition" label="abolition">
+        <attvalues>
+          <attvalue for="0" value="2.94596070358" />
+        </attvalues>
+      </node>
+      <node id="abet" label="abet" />
+      <node id="abeyance" label="abeyance" />
+      <node id="abortive" label="abortive">
+        <attvalues>
+          <attvalue for="0" value="2.38381536598" />
+        </attvalues>
+      </node>
+      <node id="abusive" label="abusive" />
+      <node id="abash" label="abash" />
+      <node id="abrogate" label="abrogate">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="aberrant" label="aberrant">
+        <attvalues>
+          <attvalue for="0" value="2.54406804435" />
+        </attvalues>
+      </node>
+      <node id="absolution" label="absolution">
+        <attvalues>
+          <attvalue for="0" value="2.40823996531" />
+        </attvalues>
+      </node>
+      <node id="abase" label="abase">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="aborigine" label="aborigine" />
+      <node id="ablate" label="ablate">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="absorbent" label="absorbent">
+        <attvalues>
+          <attvalue for="0" value="2.38021124171" />
+        </attvalues>
+      </node>
+      <node id="abridged" label="abridged">
+        <attvalues>
+          <attvalue for="0" value="2.37474834601" />
+        </attvalues>
+      </node>
+      <node id="abrogation" label="abrogation">
+        <attvalues>
+          <attvalue for="0" value="2.14301480025" />
+        </attvalues>
+      </node>
+      <node id="abject" label="abject" />
+      <node id="abundance" label="abundance" />
+      <node id="absent" label="absent" />
+      <node id="abandoned" label="abandoned" />
+      <node id="abnegation" label="abnegation">
+        <attvalues>
+          <attvalue for="0" value="1.50514997832" />
+        </attvalues>
+      </node>
+      <node id="abrupt" label="abrupt" />
+      <node id="abandon" label="abandon">
+        <attvalues>
+          <attvalue for="0" value="3.72924580723" />
+        </attvalues>
+      </node>
+      <node id="abstract" label="abstract" />
+      <node id="abomination" label="abomination" />
+      <node id="abort" label="abort">
+        <attvalues>
+          <attvalue for="0" value="2.75739602879" />
+        </attvalues>
+      </node>
+      <node id="abbot" label="abbot" />
+      <node id="absolute" label="absolute">
+        <attvalues>
+          <attvalue for="0" value="4.0086853192" />
+        </attvalues>
+      </node>
+      <node id="abyss" label="abyss" />
+      <node id="abysmal" label="abysmal">
+        <attvalues>
+          <attvalue for="0" value="2.66464197556" />
+        </attvalues>
+      </node>
+      <node id="able" label="able" />
+      <node id="abolish" label="abolish">
+        <attvalues>
+          <attvalue for="0" value="3.00043407748" />
+        </attvalues>
+      </node>
+      <node id="ably" label="ably">
+        <attvalues>
+          <attvalue for="0" value="2.48287358361" />
+        </attvalues>
+      </node>
+      <node id="absorbed" label="absorbed" />
+      <node id="abrasive" label="abrasive">
+        <attvalues>
+          <attvalue for="0" value="2.78175537465" />
+        </attvalues>
+      </node>
+      <node id="abstraction" label="abstraction">
+        <attvalues>
+          <attvalue for="0" value="3.22349594096" />
+        </attvalues>
+      </node>
+      <node id="abdicate" label="abdicate">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+      <node id="abscess" label="abscess">
+        <attvalues>
+          <attvalue for="0" value="2.55750720191" />
+        </attvalues>
+      </node>
+      <node id="absorb" label="absorb" />
+      <node id="abdomen" label="abdomen">
+        <attvalues>
+          <attvalue for="0" value="3.22245633668" />
+        </attvalues>
+      </node>
+      <node id="abuse" label="abuse">
+        <attvalues>
+          <attvalue for="0" value="4.40951045227" />
+        </attvalues>
+      </node>
+      <node id="abridgment" label="abridgment">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="abnormality" label="abnormality" />
+      <node id="ablation" label="ablation" />
+      <node id="ablution" label="ablution" />
+      <node id="absquatulate" label="absquatulate">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="absurd" label="absurd" />
+      <node id="abhor" label="abhor">
+        <attvalues>
+          <attvalue for="0" value="2.37839790095" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="abstainer" target="abstemious" weight="0.04" />
+      <edge id="1" source="abstainer" target="abbot" weight="0.166667" />
+      <edge id="2" source="abstain" target="ability" weight="0.009709" />
+      <edge id="3" source="abstain" target="abstemious" weight="0.016949" />
+      <edge id="4" source="abstain" target="abbreviate" weight="0.012658" />
+      <edge id="5" source="abstain" target="abjure" weight="0.045455" />
+      <edge id="6" source="abstain" target="abolish" weight="0.018868" />
+      <edge id="7" source="abstain" target="abort" weight="0.046512" />
+      <edge id="8" source="abstain" target="ablate" weight="0.01087" />
+      <edge id="9" source="abstain" target="abandon" weight="0.029586" />
+      <edge id="10" source="abstain" target="abrogate" weight="0.020833" />
+      <edge id="11" source="abstain" target="abdicate" weight="0.055556" />
+      <edge id="12" source="absorbing" target="abyss" weight="0.009901" />
+      <edge id="13" source="absorbing" target="abysmal" weight="0.018182" />
+      <edge id="14" source="absorbing" target="abrupt" weight="0.011628" />
+      <edge id="15" source="absorbing" target="abstract" weight="0.009132" />
+      <edge id="16" source="absorbing" target="absorbed" weight="0.017544" />
+      <edge id="17" source="absorbing" target="abstruse" weight="0.021053" />
+      <edge id="18" source="absorbing" target="ablaze" weight="0.01087" />
+      <edge id="19" source="absorbing" target="absolute" weight="0.002967" />
+      <edge id="20" source="absorbing" target="abruptly" weight="0.021277" />
+      <edge id="21" source="abbreviation" target="abrasive" weight="0.012048" />
+      <edge id="22" source="abbreviation" target="abbreviated" weight="0.030928" />
+      <edge id="23" source="abbreviation" target="abstraction" weight="0.011364" />
+      <edge id="24" source="abbreviation" target="abbreviate" weight="0.025641" />
+      <edge id="25" source="abbreviation" target="abridged" weight="0.030928" />
+      <edge id="26" source="abbreviation" target="abrogation" weight="0.011236" />
+      <edge id="27" source="abbreviation" target="abrasion" weight="0.008" />
+      <edge id="28" source="abbreviation" target="abatement" weight="0.032787" />
+      <edge id="29" source="abbreviation" target="ablate" weight="0.015267" />
+      <edge id="30" source="abbreviation" target="abolition" weight="0.022989" />
+      <edge id="31" source="abbreviation" target="abstruse" weight="0.007634" />
+      <edge id="32" source="abbreviation" target="abridgment" weight="0.348837" />
+      <edge id="33" source="abatement" target="abbreviated" weight="0.009346" />
+      <edge id="34" source="abatement" target="abbreviate" weight="0.015873" />
+      <edge id="35" source="abatement" target="abridge" weight="0.014388" />
+      <edge id="36" source="abatement" target="abusive" weight="0.007937" />
+      <edge id="37" source="abatement" target="abet" weight="0.018519" />
+      <edge id="38" source="abatement" target="absolution" weight="0.010989" />
+      <edge id="39" source="abatement" target="abscess" weight="0.006849" />
+      <edge id="40" source="abatement" target="absorption" weight="0.015748" />
+      <edge id="41" source="abatement" target="abjure" weight="0.007194" />
+      <edge id="42" source="abatement" target="abulia" weight="0.009901" />
+      <edge id="43" source="abatement" target="abeyance" weight="0.017857" />
+      <edge id="44" source="abatement" target="absence" weight="0.009346" />
+      <edge id="45" source="abatement" target="ablate" weight="0.007143" />
+      <edge id="46" source="abatement" target="abrade" weight="0.01087" />
+      <edge id="47" source="abatement" target="abstract" weight="0.015385" />
+      <edge id="48" source="abatement" target="abrasive" weight="0.010989" />
+      <edge id="49" source="abatement" target="abstraction" weight="0.016393" />
+      <edge id="50" source="abatement" target="ability" weight="0.006623" />
+      <edge id="51" source="abatement" target="abridged" weight="0.009346" />
+      <edge id="52" source="abatement" target="abyss" weight="0.006944" />
+      <edge id="53" source="abatement" target="abrasion" weight="0.022901" />
+      <edge id="54" source="abatement" target="abuse" weight="0.004651" />
+      <edge id="55" source="abatement" target="abate" weight="0.029268" />
+      <edge id="56" source="abatement" target="abridgment" weight="0.192308" />
+      <edge id="57" source="abatement" target="abundance" weight="0.006536" />
+      <edge id="58" source="abatement" target="abasement" weight="0.037975" />
+      <edge id="59" source="abatement" target="ablation" weight="0.051282" />
+      <edge id="60" source="abatement" target="abandon" weight="0.009091" />
+      <edge id="61" source="abstruse" target="abbreviated" weight="0.00885" />
+      <edge id="62" source="abstruse" target="abbreviate" weight="0.007519" />
+      <edge id="63" source="abstruse" target="abridge" weight="0.006849" />
+      <edge id="64" source="abstruse" target="abstract" weight="0.034483" />
+      <edge id="65" source="abstruse" target="abnormal" weight="0.005464" />
+      <edge id="66" source="abstruse" target="abort" weight="0.010204" />
+      <edge id="67" source="abstruse" target="abominable" weight="0.013825" />
+      <edge id="68" source="abstruse" target="aberrant" weight="0.005682" />
+      <edge id="69" source="abstruse" target="absolute" weight="0.010444" />
+      <edge id="70" source="abstruse" target="abyss" weight="0.006667" />
+      <edge id="71" source="abstruse" target="abstemious" weight="0.00885" />
+      <edge id="72" source="abstruse" target="abysmal" weight="0.009615" />
+      <edge id="73" source="abstruse" target="able" weight="0.017391" />
+      <edge id="74" source="abstruse" target="abiding" weight="0.007519" />
+      <edge id="75" source="abstruse" target="absorbed" weight="0.019048" />
+      <edge id="76" source="abstruse" target="abrade" weight="0.005236" />
+      <edge id="77" source="abstruse" target="above" weight="0.007576" />
+      <edge id="78" source="abstruse" target="abstraction" weight="0.005236" />
+      <edge id="79" source="abstruse" target="abridged" weight="0.00885" />
+      <edge id="80" source="abstruse" target="abecedarian" weight="0.00641" />
+      <edge id="81" source="abstruse" target="abuse" weight="0.004525" />
+      <edge id="82" source="abstruse" target="abate" weight="0.00463" />
+      <edge id="83" source="abstruse" target="abject" weight="0.006061" />
+      <edge id="84" source="abstruse" target="abridgment" weight="0.007752" />
+      <edge id="85" source="abstruse" target="about" weight="0.020408" />
+      <edge id="86" source="abstruse" target="abandoned" weight="0.003584" />
+      <edge id="87" source="abstruse" target="abrupt" weight="0.030303" />
+      <edge id="88" source="abundant" target="abysmal" weight="0.010526" />
+      <edge id="89" source="abundant" target="abnormal" weight="0.005747" />
+      <edge id="90" source="abundant" target="abecedarian" weight="0.006803" />
+      <edge id="91" source="abundant" target="aboriginal" weight="0.016807" />
+      <edge id="92" source="abundant" target="ablaze" weight="0.007576" />
+      <edge id="93" source="abundant" target="aberrant" weight="0.005988" />
+      <edge id="94" source="abundant" target="absolute" weight="0.005319" />
+      <edge id="95" source="abbreviate" target="abbreviated" weight="0.030303" />
+      <edge id="96" source="abbreviate" target="abstracted" weight="0.009709" />
+      <edge id="97" source="abbreviate" target="abridge" weight="0.516854" />
+      <edge id="98" source="abbreviate" target="abstract" weight="0.141593" />
+      <edge id="99" source="abbreviate" target="abrogation" weight="0.010989" />
+      <edge id="100" source="abbreviate" target="abash" weight="0.010989" />
+      <edge id="101" source="abbreviate" target="abort" weight="0.011628" />
+      <edge id="102" source="abbreviate" target="abrogate" weight="0.034091" />
+      <edge id="103" source="abbreviate" target="abase" weight="0.012987" />
+      <edge id="104" source="abbreviate" target="abyss" weight="0.022059" />
+      <edge id="105" source="abbreviate" target="abstemious" weight="0.009901" />
+      <edge id="106" source="abbreviate" target="abolish" weight="0.043478" />
+      <edge id="107" source="abbreviate" target="absence" weight="0.02" />
+      <edge id="108" source="abbreviate" target="ablate" weight="0.015038" />
+      <edge id="109" source="abbreviate" target="abrade" weight="0.052632" />
+      <edge id="110" source="abbreviate" target="abstraction" weight="0.005587" />
+      <edge id="111" source="abbreviate" target="ability" weight="0.006897" />
+      <edge id="112" source="abbreviate" target="abridged" weight="0.030303" />
+      <edge id="113" source="abbreviate" target="abdomen" weight="0.009901" />
+      <edge id="114" source="abbreviate" target="abrasion" weight="0.015873" />
+      <edge id="115" source="abbreviate" target="abate" weight="0.051282" />
+      <edge id="116" source="abbreviate" target="abridgment" weight="0.017241" />
+      <edge id="117" source="abbreviate" target="ablation" weight="0.008621" />
+      <edge id="118" source="abbreviate" target="absolve" weight="0.011494" />
+      <edge id="119" source="abbreviate" target="abolition" weight="0.011111" />
+      <edge id="120" source="abbreviate" target="abandon" weight="0.014085" />
+      <edge id="121" source="abbess" target="abecedarian" weight="0.021277" />
+      <edge id="122" source="abstention" target="abdication" weight="0.038462" />
+      <edge id="123" source="abstention" target="abstinence" weight="0.229167" />
+      <edge id="124" source="abstention" target="abnegation" weight="0.046154" />
+      <edge id="125" source="abstemious" target="abbot" weight="0.040816" />
+      <edge id="126" source="abstemious" target="abstract" weight="0.004219" />
+      <edge id="127" source="abstemious" target="abjure" weight="0.00885" />
+      <edge id="128" source="abstemious" target="absolve" weight="0.014925" />
+      <edge id="129" source="abstemious" target="absence" weight="0.012346" />
+      <edge id="130" source="abstemious" target="abrade" weight="0.006289" />
+      <edge id="131" source="abstemious" target="abate" weight="0.010929" />
+      <edge id="132" source="abstemious" target="abandon" weight="0.005128" />
+      <edge id="133" source="abstemious" target="abject" weight="0.030769" />
+      <edge id="134" source="abstemious" target="abominable" weight="0.021739" />
+      <edge id="135" source="abstemious" target="absurd" weight="0.007042" />
+      <edge id="136" source="abstemious" target="absolution" weight="0.015385" />
+      <edge id="137" source="abstemious" target="absolute" weight="0.002825" />
+      <edge id="138" source="abatis" target="absorption" weight="0.010989" />
+      <edge id="139" source="abatis" target="abyss" weight="0.009346" />
+      <edge id="140" source="absorption" target="abrasive" weight="0.035714" />
+      <edge id="141" source="absorption" target="abstraction" weight="0.138365" />
+      <edge id="142" source="absorption" target="abdomen" weight="0.009804" />
+      <edge id="143" source="absorption" target="abrasion" weight="0.032" />
+      <edge id="144" source="absorption" target="abuse" weight="0.004762" />
+      <edge id="145" source="absorption" target="abandon" weight="0.00463" />
+      <edge id="146" source="absorption" target="ablate" weight="0.014925" />
+      <edge id="147" source="absorption" target="absorbent" weight="0.190476" />
+      <edge id="148" source="abjure" target="abeyance" weight="0.008403" />
+      <edge id="149" source="abjure" target="abstract" weight="0.007463" />
+      <edge id="150" source="abjure" target="abash" weight="0.009709" />
+      <edge id="151" source="abjure" target="abort" weight="0.087912" />
+      <edge id="152" source="abjure" target="abrogate" weight="0.084211" />
+      <edge id="153" source="abjure" target="abase" weight="0.011236" />
+      <edge id="154" source="abjure" target="abdication" weight="0.012048" />
+      <edge id="155" source="abjure" target="abide" weight="0.007353" />
+      <edge id="156" source="abjure" target="abolish" weight="0.08" />
+      <edge id="157" source="abjure" target="ablate" weight="0.020833" />
+      <edge id="158" source="abjure" target="abrade" weight="0.005236" />
+      <edge id="159" source="abjure" target="abdicate" weight="0.164557" />
+      <edge id="160" source="abjure" target="abscond" weight="0.042553" />
+      <edge id="161" source="abjure" target="absorb" weight="0.006711" />
+      <edge id="162" source="abjure" target="abjuration" weight="0.05042" />
+      <edge id="163" source="abjure" target="abuse" weight="0.004525" />
+      <edge id="164" source="abjure" target="abate" weight="0.023585" />
+      <edge id="165" source="abjure" target="abundance" weight="0.006289" />
+      <edge id="166" source="abjure" target="abasement" weight="0.011494" />
+      <edge id="167" source="abjure" target="absolve" weight="0.041667" />
+      <edge id="168" source="abjure" target="abandon" weight="0.151515" />
+      <edge id="169" source="abjure" target="absentmindedness" weight="0.009524" />
+      <edge id="170" source="abjure" target="abhor" weight="0.037975" />
+      <edge id="171" source="abjure" target="abjection" weight="0.0125" />
+      <edge id="172" source="abulia" target="abdication" weight="0.022222" />
+      <edge id="173" source="abulia" target="abstraction" weight="0.175573" />
+      <edge id="174" source="abulia" target="abrogation" weight="0.015385" />
+      <edge id="175" source="abulia" target="abjuration" weight="0.011628" />
+      <edge id="176" source="abulia" target="abrasion" weight="0.009901" />
+      <edge id="177" source="abulia" target="abolition" weight="0.015625" />
+      <edge id="178" source="abulia" target="abandon" weight="0.010638" />
+      <edge id="179" source="abulia" target="abridgment" weight="0.010989" />
+      <edge id="180" source="abhorrent" target="abominable" weight="0.238994" />
+      <edge id="181" source="abhorrent" target="abuse" weight="0.005051" />
+      <edge id="182" source="abhorrent" target="abnormal" weight="0.00625" />
+      <edge id="183" source="abhorrent" target="aberrant" weight="0.006536" />
+      <edge id="184" source="abhorrent" target="absolute" weight="0.005525" />
+      <edge id="185" source="abiding" target="abode" weight="0.032258" />
+      <edge id="186" source="abiding" target="abandoned" weight="0.007519" />
+      <edge id="187" source="abiding" target="aborigine" weight="0.013514" />
+      <edge id="188" source="abiding" target="ablaze" weight="0.007752" />
+      <edge id="189" source="abiding" target="absolute" weight="0.008065" />
+      <edge id="190" source="absence" target="abbreviated" weight="0.012346" />
+      <edge id="191" source="absence" target="abdicate" weight="0.016949" />
+      <edge id="192" source="absence" target="abridged" weight="0.012346" />
+      <edge id="193" source="absence" target="abrogation" weight="0.014085" />
+      <edge id="194" source="absence" target="abnegation" weight="0.021978" />
+      <edge id="195" source="absence" target="abolish" weight="0.013333" />
+      <edge id="196" source="absence" target="abrasion" weight="0.009346" />
+      <edge id="197" source="absence" target="abolition" weight="0.028986" />
+      <edge id="198" source="absence" target="abandon" weight="0.010309" />
+      <edge id="199" source="absence" target="abrogate" weight="0.014286" />
+      <edge id="200" source="absence" target="abridgment" weight="0.020833" />
+      <edge id="201" source="absence" target="absurdity" weight="0.009615" />
+      <edge id="202" source="abode" target="ablaze" weight="0.009709" />
+      <edge id="203" source="absolutism" target="absolutely" weight="0.01" />
+      <edge id="204" source="absolutism" target="abstinence" weight="0.029851" />
+      <edge id="205" source="absolutism" target="ability" weight="0.037383" />
+      <edge id="206" source="absolutism" target="abnegation" weight="0.026316" />
+      <edge id="207" source="absolutism" target="absolute" weight="0.00295" />
+      <edge id="208" source="abashed" target="abnormal" weight="0.013605" />
+      <edge id="209" source="abashed" target="aberrant" weight="0.021583" />
+      <edge id="210" source="abrasion" target="abbreviated" weight="0.009346" />
+      <edge id="211" source="abrasion" target="abridge" weight="0.014388" />
+      <edge id="212" source="abrasion" target="abstract" weight="0.007634" />
+      <edge id="213" source="abrasion" target="abomination" weight="0.014599" />
+      <edge id="214" source="abrasion" target="abort" weight="0.021978" />
+      <edge id="215" source="abrasion" target="abide" weight="0.015504" />
+      <edge id="216" source="abrasion" target="absolute" weight="0.002632" />
+      <edge id="217" source="abrasion" target="abscess" weight="0.020833" />
+      <edge id="218" source="abrasion" target="abeyance" weight="0.00885" />
+      <edge id="219" source="abrasion" target="ablate" weight="0.06015" />
+      <edge id="220" source="abrasion" target="abrade" weight="0.2" />
+      <edge id="221" source="abrasion" target="abrasive" weight="0.243243" />
+      <edge id="222" source="abrasion" target="abstraction" weight="0.033333" />
+      <edge id="223" source="abrasion" target="abridged" weight="0.009346" />
+      <edge id="224" source="abrasion" target="abscond" weight="0.022222" />
+      <edge id="225" source="abrasion" target="abuse" weight="0.014085" />
+      <edge id="226" source="abrasion" target="abate" weight="0.009569" />
+      <edge id="227" source="abrasion" target="abridgment" weight="0.016393" />
+      <edge id="228" source="abrasion" target="abyss" weight="0.066176" />
+      <edge id="229" source="abrasion" target="ablation" weight="0.255102" />
+      <edge id="230" source="abrasion" target="ablution" weight="0.025316" />
+      <edge id="231" source="abrasion" target="absquatulate" weight="0.012346" />
+      <edge id="232" source="abrasion" target="abandon" weight="0.013699" />
+      <edge id="233" source="abrasion" target="absentmindedness" weight="0.010101" />
+      <edge id="234" source="abound" target="abundance" weight="0.053191" />
+      <edge id="235" source="abduction" target="abandon" weight="0.005952" />
+      <edge id="236" source="abduction" target="abscess" weight="0.010753" />
+      <edge id="237" source="abduction" target="abort" weight="0.025641" />
+      <edge id="238" source="absolve" target="abrogation" weight="0.017544" />
+      <edge id="239" source="absolve" target="abjuration" weight="0.012821" />
+      <edge id="240" source="absolve" target="abolish" weight="0.033333" />
+      <edge id="241" source="absolve" target="abort" weight="0.019231" />
+      <edge id="242" source="absolve" target="abolition" weight="0.036364" />
+      <edge id="243" source="absolve" target="abandon" weight="0.01676" />
+      <edge id="244" source="absolve" target="abrogate" weight="0.055556" />
+      <edge id="245" source="absolve" target="absolution" weight="0.083333" />
+      <edge id="246" source="absolve" target="absolute" weight="0.002941" />
+      <edge id="247" source="absentmindedness" target="abstraction" weight="0.109489" />
+      <edge id="248" source="absentmindedness" target="abjuration" weight="0.011905" />
+      <edge id="249" source="absentmindedness" target="abnegation" weight="0.011905" />
+      <edge id="250" source="absentmindedness" target="abandon" weight="0.021739" />
+      <edge id="251" source="absentmindedness" target="absolution" weight="0.017544" />
+      <edge id="252" source="absentmindedness" target="absorbent" weight="0.022222" />
+      <edge id="253" source="abjection" target="abasement" weight="0.045455" />
+      <edge id="254" source="abjection" target="abscond" weight="0.03125" />
+      <edge id="255" source="abjection" target="ablation" weight="0.015873" />
+      <edge id="256" source="abjection" target="abomination" weight="0.012658" />
+      <edge id="257" source="abjection" target="abort" weight="0.030303" />
+      <edge id="258" source="abjection" target="abandon" weight="0.044872" />
+      <edge id="259" source="abbreviated" target="absent" weight="0.013158" />
+      <edge id="260" source="abbreviated" target="about" weight="0.014925" />
+      <edge id="261" source="abbreviated" target="abridged" weight="0.952381" />
+      <edge id="262" source="abbreviated" target="abstracted" weight="0.253731" />
+      <edge id="263" source="abbreviated" target="abridge" weight="0.036036" />
+      <edge id="264" source="abbreviated" target="abstract" weight="0.021459" />
+      <edge id="265" source="abbreviated" target="abyss" weight="0.008475" />
+      <edge id="266" source="abbreviated" target="abort" weight="0.015152" />
+      <edge id="267" source="abbreviated" target="abrupt" weight="0.04" />
+      <edge id="268" source="abbreviated" target="abrade" weight="0.006289" />
+      <edge id="269" source="abbreviated" target="abate" weight="0.005435" />
+      <edge id="270" source="abbreviated" target="abandon" weight="0.005128" />
+      <edge id="271" source="abbreviated" target="absorbed" weight="0.013514" />
+      <edge id="272" source="abbreviated" target="abridgment" weight="0.031579" />
+      <edge id="273" source="abbreviated" target="abruptly" weight="0.015625" />
+      <edge id="274" source="abstracted" target="abstraction" weight="0.031847" />
+      <edge id="275" source="abstracted" target="abridged" weight="0.253731" />
+      <edge id="276" source="abstracted" target="abridgment" weight="0.010101" />
+      <edge id="277" source="absolutely" target="about" weight="0.009901" />
+      <edge id="278" source="absolutely" target="aboveboard" weight="0.024096" />
+      <edge id="279" source="absolutely" target="aberration" weight="0.005682" />
+      <edge id="280" source="absolutely" target="abrupt" weight="0.007299" />
+      <edge id="281" source="absolutely" target="above" weight="0.007463" />
+      <edge id="282" source="absolutely" target="abroad" weight="0.007692" />
+      <edge id="283" source="absolutely" target="absolute" weight="0.026385" />
+      <edge id="284" source="abridge" target="abstraction" weight="0.005208" />
+      <edge id="285" source="abridge" target="abridged" weight="0.036036" />
+      <edge id="286" source="abridge" target="abort" weight="0.010101" />
+      <edge id="287" source="abridge" target="abridgment" weight="0.056452" />
+      <edge id="288" source="abridge" target="abrogation" weight="0.009615" />
+      <edge id="289" source="abridge" target="abdomen" weight="0.008772" />
+      <edge id="290" source="abridge" target="abolish" weight="0.038095" />
+      <edge id="291" source="abridge" target="abuse" weight="0.018265" />
+      <edge id="292" source="abridge" target="ablate" weight="0.049645" />
+      <edge id="293" source="abridge" target="abolition" weight="0.009709" />
+      <edge id="294" source="abridge" target="abandon" weight="0.013274" />
+      <edge id="295" source="abridge" target="abrogate" weight="0.029703" />
+      <edge id="296" source="abridge" target="abase" weight="0.045977" />
+      <edge id="297" source="abridge" target="ability" weight="0.006329" />
+      <edge id="298" source="abnormal" target="abandoned" weight="0.006329" />
+      <edge id="299" source="abnormal" target="aberration" weight="0.014286" />
+      <edge id="300" source="abnormal" target="able" weight="0.006494" />
+      <edge id="301" source="abnormal" target="abusive" weight="0.011834" />
+      <edge id="302" source="abnormal" target="abomination" weight="0.01105" />
+      <edge id="303" source="abnormal" target="aberrant" weight="0.279762" />
+      <edge id="304" source="abnormal" target="abuse" weight="0.003861" />
+      <edge id="305" source="abnormal" target="absurd" weight="0.157609" />
+      <edge id="306" source="abnormal" target="abject" weight="0.014925" />
+      <edge id="307" source="abnormal" target="abominable" weight="0.121739" />
+      <edge id="308" source="abnormal" target="abroad" weight="0.037267" />
+      <edge id="309" source="abnormal" target="absolute" weight="0.009501" />
+      <edge id="310" source="ablaze" target="abandoned" weight="0.069767" />
+      <edge id="311" source="ablaze" target="abide" weight="0.007576" />
+      <edge id="312" source="ablaze" target="abrupt" weight="0.007634" />
+      <edge id="313" source="ablaze" target="abject" weight="0.006211" />
+      <edge id="314" source="ablaze" target="abominable" weight="0.004651" />
+      <edge id="315" source="ablaze" target="absolute" weight="0.002618" />
+      <edge id="316" source="abominable" target="abandoned" weight="0.026087" />
+      <edge id="317" source="abominable" target="abysmal" weight="0.011299" />
+      <edge id="318" source="abominable" target="aberration" weight="0.004032" />
+      <edge id="319" source="abominable" target="abusive" weight="0.045455" />
+      <edge id="320" source="abominable" target="abomination" weight="0.013889" />
+      <edge id="321" source="abominable" target="aberrant" weight="0.130631" />
+      <edge id="322" source="abominable" target="abuse" weight="0.006803" />
+      <edge id="323" source="abominable" target="abrupt" weight="0.009615" />
+      <edge id="324" source="abominable" target="absurd" weight="0.012195" />
+      <edge id="325" source="abominable" target="abject" weight="0.243523" />
+      <edge id="326" source="abominable" target="abroad" weight="0.015" />
+      <edge id="327" source="abominable" target="absolute" weight="0.013187" />
+      <edge id="328" source="absurdity" target="abnormality" weight="0.045113" />
+      <edge id="329" source="absurdity" target="aberration" weight="0.050633" />
+      <edge id="330" source="abdication" target="abstraction" weight="0.007752" />
+      <edge id="331" source="abdication" target="abdicate" weight="0.034483" />
+      <edge id="332" source="abdication" target="abstinence" weight="0.018868" />
+      <edge id="333" source="abdication" target="abrogation" weight="0.105263" />
+      <edge id="334" source="abdication" target="abjuration" weight="0.145455" />
+      <edge id="335" source="abdication" target="abeyance" weight="0.09434" />
+      <edge id="336" source="abdication" target="abnegation" weight="0.016129" />
+      <edge id="337" source="abdication" target="abolition" weight="0.051282" />
+      <edge id="338" source="abdication" target="abandon" weight="0.006061" />
+      <edge id="339" source="aboveboard" target="abandoned" weight="0.00463" />
+      <edge id="340" source="aboveboard" target="absolute" weight="0.015674" />
+      <edge id="341" source="aberration" target="abstraction" weight="0.013761" />
+      <edge id="342" source="aberration" target="abjuration" weight="0.006536" />
+      <edge id="343" source="aberration" target="abnegation" weight="0.006536" />
+      <edge id="344" source="aberration" target="abuse" weight="0.020325" />
+      <edge id="345" source="aberration" target="abandon" weight="0.007843" />
+      <edge id="346" source="aberration" target="aberrant" weight="0.040404" />
+      <edge id="347" source="aberration" target="absolute" weight="0.00241" />
+      <edge id="348" source="abide" target="abrasive" weight="0.011364" />
+      <edge id="349" source="abide" target="abstinence" weight="0.009434" />
+      <edge id="350" source="abide" target="abdomen" weight="0.009615" />
+      <edge id="351" source="abide" target="abnegation" weight="0.008696" />
+      <edge id="352" source="abide" target="absquatulate" weight="0.012821" />
+      <edge id="353" source="abide" target="abort" weight="0.022727" />
+      <edge id="354" source="abide" target="ablate" weight="0.014706" />
+      <edge id="355" source="abide" target="abandon" weight="0.009217" />
+      <edge id="356" source="abrade" target="abscess" weight="0.005051" />
+      <edge id="357" source="abrade" target="abstraction" weight="0.004219" />
+      <edge id="358" source="abrade" target="abridged" weight="0.006289" />
+      <edge id="359" source="abrade" target="abrasive" weight="0.043478" />
+      <edge id="360" source="abrade" target="abort" weight="0.013986" />
+      <edge id="361" source="abrade" target="abolish" weight="0.019868" />
+      <edge id="362" source="abrade" target="absquatulate" weight="0.015152" />
+      <edge id="363" source="abrade" target="abuse" weight="0.034749" />
+      <edge id="364" source="abrade" target="ablate" weight="0.20625" />
+      <edge id="365" source="abrade" target="abandon" weight="0.018587" />
+      <edge id="366" source="abrade" target="abrogate" weight="0.013605" />
+      <edge id="367" source="abrade" target="abridgment" weight="0.005714" />
+      <edge id="368" source="abrade" target="abase" weight="0.022556" />
+      <edge id="369" source="above" target="absolute" weight="0.016304" />
+      <edge id="370" source="ability" target="abundance" weight="0.005848" />
+      <edge id="371" source="ability" target="abnormality" weight="0.006289" />
+      <edge id="372" source="ability" target="abasement" weight="0.010101" />
+      <edge id="373" source="ability" target="absorb" weight="0.0125" />
+      <edge id="374" source="ability" target="abstinence" weight="0.007874" />
+      <edge id="375" source="ability" target="abnegation" weight="0.007353" />
+      <edge id="376" source="ability" target="abecedarian" weight="0.005952" />
+      <edge id="377" source="ability" target="abate" weight="0.008811" />
+      <edge id="378" source="ability" target="abstract" weight="0.003559" />
+      <edge id="379" source="ability" target="absolution" weight="0.009174" />
+      <edge id="380" source="ability" target="abase" weight="0.009901" />
+      <edge id="381" source="abscond" target="abdicate" weight="0.073171" />
+      <edge id="382" source="abscond" target="abolish" weight="0.034483" />
+      <edge id="383" source="abscond" target="absquatulate" weight="0.37931" />
+      <edge id="384" source="abscond" target="abort" weight="0.040816" />
+      <edge id="385" source="abscond" target="abandon" weight="0.071429" />
+      <edge id="386" source="abscond" target="abrogate" weight="0.037736" />
+      <edge id="387" source="abecedarian" target="abet" weight="0.007937" />
+      <edge id="388" source="abecedarian" target="absorb" weight="0.00625" />
+      <edge id="389" source="abecedarian" target="aborigine" weight="0.020833" />
+      <edge id="390" source="abecedarian" target="aboriginal" weight="0.305556" />
+      <edge id="391" source="abjuration" target="abstraction" weight="0.005882" />
+      <edge id="392" source="abjuration" target="abdicate" weight="0.014286" />
+      <edge id="393" source="abjuration" target="abrogation" weight="0.296875" />
+      <edge id="394" source="abjuration" target="abeyance" weight="0.087912" />
+      <edge id="395" source="abjuration" target="abnegation" weight="0.094737" />
+      <edge id="396" source="abjuration" target="abnormality" weight="0.007937" />
+      <edge id="397" source="abjuration" target="abolition" weight="0.123288" />
+      <edge id="398" source="abjuration" target="abandon" weight="0.014706" />
+      <edge id="399" source="abjuration" target="absolution" weight="0.026667" />
+      <edge id="400" source="aboriginal" target="abnormality" weight="0.007634" />
+      <edge id="401" source="aboriginal" target="aborigine" weight="0.059701" />
+      <edge id="402" source="aboriginal" target="absolute" weight="0.00542" />
+      <edge id="403" source="abate" target="abrasive" weight="0.005952" />
+      <edge id="404" source="abate" target="abstraction" weight="0.003817" />
+      <edge id="405" source="abate" target="abridged" weight="0.005435" />
+      <edge id="406" source="abate" target="abridgment" weight="0.005" />
+      <edge id="407" source="abate" target="abdicate" weight="0.006173" />
+      <edge id="408" source="abate" target="abnegation" weight="0.005128" />
+      <edge id="409" source="abate" target="abolish" weight="0.078313" />
+      <edge id="410" source="abate" target="abuse" weight="0.017361" />
+      <edge id="411" source="abate" target="ablate" weight="0.147368" />
+      <edge id="412" source="abate" target="abandon" weight="0.023973" />
+      <edge id="413" source="abate" target="abrogate" weight="0.060976" />
+      <edge id="414" source="abate" target="abase" weight="0.012579" />
+      <edge id="415" source="abate" target="abstinence" weight="0.005376" />
+      <edge id="416" source="abroad" target="abuse" weight="0.009852" />
+      <edge id="417" source="abroad" target="aberrant" weight="0.25" />
+      <edge id="418" source="abroad" target="absolute" weight="0.00271" />
+      <edge id="419" source="abruptly" target="abrupt" weight="0.048193" />
+      <edge id="420" source="abruptly" target="abridged" weight="0.015625" />
+      <edge id="421" source="about" target="abridged" weight="0.014925" />
+      <edge id="422" source="about" target="abort" weight="0.019231" />
+      <edge id="423" source="about" target="absolute" weight="0.0059" />
+      <edge id="424" source="abasement" target="abstinence" weight="0.017544" />
+      <edge id="425" source="abasement" target="abandon" weight="0.011905" />
+      <edge id="426" source="abasement" target="abase" weight="0.103448" />
+      <edge id="427" source="abasement" target="abridgment" weight="0.028571" />
+      <edge id="428" source="abstinence" target="abnegation" weight="0.338028" />
+      <edge id="429" source="abstinence" target="abandoned" weight="0.004016" />
+      <edge id="430" source="abolition" target="abstraction" weight="0.006757" />
+      <edge id="431" source="abolition" target="abnegation" weight="0.025" />
+      <edge id="432" source="abolition" target="abstract" weight="0.004425" />
+      <edge id="433" source="abolition" target="abrogation" weight="0.418605" />
+      <edge id="434" source="abolition" target="abort" weight="0.018182" />
+      <edge id="435" source="abolition" target="abeyance" weight="0.040541" />
+      <edge id="436" source="abolition" target="abandon" weight="0.005435" />
+      <edge id="437" source="abolition" target="abrogate" weight="0.071429" />
+      <edge id="438" source="abolition" target="abolish" weight="0.065574" />
+      <edge id="439" source="abolition" target="abridgment" weight="0.011628" />
+      <edge id="440" source="abet" target="abandon" weight="0.005076" />
+      <edge id="441" source="abeyance" target="abstraction" weight="0.012195" />
+      <edge id="442" source="abeyance" target="abdicate" weight="0.015385" />
+      <edge id="443" source="abeyance" target="abrogation" weight="0.068493" />
+      <edge id="444" source="abeyance" target="abnegation" weight="0.020619" />
+      <edge id="445" source="abeyance" target="abort" weight="0.013889" />
+      <edge id="446" source="abeyance" target="abandon" weight="0.015075" />
+      <edge id="447" source="abeyance" target="ablate" weight="0.008333" />
+      <edge id="448" source="abeyance" target="absolution" weight="0.014085" />
+      <edge id="449" source="abeyance" target="abridgment" weight="0.009709" />
+      <edge id="450" source="abortive" target="absurd" weight="0.016393" />
+      <edge id="451" source="abusive" target="abuse" weight="0.014563" />
+      <edge id="452" source="abusive" target="aberrant" weight="0.012346" />
+      <edge id="453" source="abusive" target="abridgment" weight="0.008621" />
+      <edge id="454" source="abash" target="abuse" weight="0.005587" />
+      <edge id="455" source="abash" target="ablate" weight="0.009615" />
+      <edge id="456" source="abash" target="abandon" weight="0.005405" />
+      <edge id="457" source="abash" target="abase" weight="0.230769" />
+      <edge id="458" source="abrogate" target="abyss" weight="0.009346" />
+      <edge id="459" source="abrogate" target="abdicate" weight="0.042553" />
+      <edge id="460" source="abrogate" target="abstract" weight="0.008889" />
+      <edge id="461" source="abrogate" target="abrogation" weight="0.070175" />
+      <edge id="462" source="abrogate" target="abnegation" weight="0.012346" />
+      <edge id="463" source="abrogate" target="abolish" weight="0.666667" />
+      <edge id="464" source="abrogate" target="abort" weight="0.018182" />
+      <edge id="465" source="abrogate" target="abandon" weight="0.039326" />
+      <edge id="466" source="abrogate" target="ablate" weight="0.019608" />
+      <edge id="467" source="abrogate" target="absolution" weight="0.018519" />
+      <edge id="468" source="aberrant" target="abandoned" weight="0.013029" />
+      <edge id="469" source="aberrant" target="abomination" weight="0.011494" />
+      <edge id="470" source="aberrant" target="able" weight="0.006803" />
+      <edge id="471" source="aberrant" target="abstract" weight="0.003333" />
+      <edge id="472" source="aberrant" target="abuse" weight="0.007968" />
+      <edge id="473" source="aberrant" target="absurd" weight="0.035176" />
+      <edge id="474" source="aberrant" target="abject" weight="0.010256" />
+      <edge id="475" source="aberrant" target="absolute" weight="0.004808" />
+      <edge id="476" source="abase" target="abundance" weight="0.009709" />
+      <edge id="477" source="abase" target="abstract" weight="0.009434" />
+      <edge id="478" source="abase" target="ablate" weight="0.011111" />
+      <edge id="479" source="abase" target="abuse" weight="0.006061" />
+      <edge id="480" source="abase" target="abandon" weight="0.005848" />
+      <edge id="481" source="abase" target="abject" weight="0.009174" />
+      <edge id="482" source="ablate" target="abstract" weight="0.038314" />
+      <edge id="483" source="ablate" target="abort" weight="0.020408" />
+      <edge id="484" source="ablate" target="abyss" weight="0.006623" />
+      <edge id="485" source="ablate" target="abolish" weight="0.018692" />
+      <edge id="486" source="ablate" target="abrasive" weight="0.053191" />
+      <edge id="487" source="ablate" target="abdicate" weight="0.01087" />
+      <edge id="488" source="ablate" target="absorb" weight="0.118519" />
+      <edge id="489" source="ablate" target="abuse" weight="0.00905" />
+      <edge id="490" source="ablate" target="abridgment" weight="0.007692" />
+      <edge id="491" source="ablate" target="ablation" weight="0.07438" />
+      <edge id="492" source="ablate" target="ablution" weight="0.011494" />
+      <edge id="493" source="ablate" target="absquatulate" weight="0.011364" />
+      <edge id="494" source="ablate" target="abandon" weight="0.008811" />
+      <edge id="495" source="absorbent" target="abstraction" weight="0.007634" />
+      <edge id="496" source="absorbent" target="absorb" weight="0.011236" />
+      <edge id="497" source="absorbent" target="ablation" weight="0.045455" />
+      <edge id="498" source="absorbent" target="ablution" weight="0.08" />
+      <edge id="499" source="absorbent" target="abject" weight="0.009524" />
+      <edge id="500" source="abridged" target="absent" weight="0.013158" />
+      <edge id="501" source="abridged" target="absorbed" weight="0.013514" />
+      <edge id="502" source="abridged" target="abstract" weight="0.021459" />
+      <edge id="503" source="abridged" target="abyss" weight="0.008475" />
+      <edge id="504" source="abridged" target="abort" weight="0.015152" />
+      <edge id="505" source="abridged" target="abrupt" weight="0.04" />
+      <edge id="506" source="abridged" target="abandon" weight="0.005128" />
+      <edge id="507" source="abridged" target="abridgment" weight="0.031579" />
+      <edge id="508" source="abrogation" target="abstraction" weight="0.006711" />
+      <edge id="509" source="abrogation" target="abnegation" weight="0.064103" />
+      <edge id="510" source="abrogation" target="abort" weight="0.017857" />
+      <edge id="511" source="abrogation" target="abandon" weight="0.005405" />
+      <edge id="512" source="abrogation" target="abolish" weight="0.064516" />
+      <edge id="513" source="abrogation" target="abridgment" weight="0.011494" />
+      <edge id="514" source="abject" target="abysmal" weight="0.008065" />
+      <edge id="515" source="abject" target="abuse" weight="0.004149" />
+      <edge id="516" source="abject" target="absolute" weight="0.009926" />
+      <edge id="517" source="abundance" target="abuse" weight="0.004255" />
+      <edge id="518" source="abundance" target="abandon" weight="0.016807" />
+      <edge id="519" source="abundance" target="absolute" weight="0.0025" />
+      <edge id="520" source="absent" target="abstraction" weight="0.033333" />
+      <edge id="521" source="abandoned" target="abysmal" weight="0.012712" />
+      <edge id="522" source="abandoned" target="abuse" weight="0.002817" />
+      <edge id="523" source="abandoned" target="abandon" weight="0.005556" />
+      <edge id="524" source="abandoned" target="absolute" weight="0.00969" />
+      <edge id="525" source="abnegation" target="abolish" weight="0.011628" />
+      <edge id="526" source="abnegation" target="abridgment" weight="0.009259" />
+      <edge id="527" source="abrupt" target="abscess" weight="0.007042" />
+      <edge id="528" source="abrupt" target="abysmal" weight="0.010638" />
+      <edge id="529" source="abrupt" target="abridgment" weight="0.008403" />
+      <edge id="530" source="abrupt" target="abuse" weight="0.004739" />
+      <edge id="531" source="abrupt" target="absolute" weight="0.008021" />
+      <edge id="532" source="abandon" target="abstract" weight="0.014409" />
+      <edge id="533" source="abandon" target="abort" weight="0.103659" />
+      <edge id="534" source="abandon" target="abyss" weight="0.008658" />
+      <edge id="535" source="abandon" target="abolish" weight="0.043956" />
+      <edge id="536" source="abandon" target="abrasive" weight="0.005587" />
+      <edge id="537" source="abandon" target="abstraction" weight="0.007353" />
+      <edge id="538" source="abandon" target="abdicate" weight="0.115385" />
+      <edge id="539" source="abandon" target="absorb" weight="0.004329" />
+      <edge id="540" source="abandon" target="abomination" weight="0.004425" />
+      <edge id="541" source="abandon" target="abuse" weight="0.0033" />
+      <edge id="542" source="abandon" target="abnormality" weight="0.008772" />
+      <edge id="543" source="abandon" target="ablation" weight="0.014423" />
+      <edge id="544" source="abandon" target="ablution" weight="0.005952" />
+      <edge id="545" source="abandon" target="absquatulate" weight="0.024096" />
+      <edge id="546" source="abstract" target="absolute" weight="0.00789" />
+      <edge id="547" source="abstract" target="abysmal" weight="0.004386" />
+      <edge id="548" source="abstract" target="abolish" weight="0.0131" />
+      <edge id="549" source="abstract" target="abstraction" weight="0.097222" />
+      <edge id="550" source="abstract" target="abdomen" weight="0.004219" />
+      <edge id="551" source="abstract" target="abuse" weight="0.017647" />
+      <edge id="552" source="abstract" target="abridgment" weight="0.099567" />
+      <edge id="553" source="abomination" target="abscess" weight="0.006623" />
+      <edge id="554" source="abomination" target="abuse" weight="0.067633" />
+      <edge id="555" source="abomination" target="abhor" weight="0.025316" />
+      <edge id="556" source="abort" target="abolish" weight="0.033898" />
+      <edge id="557" source="abort" target="abrasive" weight="0.040816" />
+      <edge id="558" source="abort" target="abdicate" weight="0.097561" />
+      <edge id="559" source="abort" target="absorb" weight="0.019802" />
+      <edge id="560" source="abort" target="ablation" weight="0.025" />
+      <edge id="561" source="abort" target="ablution" weight="0.025641" />
+      <edge id="562" source="abbot" target="absolute" weight="0.003096" />
+      <edge id="563" source="absolute" target="abrasive" weight="0.002959" />
+      <edge id="564" source="absolute" target="able" weight="0.002801" />
+      <edge id="565" source="absolute" target="abysmal" weight="0.005814" />
+      <edge id="566" source="absolute" target="ablation" weight="0.00271" />
+      <edge id="567" source="absolute" target="absurd" weight="0.004831" />
+      <edge id="568" source="abyss" target="abolish" weight="0.008929" />
+      <edge id="569" source="abyss" target="ably" weight="0.011236" />
+      <edge id="570" source="abyss" target="absquatulate" weight="0.01087" />
+      <edge id="571" source="abyss" target="abuse" weight="0.004425" />
+      <edge id="572" source="abysmal" target="able" weight="0.013333" />
+      <edge id="573" source="abysmal" target="absurd" weight="0.007519" />
+      <edge id="574" source="abolish" target="abdicate" weight="0.038462" />
+      <edge id="575" source="abolish" target="abuse" weight="0.005464" />
+      <edge id="576" source="absorbed" target="abstraction" weight="0.033784" />
+      <edge id="577" source="abrasive" target="abstraction" weight="0.021277" />
+      <edge id="578" source="abrasive" target="ablation" weight="0.285714" />
+      <edge id="579" source="abrasive" target="ablution" weight="0.054054" />
+      <edge id="580" source="abrasive" target="abridgment" weight="0.012346" />
+      <edge id="581" source="abstraction" target="abuse" weight="0.011321" />
+      <edge id="582" source="abstraction" target="abridgment" weight="0.023256" />
+      <edge id="583" source="abstraction" target="abnormality" weight="0.010417" />
+      <edge id="584" source="abstraction" target="ablation" weight="0.047904" />
+      <edge id="585" source="abscess" target="abnormality" weight="0.006494" />
+      <edge id="586" source="abscess" target="abuse" weight="0.004386" />
+      <edge id="587" source="absorb" target="abuse" weight="0.004444" />
+      <edge id="588" source="absorb" target="abridgment" weight="0.007519" />
+      <edge id="589" source="abuse" target="abnormality" weight="0.009009" />
+      <edge id="590" source="abuse" target="ablation" weight="0.009852" />
+      <edge id="591" source="abuse" target="abhor" weight="0.006369" />
+      <edge id="592" source="abridgment" target="ablation" weight="0.036697" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="utmost" label="utmost" />
+      <node id="utensil" label="utensil">
+        <attvalues>
+          <attvalue for="0" value="2.16435285578" />
+        </attvalues>
+      </node>
+      <node id="utilize" label="utilize">
+        <attvalues>
+          <attvalue for="0" value="3.33122478102" />
+        </attvalues>
+      </node>
+      <node id="uttered" label="uttered" />
+      <node id="utopia" label="utopia">
+        <attvalues>
+          <attvalue for="0" value="3.04060234011" />
+        </attvalues>
+      </node>
+      <node id="utopian" label="utopian">
+        <attvalues>
+          <attvalue for="0" value="3.09829753649" />
+        </attvalues>
+      </node>
+      <node id="utterly" label="utterly">
+        <attvalues>
+          <attvalue for="0" value="3.64355136856" />
+        </attvalues>
+      </node>
+      <node id="utter" label="utter" />
+      <node id="utterance" label="utterance">
+        <attvalues>
+          <attvalue for="0" value="2.82020145949" />
+        </attvalues>
+      </node>
+      <node id="utility" label="utility" />
+    </nodes>
+    <edges>
+      <edge id="0" source="utmost" target="utopia" weight="0.015625" />
+      <edge id="1" source="utmost" target="utopian" weight="0.012048" />
+      <edge id="2" source="utmost" target="utterly" weight="0.014286" />
+      <edge id="3" source="utensil" target="utility" weight="0.012821" />
+      <edge id="4" source="utilize" target="utility" weight="0.0125" />
+      <edge id="5" source="uttered" target="utterance" weight="0.011765" />
+      <edge id="6" source="utopian" target="utter" weight="0.005587" />
+      <edge id="7" source="utterly" target="utter" weight="0.006024" />
+      <edge id="8" source="utter" target="utterance" weight="0.018605" />
+    </edges>
+  </graph>
+</gexf>

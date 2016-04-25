@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="funereal" label="funereal" />
+      <node id="funnyman" label="funnyman">
+        <attvalues>
+          <attvalue for="0" value="1.85733249643" />
+        </attvalues>
+      </node>
+      <node id="fume" label="fume" />
+      <node id="fulcrum" label="fulcrum">
+        <attvalues>
+          <attvalue for="0" value="2.37474834601" />
+        </attvalues>
+      </node>
+      <node id="fullness" label="fullness">
+        <attvalues>
+          <attvalue for="0" value="2.96142109407" />
+        </attvalues>
+      </node>
+      <node id="fuddled" label="fuddled" />
+      <node id="furuncle" label="furuncle">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="furry" label="furry">
+        <attvalues>
+          <attvalue for="0" value="2.98677173427" />
+        </attvalues>
+      </node>
+      <node id="fulsome" label="fulsome">
+        <attvalues>
+          <attvalue for="0" value="1.91381385238" />
+        </attvalues>
+      </node>
+      <node id="futurity" label="futurity" />
+      <node id="fuel" label="fuel">
+        <attvalues>
+          <attvalue for="0" value="4.37080905655" />
+        </attvalues>
+      </node>
+      <node id="fumbled" label="fumbled" />
+      <node id="fustigate" label="fustigate" />
+      <node id="fusion" label="fusion">
+        <attvalues>
+          <attvalue for="0" value="3.44451320633" />
+        </attvalues>
+      </node>
+      <node id="furtiveness" label="furtiveness" />
+      <node id="furniture" label="furniture">
+        <attvalues>
+          <attvalue for="0" value="4.12080417784" />
+        </attvalues>
+      </node>
+      <node id="furrowed" label="furrowed" />
+      <node id="fully" label="fully" />
+      <node id="furbished" label="furbished">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="fusillade" label="fusillade" />
+      <node id="fuzz" label="fuzz" />
+      <node id="furcate" label="furcate" />
+      <node id="furtive" label="furtive">
+        <attvalues>
+          <attvalue for="0" value="2.70329137812" />
+        </attvalues>
+      </node>
+      <node id="furbish" label="furbish" />
+      <node id="furtherance" label="furtherance" />
+      <node id="further" label="further">
+        <attvalues>
+          <attvalue for="0" value="4.78765880191" />
+        </attvalues>
+      </node>
+      <node id="functioning" label="functioning">
+        <attvalues>
+          <attvalue for="0" value="3.81056852922" />
+        </attvalues>
+      </node>
+      <node id="fundamentally" label="fundamentally" />
+      <node id="fugleman" label="fugleman">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="furthermore" label="furthermore">
+        <attvalues>
+          <attvalue for="0" value="4.04083959469" />
+        </attvalues>
+      </node>
+      <node id="furfuraceous" label="furfuraceous" />
+      <node id="fusty" label="fusty">
+        <attvalues>
+          <attvalue for="0" value="1.74818802701" />
+        </attvalues>
+      </node>
+      <node id="full" label="full">
+        <attvalues>
+          <attvalue for="0" value="4.9344428984" />
+        </attvalues>
+      </node>
+      <node id="fugue" label="fugue">
+        <attvalues>
+          <attvalue for="0" value="2.40312052118" />
+        </attvalues>
+      </node>
+      <node id="funeral" label="funeral" />
+      <node id="fugitive" label="fugitive" />
+      <node id="fulfill" label="fulfill" />
+      <node id="fulminate" label="fulminate" />
+      <node id="funky" label="funky">
+        <attvalues>
+          <attvalue for="0" value="3.18269990334" />
+        </attvalues>
+      </node>
+      <node id="funebrial" label="funebrial" />
+      <node id="fugacious" label="fugacious">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="fuddle" label="fuddle" />
+      <node id="furore" label="furore" />
+      <node id="functional" label="functional">
+        <attvalues>
+          <attvalue for="0" value="3.87343686322" />
+        </attvalues>
+      </node>
+      <node id="furnishing" label="furnishing">
+        <attvalues>
+          <attvalue for="0" value="2.51587384371" />
+        </attvalues>
+      </node>
+      <node id="fused" label="fused" />
+      <node id="futility" label="futility" />
+      <node id="futile" label="futile">
+        <attvalues>
+          <attvalue for="0" value="3.24551266781" />
+        </attvalues>
+      </node>
+      <node id="furor" label="furor">
+        <attvalues>
+          <attvalue for="0" value="2.8215135284" />
+        </attvalues>
+      </node>
+      <node id="fumble" label="fumble" />
+      <node id="function" label="function" />
+      <node id="funnel" label="funnel">
+        <attvalues>
+          <attvalue for="0" value="3.06220580882" />
+        </attvalues>
+      </node>
+      <node id="funds" label="funds" />
+      <node id="fund" label="fund">
+        <attvalues>
+          <attvalue for="0" value="4.493458051" />
+        </attvalues>
+      </node>
+      <node id="fumigation" label="fumigation">
+        <attvalues>
+          <attvalue for="0" value="1.78532983501" />
+        </attvalues>
+      </node>
+      <node id="fuzzy" label="fuzzy" />
+      <node id="funk" label="funk" />
+      <node id="furrow" label="furrow">
+        <attvalues>
+          <attvalue for="0" value="2.62428209584" />
+        </attvalues>
+      </node>
+      <node id="fur" label="fur">
+        <attvalues>
+          <attvalue for="0" value="3.72989340396" />
+        </attvalues>
+      </node>
+      <node id="furnishings" label="furnishings" />
+      <node id="funicular" label="funicular">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="fud" label="fud">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="future" label="future" />
+      <node id="fundament" label="fundament">
+        <attvalues>
+          <attvalue for="0" value="1.66275783168" />
+        </attvalues>
+      </node>
+      <node id="fun" label="fun" />
+      <node id="fumigate" label="fumigate">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="fundamentalist" label="fundamentalist" />
+      <node id="fury" label="fury" />
+      <node id="fulfillment" label="fulfillment">
+        <attvalues>
+          <attvalue for="0" value="3.30535136945" />
+        </attvalues>
+      </node>
+      <node id="furbelow" label="furbelow">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="funny" label="funny">
+        <attvalues>
+          <attvalue for="0" value="4.32892976895" />
+        </attvalues>
+      </node>
+      <node id="fuming" label="fuming">
+        <attvalues>
+          <attvalue for="0" value="2.64443858947" />
+        </attvalues>
+      </node>
+      <node id="furnace" label="furnace" />
+      <node id="fudge" label="fudge">
+        <attvalues>
+          <attvalue for="0" value="2.98091193778" />
+        </attvalues>
+      </node>
+      <node id="fust" label="fust">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="furiously" label="furiously">
+        <attvalues>
+          <attvalue for="0" value="3.23375736297" />
+        </attvalues>
+      </node>
+      <node id="fuss" label="fuss" />
+      <node id="furrier" label="furrier">
+        <attvalues>
+          <attvalue for="0" value="1.87506126339" />
+        </attvalues>
+      </node>
+      <node id="fungus" label="fungus" />
+      <node id="fuse" label="fuse">
+        <attvalues>
+          <attvalue for="0" value="3.10991586302" />
+        </attvalues>
+      </node>
+      <node id="fustian" label="fustian">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="furthest" label="furthest" />
+      <node id="furlough" label="furlough">
+        <attvalues>
+          <attvalue for="0" value="2.3961993471" />
+        </attvalues>
+      </node>
+      <node id="fundamental" label="fundamental">
+        <attvalues>
+          <attvalue for="0" value="4.20997051671" />
+        </attvalues>
+      </node>
+      <node id="furious" label="furious" />
+      <node id="functionary" label="functionary">
+        <attvalues>
+          <attvalue for="0" value="2.20951501454" />
+        </attvalues>
+      </node>
+      <node id="furnish" label="furnish" />
+      <node id="fussy" label="fussy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="funereal" target="funky" weight="0.010309" />
+      <edge id="1" source="funereal" target="full" weight="0.003257" />
+      <edge id="2" source="funereal" target="fulsome" weight="0.008065" />
+      <edge id="3" source="funereal" target="furrow" weight="0.005435" />
+      <edge id="4" source="funnyman" target="fury" weight="0.006667" />
+      <edge id="5" source="funnyman" target="funny" weight="0.029126" />
+      <edge id="6" source="fume" target="funny" weight="0.00361" />
+      <edge id="7" source="fume" target="fust" weight="0.009662" />
+      <edge id="8" source="fume" target="fur" weight="0.010676" />
+      <edge id="9" source="fume" target="furuncle" weight="0.004219" />
+      <edge id="10" source="fume" target="fusty" weight="0.003817" />
+      <edge id="11" source="fume" target="fuse" weight="0.005865" />
+      <edge id="12" source="fume" target="fumigate" weight="0.129353" />
+      <edge id="13" source="fume" target="fundamental" weight="0.005764" />
+      <edge id="14" source="fume" target="furor" weight="0.144578" />
+      <edge id="15" source="fume" target="fuel" weight="0.009479" />
+      <edge id="16" source="fume" target="fustian" weight="0.004184" />
+      <edge id="17" source="fume" target="fudge" weight="0.006623" />
+      <edge id="18" source="fume" target="furbelow" weight="0.004831" />
+      <edge id="19" source="fume" target="furniture" weight="0.004386" />
+      <edge id="20" source="fulcrum" target="funnel" weight="0.009259" />
+      <edge id="21" source="fulcrum" target="fur" weight="0.006897" />
+      <edge id="22" source="fulcrum" target="furnishings" weight="0.011494" />
+      <edge id="23" source="fulcrum" target="fugitive" weight="0.007092" />
+      <edge id="24" source="fulcrum" target="fund" weight="0.028777" />
+      <edge id="25" source="fulcrum" target="furcate" weight="0.011494" />
+      <edge id="26" source="fulcrum" target="fundamental" weight="0.004762" />
+      <edge id="27" source="fulcrum" target="fuddle" weight="0.007194" />
+      <edge id="28" source="fulcrum" target="furniture" weight="0.011111" />
+      <edge id="29" source="fulcrum" target="fustigate" weight="0.010204" />
+      <edge id="30" source="fulcrum" target="fudge" weight="0.006061" />
+      <edge id="31" source="fulcrum" target="furnish" weight="0.028302" />
+      <edge id="32" source="fulcrum" target="furnishing" weight="0.012821" />
+      <edge id="33" source="fullness" target="full" weight="0.028571" />
+      <edge id="34" source="fullness" target="fuss" weight="0.003268" />
+      <edge id="35" source="fullness" target="furuncle" weight="0.015152" />
+      <edge id="36" source="fullness" target="funds" weight="0.017391" />
+      <edge id="37" source="fullness" target="funeral" weight="0.008696" />
+      <edge id="38" source="fullness" target="fund" weight="0.005682" />
+      <edge id="39" source="fullness" target="fusion" weight="0.017241" />
+      <edge id="40" source="fullness" target="fuse" weight="0.008439" />
+      <edge id="41" source="fullness" target="fulfillment" weight="0.007519" />
+      <edge id="42" source="fullness" target="fundamental" weight="0.004098" />
+      <edge id="43" source="fullness" target="fun" weight="0.012903" />
+      <edge id="44" source="fullness" target="fulfill" weight="0.007092" />
+      <edge id="45" source="fullness" target="furnish" weight="0.007042" />
+      <edge id="46" source="fullness" target="fussy" weight="0.005814" />
+      <edge id="47" source="fuddled" target="funny" weight="0.029412" />
+      <edge id="48" source="fuddled" target="full" weight="0.016901" />
+      <edge id="49" source="fuddled" target="funicular" weight="0.008264" />
+      <edge id="50" source="fuddled" target="fulsome" weight="0.006645" />
+      <edge id="51" source="fuddled" target="fusty" weight="0.006289" />
+      <edge id="52" source="fuddled" target="funky" weight="0.006667" />
+      <edge id="53" source="fuddled" target="futile" weight="0.283019" />
+      <edge id="54" source="fuddled" target="fudge" weight="0.005" />
+      <edge id="55" source="furuncle" target="furlough" weight="0.011236" />
+      <edge id="56" source="furuncle" target="fuss" weight="0.003846" />
+      <edge id="57" source="furuncle" target="fugitive" weight="0.007752" />
+      <edge id="58" source="furuncle" target="fungus" weight="0.06383" />
+      <edge id="59" source="furuncle" target="fumigate" weight="0.013158" />
+      <edge id="60" source="furuncle" target="fustigate" weight="0.011628" />
+      <edge id="61" source="furuncle" target="furbelow" weight="0.017544" />
+      <edge id="62" source="furuncle" target="furrow" weight="0.005263" />
+      <edge id="63" source="furry" target="funicular" weight="0.054545" />
+      <edge id="64" source="furry" target="furbished" weight="0.02439" />
+      <edge id="65" source="furry" target="furfuraceous" weight="0.021739" />
+      <edge id="66" source="furry" target="full" weight="0.003378" />
+      <edge id="67" source="furry" target="fuzzy" weight="0.178571" />
+      <edge id="68" source="fulsome" target="funny" weight="0.00339" />
+      <edge id="69" source="fulsome" target="full" weight="0.010482" />
+      <edge id="70" source="fulsome" target="fuming" weight="0.015686" />
+      <edge id="71" source="fulsome" target="funicular" weight="0.004132" />
+      <edge id="72" source="fulsome" target="furbish" weight="0.003731" />
+      <edge id="73" source="fulsome" target="furfuraceous" weight="0.004329" />
+      <edge id="74" source="fulsome" target="fuzzy" weight="0.006349" />
+      <edge id="75" source="fulsome" target="funky" weight="0.133333" />
+      <edge id="76" source="fulsome" target="fusty" weight="0.137652" />
+      <edge id="77" source="fulsome" target="futile" weight="0.003086" />
+      <edge id="78" source="fulsome" target="fundamental" weight="0.002732" />
+      <edge id="79" source="fulsome" target="fundament" weight="0.004115" />
+      <edge id="80" source="fulsome" target="furious" weight="0.012195" />
+      <edge id="81" source="fulsome" target="fustian" weight="0.007813" />
+      <edge id="82" source="fulsome" target="fumbled" weight="0.004525" />
+      <edge id="83" source="fulsome" target="fussy" weight="0.013746" />
+      <edge id="84" source="fulsome" target="funebrial" weight="0.004274" />
+      <edge id="85" source="fulsome" target="furrow" weight="0.002793" />
+      <edge id="86" source="futurity" target="funnel" weight="0.014286" />
+      <edge id="87" source="fuel" target="fur" weight="0.009259" />
+      <edge id="88" source="fuel" target="fulminate" weight="0.193548" />
+      <edge id="89" source="fuel" target="furnishing" weight="0.02439" />
+      <edge id="90" source="fuel" target="furnish" weight="0.014085" />
+      <edge id="91" source="fumbled" target="futile" weight="0.008197" />
+      <edge id="92" source="fustigate" target="furlough" weight="0.011364" />
+      <edge id="93" source="fustigate" target="fuse" weight="0.005236" />
+      <edge id="94" source="fustigate" target="furor" weight="0.007519" />
+      <edge id="95" source="fustigate" target="fur" weight="0.007576" />
+      <edge id="96" source="fustigate" target="fudge" weight="0.006579" />
+      <edge id="97" source="fustigate" target="furrow" weight="0.005291" />
+      <edge id="98" source="fusion" target="fugitive" weight="0.005814" />
+      <edge id="99" source="fusion" target="functional" weight="0.007143" />
+      <edge id="100" source="fusion" target="fuse" weight="0.030568" />
+      <edge id="101" source="fusion" target="functioning" weight="0.007634" />
+      <edge id="102" source="fusion" target="furniture" weight="0.008264" />
+      <edge id="103" source="furtiveness" target="furtive" weight="0.019608" />
+      <edge id="104" source="furniture" target="fungus" weight="0.011111" />
+      <edge id="105" source="furniture" target="fuss" weight="0.003984" />
+      <edge id="106" source="furniture" target="fusillade" weight="0.008333" />
+      <edge id="107" source="furniture" target="furnishing" weight="0.035714" />
+      <edge id="108" source="furniture" target="fundamental" weight="0.005291" />
+      <edge id="109" source="furniture" target="furnish" weight="0.035294" />
+      <edge id="110" source="furniture" target="furnishings" weight="0.595238" />
+      <edge id="111" source="furrowed" target="fuse" weight="0.005464" />
+      <edge id="112" source="furrowed" target="furlough" weight="0.0125" />
+      <edge id="113" source="furrowed" target="furrow" weight="0.011111" />
+      <edge id="114" source="fully" target="further" weight="0.013158" />
+      <edge id="115" source="fully" target="furthermore" weight="0.021277" />
+      <edge id="116" source="fully" target="full" weight="0.010204" />
+      <edge id="117" source="furbished" target="funicular" weight="0.022222" />
+      <edge id="118" source="furbished" target="fuzzy" weight="0.025641" />
+      <edge id="119" source="furbished" target="furbish" weight="0.028571" />
+      <edge id="120" source="fusillade" target="functioning" weight="0.015504" />
+      <edge id="121" source="fusillade" target="full" weight="0.00565" />
+      <edge id="122" source="fusillade" target="furlough" weight="0.015385" />
+      <edge id="123" source="fusillade" target="fuming" weight="0.007576" />
+      <edge id="124" source="fusillade" target="fud" weight="0.009615" />
+      <edge id="125" source="fusillade" target="fuse" weight="0.004274" />
+      <edge id="126" source="fusillade" target="fumigate" weight="0.008475" />
+      <edge id="127" source="fusillade" target="fulfillment" weight="0.015625" />
+      <edge id="128" source="fusillade" target="fur" weight="0.005714" />
+      <edge id="129" source="fusillade" target="furrow" weight="0.017467" />
+      <edge id="130" source="fuzz" target="functionary" weight="0.013699" />
+      <edge id="131" source="fuzz" target="funnel" weight="0.030928" />
+      <edge id="132" source="fuzz" target="fur" weight="0.062016" />
+      <edge id="133" source="fuzz" target="furor" weight="0.007299" />
+      <edge id="134" source="furcate" target="funny" weight="0.026549" />
+      <edge id="135" source="furcate" target="funnel" weight="0.011905" />
+      <edge id="136" source="furcate" target="fur" weight="0.008264" />
+      <edge id="137" source="furcate" target="furtive" weight="0.014085" />
+      <edge id="138" source="furtive" target="funny" weight="0.00813" />
+      <edge id="139" source="furtive" target="funicular" weight="0.014286" />
+      <edge id="140" source="furtive" target="future" weight="0.009901" />
+      <edge id="141" source="furtive" target="furious" weight="0.006289" />
+      <edge id="142" source="furbish" target="fur" weight="0.020833" />
+      <edge id="143" source="furbish" target="fudge" weight="0.037267" />
+      <edge id="144" source="furtherance" target="further" weight="0.021277" />
+      <edge id="145" source="furtherance" target="full" weight="0.003175" />
+      <edge id="146" source="furtherance" target="functioning" weight="0.011111" />
+      <edge id="147" source="furtherance" target="functional" weight="0.010101" />
+      <edge id="148" source="furtherance" target="furrow" weight="0.005208" />
+      <edge id="149" source="further" target="furlough" weight="0.010526" />
+      <edge id="150" source="further" target="fuss" weight="0.003759" />
+      <edge id="151" source="further" target="furthermore" weight="0.365385" />
+      <edge id="152" source="further" target="fund" weight="0.014815" />
+      <edge id="153" source="further" target="fundamental" weight="0.004902" />
+      <edge id="154" source="functioning" target="function" weight="0.125" />
+      <edge id="155" source="functioning" target="funnel" weight="0.010309" />
+      <edge id="156" source="functioning" target="fuming" weight="0.010989" />
+      <edge id="157" source="functioning" target="functional" weight="0.137931" />
+      <edge id="158" source="functioning" target="fuse" weight="0.005181" />
+      <edge id="159" source="functioning" target="fulfillment" weight="0.034884" />
+      <edge id="160" source="functioning" target="fulfill" weight="0.010417" />
+      <edge id="161" source="functioning" target="fun" weight="0.018182" />
+      <edge id="162" source="functioning" target="functionary" weight="0.014085" />
+      <edge id="163" source="fundamentally" target="full" weight="0.003484" />
+      <edge id="164" source="fugleman" target="function" weight="0.005" />
+      <edge id="165" source="fugleman" target="fur" weight="0.006452" />
+      <edge id="166" source="fugleman" target="fund" weight="0.006579" />
+      <edge id="167" source="fugleman" target="fundamental" weight="0.009132" />
+      <edge id="168" source="fugleman" target="fun" weight="0.007576" />
+      <edge id="169" source="fugleman" target="functionary" weight="0.01087" />
+      <edge id="170" source="furfuraceous" target="funny" weight="0.009709" />
+      <edge id="171" source="furfuraceous" target="fusty" weight="0.011364" />
+      <edge id="172" source="furfuraceous" target="futile" weight="0.007576" />
+      <edge id="173" source="furfuraceous" target="fundamental" weight="0.005747" />
+      <edge id="174" source="furfuraceous" target="fundament" weight="0.019608" />
+      <edge id="175" source="fusty" target="funny" weight="0.006579" />
+      <edge id="176" source="fusty" target="fust" weight="0.012048" />
+      <edge id="177" source="fusty" target="full" weight="0.01194" />
+      <edge id="178" source="fusty" target="fuming" weight="0.017544" />
+      <edge id="179" source="fusty" target="funnel" weight="0.008264" />
+      <edge id="180" source="fusty" target="funds" weight="0.010526" />
+      <edge id="181" source="fusty" target="fund" weight="0.006452" />
+      <edge id="182" source="fusty" target="funky" weight="0.329897" />
+      <edge id="183" source="fusty" target="future" weight="0.007692" />
+      <edge id="184" source="fusty" target="futile" weight="0.011111" />
+      <edge id="185" source="fusty" target="fud" weight="0.011494" />
+      <edge id="186" source="fusty" target="furnish" weight="0.008264" />
+      <edge id="187" source="fusty" target="fussy" weight="0.006623" />
+      <edge id="188" source="full" target="fundamentalist" weight="0.006536" />
+      <edge id="189" source="full" target="fustian" weight="0.003175" />
+      <edge id="190" source="full" target="funny" weight="0.002833" />
+      <edge id="191" source="full" target="funky" weight="0.006098" />
+      <edge id="192" source="full" target="futile" weight="0.007895" />
+      <edge id="193" source="full" target="funds" weight="0.003378" />
+      <edge id="194" source="full" target="function" weight="0.002475" />
+      <edge id="195" source="full" target="funnel" weight="0.003106" />
+      <edge id="196" source="full" target="fugue" weight="0.003521" />
+      <edge id="197" source="full" target="furious" weight="0.012987" />
+      <edge id="198" source="full" target="funebrial" weight="0.003425" />
+      <edge id="199" source="full" target="fuzzy" weight="0.005362" />
+      <edge id="200" source="full" target="furrow" weight="0.004819" />
+      <edge id="201" source="full" target="funicular" weight="0.003333" />
+      <edge id="202" source="full" target="fud" weight="0.003472" />
+      <edge id="203" source="full" target="future" weight="0.006061" />
+      <edge id="204" source="full" target="fundamental" weight="0.002358" />
+      <edge id="205" source="full" target="fun" weight="0.002976" />
+      <edge id="206" source="full" target="fulfill" weight="0.00625" />
+      <edge id="207" source="full" target="fussy" weight="0.041298" />
+      <edge id="208" source="fugue" target="fuddle" weight="0.010204" />
+      <edge id="209" source="fugue" target="fuss" weight="0.004329" />
+      <edge id="210" source="funeral" target="funicular" weight="0.017857" />
+      <edge id="211" source="funeral" target="fuse" weight="0.005747" />
+      <edge id="212" source="funeral" target="furrow" weight="0.005814" />
+      <edge id="213" source="fugitive" target="functional" weight="0.007194" />
+      <edge id="214" source="fugitive" target="fugacious" weight="0.390805" />
+      <edge id="215" source="fulfill" target="funnel" weight="0.009615" />
+      <edge id="216" source="fulfill" target="furlough" weight="0.010309" />
+      <edge id="217" source="fulfill" target="fund" weight="0.02963" />
+      <edge id="218" source="fulfill" target="fuse" weight="0.015152" />
+      <edge id="219" source="fulfill" target="fulfillment" weight="0.043478" />
+      <edge id="220" source="fulfill" target="functionary" weight="0.012821" />
+      <edge id="221" source="fulfill" target="furrow" weight="0.005051" />
+      <edge id="222" source="fulminate" target="furlough" weight="0.04918" />
+      <edge id="223" source="fulminate" target="fud" weight="0.027778" />
+      <edge id="224" source="fulminate" target="fulfillment" weight="0.016393" />
+      <edge id="225" source="fulminate" target="furor" weight="0.009259" />
+      <edge id="226" source="fulminate" target="furrow" weight="0.006098" />
+      <edge id="227" source="funky" target="fuming" weight="0.019048" />
+      <edge id="228" source="funky" target="futile" weight="0.005814" />
+      <edge id="229" source="funky" target="fuzzy" weight="0.006098" />
+      <edge id="230" source="funky" target="funk" weight="0.018349" />
+      <edge id="231" source="funebrial" target="furrow" weight="0.005917" />
+      <edge id="232" source="fugacious" target="furious" weight="0.019737" />
+      <edge id="233" source="fugacious" target="functional" weight="0.011364" />
+      <edge id="234" source="fuddle" target="fuse" weight="0.008658" />
+      <edge id="235" source="fuddle" target="fundamental" weight="0.004202" />
+      <edge id="236" source="fuddle" target="fundament" weight="0.008696" />
+      <edge id="237" source="fuddle" target="furor" weight="0.041667" />
+      <edge id="238" source="fuddle" target="fudge" weight="0.010417" />
+      <edge id="239" source="fuddle" target="furbelow" weight="0.010309" />
+      <edge id="240" source="fuddle" target="furrow" weight="0.004348" />
+      <edge id="241" source="furore" target="furor" weight="0.140187" />
+      <edge id="242" source="functional" target="function" weight="0.027174" />
+      <edge id="243" source="functional" target="furnishing" weight="0.013158" />
+      <edge id="244" source="functional" target="fundamental" weight="0.004808" />
+      <edge id="245" source="functional" target="functionary" weight="0.025316" />
+      <edge id="246" source="functional" target="fussy" weight="0.007353" />
+      <edge id="247" source="furnishing" target="fuss" weight="0.004184" />
+      <edge id="248" source="furnishing" target="fury" weight="0.006623" />
+      <edge id="249" source="furnishing" target="funds" weight="0.020408" />
+      <edge id="250" source="furnishing" target="fund" weight="0.009174" />
+      <edge id="251" source="furnishing" target="fulfillment" weight="0.015152" />
+      <edge id="252" source="furnishing" target="furor" weight="0.00885" />
+      <edge id="253" source="furnishing" target="furnish" weight="0.027027" />
+      <edge id="254" source="furnishing" target="furnishings" weight="0.037736" />
+      <edge id="255" source="fused" target="furrow" weight="0.006135" />
+      <edge id="256" source="futility" target="fustian" weight="0.012987" />
+      <edge id="257" source="futility" target="fudge" weight="0.007092" />
+      <edge id="258" source="futile" target="funny" weight="0.036842" />
+      <edge id="259" source="futile" target="fust" weight="0.007874" />
+      <edge id="260" source="futile" target="fuming" weight="0.006289" />
+      <edge id="261" source="futile" target="fury" weight="0.004149" />
+      <edge id="262" source="futile" target="furious" weight="0.017467" />
+      <edge id="263" source="futile" target="fustian" weight="0.012739" />
+      <edge id="264" source="futile" target="fudge" weight="0.004505" />
+      <edge id="265" source="furor" target="fun" weight="0.012821" />
+      <edge id="266" source="furor" target="furlough" weight="0.007353" />
+      <edge id="267" source="furor" target="fuss" weight="0.144981" />
+      <edge id="268" source="furor" target="fury" weight="0.47651" />
+      <edge id="269" source="furor" target="fungus" weight="0.006849" />
+      <edge id="270" source="furor" target="furious" weight="0.009569" />
+      <edge id="271" source="furor" target="fumigate" weight="0.00813" />
+      <edge id="272" source="furor" target="fundamental" weight="0.012346" />
+      <edge id="273" source="furor" target="furnish" weight="0.006993" />
+      <edge id="274" source="fumble" target="fur" weight="0.007407" />
+      <edge id="275" source="fumble" target="fuse" weight="0.020942" />
+      <edge id="276" source="fumble" target="fudge" weight="0.006452" />
+      <edge id="277" source="fumble" target="furrier" weight="0.015385" />
+      <edge id="278" source="fumble" target="furrow" weight="0.005208" />
+      <edge id="279" source="function" target="fuse" weight="0.010676" />
+      <edge id="280" source="function" target="fulfillment" weight="0.017045" />
+      <edge id="281" source="function" target="fundamental" weight="0.00346" />
+      <edge id="282" source="function" target="furrow" weight="0.010753" />
+      <edge id="283" source="funnel" target="fur" weight="0.007042" />
+      <edge id="284" source="funnel" target="funicular" weight="0.012048" />
+      <edge id="285" source="funnel" target="fuse" weight="0.015075" />
+      <edge id="286" source="funnel" target="future" weight="0.008772" />
+      <edge id="287" source="funnel" target="fundamental" weight="0.009709" />
+      <edge id="288" source="funnel" target="furrow" weight="0.015228" />
+      <edge id="289" source="funnel" target="fussy" weight="0.007407" />
+      <edge id="290" source="funds" target="fundamental" weight="0.005525" />
+      <edge id="291" source="funds" target="fund" weight="0.2" />
+      <edge id="292" source="funds" target="furrow" weight="0.00578" />
+      <edge id="293" source="fund" target="fury" weight="0.004651" />
+      <edge id="294" source="fund" target="future" weight="0.006757" />
+      <edge id="295" source="fund" target="fundamental" weight="0.004149" />
+      <edge id="296" source="fund" target="furnish" weight="0.206897" />
+      <edge id="297" source="fund" target="furrow" weight="0.008621" />
+      <edge id="298" source="fumigation" target="fuming" weight="0.036364" />
+      <edge id="299" source="fuzzy" target="fur" weight="0.005155" />
+      <edge id="300" source="fuzzy" target="funicular" weight="0.038168" />
+      <edge id="301" source="fuzzy" target="fundamental" weight="0.003861" />
+      <edge id="302" source="funk" target="fudge" weight="0.00625" />
+      <edge id="303" source="funk" target="fur" weight="0.007143" />
+      <edge id="304" source="funk" target="fumigate" weight="0.012048" />
+      <edge id="305" source="furrow" target="fudge" weight="0.011811" />
+      <edge id="306" source="furrow" target="fuss" weight="0.002755" />
+      <edge id="307" source="furrow" target="fuse" weight="0.00339" />
+      <edge id="308" source="furrow" target="furlough" weight="0.010471" />
+      <edge id="309" source="furrow" target="fundamental" weight="0.003322" />
+      <edge id="310" source="furrow" target="functionary" weight="0.00578" />
+      <edge id="311" source="fur" target="furnace" weight="0.009259" />
+      <edge id="312" source="fur" target="fuss" weight="0.003268" />
+      <edge id="313" source="fur" target="fulfillment" weight="0.007519" />
+      <edge id="314" source="fur" target="fuse" weight="0.008439" />
+      <edge id="315" source="fur" target="fudge" weight="0.010101" />
+      <edge id="316" source="funicular" target="fussy" weight="0.00885" />
+      <edge id="317" source="fud" target="fundamentalist" weight="0.017857" />
+      <edge id="318" source="fud" target="fuss" weight="0.004255" />
+      <edge id="319" source="future" target="funny" weight="0.006897" />
+      <edge id="320" source="fundament" target="furthest" weight="0.025" />
+      <edge id="321" source="fundament" target="fundamental" weight="0.140244" />
+      <edge id="322" source="fun" target="funny" weight="0.02027" />
+      <edge id="323" source="fun" target="fulfillment" weight="0.057143" />
+      <edge id="324" source="fumigate" target="fuss" weight="0.008065" />
+      <edge id="325" source="fumigate" target="fury" weight="0.006211" />
+      <edge id="326" source="fumigate" target="fuse" weight="0.005525" />
+      <edge id="327" source="fury" target="funny" weight="0.004717" />
+      <edge id="328" source="fury" target="furlough" weight="0.005747" />
+      <edge id="329" source="fury" target="furrier" weight="0.006757" />
+      <edge id="330" source="fury" target="fuming" weight="0.005714" />
+      <edge id="331" source="fury" target="fundamental" weight="0.010676" />
+      <edge id="332" source="fulfillment" target="furlough" weight="0.011236" />
+      <edge id="333" source="furbelow" target="fuss" weight="0.004348" />
+      <edge id="334" source="funny" target="fuming" weight="0.007692" />
+      <edge id="335" source="funny" target="furious" weight="0.014925" />
+      <edge id="336" source="funny" target="fussy" weight="0.006024" />
+      <edge id="337" source="fuming" target="furious" weight="0.050314" />
+      <edge id="338" source="fuming" target="fustian" weight="0.01087" />
+      <edge id="339" source="furnace" target="fudge" weight="0.007813" />
+      <edge id="340" source="furnace" target="fundamental" weight="0.00578" />
+      <edge id="341" source="fudge" target="fuss" weight="0.012384" />
+      <edge id="342" source="fudge" target="fuse" weight="0.011719" />
+      <edge id="343" source="fudge" target="fustian" weight="0.248" />
+      <edge id="344" source="fust" target="furlough" weight="0.016667" />
+      <edge id="345" source="fust" target="fungus" weight="0.014286" />
+      <edge id="346" source="fust" target="fuse" weight="0.006135" />
+      <edge id="347" source="furiously" target="furious" weight="0.013889" />
+      <edge id="348" source="fuss" target="furlough" weight="0.003817" />
+      <edge id="349" source="fuss" target="fuse" weight="0.005495" />
+      <edge id="350" source="fuss" target="fustian" weight="0.015444" />
+      <edge id="351" source="fuse" target="furlough" weight="0.005155" />
+      <edge id="352" source="fuse" target="functionary" weight="0.005714" />
+      <edge id="353" source="furthest" target="fundamental" weight="0.006135" />
+      <edge id="354" source="fundamental" target="furious" weight="0.00365" />
+    </edges>
+  </graph>
+</gexf>

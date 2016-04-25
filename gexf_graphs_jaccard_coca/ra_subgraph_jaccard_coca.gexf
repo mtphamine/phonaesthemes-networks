@@ -1,0 +1,2160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="rakish" label="rakish" />
+      <node id="rating" label="rating">
+        <attvalues>
+          <attvalue for="0" value="4.09387675539" />
+        </attvalues>
+      </node>
+      <node id="radix" label="radix" />
+      <node id="ramous" label="ramous">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="rambling" label="rambling" />
+      <node id="ratify" label="ratify" />
+      <node id="rapture" label="rapture">
+        <attvalues>
+          <attvalue for="0" value="2.81491318128" />
+        </attvalues>
+      </node>
+      <node id="rabbi" label="rabbi" />
+      <node id="random" label="random">
+        <attvalues>
+          <attvalue for="0" value="4.00255480815" />
+        </attvalues>
+      </node>
+      <node id="rapscallion" label="rapscallion">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="rabbinic" label="rabbinic">
+        <attvalues>
+          <attvalue for="0" value="2.24797326636" />
+        </attvalues>
+      </node>
+      <node id="radar" label="radar" />
+      <node id="radio" label="radio" />
+      <node id="railing" label="railing">
+        <attvalues>
+          <attvalue for="0" value="3.35024801833" />
+        </attvalues>
+      </node>
+      <node id="rampart" label="rampart" />
+      <node id="rambler" label="rambler">
+        <attvalues>
+          <attvalue for="0" value="2.10380372096" />
+        </attvalues>
+      </node>
+      <node id="racecourse" label="racecourse" />
+      <node id="rapid" label="rapid" />
+      <node id="ratio" label="ratio">
+        <attvalues>
+          <attvalue for="0" value="3.93996829055" />
+        </attvalues>
+      </node>
+      <node id="rash" label="rash">
+        <attvalues>
+          <attvalue for="0" value="3.31743649654" />
+        </attvalues>
+      </node>
+      <node id="randy" label="randy">
+        <attvalues>
+          <attvalue for="0" value="3.83365699689" />
+        </attvalues>
+      </node>
+      <node id="rankle" label="rankle" />
+      <node id="rasp" label="rasp" />
+      <node id="rabbinate" label="rabbinate" />
+      <node id="rabble" label="rabble" />
+      <node id="raillery" label="raillery">
+        <attvalues>
+          <attvalue for="0" value="1.2552725051" />
+        </attvalues>
+      </node>
+      <node id="ravel" label="ravel" />
+      <node id="raven" label="raven">
+        <attvalues>
+          <attvalue for="0" value="3.31048089146" />
+        </attvalues>
+      </node>
+      <node id="ranking" label="ranking" />
+      <node id="rancorous" label="rancorous">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+      <node id="radiator" label="radiator" />
+      <node id="ragman" label="ragman" />
+      <node id="rake" label="rake">
+        <attvalues>
+          <attvalue for="0" value="3.0937717815" />
+        </attvalues>
+      </node>
+      <node id="razzing" label="razzing">
+        <attvalues>
+          <attvalue for="0" value="1.64345267649" />
+        </attvalues>
+      </node>
+      <node id="raiment" label="raiment">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="rapturous" label="rapturous" />
+      <node id="rawhide" label="rawhide">
+        <attvalues>
+          <attvalue for="0" value="2.39967372148" />
+        </attvalues>
+      </node>
+      <node id="ramshackle" label="ramshackle" />
+      <node id="railroad" label="railroad">
+        <attvalues>
+          <attvalue for="0" value="3.83765155785" />
+        </attvalues>
+      </node>
+      <node id="ravishment" label="ravishment" />
+      <node id="randomness" label="randomness" />
+      <node id="raptorial" label="raptorial" />
+      <node id="ranting" label="ranting" />
+      <node id="radiant" label="radiant" />
+      <node id="racy" label="racy" />
+      <node id="rabbet" label="rabbet" />
+      <node id="race" label="race">
+        <attvalues>
+          <attvalue for="0" value="4.73135503737" />
+        </attvalues>
+      </node>
+      <node id="rattail" label="rattail">
+        <attvalues>
+          <attvalue for="0" value="1.17609125906" />
+        </attvalues>
+      </node>
+      <node id="radial" label="radial">
+        <attvalues>
+          <attvalue for="0" value="2.84198480459" />
+        </attvalues>
+      </node>
+      <node id="rack" label="rack">
+        <attvalues>
+          <attvalue for="0" value="3.79021477024" />
+        </attvalues>
+      </node>
+      <node id="rathskeller" label="rathskeller" />
+      <node id="rayless" label="rayless" />
+      <node id="radicalism" label="radicalism" />
+      <node id="radium" label="radium" />
+      <node id="rate" label="rate" />
+      <node id="radius" label="radius" />
+      <node id="racket" label="racket">
+        <attvalues>
+          <attvalue for="0" value="3.14674801363" />
+        </attvalues>
+      </node>
+      <node id="ravenous" label="ravenous" />
+      <node id="ransack" label="ransack">
+        <attvalues>
+          <attvalue for="0" value="1.69897000434" />
+        </attvalues>
+      </node>
+      <node id="rapist" label="rapist">
+        <attvalues>
+          <attvalue for="0" value="3.01114736078" />
+        </attvalues>
+      </node>
+      <node id="rarely" label="rarely" />
+      <node id="radiology" label="radiology">
+        <attvalues>
+          <attvalue for="0" value="2.5065050324" />
+        </attvalues>
+      </node>
+      <node id="rascal" label="rascal">
+        <attvalues>
+          <attvalue for="0" value="2.68752896121" />
+        </attvalues>
+      </node>
+      <node id="raffish" label="raffish">
+        <attvalues>
+          <attvalue for="0" value="1.88081359228" />
+        </attvalues>
+      </node>
+      <node id="ratiocination" label="ratiocination">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="rational" label="rational" />
+      <node id="ranter" label="ranter">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="racing" label="racing" />
+      <node id="rapping" label="rapping" />
+      <node id="ranged" label="ranged" />
+      <node id="ration" label="ration" />
+      <node id="rapacious" label="rapacious" />
+      <node id="ragtime" label="ragtime">
+        <attvalues>
+          <attvalue for="0" value="2.42488163663" />
+        </attvalues>
+      </node>
+      <node id="ranked" label="ranked">
+        <attvalues>
+          <attvalue for="0" value="3.80767030123" />
+        </attvalues>
+      </node>
+      <node id="rapidly" label="rapidly" />
+      <node id="racked" label="racked" />
+      <node id="raider" label="raider">
+        <attvalues>
+          <attvalue for="0" value="2.66464197556" />
+        </attvalues>
+      </node>
+      <node id="ragpicker" label="ragpicker">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="rationing" label="rationing">
+        <attvalues>
+          <attvalue for="0" value="2.93751789202" />
+        </attvalues>
+      </node>
+      <node id="razz" label="razz">
+        <attvalues>
+          <attvalue for="0" value="1.56820172407" />
+        </attvalues>
+      </node>
+      <node id="rare" label="rare">
+        <attvalues>
+          <attvalue for="0" value="4.30588853028" />
+        </attvalues>
+      </node>
+      <node id="rasher" label="rasher" />
+      <node id="ravish" label="ravish" />
+      <node id="raddled" label="raddled" />
+      <node id="rationalistic" label="rationalistic" />
+      <node id="ramp" label="ramp">
+        <attvalues>
+          <attvalue for="0" value="3.47494433547" />
+        </attvalues>
+      </node>
+      <node id="range" label="range">
+        <attvalues>
+          <attvalue for="0" value="4.68200962038" />
+        </attvalues>
+      </node>
+      <node id="ratification" label="ratification">
+        <attvalues>
+          <attvalue for="0" value="2.96520170103" />
+        </attvalues>
+      </node>
+      <node id="raccoon" label="raccoon" />
+      <node id="railway" label="railway" />
+      <node id="raze" label="raze" />
+      <node id="raised" label="raised">
+        <attvalues>
+          <attvalue for="0" value="4.62956249278" />
+        </attvalues>
+      </node>
+      <node id="railroader" label="railroader">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="radical" label="radical" />
+      <node id="ravager" label="ravager">
+        <attvalues>
+          <attvalue for="0" value="1.47712125472" />
+        </attvalues>
+      </node>
+      <node id="rank" label="rank" />
+      <node id="rant" label="rant">
+        <attvalues>
+          <attvalue for="0" value="2.77378644498" />
+        </attvalues>
+      </node>
+      <node id="raiser" label="raiser">
+        <attvalues>
+          <attvalue for="0" value="2.4623979979" />
+        </attvalues>
+      </node>
+      <node id="rave" label="rave" />
+      <node id="radiate" label="radiate" />
+      <node id="ravaged" label="ravaged" />
+      <node id="raggedy" label="raggedy">
+        <attvalues>
+          <attvalue for="0" value="2.42160392687" />
+        </attvalues>
+      </node>
+      <node id="rashness" label="rashness" />
+      <node id="rated" label="rated" />
+      <node id="raise" label="raise">
+        <attvalues>
+          <attvalue for="0" value="4.49487781564" />
+        </attvalues>
+      </node>
+      <node id="ratty" label="ratty" />
+      <node id="raff" label="raff" />
+      <node id="racism" label="racism" />
+      <node id="ravage" label="ravage" />
+      <node id="rattle" label="rattle">
+        <attvalues>
+          <attvalue for="0" value="3.29003461136" />
+        </attvalues>
+      </node>
+      <node id="racketeer" label="racketeer" />
+      <node id="racist" label="racist">
+        <attvalues>
+          <attvalue for="0" value="3.69870934944" />
+        </attvalues>
+      </node>
+      <node id="rancher" label="rancher">
+        <attvalues>
+          <attvalue for="0" value="2.97451169274" />
+        </attvalues>
+      </node>
+      <node id="raft" label="raft">
+        <attvalues>
+          <attvalue for="0" value="3.36417563277" />
+        </attvalues>
+      </node>
+      <node id="rankled" label="rankled" />
+      <node id="rainfall" label="rainfall" />
+      <node id="rather" label="rather" />
+      <node id="rawboned" label="rawboned">
+        <attvalues>
+          <attvalue for="0" value="1.77815125038" />
+        </attvalues>
+      </node>
+      <node id="rationalism" label="rationalism">
+        <attvalues>
+          <attvalue for="0" value="2.61700034112" />
+        </attvalues>
+      </node>
+      <node id="racer" label="racer" />
+      <node id="rabbit" label="rabbit" />
+      <node id="raunchy" label="raunchy" />
+      <node id="rampant" label="rampant" />
+      <node id="raising" label="raising" />
+      <node id="raga" label="raga">
+        <attvalues>
+          <attvalue for="0" value="1.4623979979" />
+        </attvalues>
+      </node>
+      <node id="rampage" label="rampage" />
+      <node id="rage" label="rage">
+        <attvalues>
+          <attvalue for="0" value="3.87128097286" />
+        </attvalues>
+      </node>
+      <node id="ravisher" label="ravisher" />
+      <node id="radiorays" label="radiorays" />
+      <node id="rarity" label="rarity" />
+      <node id="rattlebrained" label="rattlebrained">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="ratchet" label="ratchet">
+        <attvalues>
+          <attvalue for="0" value="2.69548167649" />
+        </attvalues>
+      </node>
+      <node id="rationalization" label="rationalization">
+        <attvalues>
+          <attvalue for="0" value="2.65513843481" />
+        </attvalues>
+      </node>
+      <node id="rancor" label="rancor">
+        <attvalues>
+          <attvalue for="0" value="2.59769518593" />
+        </attvalues>
+      </node>
+      <node id="ravished" label="ravished">
+        <attvalues>
+          <attvalue for="0" value="1.92941892571" />
+        </attvalues>
+      </node>
+      <node id="rag" label="rag" />
+      <node id="radiance" label="radiance" />
+      <node id="radiogram" label="radiogram">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="rapids" label="rapids" />
+      <node id="raging" label="raging">
+        <attvalues>
+          <attvalue for="0" value="3.37657695706" />
+        </attvalues>
+      </node>
+      <node id="ram" label="ram">
+        <attvalues>
+          <attvalue for="0" value="3.50718097726" />
+        </attvalues>
+      </node>
+      <node id="rapt" label="rapt" />
+      <node id="radiotherapy" label="radiotherapy">
+        <attvalues>
+          <attvalue for="0" value="2.68663626926" />
+        </attvalues>
+      </node>
+      <node id="raw" label="raw" />
+      <node id="rat" label="rat">
+        <attvalues>
+          <attvalue for="0" value="3.66931688057" />
+        </attvalues>
+      </node>
+      <node id="rainstorm" label="rainstorm">
+        <attvalues>
+          <attvalue for="0" value="2.59439255038" />
+        </attvalues>
+      </node>
+      <node id="rap" label="rap" />
+      <node id="rally" label="rally" />
+      <node id="radioelement" label="radioelement">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="rape" label="rape">
+        <attvalues>
+          <attvalue for="0" value="3.97639583661" />
+        </attvalues>
+      </node>
+      <node id="ray" label="ray">
+        <attvalues>
+          <attvalue for="0" value="4.24949186573" />
+        </attvalues>
+      </node>
+      <node id="ransom" label="ransom">
+        <attvalues>
+          <attvalue for="0" value="3.10174707395" />
+        </attvalues>
+      </node>
+      <node id="rapprochement" label="rapprochement">
+        <attvalues>
+          <attvalue for="0" value="2.63648789635" />
+        </attvalues>
+      </node>
+      <node id="rainy" label="rainy">
+        <attvalues>
+          <attvalue for="0" value="3.39637372754" />
+        </attvalues>
+      </node>
+      <node id="ragamuffin" label="ragamuffin">
+        <attvalues>
+          <attvalue for="0" value="1.53147891704" />
+        </attvalues>
+      </node>
+      <node id="rapacity" label="rapacity">
+        <attvalues>
+          <attvalue for="0" value="1.54406804435" />
+        </attvalues>
+      </node>
+      <node id="raddle" label="raddle">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="radiation" label="radiation" />
+      <node id="rarefy" label="rarefy" />
+      <node id="ratified" label="ratified" />
+      <node id="rapport" label="rapport" />
+      <node id="rapidity" label="rapidity">
+        <attvalues>
+          <attvalue for="0" value="2.39445168083" />
+        </attvalues>
+      </node>
+      <node id="rainmaker" label="rainmaker">
+        <attvalues>
+          <attvalue for="0" value="2.24054924828" />
+        </attvalues>
+      </node>
+      <node id="raffle" label="raffle" />
+      <node id="raid" label="raid" />
+      <node id="rabies" label="rabies" />
+      <node id="rainbow" label="rainbow">
+        <attvalues>
+          <attvalue for="0" value="3.56205482966" />
+        </attvalues>
+      </node>
+      <node id="raindrop" label="raindrop">
+        <attvalues>
+          <attvalue for="0" value="2.1105897103" />
+        </attvalues>
+      </node>
+      <node id="racking" label="racking">
+        <attvalues>
+          <attvalue for="0" value="2.64443858947" />
+        </attvalues>
+      </node>
+      <node id="rail" label="rail">
+        <attvalues>
+          <attvalue for="0" value="3.88149877961" />
+        </attvalues>
+      </node>
+      <node id="radically" label="radically">
+        <attvalues>
+          <attvalue for="0" value="3.51877706893" />
+        </attvalues>
+      </node>
+      <node id="rain" label="rain">
+        <attvalues>
+          <attvalue for="0" value="4.41346741299" />
+        </attvalues>
+      </node>
+      <node id="rarefied" label="rarefied">
+        <attvalues>
+          <attvalue for="0" value="2.58206336291" />
+        </attvalues>
+      </node>
+      <node id="raucous" label="raucous" />
+      <node id="rations" label="rations" />
+      <node id="rabid" label="rabid">
+        <attvalues>
+          <attvalue for="0" value="2.81822589361" />
+        </attvalues>
+      </node>
+      <node id="rationale" label="rationale">
+        <attvalues>
+          <attvalue for="0" value="3.55108386519" />
+        </attvalues>
+      </node>
+      <node id="rasping" label="rasping">
+        <attvalues>
+          <attvalue for="0" value="2.42651126136" />
+        </attvalues>
+      </node>
+      <node id="ramify" label="ramify" />
+      <node id="ramble" label="ramble">
+        <attvalues>
+          <attvalue for="0" value="2.49692964807" />
+        </attvalues>
+      </node>
+      <node id="radiating" label="radiating">
+        <attvalues>
+          <attvalue for="0" value="2.81954393554" />
+        </attvalues>
+      </node>
+      <node id="rationalize" label="rationalize">
+        <attvalues>
+          <attvalue for="0" value="2.778874472" />
+        </attvalues>
+      </node>
+      <node id="ranch" label="ranch">
+        <attvalues>
+          <attvalue for="0" value="3.9923767598" />
+        </attvalues>
+      </node>
+      <node id="rancid" label="rancid" />
+      <node id="ragged" label="ragged" />
+      <node id="radionics" label="radionics" />
+      <node id="ramification" label="ramification">
+        <attvalues>
+          <attvalue for="0" value="1.56820172407" />
+        </attvalues>
+      </node>
+      <node id="rainbowlike" label="rainbowlike" />
+      <node id="ravine" label="ravine" />
+      <node id="raving" label="raving" />
+      <node id="rationality" label="rationality" />
+    </nodes>
+    <edges>
+      <edge id="0" source="rakish" target="ransom" weight="0.014085" />
+      <edge id="1" source="rakish" target="raging" weight="0.021053" />
+      <edge id="2" source="rakish" target="rake" weight="0.013072" />
+      <edge id="3" source="rakish" target="raffish" weight="0.04878" />
+      <edge id="4" source="rakish" target="rash" weight="0.015873" />
+      <edge id="5" source="rakish" target="ragtime" weight="0.02" />
+      <edge id="6" source="rakish" target="rabid" weight="0.022727" />
+      <edge id="7" source="rakish" target="ravished" weight="0.026667" />
+      <edge id="8" source="rating" target="rag" weight="0.013575" />
+      <edge id="9" source="rating" target="radix" weight="0.007634" />
+      <edge id="10" source="rating" target="rattle" weight="0.003165" />
+      <edge id="11" source="rating" target="radical" weight="0.00597" />
+      <edge id="12" source="rating" target="ram" weight="0.005848" />
+      <edge id="13" source="rating" target="rank" weight="0.082437" />
+      <edge id="14" source="rating" target="rant" weight="0.013043" />
+      <edge id="15" source="rating" target="rate" weight="0.119469" />
+      <edge id="16" source="rating" target="radius" weight="0.009302" />
+      <edge id="17" source="rating" target="rap" weight="0.018072" />
+      <edge id="18" source="rating" target="rave" weight="0.01087" />
+      <edge id="19" source="rating" target="rally" weight="0.005291" />
+      <edge id="20" source="rating" target="rape" weight="0.022727" />
+      <edge id="21" source="rating" target="raw" weight="0.003623" />
+      <edge id="22" source="rating" target="rapid" weight="0.00578" />
+      <edge id="23" source="rating" target="ratio" weight="0.030303" />
+      <edge id="24" source="rating" target="raise" weight="0.009412" />
+      <edge id="25" source="rating" target="racism" weight="0.007519" />
+      <edge id="26" source="rating" target="ravage" weight="0.004292" />
+      <edge id="27" source="rating" target="rapport" weight="0.004762" />
+      <edge id="28" source="rating" target="ranking" weight="0.138298" />
+      <edge id="29" source="rating" target="ration" weight="0.012121" />
+      <edge id="30" source="rating" target="raid" weight="0.0125" />
+      <edge id="31" source="rating" target="rake" weight="0.004292" />
+      <edge id="32" source="rating" target="rail" weight="0.011905" />
+      <edge id="33" source="rating" target="rain" weight="0.004808" />
+      <edge id="34" source="rating" target="rationality" weight="0.006173" />
+      <edge id="35" source="rating" target="rasping" weight="0.007042" />
+      <edge id="36" source="rating" target="railroad" weight="0.007299" />
+      <edge id="37" source="rating" target="rampant" weight="0.004065" />
+      <edge id="38" source="rating" target="ramify" weight="0.006024" />
+      <edge id="39" source="rating" target="rationing" weight="0.007576" />
+      <edge id="40" source="rating" target="rampage" weight="0.011765" />
+      <edge id="41" source="rating" target="rage" weight="0.007576" />
+      <edge id="42" source="rating" target="ravish" weight="0.005208" />
+      <edge id="43" source="rating" target="ramp" weight="0.016304" />
+      <edge id="44" source="rating" target="rancid" weight="0.006061" />
+      <edge id="45" source="rating" target="range" weight="0.042184" />
+      <edge id="46" source="rating" target="race" weight="0.114865" />
+      <edge id="47" source="rating" target="ramification" weight="0.017964" />
+      <edge id="48" source="rating" target="ravishment" weight="0.005952" />
+      <edge id="49" source="rating" target="rationalization" weight="0.014851" />
+      <edge id="50" source="rating" target="railway" weight="0.007353" />
+      <edge id="51" source="rating" target="raze" weight="0.011494" />
+      <edge id="52" source="rating" target="rack" weight="0.002933" />
+      <edge id="53" source="rating" target="radio" weight="0.005952" />
+      <edge id="54" source="rating" target="ranch" weight="0.021127" />
+      <edge id="55" source="radix" target="ratio" weight="0.025641" />
+      <edge id="56" source="radix" target="raise" weight="0.002959" />
+      <edge id="57" source="radix" target="rake" weight="0.006993" />
+      <edge id="58" source="radix" target="ramp" weight="0.010417" />
+      <edge id="59" source="radix" target="rain" weight="0.008475" />
+      <edge id="60" source="radix" target="ratiocination" weight="0.023256" />
+      <edge id="61" source="radix" target="race" weight="0.016949" />
+      <edge id="62" source="radix" target="ramification" weight="0.012658" />
+      <edge id="63" source="radix" target="rabid" weight="0.012821" />
+      <edge id="64" source="radix" target="rationalization" weight="0.008772" />
+      <edge id="65" source="ramous" target="ramify" weight="0.015152" />
+      <edge id="66" source="ramous" target="rawboned" weight="0.034483" />
+      <edge id="67" source="ramous" target="ramification" weight="0.014493" />
+      <edge id="68" source="rambling" target="rattle" weight="0.002558" />
+      <edge id="69" source="rambling" target="random" weight="0.086957" />
+      <edge id="70" source="rambling" target="racket" weight="0.002786" />
+      <edge id="71" source="rambling" target="racking" weight="0.004608" />
+      <edge id="72" source="rambling" target="rant" weight="0.003257" />
+      <edge id="73" source="rambling" target="ransack" weight="0.004608" />
+      <edge id="74" source="rambling" target="ray" weight="0.004425" />
+      <edge id="75" source="rambling" target="ragamuffin" weight="0.014354" />
+      <edge id="76" source="rambling" target="raddle" weight="0.004202" />
+      <edge id="77" source="rambling" target="rambler" weight="0.005025" />
+      <edge id="78" source="rambling" target="rash" weight="0.010753" />
+      <edge id="79" source="rambling" target="raging" weight="0.028689" />
+      <edge id="80" source="rambling" target="raggedy" weight="0.008772" />
+      <edge id="81" source="rambling" target="raven" weight="0.004098" />
+      <edge id="82" source="rambling" target="rake" weight="0.006515" />
+      <edge id="83" source="rambling" target="rabid" weight="0.02521" />
+      <edge id="84" source="rambling" target="rasping" weight="0.004608" />
+      <edge id="85" source="rambling" target="ragpicker" weight="0.014354" />
+      <edge id="86" source="rambling" target="rare" weight="0.008499" />
+      <edge id="87" source="rambling" target="ramble" weight="0.067227" />
+      <edge id="88" source="rambling" target="rage" weight="0.002941" />
+      <edge id="89" source="rambling" target="rattlebrained" weight="0.019608" />
+      <edge id="90" source="rambling" target="range" weight="0.014344" />
+      <edge id="91" source="rambling" target="race" weight="0.002475" />
+      <edge id="92" source="rambling" target="rattail" weight="0.004975" />
+      <edge id="93" source="rambling" target="rack" weight="0.002404" />
+      <edge id="94" source="rambling" target="ravished" weight="0.026667" />
+      <edge id="95" source="ratify" target="range" weight="0.00271" />
+      <edge id="96" source="ratify" target="ratification" weight="0.058824" />
+      <edge id="97" source="ratify" target="raise" weight="0.005305" />
+      <edge id="98" source="ratify" target="rain" weight="0.006329" />
+      <edge id="99" source="ratify" target="rationalize" weight="0.007299" />
+      <edge id="100" source="rapture" target="radiance" weight="0.0375" />
+      <edge id="101" source="rapture" target="radicalism" weight="0.014085" />
+      <edge id="102" source="rapture" target="rant" weight="0.012195" />
+      <edge id="103" source="rapture" target="racket" weight="0.023474" />
+      <edge id="104" source="rapture" target="rape" weight="0.018018" />
+      <edge id="105" source="rapture" target="rapist" weight="0.010309" />
+      <edge id="106" source="rapture" target="raise" weight="0.005556" />
+      <edge id="107" source="rapture" target="ravage" weight="0.006024" />
+      <edge id="108" source="rapture" target="rapport" weight="0.006993" />
+      <edge id="109" source="rapture" target="raid" weight="0.010638" />
+      <edge id="110" source="rapture" target="rabies" weight="0.012658" />
+      <edge id="111" source="rapture" target="raising" weight="0.016949" />
+      <edge id="112" source="rapture" target="ranting" weight="0.010101" />
+      <edge id="113" source="rapture" target="ramble" weight="0.009009" />
+      <edge id="114" source="rapture" target="rampage" weight="0.019417" />
+      <edge id="115" source="rapture" target="rage" weight="0.081522" />
+      <edge id="116" source="rapture" target="ravish" weight="0.02439" />
+      <edge id="117" source="rapture" target="ramp" weight="0.008403" />
+      <edge id="118" source="rapture" target="ravishment" weight="0.545455" />
+      <edge id="119" source="rapture" target="raving" weight="0.007692" />
+      <edge id="120" source="rapture" target="rack" weight="0.00365" />
+      <edge id="121" source="rapture" target="rave" weight="0.017094" />
+      <edge id="122" source="rabbi" target="ratification" weight="0.010309" />
+      <edge id="123" source="rabbi" target="raiser" weight="0.009901" />
+      <edge id="124" source="rabbi" target="raise" weight="0.002717" />
+      <edge id="125" source="rabbi" target="rainmaker" weight="0.017544" />
+      <edge id="126" source="random" target="raging" weight="0.013158" />
+      <edge id="127" source="random" target="radical" weight="0.003185" />
+      <edge id="128" source="random" target="rank" weight="0.003448" />
+      <edge id="129" source="random" target="raw" weight="0.003937" />
+      <edge id="130" source="random" target="racking" weight="0.008333" />
+      <edge id="131" source="random" target="raggedy" weight="0.007576" />
+      <edge id="132" source="random" target="ragged" weight="0.035874" />
+      <edge id="133" source="random" target="ragamuffin" weight="0.008772" />
+      <edge id="134" source="random" target="rayless" weight="0.009434" />
+      <edge id="135" source="random" target="ragman" weight="0.008772" />
+      <edge id="136" source="random" target="rarefied" weight="0.013699" />
+      <edge id="137" source="random" target="ranting" weight="0.013986" />
+      <edge id="138" source="random" target="rampant" weight="0.013514" />
+      <edge id="139" source="random" target="ragpicker" weight="0.008772" />
+      <edge id="140" source="random" target="randomness" weight="0.008621" />
+      <edge id="141" source="random" target="rare" weight="0.011719" />
+      <edge id="142" source="random" target="ramble" weight="0.012903" />
+      <edge id="143" source="random" target="radiant" weight="0.004739" />
+      <edge id="144" source="random" target="rattlebrained" weight="0.009091" />
+      <edge id="145" source="random" target="range" weight="0.002519" />
+      <edge id="146" source="random" target="raving" weight="0.023256" />
+      <edge id="147" source="rapscallion" target="rapist" weight="0.050633" />
+      <edge id="148" source="rapscallion" target="rascal" weight="0.75" />
+      <edge id="149" source="rapscallion" target="rat" weight="0.030303" />
+      <edge id="150" source="rapscallion" target="raucous" weight="0.013699" />
+      <edge id="151" source="rapscallion" target="raffish" weight="0.025641" />
+      <edge id="152" source="rapscallion" target="racketeer" weight="0.030769" />
+      <edge id="153" source="rapscallion" target="ramification" weight="0.023256" />
+      <edge id="154" source="rabbinic" target="rationalistic" weight="0.021739" />
+      <edge id="155" source="rabbinic" target="rapt" weight="0.008333" />
+      <edge id="156" source="radar" target="range" weight="0.00625" />
+      <edge id="157" source="radar" target="rationalize" weight="0.011236" />
+      <edge id="158" source="radio" target="race" weight="0.007273" />
+      <edge id="159" source="radio" target="ratio" weight="0.008621" />
+      <edge id="160" source="radio" target="radiogram" weight="0.084746" />
+      <edge id="161" source="radio" target="rattle" weight="0.003802" />
+      <edge id="162" source="radio" target="ram" weight="0.008475" />
+      <edge id="163" source="radio" target="rat" weight="0.007692" />
+      <edge id="164" source="radio" target="raise" weight="0.008043" />
+      <edge id="165" source="radio" target="range" weight="0.002732" />
+      <edge id="166" source="radio" target="ratification" weight="0.009615" />
+      <edge id="167" source="radio" target="rare" weight="0.004405" />
+      <edge id="168" source="radio" target="ranter" weight="0.012821" />
+      <edge id="169" source="radio" target="rack" weight="0.003472" />
+      <edge id="170" source="radio" target="ray" weight="0.020619" />
+      <edge id="171" source="railing" target="razz" weight="0.016667" />
+      <edge id="172" source="railing" target="railroad" weight="0.018182" />
+      <edge id="173" source="railing" target="radiant" weight="0.006623" />
+      <edge id="174" source="railing" target="rake" weight="0.006623" />
+      <edge id="175" source="railing" target="rail" weight="0.060241" />
+      <edge id="176" source="railing" target="rate" weight="0.005882" />
+      <edge id="177" source="railing" target="razzing" weight="0.578947" />
+      <edge id="178" source="railing" target="rabbet" weight="0.007874" />
+      <edge id="179" source="railing" target="rampart" weight="0.035714" />
+      <edge id="180" source="railing" target="railway" weight="0.018519" />
+      <edge id="181" source="railing" target="raillery" weight="0.276596" />
+      <edge id="182" source="rampart" target="ram" weight="0.017094" />
+      <edge id="183" source="rampart" target="raise" weight="0.002667" />
+      <edge id="184" source="rampart" target="rattle" weight="0.007634" />
+      <edge id="185" source="rampart" target="ramp" weight="0.022901" />
+      <edge id="186" source="rampart" target="rake" weight="0.016854" />
+      <edge id="187" source="rampart" target="rail" weight="0.054054" />
+      <edge id="188" source="rampart" target="range" weight="0.002732" />
+      <edge id="189" source="rampart" target="ratification" weight="0.009615" />
+      <edge id="190" source="rampart" target="ramification" weight="0.017391" />
+      <edge id="191" source="rampart" target="racket" weight="0.004329" />
+      <edge id="192" source="rampart" target="raft" weight="0.011111" />
+      <edge id="193" source="rampart" target="railroad" weight="0.011905" />
+      <edge id="194" source="rampart" target="ray" weight="0.010204" />
+      <edge id="195" source="rampart" target="rack" weight="0.006969" />
+      <edge id="196" source="rampart" target="raven" weight="0.008621" />
+      <edge id="197" source="rambler" target="range" weight="0.003106" />
+      <edge id="198" source="rambler" target="ramble" weight="0.012346" />
+      <edge id="199" source="racecourse" target="ramble" weight="0.011765" />
+      <edge id="200" source="racecourse" target="raddle" weight="0.014286" />
+      <edge id="201" source="racecourse" target="rail" weight="0.013158" />
+      <edge id="202" source="racecourse" target="range" weight="0.018692" />
+      <edge id="203" source="racecourse" target="race" weight="0.004237" />
+      <edge id="204" source="racecourse" target="railroad" weight="0.022727" />
+      <edge id="205" source="racecourse" target="rack" weight="0.004032" />
+      <edge id="206" source="racecourse" target="raise" weight="0.002985" />
+      <edge id="207" source="rapid" target="raised" weight="0.008403" />
+      <edge id="208" source="rapid" target="raise" weight="0.005277" />
+      <edge id="209" source="rapid" target="rage" weight="0.004608" />
+      <edge id="210" source="rapid" target="rake" weight="0.005405" />
+      <edge id="211" source="rapid" target="ramp" weight="0.007246" />
+      <edge id="212" source="rapid" target="rash" weight="0.067114" />
+      <edge id="213" source="rapid" target="rant" weight="0.005435" />
+      <edge id="214" source="rapid" target="race" weight="0.003559" />
+      <edge id="215" source="rapid" target="ramification" weight="0.008264" />
+      <edge id="216" source="rapid" target="rain" weight="0.00625" />
+      <edge id="217" source="rapid" target="racking" weight="0.010638" />
+      <edge id="218" source="rapid" target="ranter" weight="0.012048" />
+      <edge id="219" source="rapid" target="rapidity" weight="0.020619" />
+      <edge id="220" source="rapid" target="ray" weight="0.009709" />
+      <edge id="221" source="ratio" target="rag" weight="0.011765" />
+      <edge id="222" source="ratio" target="radical" weight="0.007067" />
+      <edge id="223" source="ratio" target="rank" weight="0.020333" />
+      <edge id="224" source="ratio" target="rarefy" weight="0.009901" />
+      <edge id="225" source="ratio" target="rate" weight="0.069149" />
+      <edge id="226" source="ratio" target="radius" weight="0.071429" />
+      <edge id="227" source="ratio" target="rap" weight="0.007042" />
+      <edge id="228" source="ratio" target="rally" weight="0.006135" />
+      <edge id="229" source="ratio" target="ray" weight="0.010101" />
+      <edge id="230" source="ratio" target="rapprochement" weight="0.021505" />
+      <edge id="231" source="ratio" target="raise" weight="0.010724" />
+      <edge id="232" source="ratio" target="range" weight="0.108434" />
+      <edge id="233" source="ratio" target="rapport" weight="0.025806" />
+      <edge id="234" source="ratio" target="ratiocination" weight="0.051282" />
+      <edge id="235" source="ratio" target="rankle" weight="0.007407" />
+      <edge id="236" source="ratio" target="rational" weight="0.014184" />
+      <edge id="237" source="ratio" target="rationalism" weight="0.026316" />
+      <edge id="238" source="ratio" target="raven" weight="0.008547" />
+      <edge id="239" source="ratio" target="ration" weight="0.055046" />
+      <edge id="240" source="ratio" target="raid" weight="0.009174" />
+      <edge id="241" source="ratio" target="rasp" weight="0.007143" />
+      <edge id="242" source="ratio" target="rake" weight="0.022472" />
+      <edge id="243" source="ratio" target="rail" weight="0.017241" />
+      <edge id="244" source="ratio" target="rain" weight="0.012903" />
+      <edge id="245" source="ratio" target="rarefied" weight="0.008547" />
+      <edge id="246" source="ratio" target="rawhide" weight="0.009009" />
+      <edge id="247" source="ratio" target="rationale" weight="0.025641" />
+      <edge id="248" source="ratio" target="rationalization" weight="0.026846" />
+      <edge id="249" source="ratio" target="rampant" weight="0.005155" />
+      <edge id="250" source="ratio" target="raising" weight="0.007463" />
+      <edge id="251" source="ratio" target="ramble" weight="0.007937" />
+      <edge id="252" source="ratio" target="rare" weight="0.004386" />
+      <edge id="253" source="ratio" target="rasher" weight="0.007692" />
+      <edge id="254" source="ratio" target="rationalize" weight="0.007407" />
+      <edge id="255" source="ratio" target="ramp" weight="0.022727" />
+      <edge id="256" source="ratio" target="ragged" weight="0.005" />
+      <edge id="257" source="ratio" target="rabbet" weight="0.012821" />
+      <edge id="258" source="ratio" target="race" weight="0.018315" />
+      <edge id="259" source="ratio" target="ravine" weight="0.016129" />
+      <edge id="260" source="ratio" target="raze" weight="0.016393" />
+      <edge id="261" source="ratio" target="rack" weight="0.017544" />
+      <edge id="262" source="ratio" target="rationality" weight="0.168421" />
+      <edge id="263" source="rash" target="rancorous" weight="0.007463" />
+      <edge id="264" source="rash" target="raised" weight="0.006579" />
+      <edge id="265" source="rash" target="rapids" weight="0.007407" />
+      <edge id="266" source="rash" target="rattle" weight="0.003322" />
+      <edge id="267" source="rash" target="raw" weight="0.003831" />
+      <edge id="268" source="rash" target="raggedy" weight="0.007194" />
+      <edge id="269" source="rash" target="ragged" weight="0.012766" />
+      <edge id="270" source="rash" target="rapidly" weight="0.008621" />
+      <edge id="271" source="rash" target="raise" weight="0.004854" />
+      <edge id="272" source="rash" target="raging" weight="0.00625" />
+      <edge id="273" source="rash" target="randy" weight="0.008065" />
+      <edge id="274" source="rash" target="rankle" weight="0.005814" />
+      <edge id="275" source="rash" target="rasp" weight="0.00565" />
+      <edge id="276" source="rash" target="rankled" weight="0.00885" />
+      <edge id="277" source="rash" target="rabies" weight="0.015385" />
+      <edge id="278" source="rash" target="rain" weight="0.005181" />
+      <edge id="279" source="rash" target="raucous" weight="0.007143" />
+      <edge id="280" source="rash" target="rabid" weight="0.006536" />
+      <edge id="281" source="rash" target="rampant" weight="0.008696" />
+      <edge id="282" source="rash" target="ranting" weight="0.006623" />
+      <edge id="283" source="rash" target="rage" weight="0.016194" />
+      <edge id="284" source="rash" target="rattlebrained" weight="0.008547" />
+      <edge id="285" source="rash" target="race" weight="0.003185" />
+      <edge id="286" source="rash" target="raving" weight="0.005495" />
+      <edge id="287" source="rash" target="raze" weight="0.00625" />
+      <edge id="288" source="rash" target="rack" weight="0.003067" />
+      <edge id="289" source="rash" target="ravished" weight="0.007143" />
+      <edge id="290" source="randy" target="rank" weight="0.003846" />
+      <edge id="291" source="randy" target="ranting" weight="0.011905" />
+      <edge id="292" source="randy" target="raging" weight="0.021739" />
+      <edge id="293" source="randy" target="rake" weight="0.006623" />
+      <edge id="294" source="randy" target="rainy" weight="0.017857" />
+      <edge id="295" source="randy" target="racy" weight="0.028571" />
+      <edge id="296" source="randy" target="rapacious" weight="0.015152" />
+      <edge id="297" source="randy" target="raw" weight="0.010363" />
+      <edge id="298" source="randy" target="ragtime" weight="0.021277" />
+      <edge id="299" source="randy" target="rabid" weight="0.011628" />
+      <edge id="300" source="randy" target="raunchy" weight="0.09434" />
+      <edge id="301" source="randy" target="ravenous" weight="0.013889" />
+      <edge id="302" source="randy" target="raving" weight="0.008696" />
+      <edge id="303" source="randy" target="ravished" weight="0.013699" />
+      <edge id="304" source="rankle" target="rattle" weight="0.007117" />
+      <edge id="305" source="rankle" target="ram" weight="0.014706" />
+      <edge id="306" source="rankle" target="rancor" weight="0.009804" />
+      <edge id="307" source="rankle" target="rant" weight="0.015306" />
+      <edge id="308" source="rankle" target="ransack" weight="0.009259" />
+      <edge id="309" source="rankle" target="raise" weight="0.015424" />
+      <edge id="310" source="rankle" target="raddle" weight="0.023622" />
+      <edge id="311" source="rankle" target="rape" weight="0.006897" />
+      <edge id="312" source="rankle" target="ratchet" weight="0.011111" />
+      <edge id="313" source="rankle" target="raven" weight="0.007407" />
+      <edge id="314" source="rankle" target="rake" weight="0.010101" />
+      <edge id="315" source="rankle" target="rain" weight="0.005747" />
+      <edge id="316" source="rankle" target="rarefied" weight="0.007407" />
+      <edge id="317" source="rankle" target="rawhide" weight="0.007752" />
+      <edge id="318" source="rankle" target="rasping" weight="0.009259" />
+      <edge id="319" source="rankle" target="rare" weight="0.004065" />
+      <edge id="320" source="rankle" target="ramble" weight="0.006944" />
+      <edge id="321" source="rankle" target="rage" weight="0.022026" />
+      <edge id="322" source="rankle" target="ranch" weight="0.009091" />
+      <edge id="323" source="rankle" target="ramp" weight="0.013245" />
+      <edge id="324" source="rankle" target="range" weight="0.007833" />
+      <edge id="325" source="rankle" target="race" weight="0.010239" />
+      <edge id="326" source="rankle" target="rattail" weight="0.01087" />
+      <edge id="327" source="rankle" target="rack" weight="0.140741" />
+      <edge id="328" source="rasp" target="rattle" weight="0.006993" />
+      <edge id="329" source="rasp" target="ram" weight="0.007042" />
+      <edge id="330" source="rasp" target="rancor" weight="0.009346" />
+      <edge id="331" source="rasp" target="rant" weight="0.014925" />
+      <edge id="332" source="rasp" target="racket" weight="0.003922" />
+      <edge id="333" source="rasp" target="ransack" weight="0.00885" />
+      <edge id="334" source="rasp" target="raise" weight="0.002506" />
+      <edge id="335" source="rasp" target="raddle" weight="0.022727" />
+      <edge id="336" source="rasp" target="rape" weight="0.006667" />
+      <edge id="337" source="rasp" target="ratchet" weight="0.010526" />
+      <edge id="338" source="rasp" target="rake" weight="0.014851" />
+      <edge id="339" source="rasp" target="raiment" weight="0.007519" />
+      <edge id="340" source="rasp" target="rarefied" weight="0.007143" />
+      <edge id="341" source="rasp" target="rawhide" weight="0.007463" />
+      <edge id="342" source="rasp" target="rasping" weight="0.055556" />
+      <edge id="343" source="rasp" target="rare" weight="0.003984" />
+      <edge id="344" source="rasp" target="ramble" weight="0.006711" />
+      <edge id="345" source="rasp" target="rage" weight="0.012821" />
+      <edge id="346" source="rasp" target="ramp" weight="0.006369" />
+      <edge id="347" source="rasp" target="range" weight="0.010336" />
+      <edge id="348" source="rasp" target="race" weight="0.006689" />
+      <edge id="349" source="rasp" target="rattail" weight="0.010309" />
+      <edge id="350" source="rasp" target="rack" weight="0.142336" />
+      <edge id="351" source="rabbinate" target="racket" weight="0.005587" />
+      <edge id="352" source="rabble" target="raise" weight="0.011834" />
+      <edge id="353" source="rabble" target="rattle" weight="0.008772" />
+      <edge id="354" source="rabble" target="ram" weight="0.036585" />
+      <edge id="355" source="rabble" target="rain" weight="0.02521" />
+      <edge id="356" source="rabble" target="range" weight="0.003012" />
+      <edge id="357" source="rabble" target="race" weight="0.004132" />
+      <edge id="358" source="rabble" target="rainstorm" weight="0.069767" />
+      <edge id="359" source="rabble" target="raft" weight="0.036364" />
+      <edge id="360" source="rabble" target="rack" weight="0.003937" />
+      <edge id="361" source="raillery" target="rag" weight="0.058824" />
+      <edge id="362" source="raillery" target="razz" weight="0.166667" />
+      <edge id="363" source="raillery" target="rapping" weight="0.018519" />
+      <edge id="364" source="raillery" target="raff" weight="0.020833" />
+      <edge id="365" source="raillery" target="racer" weight="0.014706" />
+      <edge id="366" source="raillery" target="razzing" weight="0.377778" />
+      <edge id="367" source="raillery" target="rapport" weight="0.007692" />
+      <edge id="368" source="raillery" target="ragtime" weight="0.020408" />
+      <edge id="369" source="raillery" target="race" weight="0.004016" />
+      <edge id="370" source="raillery" target="rap" weight="0.011765" />
+      <edge id="371" source="raillery" target="racket" weight="0.004902" />
+      <edge id="372" source="raillery" target="rally" weight="0.023891" />
+      <edge id="373" source="ravel" target="ramble" weight="0.008065" />
+      <edge id="374" source="ravel" target="rationalize" weight="0.055118" />
+      <edge id="375" source="ravel" target="rattle" weight="0.023346" />
+      <edge id="376" source="ravel" target="rake" weight="0.005587" />
+      <edge id="377" source="ravel" target="raddle" weight="0.018519" />
+      <edge id="378" source="ravel" target="range" weight="0.005495" />
+      <edge id="379" source="ravel" target="rattail" weight="0.013889" />
+      <edge id="380" source="ravel" target="racket" weight="0.004348" />
+      <edge id="381" source="ravel" target="raft" weight="0.011236" />
+      <edge id="382" source="ravel" target="raise" weight="0.002674" />
+      <edge id="383" source="raven" target="rag" weight="0.011765" />
+      <edge id="384" source="raven" target="rattle" weight="0.003788" />
+      <edge id="385" source="raven" target="radical" weight="0.003521" />
+      <edge id="386" source="raven" target="ram" weight="0.016949" />
+      <edge id="387" source="raven" target="rank" weight="0.005464" />
+      <edge id="388" source="raven" target="rant" weight="0.022599" />
+      <edge id="389" source="raven" target="rat" weight="0.007634" />
+      <edge id="390" source="raven" target="radius" weight="0.006098" />
+      <edge id="391" source="raven" target="ransack" weight="0.263889" />
+      <edge id="392" source="raven" target="rapist" weight="0.008929" />
+      <edge id="393" source="raven" target="raise" weight="0.00266" />
+      <edge id="394" source="raven" target="range" weight="0.005464" />
+      <edge id="395" source="raven" target="ravage" weight="0.1375" />
+      <edge id="396" source="raven" target="rayless" weight="0.054795" />
+      <edge id="397" source="raven" target="raffle" weight="0.015873" />
+      <edge id="398" source="raven" target="raid" weight="0.208791" />
+      <edge id="399" source="raven" target="rainbow" weight="0.021898" />
+      <edge id="400" source="raven" target="rake" weight="0.022472" />
+      <edge id="401" source="raven" target="rain" weight="0.00641" />
+      <edge id="402" source="raven" target="rawhide" weight="0.009009" />
+      <edge id="403" source="raven" target="rape" weight="0.07563" />
+      <edge id="404" source="raven" target="rampage" weight="0.025641" />
+      <edge id="405" source="raven" target="rage" weight="0.019048" />
+      <edge id="406" source="raven" target="ravish" weight="0.155738" />
+      <edge id="407" source="raven" target="ramp" weight="0.030534" />
+      <edge id="408" source="raven" target="rabbet" weight="0.019355" />
+      <edge id="409" source="raven" target="race" weight="0.00361" />
+      <edge id="410" source="raven" target="ravishment" weight="0.054054" />
+      <edge id="411" source="raven" target="ravine" weight="0.008" />
+      <edge id="412" source="raven" target="rave" weight="0.030769" />
+      <edge id="413" source="ranking" target="rationing" weight="0.008065" />
+      <edge id="414" source="ranking" target="rare" weight="0.018657" />
+      <edge id="415" source="ranking" target="raise" weight="0.002381" />
+      <edge id="416" source="ranking" target="radiating" weight="0.009091" />
+      <edge id="417" source="ranking" target="rationalization" weight="0.005102" />
+      <edge id="418" source="ranking" target="range" weight="0.009804" />
+      <edge id="419" source="ranking" target="race" weight="0.012579" />
+      <edge id="420" source="ranking" target="raiser" weight="0.006536" />
+      <edge id="421" source="ranking" target="radial" weight="0.009091" />
+      <edge id="422" source="ranking" target="rasping" weight="0.007463" />
+      <edge id="423" source="ranking" target="ramification" weight="0.0125" />
+      <edge id="424" source="rancorous" target="ratty" weight="0.014706" />
+      <edge id="425" source="rancorous" target="radium" weight="0.044444" />
+      <edge id="426" source="rancorous" target="rancor" weight="0.015625" />
+      <edge id="427" source="rancorous" target="rapacious" weight="0.013158" />
+      <edge id="428" source="rancorous" target="raw" weight="0.014851" />
+      <edge id="429" source="rancorous" target="rank" weight="0.005671" />
+      <edge id="430" source="rancorous" target="radical" weight="0.003788" />
+      <edge id="431" source="rancorous" target="ravenous" weight="0.012195" />
+      <edge id="432" source="rancorous" target="rankled" weight="0.295455" />
+      <edge id="433" source="rancorous" target="racy" weight="0.012346" />
+      <edge id="434" source="rancorous" target="radiant" weight="0.006211" />
+      <edge id="435" source="radiator" target="radioelement" weight="0.166667" />
+      <edge id="436" source="ragman" target="rake" weight="0.006757" />
+      <edge id="437" source="ragman" target="ramble" weight="0.044444" />
+      <edge id="438" source="ragman" target="ragamuffin" weight="0.925926" />
+      <edge id="439" source="ragman" target="rascal" weight="0.016949" />
+      <edge id="440" source="ragman" target="range" weight="0.012085" />
+      <edge id="441" source="ragman" target="ragpicker" weight="0.925926" />
+      <edge id="442" source="rake" target="rapids" weight="0.025157" />
+      <edge id="443" source="rake" target="rattle" weight="0.012308" />
+      <edge id="444" source="rake" target="radical" weight="0.002874" />
+      <edge id="445" source="rake" target="rank" weight="0.004894" />
+      <edge id="446" source="rake" target="rarefy" weight="0.012195" />
+      <edge id="447" source="rake" target="rate" weight="0.01145" />
+      <edge id="448" source="rake" target="rap" weight="0.020408" />
+      <edge id="449" source="rake" target="radiate" weight="0.005882" />
+      <edge id="450" source="rake" target="racket" weight="0.00678" />
+      <edge id="451" source="rake" target="rally" weight="0.005128" />
+      <edge id="452" source="rake" target="ransack" weight="0.054422" />
+      <edge id="453" source="rake" target="ray" weight="0.012346" />
+      <edge id="454" source="rake" target="rapist" weight="0.005682" />
+      <edge id="455" source="rake" target="raise" weight="0.013793" />
+      <edge id="456" source="rake" target="ragamuffin" weight="0.006757" />
+      <edge id="457" source="rake" target="radiation" weight="0.006024" />
+      <edge id="458" source="rake" target="rabbet" weight="0.018349" />
+      <edge id="459" source="rake" target="ravage" weight="0.016529" />
+      <edge id="460" source="rake" target="radiorays" weight="0.007576" />
+      <edge id="461" source="rake" target="ramification" weight="0.01676" />
+      <edge id="462" source="rake" target="rag" weight="0.017241" />
+      <edge id="463" source="rake" target="rainfall" weight="0.007246" />
+      <edge id="464" source="rake" target="ram" weight="0.016575" />
+      <edge id="465" source="rake" target="raid" weight="0.011628" />
+      <edge id="466" source="rake" target="raindrop" weight="0.014493" />
+      <edge id="467" source="rake" target="ration" weight="0.005618" />
+      <edge id="468" source="rake" target="rail" weight="0.076923" />
+      <edge id="469" source="rake" target="rain" weight="0.027907" />
+      <edge id="470" source="rake" target="raiment" weight="0.005747" />
+      <edge id="471" source="rake" target="rarefied" weight="0.011111" />
+      <edge id="472" source="rake" target="ragtime" weight="0.014286" />
+      <edge id="473" source="rake" target="rawhide" weight="0.011494" />
+      <edge id="474" source="rake" target="rape" weight="0.010526" />
+      <edge id="475" source="rake" target="rationalization" weight="0.00463" />
+      <edge id="476" source="rake" target="railroad" weight="0.006711" />
+      <edge id="477" source="rake" target="rampant" weight="0.003876" />
+      <edge id="478" source="rake" target="ragpicker" weight="0.006757" />
+      <edge id="479" source="rake" target="rare" weight="0.006873" />
+      <edge id="480" source="rake" target="rasher" weight="0.026316" />
+      <edge id="481" source="rake" target="rage" weight="0.00361" />
+      <edge id="482" source="rake" target="rawboned" weight="0.007092" />
+      <edge id="483" source="rake" target="ravish" weight="0.0199" />
+      <edge id="484" source="rake" target="ramp" weight="0.047368" />
+      <edge id="485" source="rake" target="rat" weight="0.005128" />
+      <edge id="486" source="rake" target="ragged" weight="0.003788" />
+      <edge id="487" source="rake" target="range" weight="0.021277" />
+      <edge id="488" source="rake" target="race" weight="0.011834" />
+      <edge id="489" source="rake" target="ratchet" weight="0.104839" />
+      <edge id="490" source="rake" target="ravine" weight="0.005291" />
+      <edge id="491" source="rake" target="railway" weight="0.006757" />
+      <edge id="492" source="rake" target="raze" weight="0.016216" />
+      <edge id="493" source="rake" target="rack" weight="0.017241" />
+      <edge id="494" source="rake" target="ranch" weight="0.012903" />
+      <edge id="495" source="razzing" target="rag" weight="0.014085" />
+      <edge id="496" source="razzing" target="razz" weight="0.05" />
+      <edge id="497" source="razzing" target="radiant" weight="0.006536" />
+      <edge id="498" source="razzing" target="rail" weight="0.011236" />
+      <edge id="499" source="razzing" target="rap" weight="0.003891" />
+      <edge id="500" source="razzing" target="rally" weight="0.003344" />
+      <edge id="501" source="raiment" target="rap" weight="0.003597" />
+      <edge id="502" source="raiment" target="rag" weight="0.050955" />
+      <edge id="503" source="raiment" target="razz" weight="0.012048" />
+      <edge id="504" source="raiment" target="rasher" weight="0.00813" />
+      <edge id="505" source="raiment" target="rate" weight="0.005181" />
+      <edge id="506" source="raiment" target="rage" weight="0.009756" />
+      <edge id="507" source="raiment" target="range" weight="0.002778" />
+      <edge id="508" source="raiment" target="rank" weight="0.001838" />
+      <edge id="509" source="raiment" target="rant" weight="0.00578" />
+      <edge id="510" source="raiment" target="ragtime" weight="0.014286" />
+      <edge id="511" source="raiment" target="race" weight="0.007435" />
+      <edge id="512" source="raiment" target="rally" weight="0.00627" />
+      <edge id="513" source="raiment" target="rasping" weight="0.02439" />
+      <edge id="514" source="raiment" target="raze" weight="0.017391" />
+      <edge id="515" source="raiment" target="rack" weight="0.003546" />
+      <edge id="516" source="raiment" target="raise" weight="0.00271" />
+      <edge id="517" source="rapturous" target="raging" weight="0.064103" />
+      <edge id="518" source="rapturous" target="raised" weight="0.027397" />
+      <edge id="519" source="rapturous" target="rack" weight="0.004032" />
+      <edge id="520" source="rapturous" target="ravished" weight="0.340426" />
+      <edge id="521" source="rapturous" target="rabid" weight="0.070423" />
+      <edge id="522" source="rawhide" target="rag" weight="0.012195" />
+      <edge id="523" source="rawhide" target="rate" weight="0.005155" />
+      <edge id="524" source="rawhide" target="rap" weight="0.060606" />
+      <edge id="525" source="rawhide" target="racket" weight="0.004425" />
+      <edge id="526" source="rawhide" target="ransack" weight="0.024096" />
+      <edge id="527" source="rawhide" target="raise" weight="0.002703" />
+      <edge id="528" source="rawhide" target="raddle" weight="0.009524" />
+      <edge id="529" source="rawhide" target="rarefy" weight="0.010526" />
+      <edge id="530" source="rawhide" target="ravage" weight="0.005714" />
+      <edge id="531" source="rawhide" target="ration" weight="0.009259" />
+      <edge id="532" source="rawhide" target="raid" weight="0.009709" />
+      <edge id="533" source="rawhide" target="rain" weight="0.006667" />
+      <edge id="534" source="rawhide" target="rarefied" weight="0.009009" />
+      <edge id="535" source="rawhide" target="ragtime" weight="0.014085" />
+      <edge id="536" source="rawhide" target="rabbet" weight="0.006623" />
+      <edge id="537" source="rawhide" target="rare" weight="0.004505" />
+      <edge id="538" source="rawhide" target="rasher" weight="0.01626" />
+      <edge id="539" source="rawhide" target="ravish" weight="0.007463" />
+      <edge id="540" source="rawhide" target="ranch" weight="0.011628" />
+      <edge id="541" source="rawhide" target="rat" weight="0.008" />
+      <edge id="542" source="rawhide" target="ragged" weight="0.005155" />
+      <edge id="543" source="rawhide" target="range" weight="0.00277" />
+      <edge id="544" source="rawhide" target="race" weight="0.007407" />
+      <edge id="545" source="rawhide" target="ramification" weight="0.018182" />
+      <edge id="546" source="rawhide" target="ravine" weight="0.008403" />
+      <edge id="547" source="rawhide" target="raze" weight="0.008547" />
+      <edge id="548" source="rawhide" target="rack" weight="0.003534" />
+      <edge id="549" source="ramshackle" target="rarefied" weight="0.012821" />
+      <edge id="550" source="ramshackle" target="raggedy" weight="0.032258" />
+      <edge id="551" source="ramshackle" target="rare" weight="0.005291" />
+      <edge id="552" source="ramshackle" target="rawboned" weight="0.054054" />
+      <edge id="553" source="railroad" target="raised" weight="0.012048" />
+      <edge id="554" source="railroad" target="rattle" weight="0.00431" />
+      <edge id="555" source="railroad" target="ram" weight="0.011494" />
+      <edge id="556" source="railroad" target="rank" weight="0.003861" />
+      <edge id="557" source="railroad" target="racket" weight="0.005" />
+      <edge id="558" source="railroad" target="rate" weight="0.005952" />
+      <edge id="559" source="railroad" target="rally" weight="0.006803" />
+      <edge id="560" source="railroad" target="rapport" weight="0.007937" />
+      <edge id="561" source="railroad" target="racing" weight="0.023256" />
+      <edge id="562" source="railroad" target="rail" weight="0.409836" />
+      <edge id="563" source="railroad" target="rampant" weight="0.006173" />
+      <edge id="564" source="railroad" target="ramify" weight="0.012195" />
+      <edge id="565" source="railroad" target="raddled" weight="0.016949" />
+      <edge id="566" source="railroad" target="range" weight="0.005988" />
+      <edge id="567" source="railroad" target="race" weight="0.008197" />
+      <edge id="568" source="railroad" target="ramification" weight="0.011765" />
+      <edge id="569" source="railroad" target="railway" weight="0.892857" />
+      <edge id="570" source="ravishment" target="rapist" weight="0.009009" />
+      <edge id="571" source="ravishment" target="ramble" weight="0.008" />
+      <edge id="572" source="ravishment" target="rage" weight="0.092308" />
+      <edge id="573" source="ravishment" target="rapacity" weight="0.029412" />
+      <edge id="574" source="ravishment" target="ramp" weight="0.030769" />
+      <edge id="575" source="ravishment" target="raise" weight="0.005348" />
+      <edge id="576" source="ravishment" target="rant" weight="0.022727" />
+      <edge id="577" source="ravishment" target="rape" weight="0.198113" />
+      <edge id="578" source="ravishment" target="racket" weight="0.022026" />
+      <edge id="579" source="ravishment" target="rack" weight="0.003472" />
+      <edge id="580" source="ravishment" target="ransack" weight="0.071429" />
+      <edge id="581" source="randomness" target="rattle" weight="0.004292" />
+      <edge id="582" source="randomness" target="racket" weight="0.015075" />
+      <edge id="583" source="randomness" target="rage" weight="0.016667" />
+      <edge id="584" source="raptorial" target="rapacity" weight="0.037037" />
+      <edge id="585" source="ranting" target="rapist" weight="0.018519" />
+      <edge id="586" source="ranting" target="rainy" weight="0.02439" />
+      <edge id="587" source="ranting" target="ramble" weight="0.016393" />
+      <edge id="588" source="ranting" target="rage" weight="0.019324" />
+      <edge id="589" source="ranting" target="ramp" weight="0.007634" />
+      <edge id="590" source="ranting" target="rattlebrained" weight="0.026316" />
+      <edge id="591" source="ranting" target="rant" weight="0.00565" />
+      <edge id="592" source="ranting" target="raging" weight="0.613333" />
+      <edge id="593" source="ranting" target="rabid" weight="0.5" />
+      <edge id="594" source="ranting" target="rape" weight="0.008065" />
+      <edge id="595" source="ranting" target="racking" weight="0.011494" />
+      <edge id="596" source="ranting" target="rack" weight="0.003497" />
+      <edge id="597" source="ranting" target="ravished" weight="0.442857" />
+      <edge id="598" source="radiant" target="rainbow" weight="0.004926" />
+      <edge id="599" source="radiant" target="raised" weight="0.016949" />
+      <edge id="600" source="radiant" target="raging" weight="0.005348" />
+      <edge id="601" source="radiant" target="rainy" weight="0.006667" />
+      <edge id="602" source="radiant" target="raffish" weight="0.007519" />
+      <edge id="603" source="radiant" target="rabid" weight="0.005556" />
+      <edge id="604" source="radiant" target="rape" weight="0.005236" />
+      <edge id="605" source="radiant" target="rack" weight="0.002833" />
+      <edge id="606" source="radiant" target="ravished" weight="0.030675" />
+      <edge id="607" source="racy" target="racking" weight="0.027397" />
+      <edge id="608" source="racy" target="rainbow" weight="0.00813" />
+      <edge id="609" source="racy" target="ragtime" weight="0.016393" />
+      <edge id="610" source="rabbet" target="rattle" weight="0.013289" />
+      <edge id="611" source="rabbet" target="ram" weight="0.032258" />
+      <edge id="612" source="rabbet" target="rat" weight="0.005848" />
+      <edge id="613" source="rabbet" target="ransack" weight="0.007692" />
+      <edge id="614" source="rabbet" target="ray" weight="0.014493" />
+      <edge id="615" source="rabbet" target="rapprochement" weight="0.007463" />
+      <edge id="616" source="rabbet" target="raise" weight="0.009685" />
+      <edge id="617" source="rabbet" target="rail" weight="0.012821" />
+      <edge id="618" source="rabbet" target="rarefied" weight="0.006369" />
+      <edge id="619" source="rabbet" target="rasping" weight="0.007692" />
+      <edge id="620" source="rabbet" target="rare" weight="0.003731" />
+      <edge id="621" source="rabbet" target="rationalize" weight="0.005714" />
+      <edge id="622" source="rabbet" target="rage" weight="0.003953" />
+      <edge id="623" source="rabbet" target="range" weight="0.009901" />
+      <edge id="624" source="rabbet" target="race" weight="0.015974" />
+      <edge id="625" source="rabbet" target="ramification" weight="0.012821" />
+      <edge id="626" source="rabbet" target="rack" weight="0.018519" />
+      <edge id="627" source="race" target="raised" weight="0.003636" />
+      <edge id="628" source="race" target="rapids" weight="0.031873" />
+      <edge id="629" source="race" target="rattle" weight="0.016746" />
+      <edge id="630" source="race" target="radical" weight="0.013667" />
+      <edge id="631" source="race" target="radium" weight="0.004425" />
+      <edge id="632" source="race" target="ram" weight="0.018182" />
+      <edge id="633" source="race" target="rank" weight="0.075529" />
+      <edge id="634" source="race" target="rant" weight="0.01791" />
+      <edge id="635" source="race" target="rate" weight="0.052478" />
+      <edge id="636" source="race" target="rainstorm" weight="0.012605" />
+      <edge id="637" source="race" target="rap" weight="0.00905" />
+      <edge id="638" source="race" target="radiate" weight="0.007547" />
+      <edge id="639" source="race" target="racket" weight="0.018135" />
+      <edge id="640" source="race" target="rally" weight="0.033898" />
+      <edge id="641" source="race" target="ransack" weight="0.004" />
+      <edge id="642" source="race" target="rashness" weight="0.004348" />
+      <edge id="643" source="race" target="raw" weight="0.005222" />
+      <edge id="644" source="race" target="rapprochement" weight="0.003937" />
+      <edge id="645" source="race" target="raise" weight="0.028736" />
+      <edge id="646" source="race" target="ranch" weight="0.020161" />
+      <edge id="647" source="race" target="rationalize" weight="0.006803" />
+      <edge id="648" source="race" target="radiation" weight="0.003817" />
+      <edge id="649" source="race" target="rapport" weight="0.009494" />
+      <edge id="650" source="race" target="rag" weight="0.003021" />
+      <edge id="651" source="race" target="rapidity" weight="0.015936" />
+      <edge id="652" source="race" target="raft" weight="0.008" />
+      <edge id="653" source="race" target="ranter" weight="0.004184" />
+      <edge id="654" source="race" target="ray" weight="0.007752" />
+      <edge id="655" source="race" target="rainfall" weight="0.004274" />
+      <edge id="656" source="race" target="ration" weight="0.01476" />
+      <edge id="657" source="race" target="raindrop" weight="0.004255" />
+      <edge id="658" source="race" target="rail" weight="0.007246" />
+      <edge id="659" source="race" target="rain" weight="0.019293" />
+      <edge id="660" source="race" target="racer" weight="0.003906" />
+      <edge id="661" source="race" target="rations" weight="0.003968" />
+      <edge id="662" source="race" target="rave" weight="0.013793" />
+      <edge id="663" source="race" target="rape" weight="0.006993" />
+      <edge id="664" source="race" target="rationalization" weight="0.003205" />
+      <edge id="665" source="race" target="rampant" weight="0.005666" />
+      <edge id="666" source="race" target="raising" weight="0.003401" />
+      <edge id="667" source="race" target="rasher" weight="0.003448" />
+      <edge id="668" source="race" target="ramify" weight="0.011029" />
+      <edge id="669" source="race" target="rationing" weight="0.004167" />
+      <edge id="670" source="race" target="ramble" weight="0.010563" />
+      <edge id="671" source="race" target="rampage" weight="0.014493" />
+      <edge id="672" source="race" target="rage" weight="0.010811" />
+      <edge id="673" source="race" target="radius" weight="0.009317" />
+      <edge id="674" source="race" target="radiorays" weight="0.004386" />
+      <edge id="675" source="race" target="ramp" weight="0.013746" />
+      <edge id="676" source="race" target="rat" weight="0.003436" />
+      <edge id="677" source="race" target="rancid" weight="0.003663" />
+      <edge id="678" source="race" target="range" weight="0.058116" />
+      <edge id="679" source="race" target="ratification" weight="0.003774" />
+      <edge id="680" source="race" target="ramification" weight="0.018315" />
+      <edge id="681" source="race" target="ravine" weight="0.017794" />
+      <edge id="682" source="race" target="railway" weight="0.00823" />
+      <edge id="683" source="race" target="raze" weight="0.010676" />
+      <edge id="684" source="race" target="rack" weight="0.020408" />
+      <edge id="685" source="race" target="rationality" weight="0.003704" />
+      <edge id="686" source="rattail" target="ramify" weight="0.014085" />
+      <edge id="687" source="rattail" target="ramble" weight="0.012048" />
+      <edge id="688" source="rattail" target="ravish" weight="0.010309" />
+      <edge id="689" source="rattail" target="raddle" weight="0.045455" />
+      <edge id="690" source="rattail" target="rank" weight="0.001969" />
+      <edge id="691" source="rattail" target="range" weight="0.003086" />
+      <edge id="692" source="rattail" target="ravage" weight="0.007246" />
+      <edge id="693" source="rattail" target="ramification" weight="0.013514" />
+      <edge id="694" source="rattail" target="rap" weight="0.004132" />
+      <edge id="695" source="rattail" target="racket" weight="0.005291" />
+      <edge id="696" source="rattail" target="rack" weight="0.008163" />
+      <edge id="697" source="rattail" target="rasher" weight="0.011494" />
+      <edge id="698" source="radial" target="rally" weight="0.003623" />
+      <edge id="699" source="radial" target="radius" weight="0.00885" />
+      <edge id="700" source="radial" target="radiating" weight="0.777778" />
+      <edge id="701" source="rack" target="raised" weight="0.003484" />
+      <edge id="702" source="rack" target="rap" weight="0.008811" />
+      <edge id="703" source="rack" target="rag" weight="0.008798" />
+      <edge id="704" source="rack" target="rattle" weight="0.013921" />
+      <edge id="705" source="rack" target="radical" weight="0.004396" />
+      <edge id="706" source="rack" target="ram" weight="0.020979" />
+      <edge id="707" source="rack" target="rank" weight="0.006954" />
+      <edge id="708" source="rack" target="rancor" weight="0.003906" />
+      <edge id="709" source="rack" target="rate" weight="0.013587" />
+      <edge id="710" source="rack" target="radius" weight="0.008982" />
+      <edge id="711" source="rack" target="ravage" weight="0.005682" />
+      <edge id="712" source="rack" target="radiate" weight="0.003597" />
+      <edge id="713" source="rack" target="racket" weight="0.007463" />
+      <edge id="714" source="rack" target="rally" weight="0.012146" />
+      <edge id="715" source="rack" target="rarity" weight="0.003717" />
+      <edge id="716" source="rack" target="rant" weight="0.014368" />
+      <edge id="717" source="rack" target="rapidity" weight="0.011364" />
+      <edge id="718" source="rack" target="rapist" weight="0.003521" />
+      <edge id="719" source="rack" target="raise" weight="0.009191" />
+      <edge id="720" source="rack" target="raddle" weight="0.010676" />
+      <edge id="721" source="rack" target="rarefy" weight="0.007353" />
+      <edge id="722" source="rack" target="raff" weight="0.004032" />
+      <edge id="723" source="rack" target="racked" weight="0.003937" />
+      <edge id="724" source="rack" target="raging" weight="0.00339" />
+      <edge id="725" source="rack" target="rational" weight="0.003185" />
+      <edge id="726" source="rack" target="ration" weight="0.007018" />
+      <edge id="727" source="rack" target="raw" weight="0.002525" />
+      <edge id="728" source="rack" target="rainbow" weight="0.003215" />
+      <edge id="729" source="rack" target="rail" weight="0.00346" />
+      <edge id="730" source="rack" target="rarefied" weight="0.00346" />
+      <edge id="731" source="rack" target="ragtime" weight="0.004016" />
+      <edge id="732" source="rack" target="rations" weight="0.019231" />
+      <edge id="733" source="rack" target="rave" weight="0.016611" />
+      <edge id="734" source="rack" target="rape" weight="0.006711" />
+      <edge id="735" source="rack" target="raft" weight="0.011494" />
+      <edge id="736" source="rack" target="rasping" weight="0.007663" />
+      <edge id="737" source="rack" target="rapt" weight="0.003012" />
+      <edge id="738" source="rack" target="rampant" weight="0.002732" />
+      <edge id="739" source="rack" target="rasher" weight="0.01" />
+      <edge id="740" source="rack" target="razz" weight="0.003817" />
+      <edge id="741" source="rack" target="rare" weight="0.0025" />
+      <edge id="742" source="rack" target="ramble" weight="0.034602" />
+      <edge id="743" source="rack" target="rampage" weight="0.006897" />
+      <edge id="744" source="rack" target="rage" weight="0.015789" />
+      <edge id="745" source="rack" target="raddled" weight="0.003802" />
+      <edge id="746" source="rack" target="ravish" weight="0.003205" />
+      <edge id="747" source="rack" target="ramp" weight="0.023333" />
+      <edge id="748" source="rack" target="rat" weight="0.0033" />
+      <edge id="749" source="rack" target="rancid" weight="0.003509" />
+      <edge id="750" source="rack" target="ragged" weight="0.002688" />
+      <edge id="751" source="rack" target="range" weight="0.030534" />
+      <edge id="752" source="rack" target="ratification" weight="0.00361" />
+      <edge id="753" source="rack" target="ratchet" weight="0.004098" />
+      <edge id="754" source="rack" target="ravine" weight="0.003367" />
+      <edge id="755" source="rack" target="raving" weight="0.003155" />
+      <edge id="756" source="rack" target="raze" weight="0.034965" />
+      <edge id="757" source="rack" target="ravished" weight="0.003636" />
+      <edge id="758" source="rack" target="rabid" weight="0.003472" />
+      <edge id="759" source="rathskeller" target="rail" weight="0.013514" />
+      <edge id="760" source="rayless" target="racket" weight="0.005236" />
+      <edge id="761" source="radicalism" target="rage" weight="0.005495" />
+      <edge id="762" source="radicalism" target="rabid" weight="0.011765" />
+      <edge id="763" source="radicalism" target="raise" weight="0.002899" />
+      <edge id="764" source="radicalism" target="rapacity" weight="0.081081" />
+      <edge id="765" source="radium" target="radioelement" weight="0.1" />
+      <edge id="766" source="radium" target="rancor" weight="0.030303" />
+      <edge id="767" source="rate" target="rattle" weight="0.00578" />
+      <edge id="768" source="rate" target="rant" weight="0.003802" />
+      <edge id="769" source="rate" target="racket" weight="0.009585" />
+      <edge id="770" source="rate" target="rapidity" weight="0.011364" />
+      <edge id="771" source="rate" target="raise" weight="0.013216" />
+      <edge id="772" source="rate" target="rape" weight="0.004762" />
+      <edge id="773" source="rate" target="rail" weight="0.02551" />
+      <edge id="774" source="rate" target="rain" weight="0.008403" />
+      <edge id="775" source="rate" target="ragtime" weight="0.00625" />
+      <edge id="776" source="rate" target="razz" weight="0.00578" />
+      <edge id="777" source="rate" target="ramble" weight="0.004785" />
+      <edge id="778" source="rate" target="rationalize" weight="0.028169" />
+      <edge id="779" source="rate" target="ranch" weight="0.011494" />
+      <edge id="780" source="rate" target="ramp" weight="0.009259" />
+      <edge id="781" source="rate" target="range" weight="0.105392" />
+      <edge id="782" source="radius" target="rainbow" weight="0.038889" />
+      <edge id="783" source="radius" target="raised" weight="0.006173" />
+      <edge id="784" source="radius" target="ramble" weight="0.011628" />
+      <edge id="785" source="radius" target="radiating" weight="0.00885" />
+      <edge id="786" source="radius" target="raddle" weight="0.012739" />
+      <edge id="787" source="radius" target="ramp" weight="0.011111" />
+      <edge id="788" source="radius" target="raise" weight="0.024155" />
+      <edge id="789" source="radius" target="rant" weight="0.004405" />
+      <edge id="790" source="radius" target="range" weight="0.115591" />
+      <edge id="791" source="radius" target="rationalization" weight="0.005025" />
+      <edge id="792" source="radius" target="ray" weight="0.057554" />
+      <edge id="793" source="radius" target="ransack" weight="0.007299" />
+      <edge id="794" source="racket" target="rap" weight="0.025575" />
+      <edge id="795" source="racket" target="rattle" weight="0.111111" />
+      <edge id="796" source="racket" target="ram" weight="0.004274" />
+      <edge id="797" source="racket" target="rank" weight="0.003008" />
+      <edge id="798" source="racket" target="rant" weight="0.024221" />
+      <edge id="799" source="racket" target="radiate" weight="0.004525" />
+      <edge id="800" source="racket" target="rally" weight="0.01373" />
+      <edge id="801" source="racket" target="rapidity" weight="0.004785" />
+      <edge id="802" source="racket" target="rapist" weight="0.004405" />
+      <edge id="803" source="racket" target="raise" weight="0.006135" />
+      <edge id="804" source="racket" target="rape" weight="0.016736" />
+      <edge id="805" source="racket" target="ration" weight="0.004367" />
+      <edge id="806" source="racket" target="rapping" weight="0.005076" />
+      <edge id="807" source="racket" target="rainbow" weight="0.003937" />
+      <edge id="808" source="racket" target="rail" weight="0.00431" />
+      <edge id="809" source="racket" target="rain" weight="0.00369" />
+      <edge id="810" source="racket" target="racer" weight="0.004739" />
+      <edge id="811" source="racket" target="raising" weight="0.008065" />
+      <edge id="812" source="racket" target="ramble" weight="0.016807" />
+      <edge id="813" source="racket" target="rasher" weight="0.004082" />
+      <edge id="814" source="racket" target="rampage" weight="0.146341" />
+      <edge id="815" source="racket" target="rage" weight="0.126712" />
+      <edge id="816" source="racket" target="rationalize" weight="0.004" />
+      <edge id="817" source="racket" target="ramp" weight="0.01626" />
+      <edge id="818" source="racket" target="rat" weight="0.004065" />
+      <edge id="819" source="racket" target="range" weight="0.00625" />
+      <edge id="820" source="racket" target="rationalization" weight="0.022901" />
+      <edge id="821" source="racket" target="railway" weight="0.005025" />
+      <edge id="822" source="racket" target="raving" weight="0.003846" />
+      <edge id="823" source="racket" target="rave" weight="0.024691" />
+      <edge id="824" source="ravenous" target="rare" weight="0.004695" />
+      <edge id="825" source="ravenous" target="rapacity" weight="0.018182" />
+      <edge id="826" source="ravenous" target="rattlebrained" weight="0.015385" />
+      <edge id="827" source="ravenous" target="raggedy" weight="0.011494" />
+      <edge id="828" source="ransack" target="rag" weight="0.006944" />
+      <edge id="829" source="ransack" target="rattle" weight="0.004219" />
+      <edge id="830" source="ransack" target="radical" weight="0.003891" />
+      <edge id="831" source="ransack" target="ram" weight="0.01087" />
+      <edge id="832" source="ransack" target="rant" weight="0.019868" />
+      <edge id="833" source="ransack" target="rap" weight="0.003876" />
+      <edge id="834" source="ransack" target="rave" weight="0.028846" />
+      <edge id="835" source="ransack" target="rally" weight="0.003333" />
+      <edge id="836" source="ransack" target="rape" weight="0.097826" />
+      <edge id="837" source="ransack" target="rainbow" weight="0.008929" />
+      <edge id="838" source="ransack" target="raise" weight="0.002865" />
+      <edge id="839" source="ransack" target="ravage" weight="0.148148" />
+      <edge id="840" source="ransack" target="raffle" weight="0.027778" />
+      <edge id="841" source="ransack" target="raid" weight="0.296875" />
+      <edge id="842" source="ransack" target="rail" weight="0.011111" />
+      <edge id="843" source="ransack" target="ragtime" weight="0.02" />
+      <edge id="844" source="ransack" target="rampage" weight="0.033333" />
+      <edge id="845" source="ransack" target="rage" weight="0.016304" />
+      <edge id="846" source="ransack" target="ravish" weight="0.2" />
+      <edge id="847" source="ransack" target="ramp" weight="0.028571" />
+      <edge id="848" source="ransack" target="range" weight="0.0059" />
+      <edge id="849" source="ransack" target="ratchet" weight="0.022222" />
+      <edge id="850" source="ransack" target="raze" weight="0.010417" />
+      <edge id="851" source="rapist" target="raging" weight="0.017094" />
+      <edge id="852" source="rapist" target="radical" weight="0.003584" />
+      <edge id="853" source="rapist" target="rant" weight="0.005714" />
+      <edge id="854" source="rapist" target="rat" weight="0.024194" />
+      <edge id="855" source="rapist" target="rave" weight="0.007813" />
+      <edge id="856" source="rapist" target="rape" weight="0.008197" />
+      <edge id="857" source="rapist" target="rascal" weight="0.047619" />
+      <edge id="858" source="rapist" target="racketeer" weight="0.033708" />
+      <edge id="859" source="rapist" target="ravager" weight="0.066667" />
+      <edge id="860" source="rapist" target="raucous" weight="0.010204" />
+      <edge id="861" source="rapist" target="rabid" weight="0.027523" />
+      <edge id="862" source="rapist" target="raider" weight="0.050847" />
+      <edge id="863" source="rapist" target="rampant" weight="0.005291" />
+      <edge id="864" source="rapist" target="rampage" weight="0.008772" />
+      <edge id="865" source="rapist" target="rage" weight="0.009662" />
+      <edge id="866" source="rapist" target="ravisher" weight="0.066667" />
+      <edge id="867" source="rapist" target="ramp" weight="0.007752" />
+      <edge id="868" source="rapist" target="raving" weight="0.014388" />
+      <edge id="869" source="rapist" target="ravished" weight="0.010204" />
+      <edge id="870" source="rarely" target="radically" weight="0.038462" />
+      <edge id="871" source="rarely" target="rare" weight="0.011173" />
+      <edge id="872" source="radiology" target="radiotherapy" weight="0.2" />
+      <edge id="873" source="rascal" target="ragamuffin" weight="0.016949" />
+      <edge id="874" source="rascal" target="raucous" weight="0.012821" />
+      <edge id="875" source="rascal" target="raffish" weight="0.022727" />
+      <edge id="876" source="rascal" target="racketeer" weight="0.028571" />
+      <edge id="877" source="rascal" target="ramification" weight="0.01087" />
+      <edge id="878" source="rascal" target="ragpicker" weight="0.016949" />
+      <edge id="879" source="rascal" target="rat" weight="0.04902" />
+      <edge id="880" source="raffish" target="raucous" weight="0.018182" />
+      <edge id="881" source="ratiocination" target="rap" weight="0.008065" />
+      <edge id="882" source="ratiocination" target="rationale" weight="0.1" />
+      <edge id="883" source="ratiocination" target="rapping" weight="0.021739" />
+      <edge id="884" source="ratiocination" target="rationalize" weight="0.010101" />
+      <edge id="885" source="ratiocination" target="radical" weight="0.004032" />
+      <edge id="886" source="ratiocination" target="rapport" weight="0.008197" />
+      <edge id="887" source="ratiocination" target="radionics" weight="0.026316" />
+      <edge id="888" source="ratiocination" target="ratification" weight="0.014493" />
+      <edge id="889" source="ratiocination" target="rationality" weight="0.209677" />
+      <edge id="890" source="ratiocination" target="rational" weight="0.019048" />
+      <edge id="891" source="ratiocination" target="rationalization" weight="0.125" />
+      <edge id="892" source="ratiocination" target="rationalism" weight="0.3125" />
+      <edge id="893" source="ratiocination" target="rally" weight="0.003436" />
+      <edge id="894" source="rational" target="rainbow" weight="0.006098" />
+      <edge id="895" source="rational" target="rare" weight="0.003953" />
+      <edge id="896" source="rational" target="raise" weight="0.005" />
+      <edge id="897" source="rational" target="rapprochement" weight="0.008403" />
+      <edge id="898" source="rational" target="rarefied" weight="0.007042" />
+      <edge id="899" source="rational" target="range" weight="0.002551" />
+      <edge id="900" source="rational" target="rabid" weight="0.014286" />
+      <edge id="901" source="rational" target="rationale" weight="0.009615" />
+      <edge id="902" source="rational" target="rationalization" weight="0.00565" />
+      <edge id="903" source="ranter" target="rage" weight="0.017341" />
+      <edge id="904" source="ranter" target="rant" weight="0.028777" />
+      <edge id="905" source="ranter" target="rave" weight="0.032258" />
+      <edge id="906" source="racing" target="range" weight="0.003077" />
+      <edge id="907" source="racing" target="rail" weight="0.013333" />
+      <edge id="908" source="racing" target="rainy" weight="0.046512" />
+      <edge id="909" source="rapping" target="rapprochement" weight="0.016949" />
+      <edge id="910" source="rapping" target="rattle" weight="0.017699" />
+      <edge id="911" source="rapping" target="rat" weight="0.010417" />
+      <edge id="912" source="rapping" target="rationalism" weight="0.02381" />
+      <edge id="913" source="rapping" target="rationalization" weight="0.008547" />
+      <edge id="914" source="rapping" target="rant" weight="0.013889" />
+      <edge id="915" source="ranged" target="ranked" weight="0.607143" />
+      <edge id="916" source="ration" target="rare" weight="0.004444" />
+      <edge id="917" source="ration" target="raise" weight="0.005376" />
+      <edge id="918" source="ration" target="rain" weight="0.026667" />
+      <edge id="919" source="ration" target="rarefied" weight="0.008772" />
+      <edge id="920" source="ration" target="range" weight="0.028169" />
+      <edge id="921" source="ration" target="raft" weight="0.072289" />
+      <edge id="922" source="rapacious" target="rare" weight="0.004831" />
+      <edge id="923" source="rapacious" target="rapacity" weight="0.020408" />
+      <edge id="924" source="rapacious" target="raging" weight="0.009804" />
+      <edge id="925" source="rapacious" target="rabid" weight="0.010526" />
+      <edge id="926" source="rapacious" target="raggedy" weight="0.012346" />
+      <edge id="927" source="rapacious" target="ravished" weight="0.012195" />
+      <edge id="928" source="ragtime" target="rag" weight="0.137931" />
+      <edge id="929" source="ragtime" target="razz" weight="0.040816" />
+      <edge id="930" source="ragtime" target="rattle" weight="0.004464" />
+      <edge id="931" source="ragtime" target="rapport" weight="0.008475" />
+      <edge id="932" source="ragtime" target="rant" weight="0.007143" />
+      <edge id="933" source="ragtime" target="range" weight="0.003058" />
+      <edge id="934" source="ragtime" target="rap" weight="0.008197" />
+      <edge id="935" source="ragtime" target="rally" weight="0.006993" />
+      <edge id="936" source="ranked" target="raddled" weight="0.017544" />
+      <edge id="937" source="ranked" target="rated" weight="0.4" />
+      <edge id="938" source="ranked" target="rapt" weight="0.007937" />
+      <edge id="939" source="racked" target="racking" weight="0.018182" />
+      <edge id="940" source="racked" target="raggedy" weight="0.014925" />
+      <edge id="941" source="racked" target="racist" weight="0.018868" />
+      <edge id="942" source="raider" target="ravisher" weight="0.384615" />
+      <edge id="943" source="raider" target="ravager" weight="0.384615" />
+      <edge id="944" source="ragpicker" target="ramble" weight="0.044444" />
+      <edge id="945" source="ragpicker" target="ragamuffin" weight="0.925926" />
+      <edge id="946" source="ragpicker" target="range" weight="0.012085" />
+      <edge id="947" source="rationing" target="rapprochement" weight="0.017544" />
+      <edge id="948" source="rationing" target="raid" weight="0.013889" />
+      <edge id="949" source="rationing" target="rasher" weight="0.010753" />
+      <edge id="950" source="rationing" target="radical" weight="0.004049" />
+      <edge id="951" source="rationing" target="rank" weight="0.001946" />
+      <edge id="952" source="rationing" target="rapport" weight="0.008264" />
+      <edge id="953" source="rationing" target="raw" weight="0.005348" />
+      <edge id="954" source="rationing" target="ramification" weight="0.0125" />
+      <edge id="955" source="rationing" target="ravine" weight="0.011364" />
+      <edge id="956" source="razz" target="rag" weight="0.16" />
+      <edge id="957" source="razz" target="raise" weight="0.002865" />
+      <edge id="958" source="razz" target="rattle" weight="0.004219" />
+      <edge id="959" source="razz" target="raff" weight="0.020408" />
+      <edge id="960" source="razz" target="range" weight="0.0059" />
+      <edge id="961" source="razz" target="rant" weight="0.006536" />
+      <edge id="962" source="razz" target="rap" weight="0.011719" />
+      <edge id="963" source="razz" target="rally" weight="0.078853" />
+      <edge id="964" source="rare" target="rag" weight="0.003546" />
+      <edge id="965" source="rare" target="radiance" weight="0.004808" />
+      <edge id="966" source="rare" target="rattle" weight="0.002667" />
+      <edge id="967" source="rare" target="radical" weight="0.005076" />
+      <edge id="968" source="rare" target="rank" weight="0.00607" />
+      <edge id="969" source="rare" target="raw" weight="0.009009" />
+      <edge id="970" source="rare" target="rap" weight="0.002525" />
+      <edge id="971" source="rare" target="range" weight="0.002092" />
+      <edge id="972" source="rare" target="raggedy" weight="0.004695" />
+      <edge id="973" source="rare" target="ray" weight="0.004762" />
+      <edge id="974" source="rare" target="rainbow" weight="0.004" />
+      <edge id="975" source="rare" target="rainy" weight="0.005076" />
+      <edge id="976" source="rare" target="ravaged" weight="0.004525" />
+      <edge id="977" source="rare" target="raise" weight="0.002053" />
+      <edge id="978" source="rare" target="rather" weight="0.009091" />
+      <edge id="979" source="rare" target="radiation" weight="0.004695" />
+      <edge id="980" source="rare" target="rarefy" weight="0.014286" />
+      <edge id="981" source="rare" target="ratified" weight="0.01005" />
+      <edge id="982" source="rare" target="rawboned" weight="0.005319" />
+      <edge id="983" source="rare" target="rationale" weight="0.005263" />
+      <edge id="984" source="rare" target="rampant" weight="0.003279" />
+      <edge id="985" source="rare" target="rarefied" weight="0.258242" />
+      <edge id="986" source="rare" target="rasher" weight="0.004149" />
+      <edge id="987" source="rare" target="raddled" weight="0.00495" />
+      <edge id="988" source="rare" target="ragged" weight="0.009709" />
+      <edge id="989" source="rare" target="ravine" weight="0.004237" />
+      <edge id="990" source="rasher" target="ram" weight="0.007576" />
+      <edge id="991" source="rasher" target="rage" weight="0.004425" />
+      <edge id="992" source="rasher" target="rattle" weight="0.007246" />
+      <edge id="993" source="rasher" target="rail" weight="0.031496" />
+      <edge id="994" source="rasher" target="rain" weight="0.005917" />
+      <edge id="995" source="rasher" target="rarefied" weight="0.007692" />
+      <edge id="996" source="rasher" target="raddle" weight="0.008065" />
+      <edge id="997" source="rasher" target="range" weight="0.01061" />
+      <edge id="998" source="rasher" target="raft" weight="0.009615" />
+      <edge id="999" source="rasher" target="ray" weight="0.008929" />
+      <edge id="1000" source="ravish" target="rationalize" weight="0.012739" />
+      <edge id="1001" source="ravish" target="rainbow" weight="0.006173" />
+      <edge id="1002" source="ravish" target="raddle" weight="0.007463" />
+      <edge id="1003" source="ravish" target="ramble" weight="0.006711" />
+      <edge id="1004" source="ravish" target="rage" weight="0.030435" />
+      <edge id="1005" source="ravish" target="rattle" weight="0.006993" />
+      <edge id="1006" source="ravish" target="ramp" weight="0.039474" />
+      <edge id="1007" source="ravish" target="rat" weight="0.006494" />
+      <edge id="1008" source="ravish" target="rape" weight="0.179688" />
+      <edge id="1009" source="ravish" target="range" weight="0.002564" />
+      <edge id="1010" source="ravish" target="ram" weight="0.007042" />
+      <edge id="1011" source="ravish" target="rant" weight="0.030303" />
+      <edge id="1012" source="raddled" target="raised" weight="0.022727" />
+      <edge id="1013" source="raddled" target="rail" weight="0.010989" />
+      <edge id="1014" source="raddled" target="range" weight="0.002933" />
+      <edge id="1015" source="raddled" target="ravished" weight="0.012987" />
+      <edge id="1016" source="ramp" target="railroader" weight="0.011628" />
+      <edge id="1017" source="ramp" target="rap" weight="0.016779" />
+      <edge id="1018" source="ramp" target="raging" weight="0.007143" />
+      <edge id="1019" source="ramp" target="radical" weight="0.003322" />
+      <edge id="1020" source="ramp" target="ram" weight="0.007353" />
+      <edge id="1021" source="ramp" target="rank" weight="0.0053" />
+      <edge id="1022" source="ramp" target="rant" weight="0.214724" />
+      <edge id="1023" source="ramp" target="rainstorm" weight="0.010309" />
+      <edge id="1024" source="ramp" target="radiate" weight="0.00813" />
+      <edge id="1025" source="ramp" target="rally" weight="0.002907" />
+      <edge id="1026" source="ramp" target="raise" weight="0.015464" />
+      <edge id="1027" source="ramp" target="rapids" weight="0.017544" />
+      <edge id="1028" source="ramp" target="rape" weight="0.239316" />
+      <edge id="1029" source="ramp" target="ravage" weight="0.058511" />
+      <edge id="1030" source="ramp" target="rattle" weight="0.007143" />
+      <edge id="1031" source="ramp" target="raft" weight="0.009259" />
+      <edge id="1032" source="ramp" target="rag" weight="0.005319" />
+      <edge id="1033" source="ramp" target="raid" weight="0.067227" />
+      <edge id="1034" source="ramp" target="rain" weight="0.00578" />
+      <edge id="1035" source="ramp" target="racer" weight="0.00885" />
+      <edge id="1036" source="ramp" target="rabid" weight="0.007519" />
+      <edge id="1037" source="ramp" target="ramble" weight="0.021277" />
+      <edge id="1038" source="ramp" target="rampage" weight="0.256881" />
+      <edge id="1039" source="ramp" target="rage" weight="0.178571" />
+      <edge id="1040" source="ramp" target="ranch" weight="0.009174" />
+      <edge id="1041" source="ramp" target="range" weight="0.013158" />
+      <edge id="1042" source="ramp" target="rationalization" weight="0.005917" />
+      <edge id="1043" source="ramp" target="raving" weight="0.006173" />
+      <edge id="1044" source="ramp" target="raze" weight="0.036765" />
+      <edge id="1045" source="ramp" target="rave" weight="0.290598" />
+      <edge id="1046" source="range" target="ratification" weight="0.002817" />
+      <edge id="1047" source="range" target="railway" weight="0.006006" />
+      <edge id="1048" source="range" target="raze" weight="0.021858" />
+      <edge id="1049" source="range" target="raised" weight="0.00274" />
+      <edge id="1050" source="range" target="radical" weight="0.009434" />
+      <edge id="1051" source="range" target="rank" weight="0.11855" />
+      <edge id="1052" source="range" target="rant" weight="0.004662" />
+      <edge id="1053" source="range" target="rave" weight="0.005236" />
+      <edge id="1054" source="range" target="radiate" weight="0.005634" />
+      <edge id="1055" source="range" target="raise" weight="0.034653" />
+      <edge id="1056" source="range" target="ravage" weight="0.00232" />
+      <edge id="1057" source="range" target="raft" weight="0.005882" />
+      <edge id="1058" source="range" target="racer" weight="0.00289" />
+      <edge id="1059" source="range" target="rampant" weight="0.00907" />
+      <edge id="1060" source="range" target="raising" weight="0.007853" />
+      <edge id="1061" source="range" target="rampage" weight="0.00271" />
+      <edge id="1062" source="range" target="rage" weight="0.006508" />
+      <edge id="1063" source="range" target="rarity" weight="0.002882" />
+      <edge id="1064" source="range" target="rationalization" weight="0.004988" />
+      <edge id="1065" source="range" target="rag" weight="0.014423" />
+      <edge id="1066" source="range" target="radiance" weight="0.002882" />
+      <edge id="1067" source="range" target="rapids" weight="0.002874" />
+      <edge id="1068" source="range" target="rattle" weight="0.005859" />
+      <edge id="1069" source="range" target="ram" weight="0.00271" />
+      <edge id="1070" source="range" target="raw" weight="0.00211" />
+      <edge id="1071" source="range" target="rap" weight="0.007519" />
+      <edge id="1072" source="range" target="rally" weight="0.041441" />
+      <edge id="1073" source="range" target="ray" weight="0.011561" />
+      <edge id="1074" source="range" target="rainbow" weight="0.005155" />
+      <edge id="1075" source="range" target="ragamuffin" weight="0.012085" />
+      <edge id="1076" source="range" target="raddle" weight="0.00277" />
+      <edge id="1077" source="range" target="radiation" weight="0.011461" />
+      <edge id="1078" source="range" target="rarefy" weight="0.011494" />
+      <edge id="1079" source="range" target="rapport" weight="0.004914" />
+      <edge id="1080" source="range" target="rapidity" weight="0.002907" />
+      <edge id="1081" source="range" target="raffle" weight="0.003195" />
+      <edge id="1082" source="range" target="raid" weight="0.005587" />
+      <edge id="1083" source="range" target="rail" weight="0.010989" />
+      <edge id="1084" source="range" target="rain" weight="0.009926" />
+      <edge id="1085" source="range" target="rarefied" weight="0.002725" />
+      <edge id="1086" source="range" target="rations" weight="0.002924" />
+      <edge id="1087" source="range" target="rasping" weight="0.002941" />
+      <edge id="1088" source="range" target="ramify" weight="0.01108" />
+      <edge id="1089" source="range" target="ramble" weight="0.071023" />
+      <edge id="1090" source="range" target="rationalize" weight="0.015789" />
+      <edge id="1091" source="range" target="ranch" weight="0.011799" />
+      <edge id="1092" source="range" target="rancid" weight="0.002755" />
+      <edge id="1093" source="range" target="ragged" weight="0.002222" />
+      <edge id="1094" source="range" target="ravine" weight="0.005348" />
+      <edge id="1095" source="range" target="rationality" weight="0.005571" />
+      <edge id="1096" source="ratification" target="rationalize" weight="0.00813" />
+      <edge id="1097" source="ratification" target="rapprochement" weight="0.012195" />
+      <edge id="1098" source="ratification" target="rain" weight="0.006944" />
+      <edge id="1099" source="ratification" target="rank" weight="0.001855" />
+      <edge id="1100" source="ratification" target="rapport" weight="0.020833" />
+      <edge id="1101" source="ratification" target="rationality" weight="0.010204" />
+      <edge id="1102" source="ratification" target="rationalism" weight="0.015385" />
+      <edge id="1103" source="ratification" target="rationalization" weight="0.014388" />
+      <edge id="1104" source="ratification" target="ray" weight="0.011494" />
+      <edge id="1105" source="ratification" target="rapidity" weight="0.024691" />
+      <edge id="1106" source="ratification" target="rashness" weight="0.017241" />
+      <edge id="1107" source="raccoon" target="rattle" weight="0.004545" />
+      <edge id="1108" source="raccoon" target="rat" weight="0.011494" />
+      <edge id="1109" source="raccoon" target="ram" weight="0.013333" />
+      <edge id="1110" source="railway" target="raised" weight="0.012195" />
+      <edge id="1111" source="railway" target="rail" weight="0.416667" />
+      <edge id="1112" source="railway" target="ramification" weight="0.011905" />
+      <edge id="1113" source="raze" target="ram" weight="0.008" />
+      <edge id="1114" source="raze" target="rage" weight="0.023256" />
+      <edge id="1115" source="raze" target="rattle" weight="0.003704" />
+      <edge id="1116" source="raze" target="raindrop" weight="0.012346" />
+      <edge id="1117" source="raze" target="rancor" weight="0.011111" />
+      <edge id="1118" source="raze" target="raddle" weight="0.017241" />
+      <edge id="1119" source="raze" target="rape" weight="0.022901" />
+      <edge id="1120" source="raze" target="rain" weight="0.01875" />
+      <edge id="1121" source="raze" target="rasping" weight="0.065934" />
+      <edge id="1122" source="raze" target="rant" weight="0.027473" />
+      <edge id="1123" source="raised" target="rank" weight="0.007326" />
+      <edge id="1124" source="raised" target="rapt" weight="0.012739" />
+      <edge id="1125" source="raised" target="rally" weight="0.003077" />
+      <edge id="1126" source="raised" target="radiate" weight="0.009615" />
+      <edge id="1127" source="raised" target="ray" weight="0.010309" />
+      <edge id="1128" source="raised" target="raise" weight="0.010782" />
+      <edge id="1129" source="raised" target="radiation" weight="0.01" />
+      <edge id="1130" source="raised" target="rail" weight="0.008696" />
+      <edge id="1131" source="raised" target="rampant" weight="0.066298" />
+      <edge id="1132" source="raised" target="raising" weight="0.007576" />
+      <edge id="1133" source="raised" target="ramify" weight="0.008929" />
+      <edge id="1134" source="raised" target="rationalize" weight="0.007519" />
+      <edge id="1135" source="raised" target="rancid" weight="0.009009" />
+      <edge id="1136" source="raised" target="raving" weight="0.006993" />
+      <edge id="1137" source="raised" target="ravished" weight="0.02" />
+      <edge id="1138" source="railroader" target="rampage" weight="0.014085" />
+      <edge id="1139" source="railroader" target="rage" weight="0.006061" />
+      <edge id="1140" source="railroader" target="rant" weight="0.007576" />
+      <edge id="1141" source="railroader" target="racer" weight="0.042553" />
+      <edge id="1142" source="railroader" target="rave" weight="0.011765" />
+      <edge id="1143" source="railroader" target="rape" weight="0.012658" />
+      <edge id="1144" source="radical" target="raging" weight="0.003448" />
+      <edge id="1145" source="radical" target="rancor" weight="0.008" />
+      <edge id="1146" source="radical" target="ray" weight="0.003759" />
+      <edge id="1147" source="radical" target="radically" weight="0.008333" />
+      <edge id="1148" source="radical" target="raise" weight="0.005545" />
+      <edge id="1149" source="radical" target="raddle" weight="0.003597" />
+      <edge id="1150" source="radical" target="racist" weight="0.003922" />
+      <edge id="1151" source="radical" target="rainbow" weight="0.006557" />
+      <edge id="1152" source="radical" target="rain" weight="0.003096" />
+      <edge id="1153" source="radical" target="rarefied" weight="0.003521" />
+      <edge id="1154" source="radical" target="rabid" weight="0.025271" />
+      <edge id="1155" source="radical" target="rationalize" weight="0.003311" />
+      <edge id="1156" source="radical" target="ramification" weight="0.003521" />
+      <edge id="1157" source="radical" target="rationalization" weight="0.003135" />
+      <edge id="1158" source="radical" target="ravished" weight="0.003704" />
+      <edge id="1159" source="ravager" target="ravisher" weight="0.818182" />
+      <edge id="1160" source="ravager" target="rat" weight="0.012195" />
+      <edge id="1161" source="ravager" target="racketeer" weight="0.043478" />
+      <edge id="1162" source="rank" target="rattle" weight="0.005755" />
+      <edge id="1163" source="rank" target="rat" weight="0.00177" />
+      <edge id="1164" source="rank" target="racking" weight="0.003824" />
+      <edge id="1165" source="rank" target="raggedy" weight="0.018975" />
+      <edge id="1166" source="rank" target="rapidity" weight="0.001894" />
+      <edge id="1167" source="rank" target="rainbow" weight="0.001745" />
+      <edge id="1168" source="rank" target="rainy" weight="0.003854" />
+      <edge id="1169" source="rank" target="raise" weight="0.015019" />
+      <edge id="1170" source="rank" target="rationalize" weight="0.02518" />
+      <edge id="1171" source="rank" target="raddle" weight="0.005525" />
+      <edge id="1172" source="rank" target="raging" weight="0.00722" />
+      <edge id="1173" source="rank" target="raft" weight="0.001905" />
+      <edge id="1174" source="rank" target="ram" weight="0.003623" />
+      <edge id="1175" source="rank" target="rail" weight="0.005464" />
+      <edge id="1176" source="rank" target="radically" weight="0.001969" />
+      <edge id="1177" source="rank" target="rain" weight="0.001695" />
+      <edge id="1178" source="rank" target="rarefied" weight="0.001815" />
+      <edge id="1179" source="rank" target="rasping" weight="0.001908" />
+      <edge id="1180" source="rank" target="ramification" weight="0.007299" />
+      <edge id="1181" source="rank" target="raga" weight="0.002028" />
+      <edge id="1182" source="rank" target="ramble" weight="0.001786" />
+      <edge id="1183" source="rank" target="rage" weight="0.003096" />
+      <edge id="1184" source="rank" target="ranch" weight="0.009579" />
+      <edge id="1185" source="rank" target="rationalization" weight="0.001706" />
+      <edge id="1186" source="rank" target="ravished" weight="0.001862" />
+      <edge id="1187" source="rant" target="rattle" weight="0.064935" />
+      <edge id="1188" source="rant" target="ram" weight="0.005495" />
+      <edge id="1189" source="rant" target="rave" weight="0.551181" />
+      <edge id="1190" source="rant" target="rainstorm" weight="0.014085" />
+      <edge id="1191" source="rant" target="rap" weight="0.017493" />
+      <edge id="1192" source="rant" target="radiate" weight="0.005917" />
+      <edge id="1193" source="rant" target="rally" weight="0.007732" />
+      <edge id="1194" source="rant" target="raddle" weight="0.005747" />
+      <edge id="1195" source="rant" target="raff" weight="0.014493" />
+      <edge id="1196" source="rant" target="ravage" weight="0.042553" />
+      <edge id="1197" source="rant" target="raging" weight="0.005376" />
+      <edge id="1198" source="rant" target="rapidity" weight="0.006369" />
+      <edge id="1199" source="rant" target="rat" weight="0.010363" />
+      <edge id="1200" source="rant" target="rainfall" weight="0.007299" />
+      <edge id="1201" source="rant" target="raid" weight="0.042169" />
+      <edge id="1202" source="rant" target="raindrop" weight="0.007246" />
+      <edge id="1203" source="rant" target="rabid" weight="0.005587" />
+      <edge id="1204" source="rant" target="rape" weight="0.171779" />
+      <edge id="1205" source="rant" target="rasping" weight="0.006536" />
+      <edge id="1206" source="rant" target="ramble" weight="0.049724" />
+      <edge id="1207" source="rant" target="rampage" weight="0.188312" />
+      <edge id="1208" source="rant" target="rage" weight="0.306604" />
+      <edge id="1209" source="rant" target="racer" weight="0.006289" />
+      <edge id="1210" source="rant" target="rationalization" weight="0.004651" />
+      <edge id="1211" source="rant" target="raving" weight="0.009662" />
+      <edge id="1212" source="raiser" target="rancher" weight="0.253968" />
+      <edge id="1213" source="raiser" target="rat" weight="0.00813" />
+      <edge id="1214" source="raiser" target="raise" weight="0.002717" />
+      <edge id="1215" source="rave" target="raging" weight="0.007194" />
+      <edge id="1216" source="rave" target="ram" weight="0.007407" />
+      <edge id="1217" source="rave" target="rat" weight="0.006803" />
+      <edge id="1218" source="rave" target="rainstorm" weight="0.010417" />
+      <edge id="1219" source="rave" target="raise" weight="0.002551" />
+      <edge id="1220" source="rave" target="raddle" weight="0.007874" />
+      <edge id="1221" source="rave" target="rattle" weight="0.029304" />
+      <edge id="1222" source="rave" target="rape" weight="0.241379" />
+      <edge id="1223" source="rave" target="rain" weight="0.005814" />
+      <edge id="1224" source="rave" target="rabid" weight="0.007576" />
+      <edge id="1225" source="rave" target="rasping" weight="0.009434" />
+      <edge id="1226" source="rave" target="ramble" weight="0.067164" />
+      <edge id="1227" source="rave" target="rage" weight="0.385542" />
+      <edge id="1228" source="rave" target="rationalization" weight="0.005952" />
+      <edge id="1229" source="radiate" target="ram" weight="0.009259" />
+      <edge id="1230" source="radiate" target="ramble" weight="0.008696" />
+      <edge id="1231" source="radiate" target="rage" weight="0.00495" />
+      <edge id="1232" source="radiate" target="rattle" weight="0.016" />
+      <edge id="1233" source="radiate" target="rain" weight="0.020979" />
+      <edge id="1234" source="radiate" target="raise" weight="0.01105" />
+      <edge id="1235" source="radiate" target="ramification" weight="0.009434" />
+      <edge id="1236" source="radiate" target="rape" weight="0.008621" />
+      <edge id="1237" source="radiate" target="ray" weight="0.098765" />
+      <edge id="1238" source="ravaged" target="raging" weight="0.008621" />
+      <edge id="1239" source="ravaged" target="raggedy" weight="0.054945" />
+      <edge id="1240" source="ravaged" target="rabid" weight="0.009174" />
+      <edge id="1241" source="ravaged" target="ravished" weight="0.010417" />
+      <edge id="1242" source="raggedy" target="ragged" weight="0.300699" />
+      <edge id="1243" source="raggedy" target="rainy" weight="0.014085" />
+      <edge id="1244" source="raggedy" target="raff" weight="0.016393" />
+      <edge id="1245" source="raggedy" target="ratty" weight="0.254237" />
+      <edge id="1246" source="raggedy" target="rancid" weight="0.010204" />
+      <edge id="1247" source="raggedy" target="raucous" weight="0.011364" />
+      <edge id="1248" source="raggedy" target="raunchy" weight="0.028169" />
+      <edge id="1249" source="raggedy" target="rampant" weight="0.005587" />
+      <edge id="1250" source="rashness" target="rain" weight="0.009174" />
+      <edge id="1251" source="rashness" target="rapidity" weight="0.170732" />
+      <edge id="1252" source="rashness" target="raindrop" weight="0.035714" />
+      <edge id="1253" source="raise" target="rap" weight="0.001838" />
+      <edge id="1254" source="raise" target="rapids" weight="0.002801" />
+      <edge id="1255" source="raise" target="rattle" weight="0.011583" />
+      <edge id="1256" source="raise" target="ram" weight="0.007979" />
+      <edge id="1257" source="raise" target="rarefy" weight="0.074405" />
+      <edge id="1258" source="raise" target="rainstorm" weight="0.00295" />
+      <edge id="1259" source="raise" target="ravage" weight="0.002273" />
+      <edge id="1260" source="raise" target="rally" weight="0.083026" />
+      <edge id="1261" source="raise" target="ray" weight="0.002793" />
+      <edge id="1262" source="raise" target="ransom" weight="0.005618" />
+      <edge id="1263" source="raise" target="rationalize" weight="0.012821" />
+      <edge id="1264" source="raise" target="rather" weight="0.005435" />
+      <edge id="1265" source="raise" target="radiation" weight="0.005556" />
+      <edge id="1266" source="raise" target="rapport" weight="0.007229" />
+      <edge id="1267" source="raise" target="rancher" weight="0.002899" />
+      <edge id="1268" source="raise" target="raft" weight="0.008621" />
+      <edge id="1269" source="raise" target="rag" weight="0.002326" />
+      <edge id="1270" source="raise" target="rain" weight="0.022113" />
+      <edge id="1271" source="raise" target="rations" weight="0.005714" />
+      <edge id="1272" source="raise" target="ravine" weight="0.005222" />
+      <edge id="1273" source="raise" target="rampant" weight="0.008889" />
+      <edge id="1274" source="raise" target="raising" weight="0.053476" />
+      <edge id="1275" source="raise" target="ramify" weight="0.021858" />
+      <edge id="1276" source="raise" target="ramble" weight="0.005208" />
+      <edge id="1277" source="raise" target="rampage" weight="0.002646" />
+      <edge id="1278" source="raise" target="rage" weight="0.012848" />
+      <edge id="1279" source="raise" target="ranch" weight="0.038348" />
+      <edge id="1280" source="raise" target="rationalization" weight="0.002433" />
+      <edge id="1281" source="ratty" target="rainy" weight="0.017544" />
+      <edge id="1282" source="raff" target="rainbow" weight="0.010204" />
+      <edge id="1283" source="raff" target="raft" weight="0.02" />
+      <edge id="1284" source="racism" target="rancor" weight="0.042553" />
+      <edge id="1285" source="ravage" target="rattle" weight="0.006116" />
+      <edge id="1286" source="ravage" target="ram" weight="0.005464" />
+      <edge id="1287" source="ravage" target="rat" weight="0.005128" />
+      <edge id="1288" source="ravage" target="rape" weight="0.246753" />
+      <edge id="1289" source="ravage" target="rainbow" weight="0.004926" />
+      <edge id="1290" source="ravage" target="rapacity" weight="0.015038" />
+      <edge id="1291" source="ravage" target="raddle" weight="0.005714" />
+      <edge id="1292" source="ravage" target="ramble" weight="0.005263" />
+      <edge id="1293" source="ravage" target="rage" weight="0.041199" />
+      <edge id="1294" source="ravage" target="rationalize" weight="0.010101" />
+      <edge id="1295" source="rattle" target="ranch" weight="0.004184" />
+      <edge id="1296" source="rattle" target="rapids" weight="0.004082" />
+      <edge id="1297" source="rattle" target="ram" weight="0.150862" />
+      <edge id="1298" source="rattle" target="rarefy" weight="0.020492" />
+      <edge id="1299" source="rattle" target="rainstorm" weight="0.004405" />
+      <edge id="1300" source="rattle" target="rap" weight="0.023641" />
+      <edge id="1301" source="rattle" target="rally" weight="0.012793" />
+      <edge id="1302" source="rattle" target="rapidity" weight="0.004149" />
+      <edge id="1303" source="rattle" target="rainy" weight="0.004292" />
+      <edge id="1304" source="rattle" target="rat" weight="0.01087" />
+      <edge id="1305" source="rattle" target="rag" weight="0.006309" />
+      <edge id="1306" source="rattle" target="rainfall" weight="0.018349" />
+      <edge id="1307" source="rattle" target="raid" weight="0.003906" />
+      <edge id="1308" source="rattle" target="raindrop" weight="0.013636" />
+      <edge id="1309" source="rattle" target="rail" weight="0.003788" />
+      <edge id="1310" source="rattle" target="rain" weight="0.009967" />
+      <edge id="1311" source="rattle" target="rarefied" weight="0.003788" />
+      <edge id="1312" source="rattle" target="rabbit" weight="0.004717" />
+      <edge id="1313" source="rattle" target="rape" weight="0.011029" />
+      <edge id="1314" source="rattle" target="ramble" weight="0.01107" />
+      <edge id="1315" source="rattle" target="ramify" weight="0.019455" />
+      <edge id="1316" source="rattle" target="rampage" weight="0.076613" />
+      <edge id="1317" source="rattle" target="rage" weight="0.068047" />
+      <edge id="1318" source="rattle" target="racer" weight="0.008264" />
+      <edge id="1319" source="racketeer" target="rat" weight="0.027778" />
+      <edge id="1320" source="racist" target="rat" weight="0.009804" />
+      <edge id="1321" source="racist" target="rabid" weight="0.011494" />
+      <edge id="1322" source="raft" target="rain" weight="0.023438" />
+      <edge id="1323" source="raft" target="rapids" weight="0.013889" />
+      <edge id="1324" source="raft" target="racer" weight="0.014286" />
+      <edge id="1325" source="raft" target="rations" weight="0.063492" />
+      <edge id="1326" source="raft" target="rainstorm" weight="0.018519" />
+      <edge id="1327" source="raft" target="rap" weight="0.007752" />
+      <edge id="1328" source="raft" target="rally" weight="0.003322" />
+      <edge id="1329" source="raft" target="rarity" weight="0.014085" />
+      <edge id="1330" source="rankled" target="rancor" weight="0.023256" />
+      <edge id="1331" source="rainfall" target="rainy" weight="0.047619" />
+      <edge id="1332" source="rainfall" target="raindrop" weight="0.5" />
+      <edge id="1333" source="rainfall" target="rain" weight="0.055556" />
+      <edge id="1334" source="rainfall" target="rat" weight="0.011364" />
+      <edge id="1335" source="rainfall" target="rapidity" weight="0.04" />
+      <edge id="1336" source="rather" target="rarefied" weight="0.009091" />
+      <edge id="1337" source="rather" target="radically" weight="0.030303" />
+      <edge id="1338" source="rawboned" target="rag" weight="0.007634" />
+      <edge id="1339" source="rawboned" target="ragged" weight="0.00625" />
+      <edge id="1340" source="rawboned" target="raucous" weight="0.015873" />
+      <edge id="1341" source="rationalism" target="rap" weight="0.004082" />
+      <edge id="1342" source="rationalism" target="radionics" weight="0.029412" />
+      <edge id="1343" source="rationalism" target="rationalize" weight="0.010526" />
+      <edge id="1344" source="rationalism" target="rapport" weight="0.008475" />
+      <edge id="1345" source="rationalism" target="rationality" weight="0.183333" />
+      <edge id="1346" source="rationalism" target="rationale" weight="0.081081" />
+      <edge id="1347" source="rationalism" target="rationalization" weight="0.097087" />
+      <edge id="1348" source="rationalism" target="rally" weight="0.003484" />
+      <edge id="1349" source="racer" target="rage" weight="0.005208" />
+      <edge id="1350" source="racer" target="ramification" weight="0.010417" />
+      <edge id="1351" source="racer" target="rape" weight="0.009434" />
+      <edge id="1352" source="racer" target="rainmaker" weight="0.022727" />
+      <edge id="1353" source="rabbit" target="rat" weight="0.012658" />
+      <edge id="1354" source="rabbit" target="ram" weight="0.014925" />
+      <edge id="1355" source="raunchy" target="raging" weight="0.032967" />
+      <edge id="1356" source="raunchy" target="rainbow" weight="0.009174" />
+      <edge id="1357" source="raunchy" target="rainy" weight="0.036364" />
+      <edge id="1358" source="rampant" target="raging" weight="0.01005" />
+      <edge id="1359" source="rampant" target="rail" weight="0.005155" />
+      <edge id="1360" source="rampant" target="radically" weight="0.006623" />
+      <edge id="1361" source="rampant" target="rabid" weight="0.021053" />
+      <edge id="1362" source="rampant" target="rain" weight="0.004292" />
+      <edge id="1363" source="rampant" target="ravished" weight="0.022599" />
+      <edge id="1364" source="rampant" target="ray" weight="0.005682" />
+      <edge id="1365" source="raising" target="ranch" weight="0.009174" />
+      <edge id="1366" source="raising" target="rain" weight="0.00578" />
+      <edge id="1367" source="raising" target="ray" weight="0.017391" />
+      <edge id="1368" source="raga" target="rage" weight="0.006452" />
+      <edge id="1369" source="rampage" target="raging" weight="0.008" />
+      <edge id="1370" source="rampage" target="ram" weight="0.008264" />
+      <edge id="1371" source="rampage" target="rainstorm" weight="0.012195" />
+      <edge id="1372" source="rampage" target="rape" weight="0.27451" />
+      <edge id="1373" source="rampage" target="rabid" weight="0.008475" />
+      <edge id="1374" source="rampage" target="ramble" weight="0.032" />
+      <edge id="1375" source="rampage" target="rage" weight="0.263158" />
+      <edge id="1376" source="rampage" target="rationalization" weight="0.006494" />
+      <edge id="1377" source="rage" target="ram" weight="0.004651" />
+      <edge id="1378" source="rage" target="rarefy" weight="0.010204" />
+      <edge id="1379" source="rage" target="rat" weight="0.004405" />
+      <edge id="1380" source="rage" target="rainstorm" weight="0.011429" />
+      <edge id="1381" source="rage" target="rap" weight="0.015957" />
+      <edge id="1382" source="rage" target="rally" weight="0.009524" />
+      <edge id="1383" source="rage" target="raddle" weight="0.004831" />
+      <edge id="1384" source="rage" target="raging" weight="0.013825" />
+      <edge id="1385" source="rage" target="rag" weight="0.003745" />
+      <edge id="1386" source="rage" target="raid" weight="0.040404" />
+      <edge id="1387" source="rage" target="rabies" weight="0.005263" />
+      <edge id="1388" source="rage" target="rabid" weight="0.014286" />
+      <edge id="1389" source="rage" target="rape" weight="0.148718" />
+      <edge id="1390" source="rage" target="rasping" weight="0.005376" />
+      <edge id="1391" source="rage" target="ramble" weight="0.042056" />
+      <edge id="1392" source="rage" target="rationalization" weight="0.004032" />
+      <edge id="1393" source="rage" target="raving" weight="0.021097" />
+      <edge id="1394" source="rage" target="ravished" weight="0.010101" />
+      <edge id="1395" source="ravisher" target="rat" weight="0.012195" />
+      <edge id="1396" source="radiorays" target="rail" weight="0.014706" />
+      <edge id="1397" source="radiorays" target="rain" weight="0.009346" />
+      <edge id="1398" source="radiorays" target="ray" weight="0.214286" />
+      <edge id="1399" source="rattlebrained" target="raw" weight="0.016216" />
+      <edge id="1400" source="rattlebrained" target="raving" weight="0.018692" />
+      <edge id="1401" source="ratchet" target="rail" weight="0.013889" />
+      <edge id="1402" source="ratchet" target="ramification" weight="0.013889" />
+      <edge id="1403" source="ratchet" target="rationalization" weight="0.009346" />
+      <edge id="1404" source="rationalization" target="rap" weight="0.003125" />
+      <edge id="1405" source="rationalization" target="rally" weight="0.00554" />
+      <edge id="1406" source="rationalization" target="rapidity" weight="0.007752" />
+      <edge id="1407" source="rationalization" target="ransom" weight="0.007519" />
+      <edge id="1408" source="rationalization" target="rainbow" weight="0.005747" />
+      <edge id="1409" source="rationalization" target="rapport" weight="0.005181" />
+      <edge id="1410" source="rationalization" target="rape" weight="0.006173" />
+      <edge id="1411" source="rationalization" target="ramification" weight="0.006579" />
+      <edge id="1412" source="rationalization" target="raid" weight="0.006944" />
+      <edge id="1413" source="rationalization" target="rationality" weight="0.097744" />
+      <edge id="1414" source="rationalization" target="rationale" weight="0.045455" />
+      <edge id="1415" source="rationalization" target="rationalize" weight="0.023952" />
+      <edge id="1416" source="rationalization" target="radionics" weight="0.009174" />
+      <edge id="1417" source="ravished" target="raging" weight="0.392405" />
+      <edge id="1418" source="ravished" target="rapt" weight="0.122137" />
+      <edge id="1419" source="ravished" target="racking" weight="0.013158" />
+      <edge id="1420" source="ravished" target="rally" weight="0.003195" />
+      <edge id="1421" source="ravished" target="rainy" weight="0.028169" />
+      <edge id="1422" source="ravished" target="rabid" weight="0.430556" />
+      <edge id="1423" source="ravished" target="rancid" weight="0.010101" />
+      <edge id="1424" source="ravished" target="raving" weight="0.306931" />
+      <edge id="1425" source="rag" target="ram" weight="0.00578" />
+      <edge id="1426" source="rag" target="raddle" weight="0.044025" />
+      <edge id="1427" source="rag" target="rape" weight="0.011111" />
+      <edge id="1428" source="rag" target="raindrop" weight="0.007752" />
+      <edge id="1429" source="rag" target="rail" weight="0.036145" />
+      <edge id="1430" source="rag" target="rain" weight="0.009569" />
+      <edge id="1431" source="rag" target="ramble" weight="0.005556" />
+      <edge id="1432" source="rag" target="ramification" weight="0.005848" />
+      <edge id="1433" source="radiance" target="rainbow" weight="0.034483" />
+      <edge id="1434" source="radiance" target="radiotherapy" weight="0.02381" />
+      <edge id="1435" source="radiance" target="rarefied" weight="0.010309" />
+      <edge id="1436" source="radiance" target="rationale" weight="0.034483" />
+      <edge id="1437" source="radiance" target="ray" weight="0.09589" />
+      <edge id="1438" source="rapids" target="raindrop" weight="0.036364" />
+      <edge id="1439" source="rapids" target="rat" weight="0.008929" />
+      <edge id="1440" source="rapids" target="rainstorm" weight="0.050847" />
+      <edge id="1441" source="rapids" target="rain" weight="0.086614" />
+      <edge id="1442" source="rapids" target="ramification" weight="0.010204" />
+      <edge id="1443" source="rapids" target="rapidity" weight="0.013333" />
+      <edge id="1444" source="rapids" target="ray" weight="0.0125" />
+      <edge id="1445" source="raging" target="rapt" weight="0.030864" />
+      <edge id="1446" source="raging" target="racking" weight="0.010417" />
+      <edge id="1447" source="raging" target="rape" weight="0.007519" />
+      <edge id="1448" source="raging" target="raw" weight="0.022124" />
+      <edge id="1449" source="raging" target="rainy" weight="0.107143" />
+      <edge id="1450" source="raging" target="raucous" weight="0.037736" />
+      <edge id="1451" source="raging" target="rabid" weight="0.447059" />
+      <edge id="1452" source="raging" target="rasping" weight="0.010417" />
+      <edge id="1453" source="raging" target="rancid" weight="0.008403" />
+      <edge id="1454" source="raging" target="ragged" weight="0.009756" />
+      <edge id="1455" source="raging" target="raving" weight="0.583333" />
+      <edge id="1456" source="ram" target="rap" weight="0.021277" />
+      <edge id="1457" source="ram" target="rally" weight="0.006098" />
+      <edge id="1458" source="ram" target="rainbow" weight="0.007092" />
+      <edge id="1459" source="ram" target="raid" weight="0.009009" />
+      <edge id="1460" source="ram" target="rain" weight="0.006329" />
+      <edge id="1461" source="ram" target="rape" weight="0.015625" />
+      <edge id="1462" source="ram" target="ramble" weight="0.007813" />
+      <edge id="1463" source="ram" target="ranch" weight="0.010638" />
+      <edge id="1464" source="rapt" target="rabid" weight="0.032258" />
+      <edge id="1465" source="radiotherapy" target="radiation" weight="0.021277" />
+      <edge id="1466" source="raw" target="rainbow" weight="0.008163" />
+      <edge id="1467" source="raw" target="rainy" weight="0.026455" />
+      <edge id="1468" source="raw" target="rarefied" weight="0.004464" />
+      <edge id="1469" source="raw" target="rain" weight="0.003802" />
+      <edge id="1470" source="raw" target="racking" weight="0.020619" />
+      <edge id="1471" source="raw" target="rasping" weight="0.005076" />
+      <edge id="1472" source="rat" target="rap" weight="0.010101" />
+      <edge id="1473" source="rat" target="rapidity" weight="0.009259" />
+      <edge id="1474" source="rat" target="rabies" weight="0.009259" />
+      <edge id="1475" source="rat" target="rape" weight="0.007092" />
+      <edge id="1476" source="rat" target="rainbow" weight="0.013158" />
+      <edge id="1477" source="rat" target="raindrop" weight="0.011236" />
+      <edge id="1478" source="rat" target="rain" weight="0.005882" />
+      <edge id="1479" source="rat" target="ramble" weight="0.014388" />
+      <edge id="1480" source="rat" target="ramification" weight="0.007634" />
+      <edge id="1481" source="rat" target="ravine" weight="0.007194" />
+      <edge id="1482" source="rainstorm" target="raid" weight="0.013889" />
+      <edge id="1483" source="rainstorm" target="rain" weight="0.034483" />
+      <edge id="1484" source="rainstorm" target="rape" weight="0.011111" />
+      <edge id="1485" source="rap" target="rapidity" weight="0.011538" />
+      <edge id="1486" source="rap" target="rainbow" weight="0.006536" />
+      <edge id="1487" source="rap" target="rainy" weight="0.003937" />
+      <edge id="1488" source="rap" target="rape" weight="0.010239" />
+      <edge id="1489" source="rap" target="raindrop" weight="0.004115" />
+      <edge id="1490" source="rap" target="rail" weight="0.003509" />
+      <edge id="1491" source="rap" target="rarefied" weight="0.003509" />
+      <edge id="1492" source="rap" target="rationale" weight="0.004049" />
+      <edge id="1493" source="rap" target="rain" weight="0.012461" />
+      <edge id="1494" source="rap" target="ramble" weight="0.003401" />
+      <edge id="1495" source="rap" target="rationalize" weight="0.009967" />
+      <edge id="1496" source="rally" target="rapidity" weight="0.003289" />
+      <edge id="1497" source="rally" target="ray" weight="0.003236" />
+      <edge id="1498" source="rally" target="ransom" weight="0.033445" />
+      <edge id="1499" source="rally" target="rainbow" weight="0.002865" />
+      <edge id="1500" source="rally" target="rationalize" weight="0.011696" />
+      <edge id="1501" source="rally" target="raindrop" weight="0.003509" />
+      <edge id="1502" source="rally" target="rail" weight="0.012346" />
+      <edge id="1503" source="rally" target="rain" weight="0.013812" />
+      <edge id="1504" source="rally" target="rationale" weight="0.00346" />
+      <edge id="1505" source="rally" target="ramble" weight="0.00597" />
+      <edge id="1506" source="rally" target="radiating" weight="0.003623" />
+      <edge id="1507" source="rally" target="ranch" weight="0.006645" />
+      <edge id="1508" source="rally" target="ramification" weight="0.006135" />
+      <edge id="1509" source="rape" target="rapacity" weight="0.025316" />
+      <edge id="1510" source="rape" target="raid" weight="0.212121" />
+      <edge id="1511" source="rape" target="rabid" weight="0.007937" />
+      <edge id="1512" source="rape" target="ravine" weight="0.007407" />
+      <edge id="1513" source="rape" target="ramble" weight="0.022388" />
+      <edge id="1514" source="rape" target="raving" weight="0.012987" />
+      <edge id="1515" source="ray" target="radiation" weight="0.268657" />
+      <edge id="1516" source="ray" target="rail" weight="0.010101" />
+      <edge id="1517" source="ray" target="rain" weight="0.007246" />
+      <edge id="1518" source="ray" target="rarefied" weight="0.010101" />
+      <edge id="1519" source="ray" target="rationale" weight="0.016393" />
+      <edge id="1520" source="ray" target="ramify" weight="0.021053" />
+      <edge id="1521" source="ray" target="ramification" weight="0.010101" />
+      <edge id="1522" source="ray" target="ravine" weight="0.009346" />
+      <edge id="1523" source="ransom" target="rationalize" weight="0.008621" />
+      <edge id="1524" source="rapprochement" target="rapport" weight="0.307692" />
+      <edge id="1525" source="rapprochement" target="rationality" weight="0.023256" />
+      <edge id="1526" source="rainy" target="raindrop" weight="0.022727" />
+      <edge id="1527" source="rainy" target="ragged" weight="0.005917" />
+      <edge id="1528" source="rainy" target="rancid" weight="0.012195" />
+      <edge id="1529" source="rainy" target="rarefied" weight="0.011628" />
+      <edge id="1530" source="rainy" target="rabid" weight="0.02381" />
+      <edge id="1531" source="rainy" target="raving" weight="0.055046" />
+      <edge id="1532" source="ragamuffin" target="ramble" weight="0.044444" />
+      <edge id="1533" source="rapacity" target="raid" weight="0.032787" />
+      <edge id="1534" source="raddle" target="rain" weight="0.006667" />
+      <edge id="1535" source="raddle" target="raucous" weight="0.010309" />
+      <edge id="1536" source="raddle" target="rasping" weight="0.011905" />
+      <edge id="1537" source="raddle" target="ramble" weight="0.008333" />
+      <edge id="1538" source="radiation" target="rail" weight="0.009804" />
+      <edge id="1539" source="radiation" target="rain" weight="0.007092" />
+      <edge id="1540" source="radiation" target="rarefied" weight="0.009804" />
+      <edge id="1541" source="radiation" target="rationale" weight="0.048387" />
+      <edge id="1542" source="rarefy" target="ranch" weight="0.013158" />
+      <edge id="1543" source="rarefy" target="ramble" weight="0.018349" />
+      <edge id="1544" source="rarefy" target="rain" weight="0.014388" />
+      <edge id="1545" source="rarefy" target="rarefied" weight="0.030303" />
+      <edge id="1546" source="rapport" target="rationalize" weight="0.005682" />
+      <edge id="1547" source="rapport" target="rail" weight="0.006329" />
+      <edge id="1548" source="rapport" target="rain" weight="0.005076" />
+      <edge id="1549" source="rapport" target="ramification" weight="0.006329" />
+      <edge id="1550" source="rapidity" target="ramble" weight="0.009709" />
+      <edge id="1551" source="rapidity" target="raindrop" weight="0.039216" />
+      <edge id="1552" source="rapidity" target="rain" weight="0.015152" />
+      <edge id="1553" source="raid" target="rainbow" weight="0.007634" />
+      <edge id="1554" source="raid" target="rain" weight="0.006757" />
+      <edge id="1555" source="rainbow" target="ragged" weight="0.00905" />
+      <edge id="1556" source="rainbow" target="rainbowlike" weight="0.011765" />
+      <edge id="1557" source="rainbow" target="raving" weight="0.005988" />
+      <edge id="1558" source="raindrop" target="rain" weight="0.074766" />
+      <edge id="1559" source="racking" target="ragged" weight="0.011628" />
+      <edge id="1560" source="racking" target="raucous" weight="0.026667" />
+      <edge id="1561" source="racking" target="rabid" weight="0.011236" />
+      <edge id="1562" source="racking" target="rasping" weight="0.032258" />
+      <edge id="1563" source="racking" target="raving" weight="0.008475" />
+      <edge id="1564" source="rail" target="ramification" weight="0.017241" />
+      <edge id="1565" source="rail" target="rain" weight="0.00641" />
+      <edge id="1566" source="rail" target="ramify" weight="0.008772" />
+      <edge id="1567" source="rain" target="rations" weight="0.007634" />
+      <edge id="1568" source="rain" target="ramify" weight="0.013158" />
+      <edge id="1569" source="rain" target="ramification" weight="0.00641" />
+      <edge id="1570" source="rain" target="rationality" weight="0.006711" />
+      <edge id="1571" source="rarefied" target="rationale" weight="0.012658" />
+      <edge id="1572" source="rarefied" target="ragged" weight="0.005" />
+      <edge id="1573" source="rarefied" target="ravine" weight="0.008" />
+      <edge id="1574" source="raucous" target="rasping" weight="0.069444" />
+      <edge id="1575" source="rabid" target="raving" weight="0.342593" />
+      <edge id="1576" source="rationale" target="rationalize" weight="0.020833" />
+      <edge id="1577" source="rationale" target="rationality" weight="0.057971" />
+      <edge id="1578" source="rasping" target="ragged" weight="0.029586" />
+      <edge id="1579" source="ramify" target="rationalize" weight="0.007576" />
+      <edge id="1580" source="ramify" target="ramification" weight="0.036036" />
+      <edge id="1581" source="ramble" target="raving" weight="0.013072" />
+      <edge id="1582" source="rationalize" target="rationality" weight="0.007813" />
+      <edge id="1583" source="rationalize" target="ravine" weight="0.006993" />
+      <edge id="1584" source="ramification" target="ravine" weight="0.008" />
+    </edges>
+  </graph>
+</gexf>

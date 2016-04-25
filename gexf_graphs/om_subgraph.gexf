@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="omnipresence" label="omnipresence" />
+      <node id="omnipotent" label="omnipotent" />
+      <node id="omnipotence" label="omnipotence" />
+      <node id="omnibus" label="omnibus" />
+      <node id="omniscience" label="omniscience" />
+      <node id="omnipresent" label="omnipresent" />
+      <node id="omniscient" label="omniscient" />
+    </nodes>
+    <edges>
+      <edge id="0" source="omnipresence" target="omniscience" />
+      <edge id="1" source="omnipresence" target="omnipotence" />
+      <edge id="2" source="omnipotent" target="omnipresent" />
+      <edge id="3" source="omnipotent" target="omniscient" />
+      <edge id="4" source="omnipotence" target="omniscience" />
+      <edge id="5" source="omnibus" target="omnipresent" />
+      <edge id="6" source="omnipresent" target="omniscient" />
+    </edges>
+  </graph>
+</gexf>

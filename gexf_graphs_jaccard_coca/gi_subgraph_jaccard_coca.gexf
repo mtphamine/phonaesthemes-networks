@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="gizzard" label="gizzard">
+        <attvalues>
+          <attvalue for="0" value="1.87506126339" />
+        </attvalues>
+      </node>
+      <node id="give" label="give">
+        <attvalues>
+          <attvalue for="0" value="5.20004296648" />
+        </attvalues>
+      </node>
+      <node id="ginger" label="ginger" />
+      <node id="girlish" label="girlish" />
+      <node id="gird" label="gird">
+        <attvalues>
+          <attvalue for="0" value="1.86923171973" />
+        </attvalues>
+      </node>
+      <node id="girl" label="girl" />
+      <node id="gimmick" label="gimmick">
+        <attvalues>
+          <attvalue for="0" value="2.85913829729" />
+        </attvalues>
+      </node>
+      <node id="gizmo" label="gizmo" />
+      <node id="giddy" label="giddy">
+        <attvalues>
+          <attvalue for="0" value="3.11126251366" />
+        </attvalues>
+      </node>
+      <node id="gilded" label="gilded" />
+      <node id="given" label="given" />
+      <node id="giving" label="giving">
+        <attvalues>
+          <attvalue for="0" value="4.66587167404" />
+        </attvalues>
+      </node>
+      <node id="gig" label="gig">
+        <attvalues>
+          <attvalue for="0" value="3.2995072987" />
+        </attvalues>
+      </node>
+      <node id="gin" label="gin" />
+      <node id="giver" label="giver" />
+      <node id="gill" label="gill">
+        <attvalues>
+          <attvalue for="0" value="3.32283927269" />
+        </attvalues>
+      </node>
+      <node id="gibe" label="gibe">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="gist" label="gist">
+        <attvalues>
+          <attvalue for="0" value="2.73639650228" />
+        </attvalues>
+      </node>
+      <node id="gild" label="gild" />
+      <node id="giant" label="giant" />
+      <node id="giveaway" label="giveaway" />
+      <node id="gilt" label="gilt">
+        <attvalues>
+          <attvalue for="0" value="2.72015930341" />
+        </attvalues>
+      </node>
+      <node id="gimcrack" label="gimcrack" />
+      <node id="gibber" label="gibber" />
+      <node id="gigantic" label="gigantic">
+        <attvalues>
+          <attvalue for="0" value="3.39967372148" />
+        </attvalues>
+      </node>
+      <node id="gift" label="gift" />
+      <node id="girdle" label="girdle">
+        <attvalues>
+          <attvalue for="0" value="2.42324587394" />
+        </attvalues>
+      </node>
+      <node id="gifted" label="gifted">
+        <attvalues>
+          <attvalue for="0" value="4.04095817338" />
+        </attvalues>
+      </node>
+      <node id="gibbering" label="gibbering">
+        <attvalues>
+          <attvalue for="0" value="1.85733249643" />
+        </attvalues>
+      </node>
+      <node id="gingerbread" label="gingerbread" />
+      <node id="gibberish" label="gibberish" />
+      <node id="girth" label="girth" />
+      <node id="giblets" label="giblets">
+        <attvalues>
+          <attvalue for="0" value="2.24551266781" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="gizzard" target="gist" weight="0.013699" />
+      <edge id="1" source="gizzard" target="ginger" weight="0.013889" />
+      <edge id="2" source="gizzard" target="giblets" weight="0.518519" />
+      <edge id="3" source="give" target="gill" weight="0.005" />
+      <edge id="4" source="give" target="gist" weight="0.007576" />
+      <edge id="5" source="give" target="gift" weight="0.169903" />
+      <edge id="6" source="give" target="gild" weight="0.004184" />
+      <edge id="7" source="give" target="girdle" weight="0.010909" />
+      <edge id="8" source="give" target="gird" weight="0.009217" />
+      <edge id="9" source="give" target="ginger" weight="0.010582" />
+      <edge id="10" source="give" target="gig" weight="0.005155" />
+      <edge id="11" source="give" target="giving" weight="0.019685" />
+      <edge id="12" source="give" target="gibbering" weight="0.005682" />
+      <edge id="13" source="give" target="giveaway" weight="0.004695" />
+      <edge id="14" source="give" target="gilt" weight="0.003676" />
+      <edge id="15" source="give" target="gimcrack" weight="0.004367" />
+      <edge id="16" source="give" target="gimmick" weight="0.007326" />
+      <edge id="17" source="give" target="gibber" weight="0.004184" />
+      <edge id="18" source="give" target="girl" weight="0.004673" />
+      <edge id="19" source="give" target="girth" weight="0.003891" />
+      <edge id="20" source="ginger" target="gig" weight="0.016949" />
+      <edge id="21" source="ginger" target="giblets" weight="0.015625" />
+      <edge id="22" source="ginger" target="gist" weight="0.007692" />
+      <edge id="23" source="girlish" target="giddy" weight="0.006289" />
+      <edge id="24" source="girlish" target="giving" weight="0.006757" />
+      <edge id="25" source="gird" target="gibe" weight="0.046296" />
+      <edge id="26" source="gird" target="girdle" weight="0.257353" />
+      <edge id="27" source="gird" target="gilt" weight="0.006061" />
+      <edge id="28" source="gird" target="gimcrack" weight="0.008197" />
+      <edge id="29" source="gird" target="girth" weight="0.188976" />
+      <edge id="30" source="girl" target="gill" weight="0.046512" />
+      <edge id="31" source="girl" target="girdle" weight="0.012121" />
+      <edge id="32" source="gimmick" target="gill" weight="0.006711" />
+      <edge id="33" source="gimmick" target="given" weight="0.012346" />
+      <edge id="34" source="gimmick" target="gist" weight="0.018957" />
+      <edge id="35" source="gimmick" target="gild" weight="0.021622" />
+      <edge id="36" source="gimmick" target="gimcrack" weight="0.065476" />
+      <edge id="37" source="gimmick" target="gig" weight="0.006993" />
+      <edge id="38" source="gimmick" target="gingerbread" weight="0.006944" />
+      <edge id="39" source="gimmick" target="gilt" weight="0.018349" />
+      <edge id="40" source="gimmick" target="gin" weight="0.00641" />
+      <edge id="41" source="gimmick" target="girth" weight="0.004854" />
+      <edge id="42" source="gimmick" target="gizmo" weight="0.230088" />
+      <edge id="43" source="gizmo" target="gist" weight="0.007752" />
+      <edge id="44" source="giddy" target="gilt" weight="0.00463" />
+      <edge id="45" source="giddy" target="gigantic" weight="0.005495" />
+      <edge id="46" source="giddy" target="gimcrack" weight="0.00578" />
+      <edge id="47" source="gilded" target="gilt" weight="0.162393" />
+      <edge id="48" source="given" target="giving" weight="0.006803" />
+      <edge id="49" source="given" target="gifted" weight="0.014706" />
+      <edge id="50" source="giving" target="gigantic" weight="0.005848" />
+      <edge id="51" source="giving" target="gift" weight="0.011628" />
+      <edge id="52" source="gig" target="gin" weight="0.026667" />
+      <edge id="53" source="gin" target="girdle" weight="0.006289" />
+      <edge id="54" source="giver" target="girdle" weight="0.007874" />
+      <edge id="55" source="gill" target="giveaway" weight="0.011364" />
+      <edge id="56" source="gibe" target="girdle" weight="0.005848" />
+      <edge id="57" source="gibe" target="giveaway" weight="0.009346" />
+      <edge id="58" source="gibe" target="gimcrack" weight="0.016393" />
+      <edge id="59" source="gibe" target="girth" weight="0.006623" />
+      <edge id="60" source="gist" target="gift" weight="0.005556" />
+      <edge id="61" source="gist" target="giblets" weight="0.014493" />
+      <edge id="62" source="gist" target="gilt" weight="0.004717" />
+      <edge id="63" source="gist" target="girth" weight="0.025907" />
+      <edge id="64" source="gild" target="gilt" weight="0.033149" />
+      <edge id="65" source="giant" target="gigantic" weight="0.333333" />
+      <edge id="66" source="giveaway" target="gilt" weight="0.00625" />
+      <edge id="67" source="gilt" target="gimcrack" weight="0.017241" />
+      <edge id="68" source="gilt" target="gingerbread" weight="0.117188" />
+      <edge id="69" source="gilt" target="gibberish" weight="0.019355" />
+      <edge id="70" source="gilt" target="gibber" weight="0.016304" />
+      <edge id="71" source="gilt" target="girth" weight="0.004902" />
+      <edge id="72" source="gibber" target="gibbering" weight="0.166667" />
+      <edge id="73" source="gift" target="girdle" weight="0.005208" />
+      <edge id="74" source="girdle" target="giblets" weight="0.006623" />
+      <edge id="75" source="girdle" target="girth" weight="0.22093" />
+      <edge id="76" source="gibbering" target="gibberish" weight="0.050847" />
+    </edges>
+  </graph>
+</gexf>

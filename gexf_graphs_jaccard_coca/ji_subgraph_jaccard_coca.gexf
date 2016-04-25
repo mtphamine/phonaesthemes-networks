@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="jig" label="jig">
+        <attvalues>
+          <attvalue for="0" value="2.94792361983" />
+        </attvalues>
+      </node>
+      <node id="jib" label="jib">
+        <attvalues>
+          <attvalue for="0" value="2.08278537032" />
+        </attvalues>
+      </node>
+      <node id="jigger" label="jigger">
+        <attvalues>
+          <attvalue for="0" value="1.83884909074" />
+        </attvalues>
+      </node>
+      <node id="jingling" label="jingling">
+        <attvalues>
+          <attvalue for="0" value="2.357934847" />
+        </attvalues>
+      </node>
+      <node id="jilt" label="jilt" />
+      <node id="jilter" label="jilter" />
+      <node id="jiggle" label="jiggle">
+        <attvalues>
+          <attvalue for="0" value="2.39967372148" />
+        </attvalues>
+      </node>
+      <node id="jiffy" label="jiffy">
+        <attvalues>
+          <attvalue for="0" value="2.17609125906" />
+        </attvalues>
+      </node>
+      <node id="jitters" label="jitters" />
+      <node id="jibe" label="jibe">
+        <attvalues>
+          <attvalue for="0" value="2.32014628611" />
+        </attvalues>
+      </node>
+      <node id="jittery" label="jittery">
+        <attvalues>
+          <attvalue for="0" value="2.7427251313" />
+        </attvalues>
+      </node>
+      <node id="jingle" label="jingle" />
+      <node id="jiva" label="jiva" />
+      <node id="jive" label="jive">
+        <attvalues>
+          <attvalue for="0" value="2.46538285145" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="jig" target="jiffy" weight="0.019417" />
+      <edge id="1" source="jig" target="jitters" weight="0.014706" />
+      <edge id="2" source="jig" target="jib" weight="0.022222" />
+      <edge id="3" source="jig" target="jiggle" weight="0.449438" />
+      <edge id="4" source="jig" target="jigger" weight="0.128571" />
+      <edge id="5" source="jib" target="jibe" weight="0.009434" />
+      <edge id="6" source="jib" target="jiggle" weight="0.022472" />
+      <edge id="7" source="jigger" target="jilt" weight="0.009346" />
+      <edge id="8" source="jigger" target="jiggle" weight="0.193548" />
+      <edge id="9" source="jigger" target="jiffy" weight="0.011628" />
+      <edge id="10" source="jingling" target="jingle" weight="0.222222" />
+      <edge id="11" source="jingling" target="jibe" weight="0.012346" />
+      <edge id="12" source="jilt" target="jive" weight="0.013889" />
+      <edge id="13" source="jilt" target="jibe" weight="0.010638" />
+      <edge id="14" source="jilter" target="jive" weight="0.019608" />
+      <edge id="15" source="jiggle" target="jitters" weight="0.011111" />
+      <edge id="16" source="jiggle" target="jiffy" weight="0.035714" />
+      <edge id="17" source="jiffy" target="jiva" weight="0.030303" />
+      <edge id="18" source="jitters" target="jittery" weight="0.0125" />
+      <edge id="19" source="jibe" target="jingle" weight="0.014286" />
+      <edge id="20" source="jingle" target="jive" weight="0.008403" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="office" label="office">
+        <attvalues>
+          <attvalue for="0" value="5.03944188141" />
+        </attvalues>
+      </node>
+      <node id="offense" label="offense" />
+      <node id="offspring" label="offspring">
+        <attvalues>
+          <attvalue for="0" value="3.53339070802" />
+        </attvalues>
+      </node>
+      <node id="officious" label="officious" />
+      <node id="offer" label="offer">
+        <attvalues>
+          <attvalue for="0" value="4.69859635039" />
+        </attvalues>
+      </node>
+      <node id="offensive" label="offensive">
+        <attvalues>
+          <attvalue for="0" value="4.08131129516" />
+        </attvalues>
+      </node>
+      <node id="offertory" label="offertory">
+        <attvalues>
+          <attvalue for="0" value="1.41497334797" />
+        </attvalues>
+      </node>
+      <node id="offered" label="offered">
+        <attvalues>
+          <attvalue for="0" value="4.57016919246" />
+        </attvalues>
+      </node>
+      <node id="offering" label="offering" />
+      <node id="offhand" label="offhand">
+        <attvalues>
+          <attvalue for="0" value="2.61489721603" />
+        </attvalues>
+      </node>
+      <node id="offscourings" label="offscourings">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="offing" label="offing">
+        <attvalues>
+          <attvalue for="0" value="2.53655844257" />
+        </attvalues>
+      </node>
+      <node id="offal" label="offal" />
+      <node id="officeholder" label="officeholder" />
+      <node id="offset" label="offset" />
+      <node id="offish" label="offish" />
+      <node id="officiate" label="officiate">
+        <attvalues>
+          <attvalue for="0" value="2.00860017176" />
+        </attvalues>
+      </node>
+      <node id="off" label="off" />
+      <node id="official" label="official">
+        <attvalues>
+          <attvalue for="0" value="4.55966727839" />
+        </attvalues>
+      </node>
+      <node id="offbeat" label="offbeat">
+        <attvalues>
+          <attvalue for="0" value="2.8122446968" />
+        </attvalues>
+      </node>
+      <node id="officer" label="officer" />
+      <node id="offshoot" label="offshoot" />
+      <node id="officialdom" label="officialdom">
+        <attvalues>
+          <attvalue for="0" value="2.20682587603" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="office" target="offering" weight="0.005236" />
+      <edge id="1" source="office" target="official" weight="0.007143" />
+      <edge id="2" source="office" target="offensive" weight="0.002632" />
+      <edge id="3" source="office" target="offspring" weight="0.004115" />
+      <edge id="4" source="office" target="offset" weight="0.008065" />
+      <edge id="5" source="office" target="offshoot" weight="0.010791" />
+      <edge id="6" source="office" target="offense" weight="0.004167" />
+      <edge id="7" source="office" target="officiate" weight="0.005848" />
+      <edge id="8" source="office" target="officialdom" weight="0.006135" />
+      <edge id="9" source="offense" target="offensive" weight="0.073171" />
+      <edge id="10" source="offense" target="offer" weight="0.005405" />
+      <edge id="11" source="offspring" target="off" weight="0.003356" />
+      <edge id="12" source="offspring" target="offer" weight="0.005319" />
+      <edge id="13" source="offspring" target="offing" weight="0.009804" />
+      <edge id="14" source="offspring" target="offset" weight="0.005587" />
+      <edge id="15" source="offspring" target="offshoot" weight="0.116402" />
+      <edge id="16" source="officious" target="offensive" weight="0.004255" />
+      <edge id="17" source="offer" target="offering" weight="0.096" />
+      <edge id="18" source="offer" target="officer" weight="0.006536" />
+      <edge id="19" source="offer" target="offshoot" weight="0.008929" />
+      <edge id="20" source="offer" target="offertory" weight="0.035714" />
+      <edge id="21" source="offer" target="officiate" weight="0.026316" />
+      <edge id="22" source="offensive" target="off" weight="0.013953" />
+      <edge id="23" source="offensive" target="offhand" weight="0.010274" />
+      <edge id="24" source="offensive" target="offset" weight="0.003165" />
+      <edge id="25" source="offensive" target="offish" weight="0.003788" />
+      <edge id="26" source="offertory" target="offering" weight="0.278689" />
+      <edge id="27" source="offered" target="official" weight="0.006623" />
+      <edge id="28" source="offered" target="off" weight="0.004202" />
+      <edge id="29" source="offhand" target="offbeat" weight="0.017094" />
+      <edge id="30" source="offhand" target="off" weight="0.007117" />
+      <edge id="31" source="offscourings" target="offshoot" weight="0.005525" />
+      <edge id="32" source="offscourings" target="off" weight="0.007463" />
+      <edge id="33" source="offscourings" target="offal" weight="0.52459" />
+      <edge id="34" source="offscourings" target="officeholder" weight="0.015625" />
+      <edge id="35" source="offscourings" target="offset" weight="0.006667" />
+      <edge id="36" source="offing" target="offshoot" weight="0.007194" />
+      <edge id="37" source="officeholder" target="official" weight="0.023256" />
+      <edge id="38" source="offset" target="offbeat" weight="0.007143" />
+      <edge id="39" source="off" target="official" weight="0.002976" />
+      <edge id="40" source="off" target="offbeat" weight="0.087866" />
+      <edge id="41" source="official" target="officer" weight="0.10625" />
+      <edge id="42" source="official" target="officialdom" weight="0.007634" />
+      <edge id="43" source="officer" target="officialdom" weight="0.017241" />
+    </edges>
+  </graph>
+</gexf>

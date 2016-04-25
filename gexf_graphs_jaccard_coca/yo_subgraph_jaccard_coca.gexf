@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="youth" label="youth" />
+      <node id="young" label="young">
+        <attvalues>
+          <attvalue for="0" value="5.18211493721" />
+        </attvalues>
+      </node>
+      <node id="yourself" label="yourself" />
+      <node id="youngest" label="youngest">
+        <attvalues>
+          <attvalue for="0" value="3.79490610652" />
+        </attvalues>
+      </node>
+      <node id="yoke" label="yoke" />
+      <node id="youngster" label="youngster">
+        <attvalues>
+          <attvalue for="0" value="3.1583624921" />
+        </attvalues>
+      </node>
+      <node id="yogurt" label="yogurt">
+        <attvalues>
+          <attvalue for="0" value="3.5701925611" />
+        </attvalues>
+      </node>
+      <node id="yokel" label="yokel">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="you" label="you">
+        <attvalues>
+          <attvalue for="0" value="6.52750462042" />
+        </attvalues>
+      </node>
+      <node id="youthful" label="youthful" />
+    </nodes>
+    <edges>
+      <edge id="0" source="youth" target="youngest" weight="0.264151" />
+      <edge id="1" source="youth" target="yokel" weight="0.017699" />
+      <edge id="2" source="youth" target="youngster" weight="0.053571" />
+      <edge id="3" source="youth" target="young" weight="0.041237" />
+      <edge id="4" source="young" target="youngest" weight="0.04918" />
+      <edge id="5" source="young" target="yoke" weight="0.006024" />
+      <edge id="6" source="young" target="youngster" weight="0.056604" />
+      <edge id="7" source="young" target="youthful" weight="0.157895" />
+      <edge id="8" source="yourself" target="you" weight="0.866667" />
+      <edge id="9" source="youngest" target="yokel" weight="0.012987" />
+      <edge id="10" source="youngest" target="youngster" weight="0.1" />
+      <edge id="11" source="youngest" target="youthful" weight="0.066667" />
+      <edge id="12" source="yoke" target="yogurt" weight="0.007634" />
+      <edge id="13" source="youngster" target="youthful" weight="0.043478" />
+      <edge id="14" source="yokel" target="youthful" weight="0.012658" />
+    </edges>
+  </graph>
+</gexf>

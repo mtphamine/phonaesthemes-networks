@@ -1,0 +1,1185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="straightlaced" label="straightlaced" />
+      <node id="stave" label="stave" />
+      <node id="streaking" label="streaking" />
+      <node id="stable" label="stable" />
+      <node id="stochastic" label="stochastic" />
+      <node id="stinko" label="stinko" />
+      <node id="stupefying" label="stupefying" />
+      <node id="string" label="string" />
+      <node id="straightforward" label="straightforward" />
+      <node id="stipulate" label="stipulate" />
+      <node id="stiffen" label="stiffen" />
+      <node id="stodgy" label="stodgy" />
+      <node id="stiff" label="stiff" />
+      <node id="stimulus" label="stimulus" />
+      <node id="starlit" label="starlit" />
+      <node id="steeple" label="steeple" />
+      <node id="stirps" label="stirps" />
+      <node id="stupefied" label="stupefied" />
+      <node id="stigmatize" label="stigmatize" />
+      <node id="stupefy" label="stupefy" />
+      <node id="stertorous" label="stertorous" />
+      <node id="sterile" label="sterile" />
+      <node id="stickpin" label="stickpin" />
+      <node id="stressful" label="stressful" />
+      <node id="stately" label="stately" />
+      <node id="stance" label="stance" />
+      <node id="stanch" label="stanch" />
+      <node id="stallion" label="stallion" />
+      <node id="studio" label="studio" />
+      <node id="strong" label="strong" />
+      <node id="stormy" label="stormy" />
+      <node id="study" label="study" />
+      <node id="studied" label="studied" />
+      <node id="staunchly" label="staunchly" />
+      <node id="stiffness" label="stiffness" />
+      <node id="stressed" label="stressed" />
+      <node id="stipulated" label="stipulated" />
+      <node id="stray" label="stray" />
+      <node id="straw" label="straw" />
+      <node id="strolling" label="strolling" />
+      <node id="strap" label="strap" />
+      <node id="stern" label="stern" />
+      <node id="staple" label="staple" />
+      <node id="stingy" label="stingy" />
+      <node id="standing" label="standing" />
+      <node id="strapped" label="strapped" />
+      <node id="stinted" label="stinted" />
+      <node id="strike" label="strike" />
+      <node id="stretchy" label="stretchy" />
+      <node id="start" label="start" />
+      <node id="staphylococcus" label="staphylococcus" />
+      <node id="staggering" label="staggering" />
+      <node id="stutter" label="stutter" />
+      <node id="stick" label="stick" />
+      <node id="straitened" label="straitened" />
+      <node id="striving" label="striving" />
+      <node id="stain" label="stain" />
+      <node id="stationmaster" label="stationmaster" />
+      <node id="straddle" label="straddle" />
+      <node id="streptococcus" label="streptococcus" />
+      <node id="stature" label="stature" />
+      <node id="stimulating" label="stimulating" />
+      <node id="streak" label="streak" />
+      <node id="stubborn" label="stubborn" />
+      <node id="stream" label="stream" />
+      <node id="stated" label="stated" />
+      <node id="stinging" label="stinging" />
+      <node id="stroke" label="stroke" />
+      <node id="streamer" label="streamer" />
+      <node id="strop" label="strop" />
+      <node id="stymie" label="stymie" />
+      <node id="statuelike" label="statuelike" />
+      <node id="stir" label="stir" />
+      <node id="stock" label="stock" />
+      <node id="stow" label="stow" />
+      <node id="strangulated" label="strangulated" />
+      <node id="statuary" label="statuary" />
+      <node id="stapes" label="stapes" />
+      <node id="stress" label="stress" />
+      <node id="stash" label="stash" />
+      <node id="stony" label="stony" />
+      <node id="stuffiness" label="stuffiness" />
+      <node id="stability" label="stability" />
+      <node id="structuring" label="structuring" />
+      <node id="stile" label="stile" />
+      <node id="staunch" label="staunch" />
+      <node id="strangle" label="strangle" />
+      <node id="still" label="still" />
+      <node id="style" label="style" />
+      <node id="stricture" label="stricture" />
+      <node id="stridency" label="stridency" />
+      <node id="stifling" label="stifling" />
+      <node id="stalemate" label="stalemate" />
+      <node id="sterility" label="sterility" />
+      <node id="stridor" label="stridor" />
+      <node id="stuttering" label="stuttering" />
+      <node id="stout" label="stout" />
+      <node id="strive" label="strive" />
+      <node id="stewed" label="stewed" />
+      <node id="stinking" label="stinking" />
+      <node id="stopper" label="stopper" />
+      <node id="stuporous" label="stuporous" />
+      <node id="standoffish" label="standoffish" />
+      <node id="strangling" label="strangling" />
+      <node id="stopped" label="stopped" />
+      <node id="sterling" label="sterling" />
+      <node id="static" label="static" />
+      <node id="stealing" label="stealing" />
+      <node id="stitch" label="stitch" />
+      <node id="standpipe" label="standpipe" />
+      <node id="stub" label="stub" />
+      <node id="stuff" label="stuff" />
+      <node id="stud" label="stud" />
+      <node id="stela" label="stela" />
+      <node id="stun" label="stun" />
+      <node id="stamping" label="stamping" />
+      <node id="state" label="state" />
+      <node id="stenographer" label="stenographer" />
+      <node id="standard" label="standard" />
+      <node id="streamline" label="streamline" />
+      <node id="struggle" label="struggle" />
+      <node id="strongbox" label="strongbox" />
+      <node id="standby" label="standby" />
+      <node id="stonecutter" label="stonecutter" />
+      <node id="stampede" label="stampede" />
+      <node id="steward" label="steward" />
+      <node id="stride" label="stride" />
+      <node id="stainless" label="stainless" />
+      <node id="strapping" label="strapping" />
+      <node id="stimulate" label="stimulate" />
+      <node id="staggered" label="staggered" />
+      <node id="stepmother" label="stepmother" />
+      <node id="striking" label="striking" />
+      <node id="strategic" label="strategic" />
+      <node id="straining" label="straining" />
+      <node id="steamy" label="steamy" />
+      <node id="story" label="story" />
+      <node id="strict" label="strict" />
+      <node id="stack" label="stack" />
+      <node id="stimulation" label="stimulation" />
+      <node id="station" label="station" />
+      <node id="stifled" label="stifled" />
+      <node id="stuffed" label="stuffed" />
+      <node id="store" label="store" />
+      <node id="stomach" label="stomach" />
+      <node id="statement" label="statement" />
+      <node id="streaked" label="streaked" />
+      <node id="stoic" label="stoic" />
+      <node id="stifle" label="stifle" />
+      <node id="steel" label="steel" />
+      <node id="steed" label="steed" />
+      <node id="stammer" label="stammer" />
+      <node id="sturdiness" label="sturdiness" />
+      <node id="stall" label="stall" />
+      <node id="stalk" label="stalk" />
+      <node id="stale" label="stale" />
+      <node id="steep" label="steep" />
+      <node id="sty" label="sty" />
+      <node id="steer" label="steer" />
+      <node id="stipple" label="stipple" />
+      <node id="stubby" label="stubby" />
+      <node id="strengthen" label="strengthen" />
+      <node id="stratosphere" label="stratosphere" />
+      <node id="stolid" label="stolid" />
+      <node id="stopgap" label="stopgap" />
+      <node id="stowage" label="stowage" />
+      <node id="stargazing" label="stargazing" />
+      <node id="stirrup" label="stirrup" />
+      <node id="starched" label="starched" />
+      <node id="stereo" label="stereo" />
+      <node id="stringency" label="stringency" />
+      <node id="sturdy" label="sturdy" />
+      <node id="stranded" label="stranded" />
+      <node id="steady" label="steady" />
+      <node id="stoning" label="stoning" />
+      <node id="storm" label="storm" />
+      <node id="standoff" label="standoff" />
+      <node id="stunned" label="stunned" />
+      <node id="stumper" label="stumper" />
+      <node id="stumped" label="stumped" />
+      <node id="striate" label="striate" />
+      <node id="stoned" label="stoned" />
+      <node id="staff" label="staff" />
+      <node id="stubble" label="stubble" />
+      <node id="stair" label="stair" />
+      <node id="stubbornness" label="stubbornness" />
+      <node id="starlike" label="starlike" />
+      <node id="storekeeper" label="storekeeper" />
+      <node id="stanza" label="stanza" />
+      <node id="staid" label="staid" />
+      <node id="stabbing" label="stabbing" />
+      <node id="studded" label="studded" />
+      <node id="stomp" label="stomp" />
+      <node id="stasis" label="stasis" />
+      <node id="stop" label="stop" />
+      <node id="strut" label="strut" />
+      <node id="stubbled" label="stubbled" />
+      <node id="striped" label="striped" />
+      <node id="stroll" label="stroll" />
+      <node id="stylus" label="stylus" />
+      <node id="streetwalker" label="streetwalker" />
+      <node id="stonecutting" label="stonecutting" />
+      <node id="stupid" label="stupid" />
+      <node id="streamlined" label="streamlined" />
+      <node id="steal" label="steal" />
+      <node id="steam" label="steam" />
+      <node id="strengthened" label="strengthened" />
+      <node id="stump" label="stump" />
+      <node id="stipulation" label="stipulation" />
+      <node id="strengthener" label="strengthener" />
+      <node id="stigma" label="stigma" />
+      <node id="steadfast" label="steadfast" />
+      <node id="stealthy" label="stealthy" />
+      <node id="startle" label="startle" />
+      <node id="straitlaced" label="straitlaced" />
+      <node id="striated" label="striated" />
+      <node id="staring" label="staring" />
+      <node id="steely" label="steely" />
+      <node id="stillborn" label="stillborn" />
+      <node id="stretched" label="stretched" />
+      <node id="stupa" label="stupa" />
+      <node id="stabile" label="stabile" />
+      <node id="startling" label="startling" />
+      <node id="stretch" label="stretch" />
+      <node id="steamboat" label="steamboat" />
+      <node id="strategy" label="strategy" />
+      <node id="startled" label="startled" />
+      <node id="stadium" label="stadium" />
+      <node id="straying" label="straying" />
+      <node id="stippled" label="stippled" />
+      <node id="straiten" label="straiten" />
+      <node id="steeplechaser" label="steeplechaser" />
+      <node id="stacked" label="stacked" />
+      <node id="straight" label="straight" />
+      <node id="stunning" label="stunning" />
+      <node id="stink" label="stink" />
+      <node id="stretching" label="stretching" />
+      <node id="straggling" label="straggling" />
+      <node id="sticker" label="sticker" />
+      <node id="strait" label="strait" />
+      <node id="sting" label="sting" />
+      <node id="strain" label="strain" />
+      <node id="straits" label="straits" />
+      <node id="stewardess" label="stewardess" />
+      <node id="stint" label="stint" />
+      <node id="strange" label="strange" />
+      <node id="stickle" label="stickle" />
+      <node id="struggling" label="struggling" />
+      <node id="stripper" label="stripper" />
+      <node id="stamen" label="stamen" />
+      <node id="straightjacket" label="straightjacket" />
+      <node id="statutory" label="statutory" />
+      <node id="strength" label="strength" />
+      <node id="stripe" label="stripe" />
+      <node id="statue" label="statue" />
+      <node id="stiffened" label="stiffened" />
+      <node id="stopple" label="stopple" />
+      <node id="stupendous" label="stupendous" />
+      <node id="stunted" label="stunted" />
+      <node id="stranglehold" label="stranglehold" />
+      <node id="stillness" label="stillness" />
+      <node id="steeled" label="steeled" />
+      <node id="stammering" label="stammering" />
+      <node id="stringent" label="stringent" />
+      <node id="stooge" label="stooge" />
+      <node id="steamer" label="steamer" />
+      <node id="storming" label="storming" />
+      <node id="studious" label="studious" />
+      <node id="stratum" label="stratum" />
+      <node id="striation" label="striation" />
+      <node id="stooped" label="stooped" />
+      <node id="sternway" label="sternway" />
+      <node id="stunt" label="stunt" />
+      <node id="standstill" label="standstill" />
+      <node id="stabilize" label="stabilize" />
+      <node id="starry" label="starry" />
+      <node id="stagnate" label="stagnate" />
+      <node id="strife" label="strife" />
+      <node id="stagger" label="stagger" />
+      <node id="steps" label="steps" />
+      <node id="stylish" label="stylish" />
+      <node id="starvation" label="starvation" />
+      <node id="stationary" label="stationary" />
+      <node id="stripteaser" label="stripteaser" />
+      <node id="stereotype" label="stereotype" />
+      <node id="streaming" label="streaming" />
+      <node id="star" label="star" />
+      <node id="stuffy" label="stuffy" />
+      <node id="strangulation" label="strangulation" />
+      <node id="steaming" label="steaming" />
+      <node id="staccato" label="staccato" />
+      <node id="standpat" label="standpat" />
+      <node id="stairway" label="stairway" />
+      <node id="stagy" label="stagy" />
+      <node id="stereotyped" label="stereotyped" />
+      <node id="strained" label="strained" />
+      <node id="stem" label="stem" />
+      <node id="stellar" label="stellar" />
+      <node id="step" label="step" />
+      <node id="stew" label="stew" />
+      <node id="standpoint" label="standpoint" />
+      <node id="strangled" label="strangled" />
+      <node id="stage" label="stage" />
+      <node id="stoker" label="stoker" />
+      <node id="stone" label="stone" />
+      <node id="stickling" label="stickling" />
+      <node id="stag" label="stag" />
+      <node id="stonewall" label="stonewall" />
+      <node id="stamp" label="stamp" />
+      <node id="storeroom" label="storeroom" />
+      <node id="stand" label="stand" />
+      <node id="steadily" label="steadily" />
+      <node id="staker" label="staker" />
+      <node id="stratagem" label="stratagem" />
+      <node id="stultify" label="stultify" />
+      <node id="strip" label="strip" />
+      <node id="stumble" label="stumble" />
+      <node id="stench" label="stench" />
+      <node id="stoppage" label="stoppage" />
+      <node id="strictly" label="strictly" />
+      <node id="stark" label="stark" />
+      <node id="stamina" label="stamina" />
+      <node id="stuck" label="stuck" />
+      <node id="stealth" label="stealth" />
+      <node id="statuesque" label="statuesque" />
+      <node id="starve" label="starve" />
+      <node id="storehouse" label="storehouse" />
+      <node id="straggle" label="straggle" />
+      <node id="strident" label="strident" />
+      <node id="straightaway" label="straightaway" />
+      <node id="stalking" label="stalking" />
+      <node id="stouthearted" label="stouthearted" />
+      <node id="strigose" label="strigose" />
+      <node id="starchy" label="starchy" />
+      <node id="stirring" label="stirring" />
+      <node id="strengthening" label="strengthening" />
+      <node id="steeplechase" label="steeplechase" />
+      <node id="statesmanlike" label="statesmanlike" />
+      <node id="stalwart" label="stalwart" />
+      <node id="sticky" label="sticky" />
+      <node id="straitjacket" label="straitjacket" />
+      <node id="stake" label="stake" />
+      <node id="storage" label="storage" />
+      <node id="stepchild" label="stepchild" />
+      <node id="stagnant" label="stagnant" />
+      <node id="stumpy" label="stumpy" />
+      <node id="stimulant" label="stimulant" />
+      <node id="standardize" label="standardize" />
+      <node id="stilted" label="stilted" />
+      <node id="stay" label="stay" />
+      <node id="stocky" label="stocky" />
+      <node id="stab" label="stab" />
+      <node id="strawhat" label="strawhat" />
+      <node id="stocks" label="stocks" />
+      <node id="structure" label="structure" />
+      <node id="stroller" label="stroller" />
+      <node id="stanchion" label="stanchion" />
+      <node id="stockpile" label="stockpile" />
+      <node id="status" label="status" />
+      <node id="stringy" label="stringy" />
+      <node id="strophe" label="strophe" />
+      <node id="strings" label="strings" />
+    </nodes>
+    <edges>
+      <edge id="0" source="straightlaced" target="stubborn" />
+      <edge id="1" source="straightlaced" target="straitlaced" />
+      <edge id="2" source="straightlaced" target="stiff" />
+      <edge id="3" source="stave" target="string" />
+      <edge id="4" source="stave" target="stair" />
+      <edge id="5" source="stave" target="stanza" />
+      <edge id="6" source="stave" target="stay" />
+      <edge id="7" source="stave" target="strain" />
+      <edge id="8" source="stave" target="step" />
+      <edge id="9" source="stave" target="stick" />
+      <edge id="10" source="stave" target="strengthener" />
+      <edge id="11" source="stave" target="strophe" />
+      <edge id="12" source="stave" target="staff" />
+      <edge id="13" source="streaking" target="streak" />
+      <edge id="14" source="streaking" target="striation" />
+      <edge id="15" source="streaking" target="stroke" />
+      <edge id="16" source="streaking" target="stripe" />
+      <edge id="17" source="streaking" target="strip" />
+      <edge id="18" source="stable" target="steeplechaser" />
+      <edge id="19" source="stable" target="string" />
+      <edge id="20" source="stable" target="steadfast" />
+      <edge id="21" source="stable" target="sturdy" />
+      <edge id="22" source="stable" target="straight" />
+      <edge id="23" source="stable" target="steady" />
+      <edge id="24" source="stable" target="stubborn" />
+      <edge id="25" source="stable" target="stall" />
+      <edge id="26" source="stable" target="static" />
+      <edge id="27" source="stable" target="stout" />
+      <edge id="28" source="stable" target="stabile" />
+      <edge id="29" source="stable" target="staunch" />
+      <edge id="30" source="stable" target="strong" />
+      <edge id="31" source="stable" target="stationary" />
+      <edge id="32" source="stable" target="sty" />
+      <edge id="33" source="stable" target="staker" />
+      <edge id="34" source="stochastic" target="stray" />
+      <edge id="35" source="stinko" target="stewed" />
+      <edge id="36" source="stupefying" target="stunning" />
+      <edge id="37" source="stupefying" target="stupendous" />
+      <edge id="38" source="string" target="steeplechaser" />
+      <edge id="39" source="string" target="stream" />
+      <edge id="40" source="string" target="stair" />
+      <edge id="41" source="string" target="strip" />
+      <edge id="42" source="string" target="stipulation" />
+      <edge id="43" source="string" target="step" />
+      <edge id="44" source="string" target="stripe" />
+      <edge id="45" source="string" target="staker" />
+      <edge id="46" source="straightforward" target="straightaway" />
+      <edge id="47" source="straightforward" target="straight" />
+      <edge id="48" source="straightforward" target="stark" />
+      <edge id="49" source="stipulate" target="state" />
+      <edge id="50" source="stiffen" target="strengthen" />
+      <edge id="51" source="stiffen" target="steel" />
+      <edge id="52" source="stodgy" target="sticky" />
+      <edge id="53" source="stodgy" target="stiff" />
+      <edge id="54" source="stodgy" target="stuffy" />
+      <edge id="55" source="stodgy" target="stringy" />
+      <edge id="56" source="stodgy" target="sterile" />
+      <edge id="57" source="stodgy" target="starchy" />
+      <edge id="58" source="stiff" target="stern" />
+      <edge id="59" source="stiff" target="stubborn" />
+      <edge id="60" source="stiff" target="strong" />
+      <edge id="61" source="stiff" target="stray" />
+      <edge id="62" source="stiff" target="straitlaced" />
+      <edge id="63" source="stiff" target="starchy" />
+      <edge id="64" source="stiff" target="steely" />
+      <edge id="65" source="stiff" target="stoned" />
+      <edge id="66" source="stiff" target="stilted" />
+      <edge id="67" source="stiff" target="sterile" />
+      <edge id="68" source="stiff" target="steep" />
+      <edge id="69" source="stiff" target="stuffy" />
+      <edge id="70" source="stiff" target="starched" />
+      <edge id="71" source="stiff" target="stringy" />
+      <edge id="72" source="stimulus" target="stimulation" />
+      <edge id="73" source="stimulus" target="stimulant" />
+      <edge id="74" source="starlit" target="studded" />
+      <edge id="75" source="steeple" target="standpipe" />
+      <edge id="76" source="steeple" target="stupa" />
+      <edge id="77" source="stirps" target="strain" />
+      <edge id="78" source="stirps" target="stem" />
+      <edge id="79" source="stirps" target="stock" />
+      <edge id="80" source="stupefied" target="staggered" />
+      <edge id="81" source="stupefied" target="stoic" />
+      <edge id="82" source="stupefied" target="stunned" />
+      <edge id="83" source="stupefied" target="staring" />
+      <edge id="84" source="stigmatize" target="stipple" />
+      <edge id="85" source="stigmatize" target="streak" />
+      <edge id="86" source="stigmatize" target="stamp" />
+      <edge id="87" source="stigmatize" target="striate" />
+      <edge id="88" source="stigmatize" target="stud" />
+      <edge id="89" source="stigmatize" target="stain" />
+      <edge id="90" source="stigmatize" target="stripe" />
+      <edge id="91" source="stupefy" target="startle" />
+      <edge id="92" source="stupefy" target="stun" />
+      <edge id="93" source="stupefy" target="stagger" />
+      <edge id="94" source="stertorous" target="strangled" />
+      <edge id="95" source="sterile" target="stuffy" />
+      <edge id="96" source="stickpin" target="stone" />
+      <edge id="97" source="stressful" target="straining" />
+      <edge id="98" source="stately" target="statuesque" />
+      <edge id="99" source="stance" target="standing" />
+      <edge id="100" source="stance" target="stand" />
+      <edge id="101" source="stance" target="statement" />
+      <edge id="102" source="stanch" target="stopper" />
+      <edge id="103" source="stanch" target="stay" />
+      <edge id="104" source="stanch" target="stultify" />
+      <edge id="105" source="stanch" target="stop" />
+      <edge id="106" source="stanch" target="stem" />
+      <edge id="107" source="stanch" target="stuff" />
+      <edge id="108" source="stanch" target="strangle" />
+      <edge id="109" source="stanch" target="stifle" />
+      <edge id="110" source="stanch" target="stopple" />
+      <edge id="111" source="stanch" target="stench" />
+      <edge id="112" source="stallion" target="steed" />
+      <edge id="113" source="stallion" target="stag" />
+      <edge id="114" source="stallion" target="steer" />
+      <edge id="115" source="stallion" target="stud" />
+      <edge id="116" source="studio" target="study" />
+      <edge id="117" source="strong" target="sturdy" />
+      <edge id="118" source="strong" target="stinking" />
+      <edge id="119" source="strong" target="stubborn" />
+      <edge id="120" source="strong" target="straight" />
+      <edge id="121" source="strong" target="stressed" />
+      <edge id="122" source="strong" target="steady" />
+      <edge id="123" source="strong" target="steely" />
+      <edge id="124" source="strong" target="striking" />
+      <edge id="125" source="strong" target="stopped" />
+      <edge id="126" source="strong" target="stout" />
+      <edge id="127" source="strong" target="staunch" />
+      <edge id="128" source="strong" target="stale" />
+      <edge id="129" source="strong" target="strapping" />
+      <edge id="130" source="strong" target="stalwart" />
+      <edge id="131" source="strong" target="stuffy" />
+      <edge id="132" source="strong" target="stringy" />
+      <edge id="133" source="stormy" target="storming" />
+      <edge id="134" source="study" target="stargazing" />
+      <edge id="135" source="study" target="strain" />
+      <edge id="136" source="study" target="struggle" />
+      <edge id="137" source="study" target="statue" />
+      <edge id="138" source="study" target="stabile" />
+      <edge id="139" source="study" target="striving" />
+      <edge id="140" source="study" target="strive" />
+      <edge id="141" source="studied" target="studious" />
+      <edge id="142" source="staunchly" target="steadily" />
+      <edge id="143" source="stiffness" target="stubbornness" />
+      <edge id="144" source="stiffness" target="stamina" />
+      <edge id="145" source="stiffness" target="strength" />
+      <edge id="146" source="stiffness" target="sterility" />
+      <edge id="147" source="stiffness" target="stuffiness" />
+      <edge id="148" source="stressed" target="stopped" />
+      <edge id="149" source="stipulated" target="stated" />
+      <edge id="150" source="stray" target="straying" />
+      <edge id="151" source="stray" target="straggle" />
+      <edge id="152" source="stray" target="stumble" />
+      <edge id="153" source="stray" target="stroll" />
+      <edge id="154" source="straw" target="stubble" />
+      <edge id="155" source="straw" target="stump" />
+      <edge id="156" source="straw" target="standpipe" />
+      <edge id="157" source="straw" target="stem" />
+      <edge id="158" source="straw" target="stalk" />
+      <edge id="159" source="straw" target="stock" />
+      <edge id="160" source="strolling" target="staggering" />
+      <edge id="161" source="strolling" target="straying" />
+      <edge id="162" source="strolling" target="straggling" />
+      <edge id="163" source="strap" target="stripe" />
+      <edge id="164" source="strap" target="strip" />
+      <edge id="165" source="strap" target="straitjacket" />
+      <edge id="166" source="strap" target="strop" />
+      <edge id="167" source="strap" target="straddle" />
+      <edge id="168" source="stern" target="steely" />
+      <edge id="169" source="stern" target="strict" />
+      <edge id="170" source="stern" target="stringent" />
+      <edge id="171" source="staple" target="stitch" />
+      <edge id="172" source="staple" target="stated" />
+      <edge id="173" source="staple" target="standard" />
+      <edge id="174" source="staple" target="stuff" />
+      <edge id="175" source="staple" target="stick" />
+      <edge id="176" source="staple" target="store" />
+      <edge id="177" source="staple" target="stock" />
+      <edge id="178" source="stingy" target="stunted" />
+      <edge id="179" source="stingy" target="straitened" />
+      <edge id="180" source="stingy" target="starvation" />
+      <edge id="181" source="stingy" target="stinted" />
+      <edge id="182" source="standing" target="status" />
+      <edge id="183" source="standing" target="stature" />
+      <edge id="184" source="standing" target="stasis" />
+      <edge id="185" source="standing" target="stability" />
+      <edge id="186" source="standing" target="station" />
+      <edge id="187" source="standing" target="static" />
+      <edge id="188" source="standing" target="stand" />
+      <edge id="189" source="standing" target="stratum" />
+      <edge id="190" source="standing" target="stagnant" />
+      <edge id="191" source="standing" target="stage" />
+      <edge id="192" source="strapped" target="straitened" />
+      <edge id="193" source="strapped" target="stony" />
+      <edge id="194" source="stinted" target="stunted" />
+      <edge id="195" source="stinted" target="straitened" />
+      <edge id="196" source="stinted" target="starvation" />
+      <edge id="197" source="strike" target="standstill" />
+      <edge id="198" source="strike" target="stamp" />
+      <edge id="199" source="strike" target="stoppage" />
+      <edge id="200" source="strike" target="stop" />
+      <edge id="201" source="strike" target="stay" />
+      <edge id="202" source="strike" target="stand" />
+      <edge id="203" source="strike" target="storm" />
+      <edge id="204" source="strike" target="stalemate" />
+      <edge id="205" source="strike" target="standoff" />
+      <edge id="206" source="stretchy" target="stretch" />
+      <edge id="207" source="stretchy" target="stuporous" />
+      <edge id="208" source="start" target="startle" />
+      <edge id="209" source="start" target="stampede" />
+      <edge id="210" source="start" target="stalk" />
+      <edge id="211" source="staphylococcus" target="streptococcus" />
+      <edge id="212" source="staggering" target="stunning" />
+      <edge id="213" source="staggering" target="startling" />
+      <edge id="214" source="stutter" target="stammering" />
+      <edge id="215" source="stutter" target="stammer" />
+      <edge id="216" source="stutter" target="stumble" />
+      <edge id="217" source="stutter" target="stuttering" />
+      <edge id="218" source="stick" target="stake" />
+      <edge id="219" source="stick" target="stump" />
+      <edge id="220" source="stick" target="stitch" />
+      <edge id="221" source="stick" target="stabilize" />
+      <edge id="222" source="stick" target="stay" />
+      <edge id="223" source="stick" target="steady" />
+      <edge id="224" source="stick" target="strip" />
+      <edge id="225" source="stick" target="sting" />
+      <edge id="226" source="stick" target="stem" />
+      <edge id="227" source="stick" target="stop" />
+      <edge id="228" source="stick" target="strain" />
+      <edge id="229" source="stick" target="station" />
+      <edge id="230" source="stick" target="stalk" />
+      <edge id="231" source="stick" target="stand" />
+      <edge id="232" source="stick" target="strengthener" />
+      <edge id="233" source="stick" target="stab" />
+      <edge id="234" source="stick" target="stall" />
+      <edge id="235" source="stick" target="stumble" />
+      <edge id="236" source="stick" target="staff" />
+      <edge id="237" source="straitened" target="strait" />
+      <edge id="238" source="straitened" target="stunted" />
+      <edge id="239" source="straitened" target="starvation" />
+      <edge id="240" source="striving" target="straining" />
+      <edge id="241" source="striving" target="strain" />
+      <edge id="242" source="striving" target="struggling" />
+      <edge id="243" source="striving" target="struggle" />
+      <edge id="244" source="stain" target="streak" />
+      <edge id="245" source="stain" target="stipple" />
+      <edge id="246" source="stain" target="stamp" />
+      <edge id="247" source="stain" target="striate" />
+      <edge id="248" source="stain" target="stigma" />
+      <edge id="249" source="stain" target="stripe" />
+      <edge id="250" source="stationmaster" target="stoker" />
+      <edge id="251" source="straddle" target="stump" />
+      <edge id="252" source="straddle" target="stride" />
+      <edge id="253" source="straddle" target="stamp" />
+      <edge id="254" source="straddle" target="stomp" />
+      <edge id="255" source="straddle" target="strut" />
+      <edge id="256" source="straddle" target="stretch" />
+      <edge id="257" source="straddle" target="stagger" />
+      <edge id="258" source="straddle" target="stalk" />
+      <edge id="259" source="straddle" target="strip" />
+      <edge id="260" source="straddle" target="straggle" />
+      <edge id="261" source="straddle" target="stroll" />
+      <edge id="262" source="stature" target="status" />
+      <edge id="263" source="stature" target="state" />
+      <edge id="264" source="stature" target="station" />
+      <edge id="265" source="stimulating" target="strengthening" />
+      <edge id="266" source="stimulating" target="stirring" />
+      <edge id="267" source="stimulating" target="striking" />
+      <edge id="268" source="streak" target="stipple" />
+      <edge id="269" source="streak" target="stream" />
+      <edge id="270" source="streak" target="stamp" />
+      <edge id="271" source="streak" target="stripe" />
+      <edge id="272" source="streak" target="strain" />
+      <edge id="273" source="streak" target="stroke" />
+      <edge id="274" source="streak" target="striate" />
+      <edge id="275" source="streak" target="stud" />
+      <edge id="276" source="streak" target="strip" />
+      <edge id="277" source="streak" target="striation" />
+      <edge id="278" source="streak" target="streamer" />
+      <edge id="279" source="stubborn" target="steadfast" />
+      <edge id="280" source="stubborn" target="straitlaced" />
+      <edge id="281" source="stubborn" target="steady" />
+      <edge id="282" source="stubborn" target="sticky" />
+      <edge id="283" source="stubborn" target="stringy" />
+      <edge id="284" source="stream" target="streamer" />
+      <edge id="285" source="stream" target="stir" />
+      <edge id="286" source="stream" target="sternway" />
+      <edge id="287" source="stinging" target="stringent" />
+      <edge id="288" source="stinging" target="sting" />
+      <edge id="289" source="stinging" target="stabbing" />
+      <edge id="290" source="stinging" target="strident" />
+      <edge id="291" source="stroke" target="stratagem" />
+      <edge id="292" source="stroke" target="stress" />
+      <edge id="293" source="stroke" target="stopgap" />
+      <edge id="294" source="stroke" target="stoppage" />
+      <edge id="295" source="stroke" target="step" />
+      <edge id="296" source="stroke" target="stab" />
+      <edge id="297" source="stroke" target="stripe" />
+      <edge id="298" source="stroke" target="strip" />
+      <edge id="299" source="stroke" target="striation" />
+      <edge id="300" source="stroke" target="stunt" />
+      <edge id="301" source="streamer" target="standard" />
+      <edge id="302" source="strop" target="strip" />
+      <edge id="303" source="stymie" target="stop" />
+      <edge id="304" source="stymie" target="stall" />
+      <edge id="305" source="stymie" target="stump" />
+      <edge id="306" source="stymie" target="stay" />
+      <edge id="307" source="statuelike" target="statuesque" />
+      <edge id="308" source="statuelike" target="stationary" />
+      <edge id="309" source="statuelike" target="still" />
+      <edge id="310" source="statuelike" target="static" />
+      <edge id="311" source="statuelike" target="statuary" />
+      <edge id="312" source="stir" target="sting" />
+      <edge id="313" source="stir" target="stagger" />
+      <edge id="314" source="stir" target="stew" />
+      <edge id="315" source="stir" target="stimulate" />
+      <edge id="316" source="stir" target="stirring" />
+      <edge id="317" source="stock" target="stake" />
+      <edge id="318" source="stock" target="stereotyped" />
+      <edge id="319" source="stock" target="stack" />
+      <edge id="320" source="stock" target="stocks" />
+      <edge id="321" source="stock" target="standard" />
+      <edge id="322" source="stock" target="strain" />
+      <edge id="323" source="stock" target="stuff" />
+      <edge id="324" source="stock" target="strawhat" />
+      <edge id="325" source="stock" target="stalk" />
+      <edge id="326" source="stock" target="stale" />
+      <edge id="327" source="stock" target="stem" />
+      <edge id="328" source="stock" target="store" />
+      <edge id="329" source="stock" target="stockpile" />
+      <edge id="330" source="stow" target="store" />
+      <edge id="331" source="stow" target="stack" />
+      <edge id="332" source="stow" target="stash" />
+      <edge id="333" source="strangulated" target="strangled" />
+      <edge id="334" source="statuary" target="statuesque" />
+      <edge id="335" source="statuary" target="stonecutter" />
+      <edge id="336" source="statuary" target="stonecutting" />
+      <edge id="337" source="statuary" target="statue" />
+      <edge id="338" source="stapes" target="stirrup" />
+      <edge id="339" source="stress" target="straining" />
+      <edge id="340" source="stress" target="stretch" />
+      <edge id="341" source="stress" target="star" />
+      <edge id="342" source="stress" target="strain" />
+      <edge id="343" source="stash" target="store" />
+      <edge id="344" source="stony" target="steely" />
+      <edge id="345" source="stuffiness" target="sterility" />
+      <edge id="346" source="stability" target="strength" />
+      <edge id="347" source="stability" target="stubbornness" />
+      <edge id="348" source="stability" target="stasis" />
+      <edge id="349" source="stability" target="stamina" />
+      <edge id="350" source="stability" target="sturdiness" />
+      <edge id="351" source="structuring" target="structure" />
+      <edge id="352" source="stile" target="stanchion" />
+      <edge id="353" source="stile" target="stairway" />
+      <edge id="354" source="stile" target="steps" />
+      <edge id="355" source="stile" target="standard" />
+      <edge id="356" source="staunch" target="steadfast" />
+      <edge id="357" source="staunch" target="sturdy" />
+      <edge id="358" source="staunch" target="straitlaced" />
+      <edge id="359" source="staunch" target="steady" />
+      <edge id="360" source="staunch" target="steely" />
+      <edge id="361" source="staunch" target="strict" />
+      <edge id="362" source="staunch" target="stout" />
+      <edge id="363" source="strangle" target="stultify" />
+      <edge id="364" source="strangle" target="starve" />
+      <edge id="365" source="strangle" target="stifle" />
+      <edge id="366" source="strangle" target="stone" />
+      <edge id="367" source="still" target="stifle" />
+      <edge id="368" source="still" target="stabilize" />
+      <edge id="369" source="still" target="steady" />
+      <edge id="370" source="still" target="stillness" />
+      <edge id="371" source="still" target="stillborn" />
+      <edge id="372" source="still" target="static" />
+      <edge id="373" source="still" target="stoic" />
+      <edge id="374" source="still" target="stationary" />
+      <edge id="375" source="still" target="stolid" />
+      <edge id="376" source="style" target="stamen" />
+      <edge id="377" source="style" target="stamp" />
+      <edge id="378" source="style" target="strain" />
+      <edge id="379" source="style" target="state" />
+      <edge id="380" source="style" target="stripe" />
+      <edge id="381" source="style" target="stud" />
+      <edge id="382" source="style" target="stigma" />
+      <edge id="383" source="style" target="structure" />
+      <edge id="384" source="stricture" target="stranglehold" />
+      <edge id="385" source="stricture" target="strangulation" />
+      <edge id="386" source="stridency" target="stridor" />
+      <edge id="387" source="stridency" target="stringency" />
+      <edge id="388" source="stridency" target="sting" />
+      <edge id="389" source="stifling" target="strangling" />
+      <edge id="390" source="stifling" target="stuffy" />
+      <edge id="391" source="stifling" target="sticky" />
+      <edge id="392" source="stalemate" target="standstill" />
+      <edge id="393" source="stalemate" target="stoppage" />
+      <edge id="394" source="stalemate" target="stop" />
+      <edge id="395" source="stalemate" target="stay" />
+      <edge id="396" source="stalemate" target="stall" />
+      <edge id="397" source="stalemate" target="stand" />
+      <edge id="398" source="stalemate" target="stem" />
+      <edge id="399" source="stalemate" target="standoff" />
+      <edge id="400" source="stuttering" target="steady" />
+      <edge id="401" source="stuttering" target="stammering" />
+      <edge id="402" source="stuttering" target="staccato" />
+      <edge id="403" source="stuttering" target="stammer" />
+      <edge id="404" source="stout" target="sturdy" />
+      <edge id="405" source="stout" target="steady" />
+      <edge id="406" source="stout" target="steely" />
+      <edge id="407" source="stout" target="stocky" />
+      <edge id="408" source="stout" target="stouthearted" />
+      <edge id="409" source="stout" target="strapping" />
+      <edge id="410" source="stout" target="stalwart" />
+      <edge id="411" source="strive" target="strain" />
+      <edge id="412" source="strive" target="struggle" />
+      <edge id="413" source="stinking" target="stuffy" />
+      <edge id="414" source="stopper" target="stopgap" />
+      <edge id="415" source="stopper" target="stop" />
+      <edge id="416" source="stopper" target="stay" />
+      <edge id="417" source="stopper" target="stuff" />
+      <edge id="418" source="stopper" target="stopple" />
+      <edge id="419" source="stopper" target="stench" />
+      <edge id="420" source="standoffish" target="standoff" />
+      <edge id="421" source="strangling" target="strangulation" />
+      <edge id="422" source="strangling" target="starvation" />
+      <edge id="423" source="strangling" target="stoning" />
+      <edge id="424" source="stopped" target="stuffed" />
+      <edge id="425" source="sterling" target="stainless" />
+      <edge id="426" source="static" target="steadfast" />
+      <edge id="427" source="static" target="stagnant" />
+      <edge id="428" source="static" target="stationary" />
+      <edge id="429" source="static" target="standpat" />
+      <edge id="430" source="stealing" target="steal" />
+      <edge id="431" source="stealing" target="stealthy" />
+      <edge id="432" source="stitch" target="stab" />
+      <edge id="433" source="stitch" target="stump" />
+      <edge id="434" source="standpipe" target="stem" />
+      <edge id="435" source="standpipe" target="stupa" />
+      <edge id="436" source="stub" target="stamp" />
+      <edge id="437" source="stub" target="sticker" />
+      <edge id="438" source="stub" target="stump" />
+      <edge id="439" source="stuff" target="stop" />
+      <edge id="440" source="stuff" target="stay" />
+      <edge id="441" source="stuff" target="stopple" />
+      <edge id="442" source="stuff" target="stench" />
+      <edge id="443" source="stuff" target="stumpy" />
+      <edge id="444" source="stuff" target="store" />
+      <edge id="445" source="stud" target="stipple" />
+      <edge id="446" source="stud" target="stag" />
+      <edge id="447" source="stud" target="stamp" />
+      <edge id="448" source="stud" target="steed" />
+      <edge id="449" source="stud" target="step" />
+      <edge id="450" source="stud" target="striate" />
+      <edge id="451" source="stud" target="steer" />
+      <edge id="452" source="stud" target="stripe" />
+      <edge id="453" source="stela" target="stone" />
+      <edge id="454" source="stela" target="stupa" />
+      <edge id="455" source="stun" target="startle" />
+      <edge id="456" source="stun" target="stagger" />
+      <edge id="457" source="stamping" target="striking" />
+      <edge id="458" source="state" target="status" />
+      <edge id="459" source="state" target="stake" />
+      <edge id="460" source="stenographer" target="stonecutter" />
+      <edge id="461" source="standard" target="stair" />
+      <edge id="462" source="standard" target="stanchion" />
+      <edge id="463" source="standard" target="stereotyped" />
+      <edge id="464" source="standard" target="step" />
+      <edge id="465" source="standard" target="stem" />
+      <edge id="466" source="standard" target="statutory" />
+      <edge id="467" source="standard" target="stand" />
+      <edge id="468" source="standard" target="stalk" />
+      <edge id="469" source="standard" target="stint" />
+      <edge id="470" source="standard" target="staff" />
+      <edge id="471" source="streamline" target="straightaway" />
+      <edge id="472" source="streamline" target="straight" />
+      <edge id="473" source="struggle" target="strife" />
+      <edge id="474" source="struggle" target="strain" />
+      <edge id="475" source="struggle" target="stagger" />
+      <edge id="476" source="struggle" target="stumble" />
+      <edge id="477" source="strongbox" target="storehouse" />
+      <edge id="478" source="standby" target="stalwart" />
+      <edge id="479" source="stampede" target="startle" />
+      <edge id="480" source="steward" target="stoker" />
+      <edge id="481" source="steward" target="storekeeper" />
+      <edge id="482" source="steward" target="stewardess" />
+      <edge id="483" source="stride" target="stump" />
+      <edge id="484" source="stride" target="stamp" />
+      <edge id="485" source="stride" target="stomp" />
+      <edge id="486" source="stride" target="step" />
+      <edge id="487" source="stride" target="strut" />
+      <edge id="488" source="stride" target="stretch" />
+      <edge id="489" source="stride" target="stagger" />
+      <edge id="490" source="stride" target="stalk" />
+      <edge id="491" source="stride" target="straggle" />
+      <edge id="492" source="stride" target="stroll" />
+      <edge id="493" source="strapping" target="sturdy" />
+      <edge id="494" source="strapping" target="steely" />
+      <edge id="495" source="strapping" target="stocky" />
+      <edge id="496" source="strapping" target="stalwart" />
+      <edge id="497" source="staggered" target="startled" />
+      <edge id="498" source="staggered" target="staring" />
+      <edge id="499" source="stepmother" target="stepchild" />
+      <edge id="500" source="striking" target="stupendous" />
+      <edge id="501" source="striking" target="stunning" />
+      <edge id="502" source="striking" target="strange" />
+      <edge id="503" source="striking" target="stirring" />
+      <edge id="504" source="striking" target="staring" />
+      <edge id="505" source="strategic" target="stealthy" />
+      <edge id="506" source="straining" target="stickling" />
+      <edge id="507" source="straining" target="stretch" />
+      <edge id="508" source="straining" target="stretching" />
+      <edge id="509" source="straining" target="strain" />
+      <edge id="510" source="straining" target="struggling" />
+      <edge id="511" source="steamy" target="steaming" />
+      <edge id="512" source="story" target="step" />
+      <edge id="513" source="story" target="stage" />
+      <edge id="514" source="story" target="structure" />
+      <edge id="515" source="story" target="stratum" />
+      <edge id="516" source="strict" target="stringent" />
+      <edge id="517" source="strict" target="straitlaced" />
+      <edge id="518" source="stack" target="storehouse" />
+      <edge id="519" source="stack" target="stockpile" />
+      <edge id="520" source="stack" target="storage" />
+      <edge id="521" source="stack" target="storeroom" />
+      <edge id="522" source="stack" target="store" />
+      <edge id="523" source="station" target="status" />
+      <edge id="524" source="station" target="strain" />
+      <edge id="525" source="station" target="stand" />
+      <edge id="526" source="station" target="stratum" />
+      <edge id="527" source="station" target="stage" />
+      <edge id="528" source="stifled" target="strangled" />
+      <edge id="529" source="store" target="storehouse" />
+      <edge id="530" source="store" target="stockpile" />
+      <edge id="531" source="store" target="storage" />
+      <edge id="532" source="store" target="storeroom" />
+      <edge id="533" source="stomach" target="stand" />
+      <edge id="534" source="statement" target="strain" />
+      <edge id="535" source="statement" target="stanza" />
+      <edge id="536" source="statement" target="stand" />
+      <edge id="537" source="streaked" target="striated" />
+      <edge id="538" source="streaked" target="strigose" />
+      <edge id="539" source="streaked" target="striped" />
+      <edge id="540" source="stoic" target="steady" />
+      <edge id="541" source="stoic" target="stolid" />
+      <edge id="542" source="stifle" target="stagnate" />
+      <edge id="543" source="stifle" target="stultify" />
+      <edge id="544" source="stifle" target="stew" />
+      <edge id="545" source="stifle" target="steam" />
+      <edge id="546" source="steel" target="strengthen" />
+      <edge id="547" source="steel" target="stone" />
+      <edge id="548" source="steel" target="steely" />
+      <edge id="549" source="stammer" target="stammering" />
+      <edge id="550" source="stammer" target="stagger" />
+      <edge id="551" source="stammer" target="stumble" />
+      <edge id="552" source="sturdiness" target="stamina" />
+      <edge id="553" source="sturdiness" target="strength" />
+      <edge id="554" source="stall" target="stop" />
+      <edge id="555" source="stall" target="stay" />
+      <edge id="556" source="stall" target="stem" />
+      <edge id="557" source="stall" target="stand" />
+      <edge id="558" source="stalk" target="strut" />
+      <edge id="559" source="stalk" target="stalking" />
+      <edge id="560" source="stalk" target="stump" />
+      <edge id="561" source="stalk" target="stamp" />
+      <edge id="562" source="stalk" target="stomp" />
+      <edge id="563" source="stalk" target="stanchion" />
+      <edge id="564" source="stalk" target="stagger" />
+      <edge id="565" source="stalk" target="stem" />
+      <edge id="566" source="stalk" target="step" />
+      <edge id="567" source="stalk" target="stand" />
+      <edge id="568" source="stalk" target="staff" />
+      <edge id="569" source="stalk" target="straggle" />
+      <edge id="570" source="stalk" target="steal" />
+      <edge id="571" source="stalk" target="stroll" />
+      <edge id="572" source="stale" target="stereotyped" />
+      <edge id="573" source="steep" target="stratosphere" />
+      <edge id="574" source="sty" target="stigma" />
+      <edge id="575" source="steer" target="stag" />
+      <edge id="576" source="stipple" target="striate" />
+      <edge id="577" source="stipple" target="stripe" />
+      <edge id="578" source="stubby" target="stocky" />
+      <edge id="579" source="stubby" target="stumpy" />
+      <edge id="580" source="stratosphere" target="stratum" />
+      <edge id="581" source="stolid" target="steady" />
+      <edge id="582" source="stolid" target="staid" />
+      <edge id="583" source="stolid" target="stupid" />
+      <edge id="584" source="stolid" target="stuffy" />
+      <edge id="585" source="stopgap" target="stratagem" />
+      <edge id="586" source="stopgap" target="stop" />
+      <edge id="587" source="stopgap" target="step" />
+      <edge id="588" source="stopgap" target="stopple" />
+      <edge id="589" source="stowage" target="storage" />
+      <edge id="590" source="starched" target="starchy" />
+      <edge id="591" source="starched" target="stilted" />
+      <edge id="592" source="stereo" target="stylus" />
+      <edge id="593" source="stringency" target="sting" />
+      <edge id="594" source="sturdy" target="steady" />
+      <edge id="595" source="sturdy" target="steely" />
+      <edge id="596" source="sturdy" target="stalwart" />
+      <edge id="597" source="stranded" target="stuck" />
+      <edge id="598" source="steady" target="steadfast" />
+      <edge id="599" source="steady" target="stabilize" />
+      <edge id="600" source="steady" target="straight" />
+      <edge id="601" source="steady" target="steely" />
+      <edge id="602" source="steady" target="staccato" />
+      <edge id="603" source="stoning" target="strangulation" />
+      <edge id="604" source="storm" target="storming" />
+      <edge id="605" source="storm" target="stew" />
+      <edge id="606" source="standoff" target="standstill" />
+      <edge id="607" source="standoff" target="stoppage" />
+      <edge id="608" source="standoff" target="stop" />
+      <edge id="609" source="standoff" target="stay" />
+      <edge id="610" source="standoff" target="stand" />
+      <edge id="611" source="stumper" target="sticker" />
+      <edge id="612" source="stumped" target="stuck" />
+      <edge id="613" source="striate" target="stamp" />
+      <edge id="614" source="striate" target="stripe" />
+      <edge id="615" source="staff" target="stay" />
+      <edge id="616" source="staff" target="stanchion" />
+      <edge id="617" source="staff" target="strengthener" />
+      <edge id="618" source="staff" target="stem" />
+      <edge id="619" source="staff" target="stand" />
+      <edge id="620" source="stubble" target="stump" />
+      <edge id="621" source="stair" target="stint" />
+      <edge id="622" source="stair" target="step" />
+      <edge id="623" source="stubbornness" target="stamina" />
+      <edge id="624" source="stubbornness" target="strength" />
+      <edge id="625" source="starlike" target="starry" />
+      <edge id="626" source="starlike" target="streaming" />
+      <edge id="627" source="stanza" target="strain" />
+      <edge id="628" source="stanza" target="strophe" />
+      <edge id="629" source="staid" target="stuffy" />
+      <edge id="630" source="stabbing" target="stringent" />
+      <edge id="631" source="stabbing" target="strident" />
+      <edge id="632" source="studded" target="stubbled" />
+      <edge id="633" source="studded" target="strigose" />
+      <edge id="634" source="studded" target="stippled" />
+      <edge id="635" source="stomp" target="stump" />
+      <edge id="636" source="stomp" target="stamp" />
+      <edge id="637" source="stomp" target="stagger" />
+      <edge id="638" source="stomp" target="straggle" />
+      <edge id="639" source="stomp" target="strut" />
+      <edge id="640" source="stomp" target="stroll" />
+      <edge id="641" source="stop" target="stench" />
+      <edge id="642" source="stop" target="standstill" />
+      <edge id="643" source="stop" target="stay" />
+      <edge id="644" source="stop" target="stoppage" />
+      <edge id="645" source="stop" target="strangulation" />
+      <edge id="646" source="stop" target="stem" />
+      <edge id="647" source="stop" target="stand" />
+      <edge id="648" source="stop" target="stopple" />
+      <edge id="649" source="strut" target="stump" />
+      <edge id="650" source="strut" target="stamp" />
+      <edge id="651" source="strut" target="stagger" />
+      <edge id="652" source="strut" target="step" />
+      <edge id="653" source="strut" target="straggle" />
+      <edge id="654" source="strut" target="stroll" />
+      <edge id="655" source="stubbled" target="strigose" />
+      <edge id="656" source="striped" target="striated" />
+      <edge id="657" source="striped" target="strigose" />
+      <edge id="658" source="stroll" target="stump" />
+      <edge id="659" source="stroll" target="stamp" />
+      <edge id="660" source="stroll" target="stagger" />
+      <edge id="661" source="stroll" target="step" />
+      <edge id="662" source="stroll" target="straggle" />
+      <edge id="663" source="stroll" target="stretch" />
+      <edge id="664" source="streetwalker" target="stew" />
+      <edge id="665" source="streamlined" target="straight" />
+      <edge id="666" source="steam" target="steamboat" />
+      <edge id="667" source="steam" target="strength" />
+      <edge id="668" source="steam" target="stew" />
+      <edge id="669" source="strengthened" target="stiffened" />
+      <edge id="670" source="strengthened" target="steeled" />
+      <edge id="671" source="stump" target="stonewall" />
+      <edge id="672" source="stump" target="stagger" />
+      <edge id="673" source="stump" target="straggle" />
+      <edge id="674" source="stump" target="stage" />
+      <edge id="675" source="stump" target="stumble" />
+      <edge id="676" source="stump" target="stamp" />
+      <edge id="677" source="stipulation" target="strings" />
+      <edge id="678" source="strengthener" target="stay" />
+      <edge id="679" source="stigma" target="stamen" />
+      <edge id="680" source="steadfast" target="steely" />
+      <edge id="681" source="steadfast" target="stationary" />
+      <edge id="682" source="startle" target="stagger" />
+      <edge id="683" source="straitlaced" target="stuffy" />
+      <edge id="684" source="striated" target="strigose" />
+      <edge id="685" source="steely" target="stalwart" />
+      <edge id="686" source="stretched" target="strained" />
+      <edge id="687" source="stretched" target="straggling" />
+      <edge id="688" source="stupa" target="stone" />
+      <edge id="689" source="stabile" target="statue" />
+      <edge id="690" source="startling" target="stunning" />
+      <edge id="691" source="stretch" target="strain" />
+      <edge id="692" source="stretch" target="stretching" />
+      <edge id="693" source="stretch" target="stand" />
+      <edge id="694" source="stretch" target="straggle" />
+      <edge id="695" source="stretch" target="stint" />
+      <edge id="696" source="stretch" target="stage" />
+      <edge id="697" source="steamboat" target="steamer" />
+      <edge id="698" source="strategy" target="stratagem" />
+      <edge id="699" source="stadium" target="stage" />
+      <edge id="700" source="straying" target="straggling" />
+      <edge id="701" source="straiten" target="stint" />
+      <edge id="702" source="steeplechaser" target="staker" />
+      <edge id="703" source="stacked" target="statuesque" />
+      <edge id="704" source="straight" target="straightaway" />
+      <edge id="705" source="straight" target="strictly" />
+      <edge id="706" source="straight" target="stuffy" />
+      <edge id="707" source="stink" target="stench" />
+      <edge id="708" source="stretching" target="strain" />
+      <edge id="709" source="straggling" target="strained" />
+      <edge id="710" source="sticker" target="stamp" />
+      <edge id="711" source="strait" target="straits" />
+      <edge id="712" source="strait" target="stew" />
+      <edge id="713" source="sting" target="stab" />
+      <edge id="714" source="strain" target="stumble" />
+      <edge id="715" source="strain" target="stamp" />
+      <edge id="716" source="strain" target="stripe" />
+      <edge id="717" source="strain" target="stickle" />
+      <edge id="718" source="strain" target="stratum" />
+      <edge id="719" source="strain" target="status" />
+      <edge id="720" source="strain" target="stem" />
+      <edge id="721" source="strain" target="stab" />
+      <edge id="722" source="strain" target="stew" />
+      <edge id="723" source="strain" target="strophe" />
+      <edge id="724" source="straits" target="stew" />
+      <edge id="725" source="stewardess" target="stoker" />
+      <edge id="726" source="stint" target="starve" />
+      <edge id="727" source="stint" target="step" />
+      <edge id="728" source="strange" target="stupendous" />
+      <edge id="729" source="stickle" target="stumble" />
+      <edge id="730" source="stripper" target="stripteaser" />
+      <edge id="731" source="straightjacket" target="stranglehold" />
+      <edge id="732" source="straightjacket" target="stocks" />
+      <edge id="733" source="straightjacket" target="straitjacket" />
+      <edge id="734" source="strength" target="stamina" />
+      <edge id="735" source="stripe" target="star" />
+      <edge id="736" source="stripe" target="stamp" />
+      <edge id="737" source="stripe" target="strip" />
+      <edge id="738" source="stripe" target="striation" />
+      <edge id="739" source="stiffened" target="steeled" />
+      <edge id="740" source="stopple" target="stay" />
+      <edge id="741" source="stopple" target="stench" />
+      <edge id="742" source="stunted" target="starvation" />
+      <edge id="743" source="stranglehold" target="stocks" />
+      <edge id="744" source="stranglehold" target="straitjacket" />
+      <edge id="745" source="stringent" target="strident" />
+      <edge id="746" source="stooge" target="star" />
+      <edge id="747" source="stooge" target="stroller" />
+      <edge id="748" source="stratum" target="status" />
+      <edge id="749" source="stratum" target="step" />
+      <edge id="750" source="stratum" target="stage" />
+      <edge id="751" source="striation" target="strip" />
+      <edge id="752" source="stooped" target="stumpy" />
+      <edge id="753" source="stunt" target="step" />
+      <edge id="754" source="standstill" target="stoppage" />
+      <edge id="755" source="standstill" target="stay" />
+      <edge id="756" source="standstill" target="stand" />
+      <edge id="757" source="stabilize" target="standardize" />
+      <edge id="758" source="stabilize" target="stereotype" />
+      <edge id="759" source="starry" target="stellar" />
+      <edge id="760" source="starry" target="streaming" />
+      <edge id="761" source="stagger" target="stab" />
+      <edge id="762" source="stagger" target="stumble" />
+      <edge id="763" source="stagger" target="stamp" />
+      <edge id="764" source="stagger" target="step" />
+      <edge id="765" source="stagger" target="straggle" />
+      <edge id="766" source="steps" target="stairway" />
+      <edge id="767" source="stylish" target="statesmanlike" />
+      <edge id="768" source="starvation" target="strangulation" />
+      <edge id="769" source="stationary" target="stagnant" />
+      <edge id="770" source="stationary" target="standpat" />
+      <edge id="771" source="stereotype" target="stamp" />
+      <edge id="772" source="stereotype" target="stone" />
+      <edge id="773" source="stereotype" target="standardize" />
+      <edge id="774" source="star" target="stellar" />
+      <edge id="775" source="star" target="stage" />
+      <edge id="776" source="stuffy" target="stilted" />
+      <edge id="777" source="stuffy" target="sticky" />
+      <edge id="778" source="strangulation" target="stoppage" />
+      <edge id="779" source="standpat" target="stagnant" />
+      <edge id="780" source="stagy" target="stellar" />
+      <edge id="781" source="stem" target="stanchion" />
+      <edge id="782" source="stem" target="stay" />
+      <edge id="783" source="stem" target="stamp" />
+      <edge id="784" source="stem" target="stand" />
+      <edge id="785" source="step" target="stratagem" />
+      <edge id="786" source="step" target="stamp" />
+      <edge id="787" source="step" target="stab" />
+      <edge id="788" source="step" target="stage" />
+      <edge id="789" source="stew" target="stone" />
+      <edge id="790" source="standpoint" target="stand" />
+      <edge id="791" source="stage" target="status" />
+      <edge id="792" source="stamp" target="structure" />
+      <edge id="793" source="stamp" target="straggle" />
+      <edge id="794" source="storeroom" target="storage" />
+      <edge id="795" source="storeroom" target="storehouse" />
+      <edge id="796" source="stand" target="stanchion" />
+      <edge id="797" source="stand" target="stoppage" />
+      <edge id="798" source="stand" target="status" />
+      <edge id="799" source="stand" target="stay" />
+      <edge id="800" source="stand" target="stand" />
+      <edge id="801" source="stench" target="stay" />
+      <edge id="802" source="stoppage" target="stay" />
+      <edge id="803" source="stealth" target="stalking" />
+      <edge id="804" source="storehouse" target="storage" />
+      <edge id="805" source="stouthearted" target="stalwart" />
+      <edge id="806" source="starchy" target="stringy" />
+      <edge id="807" source="starchy" target="sticky" />
+      <edge id="808" source="steeplechase" target="stake" />
+      <edge id="809" source="stalwart" target="stocky" />
+      <edge id="810" source="sticky" target="stringy" />
+      <edge id="811" source="straitjacket" target="stocks" />
+      <edge id="812" source="stumpy" target="stocky" />
+      <edge id="813" source="standardize" target="structure" />
+    </edges>
+  </graph>
+</gexf>

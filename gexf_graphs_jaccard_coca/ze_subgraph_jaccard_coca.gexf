@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="zeal" label="zeal" />
+      <node id="zealous" label="zealous">
+        <attvalues>
+          <attvalue for="0" value="2.78958071216" />
+        </attvalues>
+      </node>
+      <node id="zestful" label="zestful" />
+      <node id="zest" label="zest" />
+      <node id="zealotry" label="zealotry">
+        <attvalues>
+          <attvalue for="0" value="1.95904139232" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="zeal" target="zealous" weight="0.008969" />
+      <edge id="1" source="zeal" target="zealotry" weight="0.054545" />
+      <edge id="2" source="zealous" target="zestful" weight="0.103825" />
+      <edge id="3" source="zealous" target="zest" weight="0.005376" />
+      <edge id="4" source="zest" target="zealotry" weight="0.012987" />
+    </edges>
+  </graph>
+</gexf>

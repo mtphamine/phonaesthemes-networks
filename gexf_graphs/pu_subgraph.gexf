@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="puffball" label="puffball" />
+      <node id="purifier" label="purifier" />
+      <node id="pulsing" label="pulsing" />
+      <node id="purgation" label="purgation" />
+      <node id="purified" label="purified" />
+      <node id="publicity" label="publicity" />
+      <node id="punctual" label="punctual" />
+      <node id="puffy" label="puffy" />
+      <node id="puzzler" label="puzzler" />
+      <node id="purulence" label="purulence" />
+      <node id="pullback" label="pullback" />
+      <node id="pullet" label="pullet" />
+      <node id="pummel" label="pummel" />
+      <node id="pushy" label="pushy" />
+      <node id="puddle" label="puddle" />
+      <node id="pulse" label="pulse" />
+      <node id="punitive" label="punitive" />
+      <node id="pursuance" label="pursuance" />
+      <node id="putrid" label="putrid" />
+      <node id="putter" label="putter" />
+      <node id="publish" label="publish" />
+      <node id="pump" label="pump" />
+      <node id="pulsating" label="pulsating" />
+      <node id="pursed" label="pursed" />
+      <node id="public" label="public" />
+      <node id="pug" label="pug" />
+      <node id="pushing" label="pushing" />
+      <node id="punch" label="punch" />
+      <node id="pub" label="pub" />
+      <node id="pursuit" label="pursuit" />
+      <node id="pup" label="pup" />
+      <node id="pus" label="pus" />
+      <node id="purist" label="purist" />
+      <node id="punk" label="punk" />
+      <node id="punt" label="punt" />
+      <node id="pudding" label="pudding" />
+      <node id="published" label="published" />
+      <node id="puff" label="puff" />
+      <node id="puny" label="puny" />
+      <node id="punctilious" label="punctilious" />
+      <node id="pushover" label="pushover" />
+      <node id="publishing" label="publishing" />
+      <node id="purport" label="purport" />
+      <node id="puritan" label="puritan" />
+      <node id="puzzle" label="puzzle" />
+      <node id="puck" label="puck" />
+      <node id="puppet" label="puppet" />
+      <node id="pulmonary" label="pulmonary" />
+      <node id="pulverize" label="pulverize" />
+      <node id="publication" label="publication" />
+      <node id="pudgy" label="pudgy" />
+      <node id="puky" label="puky" />
+      <node id="purgatory" label="purgatory" />
+      <node id="purgatorial" label="purgatorial" />
+      <node id="pushful" label="pushful" />
+      <node id="pugilist" label="pugilist" />
+      <node id="putrefied" label="putrefied" />
+      <node id="pull" label="pull" />
+      <node id="purge" label="purge" />
+      <node id="pulsation" label="pulsation" />
+      <node id="pulp" label="pulp" />
+      <node id="purifying" label="purifying" />
+      <node id="pucker" label="pucker" />
+      <node id="purgative" label="purgative" />
+      <node id="purse" label="purse" />
+      <node id="purging" label="purging" />
+      <node id="pussycat" label="pussycat" />
+      <node id="puritanical" label="puritanical" />
+      <node id="pure" label="pure" />
+      <node id="punishing" label="punishing" />
+      <node id="puppy" label="puppy" />
+      <node id="puffing" label="puffing" />
+      <node id="puckered" label="puckered" />
+      <node id="pursuer" label="pursuer" />
+      <node id="puristic" label="puristic" />
+      <node id="purged" label="purged" />
+      <node id="purpose" label="purpose" />
+      <node id="puncture" label="puncture" />
+      <node id="punctuate" label="punctuate" />
+      <node id="puss" label="puss" />
+      <node id="pulsate" label="pulsate" />
+      <node id="purify" label="purify" />
+      <node id="pullout" label="pullout" />
+      <node id="purification" label="purification" />
+      <node id="puree" label="puree" />
+      <node id="push" label="push" />
+      <node id="publicize" label="publicize" />
+      <node id="purehearted" label="purehearted" />
+    </nodes>
+    <edges>
+      <edge id="0" source="puffball" target="pulse" />
+      <edge id="1" source="purifier" target="purge" />
+      <edge id="2" source="purifier" target="purgative" />
+      <edge id="3" source="pulsing" target="pulsating" />
+      <edge id="4" source="purgation" target="purge" />
+      <edge id="5" source="purgation" target="purification" />
+      <edge id="6" source="purgation" target="purgatory" />
+      <edge id="7" source="purgation" target="purging" />
+      <edge id="8" source="purified" target="purged" />
+      <edge id="9" source="publicity" target="puff" />
+      <edge id="10" source="publicity" target="publication" />
+      <edge id="11" source="punctual" target="punctilious" />
+      <edge id="12" source="puffy" target="pudgy" />
+      <edge id="13" source="puzzler" target="puzzle" />
+      <edge id="14" source="purulence" target="pus" />
+      <edge id="15" source="pullback" target="pullout" />
+      <edge id="16" source="pullet" target="puppy" />
+      <edge id="17" source="pullet" target="pup" />
+      <edge id="18" source="pummel" target="pulverize" />
+      <edge id="19" source="pushy" target="pushful" />
+      <edge id="20" source="pushy" target="pushing" />
+      <edge id="21" source="puddle" target="putter" />
+      <edge id="22" source="pulse" target="pulsate" />
+      <edge id="23" source="pulse" target="pulsation" />
+      <edge id="24" source="punitive" target="punishing" />
+      <edge id="25" source="pursuance" target="pursuit" />
+      <edge id="26" source="putrid" target="puky" />
+      <edge id="27" source="putrid" target="punk" />
+      <edge id="28" source="putrid" target="putrefied" />
+      <edge id="29" source="publish" target="pull" />
+      <edge id="30" source="pump" target="puff" />
+      <edge id="31" source="pursed" target="puckered" />
+      <edge id="32" source="public" target="published" />
+      <edge id="33" source="public" target="pub" />
+      <edge id="34" source="public" target="pursuer" />
+      <edge id="35" source="pug" target="pugilist" />
+      <edge id="36" source="pug" target="pudgy" />
+      <edge id="37" source="pushing" target="pushful" />
+      <edge id="38" source="punch" target="push" />
+      <edge id="39" source="punch" target="pull" />
+      <edge id="40" source="punch" target="punctuate" />
+      <edge id="41" source="punch" target="puncture" />
+      <edge id="42" source="pup" target="puppy" />
+      <edge id="43" source="purist" target="puritan" />
+      <edge id="44" source="punk" target="puck" />
+      <edge id="45" source="punk" target="puny" />
+      <edge id="46" source="punt" target="pull" />
+      <edge id="47" source="pudding" target="puff" />
+      <edge id="48" source="pudding" target="pulp" />
+      <edge id="49" source="pudding" target="puree" />
+      <edge id="50" source="puff" target="pull" />
+      <edge id="51" source="puff" target="push" />
+      <edge id="52" source="puff" target="publicize" />
+      <edge id="53" source="punctilious" target="puristic" />
+      <edge id="54" source="pushover" target="puppet" />
+      <edge id="55" source="publishing" target="publication" />
+      <edge id="56" source="purport" target="purpose" />
+      <edge id="57" source="puritan" target="puritanical" />
+      <edge id="58" source="puritan" target="puristic" />
+      <edge id="59" source="pulmonary" target="puffing" />
+      <edge id="60" source="purgatorial" target="purifying" />
+      <edge id="61" source="purgatorial" target="purgative" />
+      <edge id="62" source="pull" target="push" />
+      <edge id="63" source="purge" target="purgative" />
+      <edge id="64" source="purge" target="purify" />
+      <edge id="65" source="purge" target="purging" />
+      <edge id="66" source="purge" target="purification" />
+      <edge id="67" source="pulp" target="puree" />
+      <edge id="68" source="purifying" target="purgative" />
+      <edge id="69" source="purifying" target="purging" />
+      <edge id="70" source="pucker" target="purse" />
+      <edge id="71" source="purgative" target="purging" />
+      <edge id="72" source="purging" target="purification" />
+      <edge id="73" source="pussycat" target="puss" />
+      <edge id="74" source="puritanical" target="puristic" />
+      <edge id="75" source="pure" target="purehearted" />
+      <edge id="76" source="puncture" target="punctuate" />
+      <edge id="77" source="push" target="publicize" />
+    </edges>
+  </graph>
+</gexf>

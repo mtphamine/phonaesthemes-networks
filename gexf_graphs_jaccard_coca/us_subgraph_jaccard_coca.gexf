@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="use" label="use" />
+      <node id="useful" label="useful">
+        <attvalues>
+          <attvalue for="0" value="4.2963360546" />
+        </attvalues>
+      </node>
+      <node id="usurpation" label="usurpation">
+        <attvalues>
+          <attvalue for="0" value="2.17609125906" />
+        </attvalues>
+      </node>
+      <node id="usefulness" label="usefulness">
+        <attvalues>
+          <attvalue for="0" value="3.23019337887" />
+        </attvalues>
+      </node>
+      <node id="usurp" label="usurp" />
+      <node id="usage" label="usage" />
+      <node id="usual" label="usual" />
+      <node id="usury" label="usury">
+        <attvalues>
+          <attvalue for="0" value="2.1398790864" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="use" target="useful" weight="0.004785" />
+      <edge id="1" source="use" target="usefulness" weight="0.116438" />
+      <edge id="2" source="use" target="usury" weight="0.007634" />
+      <edge id="3" source="useful" target="usurp" weight="0.008403" />
+      <edge id="4" source="useful" target="usual" weight="0.005556" />
+      <edge id="5" source="usurpation" target="usurp" weight="0.04918" />
+      <edge id="6" source="usefulness" target="usage" weight="0.00813" />
+    </edges>
+  </graph>
+</gexf>

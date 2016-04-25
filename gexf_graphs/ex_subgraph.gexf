@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="extortionate" label="extortionate" />
+      <node id="excepted" label="excepted" />
+      <node id="excessive" label="excessive" />
+      <node id="excise" label="excise" />
+      <node id="exterminate" label="exterminate" />
+      <node id="expatiate" label="expatiate" />
+      <node id="existing" label="existing" />
+      <node id="exemplification" label="exemplification" />
+      <node id="existence" label="existence" />
+      <node id="extol" label="extol" />
+      <node id="exultant" label="exultant" />
+      <node id="exclusion" label="exclusion" />
+      <node id="explain" label="explain" />
+      <node id="extra" label="extra" />
+      <node id="explanatory" label="explanatory" />
+      <node id="except" label="except" />
+      <node id="extraneous" label="extraneous" />
+      <node id="exalt" label="exalt" />
+      <node id="exhalation" label="exhalation" />
+      <node id="exhibition" label="exhibition" />
+      <node id="excluded" label="excluded" />
+      <node id="exempt" label="exempt" />
+      <node id="exposition" label="exposition" />
+      <node id="expeditious" label="expeditious" />
+      <node id="excited" label="excited" />
+      <node id="extradition" label="extradition" />
+      <node id="exhale" label="exhale" />
+      <node id="exculpation" label="exculpation" />
+      <node id="exaggeration" label="exaggeration" />
+      <node id="exceptional" label="exceptional" />
+      <node id="exalted" label="exalted" />
+      <node id="exaltation" label="exaltation" />
+      <node id="express" label="express" />
+      <node id="expositor" label="expositor" />
+      <node id="extrication" label="extrication" />
+      <node id="expressionism" label="expressionism" />
+      <node id="exploration" label="exploration" />
+      <node id="execution" label="execution" />
+      <node id="exact" label="exact" />
+      <node id="expedite" label="expedite" />
+      <node id="exoneration" label="exoneration" />
+      <node id="execute" label="execute" />
+      <node id="extrusion" label="extrusion" />
+      <node id="excessiveness" label="excessiveness" />
+      <node id="excluding" label="excluding" />
+      <node id="exaggerate" label="exaggerate" />
+      <node id="exquisitely" label="exquisitely" />
+      <node id="extenuate" label="extenuate" />
+      <node id="expunge" label="expunge" />
+      <node id="explode" label="explode" />
+      <node id="excellence" label="excellence" />
+      <node id="exiled" label="exiled" />
+      <node id="exude" label="exude" />
+      <node id="exquisite" label="exquisite" />
+      <node id="exertion" label="exertion" />
+      <node id="exceed" label="exceed" />
+      <node id="exhilarated" label="exhilarated" />
+      <node id="expel" label="expel" />
+      <node id="expediency" label="expediency" />
+      <node id="extremism" label="extremism" />
+      <node id="excerpt" label="excerpt" />
+      <node id="extremist" label="extremist" />
+      <node id="exorbitant" label="exorbitant" />
+      <node id="extended" label="extended" />
+      <node id="expositive" label="expositive" />
+      <node id="ex" label="ex" />
+      <node id="exuberant" label="exuberant" />
+      <node id="explosion" label="explosion" />
+      <node id="expertise" label="expertise" />
+      <node id="extract" label="extract" />
+      <node id="exclamation" label="exclamation" />
+      <node id="extroverted" label="extroverted" />
+      <node id="exponent" label="exponent" />
+      <node id="expert" label="expert" />
+      <node id="extradite" label="extradite" />
+      <node id="excepting" label="excepting" />
+      <node id="exacerbate" label="exacerbate" />
+      <node id="exasperation" label="exasperation" />
+      <node id="extraterrestrial" label="extraterrestrial" />
+      <node id="experiment" label="experiment" />
+      <node id="exit" label="exit" />
+      <node id="exemplar" label="exemplar" />
+      <node id="exaction" label="exaction" />
+      <node id="exercise" label="exercise" />
+      <node id="expiration" label="expiration" />
+      <node id="expansive" label="expansive" />
+      <node id="exodus" label="exodus" />
+      <node id="exam" label="exam" />
+      <node id="extend" label="extend" />
+      <node id="expurgate" label="expurgate" />
+      <node id="expansion" label="expansion" />
+      <node id="extraordinary" label="extraordinary" />
+      <node id="explore" label="explore" />
+      <node id="expire" label="expire" />
+      <node id="extent" label="extent" />
+      <node id="excess" label="excess" />
+      <node id="exciting" label="exciting" />
+      <node id="excavate" label="excavate" />
+      <node id="extreme" label="extreme" />
+      <node id="execrate" label="execrate" />
+      <node id="exemption" label="exemption" />
+      <node id="extension" label="extension" />
+      <node id="exacerbation" label="exacerbation" />
+      <node id="exaggerated" label="exaggerated" />
+      <node id="exceptionally" label="exceptionally" />
+      <node id="experience" label="experience" />
+      <node id="excursion" label="excursion" />
+      <node id="expulsion" label="expulsion" />
+      <node id="expecting" label="expecting" />
+      <node id="expedient" label="expedient" />
+      <node id="existent" label="existent" />
+      <node id="excruciating" label="excruciating" />
+      <node id="expense" label="expense" />
+      <node id="expression" label="expression" />
+      <node id="excommunicate" label="excommunicate" />
+      <node id="exotic" label="exotic" />
+      <node id="examining" label="examining" />
+      <node id="exorbitance" label="exorbitance" />
+      <node id="exemplary" label="exemplary" />
+      <node id="expendable" label="expendable" />
+      <node id="extravagantly" label="extravagantly" />
+      <node id="expletive" label="expletive" />
+      <node id="extricate" label="extricate" />
+      <node id="extrude" label="extrude" />
+      <node id="extravagance" label="extravagance" />
+      <node id="exploit" label="exploit" />
+      <node id="extirpate" label="extirpate" />
+      <node id="extinct" label="extinct" />
+      <node id="extinction" label="extinction" />
+      <node id="expensive" label="expensive" />
+      <node id="experimentation" label="experimentation" />
+      <node id="examination" label="examination" />
+      <node id="extraction" label="extraction" />
+      <node id="expired" label="expired" />
+      <node id="extrinsic" label="extrinsic" />
+      <node id="exposed" label="exposed" />
+      <node id="exhort" label="exhort" />
+      <node id="excitable" label="excitable" />
+      <node id="excavation" label="excavation" />
+      <node id="extravagant" label="extravagant" />
+      <node id="exonerate" label="exonerate" />
+      <node id="exhilarating" label="exhilarating" />
+      <node id="expatriate" label="expatriate" />
+      <node id="exhaustion" label="exhaustion" />
+      <node id="exculpate" label="exculpate" />
+      <node id="extort" label="extort" />
+      <node id="exasperate" label="exasperate" />
+      <node id="exploded" label="exploded" />
+      <node id="explanation" label="explanation" />
+      <node id="exactly" label="exactly" />
+      <node id="expunged" label="expunged" />
+      <node id="expanse" label="expanse" />
+      <node id="excuse" label="excuse" />
+      <node id="expenditure" label="expenditure" />
+      <node id="external" label="external" />
+      <node id="excellent" label="excellent" />
+      <node id="extant" label="extant" />
+      <node id="extensive" label="extensive" />
+      <node id="excision" label="excision" />
+      <node id="exception" label="exception" />
+      <node id="extremity" label="extremity" />
+      <node id="expanded" label="expanded" />
+      <node id="extermination" label="extermination" />
+      <node id="excitement" label="excitement" />
+      <node id="expressly" label="expressly" />
+      <node id="exhilaration" label="exhilaration" />
+      <node id="exclusive" label="exclusive" />
+      <node id="expostulate" label="expostulate" />
+      <node id="export" label="export" />
+      <node id="extinguish" label="extinguish" />
+      <node id="example" label="example" />
+      <node id="exhibit" label="exhibit" />
+      <node id="excruciatingly" label="excruciatingly" />
+      <node id="expedience" label="expedience" />
+      <node id="expedition" label="expedition" />
+      <node id="expectant" label="expectant" />
+      <node id="examine" label="examine" />
+      <node id="excessively" label="excessively" />
+      <node id="exist" label="exist" />
+      <node id="exterior" label="exterior" />
+      <node id="exile" label="exile" />
+      <node id="exclude" label="exclude" />
+      <node id="extramundane" label="extramundane" />
+      <node id="exterrestrial" label="exterrestrial" />
+      <node id="exigency" label="exigency" />
+      <node id="excused" label="excused" />
+      <node id="expressive" label="expressive" />
+      <node id="excel" label="excel" />
+      <node id="excretion" label="excretion" />
+      <node id="excrete" label="excrete" />
+      <node id="exuberance" label="exuberance" />
+      <node id="exegesis" label="exegesis" />
+      <node id="expose" label="expose" />
+      <node id="extravaganza" label="extravaganza" />
+      <node id="expected" label="expected" />
+      <node id="exemplify" label="exemplify" />
+      <node id="exhaust" label="exhaust" />
+      <node id="experienced" label="experienced" />
+      <node id="extraordinarily" label="extraordinarily" />
+      <node id="exacting" label="exacting" />
+      <node id="exhibitionism" label="exhibitionism" />
+      <node id="explicate" label="explicate" />
+      <node id="extremely" label="extremely" />
+      <node id="extortion" label="extortion" />
+      <node id="expand" label="expand" />
+      <node id="exposure" label="exposure" />
+      <node id="expound" label="expound" />
+      <node id="exert" label="exert" />
+      <node id="expend" label="expend" />
+      <node id="explosive" label="explosive" />
+      <node id="exploratory" label="exploratory" />
+      <node id="extramural" label="extramural" />
+      <node id="explicit" label="explicit" />
+      <node id="exigent" label="exigent" />
+      <node id="exceedingly" label="exceedingly" />
+      <node id="extrapolation" label="extrapolation" />
+    </nodes>
+    <edges>
+      <edge id="0" source="extortionate" target="extravagant" />
+      <edge id="1" source="extortionate" target="exorbitant" />
+      <edge id="2" source="extortionate" target="excessive" />
+      <edge id="3" source="extortionate" target="exigent" />
+      <edge id="4" source="extortionate" target="exacting" />
+      <edge id="5" source="excepted" target="excluded" />
+      <edge id="6" source="excepted" target="excused" />
+      <edge id="7" source="excepted" target="exempt" />
+      <edge id="8" source="excessive" target="exaggerated" />
+      <edge id="9" source="excessive" target="excess" />
+      <edge id="10" source="excessive" target="exorbitant" />
+      <edge id="11" source="excessive" target="extravagant" />
+      <edge id="12" source="excessive" target="exacting" />
+      <edge id="13" source="excessive" target="extreme" />
+      <edge id="14" source="excise" target="except" />
+      <edge id="15" source="excise" target="extricate" />
+      <edge id="16" source="excise" target="extirpate" />
+      <edge id="17" source="excise" target="exclude" />
+      <edge id="18" source="excise" target="extinguish" />
+      <edge id="19" source="excise" target="extract" />
+      <edge id="20" source="excise" target="excavate" />
+      <edge id="21" source="exterminate" target="execute" />
+      <edge id="22" source="exterminate" target="extinguish" />
+      <edge id="23" source="exterminate" target="extirpate" />
+      <edge id="24" source="expatiate" target="explicate" />
+      <edge id="25" source="expatiate" target="expand" />
+      <edge id="26" source="existing" target="existent" />
+      <edge id="27" source="existing" target="extant" />
+      <edge id="28" source="exemplification" target="exponent" />
+      <edge id="29" source="exemplification" target="explanation" />
+      <edge id="30" source="exemplification" target="exemplar" />
+      <edge id="31" source="exemplification" target="exposition" />
+      <edge id="32" source="exemplification" target="exegesis" />
+      <edge id="33" source="exemplification" target="example" />
+      <edge id="34" source="existence" target="existent" />
+      <edge id="35" source="extol" target="exalt" />
+      <edge id="36" source="exultant" target="exalted" />
+      <edge id="37" source="exclusion" target="exile" />
+      <edge id="38" source="exclusion" target="excision" />
+      <edge id="39" source="exclusion" target="exception" />
+      <edge id="40" source="exclusion" target="extinction" />
+      <edge id="41" source="exclusion" target="extradition" />
+      <edge id="42" source="explain" target="exculpate" />
+      <edge id="43" source="explain" target="exemplify" />
+      <edge id="44" source="explain" target="expound" />
+      <edge id="45" source="explain" target="extenuate" />
+      <edge id="46" source="explain" target="excuse" />
+      <edge id="47" source="explain" target="explicate" />
+      <edge id="48" source="explain" target="expedite" />
+      <edge id="49" source="extra" target="excess" />
+      <edge id="50" source="explanatory" target="expositive" />
+      <edge id="51" source="except" target="extirpate" />
+      <edge id="52" source="except" target="excluding" />
+      <edge id="53" source="except" target="excepting" />
+      <edge id="54" source="except" target="excuse" />
+      <edge id="55" source="except" target="ex" />
+      <edge id="56" source="except" target="exempt" />
+      <edge id="57" source="except" target="exclude" />
+      <edge id="58" source="except" target="extinguish" />
+      <edge id="59" source="except" target="expostulate" />
+      <edge id="60" source="extraneous" target="exotic" />
+      <edge id="61" source="extraneous" target="extraterrestrial" />
+      <edge id="62" source="extraneous" target="extrinsic" />
+      <edge id="63" source="extraneous" target="external" />
+      <edge id="64" source="extraneous" target="exterior" />
+      <edge id="65" source="exalt" target="expand" />
+      <edge id="66" source="exalt" target="extend" />
+      <edge id="67" source="exhalation" target="exhaust" />
+      <edge id="68" source="exhalation" target="expiration" />
+      <edge id="69" source="exhibition" target="exhibit" />
+      <edge id="70" source="exhibition" target="exposition" />
+      <edge id="71" source="exhibition" target="exhibitionism" />
+      <edge id="72" source="exhibition" target="exposure" />
+      <edge id="73" source="excluded" target="exiled" />
+      <edge id="74" source="exempt" target="exculpate" />
+      <edge id="75" source="exempt" target="excused" />
+      <edge id="76" source="exempt" target="excuse" />
+      <edge id="77" source="exempt" target="exonerate" />
+      <edge id="78" source="exposition" target="exhibit" />
+      <edge id="79" source="exposition" target="expose" />
+      <edge id="80" source="exposition" target="examination" />
+      <edge id="81" source="exposition" target="exegesis" />
+      <edge id="82" source="exposition" target="explanation" />
+      <edge id="83" source="exposition" target="exercise" />
+      <edge id="84" source="exposition" target="exposure" />
+      <edge id="85" source="expeditious" target="express" />
+      <edge id="86" source="excited" target="exhilarated" />
+      <edge id="87" source="excited" target="exuberant" />
+      <edge id="88" source="extradition" target="exile" />
+      <edge id="89" source="extradition" target="expulsion" />
+      <edge id="90" source="extradition" target="export" />
+      <edge id="91" source="exhale" target="exhaust" />
+      <edge id="92" source="exhale" target="expire" />
+      <edge id="93" source="exhale" target="expel" />
+      <edge id="94" source="exculpation" target="excuse" />
+      <edge id="95" source="exculpation" target="explanation" />
+      <edge id="96" source="exculpation" target="exemption" />
+      <edge id="97" source="exculpation" target="exoneration" />
+      <edge id="98" source="exaggeration" target="exorbitance" />
+      <edge id="99" source="exaggeration" target="explosion" />
+      <edge id="100" source="exaggeration" target="excessiveness" />
+      <edge id="101" source="exaggeration" target="exacerbation" />
+      <edge id="102" source="exaggeration" target="extremity" />
+      <edge id="103" source="exaggeration" target="extremism" />
+      <edge id="104" source="exaggeration" target="extravagance" />
+      <edge id="105" source="exaggeration" target="expressionism" />
+      <edge id="106" source="exaggeration" target="excess" />
+      <edge id="107" source="exaggeration" target="extreme" />
+      <edge id="108" source="exceptional" target="exclusive" />
+      <edge id="109" source="exceptional" target="extraordinary" />
+      <edge id="110" source="exceptional" target="express" />
+      <edge id="111" source="exceptional" target="excluding" />
+      <edge id="112" source="exceptional" target="excellent" />
+      <edge id="113" source="exalted" target="exhilarated" />
+      <edge id="114" source="exalted" target="excellent" />
+      <edge id="115" source="exaltation" target="exuberance" />
+      <edge id="116" source="exaltation" target="exhilaration" />
+      <edge id="117" source="exaltation" target="excellence" />
+      <edge id="118" source="express" target="exhibit" />
+      <edge id="119" source="express" target="explicit" />
+      <edge id="120" source="express" target="extraordinary" />
+      <edge id="121" source="express" target="export" />
+      <edge id="122" source="express" target="exact" />
+      <edge id="123" source="express" target="expedite" />
+      <edge id="124" source="expositor" target="exponent" />
+      <edge id="125" source="extrication" target="excavation" />
+      <edge id="126" source="extrication" target="extraction" />
+      <edge id="127" source="extrication" target="excision" />
+      <edge id="128" source="extrication" target="expression" />
+      <edge id="129" source="exploration" target="examination" />
+      <edge id="130" source="exploration" target="expedition" />
+      <edge id="131" source="execution" target="expression" />
+      <edge id="132" source="execution" target="extermination" />
+      <edge id="133" source="execution" target="exercise" />
+      <edge id="134" source="exact" target="extort" />
+      <edge id="135" source="exact" target="exigent" />
+      <edge id="136" source="exact" target="exquisite" />
+      <edge id="137" source="exact" target="exacting" />
+      <edge id="138" source="expedite" target="export" />
+      <edge id="139" source="exoneration" target="excuse" />
+      <edge id="140" source="exoneration" target="exemption" />
+      <edge id="141" source="extrusion" target="expulsion" />
+      <edge id="142" source="excessiveness" target="exorbitance" />
+      <edge id="143" source="excessiveness" target="extremity" />
+      <edge id="144" source="excessiveness" target="extremism" />
+      <edge id="145" source="excessiveness" target="extravagance" />
+      <edge id="146" source="excessiveness" target="excess" />
+      <edge id="147" source="excessiveness" target="extreme" />
+      <edge id="148" source="excluding" target="ex" />
+      <edge id="149" source="excluding" target="exclusive" />
+      <edge id="150" source="excluding" target="excepting" />
+      <edge id="151" source="exaggerate" target="exhaust" />
+      <edge id="152" source="exaggerate" target="exceed" />
+      <edge id="153" source="exaggerate" target="exacerbate" />
+      <edge id="154" source="exquisitely" target="exactly" />
+      <edge id="155" source="exquisitely" target="exceptionally" />
+      <edge id="156" source="exquisitely" target="extraordinarily" />
+      <edge id="157" source="extenuate" target="exhaust" />
+      <edge id="158" source="expunge" target="expurgate" />
+      <edge id="159" source="expunge" target="extinguish" />
+      <edge id="160" source="explode" target="expose" />
+      <edge id="161" source="excellence" target="expedience" />
+      <edge id="162" source="exude" target="excrete" />
+      <edge id="163" source="exquisite" target="exacting" />
+      <edge id="164" source="exquisite" target="exigent" />
+      <edge id="165" source="exquisite" target="excruciating" />
+      <edge id="166" source="exquisite" target="extreme" />
+      <edge id="167" source="exertion" target="exercise" />
+      <edge id="168" source="exceed" target="excel" />
+      <edge id="169" source="expel" target="exclude" />
+      <edge id="170" source="expel" target="exhaust" />
+      <edge id="171" source="expel" target="extradite" />
+      <edge id="172" source="expel" target="extrude" />
+      <edge id="173" source="expel" target="expire" />
+      <edge id="174" source="expel" target="export" />
+      <edge id="175" source="expel" target="exile" />
+      <edge id="176" source="expel" target="expatriate" />
+      <edge id="177" source="expel" target="excommunicate" />
+      <edge id="178" source="expediency" target="expedient" />
+      <edge id="179" source="extremism" target="exorbitance" />
+      <edge id="180" source="extremism" target="extremity" />
+      <edge id="181" source="extremism" target="extravagance" />
+      <edge id="182" source="extremism" target="extreme" />
+      <edge id="183" source="excerpt" target="extraction" />
+      <edge id="184" source="excerpt" target="extract" />
+      <edge id="185" source="extremist" target="extravagant" />
+      <edge id="186" source="extremist" target="extreme" />
+      <edge id="187" source="exorbitant" target="exaggerated" />
+      <edge id="188" source="exorbitant" target="exigent" />
+      <edge id="189" source="exorbitant" target="extravagant" />
+      <edge id="190" source="exorbitant" target="exacting" />
+      <edge id="191" source="exorbitant" target="extreme" />
+      <edge id="192" source="extended" target="expansive" />
+      <edge id="193" source="extended" target="expanded" />
+      <edge id="194" source="extended" target="expressive" />
+      <edge id="195" source="extended" target="extensive" />
+      <edge id="196" source="expositive" target="expressive" />
+      <edge id="197" source="ex" target="excepting" />
+      <edge id="198" source="exuberant" target="extravagant" />
+      <edge id="199" source="explosion" target="expose" />
+      <edge id="200" source="explosion" target="exacerbation" />
+      <edge id="201" source="explosion" target="exposure" />
+      <edge id="202" source="expertise" target="experience" />
+      <edge id="203" source="extract" target="extort" />
+      <edge id="204" source="extract" target="extricate" />
+      <edge id="205" source="extract" target="extraction" />
+      <edge id="206" source="extract" target="excavate" />
+      <edge id="207" source="exclamation" target="expletive" />
+      <edge id="208" source="exclamation" target="expression" />
+      <edge id="209" source="extroverted" target="expansive" />
+      <edge id="210" source="exponent" target="exemplar" />
+      <edge id="211" source="exponent" target="explanation" />
+      <edge id="212" source="exponent" target="example" />
+      <edge id="213" source="expert" target="experienced" />
+      <edge id="214" source="expert" target="exemplary" />
+      <edge id="215" source="expert" target="excellent" />
+      <edge id="216" source="extradite" target="export" />
+      <edge id="217" source="extradite" target="exclude" />
+      <edge id="218" source="extradite" target="exile" />
+      <edge id="219" source="extradite" target="expatriate" />
+      <edge id="220" source="extradite" target="excommunicate" />
+      <edge id="221" source="exasperation" target="excitement" />
+      <edge id="222" source="exasperation" target="exhilaration" />
+      <edge id="223" source="exasperation" target="exacerbation" />
+      <edge id="224" source="extraterrestrial" target="exotic" />
+      <edge id="225" source="extraterrestrial" target="exterrestrial" />
+      <edge id="226" source="extraterrestrial" target="extramural" />
+      <edge id="227" source="extraterrestrial" target="extramundane" />
+      <edge id="228" source="extraterrestrial" target="extrinsic" />
+      <edge id="229" source="experiment" target="experimentation" />
+      <edge id="230" source="exit" target="exhaust" />
+      <edge id="231" source="exit" target="extinction" />
+      <edge id="232" source="exit" target="exodus" />
+      <edge id="233" source="exit" target="expiration" />
+      <edge id="234" source="exemplar" target="explanation" />
+      <edge id="235" source="exemplar" target="example" />
+      <edge id="236" source="exaction" target="extortion" />
+      <edge id="237" source="exercise" target="exasperate" />
+      <edge id="238" source="exercise" target="exert" />
+      <edge id="239" source="exercise" target="exploit" />
+      <edge id="240" source="expiration" target="extinction" />
+      <edge id="241" source="expansive" target="extensive" />
+      <edge id="242" source="exam" target="examination" />
+      <edge id="243" source="extend" target="exist" />
+      <edge id="244" source="extend" target="expand" />
+      <edge id="245" source="expansion" target="exorbitance" />
+      <edge id="246" source="expansion" target="extension" />
+      <edge id="247" source="expansion" target="expanse" />
+      <edge id="248" source="expansion" target="extravagance" />
+      <edge id="249" source="expansion" target="extent" />
+      <edge id="250" source="expansion" target="excess" />
+      <edge id="251" source="expansion" target="extreme" />
+      <edge id="252" source="explore" target="examine" />
+      <edge id="253" source="expire" target="exhaust" />
+      <edge id="254" source="extent" target="extension" />
+      <edge id="255" source="extent" target="expanse" />
+      <edge id="256" source="excess" target="expendable" />
+      <edge id="257" source="excess" target="exorbitance" />
+      <edge id="258" source="excess" target="expletive" />
+      <edge id="259" source="excess" target="extravagance" />
+      <edge id="260" source="excess" target="extreme" />
+      <edge id="261" source="exciting" target="exotic" />
+      <edge id="262" source="exciting" target="exhilarating" />
+      <edge id="263" source="excavate" target="expose" />
+      <edge id="264" source="excavate" target="extricate" />
+      <edge id="265" source="extreme" target="exorbitance" />
+      <edge id="266" source="extreme" target="exaggerated" />
+      <edge id="267" source="extreme" target="extravagance" />
+      <edge id="268" source="extreme" target="extravagant" />
+      <edge id="269" source="extreme" target="extremity" />
+      <edge id="270" source="extreme" target="excruciating" />
+      <edge id="271" source="execrate" target="excommunicate" />
+      <edge id="272" source="exemption" target="excuse" />
+      <edge id="273" source="exemption" target="exception" />
+      <edge id="274" source="extension" target="extrapolation" />
+      <edge id="275" source="extension" target="expanse" />
+      <edge id="276" source="exacerbation" target="excitement" />
+      <edge id="277" source="exacerbation" target="exhilaration" />
+      <edge id="278" source="exaggerated" target="extravagant" />
+      <edge id="279" source="exceptionally" target="exceedingly" />
+      <edge id="280" source="exceptionally" target="extremely" />
+      <edge id="281" source="exceptionally" target="extraordinarily" />
+      <edge id="282" source="experience" target="exposure" />
+      <edge id="283" source="excursion" target="expedition" />
+      <edge id="284" source="expulsion" target="exile" />
+      <edge id="285" source="expulsion" target="export" />
+      <edge id="286" source="expecting" target="expected" />
+      <edge id="287" source="expecting" target="expectant" />
+      <edge id="288" source="expedient" target="excellent" />
+      <edge id="289" source="existent" target="extant" />
+      <edge id="290" source="expense" target="expenditure" />
+      <edge id="291" source="expression" target="excavation" />
+      <edge id="292" source="expression" target="excision" />
+      <edge id="293" source="excommunicate" target="exclude" />
+      <edge id="294" source="excommunicate" target="exile" />
+      <edge id="295" source="excommunicate" target="expatriate" />
+      <edge id="296" source="exotic" target="extrinsic" />
+      <edge id="297" source="exotic" target="external" />
+      <edge id="298" source="exotic" target="exterior" />
+      <edge id="299" source="examining" target="exploratory" />
+      <edge id="300" source="exorbitance" target="extremity" />
+      <edge id="301" source="exorbitance" target="extravagance" />
+      <edge id="302" source="expendable" target="expletive" />
+      <edge id="303" source="extravagantly" target="excruciatingly" />
+      <edge id="304" source="extravagantly" target="excessively" />
+      <edge id="305" source="expletive" target="extravagance" />
+      <edge id="306" source="extrude" target="exclude" />
+      <edge id="307" source="extravagance" target="extremity" />
+      <edge id="308" source="extravagance" target="exuberance" />
+      <edge id="309" source="extravagance" target="extravaganza" />
+      <edge id="310" source="extirpate" target="exclude" />
+      <edge id="311" source="extirpate" target="extinguish" />
+      <edge id="312" source="extinct" target="expired" />
+      <edge id="313" source="extinct" target="expunged" />
+      <edge id="314" source="extinction" target="excision" />
+      <edge id="315" source="extinction" target="extermination" />
+      <edge id="316" source="expensive" target="extravagant" />
+      <edge id="317" source="extrinsic" target="exterior" />
+      <edge id="318" source="extrinsic" target="external" />
+      <edge id="319" source="exposed" target="exploded" />
+      <edge id="320" source="exhort" target="expostulate" />
+      <edge id="321" source="excitable" target="explosive" />
+      <edge id="322" source="excavation" target="excision" />
+      <edge id="323" source="excavation" target="exposure" />
+      <edge id="324" source="extravagant" target="exacting" />
+      <edge id="325" source="exonerate" target="exculpate" />
+      <edge id="326" source="exonerate" target="excuse" />
+      <edge id="327" source="expatriate" target="exile" />
+      <edge id="328" source="expatriate" target="exclude" />
+      <edge id="329" source="exhaustion" target="excretion" />
+      <edge id="330" source="exhaustion" target="expenditure" />
+      <edge id="331" source="exculpate" target="excuse" />
+      <edge id="332" source="explanation" target="excuse" />
+      <edge id="333" source="explanation" target="exegesis" />
+      <edge id="334" source="explanation" target="example" />
+      <edge id="335" source="exactly" target="expressly" />
+      <edge id="336" source="external" target="exterior" />
+      <edge id="337" source="extremity" target="exigency" />
+      <edge id="338" source="excitement" target="exhilaration" />
+      <edge id="339" source="exhilaration" target="exuberance" />
+      <edge id="340" source="extinguish" target="exclude" />
+      <edge id="341" source="example" target="exemplify" />
+      <edge id="342" source="exhibit" target="exemplify" />
+      <edge id="343" source="exhibit" target="expose" />
+      <edge id="344" source="exhibit" target="exposure" />
+      <edge id="345" source="excruciatingly" target="excessively" />
+      <edge id="346" source="excessively" target="extremely" />
+      <edge id="347" source="exile" target="exclude" />
+      <edge id="348" source="extramundane" target="exterrestrial" />
+      <edge id="349" source="extramundane" target="extramural" />
+      <edge id="350" source="exterrestrial" target="extramural" />
+      <edge id="351" source="exegesis" target="expose" />
+      <edge id="352" source="expose" target="exposure" />
+      <edge id="353" source="exemplify" target="expound" />
+      <edge id="354" source="exemplify" target="explicate" />
+      <edge id="355" source="exhaust" target="expend" />
+      <edge id="356" source="exacting" target="exigent" />
+      <edge id="357" source="exhibitionism" target="exposure" />
+      <edge id="358" source="explicate" target="expound" />
+      <edge id="359" source="explicate" target="expand" />
+      <edge id="360" source="extremely" target="exceedingly" />
+    </edges>
+  </graph>
+</gexf>

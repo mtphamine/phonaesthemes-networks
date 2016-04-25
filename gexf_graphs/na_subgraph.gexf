@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="nave" label="nave" />
+      <node id="navar" label="navar" />
+      <node id="national" label="national" />
+      <node id="narration" label="narration" />
+      <node id="nasalized" label="nasalized" />
+      <node id="narcosis" label="narcosis" />
+      <node id="naturalness" label="naturalness" />
+      <node id="narcotized" label="narcotized" />
+      <node id="nautical" label="nautical" />
+      <node id="nascency" label="nascency" />
+      <node id="nauseating" label="nauseating" />
+      <node id="nationalism" label="nationalism" />
+      <node id="native" label="native" />
+      <node id="nab" label="nab" />
+      <node id="nationalization" label="nationalization" />
+      <node id="navigational" label="navigational" />
+      <node id="narcolepsy" label="narcolepsy" />
+      <node id="nabob" label="nabob" />
+      <node id="naught" label="naught" />
+      <node id="naturalistic" label="naturalistic" />
+      <node id="nativity" label="nativity" />
+      <node id="narrows" label="narrows" />
+      <node id="nature" label="nature" />
+      <node id="nada" label="nada" />
+      <node id="narrative" label="narrative" />
+      <node id="nasal" label="nasal" />
+      <node id="nation" label="nation" />
+      <node id="natal" label="natal" />
+      <node id="nationality" label="nationality" />
+      <node id="nasty" label="nasty" />
+      <node id="nauseated" label="nauseated" />
+      <node id="nail" label="nail" />
+      <node id="naturalization" label="naturalization" />
+      <node id="natural" label="natural" />
+      <node id="name" label="name" />
+      <node id="navel" label="navel" />
+      <node id="napping" label="napping" />
+      <node id="nauseous" label="nauseous" />
+      <node id="naked" label="naked" />
+      <node id="narcohypnosis" label="narcohypnosis" />
+      <node id="nascent" label="nascent" />
+      <node id="namesake" label="namesake" />
+      <node id="naturistic" label="naturistic" />
+      <node id="narrow" label="narrow" />
+      <node id="navigation" label="navigation" />
+      <node id="naturalism" label="naturalism" />
+    </nodes>
+    <edges>
+      <edge id="0" source="nave" target="navel" />
+      <edge id="1" source="navar" target="navigation" />
+      <edge id="2" source="national" target="native" />
+      <edge id="3" source="narration" target="narrative" />
+      <edge id="4" source="nasalized" target="narrow" />
+      <edge id="5" source="nasalized" target="nasal" />
+      <edge id="6" source="narcosis" target="narcohypnosis" />
+      <edge id="7" source="narcosis" target="narcolepsy" />
+      <edge id="8" source="naturalness" target="naturalism" />
+      <edge id="9" source="naturalness" target="nature" />
+      <edge id="10" source="narcotized" target="napping" />
+      <edge id="11" source="nautical" target="navigational" />
+      <edge id="12" source="nascency" target="nativity" />
+      <edge id="13" source="nauseating" target="nasty" />
+      <edge id="14" source="nauseating" target="nauseous" />
+      <edge id="15" source="nationalism" target="nationality" />
+      <edge id="16" source="native" target="natal" />
+      <edge id="17" source="native" target="natural" />
+      <edge id="18" source="nab" target="nail" />
+      <edge id="19" source="nationalization" target="naturalization" />
+      <edge id="20" source="narcolepsy" target="narcohypnosis" />
+      <edge id="21" source="nabob" target="name" />
+      <edge id="22" source="naught" target="nada" />
+      <edge id="23" source="naturalistic" target="naturistic" />
+      <edge id="24" source="naturalistic" target="natural" />
+      <edge id="25" source="nativity" target="nationality" />
+      <edge id="26" source="narrows" target="narrow" />
+      <edge id="27" source="nature" target="naturalism" />
+      <edge id="28" source="nasal" target="narrow" />
+      <edge id="29" source="nation" target="nationality" />
+      <edge id="30" source="natal" target="nascent" />
+      <edge id="31" source="nasty" target="nauseous" />
+      <edge id="32" source="nauseated" target="nauseous" />
+      <edge id="33" source="natural" target="naturistic" />
+      <edge id="34" source="name" target="namesake" />
+      <edge id="35" source="naked" target="naturistic" />
+    </edges>
+  </graph>
+</gexf>

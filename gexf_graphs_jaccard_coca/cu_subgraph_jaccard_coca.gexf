@@ -1,0 +1,800 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="cute" label="cute" />
+      <node id="curate" label="curate">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="cussed" label="cussed">
+        <attvalues>
+          <attvalue for="0" value="2.02118929907" />
+        </attvalues>
+      </node>
+      <node id="customary" label="customary">
+        <attvalues>
+          <attvalue for="0" value="3.32878720035" />
+        </attvalues>
+      </node>
+      <node id="culmination" label="culmination">
+        <attvalues>
+          <attvalue for="0" value="2.99166900738" />
+        </attvalues>
+      </node>
+      <node id="cut" label="cut">
+        <attvalues>
+          <attvalue for="0" value="4.99087583998" />
+        </attvalues>
+      </node>
+      <node id="cur" label="cur" />
+      <node id="cup" label="cup">
+        <attvalues>
+          <attvalue for="0" value="4.73438373137" />
+        </attvalues>
+      </node>
+      <node id="cudgel" label="cudgel">
+        <attvalues>
+          <attvalue for="0" value="1.91907809238" />
+        </attvalues>
+      </node>
+      <node id="cushy" label="cushy" />
+      <node id="cue" label="cue" />
+      <node id="cud" label="cud" />
+      <node id="cub" label="cub">
+        <attvalues>
+          <attvalue for="0" value="3.09691001301" />
+        </attvalues>
+      </node>
+      <node id="cutie" label="cutie" />
+      <node id="cutter" label="cutter" />
+      <node id="cuneiform" label="cuneiform">
+        <attvalues>
+          <attvalue for="0" value="1.99122607569" />
+        </attvalues>
+      </node>
+      <node id="cupola" label="cupola" />
+      <node id="custodian" label="custodian" />
+      <node id="custodial" label="custodial">
+        <attvalues>
+          <attvalue for="0" value="2.69019608003" />
+        </attvalues>
+      </node>
+      <node id="cutting" label="cutting" />
+      <node id="cushion" label="cushion" />
+      <node id="cumulate" label="cumulate" />
+      <node id="curdle" label="curdle">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="curator" label="curator" />
+      <node id="culminating" label="culminating">
+        <attvalues>
+          <attvalue for="0" value="3.0094508958" />
+        </attvalues>
+      </node>
+      <node id="cumulus" label="cumulus" />
+      <node id="cursive" label="cursive" />
+      <node id="cumulation" label="cumulation">
+        <attvalues>
+          <attvalue for="0" value="1.17609125906" />
+        </attvalues>
+      </node>
+      <node id="culture" label="culture">
+        <attvalues>
+          <attvalue for="0" value="4.77110956758" />
+        </attvalues>
+      </node>
+      <node id="curious" label="curious">
+        <attvalues>
+          <attvalue for="0" value="4.02942436406" />
+        </attvalues>
+      </node>
+      <node id="curse" label="curse" />
+      <node id="cultism" label="cultism">
+        <attvalues>
+          <attvalue for="0" value="1.17609125906" />
+        </attvalues>
+      </node>
+      <node id="curtsy" label="curtsy" />
+      <node id="current" label="current" />
+      <node id="cupped" label="cupped">
+        <attvalues>
+          <attvalue for="0" value="3.06258198423" />
+        </attvalues>
+      </node>
+      <node id="cubbyhole" label="cubbyhole">
+        <attvalues>
+          <attvalue for="0" value="2.03342375549" />
+        </attvalues>
+      </node>
+      <node id="cultist" label="cultist" />
+      <node id="cull" label="cull" />
+      <node id="curvaceous" label="curvaceous">
+        <attvalues>
+          <attvalue for="0" value="2.18752072084" />
+        </attvalues>
+      </node>
+      <node id="cushioning" label="cushioning" />
+      <node id="cuspid" label="cuspid" />
+      <node id="curtailment" label="curtailment">
+        <attvalues>
+          <attvalue for="0" value="2.10720996965" />
+        </attvalues>
+      </node>
+      <node id="cult" label="cult">
+        <attvalues>
+          <attvalue for="0" value="3.62757066418" />
+        </attvalues>
+      </node>
+      <node id="curtailed" label="curtailed">
+        <attvalues>
+          <attvalue for="0" value="2.87506126339" />
+        </attvalues>
+      </node>
+      <node id="curtness" label="curtness" />
+      <node id="cuckoo" label="cuckoo" />
+      <node id="culminate" label="culminate">
+        <attvalues>
+          <attvalue for="0" value="2.46686762035" />
+        </attvalues>
+      </node>
+      <node id="cubed" label="cubed" />
+      <node id="curative" label="curative" />
+      <node id="curry" label="curry">
+        <attvalues>
+          <attvalue for="0" value="3.55108386519" />
+        </attvalues>
+      </node>
+      <node id="cutoff" label="cutoff" />
+      <node id="cutup" label="cutup" />
+      <node id="cuckoldry" label="cuckoldry" />
+      <node id="cursed" label="cursed" />
+      <node id="cultured" label="cultured">
+        <attvalues>
+          <attvalue for="0" value="2.91645394855" />
+        </attvalues>
+      </node>
+      <node id="cultivated" label="cultivated">
+        <attvalues>
+          <attvalue for="0" value="3.3961993471" />
+        </attvalues>
+      </node>
+      <node id="cubicle" label="cubicle" />
+      <node id="custody" label="custody" />
+      <node id="cuticle" label="cuticle">
+        <attvalues>
+          <attvalue for="0" value="2.49415459402" />
+        </attvalues>
+      </node>
+      <node id="custom" label="custom" />
+      <node id="cultivation" label="cultivation">
+        <attvalues>
+          <attvalue for="0" value="3.26810972981" />
+        </attvalues>
+      </node>
+      <node id="curtain" label="curtain">
+        <attvalues>
+          <attvalue for="0" value="3.70243053645" />
+        </attvalues>
+      </node>
+      <node id="curtail" label="curtail" />
+      <node id="curtains" label="curtains">
+        <attvalues>
+          <attvalue for="0" value="3.57484119506" />
+        </attvalues>
+      </node>
+      <node id="curriculum" label="curriculum">
+        <attvalues>
+          <attvalue for="0" value="4.24420287608" />
+        </attvalues>
+      </node>
+      <node id="curried" label="curried" />
+      <node id="cumbersome" label="cumbersome" />
+      <node id="cunning" label="cunning">
+        <attvalues>
+          <attvalue for="0" value="3.03462845663" />
+        </attvalues>
+      </node>
+      <node id="customer" label="customer" />
+      <node id="cubehead" label="cubehead">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="curdled" label="curdled" />
+      <node id="cutaneous" label="cutaneous">
+        <attvalues>
+          <attvalue for="0" value="2.40823996531" />
+        </attvalues>
+      </node>
+      <node id="cuddle" label="cuddle" />
+      <node id="cuff" label="cuff">
+        <attvalues>
+          <attvalue for="0" value="3.32654066852" />
+        </attvalues>
+      </node>
+      <node id="culpability" label="culpability">
+        <attvalues>
+          <attvalue for="0" value="2.6232492904" />
+        </attvalues>
+      </node>
+      <node id="curt" label="curt" />
+      <node id="currency" label="currency" />
+      <node id="curd" label="curd">
+        <attvalues>
+          <attvalue for="0" value="2.62117628178" />
+        </attvalues>
+      </node>
+      <node id="cure" label="cure" />
+      <node id="curb" label="curb">
+        <attvalues>
+          <attvalue for="0" value="3.67246731307" />
+        </attvalues>
+      </node>
+      <node id="curved" label="curved">
+        <attvalues>
+          <attvalue for="0" value="3.48671377598" />
+        </attvalues>
+      </node>
+      <node id="cultivate" label="cultivate">
+        <attvalues>
+          <attvalue for="0" value="3.21005084988" />
+        </attvalues>
+      </node>
+      <node id="cursory" label="cursory">
+        <attvalues>
+          <attvalue for="0" value="2.82085798944" />
+        </attvalues>
+      </node>
+      <node id="curl" label="curl">
+        <attvalues>
+          <attvalue for="0" value="3.35659943572" />
+        </attvalues>
+      </node>
+      <node id="cumbrous" label="cumbrous">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="cuisine" label="cuisine" />
+      <node id="cumulative" label="cumulative" />
+      <node id="cutback" label="cutback">
+        <attvalues>
+          <attvalue for="0" value="2.33445375115" />
+        </attvalues>
+      </node>
+      <node id="curacy" label="curacy">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="cutthroat" label="cutthroat">
+        <attvalues>
+          <attvalue for="0" value="2.69722934276" />
+        </attvalues>
+      </node>
+      <node id="curlicue" label="curlicue" />
+      <node id="cupboard" label="cupboard" />
+      <node id="cubic" label="cubic">
+        <attvalues>
+          <attvalue for="0" value="3.42862067267" />
+        </attvalues>
+      </node>
+      <node id="customs" label="customs">
+        <attvalues>
+          <attvalue for="0" value="3.70782556833" />
+        </attvalues>
+      </node>
+      <node id="curiosity" label="curiosity" />
+      <node id="curbstone" label="curbstone">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="curing" label="curing">
+        <attvalues>
+          <attvalue for="0" value="2.96661098668" />
+        </attvalues>
+      </node>
+      <node id="culvert" label="culvert">
+        <attvalues>
+          <attvalue for="0" value="2.34044411484" />
+        </attvalues>
+      </node>
+      <node id="curve" label="curve">
+        <attvalues>
+          <attvalue for="0" value="3.81231160913" />
+        </attvalues>
+      </node>
+      <node id="cutlery" label="cutlery" />
+      <node id="curvy" label="curvy" />
+      <node id="curio" label="curio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="cute" target="curvaceous" weight="0.00885" />
+      <edge id="1" source="cute" target="cut" weight="0.002844" />
+      <edge id="2" source="cute" target="customary" weight="0.006369" />
+      <edge id="3" source="cute" target="cup" weight="0.005405" />
+      <edge id="4" source="cute" target="custodial" weight="0.010101" />
+      <edge id="5" source="cute" target="curve" weight="0.004785" />
+      <edge id="6" source="cute" target="cultured" weight="0.041322" />
+      <edge id="7" source="cute" target="cutthroat" weight="0.007092" />
+      <edge id="8" source="cute" target="cultivated" weight="0.040984" />
+      <edge id="9" source="cute" target="curved" weight="0.010526" />
+      <edge id="10" source="cute" target="curl" weight="0.007042" />
+      <edge id="11" source="cute" target="cursory" weight="0.005848" />
+      <edge id="12" source="cute" target="cultivate" weight="0.005814" />
+      <edge id="13" source="cute" target="cunning" weight="0.48503" />
+      <edge id="14" source="curate" target="custodian" weight="0.016949" />
+      <edge id="15" source="curate" target="curator" weight="0.012987" />
+      <edge id="16" source="cussed" target="curt" weight="0.038835" />
+      <edge id="17" source="cussed" target="curse" weight="0.00641" />
+      <edge id="18" source="cussed" target="cuckoo" weight="0.007463" />
+      <edge id="19" source="cussed" target="cup" weight="0.006944" />
+      <edge id="20" source="cussed" target="cursed" weight="0.074074" />
+      <edge id="21" source="cussed" target="cumbersome" weight="0.012195" />
+      <edge id="22" source="cussed" target="cursory" weight="0.007692" />
+      <edge id="23" source="customary" target="customer" weight="0.009009" />
+      <edge id="24" source="customary" target="cut" weight="0.00286" />
+      <edge id="25" source="customary" target="cumulation" weight="0.008475" />
+      <edge id="26" source="customary" target="curdle" weight="0.010101" />
+      <edge id="27" source="customary" target="cumulative" weight="0.00885" />
+      <edge id="28" source="customary" target="custom" weight="0.00578" />
+      <edge id="29" source="customary" target="current" weight="0.148649" />
+      <edge id="30" source="customary" target="culture" weight="0.00625" />
+      <edge id="31" source="customary" target="cutting" weight="0.003195" />
+      <edge id="32" source="customary" target="cure" weight="0.004405" />
+      <edge id="33" source="customary" target="cumbrous" weight="0.009434" />
+      <edge id="34" source="customary" target="curtain" weight="0.003891" />
+      <edge id="35" source="customary" target="cursive" weight="0.010526" />
+      <edge id="36" source="customary" target="cultist" weight="0.022222" />
+      <edge id="37" source="customary" target="cunning" weight="0.004149" />
+      <edge id="38" source="culmination" target="curtains" weight="0.372549" />
+      <edge id="39" source="culmination" target="curt" weight="0.006757" />
+      <edge id="40" source="culmination" target="cut" weight="0.008571" />
+      <edge id="41" source="culmination" target="cup" weight="0.033149" />
+      <edge id="42" source="culmination" target="cupola" weight="0.024793" />
+      <edge id="43" source="culmination" target="curve" weight="0.004762" />
+      <edge id="44" source="culmination" target="culminate" weight="0.092784" />
+      <edge id="45" source="culmination" target="culminating" weight="0.055556" />
+      <edge id="46" source="culmination" target="cutlery" weight="0.010417" />
+      <edge id="47" source="culmination" target="current" weight="0.003831" />
+      <edge id="48" source="culmination" target="cutting" weight="0.003125" />
+      <edge id="49" source="culmination" target="cue" weight="0.009524" />
+      <edge id="50" source="culmination" target="curse" weight="0.005051" />
+      <edge id="51" source="culmination" target="cuspid" weight="0.010309" />
+      <edge id="52" source="culmination" target="curtain" weight="0.162281" />
+      <edge id="53" source="culmination" target="cultivate" weight="0.00578" />
+      <edge id="54" source="culmination" target="cutoff" weight="0.065041" />
+      <edge id="55" source="culmination" target="cutter" weight="0.017857" />
+      <edge id="56" source="cut" target="curt" weight="0.029644" />
+      <edge id="57" source="cut" target="curiosity" weight="0.001976" />
+      <edge id="58" source="cut" target="culpability" weight="0.001018" />
+      <edge id="59" source="cut" target="cultivation" weight="0.004766" />
+      <edge id="60" source="cut" target="cutlery" weight="0.00304" />
+      <edge id="61" source="cut" target="currency" weight="0.000987" />
+      <edge id="62" source="cut" target="curd" weight="0.000987" />
+      <edge id="63" source="cut" target="cure" weight="0.009848" />
+      <edge id="64" source="cut" target="curb" weight="0.009183" />
+      <edge id="65" source="cut" target="cultured" weight="0.001965" />
+      <edge id="66" source="cut" target="cultivated" weight="0.001963" />
+      <edge id="67" source="cut" target="curved" weight="0.001011" />
+      <edge id="68" source="cut" target="curl" weight="0.00582" />
+      <edge id="69" source="cut" target="cubicle" weight="0.001011" />
+      <edge id="70" source="cut" target="cultivate" weight="0.023992" />
+      <edge id="71" source="cut" target="curtailment" weight="0.024178" />
+      <edge id="72" source="cut" target="cuisine" weight="0.00199" />
+      <edge id="73" source="cut" target="cuticle" weight="0.00304" />
+      <edge id="74" source="cut" target="cur" weight="0.001001" />
+      <edge id="75" source="cut" target="cup" weight="0.014085" />
+      <edge id="76" source="cut" target="curtsy" weight="0.001976" />
+      <edge id="77" source="cut" target="cudgel" weight="0.031665" />
+      <edge id="78" source="cut" target="cutback" weight="0.004065" />
+      <edge id="79" source="cut" target="custom" weight="0.008451" />
+      <edge id="80" source="cut" target="current" weight="0.010499" />
+      <edge id="81" source="cut" target="cursory" weight="0.004713" />
+      <edge id="82" source="cut" target="cue" weight="0.013761" />
+      <edge id="83" source="cut" target="cud" weight="0.006073" />
+      <edge id="84" source="cut" target="curriculum" weight="0.001013" />
+      <edge id="85" source="cut" target="cubbyhole" weight="0.002988" />
+      <edge id="86" source="cut" target="cutthroat" weight="0.001934" />
+      <edge id="87" source="cut" target="culvert" weight="0.005071" />
+      <edge id="88" source="cut" target="curtain" weight="0.014899" />
+      <edge id="89" source="cut" target="cutie" weight="0.001994" />
+      <edge id="90" source="cut" target="curlicue" weight="0.001005" />
+      <edge id="91" source="cut" target="cutter" weight="0.00499" />
+      <edge id="92" source="cut" target="cull" weight="0.032291" />
+      <edge id="93" source="cut" target="curtains" weight="0.005842" />
+      <edge id="94" source="cut" target="cuneiform" weight="0.00101" />
+      <edge id="95" source="cut" target="cupboard" weight="0.003929" />
+      <edge id="96" source="cut" target="cubic" weight="0.001007" />
+      <edge id="97" source="cut" target="curio" weight="0.005906" />
+      <edge id="98" source="cut" target="custodial" weight="0.001007" />
+      <edge id="99" source="cut" target="cushioning" weight="0.001012" />
+      <edge id="100" source="cut" target="customs" weight="0.002037" />
+      <edge id="101" source="cut" target="cuspid" weight="0.002022" />
+      <edge id="102" source="cut" target="cutting" weight="0.062117" />
+      <edge id="103" source="cut" target="curse" weight="0.01676" />
+      <edge id="104" source="cut" target="cushion" weight="0.013066" />
+      <edge id="105" source="cut" target="cumulate" weight="0.002976" />
+      <edge id="106" source="cut" target="cutoff" weight="0.007874" />
+      <edge id="107" source="cut" target="curtailed" weight="0.015" />
+      <edge id="108" source="cut" target="cunning" weight="0.003515" />
+      <edge id="109" source="cut" target="customer" weight="0.002973" />
+      <edge id="110" source="cut" target="curtail" weight="0.056641" />
+      <edge id="111" source="cut" target="cuckoo" weight="0.001873" />
+      <edge id="112" source="cut" target="culture" weight="0.024131" />
+      <edge id="113" source="cut" target="curdle" weight="0.005025" />
+      <edge id="114" source="cut" target="curve" weight="0.012844" />
+      <edge id="115" source="cut" target="culminate" weight="0.002006" />
+      <edge id="116" source="cut" target="cuddle" weight="0.001014" />
+      <edge id="117" source="cut" target="cuff" weight="0.016343" />
+      <edge id="118" source="cut" target="cursive" weight="0.002012" />
+      <edge id="119" source="cut" target="cumulation" weight="0.006917" />
+      <edge id="120" source="cut" target="curry" weight="0.004845" />
+      <edge id="121" source="cur" target="curtain" weight="0.004878" />
+      <edge id="122" source="cur" target="cub" weight="0.017544" />
+      <edge id="123" source="cup" target="culture" weight="0.005319" />
+      <edge id="124" source="cup" target="cutting" weight="0.00885" />
+      <edge id="125" source="cup" target="curb" weight="0.008889" />
+      <edge id="126" source="cup" target="curious" weight="0.00625" />
+      <edge id="127" source="cup" target="curl" weight="0.018519" />
+      <edge id="128" source="cup" target="cultivate" weight="0.005155" />
+      <edge id="129" source="cup" target="cupped" weight="0.00885" />
+      <edge id="130" source="cup" target="cue" weight="0.00431" />
+      <edge id="131" source="cup" target="cubbyhole" weight="0.015038" />
+      <edge id="132" source="cup" target="curtain" weight="0.017794" />
+      <edge id="133" source="cup" target="curtail" weight="0.004785" />
+      <edge id="134" source="cup" target="cutter" weight="0.007463" />
+      <edge id="135" source="cup" target="curtains" weight="0.03871" />
+      <edge id="136" source="cup" target="cupola" weight="0.066176" />
+      <edge id="137" source="cup" target="cuspid" weight="0.008475" />
+      <edge id="138" source="cup" target="curse" weight="0.013825" />
+      <edge id="139" source="cup" target="cutoff" weight="0.006623" />
+      <edge id="140" source="cup" target="curbstone" weight="0.008475" />
+      <edge id="141" source="cup" target="cunning" weight="0.003717" />
+      <edge id="142" source="cup" target="curve" weight="0.017544" />
+      <edge id="143" source="cup" target="culminate" weight="0.016" />
+      <edge id="144" source="cup" target="curtailment" weight="0.005376" />
+      <edge id="145" source="cudgel" target="cull" weight="0.0125" />
+      <edge id="146" source="cudgel" target="cutting" weight="0.00369" />
+      <edge id="147" source="cudgel" target="curt" weight="0.010101" />
+      <edge id="148" source="cudgel" target="curse" weight="0.006711" />
+      <edge id="149" source="cudgel" target="cutoff" weight="0.012346" />
+      <edge id="150" source="cudgel" target="curdle" weight="0.017544" />
+      <edge id="151" source="cudgel" target="cutback" weight="0.022222" />
+      <edge id="152" source="cudgel" target="culture" weight="0.008475" />
+      <edge id="153" source="cudgel" target="cue" weight="0.006173" />
+      <edge id="154" source="cudgel" target="cure" weight="0.005405" />
+      <edge id="155" source="cudgel" target="cuff" weight="0.12766" />
+      <edge id="156" source="cudgel" target="cuticle" weight="0.021277" />
+      <edge id="157" source="cudgel" target="curtailment" weight="0.008621" />
+      <edge id="158" source="cudgel" target="cultivate" weight="0.008065" />
+      <edge id="159" source="cudgel" target="curtail" weight="0.007194" />
+      <edge id="160" source="cudgel" target="curry" weight="0.010638" />
+      <edge id="161" source="cushy" target="cursory" weight="0.016807" />
+      <edge id="162" source="cushy" target="cunning" weight="0.005102" />
+      <edge id="163" source="cue" target="culpability" weight="0.007407" />
+      <edge id="164" source="cue" target="curry" weight="0.005291" />
+      <edge id="165" source="cue" target="curdle" weight="0.006579" />
+      <edge id="166" source="cue" target="curve" weight="0.007843" />
+      <edge id="167" source="cue" target="culminate" weight="0.013333" />
+      <edge id="168" source="cue" target="cuneiform" weight="0.006993" />
+      <edge id="169" source="cue" target="curb" weight="0.008" />
+      <edge id="170" source="cue" target="cumbrous" weight="0.006289" />
+      <edge id="171" source="cue" target="curtain" weight="0.003226" />
+      <edge id="172" source="cue" target="curl" weight="0.010638" />
+      <edge id="173" source="cue" target="cursory" weight="0.004587" />
+      <edge id="174" source="cud" target="cursory" weight="0.009346" />
+      <edge id="175" source="cud" target="curl" weight="0.012821" />
+      <edge id="176" source="cud" target="curve" weight="0.006897" />
+      <edge id="177" source="cud" target="cumulation" weight="0.016667" />
+      <edge id="178" source="cub" target="customer" weight="0.014493" />
+      <edge id="179" source="cub" target="cutie" weight="0.016129" />
+      <edge id="180" source="cutter" target="curve" weight="0.006329" />
+      <edge id="181" source="cutter" target="culminate" weight="0.018868" />
+      <edge id="182" source="cutter" target="curtain" weight="0.004717" />
+      <edge id="183" source="cuneiform" target="customer" weight="0.02" />
+      <edge id="184" source="cuneiform" target="cumulative" weight="0.019231" />
+      <edge id="185" source="cuneiform" target="cutting" weight="0.003968" />
+      <edge id="186" source="cuneiform" target="cursive" weight="0.029412" />
+      <edge id="187" source="cupola" target="curve" weight="0.018072" />
+      <edge id="188" source="cupola" target="cubbyhole" weight="0.014085" />
+      <edge id="189" source="cupola" target="curtain" weight="0.004505" />
+      <edge id="190" source="cupola" target="curl" weight="0.030303" />
+      <edge id="191" source="cupola" target="cunning" weight="0.004854" />
+      <edge id="192" source="custodian" target="curb" weight="0.006494" />
+      <edge id="193" source="custodian" target="curl" weight="0.01087" />
+      <edge id="194" source="custodian" target="custodial" weight="0.020408" />
+      <edge id="195" source="custodial" target="curator" weight="0.014925" />
+      <edge id="196" source="custodial" target="cushion" weight="0.009852" />
+      <edge id="197" source="custodial" target="curtain" weight="0.005025" />
+      <edge id="198" source="custodial" target="custody" weight="0.014925" />
+      <edge id="199" source="custodial" target="cunning" weight="0.005464" />
+      <edge id="200" source="cutting" target="culture" weight="0.009375" />
+      <edge id="201" source="cutting" target="curb" weight="0.011204" />
+      <edge id="202" source="cutting" target="cultured" weight="0.003559" />
+      <edge id="203" source="cutting" target="cultivated" weight="0.003546" />
+      <edge id="204" source="cutting" target="curl" weight="0.006734" />
+      <edge id="205" source="cutting" target="cursory" weight="0.003058" />
+      <edge id="206" source="cutting" target="cultivate" weight="0.009202" />
+      <edge id="207" source="cutting" target="cutback" weight="0.012146" />
+      <edge id="208" source="cutting" target="cultivation" weight="0.009585" />
+      <edge id="209" source="cutting" target="cutthroat" weight="0.024055" />
+      <edge id="210" source="cutting" target="curtain" weight="0.002387" />
+      <edge id="211" source="cutting" target="curtains" weight="0.003401" />
+      <edge id="212" source="cutting" target="curriculum" weight="0.004016" />
+      <edge id="213" source="cutting" target="curtailment" weight="0.077181" />
+      <edge id="214" source="cutting" target="curing" weight="0.003846" />
+      <edge id="215" source="cutting" target="cunning" weight="0.007481" />
+      <edge id="216" source="cutting" target="curdle" weight="0.011583" />
+      <edge id="217" source="cutting" target="curve" weight="0.005495" />
+      <edge id="218" source="cutting" target="culminate" weight="0.003846" />
+      <edge id="219" source="cutting" target="cuff" weight="0.007843" />
+      <edge id="220" source="cutting" target="cumulation" weight="0.021818" />
+      <edge id="221" source="cushion" target="cuticle" weight="0.005" />
+      <edge id="222" source="cushion" target="culture" weight="0.00369" />
+      <edge id="223" source="cushion" target="curd" weight="0.0181" />
+      <edge id="224" source="cushion" target="curb" weight="0.040268" />
+      <edge id="225" source="cushion" target="cultured" weight="0.004348" />
+      <edge id="226" source="cushion" target="cubbyhole" weight="0.004608" />
+      <edge id="227" source="cushion" target="cultivated" weight="0.004329" />
+      <edge id="228" source="cushion" target="curtain" weight="0.033613" />
+      <edge id="229" source="cushion" target="cultivate" weight="0.007246" />
+      <edge id="230" source="cushion" target="curry" weight="0.00813" />
+      <edge id="231" source="cumulate" target="curdle" weight="0.035088" />
+      <edge id="232" source="cumulate" target="cuticle" weight="0.020833" />
+      <edge id="233" source="cumulate" target="culture" weight="0.016949" />
+      <edge id="234" source="cumulate" target="curb" weight="0.012821" />
+      <edge id="235" source="cumulate" target="curtain" weight="0.00463" />
+      <edge id="236" source="cumulate" target="cultivate" weight="0.008" />
+      <edge id="237" source="cumulate" target="cumulation" weight="0.083333" />
+      <edge id="238" source="curdle" target="cuff" weight="0.02381" />
+      <edge id="239" source="curdle" target="curve" weight="0.006623" />
+      <edge id="240" source="curdle" target="curd" weight="0.127273" />
+      <edge id="241" source="curdle" target="curdled" weight="0.035088" />
+      <edge id="242" source="curdle" target="current" weight="0.00495" />
+      <edge id="243" source="curdle" target="curb" weight="0.006849" />
+      <edge id="244" source="curdle" target="curtain" weight="0.004878" />
+      <edge id="245" source="curdle" target="curl" weight="0.011905" />
+      <edge id="246" source="curdle" target="cumulation" weight="0.015152" />
+      <edge id="247" source="curdle" target="curbstone" weight="0.026316" />
+      <edge id="248" source="culminating" target="cutoff" weight="0.016949" />
+      <edge id="249" source="culminating" target="curtains" weight="0.045455" />
+      <edge id="250" source="culminating" target="cumulative" weight="0.041667" />
+      <edge id="251" source="culminating" target="current" weight="0.005263" />
+      <edge id="252" source="culminating" target="curtain" weight="0.015707" />
+      <edge id="253" source="cumulus" target="curl" weight="0.014925" />
+      <edge id="254" source="cursive" target="cunning" weight="0.005405" />
+      <edge id="255" source="cumulation" target="cumulative" weight="0.0125" />
+      <edge id="256" source="cumulation" target="curve" weight="0.005882" />
+      <edge id="257" source="cumulation" target="current" weight="0.004525" />
+      <edge id="258" source="cumulation" target="culture" weight="0.007874" />
+      <edge id="259" source="cumulation" target="cupboard" weight="0.059524" />
+      <edge id="260" source="culture" target="cutoff" weight="0.007576" />
+      <edge id="261" source="culture" target="curt" weight="0.006667" />
+      <edge id="262" source="culture" target="currency" weight="0.008197" />
+      <edge id="263" source="culture" target="cure" weight="0.004237" />
+      <edge id="264" source="culture" target="curb" weight="0.004831" />
+      <edge id="265" source="culture" target="cultivate" weight="0.181208" />
+      <edge id="266" source="culture" target="cursory" weight="0.005747" />
+      <edge id="267" source="culture" target="custody" weight="0.007463" />
+      <edge id="268" source="culture" target="cutback" weight="0.010417" />
+      <edge id="269" source="culture" target="custom" weight="0.005495" />
+      <edge id="270" source="culture" target="current" weight="0.011494" />
+      <edge id="271" source="culture" target="cultivation" weight="0.244275" />
+      <edge id="272" source="culture" target="curtain" weight="0.003759" />
+      <edge id="273" source="culture" target="curtail" weight="0.026882" />
+      <edge id="274" source="culture" target="cull" weight="0.015385" />
+      <edge id="275" source="culture" target="curtailment" weight="0.005988" />
+      <edge id="276" source="culture" target="culvert" weight="0.010101" />
+      <edge id="277" source="culture" target="cunning" weight="0.012097" />
+      <edge id="278" source="culture" target="cuff" weight="0.009709" />
+      <edge id="279" source="culture" target="curry" weight="0.013889" />
+      <edge id="280" source="curious" target="cursed" weight="0.013699" />
+      <edge id="281" source="curious" target="curse" weight="0.005814" />
+      <edge id="282" source="curious" target="cuckoo" weight="0.006667" />
+      <edge id="283" source="curse" target="culpability" weight="0.008197" />
+      <edge id="284" source="curse" target="cutthroat" weight="0.005714" />
+      <edge id="285" source="curse" target="curtain" weight="0.006757" />
+      <edge id="286" source="curse" target="curtains" weight="0.005814" />
+      <edge id="287" source="cultism" target="cult" weight="0.40625" />
+      <edge id="288" source="cultism" target="curtsy" weight="0.055556" />
+      <edge id="289" source="cultism" target="custody" weight="0.014706" />
+      <edge id="290" source="cultism" target="custom" weight="0.008621" />
+      <edge id="291" source="curtsy" target="curve" weight="0.012195" />
+      <edge id="292" source="curtsy" target="cult" weight="0.04918" />
+      <edge id="293" source="curtsy" target="curl" weight="0.020619" />
+      <edge id="294" source="curtsy" target="cunning" weight="0.004926" />
+      <edge id="295" source="current" target="curtains" weight="0.004255" />
+      <edge id="296" source="current" target="curvaceous" weight="0.004762" />
+      <edge id="297" source="current" target="curriculum" weight="0.005263" />
+      <edge id="298" source="current" target="curve" weight="0.006557" />
+      <edge id="299" source="current" target="curacy" weight="0.005208" />
+      <edge id="300" source="current" target="curved" weight="0.005208" />
+      <edge id="301" source="current" target="curtain" weight="0.002778" />
+      <edge id="302" source="current" target="cursory" weight="0.011278" />
+      <edge id="303" source="current" target="culvert" weight="0.005181" />
+      <edge id="304" source="cupped" target="curvy" weight="0.020833" />
+      <edge id="305" source="cupped" target="curved" weight="0.043478" />
+      <edge id="306" source="cupped" target="curvaceous" weight="0.02439" />
+      <edge id="307" source="cubbyhole" target="cupboard" weight="0.013158" />
+      <edge id="308" source="cubbyhole" target="curve" weight="0.006329" />
+      <edge id="309" source="cubbyhole" target="curtain" weight="0.009479" />
+      <edge id="310" source="cubbyhole" target="cubicle" weight="0.285714" />
+      <edge id="311" source="cull" target="cutback" weight="0.017241" />
+      <edge id="312" source="cull" target="customs" weight="0.018519" />
+      <edge id="313" source="cull" target="curtailment" weight="0.007752" />
+      <edge id="314" source="cull" target="cuff" weight="0.03125" />
+      <edge id="315" source="cull" target="curtain" weight="0.004386" />
+      <edge id="316" source="cull" target="cultivate" weight="0.022222" />
+      <edge id="317" source="curvaceous" target="curvy" weight="0.775" />
+      <edge id="318" source="curvaceous" target="custom" weight="0.007752" />
+      <edge id="319" source="curvaceous" target="curved" weight="0.352941" />
+      <edge id="320" source="curvaceous" target="cunning" weight="0.005076" />
+      <edge id="321" source="cushioning" target="curtailment" weight="0.010526" />
+      <edge id="322" source="cuspid" target="curve" weight="0.007042" />
+      <edge id="323" source="cuspid" target="culminate" weight="0.027027" />
+      <edge id="324" source="cuspid" target="curtain" weight="0.005102" />
+      <edge id="325" source="curtailment" target="cutoff" weight="0.031496" />
+      <edge id="326" source="curtailment" target="curt" weight="0.013605" />
+      <edge id="327" source="curtailment" target="cutback" weight="0.130952" />
+      <edge id="328" source="curtailment" target="cultivation" weight="0.00625" />
+      <edge id="329" source="curtailment" target="curb" weight="0.089947" />
+      <edge id="330" source="curtailment" target="custody" weight="0.007576" />
+      <edge id="331" source="curtailment" target="curtain" weight="0.003788" />
+      <edge id="332" source="curtailment" target="cuff" weight="0.009901" />
+      <edge id="333" source="curtailment" target="curtail" weight="0.05" />
+      <edge id="334" source="curtailment" target="cultivate" weight="0.00578" />
+      <edge id="335" source="curtailment" target="curbstone" weight="0.010309" />
+      <edge id="336" source="curtailment" target="cunning" weight="0.004032" />
+      <edge id="337" source="curtailed" target="curtail" weight="0.013986" />
+      <edge id="338" source="curtailed" target="curt" weight="0.105263" />
+      <edge id="339" source="curtailed" target="curb" weight="0.006211" />
+      <edge id="340" source="curtness" target="curtains" weight="0.014085" />
+      <edge id="341" source="curtness" target="cunning" weight="0.005556" />
+      <edge id="342" source="cuckoo" target="curl" weight="0.006494" />
+      <edge id="343" source="cuckoo" target="curve" weight="0.009091" />
+      <edge id="344" source="culminate" target="customer" weight="0.017241" />
+      <edge id="345" source="culminate" target="cubehead" weight="0.026316" />
+      <edge id="346" source="culminate" target="curtain" weight="0.004902" />
+      <edge id="347" source="culminate" target="cultivate" weight="0.055556" />
+      <edge id="348" source="culminate" target="cutoff" weight="0.028986" />
+      <edge id="349" source="culminate" target="curtains" weight="0.025641" />
+      <edge id="350" source="cubed" target="cubic" weight="0.526316" />
+      <edge id="351" source="curative" target="curing" weight="0.1" />
+      <edge id="352" source="curry" target="cuisine" weight="0.010989" />
+      <edge id="353" source="curry" target="curried" weight="0.012048" />
+      <edge id="354" source="curry" target="cutthroat" weight="0.008333" />
+      <edge id="355" source="curry" target="cultured" weight="0.009615" />
+      <edge id="356" source="curry" target="cure" weight="0.024038" />
+      <edge id="357" source="curry" target="curb" weight="0.022222" />
+      <edge id="358" source="curry" target="cutup" weight="0.009615" />
+      <edge id="359" source="curry" target="cultivated" weight="0.009524" />
+      <edge id="360" source="curry" target="curtain" weight="0.004132" />
+      <edge id="361" source="curry" target="curl" weight="0.008264" />
+      <edge id="362" source="curry" target="curtail" weight="0.012121" />
+      <edge id="363" source="curry" target="cultivate" weight="0.055556" />
+      <edge id="364" source="curry" target="culvert" weight="0.013333" />
+      <edge id="365" source="cutoff" target="curtains" weight="0.060606" />
+      <edge id="366" source="cutoff" target="cutback" weight="0.016949" />
+      <edge id="367" source="cutoff" target="curb" weight="0.023952" />
+      <edge id="368" source="cutoff" target="cutthroat" weight="0.009346" />
+      <edge id="369" source="cutoff" target="curtain" weight="0.022222" />
+      <edge id="370" source="cutoff" target="cuff" weight="0.030769" />
+      <edge id="371" source="cutoff" target="cultivate" weight="0.014599" />
+      <edge id="372" source="cutup" target="curtain" weight="0.008929" />
+      <edge id="373" source="cutup" target="cutthroat" weight="0.029703" />
+      <edge id="374" source="cutup" target="curve" weight="0.005848" />
+      <edge id="375" source="cutup" target="cunning" weight="0.004785" />
+      <edge id="376" source="cuckoldry" target="curtain" weight="0.005155" />
+      <edge id="377" source="cultured" target="custom" weight="0.007092" />
+      <edge id="378" source="cultured" target="cultivated" weight="0.934783" />
+      <edge id="379" source="cultured" target="cunning" weight="0.02439" />
+      <edge id="380" source="cultivated" target="custom" weight="0.007042" />
+      <edge id="381" source="cultivated" target="cunning" weight="0.024272" />
+      <edge id="382" source="cubicle" target="curve" weight="0.007092" />
+      <edge id="383" source="custody" target="curacy" weight="0.04918" />
+      <edge id="384" source="custody" target="curb" weight="0.023669" />
+      <edge id="385" source="custody" target="curtain" weight="0.004329" />
+      <edge id="386" source="custody" target="curing" weight="0.013889" />
+      <edge id="387" source="custody" target="cunning" weight="0.004651" />
+      <edge id="388" source="cuticle" target="curtain" weight="0.010309" />
+      <edge id="389" source="custom" target="curve" weight="0.013453" />
+      <edge id="390" source="custom" target="cultivation" weight="0.011494" />
+      <edge id="391" source="custom" target="curtain" weight="0.007194" />
+      <edge id="392" source="custom" target="cultivate" weight="0.010695" />
+      <edge id="393" source="custom" target="cunning" weight="0.007634" />
+      <edge id="394" source="cultivation" target="curriculum" weight="0.011236" />
+      <edge id="395" source="cultivation" target="cultivate" weight="0.04321" />
+      <edge id="396" source="cultivation" target="cunning" weight="0.020921" />
+      <edge id="397" source="curtain" target="cure" weight="0.006024" />
+      <edge id="398" source="curtain" target="curb" weight="0.003289" />
+      <edge id="399" source="curtain" target="curl" weight="0.004132" />
+      <edge id="400" source="curtain" target="cultivate" weight="0.00738" />
+      <edge id="401" source="curtain" target="curtains" weight="0.183168" />
+      <edge id="402" source="curtain" target="cupboard" weight="0.004405" />
+      <edge id="403" source="curtain" target="cubic" weight="0.005025" />
+      <edge id="404" source="curtain" target="customer" weight="0.004608" />
+      <edge id="405" source="curtain" target="curve" weight="0.013072" />
+      <edge id="406" source="curtain" target="curio" weight="0.004405" />
+      <edge id="407" source="curtail" target="curve" weight="0.004292" />
+      <edge id="408" source="curtail" target="cutback" weight="0.008547" />
+      <edge id="409" source="curtail" target="customs" weight="0.00885" />
+      <edge id="410" source="curtail" target="curb" weight="0.122549" />
+      <edge id="411" source="curtail" target="cuff" weight="0.01626" />
+      <edge id="412" source="curtail" target="cultivate" weight="0.036842" />
+      <edge id="413" source="curtail" target="cursory" weight="0.005128" />
+      <edge id="414" source="curtail" target="curbstone" weight="0.008333" />
+      <edge id="415" source="curtail" target="cunning" weight="0.00369" />
+      <edge id="416" source="curtains" target="curve" weight="0.005435" />
+      <edge id="417" source="curtains" target="cultivate" weight="0.006803" />
+      <edge id="418" source="curtains" target="cursory" weight="0.006849" />
+      <edge id="419" source="curriculum" target="cultivate" weight="0.009804" />
+      <edge id="420" source="cumbersome" target="cumbrous" weight="0.327273" />
+      <edge id="421" source="cumbersome" target="cursory" weight="0.007634" />
+      <edge id="422" source="cunning" target="curt" weight="0.004329" />
+      <edge id="423" source="cunning" target="cure" weight="0.003155" />
+      <edge id="424" source="cunning" target="curb" weight="0.003472" />
+      <edge id="425" source="cunning" target="curved" weight="0.005587" />
+      <edge id="426" source="cunning" target="curl" weight="0.004425" />
+      <edge id="427" source="cunning" target="cultivate" weight="0.003906" />
+      <edge id="428" source="cunning" target="cursory" weight="0.003922" />
+      <edge id="429" source="cunning" target="cutthroat" weight="0.004444" />
+      <edge id="430" source="cunning" target="curiosity" weight="0.004926" />
+      <edge id="431" source="cunning" target="curve" weight="0.017301" />
+      <edge id="432" source="cunning" target="curvy" weight="0.009852" />
+      <edge id="433" source="customer" target="cubehead" weight="0.019608" />
+      <edge id="434" source="customer" target="curve" weight="0.006135" />
+      <edge id="435" source="cubehead" target="curiosity" weight="0.018868" />
+      <edge id="436" source="curdled" target="cumbrous" weight="0.047619" />
+      <edge id="437" source="curdled" target="curd" weight="0.013889" />
+      <edge id="438" source="cutaneous" target="cursory" weight="0.010526" />
+      <edge id="439" source="cuddle" target="cultivate" weight="0.009901" />
+      <edge id="440" source="cuff" target="curt" weight="0.011905" />
+      <edge id="441" source="cuff" target="cupboard" weight="0.015625" />
+      <edge id="442" source="cuff" target="cutback" weight="0.033333" />
+      <edge id="443" source="cuff" target="curb" weight="0.007092" />
+      <edge id="444" source="cuff" target="cultivate" weight="0.009174" />
+      <edge id="445" source="curt" target="curve" weight="0.005181" />
+      <edge id="446" source="curt" target="cutback" weight="0.012987" />
+      <edge id="447" source="curt" target="cutthroat" weight="0.008" />
+      <edge id="448" source="curt" target="curl" weight="0.007937" />
+      <edge id="449" source="curt" target="cursory" weight="0.019608" />
+      <edge id="450" source="curt" target="cultivate" weight="0.00641" />
+      <edge id="451" source="currency" target="curd" weight="0.013333" />
+      <edge id="452" source="cure" target="curacy" weight="0.0375" />
+      <edge id="453" source="cure" target="curb" weight="0.00365" />
+      <edge id="454" source="cure" target="cultivate" weight="0.025316" />
+      <edge id="455" source="cure" target="curing" weight="0.023392" />
+      <edge id="456" source="curb" target="cuisine" weight="0.006536" />
+      <edge id="457" source="curb" target="cutback" weight="0.015038" />
+      <edge id="458" source="curb" target="curbstone" weight="0.112903" />
+      <edge id="459" source="curb" target="cupboard" weight="0.005952" />
+      <edge id="460" source="curb" target="curve" weight="0.008032" />
+      <edge id="461" source="curb" target="curio" weight="0.005952" />
+      <edge id="462" source="curved" target="curvy" weight="0.292683" />
+      <edge id="463" source="curved" target="curve" weight="0.007092" />
+      <edge id="464" source="curved" target="curl" weight="0.013514" />
+      <edge id="465" source="cultivate" target="cursory" weight="0.005556" />
+      <edge id="466" source="cultivate" target="cutback" weight="0.009804" />
+      <edge id="467" source="cursory" target="cumbrous" weight="0.008333" />
+      <edge id="468" source="cursory" target="cubic" weight="0.018868" />
+      <edge id="469" source="cursory" target="curio" weight="0.014925" />
+      <edge id="470" source="curl" target="cupboard" weight="0.009434" />
+      <edge id="471" source="curl" target="curve" weight="0.219355" />
+      <edge id="472" source="curl" target="curlicue" weight="0.306452" />
+      <edge id="473" source="curacy" target="curing" weight="0.027778" />
+      <edge id="474" source="cutthroat" target="curiosity" weight="0.010309" />
+      <edge id="475" source="curlicue" target="curve" weight="0.013699" />
+      <edge id="476" source="cupboard" target="curve" weight="0.00578" />
+      <edge id="477" source="curve" target="curvy" weight="0.012121" />
+    </edges>
+  </graph>
+</gexf>

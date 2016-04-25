@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="twisty" label="twisty">
+        <attvalues>
+          <attvalue for="0" value="2.35602585719" />
+        </attvalues>
+      </node>
+      <node id="twitting" label="twitting" />
+      <node id="twit" label="twit">
+        <attvalues>
+          <attvalue for="0" value="2.02530586526" />
+        </attvalues>
+      </node>
+      <node id="tweak" label="tweak">
+        <attvalues>
+          <attvalue for="0" value="2.85853719757" />
+        </attvalues>
+      </node>
+      <node id="twitter" label="twitter" />
+      <node id="two" label="two">
+        <attvalues>
+          <attvalue for="0" value="5.74293398222" />
+        </attvalues>
+      </node>
+      <node id="twist" label="twist" />
+      <node id="tweedle" label="tweedle">
+        <attvalues>
+          <attvalue for="0" value="1.74036268949" />
+        </attvalues>
+      </node>
+      <node id="twin" label="twin">
+        <attvalues>
+          <attvalue for="0" value="3.93277807006" />
+        </attvalues>
+      </node>
+      <node id="twiddle" label="twiddle" />
+      <node id="twig" label="twig" />
+      <node id="twaddle" label="twaddle" />
+      <node id="twine" label="twine" />
+      <node id="twofold" label="twofold">
+        <attvalues>
+          <attvalue for="0" value="2.88366143515" />
+        </attvalues>
+      </node>
+      <node id="twinkle" label="twinkle">
+        <attvalues>
+          <attvalue for="0" value="2.94497590841" />
+        </attvalues>
+      </node>
+      <node id="tweet" label="tweet">
+        <attvalues>
+          <attvalue for="0" value="2.73479982959" />
+        </attvalues>
+      </node>
+      <node id="twisted" label="twisted">
+        <attvalues>
+          <attvalue for="0" value="3.81637388875" />
+        </attvalues>
+      </node>
+      <node id="twitching" label="twitching">
+        <attvalues>
+          <attvalue for="0" value="2.95085145889" />
+        </attvalues>
+      </node>
+      <node id="twopenny" label="twopenny" />
+      <node id="twister" label="twister" />
+      <node id="twosome" label="twosome" />
+      <node id="twang" label="twang">
+        <attvalues>
+          <attvalue for="0" value="2.57978359662" />
+        </attvalues>
+      </node>
+      <node id="twitchy" label="twitchy">
+        <attvalues>
+          <attvalue for="0" value="2.26951294422" />
+        </attvalues>
+      </node>
+      <node id="twinge" label="twinge" />
+      <node id="twinkling" label="twinkling" />
+      <node id="twill" label="twill" />
+      <node id="twangy" label="twangy" />
+      <node id="twiggy" label="twiggy">
+        <attvalues>
+          <attvalue for="0" value="2.12057393121" />
+        </attvalues>
+      </node>
+      <node id="twisting" label="twisting">
+        <attvalues>
+          <attvalue for="0" value="3.45999525605" />
+        </attvalues>
+      </node>
+      <node id="twirl" label="twirl">
+        <attvalues>
+          <attvalue for="0" value="2.56702636616" />
+        </attvalues>
+      </node>
+      <node id="twitch" label="twitch" />
+    </nodes>
+    <edges>
+      <edge id="0" source="twisty" target="twist" weight="0.006466" />
+      <edge id="1" source="twisty" target="twisting" weight="0.197674" />
+      <edge id="2" source="twisty" target="twisted" weight="0.041176" />
+      <edge id="3" source="twitting" target="twit" weight="0.027211" />
+      <edge id="4" source="twit" target="twist" weight="0.005329" />
+      <edge id="5" source="twit" target="twinkle" weight="0.012658" />
+      <edge id="6" source="twit" target="twang" weight="0.072165" />
+      <edge id="7" source="twit" target="tweak" weight="0.004975" />
+      <edge id="8" source="twit" target="tweet" weight="0.264" />
+      <edge id="9" source="twit" target="twisted" weight="0.003636" />
+      <edge id="10" source="twit" target="twinkling" weight="0.012739" />
+      <edge id="11" source="twit" target="tweedle" weight="0.186667" />
+      <edge id="12" source="twit" target="twosome" weight="0.006757" />
+      <edge id="13" source="twit" target="twiddle" weight="0.013333" />
+      <edge id="14" source="twit" target="twirl" weight="0.005714" />
+      <edge id="15" source="twit" target="twitch" weight="0.017937" />
+      <edge id="16" source="twit" target="twitter" weight="0.20332" />
+      <edge id="17" source="twit" target="twaddle" weight="0.023121" />
+      <edge id="18" source="tweak" target="twist" weight="0.084536" />
+      <edge id="19" source="tweak" target="twine" weight="0.022901" />
+      <edge id="20" source="tweak" target="twitch" weight="0.263514" />
+      <edge id="21" source="tweak" target="twinkle" weight="0.008403" />
+      <edge id="22" source="tweak" target="twitter" weight="0.033058" />
+      <edge id="23" source="tweak" target="twisting" weight="0.006211" />
+      <edge id="24" source="tweak" target="twinge" weight="0.270833" />
+      <edge id="25" source="tweak" target="twisted" weight="0.004255" />
+      <edge id="26" source="tweak" target="twinkling" weight="0.008475" />
+      <edge id="27" source="tweak" target="twang" weight="0.018182" />
+      <edge id="28" source="tweak" target="twill" weight="0.016807" />
+      <edge id="29" source="tweak" target="twiddle" weight="0.018182" />
+      <edge id="30" source="tweak" target="twirl" weight="0.030303" />
+      <edge id="31" source="tweak" target="twig" weight="0.007576" />
+      <edge id="32" source="twitter" target="twinkle" weight="0.009709" />
+      <edge id="33" source="twitter" target="twitchy" weight="0.016129" />
+      <edge id="34" source="twitter" target="tweet" weight="0.211765" />
+      <edge id="35" source="twitter" target="tweedle" weight="0.158974" />
+      <edge id="36" source="twitter" target="twitching" weight="0.014493" />
+      <edge id="37" source="twitter" target="twirl" weight="0.013575" />
+      <edge id="38" source="twitter" target="twang" weight="0.07113" />
+      <edge id="39" source="two" target="twist" weight="0.002132" />
+      <edge id="40" source="two" target="twosome" weight="0.325" />
+      <edge id="41" source="two" target="twin" weight="0.10084" />
+      <edge id="42" source="two" target="twofold" weight="0.16129" />
+      <edge id="43" source="two" target="twill" weight="0.015625" />
+      <edge id="44" source="twist" target="twofold" weight="0.002198" />
+      <edge id="45" source="twist" target="twinkle" weight="0.00207" />
+      <edge id="46" source="twist" target="tweet" weight="0.002079" />
+      <edge id="47" source="twist" target="twisting" weight="0.027344" />
+      <edge id="48" source="twist" target="twisted" weight="0.006711" />
+      <edge id="49" source="twist" target="tweedle" weight="0.001996" />
+      <edge id="50" source="twist" target="twin" weight="0.009158" />
+      <edge id="51" source="twist" target="twirl" weight="0.079914" />
+      <edge id="52" source="twist" target="twang" weight="0.005671" />
+      <edge id="53" source="tweedle" target="twine" weight="0.009174" />
+      <edge id="54" source="tweedle" target="twinkle" weight="0.010526" />
+      <edge id="55" source="tweedle" target="tweet" weight="0.189873" />
+      <edge id="56" source="tweedle" target="twinkling" weight="0.010638" />
+      <edge id="57" source="tweedle" target="twang" weight="0.116279" />
+      <edge id="58" source="tweedle" target="twill" weight="0.010417" />
+      <edge id="59" source="tweedle" target="twirl" weight="0.009009" />
+      <edge id="60" source="tweedle" target="twitch" weight="0.01875" />
+      <edge id="61" source="twin" target="twitch" weight="0.004739" />
+      <edge id="62" source="twin" target="twofold" weight="0.093458" />
+      <edge id="63" source="twin" target="twinkle" weight="0.006944" />
+      <edge id="64" source="twin" target="twinkling" weight="0.006993" />
+      <edge id="65" source="twin" target="twiggy" weight="0.007353" />
+      <edge id="66" source="twin" target="twosome" weight="0.022901" />
+      <edge id="67" source="twin" target="twill" weight="0.006897" />
+      <edge id="68" source="twin" target="twig" weight="0.006369" />
+      <edge id="69" source="twig" target="twirl" weight="0.009434" />
+      <edge id="70" source="twaddle" target="twang" weight="0.007042" />
+      <edge id="71" source="twaddle" target="tweet" weight="0.044944" />
+      <edge id="72" source="twine" target="twisting" weight="0.030769" />
+      <edge id="73" source="twine" target="twirl" weight="0.213483" />
+      <edge id="74" source="twofold" target="twinkle" weight="0.020408" />
+      <edge id="75" source="twofold" target="twinkling" weight="0.020833" />
+      <edge id="76" source="twofold" target="twill" weight="0.02" />
+      <edge id="77" source="twofold" target="twitch" weight="0.008621" />
+      <edge id="78" source="twinkle" target="twinge" weight="0.012658" />
+      <edge id="79" source="twinkle" target="twisted" weight="0.005181" />
+      <edge id="80" source="twinkle" target="twinkling" weight="0.711111" />
+      <edge id="81" source="twinkle" target="twitch" weight="0.124031" />
+      <edge id="82" source="twinkle" target="twang" weight="0.008" />
+      <edge id="83" source="tweet" target="twirl" weight="0.010989" />
+      <edge id="84" source="tweet" target="twitch" weight="0.007042" />
+      <edge id="85" source="tweet" target="twang" weight="0.087719" />
+      <edge id="86" source="twisted" target="twisting" weight="0.035088" />
+      <edge id="87" source="twisted" target="twinge" weight="0.005128" />
+      <edge id="88" source="twisted" target="twinkling" weight="0.005208" />
+      <edge id="89" source="twisted" target="twopenny" weight="0.005435" />
+      <edge id="90" source="twisted" target="twitch" weight="0.003846" />
+      <edge id="91" source="twitching" target="twitchy" weight="0.173077" />
+      <edge id="92" source="twitching" target="twitch" weight="0.006849" />
+      <edge id="93" source="twister" target="twirl" weight="0.016129" />
+      <edge id="94" source="twang" target="twinkling" weight="0.008065" />
+      <edge id="95" source="twang" target="twill" weight="0.007937" />
+      <edge id="96" source="twang" target="twitch" weight="0.037634" />
+      <edge id="97" source="twitchy" target="twangy" weight="0.031579" />
+      <edge id="98" source="twinge" target="twirl" weight="0.010526" />
+      <edge id="99" source="twill" target="twisting" weight="0.016807" />
+      <edge id="100" source="twill" target="twirl" weight="0.021505" />
+      <edge id="101" source="twangy" target="twiggy" weight="0.009259" />
+      <edge id="102" source="twisting" target="twirl" weight="0.014925" />
+      <edge id="103" source="twirl" target="twitch" weight="0.012579" />
+    </edges>
+  </graph>
+</gexf>

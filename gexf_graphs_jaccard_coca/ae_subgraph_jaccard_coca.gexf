@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="aeromedicine" label="aeromedicine" />
+      <node id="aerial" label="aerial" />
+      <node id="aerate" label="aerate">
+        <attvalues>
+          <attvalue for="0" value="1.73239375982" />
+        </attvalues>
+      </node>
+      <node id="aerialist" label="aerialist" />
+      <node id="aerodynamics" label="aerodynamics" />
+      <node id="aeronaut" label="aeronaut">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="aerography" label="aerography" />
+      <node id="aegis" label="aegis">
+        <attvalues>
+          <attvalue for="0" value="2.70926996098" />
+        </attvalues>
+      </node>
+      <node id="aerospace" label="aerospace">
+        <attvalues>
+          <attvalue for="0" value="3.30642502755" />
+        </attvalues>
+      </node>
+      <node id="aeromechanics" label="aeromechanics">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="aerology" label="aerology" />
+      <node id="aerodynamic" label="aerodynamic">
+        <attvalues>
+          <attvalue for="0" value="2.77597433113" />
+        </attvalues>
+      </node>
+      <node id="aerosphere" label="aerosphere">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="aerostatics" label="aerostatics">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="aerosol" label="aerosol" />
+      <node id="aery" label="aery">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="aeromedicine" target="aeromechanics" weight="0.75" />
+      <edge id="1" source="aeromedicine" target="aerostatics" weight="0.8" />
+      <edge id="2" source="aerial" target="aerodynamic" weight="0.3125" />
+      <edge id="3" source="aerial" target="aerosphere" weight="0.014286" />
+      <edge id="4" source="aerial" target="aerospace" weight="0.015152" />
+      <edge id="5" source="aerial" target="aery" weight="0.416667" />
+      <edge id="6" source="aerial" target="aerate" weight="0.011364" />
+      <edge id="7" source="aerate" target="aerodynamics" weight="0.016393" />
+      <edge id="8" source="aerate" target="aerosol" weight="0.019231" />
+      <edge id="9" source="aerialist" target="aeronaut" weight="0.090909" />
+      <edge id="10" source="aerodynamics" target="aeromechanics" weight="0.521739" />
+      <edge id="11" source="aerodynamics" target="aerosphere" weight="0.023256" />
+      <edge id="12" source="aerodynamics" target="aerostatics" weight="0.545455" />
+      <edge id="13" source="aeronaut" target="aegis" weight="0.016949" />
+      <edge id="14" source="aerography" target="aeromechanics" weight="0.666667" />
+      <edge id="15" source="aerography" target="aerostatics" weight="0.705882" />
+      <edge id="16" source="aerospace" target="aerodynamic" weight="0.028571" />
+      <edge id="17" source="aerospace" target="aerosphere" weight="0.62963" />
+      <edge id="18" source="aerospace" target="aery" weight="0.025" />
+      <edge id="19" source="aeromechanics" target="aerology" weight="0.666667" />
+      <edge id="20" source="aeromechanics" target="aerostatics" weight="0.705882" />
+      <edge id="21" source="aerology" target="aerostatics" weight="0.705882" />
+      <edge id="22" source="aerodynamic" target="aery" weight="0.681818" />
+    </edges>
+  </graph>
+</gexf>

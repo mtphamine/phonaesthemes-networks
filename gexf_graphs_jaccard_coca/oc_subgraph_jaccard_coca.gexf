@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="occult" label="occult">
+        <attvalues>
+          <attvalue for="0" value="2.74429298312" />
+        </attvalues>
+      </node>
+      <node id="occurrence" label="occurrence">
+        <attvalues>
+          <attvalue for="0" value="3.47129171106" />
+        </attvalues>
+      </node>
+      <node id="ocarina" label="ocarina">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="occlusion" label="occlusion">
+        <attvalues>
+          <attvalue for="0" value="2.44560420327" />
+        </attvalues>
+      </node>
+      <node id="octagonal" label="octagonal">
+        <attvalues>
+          <attvalue for="0" value="2.41830129132" />
+        </attvalues>
+      </node>
+      <node id="octet" label="octet">
+        <attvalues>
+          <attvalue for="0" value="1.63346845558" />
+        </attvalues>
+      </node>
+      <node id="occupancy" label="occupancy">
+        <attvalues>
+          <attvalue for="0" value="3.07918124605" />
+        </attvalues>
+      </node>
+      <node id="ocean" label="ocean" />
+      <node id="occasional" label="occasional">
+        <attvalues>
+          <attvalue for="0" value="3.94762974738" />
+        </attvalues>
+      </node>
+      <node id="occupy" label="occupy" />
+      <node id="occultation" label="occultation" />
+      <node id="occlusive" label="occlusive">
+        <attvalues>
+          <attvalue for="0" value="1.49136169383" />
+        </attvalues>
+      </node>
+      <node id="octave" label="octave" />
+      <node id="occasion" label="occasion" />
+      <node id="occupied" label="occupied" />
+      <node id="occur" label="occur" />
+      <node id="occlude" label="occlude">
+        <attvalues>
+          <attvalue for="0" value="1.69019608003" />
+        </attvalues>
+      </node>
+      <node id="occupation" label="occupation">
+        <attvalues>
+          <attvalue for="0" value="3.88530466759" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="occult" target="occupy" weight="0.008475" />
+      <edge id="1" source="occult" target="occultation" weight="0.005917" />
+      <edge id="2" source="occult" target="occlude" weight="0.016949" />
+      <edge id="3" source="occult" target="occlusive" weight="0.009479" />
+      <edge id="4" source="occult" target="ocean" weight="0.00625" />
+      <edge id="5" source="occurrence" target="occasional" weight="0.009901" />
+      <edge id="6" source="occurrence" target="occasion" weight="0.141732" />
+      <edge id="7" source="occurrence" target="occur" weight="0.0125" />
+      <edge id="8" source="occurrence" target="occupation" weight="0.012048" />
+      <edge id="9" source="ocarina" target="octave" weight="0.065574" />
+      <edge id="10" source="occlusion" target="occupy" weight="0.006667" />
+      <edge id="11" source="occlusion" target="occlude" weight="0.021978" />
+      <edge id="12" source="octagonal" target="octave" weight="0.019608" />
+      <edge id="13" source="octet" target="octave" weight="0.231707" />
+      <edge id="14" source="octet" target="occupation" weight="0.006211" />
+      <edge id="15" source="occupancy" target="occupy" weight="0.015504" />
+      <edge id="16" source="occupancy" target="occur" weight="0.018182" />
+      <edge id="17" source="occupancy" target="occupation" weight="0.265487" />
+      <edge id="18" source="occasional" target="occasion" weight="0.015038" />
+      <edge id="19" source="occasional" target="occultation" weight="0.012987" />
+      <edge id="20" source="occasional" target="occupation" weight="0.006369" />
+      <edge id="21" source="occupy" target="occlude" weight="0.014286" />
+      <edge id="22" source="occupy" target="occupation" weight="0.029126" />
+      <edge id="23" source="occlusive" target="occlude" weight="0.008621" />
+      <edge id="24" source="octave" target="occupation" weight="0.006173" />
+      <edge id="25" source="occasion" target="occupation" weight="0.020305" />
+      <edge id="26" source="occupied" target="occupation" weight="0.007752" />
+      <edge id="27" source="occur" target="occupation" weight="0.007353" />
+    </edges>
+  </graph>
+</gexf>

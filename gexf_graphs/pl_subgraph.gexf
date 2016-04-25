@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="planning" label="planning" />
+      <node id="playactor" label="playactor" />
+      <node id="plight" label="plight" />
+      <node id="plodding" label="plodding" />
+      <node id="planter" label="planter" />
+      <node id="plumb" label="plumb" />
+      <node id="plantation" label="plantation" />
+      <node id="platform" label="platform" />
+      <node id="planted" label="planted" />
+      <node id="plateau" label="plateau" />
+      <node id="plaited" label="plaited" />
+      <node id="pledget" label="pledget" />
+      <node id="plaintive" label="plaintive" />
+      <node id="plump" label="plump" />
+      <node id="plate" label="plate" />
+      <node id="playa" label="playa" />
+      <node id="plaster" label="plaster" />
+      <node id="plundering" label="plundering" />
+      <node id="plunk" label="plunk" />
+      <node id="plummet" label="plummet" />
+      <node id="pledge" label="pledge" />
+      <node id="pleat" label="pleat" />
+      <node id="plating" label="plating" />
+      <node id="pleach" label="pleach" />
+      <node id="plowman" label="plowman" />
+      <node id="plasticity" label="plasticity" />
+      <node id="plummeting" label="plummeting" />
+      <node id="playground" label="playground" />
+      <node id="pleading" label="pleading" />
+      <node id="pleasantness" label="pleasantness" />
+      <node id="plural" label="plural" />
+      <node id="plotting" label="plotting" />
+      <node id="plenteous" label="plenteous" />
+      <node id="ply" label="ply" />
+      <node id="pleasant" label="pleasant" />
+      <node id="pluck" label="pluck" />
+      <node id="plea" label="plea" />
+      <node id="plunger" label="plunger" />
+      <node id="plug" label="plug" />
+      <node id="plywood" label="plywood" />
+      <node id="playroom" label="playroom" />
+      <node id="placard" label="placard" />
+      <node id="plaza" label="plaza" />
+      <node id="plunging" label="plunging" />
+      <node id="place" label="place" />
+      <node id="planned" label="planned" />
+      <node id="plotted" label="plotted" />
+      <node id="plethora" label="plethora" />
+      <node id="pliant" label="pliant" />
+      <node id="pleasantry" label="pleasantry" />
+      <node id="plot" label="plot" />
+      <node id="plow" label="plow" />
+      <node id="plop" label="plop" />
+      <node id="ploy" label="ploy" />
+      <node id="plastic" label="plastic" />
+      <node id="plentiful" label="plentiful" />
+      <node id="plod" label="plod" />
+      <node id="plunge" label="plunge" />
+      <node id="plebeian" label="plebeian" />
+      <node id="plenitude" label="plenitude" />
+      <node id="plant" label="plant" />
+      <node id="plague" label="plague" />
+      <node id="pleasing" label="pleasing" />
+      <node id="plain" label="plain" />
+      <node id="plicate" label="plicate" />
+      <node id="placed" label="placed" />
+      <node id="plait" label="plait" />
+      <node id="plagiarist" label="plagiarist" />
+      <node id="pleasurable" label="pleasurable" />
+      <node id="pleasance" label="pleasance" />
+      <node id="planking" label="planking" />
+      <node id="pleated" label="pleated" />
+      <node id="player" label="player" />
+      <node id="plangent" label="plangent" />
+      <node id="pluralistic" label="pluralistic" />
+      <node id="planting" label="planting" />
+      <node id="pliability" label="pliability" />
+      <node id="play" label="play" />
+      <node id="plugging" label="plugging" />
+      <node id="plat" label="plat" />
+      <node id="plunder" label="plunder" />
+      <node id="plane" label="plane" />
+      <node id="plan" label="plan" />
+      <node id="plenty" label="plenty" />
+      <node id="plank" label="plank" />
+      <node id="placement" label="placement" />
+      <node id="pliable" label="pliable" />
+      <node id="plage" label="plage" />
+      <node id="playboy" label="playboy" />
+      <node id="plumbing" label="plumbing" />
+      <node id="pleasure" label="pleasure" />
+      <node id="platter" label="platter" />
+      <node id="playacting" label="playacting" />
+      <node id="playing" label="playing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="planning" target="plotting" />
+      <edge id="1" source="playactor" target="player" />
+      <edge id="2" source="playactor" target="plagiarist" />
+      <edge id="3" source="plight" target="place" />
+      <edge id="4" source="plight" target="pledge" />
+      <edge id="5" source="plodding" target="plugging" />
+      <edge id="6" source="planter" target="plowman" />
+      <edge id="7" source="plumb" target="plummet" />
+      <edge id="8" source="plumb" target="plop" />
+      <edge id="9" source="plumb" target="plunk" />
+      <edge id="10" source="plumb" target="plunging" />
+      <edge id="11" source="plumb" target="plain" />
+      <edge id="12" source="plumb" target="plump" />
+      <edge id="13" source="plantation" target="planting" />
+      <edge id="14" source="platform" target="plain" />
+      <edge id="15" source="platform" target="plane" />
+      <edge id="16" source="platform" target="place" />
+      <edge id="17" source="platform" target="plank" />
+      <edge id="18" source="planted" target="placed" />
+      <edge id="19" source="plateau" target="plain" />
+      <edge id="20" source="plateau" target="plane" />
+      <edge id="21" source="plateau" target="playa" />
+      <edge id="22" source="plaited" target="pleated" />
+      <edge id="23" source="plaited" target="plicate" />
+      <edge id="24" source="plaited" target="pliable" />
+      <edge id="25" source="pledget" target="plaster" />
+      <edge id="26" source="plaintive" target="plangent" />
+      <edge id="27" source="plump" target="plunge" />
+      <edge id="28" source="plump" target="plop" />
+      <edge id="29" source="plump" target="plunk" />
+      <edge id="30" source="plump" target="plummet" />
+      <edge id="31" source="plump" target="plank" />
+      <edge id="32" source="plate" target="plating" />
+      <edge id="33" source="plate" target="ply" />
+      <edge id="34" source="plate" target="plait" />
+      <edge id="35" source="plate" target="place" />
+      <edge id="36" source="plate" target="plywood" />
+      <edge id="37" source="plate" target="platter" />
+      <edge id="38" source="plate" target="plank" />
+      <edge id="39" source="playa" target="plage" />
+      <edge id="40" source="plaster" target="plane" />
+      <edge id="41" source="plundering" target="plunder" />
+      <edge id="42" source="plunk" target="plunge" />
+      <edge id="43" source="plunk" target="plop" />
+      <edge id="44" source="plunk" target="pluck" />
+      <edge id="45" source="plunk" target="plummet" />
+      <edge id="46" source="plunk" target="plank" />
+      <edge id="47" source="plummet" target="plunge" />
+      <edge id="48" source="plummet" target="plop" />
+      <edge id="49" source="plummet" target="plummeting" />
+      <edge id="50" source="pleat" target="plow" />
+      <edge id="51" source="pleat" target="plait" />
+      <edge id="52" source="pleat" target="plat" />
+      <edge id="53" source="pleat" target="ply" />
+      <edge id="54" source="pleat" target="plicate" />
+      <edge id="55" source="plating" target="plait" />
+      <edge id="56" source="plating" target="plywood" />
+      <edge id="57" source="plating" target="ply" />
+      <edge id="58" source="plating" target="plank" />
+      <edge id="59" source="pleach" target="plait" />
+      <edge id="60" source="plasticity" target="pliability" />
+      <edge id="61" source="plummeting" target="plunging" />
+      <edge id="62" source="plummeting" target="plunge" />
+      <edge id="63" source="playground" target="playroom" />
+      <edge id="64" source="pleading" target="plea" />
+      <edge id="65" source="pleasantness" target="pleasance" />
+      <edge id="66" source="plural" target="pluralistic" />
+      <edge id="67" source="plotting" target="plot" />
+      <edge id="68" source="plenteous" target="plenty" />
+      <edge id="69" source="ply" target="play" />
+      <edge id="70" source="ply" target="plicate" />
+      <edge id="71" source="ply" target="plat" />
+      <edge id="72" source="ply" target="plait" />
+      <edge id="73" source="ply" target="plague" />
+      <edge id="74" source="ply" target="plywood" />
+      <edge id="75" source="ply" target="plank" />
+      <edge id="76" source="pleasant" target="pleasing" />
+      <edge id="77" source="pleasant" target="pleasurable" />
+      <edge id="78" source="plunger" target="player" />
+      <edge id="79" source="plug" target="plod" />
+      <edge id="80" source="plug" target="placard" />
+      <edge id="81" source="plywood" target="planking" />
+      <edge id="82" source="plywood" target="plait" />
+      <edge id="83" source="plywood" target="plank" />
+      <edge id="84" source="plaza" target="place" />
+      <edge id="85" source="place" target="plunge" />
+      <edge id="86" source="place" target="placement" />
+      <edge id="87" source="planned" target="plotted" />
+      <edge id="88" source="plethora" target="plenty" />
+      <edge id="89" source="plethora" target="plenitude" />
+      <edge id="90" source="pliant" target="pliable" />
+      <edge id="91" source="pliant" target="plastic" />
+      <edge id="92" source="pleasantry" target="pleasance" />
+      <edge id="93" source="plot" target="plan" />
+      <edge id="94" source="plot" target="ploy" />
+      <edge id="95" source="plot" target="plat" />
+      <edge id="96" source="plop" target="plunge" />
+      <edge id="97" source="plop" target="plank" />
+      <edge id="98" source="ploy" target="play" />
+      <edge id="99" source="plastic" target="pliable" />
+      <edge id="100" source="plentiful" target="plenty" />
+      <edge id="101" source="plunge" target="play" />
+      <edge id="102" source="plebeian" target="plain" />
+      <edge id="103" source="plenitude" target="plenty" />
+      <edge id="104" source="plant" target="plumbing" />
+      <edge id="105" source="pleasing" target="pleasurable" />
+      <edge id="106" source="plain" target="plane" />
+      <edge id="107" source="plicate" target="pliable" />
+      <edge id="108" source="plicate" target="pleated" />
+      <edge id="109" source="plicate" target="plat" />
+      <edge id="110" source="plicate" target="plait" />
+      <edge id="111" source="plait" target="plat" />
+      <edge id="112" source="plait" target="plank" />
+      <edge id="113" source="pleasance" target="pleasure" />
+      <edge id="114" source="planking" target="plank" />
+      <edge id="115" source="pleated" target="pliable" />
+      <edge id="116" source="player" target="playboy" />
+      <edge id="117" source="play" target="playing" />
+      <edge id="118" source="playacting" target="playing" />
+    </edges>
+  </graph>
+</gexf>

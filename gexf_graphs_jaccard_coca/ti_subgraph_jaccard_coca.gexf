@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="tincture" label="tincture">
+        <attvalues>
+          <attvalue for="0" value="2.31175386106" />
+        </attvalues>
+      </node>
+      <node id="tidings" label="tidings" />
+      <node id="timberland" label="timberland" />
+      <node id="timber" label="timber" />
+      <node id="tisane" label="tisane">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="tirade" label="tirade" />
+      <node id="tigress" label="tigress" />
+      <node id="tinsel" label="tinsel" />
+      <node id="tire" label="tire">
+        <attvalues>
+          <attvalue for="0" value="3.75235580415" />
+        </attvalues>
+      </node>
+      <node id="title" label="title">
+        <attvalues>
+          <attvalue for="0" value="4.39642602802" />
+        </attvalues>
+      </node>
+      <node id="tinkle" label="tinkle" />
+      <node id="tickle" label="tickle">
+        <attvalues>
+          <attvalue for="0" value="2.89542254604" />
+        </attvalues>
+      </node>
+      <node id="tiara" label="tiara" />
+      <node id="tickled" label="tickled">
+        <attvalues>
+          <attvalue for="0" value="2.88817949392" />
+        </attvalues>
+      </node>
+      <node id="tizzy" label="tizzy">
+        <attvalues>
+          <attvalue for="0" value="2.08635983067" />
+        </attvalues>
+      </node>
+      <node id="tilting" label="tilting">
+        <attvalues>
+          <attvalue for="0" value="3.01870049867" />
+        </attvalues>
+      </node>
+      <node id="tiring" label="tiring">
+        <attvalues>
+          <attvalue for="0" value="2.83058866869" />
+        </attvalues>
+      </node>
+      <node id="titillate" label="titillate">
+        <attvalues>
+          <attvalue for="0" value="1.77815125038" />
+        </attvalues>
+      </node>
+      <node id="timing" label="timing">
+        <attvalues>
+          <attvalue for="0" value="3.91634865228" />
+        </attvalues>
+      </node>
+      <node id="ticket" label="ticket" />
+      <node id="tick" label="tick" />
+      <node id="ticker" label="ticker">
+        <attvalues>
+          <attvalue for="0" value="3.01994668168" />
+        </attvalues>
+      </node>
+      <node id="timely" label="timely" />
+      <node id="timepiece" label="timepiece" />
+      <node id="timeless" label="timeless" />
+      <node id="tipple" label="tipple" />
+      <node id="timbale" label="timbale" />
+      <node id="tightening" label="tightening" />
+      <node id="titleholder" label="titleholder" />
+      <node id="titled" label="titled">
+        <attvalues>
+          <attvalue for="0" value="3.6421676344" />
+        </attvalues>
+      </node>
+      <node id="tired" label="tired">
+        <attvalues>
+          <attvalue for="0" value="4.30612467074" />
+        </attvalues>
+      </node>
+      <node id="tinny" label="tinny">
+        <attvalues>
+          <attvalue for="0" value="2.56110138365" />
+        </attvalues>
+      </node>
+      <node id="tinhorn" label="tinhorn" />
+      <node id="timeliness" label="timeliness" />
+      <node id="timeworn" label="timeworn" />
+      <node id="tingle" label="tingle" />
+      <node id="tiresome" label="tiresome" />
+      <node id="timekeeper" label="timekeeper">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="tidewater" label="tidewater" />
+      <node id="tinker" label="tinker">
+        <attvalues>
+          <attvalue for="0" value="2.95856388322" />
+        </attvalues>
+      </node>
+      <node id="tidal" label="tidal" />
+      <node id="timeserver" label="timeserver">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="timbered" label="timbered">
+        <attvalues>
+          <attvalue for="0" value="2.08278537032" />
+        </attvalues>
+      </node>
+      <node id="titanic" label="titanic">
+        <attvalues>
+          <attvalue for="0" value="3.35468455395" />
+        </attvalues>
+      </node>
+      <node id="timer" label="timer" />
+      <node id="timorous" label="timorous">
+        <attvalues>
+          <attvalue for="0" value="1.77815125038" />
+        </attvalues>
+      </node>
+      <node id="tinge" label="tinge">
+        <attvalues>
+          <attvalue for="0" value="2.71600334363" />
+        </attvalues>
+      </node>
+      <node id="tightness" label="tightness">
+        <attvalues>
+          <attvalue for="0" value="2.71011736511" />
+        </attvalues>
+      </node>
+      <node id="tiddly" label="tiddly">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="tiff" label="tiff">
+        <attvalues>
+          <attvalue for="0" value="2.39967372148" />
+        </attvalues>
+      </node>
+      <node id="tipster" label="tipster">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="tingling" label="tingling">
+        <attvalues>
+          <attvalue for="0" value="2.84633711213" />
+        </attvalues>
+      </node>
+      <node id="tint" label="tint" />
+      <node id="tinkering" label="tinkering">
+        <attvalues>
+          <attvalue for="0" value="2.96848294855" />
+        </attvalues>
+      </node>
+      <node id="tiny" label="tiny">
+        <attvalues>
+          <attvalue for="0" value="4.4970679364" />
+        </attvalues>
+      </node>
+      <node id="ticklish" label="ticklish">
+        <attvalues>
+          <attvalue for="0" value="2.18184358794" />
+        </attvalues>
+      </node>
+      <node id="timetable" label="timetable" />
+      <node id="tittle" label="tittle" />
+      <node id="tireless" label="tireless">
+        <attvalues>
+          <attvalue for="0" value="2.86213137931" />
+        </attvalues>
+      </node>
+      <node id="tight" label="tight">
+        <attvalues>
+          <attvalue for="0" value="4.30116026447" />
+        </attvalues>
+      </node>
+      <node id="tined" label="tined" />
+      <node id="tiger" label="tiger">
+        <attvalues>
+          <attvalue for="0" value="3.92546680069" />
+        </attvalues>
+      </node>
+      <node id="titter" label="titter">
+        <attvalues>
+          <attvalue for="0" value="1.81291335664" />
+        </attvalues>
+      </node>
+      <node id="tithe" label="tithe">
+        <attvalues>
+          <attvalue for="0" value="2.04532297879" />
+        </attvalues>
+      </node>
+      <node id="tiptoe" label="tiptoe" />
+      <node id="tipping" label="tipping">
+        <attvalues>
+          <attvalue for="0" value="3.21192108431" />
+        </attvalues>
+      </node>
+      <node id="tidy" label="tidy">
+        <attvalues>
+          <attvalue for="0" value="3.28307497474" />
+        </attvalues>
+      </node>
+      <node id="tide" label="tide" />
+      <node id="tissue" label="tissue" />
+      <node id="tiling" label="tiling" />
+      <node id="titular" label="titular">
+        <attvalues>
+          <attvalue for="0" value="2.27415784926" />
+        </attvalues>
+      </node>
+      <node id="timecard" label="timecard" />
+      <node id="tit" label="tit" />
+      <node id="tilt" label="tilt" />
+      <node id="tip" label="tip">
+        <attvalues>
+          <attvalue for="0" value="4.15787967439" />
+        </attvalues>
+      </node>
+      <node id="tickling" label="tickling" />
+      <node id="till" label="till" />
+      <node id="tin" label="tin" />
+      <node id="tile" label="tile">
+        <attvalues>
+          <attvalue for="0" value="3.47784447634" />
+        </attvalues>
+      </node>
+      <node id="tie" label="tie">
+        <attvalues>
+          <attvalue for="0" value="4.16037848146" />
+        </attvalues>
+      </node>
+      <node id="tic" label="tic" />
+      <node id="tighten" label="tighten">
+        <attvalues>
+          <attvalue for="0" value="3.35333909531" />
+        </attvalues>
+      </node>
+      <node id="tipsy" label="tipsy" />
+      <node id="timidity" label="timidity" />
+      <node id="tied" label="tied" />
+      <node id="titivate" label="titivate" />
+      <node id="tipped" label="tipped">
+        <attvalues>
+          <attvalue for="0" value="3.44012160319" />
+        </attvalues>
+      </node>
+      <node id="tier" label="tier">
+        <attvalues>
+          <attvalue for="0" value="3.20924684875" />
+        </attvalues>
+      </node>
+      <node id="timid" label="timid">
+        <attvalues>
+          <attvalue for="0" value="3.10174707395" />
+        </attvalues>
+      </node>
+      <node id="titillating" label="titillating">
+        <attvalues>
+          <attvalue for="0" value="2.37291200297" />
+        </attvalues>
+      </node>
+      <node id="timbre" label="timbre" />
+      <node id="tinkling" label="tinkling" />
+      <node id="timekeeping" label="timekeeping">
+        <attvalues>
+          <attvalue for="0" value="1.89209460269" />
+        </attvalues>
+      </node>
+      <node id="timelessness" label="timelessness">
+        <attvalues>
+          <attvalue for="0" value="2.31386722037" />
+        </attvalues>
+      </node>
+      <node id="time" label="time" />
+    </nodes>
+    <edges>
+      <edge id="0" source="tincture" target="tiff" weight="0.005181" />
+      <edge id="1" source="tincture" target="tissue" weight="0.004049" />
+      <edge id="2" source="tincture" target="timber" weight="0.004808" />
+      <edge id="3" source="tincture" target="tingling" weight="0.004425" />
+      <edge id="4" source="tincture" target="tick" weight="0.010169" />
+      <edge id="5" source="tincture" target="tint" weight="0.331633" />
+      <edge id="6" source="tincture" target="tinsel" weight="0.018868" />
+      <edge id="7" source="tincture" target="title" weight="0.006289" />
+      <edge id="8" source="tincture" target="tilt" weight="0.011152" />
+      <edge id="9" source="tincture" target="tinkering" weight="0.006024" />
+      <edge id="10" source="tincture" target="tip" weight="0.021538" />
+      <edge id="11" source="tincture" target="tickle" weight="0.008439" />
+      <edge id="12" source="tincture" target="tingle" weight="0.004219" />
+      <edge id="13" source="tincture" target="ticklish" weight="0.004149" />
+      <edge id="14" source="tincture" target="tile" weight="0.009662" />
+      <edge id="15" source="tincture" target="tie" weight="0.02439" />
+      <edge id="16" source="tincture" target="tittle" weight="0.012146" />
+      <edge id="17" source="tincture" target="tiara" weight="0.015789" />
+      <edge id="18" source="tincture" target="tizzy" weight="0.005076" />
+      <edge id="19" source="tincture" target="tiger" weight="0.004425" />
+      <edge id="20" source="tincture" target="titivate" weight="0.045455" />
+      <edge id="21" source="tincture" target="tier" weight="0.004484" />
+      <edge id="22" source="tincture" target="ticket" weight="0.00905" />
+      <edge id="23" source="tincture" target="tithe" weight="0.005376" />
+      <edge id="24" source="tincture" target="ticker" weight="0.005" />
+      <edge id="25" source="tincture" target="tiresome" weight="0.004695" />
+      <edge id="26" source="tincture" target="timeserver" weight="0.004902" />
+      <edge id="27" source="tincture" target="timbre" weight="0.01875" />
+      <edge id="28" source="tincture" target="tiptoe" weight="0.005128" />
+      <edge id="29" source="tincture" target="tipple" weight="0.011364" />
+      <edge id="30" source="tincture" target="time" weight="0.004098" />
+      <edge id="31" source="tincture" target="tightening" weight="0.005319" />
+      <edge id="32" source="tincture" target="tinge" weight="0.508021" />
+      <edge id="33" source="tidings" target="tipster" weight="0.040816" />
+      <edge id="34" source="tidings" target="tip" weight="0.005376" />
+      <edge id="35" source="timberland" target="timbered" weight="0.076923" />
+      <edge id="36" source="timberland" target="title" weight="0.005495" />
+      <edge id="37" source="timber" target="timbered" weight="0.033333" />
+      <edge id="38" source="timber" target="title" weight="0.00463" />
+      <edge id="39" source="timber" target="tiff" weight="0.011111" />
+      <edge id="40" source="timber" target="tip" weight="0.004386" />
+      <edge id="41" source="timber" target="tile" weight="0.081633" />
+      <edge id="42" source="timber" target="ticker" weight="0.010309" />
+      <edge id="43" source="tisane" target="titleholder" weight="0.04" />
+      <edge id="44" source="tirade" target="timing" weight="0.00578" />
+      <edge id="45" source="tirade" target="tip" weight="0.004032" />
+      <edge id="46" source="tirade" target="title" weight="0.004237" />
+      <edge id="47" source="tigress" target="tiger" weight="0.4" />
+      <edge id="48" source="tigress" target="titillating" weight="0.008547" />
+      <edge id="49" source="tigress" target="tip" weight="0.004219" />
+      <edge id="50" source="tigress" target="titanic" weight="0.009901" />
+      <edge id="51" source="tigress" target="ticklish" weight="0.006803" />
+      <edge id="52" source="tinsel" target="tizzy" weight="0.012987" />
+      <edge id="53" source="tinsel" target="titular" weight="0.008403" />
+      <edge id="54" source="tinsel" target="tiff" weight="0.006623" />
+      <edge id="55" source="tinsel" target="tinny" weight="0.024691" />
+      <edge id="56" source="tinsel" target="tile" weight="0.006024" />
+      <edge id="57" source="tinsel" target="tire" weight="0.005618" />
+      <edge id="58" source="tinsel" target="tinge" weight="0.016949" />
+      <edge id="59" source="tire" target="tiling" weight="0.010204" />
+      <edge id="60" source="tire" target="tier" weight="0.015267" />
+      <edge id="61" source="tire" target="till" weight="0.008696" />
+      <edge id="62" source="tire" target="tilt" weight="0.005556" />
+      <edge id="63" source="tire" target="tired" weight="0.017699" />
+      <edge id="64" source="tire" target="tip" weight="0.004167" />
+      <edge id="65" source="tire" target="titivate" weight="0.035714" />
+      <edge id="66" source="tire" target="timing" weight="0.006061" />
+      <edge id="67" source="tire" target="tipple" weight="0.011628" />
+      <edge id="68" source="tire" target="tinker" weight="0.009901" />
+      <edge id="69" source="tire" target="tingle" weight="0.006849" />
+      <edge id="70" source="tire" target="timbale" weight="0.012821" />
+      <edge id="71" source="tire" target="time" weight="0.006536" />
+      <edge id="72" source="tire" target="tile" weight="0.017241" />
+      <edge id="73" source="tire" target="tie" weight="0.012308" />
+      <edge id="74" source="tire" target="tittle" weight="0.006329" />
+      <edge id="75" source="tire" target="tick" weight="0.009756" />
+      <edge id="76" source="title" target="tightness" weight="0.009524" />
+      <edge id="77" source="title" target="tiff" weight="0.004975" />
+      <edge id="78" source="title" target="tinny" weight="0.004651" />
+      <edge id="79" source="title" target="tide" weight="0.014493" />
+      <edge id="80" source="title" target="tissue" weight="0.007874" />
+      <edge id="81" source="title" target="tipster" weight="0.004926" />
+      <edge id="82" source="title" target="tint" weight="0.003731" />
+      <edge id="83" source="title" target="titular" weight="0.005917" />
+      <edge id="84" source="title" target="tight" weight="0.006006" />
+      <edge id="85" source="title" target="tilt" weight="0.007194" />
+      <edge id="86" source="title" target="tip" weight="0.014925" />
+      <edge id="87" source="title" target="tickle" weight="0.004065" />
+      <edge id="88" source="title" target="till" weight="0.004673" />
+      <edge id="89" source="title" target="timing" weight="0.003788" />
+      <edge id="90" source="title" target="titillate" weight="0.004739" />
+      <edge id="91" source="title" target="tiresome" weight="0.004525" />
+      <edge id="92" source="title" target="tic" weight="0.013333" />
+      <edge id="93" source="title" target="tighten" weight="0.013761" />
+      <edge id="94" source="title" target="tithe" weight="0.005155" />
+      <edge id="95" source="title" target="time" weight="0.007968" />
+      <edge id="96" source="title" target="tied" weight="0.004255" />
+      <edge id="97" source="title" target="titivate" weight="0.004673" />
+      <edge id="98" source="title" target="tie" weight="0.009434" />
+      <edge id="99" source="title" target="tier" weight="0.035714" />
+      <edge id="100" source="title" target="ticket" weight="0.022124" />
+      <edge id="101" source="title" target="tick" weight="0.016611" />
+      <edge id="102" source="title" target="timely" weight="0.004878" />
+      <edge id="103" source="title" target="timeworn" weight="0.009091" />
+      <edge id="104" source="title" target="timeliness" weight="0.005682" />
+      <edge id="105" source="title" target="tinge" weight="0.00346" />
+      <edge id="106" source="tinkle" target="tickle" weight="0.03252" />
+      <edge id="107" source="tinkle" target="tingling" weight="0.210526" />
+      <edge id="108" source="tinkle" target="tithe" weight="0.013514" />
+      <edge id="109" source="tinkle" target="tip" weight="0.018519" />
+      <edge id="110" source="tinkle" target="tie" weight="0.003257" />
+      <edge id="111" source="tickle" target="tingling" weight="0.019868" />
+      <edge id="112" source="tickle" target="tilt" weight="0.031088" />
+      <edge id="113" source="tickle" target="titillating" weight="0.007246" />
+      <edge id="114" source="tickle" target="tint" weight="0.010753" />
+      <edge id="115" source="tickle" target="tiff" weight="0.016807" />
+      <edge id="116" source="tickle" target="tip" weight="0.070248" />
+      <edge id="117" source="tickle" target="tie" weight="0.005797" />
+      <edge id="118" source="tickle" target="tinker" weight="0.008403" />
+      <edge id="119" source="tickle" target="tingle" weight="0.018519" />
+      <edge id="120" source="tickle" target="ticklish" weight="0.005952" />
+      <edge id="121" source="tickle" target="titillate" weight="0.559524" />
+      <edge id="122" source="tickle" target="tittle" weight="0.011429" />
+      <edge id="123" source="tickle" target="tick" weight="0.0181" />
+      <edge id="124" source="tickle" target="tinge" weight="0.009662" />
+      <edge id="125" source="tickle" target="tiara" weight="0.008403" />
+      <edge id="126" source="tiara" target="tingling" weight="0.009346" />
+      <edge id="127" source="tiara" target="tip" weight="0.004717" />
+      <edge id="128" source="tiara" target="tier" weight="0.009615" />
+      <edge id="129" source="tiara" target="tie" weight="0.013468" />
+      <edge id="130" source="tiara" target="tile" weight="0.011236" />
+      <edge id="131" source="tiara" target="titillate" weight="0.011905" />
+      <edge id="132" source="tickled" target="tingling" weight="0.032967" />
+      <edge id="133" source="tizzy" target="timidity" weight="0.040816" />
+      <edge id="134" source="tizzy" target="tiff" weight="0.052632" />
+      <edge id="135" source="tizzy" target="tissue" weight="0.007519" />
+      <edge id="136" source="tizzy" target="tinker" weight="0.012821" />
+      <edge id="137" source="tizzy" target="tingle" weight="0.016393" />
+      <edge id="138" source="tizzy" target="titter" weight="0.015625" />
+      <edge id="139" source="tizzy" target="tic" weight="0.019231" />
+      <edge id="140" source="tilting" target="tiddly" weight="0.021739" />
+      <edge id="141" source="tilting" target="tipsy" weight="0.354167" />
+      <edge id="142" source="tilting" target="tilt" weight="0.014925" />
+      <edge id="143" source="tilting" target="tip" weight="0.010309" />
+      <edge id="144" source="tilting" target="tight" weight="0.005263" />
+      <edge id="145" source="tilting" target="titivate" weight="0.014286" />
+      <edge id="146" source="tilting" target="tipped" weight="0.826087" />
+      <edge id="147" source="tilting" target="tipping" weight="0.809524" />
+      <edge id="148" source="tilting" target="tinge" weight="0.006897" />
+      <edge id="149" source="tiring" target="tiresome" weight="0.254237" />
+      <edge id="150" source="tiring" target="timid" weight="0.014493" />
+      <edge id="151" source="tiring" target="ticklish" weight="0.009901" />
+      <edge id="152" source="titillate" target="tingling" weight="0.017094" />
+      <edge id="153" source="titillate" target="tiff" weight="0.011765" />
+      <edge id="154" source="titillate" target="tip" weight="0.004484" />
+      <edge id="155" source="titillate" target="tickling" weight="0.01" />
+      <edge id="156" source="titillate" target="tingle" weight="0.015625" />
+      <edge id="157" source="titillate" target="tie" weight="0.003215" />
+      <edge id="158" source="timing" target="tightness" weight="0.006757" />
+      <edge id="159" source="timing" target="titivate" weight="0.006623" />
+      <edge id="160" source="timing" target="tissue" weight="0.010471" />
+      <edge id="161" source="timing" target="time" weight="0.049724" />
+      <edge id="162" source="timing" target="tie" weight="0.01108" />
+      <edge id="163" source="timing" target="ticket" weight="0.005988" />
+      <edge id="164" source="timing" target="tick" weight="0.004132" />
+      <edge id="165" source="ticket" target="tinge" weight="0.005208" />
+      <edge id="166" source="ticket" target="tip" weight="0.008299" />
+      <edge id="167" source="ticket" target="tipster" weight="0.019048" />
+      <edge id="168" source="ticket" target="tile" weight="0.008403" />
+      <edge id="169" source="ticket" target="tie" weight="0.006079" />
+      <edge id="170" source="ticket" target="ticker" weight="0.009009" />
+      <edge id="171" source="tick" target="tingling" weight="0.014286" />
+      <edge id="172" source="tick" target="tier" weight="0.014493" />
+      <edge id="173" source="tick" target="tight" weight="0.003205" />
+      <edge id="174" source="tick" target="tip" weight="0.019231" />
+      <edge id="175" source="tick" target="tiny" weight="0.005952" />
+      <edge id="176" source="tick" target="tinker" weight="0.011299" />
+      <edge id="177" source="tick" target="tile" weight="0.005155" />
+      <edge id="178" source="tick" target="tie" weight="0.00495" />
+      <edge id="179" source="tick" target="tinge" weight="0.015152" />
+      <edge id="180" source="ticker" target="timepiece" weight="0.108696" />
+      <edge id="181" source="ticker" target="tint" weight="0.006711" />
+      <edge id="182" source="ticker" target="timer" weight="0.102041" />
+      <edge id="183" source="ticker" target="timekeeper" weight="0.076923" />
+      <edge id="184" source="ticker" target="time" weight="0.015152" />
+      <edge id="185" source="ticker" target="tile" weight="0.020833" />
+      <edge id="186" source="ticker" target="tie" weight="0.003247" />
+      <edge id="187" source="ticker" target="tinge" weight="0.005882" />
+      <edge id="188" source="timely" target="tie" weight="0.003279" />
+      <edge id="189" source="timely" target="tinge" weight="0.005988" />
+      <edge id="190" source="timely" target="tidy" weight="0.009524" />
+      <edge id="191" source="timely" target="tiddly" weight="0.014706" />
+      <edge id="192" source="timepiece" target="timekeeper" weight="0.192308" />
+      <edge id="193" source="timeless" target="tight" weight="0.008696" />
+      <edge id="194" source="timeless" target="tireless" weight="0.052632" />
+      <edge id="195" source="timeless" target="tiddly" weight="0.011494" />
+      <edge id="196" source="timeless" target="titanic" weight="0.020202" />
+      <edge id="197" source="tipple" target="tighten" weight="0.025974" />
+      <edge id="198" source="tipple" target="timeserver" weight="0.014286" />
+      <edge id="199" source="tipple" target="tie" weight="0.003509" />
+      <edge id="200" source="tipple" target="tinge" weight="0.013699" />
+      <edge id="201" source="timbale" target="tinker" weight="0.02" />
+      <edge id="202" source="tightening" target="tipster" weight="0.013889" />
+      <edge id="203" source="tightening" target="tighten" weight="0.071429" />
+      <edge id="204" source="titled" target="tingling" weight="0.011494" />
+      <edge id="205" source="titled" target="tight" weight="0.005348" />
+      <edge id="206" source="titled" target="tiptoe" weight="0.017857" />
+      <edge id="207" source="tired" target="tinny" weight="0.009901" />
+      <edge id="208" source="tired" target="timorous" weight="0.01087" />
+      <edge id="209" source="tired" target="timeworn" weight="0.08" />
+      <edge id="210" source="tired" target="tiresome" weight="0.009346" />
+      <edge id="211" source="tired" target="timid" weight="0.009709" />
+      <edge id="212" source="tinny" target="tight" weight="0.013636" />
+      <edge id="213" source="tinny" target="timeworn" weight="0.009174" />
+      <edge id="214" source="tinny" target="tinhorn" weight="0.013158" />
+      <edge id="215" source="tinny" target="tin" weight="0.168142" />
+      <edge id="216" source="tinny" target="ticklish" weight="0.022222" />
+      <edge id="217" source="tinny" target="tie" weight="0.003175" />
+      <edge id="218" source="tinny" target="tiresome" weight="0.009174" />
+      <edge id="219" source="tinny" target="tinge" weight="0.00565" />
+      <edge id="220" source="tinhorn" target="tipster" weight="0.25" />
+      <edge id="221" source="tinhorn" target="tight" weight="0.005128" />
+      <edge id="222" source="tinhorn" target="tiny" weight="0.04" />
+      <edge id="223" source="timeworn" target="tighten" weight="0.008772" />
+      <edge id="224" source="timeworn" target="timorous" weight="0.020202" />
+      <edge id="225" source="timeworn" target="tight" weight="0.004386" />
+      <edge id="226" source="timeworn" target="ticklish" weight="0.014085" />
+      <edge id="227" source="timeworn" target="timid" weight="0.018182" />
+      <edge id="228" source="tingle" target="tingling" weight="0.366071" />
+      <edge id="229" source="tingle" target="tip" weight="0.011765" />
+      <edge id="230" source="tingle" target="tidy" weight="0.006897" />
+      <edge id="231" source="tingle" target="tight" weight="0.003968" />
+      <edge id="232" source="tingle" target="tie" weight="0.005814" />
+      <edge id="233" source="tingle" target="tile" weight="0.007463" />
+      <edge id="234" source="tingle" target="titter" weight="0.009615" />
+      <edge id="235" source="tingle" target="tithe" weight="0.018018" />
+      <edge id="236" source="tiresome" target="titillating" weight="0.017857" />
+      <edge id="237" source="tiresome" target="ticklish" weight="0.006993" />
+      <edge id="238" source="tiresome" target="timid" weight="0.009009" />
+      <edge id="239" source="timekeeper" target="till" weight="0.013333" />
+      <edge id="240" source="timekeeper" target="timer" weight="0.307692" />
+      <edge id="241" source="timekeeper" target="timecard" weight="0.028571" />
+      <edge id="242" source="timekeeper" target="time" weight="0.017857" />
+      <edge id="243" source="timekeeper" target="timetable" weight="0.025" />
+      <edge id="244" source="tidewater" target="tile" weight="0.0125" />
+      <edge id="245" source="tidewater" target="tiger" weight="0.010204" />
+      <edge id="246" source="tidewater" target="tip" weight="0.004926" />
+      <edge id="247" source="tidewater" target="tier" weight="0.010526" />
+      <edge id="248" source="tinker" target="tighten" weight="0.010753" />
+      <edge id="249" source="tinker" target="tint" weight="0.007092" />
+      <edge id="250" source="tinker" target="tip" weight="0.004717" />
+      <edge id="251" source="tinker" target="time" weight="0.008" />
+      <edge id="252" source="tinker" target="tittle" weight="0.007692" />
+      <edge id="253" source="tidal" target="tiddly" weight="0.020833" />
+      <edge id="254" source="timeserver" target="tipster" weight="0.011364" />
+      <edge id="255" source="timeserver" target="tiptoe" weight="0.011364" />
+      <edge id="256" source="titanic" target="tiger" weight="0.009091" />
+      <edge id="257" source="titanic" target="tidy" weight="0.019608" />
+      <edge id="258" source="timorous" target="tilt" weight="0.006329" />
+      <edge id="259" source="timorous" target="timidity" weight="0.019608" />
+      <edge id="260" source="timorous" target="ticklish" weight="0.032" />
+      <edge id="261" source="timorous" target="timid" weight="0.763636" />
+      <edge id="262" source="tinge" target="tide" weight="0.005848" />
+      <edge id="263" source="tinge" target="tint" weight="0.391566" />
+      <edge id="264" source="tinge" target="tilt" weight="0.021097" />
+      <edge id="265" source="tinge" target="tinkering" weight="0.007353" />
+      <edge id="266" source="tinge" target="tip" weight="0.023729" />
+      <edge id="267" source="tinge" target="till" weight="0.005682" />
+      <edge id="268" source="tinge" target="tin" weight="0.004878" />
+      <edge id="269" source="tinge" target="ticklish" weight="0.004739" />
+      <edge id="270" source="tinge" target="tile" weight="0.011299" />
+      <edge id="271" source="tinge" target="tie" weight="0.010363" />
+      <edge id="272" source="tinge" target="tittle" weight="0.013825" />
+      <edge id="273" source="tinge" target="tipsy" weight="0.005882" />
+      <edge id="274" source="tinge" target="titivate" weight="0.047337" />
+      <edge id="275" source="tinge" target="tipped" weight="0.006803" />
+      <edge id="276" source="tinge" target="timbre" weight="0.023077" />
+      <edge id="277" source="tinge" target="tiptoe" weight="0.006061" />
+      <edge id="278" source="tinge" target="time" weight="0.004673" />
+      <edge id="279" source="tinge" target="tipping" weight="0.006993" />
+      <edge id="280" source="tightness" target="tie" weight="0.006452" />
+      <edge id="281" source="tightness" target="tittle" weight="0.007092" />
+      <edge id="282" source="tiddly" target="tipsy" weight="0.531915" />
+      <edge id="283" source="tiddly" target="tight" weight="0.015385" />
+      <edge id="284" source="tiddly" target="tipped" weight="0.020833" />
+      <edge id="285" source="tiddly" target="tipping" weight="0.022727" />
+      <edge id="286" source="tiff" target="tilt" weight="0.047619" />
+      <edge id="287" source="tiff" target="tissue" weight="0.007752" />
+      <edge id="288" source="tiff" target="tier" weight="0.009524" />
+      <edge id="289" source="tipster" target="tighten" weight="0.010417" />
+      <edge id="290" source="tingling" target="tide" weight="0.008621" />
+      <edge id="291" source="tingling" target="tie" weight="0.002994" />
+      <edge id="292" source="tingling" target="tilt" weight="0.005376" />
+      <edge id="293" source="tingling" target="tip" weight="0.012295" />
+      <edge id="294" source="tingling" target="tidy" weight="0.007463" />
+      <edge id="295" source="tingling" target="tinkling" weight="0.291667" />
+      <edge id="296" source="tingling" target="tight" weight="0.008333" />
+      <edge id="297" source="tingling" target="ticklish" weight="0.019481" />
+      <edge id="298" source="tingling" target="tier" weight="0.007246" />
+      <edge id="299" source="tingling" target="tiptoe" weight="0.009091" />
+      <edge id="300" source="tingling" target="tithe" weight="0.02" />
+      <edge id="301" source="tingling" target="tic" weight="0.030534" />
+      <edge id="302" source="tint" target="tighten" weight="0.006211" />
+      <edge id="303" source="tint" target="tip" weight="0.01444" />
+      <edge id="304" source="tint" target="tier" weight="0.005814" />
+      <edge id="305" source="tint" target="tile" weight="0.012821" />
+      <edge id="306" source="tint" target="tie" weight="0.008197" />
+      <edge id="307" source="tinkering" target="tiny" weight="0.027027" />
+      <edge id="308" source="tiny" target="titular" weight="0.03125" />
+      <edge id="309" source="tiny" target="tight" weight="0.010204" />
+      <edge id="310" source="tiny" target="tit" weight="0.035714" />
+      <edge id="311" source="tiny" target="time" weight="0.008696" />
+      <edge id="312" source="tiny" target="tittle" weight="0.008333" />
+      <edge id="313" source="ticklish" target="tiger" weight="0.00641" />
+      <edge id="314" source="ticklish" target="titillating" weight="0.007092" />
+      <edge id="315" source="ticklish" target="tined" weight="0.010309" />
+      <edge id="316" source="ticklish" target="timid" weight="0.037037" />
+      <edge id="317" source="ticklish" target="tidy" weight="0.006711" />
+      <edge id="318" source="ticklish" target="tied" weight="0.006369" />
+      <edge id="319" source="ticklish" target="tight" weight="0.003906" />
+      <edge id="320" source="ticklish" target="tin" weight="0.006061" />
+      <edge id="321" source="ticklish" target="tireless" weight="0.013986" />
+      <edge id="322" source="ticklish" target="tic" weight="0.006711" />
+      <edge id="323" source="tittle" target="tighten" weight="0.006667" />
+      <edge id="324" source="tittle" target="tip" weight="0.022727" />
+      <edge id="325" source="tittle" target="tight" weight="0.003788" />
+      <edge id="326" source="tittle" target="tie" weight="0.005618" />
+      <edge id="327" source="tittle" target="tithe" weight="0.01626" />
+      <edge id="328" source="tireless" target="tight" weight="0.008772" />
+      <edge id="329" source="tight" target="tidy" weight="0.053812" />
+      <edge id="330" source="tight" target="tide" weight="0.009302" />
+      <edge id="331" source="tight" target="tilt" weight="0.003497" />
+      <edge id="332" source="tight" target="till" weight="0.009091" />
+      <edge id="333" source="tight" target="tie" weight="0.002304" />
+      <edge id="334" source="tight" target="tighten" weight="0.027027" />
+      <edge id="335" source="tight" target="tined" weight="0.005495" />
+      <edge id="336" source="tight" target="tipsy" weight="0.009346" />
+      <edge id="337" source="tight" target="tied" weight="0.038462" />
+      <edge id="338" source="tight" target="titivate" weight="0.004525" />
+      <edge id="339" source="tight" target="tipped" weight="0.005208" />
+      <edge id="340" source="tight" target="tiptoe" weight="0.004762" />
+      <edge id="341" source="tight" target="tipping" weight="0.005319" />
+      <edge id="342" source="tiger" target="tier" weight="0.007246" />
+      <edge id="343" source="tiger" target="tilt" weight="0.005376" />
+      <edge id="344" source="tiger" target="tip" weight="0.008163" />
+      <edge id="345" source="tiger" target="till" weight="0.008264" />
+      <edge id="346" source="tiger" target="tin" weight="0.006667" />
+      <edge id="347" source="tiger" target="tile" weight="0.00813" />
+      <edge id="348" source="tiger" target="tiling" weight="0.009615" />
+      <edge id="349" source="titter" target="tic" weight="0.011628" />
+      <edge id="350" source="tithe" target="tinkling" weight="0.019231" />
+      <edge id="351" source="tithe" target="tie" weight="0.003401" />
+      <edge id="352" source="tiptoe" target="tip" weight="0.004651" />
+      <edge id="353" source="tipping" target="tipsy" weight="0.369565" />
+      <edge id="354" source="tipping" target="tilt" weight="0.015152" />
+      <edge id="355" source="tipping" target="tip" weight="0.010417" />
+      <edge id="356" source="tipping" target="titivate" weight="0.014706" />
+      <edge id="357" source="tipping" target="tipped" weight="0.73913" />
+      <edge id="358" source="tidy" target="tighten" weight="0.008333" />
+      <edge id="359" source="tidy" target="tipsy" weight="0.009259" />
+      <edge id="360" source="tidy" target="titivate" weight="0.008772" />
+      <edge id="361" source="tide" target="tighten" weight="0.019802" />
+      <edge id="362" source="tide" target="tier" weight="0.017857" />
+      <edge id="363" source="tide" target="tie" weight="0.006494" />
+      <edge id="364" source="tissue" target="tie" weight="0.00565" />
+      <edge id="365" source="tiling" target="tile" weight="0.5" />
+      <edge id="366" source="tiling" target="tighten" weight="0.011111" />
+      <edge id="367" source="tiling" target="tie" weight="0.003367" />
+      <edge id="368" source="titular" target="tit" weight="0.027778" />
+      <edge id="369" source="titular" target="tin" weight="0.011765" />
+      <edge id="370" source="tit" target="tie" weight="0.003401" />
+      <edge id="371" source="tilt" target="timid" weight="0.005917" />
+      <edge id="372" source="tilt" target="tier" weight="0.010989" />
+      <edge id="373" source="tilt" target="tighten" weight="0.011696" />
+      <edge id="374" source="tilt" target="tip" weight="0.127413" />
+      <edge id="375" source="tilt" target="tipped" weight="0.014706" />
+      <edge id="376" source="tilt" target="tile" weight="0.005952" />
+      <edge id="377" source="tilt" target="tie" weight="0.007958" />
+      <edge id="378" source="tip" target="tickling" weight="0.004386" />
+      <edge id="379" source="tip" target="till" weight="0.027149" />
+      <edge id="380" source="tip" target="tighten" weight="0.008658" />
+      <edge id="381" source="tip" target="tipsy" weight="0.009132" />
+      <edge id="382" source="tip" target="titivate" weight="0.004425" />
+      <edge id="383" source="tip" target="tipped" weight="0.010204" />
+      <edge id="384" source="tip" target="tie" weight="0.004566" />
+      <edge id="385" source="tip" target="tier" weight="0.012448" />
+      <edge id="386" source="tip" target="time" weight="0.007605" />
+      <edge id="387" source="tickling" target="titillating" weight="0.847458" />
+      <edge id="388" source="till" target="tighten" weight="0.018868" />
+      <edge id="389" source="till" target="tier" weight="0.008475" />
+      <edge id="390" source="till" target="tie" weight="0.00639" />
+      <edge id="391" source="tin" target="tighten" weight="0.007353" />
+      <edge id="392" source="tin" target="tile" weight="0.007576" />
+      <edge id="393" source="tin" target="tie" weight="0.005848" />
+      <edge id="394" source="tile" target="tighten" weight="0.009174" />
+      <edge id="395" source="tile" target="tie" weight="0.006349" />
+      <edge id="396" source="tile" target="tic" weight="0.008621" />
+      <edge id="397" source="tie" target="tighten" weight="0.035484" />
+      <edge id="398" source="tie" target="tied" weight="0.012048" />
+      <edge id="399" source="tie" target="titivate" weight="0.003185" />
+      <edge id="400" source="tie" target="tier" weight="0.024691" />
+      <edge id="401" source="tie" target="tinkling" weight="0.003509" />
+      <edge id="402" source="tie" target="timelessness" weight="0.003676" />
+      <edge id="403" source="tie" target="time" weight="0.011461" />
+      <edge id="404" source="tighten" target="titivate" weight="0.018868" />
+      <edge id="405" source="tighten" target="time" weight="0.013889" />
+      <edge id="406" source="tipsy" target="tipped" weight="0.34" />
+      <edge id="407" source="timidity" target="timid" weight="0.016129" />
+      <edge id="408" source="tied" target="tier" weight="0.007194" />
+      <edge id="409" source="titivate" target="tier" weight="0.017094" />
+      <edge id="410" source="titivate" target="tipped" weight="0.013889" />
+      <edge id="411" source="tier" target="time" weight="0.019481" />
+      <edge id="412" source="timekeeping" target="time" weight="0.01087" />
+    </edges>
+  </graph>
+</gexf>

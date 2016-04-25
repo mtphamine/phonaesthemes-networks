@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="juvenile" label="juvenile" />
+      <node id="just" label="just" />
+      <node id="jurisdiction" label="jurisdiction" />
+      <node id="juncture" label="juncture" />
+      <node id="jumble" label="jumble" />
+      <node id="jubilee" label="jubilee" />
+      <node id="judiciousness" label="judiciousness" />
+      <node id="justice" label="justice" />
+      <node id="justifiable" label="justifiable" />
+      <node id="junta" label="junta" />
+      <node id="judicious" label="judicious" />
+      <node id="justified" label="justified" />
+      <node id="junction" label="junction" />
+      <node id="judiciary" label="judiciary" />
+      <node id="juxtaposed" label="juxtaposed" />
+      <node id="jubilation" label="jubilation" />
+      <node id="judge" label="judge" />
+      <node id="judgment" label="judgment" />
+      <node id="junior" label="junior" />
+      <node id="juxtapositional" label="juxtapositional" />
+      <node id="judicial" label="judicial" />
+      <node id="judicature" label="judicature" />
+      <node id="juxtaposition" label="juxtaposition" />
+      <node id="judgmental" label="judgmental" />
+      <node id="jungle" label="jungle" />
+      <node id="juridical" label="juridical" />
+    </nodes>
+    <edges>
+      <edge id="0" source="juvenile" target="junior" />
+      <edge id="1" source="just" target="judicial" />
+      <edge id="2" source="just" target="justified" />
+      <edge id="3" source="just" target="justifiable" />
+      <edge id="4" source="just" target="juridical" />
+      <edge id="5" source="jurisdiction" target="justice" />
+      <edge id="6" source="juncture" target="junction" />
+      <edge id="7" source="jumble" target="jungle" />
+      <edge id="8" source="jubilee" target="jubilation" />
+      <edge id="9" source="judiciousness" target="judgment" />
+      <edge id="10" source="justice" target="judge" />
+      <edge id="11" source="justice" target="judgment" />
+      <edge id="12" source="justice" target="judiciary" />
+      <edge id="13" source="justice" target="judicature" />
+      <edge id="14" source="justifiable" target="justified" />
+      <edge id="15" source="junta" target="junction" />
+      <edge id="16" source="judicious" target="judgmental" />
+      <edge id="17" source="judicious" target="judiciary" />
+      <edge id="18" source="judicious" target="judicial" />
+      <edge id="19" source="junction" target="juxtaposition" />
+      <edge id="20" source="junction" target="junction" />
+      <edge id="21" source="judiciary" target="judicial" />
+      <edge id="22" source="judiciary" target="judicature" />
+      <edge id="23" source="judiciary" target="judgmental" />
+      <edge id="24" source="judiciary" target="judgment" />
+      <edge id="25" source="juxtaposed" target="juxtapositional" />
+      <edge id="26" source="judgment" target="judicature" />
+      <edge id="27" source="judicial" target="judgmental" />
+      <edge id="28" source="judicial" target="juridical" />
+    </edges>
+  </graph>
+</gexf>

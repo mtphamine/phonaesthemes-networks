@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="vent" label="vent" />
+      <node id="verdure" label="verdure" />
+      <node id="verbal" label="verbal" />
+      <node id="veritable" label="veritable" />
+      <node id="veracity" label="veracity" />
+      <node id="vermin" label="vermin" />
+      <node id="ventilator" label="ventilator" />
+      <node id="vetoed" label="vetoed" />
+      <node id="vet" label="vet" />
+      <node id="ventilate" label="ventilate" />
+      <node id="verified" label="verified" />
+      <node id="veteran" label="veteran" />
+      <node id="vertebrate" label="vertebrate" />
+      <node id="verbalize" label="verbalize" />
+      <node id="venom" label="venom" />
+      <node id="vehemence" label="vehemence" />
+      <node id="vegetable" label="vegetable" />
+      <node id="verdant" label="verdant" />
+      <node id="vegetation" label="vegetation" />
+      <node id="verbatim" label="verbatim" />
+      <node id="very" label="very" />
+      <node id="vertex" label="vertex" />
+      <node id="vexing" label="vexing" />
+      <node id="veridical" label="veridical" />
+      <node id="vengeance" label="vengeance" />
+      <node id="vestment" label="vestment" />
+      <node id="verboten" label="verboten" />
+      <node id="verisimilar" label="verisimilar" />
+      <node id="veil" label="veil" />
+      <node id="venomous" label="venomous" />
+      <node id="verity" label="verity" />
+      <node id="veer" label="veer" />
+      <node id="vendetta" label="vendetta" />
+      <node id="verve" label="verve" />
+      <node id="verbosity" label="verbosity" />
+      <node id="vermicide" label="vermicide" />
+      <node id="verbiage" label="verbiage" />
+      <node id="vexatious" label="vexatious" />
+      <node id="vegetarian" label="vegetarian" />
+      <node id="vernal" label="vernal" />
+      <node id="vexation" label="vexation" />
+      <node id="vehement" label="vehement" />
+      <node id="veracious" label="veracious" />
+    </nodes>
+    <edges>
+      <edge id="0" source="vent" target="ventilator" />
+      <edge id="1" source="vent" target="ventilate" />
+      <edge id="2" source="vent" target="verbalize" />
+      <edge id="3" source="verdure" target="vegetation" />
+      <edge id="4" source="verbal" target="verisimilar" />
+      <edge id="5" source="verbal" target="verbatim" />
+      <edge id="6" source="veritable" target="very" />
+      <edge id="7" source="veritable" target="verified" />
+      <edge id="8" source="veritable" target="veracious" />
+      <edge id="9" source="veracity" target="verity" />
+      <edge id="10" source="vermin" target="vertebrate" />
+      <edge id="11" source="vetoed" target="verboten" />
+      <edge id="12" source="vet" target="veteran" />
+      <edge id="13" source="verified" target="veracious" />
+      <edge id="14" source="venom" target="vermicide" />
+      <edge id="15" source="venom" target="vehemence" />
+      <edge id="16" source="venom" target="vexation" />
+      <edge id="17" source="venom" target="vendetta" />
+      <edge id="18" source="vehemence" target="verve" />
+      <edge id="19" source="vegetable" target="vegetarian" />
+      <edge id="20" source="verdant" target="vernal" />
+      <edge id="21" source="verbatim" target="verisimilar" />
+      <edge id="22" source="vertex" target="veer" />
+      <edge id="23" source="vexing" target="vexation" />
+      <edge id="24" source="vexing" target="vexatious" />
+      <edge id="25" source="veridical" target="veracious" />
+      <edge id="26" source="vengeance" target="vendetta" />
+      <edge id="27" source="vestment" target="veil" />
+      <edge id="28" source="venomous" target="vehement" />
+      <edge id="29" source="verbosity" target="verbiage" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="gnat" label="gnat">
+        <attvalues>
+          <attvalue for="0" value="2.31597034546" />
+        </attvalues>
+      </node>
+      <node id="gnomic" label="gnomic" />
+      <node id="gnaw" label="gnaw">
+        <attvalues>
+          <attvalue for="0" value="2.33243845992" />
+        </attvalues>
+      </node>
+      <node id="gnash" label="gnash">
+        <attvalues>
+          <attvalue for="0" value="1.49136169383" />
+        </attvalues>
+      </node>
+      <node id="gnome" label="gnome">
+        <attvalues>
+          <attvalue for="0" value="2.27184160654" />
+        </attvalues>
+      </node>
+      <node id="gnawing" label="gnawing" />
+      <node id="gnarl" label="gnarl">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="gnat" target="gnome" weight="0.0125" />
+      <edge id="1" source="gnomic" target="gnaw" weight="0.00885" />
+      <edge id="2" source="gnaw" target="gnash" weight="0.149425" />
+      <edge id="3" source="gnaw" target="gnawing" weight="0.059701" />
+      <edge id="4" source="gnaw" target="gnarl" weight="0.017751" />
+      <edge id="5" source="gnash" target="gnawing" weight="0.02381" />
+      <edge id="6" source="gnash" target="gnarl" weight="0.008696" />
+      <edge id="7" source="gnome" target="gnarl" weight="0.006667" />
+      <edge id="8" source="gnawing" target="gnarl" weight="0.006369" />
+    </edges>
+  </graph>
+</gexf>

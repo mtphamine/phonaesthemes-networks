@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="terrific" label="terrific" />
+      <node id="terrorizing" label="terrorizing" />
+      <node id="teetering" label="teetering" />
+      <node id="telegram" label="telegram" />
+      <node id="tenor" label="tenor" />
+      <node id="tempter" label="tempter" />
+      <node id="telephone" label="telephone" />
+      <node id="textbook" label="textbook" />
+      <node id="tenet" label="tenet" />
+      <node id="tearful" label="tearful" />
+      <node id="temperamental" label="temperamental" />
+      <node id="terrifying" label="terrifying" />
+      <node id="tectonics" label="tectonics" />
+      <node id="tender" label="tender" />
+      <node id="teatime" label="teatime" />
+      <node id="technology" label="technology" />
+      <node id="tendency" label="tendency" />
+      <node id="termagant" label="termagant" />
+      <node id="terminal" label="terminal" />
+      <node id="tetchy" label="tetchy" />
+      <node id="terrorist" label="terrorist" />
+      <node id="testicles" label="testicles" />
+      <node id="testimonial" label="testimonial" />
+      <node id="tentative" label="tentative" />
+      <node id="temperament" label="temperament" />
+      <node id="test" label="test" />
+      <node id="temporal" label="temporal" />
+      <node id="technique" label="technique" />
+      <node id="terrible" label="terrible" />
+      <node id="texture" label="texture" />
+      <node id="textile" label="textile" />
+      <node id="tenderhearted" label="tenderhearted" />
+      <node id="terroristic" label="terroristic" />
+      <node id="teardrop" label="teardrop" />
+      <node id="telegraph" label="telegraph" />
+      <node id="text" label="text" />
+      <node id="terror" label="terror" />
+      <node id="teaching" label="teaching" />
+      <node id="territory" label="territory" />
+      <node id="tepid" label="tepid" />
+      <node id="teenager" label="teenager" />
+      <node id="terrestrial" label="terrestrial" />
+      <node id="telephonics" label="telephonics" />
+      <node id="testing" label="testing" />
+      <node id="temporary" label="temporary" />
+      <node id="testes" label="testes" />
+      <node id="telegraphy" label="telegraphy" />
+      <node id="testy" label="testy" />
+      <node id="teeter" label="teeter" />
+      <node id="testimony" label="testimony" />
+      <node id="term" label="term" />
+      <node id="tergiversate" label="tergiversate" />
+      <node id="teary" label="teary" />
+      <node id="teaser" label="teaser" />
+      <node id="tenancy" label="tenancy" />
+      <node id="tense" label="tense" />
+      <node id="teasing" label="teasing" />
+      <node id="tempt" label="tempt" />
+      <node id="tempering" label="tempering" />
+      <node id="television" label="television" />
+      <node id="teller" label="teller" />
+      <node id="temperate" label="temperate" />
+      <node id="temptress" label="temptress" />
+      <node id="terminus" label="terminus" />
+      <node id="terrorize" label="terrorize" />
+      <node id="tease" label="tease" />
+      <node id="tear" label="tear" />
+      <node id="terrain" label="terrain" />
+      <node id="telex" label="telex" />
+      <node id="terrifically" label="terrifically" />
+      <node id="terribly" label="terribly" />
+      <node id="technics" label="technics" />
+      <node id="tempting" label="tempting" />
+      <node id="tenure" label="tenure" />
+      <node id="termination" label="termination" />
+      <node id="tellurian" label="tellurian" />
+      <node id="terrify" label="terrify" />
+      <node id="tea" label="tea" />
+      <node id="temper" label="temper" />
+      <node id="teenybopper" label="teenybopper" />
+    </nodes>
+    <edges>
+      <edge id="0" source="terrific" target="terrible" />
+      <edge id="1" source="terrorizing" target="terroristic" />
+      <edge id="2" source="teetering" target="teeter" />
+      <edge id="3" source="telegram" target="telex" />
+      <edge id="4" source="telegram" target="telegraph" />
+      <edge id="5" source="tenor" target="temper" />
+      <edge id="6" source="tenor" target="tendency" />
+      <edge id="7" source="tenor" target="temperament" />
+      <edge id="8" source="tempter" target="temptress" />
+      <edge id="9" source="tempter" target="teaser" />
+      <edge id="10" source="telephone" target="telephonics" />
+      <edge id="11" source="textbook" target="text" />
+      <edge id="12" source="tenet" target="teaching" />
+      <edge id="13" source="tearful" target="teary" />
+      <edge id="14" source="temperamental" target="tetchy" />
+      <edge id="15" source="terrifying" target="terroristic" />
+      <edge id="16" source="terrifying" target="terrible" />
+      <edge id="17" source="tectonics" target="texture" />
+      <edge id="18" source="tender" target="tenderhearted" />
+      <edge id="19" source="tender" target="tetchy" />
+      <edge id="20" source="teatime" target="tea" />
+      <edge id="21" source="technology" target="technique" />
+      <edge id="22" source="technology" target="technics" />
+      <edge id="23" source="tendency" target="temper" />
+      <edge id="24" source="tendency" target="temperament" />
+      <edge id="25" source="termagant" target="terror" />
+      <edge id="26" source="termagant" target="terrorist" />
+      <edge id="27" source="terminal" target="termination" />
+      <edge id="28" source="terminal" target="term" />
+      <edge id="29" source="terminal" target="terminus" />
+      <edge id="30" source="tetchy" target="testy" />
+      <edge id="31" source="terrorist" target="terror" />
+      <edge id="32" source="testicles" target="testes" />
+      <edge id="33" source="testimonial" target="testimony" />
+      <edge id="34" source="tentative" target="test" />
+      <edge id="35" source="tentative" target="testing" />
+      <edge id="36" source="tentative" target="temporary" />
+      <edge id="37" source="temperament" target="temper" />
+      <edge id="38" source="test" target="testing" />
+      <edge id="39" source="temporal" target="terrestrial" />
+      <edge id="40" source="temporal" target="temporary" />
+      <edge id="41" source="technique" target="technics" />
+      <edge id="42" source="terrible" target="terrible" />
+      <edge id="43" source="texture" target="textile" />
+      <edge id="44" source="teardrop" target="tear" />
+      <edge id="45" source="telegraph" target="telex" />
+      <edge id="46" source="text" target="teaching" />
+      <edge id="47" source="territory" target="terrain" />
+      <edge id="48" source="tepid" target="temperate" />
+      <edge id="49" source="teenager" target="teenybopper" />
+      <edge id="50" source="terrestrial" target="tellurian" />
+      <edge id="51" source="telegraphy" target="telex" />
+      <edge id="52" source="teeter" target="tergiversate" />
+      <edge id="53" source="term" target="termination" />
+      <edge id="54" source="term" target="terminus" />
+      <edge id="55" source="term" target="tense" />
+      <edge id="56" source="term" target="tenure" />
+      <edge id="57" source="teaser" target="temptress" />
+      <edge id="58" source="teaser" target="tease" />
+      <edge id="59" source="tenancy" target="tenure" />
+      <edge id="60" source="teasing" target="tempting" />
+      <edge id="61" source="tempt" target="tease" />
+      <edge id="62" source="tempering" target="temper" />
+      <edge id="63" source="television" target="teller" />
+      <edge id="64" source="terminus" target="termination" />
+      <edge id="65" source="terrorize" target="tear" />
+      <edge id="66" source="terrorize" target="terrify" />
+      <edge id="67" source="terrifically" target="terribly" />
+    </edges>
+  </graph>
+</gexf>

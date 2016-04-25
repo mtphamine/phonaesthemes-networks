@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="golden" label="golden" />
+      <node id="goggled" label="goggled" />
+      <node id="gold" label="gold" />
+      <node id="goffer" label="goffer" />
+      <node id="goggle" label="goggle" />
+      <node id="goose" label="goose" />
+      <node id="goggles" label="goggles" />
+      <node id="goaltender" label="goaltender" />
+      <node id="goodness" label="goodness" />
+      <node id="gorge" label="gorge" />
+      <node id="go" label="go" />
+      <node id="gormandize" label="gormandize" />
+      <node id="goo" label="goo" />
+      <node id="god" label="god" />
+      <node id="gossamer" label="gossamer" />
+      <node id="gob" label="gob" />
+      <node id="gobbet" label="gobbet" />
+      <node id="goalie" label="goalie" />
+      <node id="godlike" label="godlike" />
+      <node id="goof" label="goof" />
+      <node id="good" label="good" />
+      <node id="gobbler" label="gobbler" />
+      <node id="goon" label="goon" />
+      <node id="godly" label="godly" />
+      <node id="gook" label="gook" />
+      <node id="gouge" label="gouge" />
+      <node id="goodly" label="goodly" />
+      <node id="gore" label="gore" />
+      <node id="goop" label="goop" />
+      <node id="gossamery" label="gossamery" />
+      <node id="goddess" label="goddess" />
+      <node id="governor" label="governor" />
+      <node id="godliness" label="godliness" />
+      <node id="gorilla" label="gorilla" />
+      <node id="gosling" label="gosling" />
+      <node id="gobble" label="gobble" />
+      <node id="goofball" label="goofball" />
+    </nodes>
+    <edges>
+      <edge id="0" source="golden" target="good" />
+      <edge id="1" source="golden" target="gold" />
+      <edge id="2" source="goggled" target="goggle" />
+      <edge id="3" source="goffer" target="gouge" />
+      <edge id="4" source="goose" target="gobbler" />
+      <edge id="5" source="goose" target="gosling" />
+      <edge id="6" source="goggles" target="governor" />
+      <edge id="7" source="goaltender" target="goalie" />
+      <edge id="8" source="goodness" target="godliness" />
+      <edge id="9" source="gorge" target="gormandize" />
+      <edge id="10" source="gorge" target="gobble" />
+      <edge id="11" source="go" target="go" />
+      <edge id="12" source="gormandize" target="gobble" />
+      <edge id="13" source="goo" target="gook" />
+      <edge id="14" source="goo" target="goop" />
+      <edge id="15" source="god" target="goddess" />
+      <edge id="16" source="gossamer" target="gossamery" />
+      <edge id="17" source="gob" target="gobbet" />
+      <edge id="18" source="godlike" target="godly" />
+      <edge id="19" source="godlike" target="good" />
+      <edge id="20" source="goof" target="goofball" />
+      <edge id="21" source="good" target="godly" />
+      <edge id="22" source="good" target="goodly" />
+      <edge id="23" source="gobbler" target="gosling" />
+      <edge id="24" source="goon" target="gorilla" />
+      <edge id="25" source="gook" target="goop" />
+      <edge id="26" source="gouge" target="gore" />
+    </edges>
+  </graph>
+</gexf>

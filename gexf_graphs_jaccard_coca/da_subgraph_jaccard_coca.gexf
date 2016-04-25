@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="daintiness" label="daintiness" />
+      <node id="dance" label="dance" />
+      <node id="datum" label="datum">
+        <attvalues>
+          <attvalue for="0" value="2.16435285578" />
+        </attvalues>
+      </node>
+      <node id="dawdle" label="dawdle">
+        <attvalues>
+          <attvalue for="0" value="2.12385164097" />
+        </attvalues>
+      </node>
+      <node id="dainty" label="dainty">
+        <attvalues>
+          <attvalue for="0" value="2.76042248342" />
+        </attvalues>
+      </node>
+      <node id="dais" label="dais">
+        <attvalues>
+          <attvalue for="0" value="2.65609820201" />
+        </attvalues>
+      </node>
+      <node id="dandruff" label="dandruff" />
+      <node id="daftness" label="daftness">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="dauntless" label="dauntless">
+        <attvalues>
+          <attvalue for="0" value="1.99122607569" />
+        </attvalues>
+      </node>
+      <node id="dairy" label="dairy" />
+      <node id="daze" label="daze">
+        <attvalues>
+          <attvalue for="0" value="2.74429298312" />
+        </attvalues>
+      </node>
+      <node id="dapple" label="dapple" />
+      <node id="daedal" label="daedal">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="dad" label="dad">
+        <attvalues>
+          <attvalue for="0" value="4.58817082673" />
+        </attvalues>
+      </node>
+      <node id="dandy" label="dandy">
+        <attvalues>
+          <attvalue for="0" value="2.84571801797" />
+        </attvalues>
+      </node>
+      <node id="daybook" label="daybook">
+        <attvalues>
+          <attvalue for="0" value="1.47712125472" />
+        </attvalues>
+      </node>
+      <node id="dab" label="dab" />
+      <node id="damsel" label="damsel" />
+      <node id="dart" label="dart" />
+      <node id="dark" label="dark">
+        <attvalues>
+          <attvalue for="0" value="4.8082244811" />
+        </attvalues>
+      </node>
+      <node id="darn" label="darn" />
+      <node id="dactyl" label="dactyl">
+        <attvalues>
+          <attvalue for="0" value="1.56820172407" />
+        </attvalues>
+      </node>
+      <node id="dapper" label="dapper">
+        <attvalues>
+          <attvalue for="0" value="2.79726754083" />
+        </attvalues>
+      </node>
+      <node id="day" label="day" />
+      <node id="dare" label="dare">
+        <attvalues>
+          <attvalue for="0" value="3.7655195431" />
+        </attvalues>
+      </node>
+      <node id="daemon" label="daemon" />
+      <node id="dampen" label="dampen" />
+      <node id="daydream" label="daydream" />
+      <node id="damper" label="damper">
+        <attvalues>
+          <attvalue for="0" value="2.57054293988" />
+        </attvalues>
+      </node>
+      <node id="daylight" label="daylight" />
+      <node id="damnation" label="damnation">
+        <attvalues>
+          <attvalue for="0" value="2.55870857053" />
+        </attvalues>
+      </node>
+      <node id="dawn" label="dawn">
+        <attvalues>
+          <attvalue for="0" value="4.04598760566" />
+        </attvalues>
+      </node>
+      <node id="darkness" label="darkness">
+        <attvalues>
+          <attvalue for="0" value="4.15424133017" />
+        </attvalues>
+      </node>
+      <node id="daytime" label="daytime" />
+      <node id="darling" label="darling" />
+      <node id="dateless" label="dateless" />
+      <node id="dangling" label="dangling">
+        <attvalues>
+          <attvalue for="0" value="3.43616264704" />
+        </attvalues>
+      </node>
+      <node id="daunted" label="daunted" />
+      <node id="dashing" label="dashing">
+        <attvalues>
+          <attvalue for="0" value="3.00043407748" />
+        </attvalues>
+      </node>
+      <node id="dabbler" label="dabbler">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="dally" label="dally">
+        <attvalues>
+          <attvalue for="0" value="2.23299611039" />
+        </attvalues>
+      </node>
+      <node id="daughter" label="daughter" />
+      <node id="dated" label="dated" />
+      <node id="daisy" label="daisy" />
+      <node id="darky" label="darky">
+        <attvalues>
+          <attvalue for="0" value="1.43136376416" />
+        </attvalues>
+      </node>
+      <node id="daybreak" label="daybreak">
+        <attvalues>
+          <attvalue for="0" value="2.84260923961" />
+        </attvalues>
+      </node>
+      <node id="dagger" label="dagger" />
+      <node id="danger" label="danger" />
+      <node id="dawdler" label="dawdler" />
+      <node id="daub" label="daub">
+        <attvalues>
+          <attvalue for="0" value="1.8260748027" />
+        </attvalues>
+      </node>
+      <node id="daffy" label="daffy" />
+      <node id="damp" label="damp" />
+      <node id="dangle" label="dangle" />
+      <node id="dazzling" label="dazzling" />
+      <node id="damn" label="damn">
+        <attvalues>
+          <attvalue for="0" value="4.12930310772" />
+        </attvalues>
+      </node>
+      <node id="daunt" label="daunt" />
+      <node id="damaging" label="damaging" />
+      <node id="dame" label="dame" />
+      <node id="dampness" label="dampness" />
+      <node id="dalliance" label="dalliance" />
+      <node id="dallying" label="dallying">
+        <attvalues>
+          <attvalue for="0" value="1.74818802701" />
+        </attvalues>
+      </node>
+      <node id="dado" label="dado">
+        <attvalues>
+          <attvalue for="0" value="2.1303337685" />
+        </attvalues>
+      </node>
+      <node id="darken" label="darken">
+        <attvalues>
+          <attvalue for="0" value="2.67394199863" />
+        </attvalues>
+      </node>
+      <node id="dangerous" label="dangerous">
+        <attvalues>
+          <attvalue for="0" value="4.4382258076" />
+        </attvalues>
+      </node>
+      <node id="daft" label="daft" />
+      <node id="dank" label="dank" />
+      <node id="dazed" label="dazed" />
+      <node id="daddy" label="daddy">
+        <attvalues>
+          <attvalue for="0" value="4.14110470933" />
+        </attvalues>
+      </node>
+      <node id="damned" label="damned" />
+      <node id="dawdling" label="dawdling">
+        <attvalues>
+          <attvalue for="0" value="2.13353890837" />
+        </attvalues>
+      </node>
+      <node id="daydreamer" label="daydreamer">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="dash" label="dash">
+        <attvalues>
+          <attvalue for="0" value="3.58024050827" />
+        </attvalues>
+      </node>
+      <node id="dazzler" label="dazzler" />
+      <node id="darkening" label="darkening">
+        <attvalues>
+          <attvalue for="0" value="2.97081161087" />
+        </attvalues>
+      </node>
+      <node id="dazzle" label="dazzle">
+        <attvalues>
+          <attvalue for="0" value="2.91062440489" />
+        </attvalues>
+      </node>
+      <node id="daring" label="daring" />
+      <node id="dancing" label="dancing" />
+      <node id="dashed" label="dashed">
+        <attvalues>
+          <attvalue for="0" value="3.29070224329" />
+        </attvalues>
+      </node>
+      <node id="damage" label="damage">
+        <attvalues>
+          <attvalue for="0" value="4.4113502925" />
+        </attvalues>
+      </node>
+      <node id="damages" label="damages">
+        <attvalues>
+          <attvalue for="0" value="3.64355136856" />
+        </attvalues>
+      </node>
+      <node id="dam" label="dam">
+        <attvalues>
+          <attvalue for="0" value="3.70432214082" />
+        </attvalues>
+      </node>
+      <node id="dale" label="dale">
+        <attvalues>
+          <attvalue for="0" value="3.6957442752" />
+        </attvalues>
+      </node>
+      <node id="damnatory" label="damnatory" />
+      <node id="darkish" label="darkish">
+        <attvalues>
+          <attvalue for="0" value="1.53147891704" />
+        </attvalues>
+      </node>
+      <node id="damaged" label="damaged" />
+      <node id="damnable" label="damnable" />
+      <node id="dappled" label="dappled">
+        <attvalues>
+          <attvalue for="0" value="2.59659709563" />
+        </attvalues>
+      </node>
+      <node id="date" label="date">
+        <attvalues>
+          <attvalue for="0" value="4.48643047885" />
+        </attvalues>
+      </node>
+      <node id="data" label="data">
+        <attvalues>
+          <attvalue for="0" value="4.94669783725" />
+        </attvalues>
+      </node>
+      <node id="dabble" label="dabble" />
+      <node id="daily" label="daily" />
+      <node id="daredevil" label="daredevil">
+        <attvalues>
+          <attvalue for="0" value="2.53655844257" />
+        </attvalues>
+      </node>
+      <node id="darkened" label="darkened" />
+      <node id="daresay" label="daresay" />
+    </nodes>
+    <edges>
+      <edge id="0" source="daintiness" target="dashed" weight="0.010101" />
+      <edge id="1" source="daintiness" target="damage" weight="0.005882" />
+      <edge id="2" source="daintiness" target="damnation" weight="0.010204" />
+      <edge id="3" source="daintiness" target="dainty" weight="0.011299" />
+      <edge id="4" source="dance" target="dandy" weight="0.005291" />
+      <edge id="5" source="dance" target="dado" weight="0.005263" />
+      <edge id="6" source="dance" target="darken" weight="0.005128" />
+      <edge id="7" source="dance" target="dam" weight="0.009852" />
+      <edge id="8" source="dance" target="dazzle" weight="0.019417" />
+      <edge id="9" source="dance" target="daub" weight="0.003891" />
+      <edge id="10" source="dance" target="daze" weight="0.021459" />
+      <edge id="11" source="dance" target="damper" weight="0.00625" />
+      <edge id="12" source="dance" target="date" weight="0.211957" />
+      <edge id="13" source="dance" target="dactyl" weight="0.021583" />
+      <edge id="14" source="dance" target="dally" weight="0.006289" />
+      <edge id="15" source="dance" target="data" weight="0.004902" />
+      <edge id="16" source="dance" target="dash" weight="0.015267" />
+      <edge id="17" source="dance" target="dare" weight="0.006897" />
+      <edge id="18" source="datum" target="dash" weight="0.006148" />
+      <edge id="19" source="datum" target="daemon" weight="0.01087" />
+      <edge id="20" source="datum" target="darken" weight="0.006494" />
+      <edge id="21" source="datum" target="dagger" weight="0.009709" />
+      <edge id="22" source="datum" target="daring" weight="0.005747" />
+      <edge id="23" source="datum" target="dab" weight="0.014085" />
+      <edge id="24" source="datum" target="data" weight="0.504587" />
+      <edge id="25" source="datum" target="dangle" weight="0.01875" />
+      <edge id="26" source="datum" target="dart" weight="0.006369" />
+      <edge id="27" source="datum" target="daub" weight="0.00463" />
+      <edge id="28" source="datum" target="daylight" weight="0.028571" />
+      <edge id="29" source="datum" target="daybreak" weight="0.012195" />
+      <edge id="30" source="datum" target="dainty" weight="0.009852" />
+      <edge id="31" source="datum" target="dapple" weight="0.010526" />
+      <edge id="32" source="datum" target="daresay" weight="0.009009" />
+      <edge id="33" source="datum" target="dawn" weight="0.009174" />
+      <edge id="34" source="datum" target="day" weight="0.008333" />
+      <edge id="35" source="dawdle" target="dawdling" weight="0.014706" />
+      <edge id="36" source="dawdle" target="dash" weight="0.004283" />
+      <edge id="37" source="dawdle" target="dabble" weight="0.052632" />
+      <edge id="38" source="dawdle" target="dampen" weight="0.005435" />
+      <edge id="39" source="dawdle" target="dalliance" weight="0.013158" />
+      <edge id="40" source="dawdle" target="dam" weight="0.014286" />
+      <edge id="41" source="dawdle" target="dawdler" weight="0.407407" />
+      <edge id="42" source="dawdle" target="dangle" weight="0.014388" />
+      <edge id="43" source="dawdle" target="dab" weight="0.005181" />
+      <edge id="44" source="dawdle" target="daub" weight="0.005155" />
+      <edge id="45" source="dawdle" target="damp" weight="0.004049" />
+      <edge id="46" source="dawdle" target="damper" weight="0.020833" />
+      <edge id="47" source="dawdle" target="dabbler" weight="0.028986" />
+      <edge id="48" source="dawdle" target="dally" weight="0.293333" />
+      <edge id="49" source="dawdle" target="dallying" weight="0.022989" />
+      <edge id="50" source="dainty" target="darky" weight="0.007143" />
+      <edge id="51" source="dainty" target="daybreak" weight="0.007299" />
+      <edge id="52" source="dainty" target="daylight" weight="0.006173" />
+      <edge id="53" source="dainty" target="dawn" weight="0.006098" />
+      <edge id="54" source="dainty" target="damp" weight="0.006192" />
+      <edge id="55" source="dainty" target="dazzling" weight="0.006369" />
+      <edge id="56" source="dainty" target="damages" weight="0.00641" />
+      <edge id="57" source="dainty" target="darling" weight="0.044693" />
+      <edge id="58" source="dainty" target="daedal" weight="0.034314" />
+      <edge id="59" source="dainty" target="dandy" weight="0.025126" />
+      <edge id="60" source="dainty" target="dab" weight="0.003704" />
+      <edge id="61" source="dainty" target="dangling" weight="0.00625" />
+      <edge id="62" source="dainty" target="dart" weight="0.004717" />
+      <edge id="63" source="dainty" target="daunted" weight="0.013072" />
+      <edge id="64" source="dainty" target="dashing" weight="0.019608" />
+      <edge id="65" source="dainty" target="dapper" weight="0.025478" />
+      <edge id="66" source="dainty" target="data" weight="0.004587" />
+      <edge id="67" source="dainty" target="dark" weight="0.00542" />
+      <edge id="68" source="dainty" target="dangerous" weight="0.005882" />
+      <edge id="69" source="dainty" target="dank" weight="0.007092" />
+      <edge id="70" source="dais" target="dash" weight="0.002288" />
+      <edge id="71" source="dais" target="daze" weight="0.014085" />
+      <edge id="72" source="dais" target="dare" weight="0.019608" />
+      <edge id="73" source="dais" target="day" weight="0.014925" />
+      <edge id="74" source="dandruff" target="daub" weight="0.006098" />
+      <edge id="75" source="dandruff" target="darkening" weight="0.025641" />
+      <edge id="76" source="dandruff" target="darken" weight="0.009804" />
+      <edge id="77" source="dandruff" target="damage" weight="0.006944" />
+      <edge id="78" source="dandruff" target="daze" weight="0.006944" />
+      <edge id="79" source="daftness" target="daze" weight="0.007246" />
+      <edge id="80" source="dauntless" target="dandy" weight="0.010417" />
+      <edge id="81" source="dauntless" target="daring" weight="0.060345" />
+      <edge id="82" source="dauntless" target="dash" weight="0.002283" />
+      <edge id="83" source="dauntless" target="daredevil" weight="0.051282" />
+      <edge id="84" source="dauntless" target="dashing" weight="0.020202" />
+      <edge id="85" source="dauntless" target="dare" weight="0.019231" />
+      <edge id="86" source="dairy" target="date" weight="0.007692" />
+      <edge id="87" source="daze" target="dagger" weight="0.006667" />
+      <edge id="88" source="daze" target="daub" weight="0.003802" />
+      <edge id="89" source="daze" target="daylight" weight="0.013072" />
+      <edge id="90" source="daze" target="damnation" weight="0.005848" />
+      <edge id="91" source="daze" target="dawn" weight="0.00641" />
+      <edge id="92" source="daze" target="dazzle" weight="0.531915" />
+      <edge id="93" source="daze" target="darkness" weight="0.019737" />
+      <edge id="94" source="daze" target="dancing" weight="0.006289" />
+      <edge id="95" source="daze" target="dashed" weight="0.005814" />
+      <edge id="96" source="daze" target="damp" weight="0.016026" />
+      <edge id="97" source="daze" target="dangle" weight="0.014493" />
+      <edge id="98" source="daze" target="daytime" weight="0.007752" />
+      <edge id="99" source="daze" target="day" weight="0.012048" />
+      <edge id="100" source="daze" target="damn" weight="0.005435" />
+      <edge id="101" source="daze" target="daunt" weight="0.006098" />
+      <edge id="102" source="daze" target="dapple" weight="0.004202" />
+      <edge id="103" source="daze" target="daydreamer" weight="0.013605" />
+      <edge id="104" source="daze" target="darkish" weight="0.007576" />
+      <edge id="105" source="daze" target="dart" weight="0.014851" />
+      <edge id="106" source="daze" target="dark" weight="0.016807" />
+      <edge id="107" source="daze" target="darn" weight="0.006897" />
+      <edge id="108" source="daze" target="dactyl" weight="0.006803" />
+      <edge id="109" source="daze" target="data" weight="0.004762" />
+      <edge id="110" source="daze" target="darling" weight="0.005618" />
+      <edge id="111" source="daze" target="dare" weight="0.006623" />
+      <edge id="112" source="daze" target="dash" weight="0.03861" />
+      <edge id="113" source="daze" target="dado" weight="0.005102" />
+      <edge id="114" source="daze" target="darken" weight="0.091892" />
+      <edge id="115" source="daze" target="dampen" weight="0.016" />
+      <edge id="116" source="daze" target="daydream" weight="0.012739" />
+      <edge id="117" source="daze" target="dazed" weight="0.005208" />
+      <edge id="118" source="dapple" target="daub" weight="0.088235" />
+      <edge id="119" source="dapple" target="dazzle" weight="0.014423" />
+      <edge id="120" source="dapple" target="darken" weight="0.026042" />
+      <edge id="121" source="dapple" target="dam" weight="0.014778" />
+      <edge id="122" source="dapple" target="darkish" weight="0.024" />
+      <edge id="123" source="dapple" target="dado" weight="0.043478" />
+      <edge id="124" source="dapple" target="damage" weight="0.012712" />
+      <edge id="125" source="dapple" target="dark" weight="0.022857" />
+      <edge id="126" source="dapple" target="dappled" weight="0.212329" />
+      <edge id="127" source="dapple" target="damper" weight="0.0125" />
+      <edge id="128" source="dapple" target="data" weight="0.004878" />
+      <edge id="129" source="dapple" target="dash" weight="0.1174" />
+      <edge id="130" source="dapple" target="daedal" weight="0.005076" />
+      <edge id="131" source="daedal" target="dandy" weight="0.006494" />
+      <edge id="132" source="daedal" target="dado" weight="0.006452" />
+      <edge id="133" source="daedal" target="daring" weight="0.005556" />
+      <edge id="134" source="daedal" target="dashed" weight="0.015385" />
+      <edge id="135" source="daedal" target="dappled" weight="0.036765" />
+      <edge id="136" source="daedal" target="dazzling" weight="0.009259" />
+      <edge id="137" source="daedal" target="dart" weight="0.006135" />
+      <edge id="138" source="daedal" target="dark" weight="0.00625" />
+      <edge id="139" source="daedal" target="dashing" weight="0.032468" />
+      <edge id="140" source="daedal" target="daft" weight="0.006536" />
+      <edge id="141" source="daedal" target="darn" weight="0.009615" />
+      <edge id="142" source="daedal" target="dazed" weight="0.020134" />
+      <edge id="143" source="daedal" target="daffy" weight="0.007042" />
+      <edge id="144" source="daedal" target="dash" weight="0.00404" />
+      <edge id="145" source="daedal" target="daresay" weight="0.008547" />
+      <edge id="146" source="daedal" target="dapper" weight="0.018182" />
+      <edge id="147" source="daedal" target="daub" weight="0.004505" />
+      <edge id="148" source="dad" target="daughter" weight="0.019608" />
+      <edge id="149" source="dad" target="dateless" weight="0.016949" />
+      <edge id="150" source="dad" target="dam" weight="0.008475" />
+      <edge id="151" source="dad" target="dash" weight="0.002247" />
+      <edge id="152" source="dad" target="dated" weight="0.013514" />
+      <edge id="153" source="dad" target="daddy" weight="0.387097" />
+      <edge id="154" source="dad" target="dame" weight="0.022989" />
+      <edge id="155" source="dandy" target="daybreak" weight="0.012346" />
+      <edge id="156" source="dandy" target="dagger" weight="0.009804" />
+      <edge id="157" source="dandy" target="damsel" weight="0.009709" />
+      <edge id="158" source="dandy" target="dazzling" weight="0.030303" />
+      <edge id="159" source="dandy" target="daub" weight="0.004651" />
+      <edge id="160" source="dandy" target="daylight" weight="0.009434" />
+      <edge id="161" source="dandy" target="dazzler" weight="0.047059" />
+      <edge id="162" source="dandy" target="dawn" weight="0.009259" />
+      <edge id="163" source="dandy" target="daring" weight="0.00578" />
+      <edge id="164" source="dandy" target="damp" weight="0.003731" />
+      <edge id="165" source="dandy" target="dangle" weight="0.0125" />
+      <edge id="166" source="dandy" target="damage" weight="0.005128" />
+      <edge id="167" source="dandy" target="damages" weight="0.01" />
+      <edge id="168" source="dandy" target="daunt" weight="0.008621" />
+      <edge id="169" source="dandy" target="darling" weight="0.031496" />
+      <edge id="170" source="dandy" target="damaging" weight="0.009709" />
+      <edge id="171" source="dandy" target="daydreamer" weight="0.01" />
+      <edge id="172" source="dandy" target="dash" weight="0.004098" />
+      <edge id="173" source="dandy" target="dab" weight="0.014151" />
+      <edge id="174" source="dandy" target="dark" weight="0.00639" />
+      <edge id="175" source="dandy" target="dashing" weight="0.055556" />
+      <edge id="176" source="dandy" target="date" weight="0.011173" />
+      <edge id="177" source="dandy" target="dabbler" weight="0.010989" />
+      <edge id="178" source="dandy" target="dapper" weight="0.060606" />
+      <edge id="179" source="dandy" target="dally" weight="0.008547" />
+      <edge id="180" source="dandy" target="damnable" weight="0.007937" />
+      <edge id="181" source="dandy" target="dabble" weight="0.008333" />
+      <edge id="182" source="dandy" target="dampen" weight="0.004878" />
+      <edge id="183" source="dandy" target="daydream" weight="0.009091" />
+      <edge id="184" source="dandy" target="dangerous" weight="0.008772" />
+      <edge id="185" source="dandy" target="daisy" weight="0.213333" />
+      <edge id="186" source="dandy" target="dame" weight="0.007576" />
+      <edge id="187" source="dandy" target="daresay" weight="0.009091" />
+      <edge id="188" source="daybook" target="daub" weight="0.010753" />
+      <edge id="189" source="daybook" target="daily" weight="0.197531" />
+      <edge id="190" source="dab" target="daybreak" weight="0.006757" />
+      <edge id="191" source="dab" target="dash" weight="0.043071" />
+      <edge id="192" source="dab" target="damnation" weight="0.005263" />
+      <edge id="193" source="dab" target="darkening" weight="0.019355" />
+      <edge id="194" source="dab" target="dawn" weight="0.005714" />
+      <edge id="195" source="dab" target="dazzle" weight="0.004274" />
+      <edge id="196" source="dab" target="darkness" weight="0.00578" />
+      <edge id="197" source="dab" target="damage" weight="0.007663" />
+      <edge id="198" source="dab" target="damn" weight="0.004926" />
+      <edge id="199" source="dab" target="dam" weight="0.004367" />
+      <edge id="200" source="dab" target="date" weight="0.004049" />
+      <edge id="201" source="dab" target="dabbler" weight="0.006329" />
+      <edge id="202" source="dab" target="dally" weight="0.010929" />
+      <edge id="203" source="dab" target="data" weight="0.008772" />
+      <edge id="204" source="dab" target="dare" weight="0.005882" />
+      <edge id="205" source="dab" target="daub" weight="0.328638" />
+      <edge id="206" source="dab" target="darken" weight="0.083333" />
+      <edge id="207" source="dab" target="damper" weight="0.01087" />
+      <edge id="208" source="dart" target="dale" weight="0.010526" />
+      <edge id="209" source="dart" target="dado" weight="0.019355" />
+      <edge id="210" source="dart" target="darken" weight="0.006173" />
+      <edge id="211" source="dart" target="dashed" weight="0.007519" />
+      <edge id="212" source="dart" target="dazzle" weight="0.017241" />
+      <edge id="213" source="dart" target="dash" weight="0.108889" />
+      <edge id="214" source="dart" target="daybreak" weight="0.011111" />
+      <edge id="215" source="dart" target="dawn" weight="0.008547" />
+      <edge id="216" source="dart" target="data" weight="0.005848" />
+      <edge id="217" source="dark" target="darky" weight="0.003984" />
+      <edge id="218" source="dark" target="daub" weight="0.002618" />
+      <edge id="219" source="dark" target="daylight" weight="0.003663" />
+      <edge id="220" source="dark" target="darkening" weight="0.007813" />
+      <edge id="221" source="dark" target="dawn" weight="0.003636" />
+      <edge id="222" source="dark" target="dazzle" weight="0.015152" />
+      <edge id="223" source="dark" target="darkness" weight="0.057915" />
+      <edge id="224" source="dark" target="dashed" weight="0.006897" />
+      <edge id="225" source="dark" target="damp" weight="0.002299" />
+      <edge id="226" source="dark" target="damage" weight="0.013966" />
+      <edge id="227" source="dark" target="daytime" weight="0.004032" />
+      <edge id="228" source="dark" target="damn" weight="0.009967" />
+      <edge id="229" source="dark" target="damaging" weight="0.022642" />
+      <edge id="230" source="dark" target="damnatory" weight="0.011236" />
+      <edge id="231" source="dark" target="dam" weight="0.00304" />
+      <edge id="232" source="dark" target="darkish" weight="0.041322" />
+      <edge id="233" source="dark" target="damnable" weight="0.152941" />
+      <edge id="234" source="dark" target="dappled" weight="0.027304" />
+      <edge id="235" source="dark" target="day" weight="0.003497" />
+      <edge id="236" source="dark" target="daunted" weight="0.003774" />
+      <edge id="237" source="dark" target="dado" weight="0.003175" />
+      <edge id="238" source="dark" target="darken" weight="0.042208" />
+      <edge id="239" source="dark" target="dampen" weight="0.002688" />
+      <edge id="240" source="dark" target="dangerous" weight="0.018051" />
+      <edge id="241" source="dark" target="darkened" weight="0.011811" />
+      <edge id="242" source="dark" target="dazed" weight="0.003215" />
+      <edge id="243" source="dark" target="damned" weight="0.011628" />
+      <edge id="244" source="darn" target="dash" weight="0.004566" />
+      <edge id="245" source="darn" target="dazzle" weight="0.008547" />
+      <edge id="246" source="darn" target="damnation" weight="0.027778" />
+      <edge id="247" source="darn" target="dashed" weight="0.027397" />
+      <edge id="248" source="darn" target="damage" weight="0.013889" />
+      <edge id="249" source="darn" target="daub" weight="0.006061" />
+      <edge id="250" source="darn" target="damn" weight="0.0875" />
+      <edge id="251" source="darn" target="date" weight="0.007692" />
+      <edge id="252" source="darn" target="dally" weight="0.014925" />
+      <edge id="253" source="dactyl" target="dado" weight="0.01" />
+      <edge id="254" source="dactyl" target="dangle" weight="0.00885" />
+      <edge id="255" source="dactyl" target="dash" weight="0.004545" />
+      <edge id="256" source="dactyl" target="dazed" weight="0.010417" />
+      <edge id="257" source="dactyl" target="data" weight="0.008772" />
+      <edge id="258" source="dapper" target="daring" weight="0.039683" />
+      <edge id="259" source="dapper" target="daisy" weight="0.021277" />
+      <edge id="260" source="dapper" target="dash" weight="0.004494" />
+      <edge id="261" source="dapper" target="dashing" weight="0.379747" />
+      <edge id="262" source="day" target="dash" weight="0.002169" />
+      <edge id="263" source="day" target="dazzle" weight="0.014493" />
+      <edge id="264" source="day" target="darken" weight="0.008" />
+      <edge id="265" source="day" target="darkish" weight="0.017857" />
+      <edge id="266" source="day" target="daybreak" weight="0.038462" />
+      <edge id="267" source="day" target="date" weight="0.047945" />
+      <edge id="268" source="day" target="dawn" weight="0.094595" />
+      <edge id="269" source="dare" target="dash" weight="0.011338" />
+      <edge id="270" source="dare" target="dado" weight="0.009615" />
+      <edge id="271" source="dare" target="daring" weight="0.007752" />
+      <edge id="272" source="dare" target="danger" weight="0.046512" />
+      <edge id="273" source="dare" target="dam" weight="0.008475" />
+      <edge id="274" source="dare" target="daub" weight="0.005848" />
+      <edge id="275" source="dare" target="dashing" weight="0.009346" />
+      <edge id="276" source="dare" target="date" weight="0.007353" />
+      <edge id="277" source="dare" target="daresay" weight="0.030769" />
+      <edge id="278" source="daemon" target="dash" weight="0.002309" />
+      <edge id="279" source="daemon" target="data" weight="0.009434" />
+      <edge id="280" source="dampen" target="dado" weight="0.004854" />
+      <edge id="281" source="dampen" target="darken" weight="0.054726" />
+      <edge id="282" source="dampen" target="dam" weight="0.018433" />
+      <edge id="283" source="dampen" target="damage" weight="0.007937" />
+      <edge id="284" source="dampen" target="dazzle" weight="0.018018" />
+      <edge id="285" source="dampen" target="dappled" weight="0.005236" />
+      <edge id="286" source="dampen" target="damper" weight="0.053571" />
+      <edge id="287" source="dampen" target="dawn" weight="0.006024" />
+      <edge id="288" source="dampen" target="dally" weight="0.011494" />
+      <edge id="289" source="dampen" target="dash" weight="0.080868" />
+      <edge id="290" source="dampen" target="daub" weight="0.014815" />
+      <edge id="291" source="daydream" target="daub" weight="0.005618" />
+      <edge id="292" source="daydream" target="darkening" weight="0.018868" />
+      <edge id="293" source="daydream" target="daydreamer" weight="0.306122" />
+      <edge id="294" source="damper" target="dabble" weight="0.010989" />
+      <edge id="295" source="damper" target="darken" weight="0.008065" />
+      <edge id="296" source="damper" target="dagger" weight="0.013699" />
+      <edge id="297" source="damper" target="dam" weight="0.046875" />
+      <edge id="298" source="damper" target="dampness" weight="0.020833" />
+      <edge id="299" source="damper" target="dangle" weight="0.007576" />
+      <edge id="300" source="damper" target="damage" weight="0.006024" />
+      <edge id="301" source="damper" target="dash" weight="0.00655" />
+      <edge id="302" source="damper" target="dank" weight="0.017857" />
+      <edge id="303" source="damper" target="daunt" weight="0.011494" />
+      <edge id="304" source="damper" target="dally" weight="0.022989" />
+      <edge id="305" source="damper" target="data" weight="0.007519" />
+      <edge id="306" source="damper" target="damp" weight="0.076233" />
+      <edge id="307" source="daylight" target="dazzle" weight="0.016" />
+      <edge id="308" source="daylight" target="darken" weight="0.018018" />
+      <edge id="309" source="daylight" target="dam" weight="0.008264" />
+      <edge id="310" source="daylight" target="darkish" weight="0.023256" />
+      <edge id="311" source="daylight" target="daybreak" weight="0.205882" />
+      <edge id="312" source="daylight" target="date" weight="0.007194" />
+      <edge id="313" source="daylight" target="dawn" weight="0.236364" />
+      <edge id="314" source="daylight" target="data" weight="0.02521" />
+      <edge id="315" source="daylight" target="dash" weight="0.004474" />
+      <edge id="316" source="daylight" target="daub" weight="0.005747" />
+      <edge id="317" source="damnation" target="damage" weight="0.055215" />
+      <edge id="318" source="damnation" target="dash" weight="0.00431" />
+      <edge id="319" source="damnation" target="damn" weight="0.107843" />
+      <edge id="320" source="dawn" target="daybreak" weight="0.162162" />
+      <edge id="321" source="dawn" target="dash" weight="0.002222" />
+      <edge id="322" source="dawn" target="dazzle" weight="0.007813" />
+      <edge id="323" source="dawn" target="damp" weight="0.004367" />
+      <edge id="324" source="dawn" target="daytime" weight="0.194444" />
+      <edge id="325" source="dawn" target="daunt" weight="0.012987" />
+      <edge id="326" source="dawn" target="darkish" weight="0.022222" />
+      <edge id="327" source="dawn" target="date" weight="0.007092" />
+      <edge id="328" source="dawn" target="data" weight="0.016393" />
+      <edge id="329" source="dawn" target="daub" weight="0.005682" />
+      <edge id="330" source="dawn" target="dado" weight="0.009174" />
+      <edge id="331" source="dawn" target="darken" weight="0.008772" />
+      <edge id="332" source="darkness" target="daub" weight="0.005747" />
+      <edge id="333" source="darkness" target="dazzle" weight="0.016" />
+      <edge id="334" source="darkness" target="darken" weight="0.046296" />
+      <edge id="335" source="darkness" target="damnable" weight="0.011765" />
+      <edge id="336" source="darkness" target="darkish" weight="0.023256" />
+      <edge id="337" source="darkness" target="dazzling" weight="0.016667" />
+      <edge id="338" source="darkness" target="darkening" weight="0.020408" />
+      <edge id="339" source="daytime" target="dazzle" weight="0.009901" />
+      <edge id="340" source="daytime" target="darken" weight="0.011494" />
+      <edge id="341" source="daytime" target="darkish" weight="0.055556" />
+      <edge id="342" source="daytime" target="daybreak" weight="0.142857" />
+      <edge id="343" source="daytime" target="date" weight="0.008772" />
+      <edge id="344" source="darling" target="dazzle" weight="0.006667" />
+      <edge id="345" source="darling" target="dash" weight="0.002119" />
+      <edge id="346" source="darling" target="date" weight="0.018634" />
+      <edge id="347" source="darling" target="dally" weight="0.01" />
+      <edge id="348" source="dateless" target="date" weight="0.007353" />
+      <edge id="349" source="dangling" target="dashed" weight="0.012346" />
+      <edge id="350" source="dangling" target="dallying" weight="0.030769" />
+      <edge id="351" source="dangling" target="dangerous" weight="0.014085" />
+      <edge id="352" source="dangling" target="damp" weight="0.004444" />
+      <edge id="353" source="daunted" target="dashed" weight="0.013333" />
+      <edge id="354" source="daunted" target="dappled" weight="0.011905" />
+      <edge id="355" source="dashing" target="daring" weight="0.126582" />
+      <edge id="356" source="dashing" target="dancing" weight="0.017544" />
+      <edge id="357" source="dashing" target="dangle" weight="0.006061" />
+      <edge id="358" source="dashing" target="dazzling" weight="0.009524" />
+      <edge id="359" source="dashing" target="daisy" weight="0.010638" />
+      <edge id="360" source="dashing" target="dash" weight="0.012295" />
+      <edge id="361" source="dashing" target="daredevil" weight="0.021277" />
+      <edge id="362" source="dabbler" target="dabble" weight="0.048387" />
+      <edge id="363" source="dabbler" target="dawdler" weight="0.051282" />
+      <edge id="364" source="dabbler" target="daft" weight="0.011111" />
+      <edge id="365" source="dabbler" target="dazed" weight="0.011364" />
+      <edge id="366" source="dabbler" target="date" weight="0.008065" />
+      <edge id="367" source="dabbler" target="daffy" weight="0.012658" />
+      <edge id="368" source="dabbler" target="dally" weight="0.050847" />
+      <edge id="369" source="dally" target="dawdling" weight="0.016949" />
+      <edge id="370" source="dally" target="dawdler" weight="0.015152" />
+      <edge id="371" source="dally" target="dash" weight="0.006565" />
+      <edge id="372" source="dally" target="daffy" weight="0.009524" />
+      <edge id="373" source="dally" target="dancing" weight="0.012346" />
+      <edge id="374" source="dally" target="damp" weight="0.008439" />
+      <edge id="375" source="dally" target="dangle" weight="0.015385" />
+      <edge id="376" source="dally" target="daft" weight="0.008621" />
+      <edge id="377" source="dally" target="dalliance" weight="0.014925" />
+      <edge id="378" source="dally" target="dam" weight="0.015267" />
+      <edge id="379" source="dally" target="dallying" weight="0.012658" />
+      <edge id="380" source="dally" target="date" weight="0.013423" />
+      <edge id="381" source="dally" target="data" weight="0.007576" />
+      <edge id="382" source="dally" target="daub" weight="0.005405" />
+      <edge id="383" source="dally" target="dabble" weight="0.22973" />
+      <edge id="384" source="dally" target="dazed" weight="0.008772" />
+      <edge id="385" source="daughter" target="dam" weight="0.009091" />
+      <edge id="386" source="daughter" target="daddy" weight="0.029412" />
+      <edge id="387" source="daisy" target="date" weight="0.016393" />
+      <edge id="388" source="daisy" target="daydreamer" weight="0.023256" />
+      <edge id="389" source="darky" target="damnable" weight="0.015873" />
+      <edge id="390" source="daybreak" target="daub" weight="0.006711" />
+      <edge id="391" source="daybreak" target="data" weight="0.010417" />
+      <edge id="392" source="dagger" target="dash" weight="0.00907" />
+      <edge id="393" source="danger" target="dale" weight="0.037037" />
+      <edge id="394" source="danger" target="dash" weight="0.002326" />
+      <edge id="395" source="danger" target="damage" weight="0.007353" />
+      <edge id="396" source="dawdler" target="dash" weight="0.002283" />
+      <edge id="397" source="dawdler" target="dallying" weight="0.017241" />
+      <edge id="398" source="daub" target="dash" weight="0.044944" />
+      <edge id="399" source="daub" target="darkening" weight="0.019231" />
+      <edge id="400" source="daub" target="dazzle" weight="0.008547" />
+      <edge id="401" source="daub" target="daring" weight="0.004149" />
+      <edge id="402" source="daub" target="damp" weight="0.018127" />
+      <edge id="403" source="daub" target="dangle" weight="0.008772" />
+      <edge id="404" source="daub" target="damage" weight="0.007634" />
+      <edge id="405" source="daub" target="daydreamer" weight="0.005952" />
+      <edge id="406" source="daub" target="damnatory" weight="0.005882" />
+      <edge id="407" source="daub" target="dam" weight="0.004348" />
+      <edge id="408" source="daub" target="dabble" weight="0.032787" />
+      <edge id="409" source="daub" target="dappled" weight="0.004975" />
+      <edge id="410" source="daub" target="data" weight="0.004348" />
+      <edge id="411" source="daub" target="dado" weight="0.009302" />
+      <edge id="412" source="daub" target="darken" weight="0.138462" />
+      <edge id="413" source="daffy" target="dash" weight="0.002096" />
+      <edge id="414" source="damp" target="dado" weight="0.003717" />
+      <edge id="415" source="damp" target="darken" weight="0.05364" />
+      <edge id="416" source="damp" target="dam" weight="0.021583" />
+      <edge id="417" source="damp" target="dallying" weight="0.004348" />
+      <edge id="418" source="damp" target="damage" weight="0.006349" />
+      <edge id="419" source="damp" target="dazzle" weight="0.017606" />
+      <edge id="420" source="damp" target="dappled" weight="0.003937" />
+      <edge id="421" source="damp" target="dash" weight="0.07193" />
+      <edge id="422" source="damp" target="darkening" weight="0.004739" />
+      <edge id="423" source="dangle" target="dazzle" weight="0.011111" />
+      <edge id="424" source="dangle" target="data" weight="0.017241" />
+      <edge id="425" source="dangle" target="dash" weight="0.026477" />
+      <edge id="426" source="damn" target="damnable" weight="0.045045" />
+      <edge id="427" source="damn" target="dazzle" weight="0.00641" />
+      <edge id="428" source="damn" target="damage" weight="0.039326" />
+      <edge id="429" source="damn" target="dash" weight="0.008421" />
+      <edge id="430" source="damn" target="damned" weight="0.064103" />
+      <edge id="431" source="daunt" target="dazzle" weight="0.007353" />
+      <edge id="432" source="daunt" target="darken" weight="0.025" />
+      <edge id="433" source="daunt" target="dam" weight="0.007634" />
+      <edge id="434" source="daunt" target="damage" weight="0.006098" />
+      <edge id="435" source="daunt" target="dash" weight="0.015487" />
+      <edge id="436" source="damaging" target="damage" weight="0.013333" />
+      <edge id="437" source="damaging" target="dangerous" weight="0.028986" />
+      <edge id="438" source="dame" target="dash" weight="0.00211" />
+      <edge id="439" source="dame" target="dam" weight="0.006803" />
+      <edge id="440" source="dampness" target="dash" weight="0.004785" />
+      <edge id="441" source="dampness" target="darken" weight="0.012048" />
+      <edge id="442" source="dalliance" target="dawdling" weight="0.333333" />
+      <edge id="443" source="dalliance" target="dash" weight="0.002278" />
+      <edge id="444" source="dalliance" target="dallying" weight="0.428571" />
+      <edge id="445" source="dallying" target="dawdling" weight="0.405405" />
+      <edge id="446" source="dallying" target="dancing" weight="0.013699" />
+      <edge id="447" source="dallying" target="dash" weight="0.002217" />
+      <edge id="448" source="dado" target="dazzle" weight="0.005952" />
+      <edge id="449" source="dado" target="damage" weight="0.005102" />
+      <edge id="450" source="dado" target="dale" weight="0.023256" />
+      <edge id="451" source="dado" target="dam" weight="0.025" />
+      <edge id="452" source="dado" target="damaged" weight="0.015038" />
+      <edge id="453" source="dado" target="date" weight="0.005525" />
+      <edge id="454" source="dado" target="data" weight="0.006135" />
+      <edge id="455" source="dado" target="dash" weight="0.022917" />
+      <edge id="456" source="dado" target="darken" weight="0.006494" />
+      <edge id="457" source="dado" target="damnable" weight="0.007874" />
+      <edge id="458" source="darken" target="darkening" weight="0.043011" />
+      <edge id="459" source="darken" target="dazzle" weight="0.10828" />
+      <edge id="460" source="darken" target="daring" weight="0.005587" />
+      <edge id="461" source="darken" target="damage" weight="0.01" />
+      <edge id="462" source="darken" target="damnatory" weight="0.009259" />
+      <edge id="463" source="darken" target="dam" weight="0.005952" />
+      <edge id="464" source="darken" target="darkish" weight="0.022472" />
+      <edge id="465" source="darken" target="dabble" weight="0.024194" />
+      <edge id="466" source="darken" target="dappled" weight="0.007194" />
+      <edge id="467" source="darken" target="data" weight="0.005952" />
+      <edge id="468" source="darken" target="dash" weight="0.039832" />
+      <edge id="469" source="darken" target="dank" weight="0.010989" />
+      <edge id="470" source="dangerous" target="damaged" weight="0.01" />
+      <edge id="471" source="dangerous" target="damnable" weight="0.010753" />
+      <edge id="472" source="dangerous" target="dancing" weight="0.025974" />
+      <edge id="473" source="dangerous" target="damage" weight="0.006173" />
+      <edge id="474" source="dangerous" target="daft" weight="0.00885" />
+      <edge id="475" source="daft" target="dash" weight="0.002049" />
+      <edge id="476" source="dank" target="dash" weight="0.004695" />
+      <edge id="477" source="dazed" target="dash" weight="0.004124" />
+      <edge id="478" source="dazed" target="dashed" weight="0.016667" />
+      <edge id="479" source="daddy" target="dash" weight="0.002336" />
+      <edge id="480" source="daydreamer" target="dazzler" weight="0.02439" />
+      <edge id="481" source="daydreamer" target="daresay" weight="0.015873" />
+      <edge id="482" source="dash" target="dazzle" weight="0.051546" />
+      <edge id="483" source="dash" target="daring" weight="0.057377" />
+      <edge id="484" source="dash" target="dancing" weight="0.002208" />
+      <edge id="485" source="dash" target="dashed" weight="0.006466" />
+      <edge id="486" source="dash" target="damage" weight="0.020873" />
+      <edge id="487" source="dash" target="damaged" weight="0.004219" />
+      <edge id="488" source="dash" target="dale" weight="0.002336" />
+      <edge id="489" source="dash" target="dam" weight="0.005976" />
+      <edge id="490" source="dash" target="dabble" weight="0.064368" />
+      <edge id="491" source="dash" target="dappled" weight="0.004219" />
+      <edge id="492" source="dash" target="date" weight="0.005769" />
+      <edge id="493" source="dash" target="data" weight="0.003976" />
+      <edge id="494" source="dash" target="daredevil" weight="0.002309" />
+      <edge id="495" source="dazzle" target="daring" weight="0.015707" />
+      <edge id="496" source="dazzle" target="dancing" weight="0.007634" />
+      <edge id="497" source="dazzle" target="dashed" weight="0.006944" />
+      <edge id="498" source="dazzle" target="damage" weight="0.004651" />
+      <edge id="499" source="dazzle" target="darkish" weight="0.009615" />
+      <edge id="500" source="dazzle" target="dabble" weight="0.014388" />
+      <edge id="501" source="dazzle" target="data" weight="0.005495" />
+      <edge id="502" source="daring" target="damage" weight="0.004525" />
+      <edge id="503" source="daring" target="daredevil" weight="0.12381" />
+      <edge id="504" source="daring" target="data" weight="0.005319" />
+      <edge id="505" source="dancing" target="dashed" weight="0.011364" />
+      <edge id="506" source="dancing" target="date" weight="0.006944" />
+      <edge id="507" source="dancing" target="data" weight="0.007937" />
+      <edge id="508" source="dashed" target="damnable" weight="0.019608" />
+      <edge id="509" source="damage" target="damages" weight="0.020548" />
+      <edge id="510" source="damage" target="dam" weight="0.004762" />
+      <edge id="511" source="damage" target="damaged" weight="0.005525" />
+      <edge id="512" source="damage" target="damnable" weight="0.017442" />
+      <edge id="513" source="dam" target="damnatory" weight="0.008547" />
+      <edge id="514" source="dam" target="damnable" weight="0.007092" />
+      <edge id="515" source="dam" target="date" weight="0.005128" />
+      <edge id="516" source="dale" target="dabble" weight="0.016949" />
+      <edge id="517" source="darkish" target="darkened" weight="0.038462" />
+      <edge id="518" source="darkish" target="damnable" weight="0.015873" />
+      <edge id="519" source="darkish" target="dappled" weight="0.044118" />
+      <edge id="520" source="damaged" target="dappled" weight="0.016949" />
+      <edge id="521" source="dappled" target="darkened" weight="0.013333" />
+      <edge id="522" source="date" target="dabble" weight="0.006536" />
+      <edge id="523" source="date" target="daresay" weight="0.006993" />
+      <edge id="524" source="data" target="dabble" weight="0.007407" />
+    </edges>
+  </graph>
+</gexf>

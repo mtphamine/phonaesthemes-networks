@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="square" label="square">
+        <attvalues>
+          <attvalue for="0" value="4.48552268419" />
+        </attvalues>
+      </node>
+      <node id="squander" label="squander" />
+      <node id="squeak" label="squeak" />
+      <node id="squishy" label="squishy" />
+      <node id="squashed" label="squashed">
+        <attvalues>
+          <attvalue for="0" value="2.72754125703" />
+        </attvalues>
+      </node>
+      <node id="squirm" label="squirm">
+        <attvalues>
+          <attvalue for="0" value="2.69284691928" />
+        </attvalues>
+      </node>
+      <node id="squeal" label="squeal">
+        <attvalues>
+          <attvalue for="0" value="2.80550085816" />
+        </attvalues>
+      </node>
+      <node id="squinting" label="squinting">
+        <attvalues>
+          <attvalue for="0" value="3.08707120591" />
+        </attvalues>
+      </node>
+      <node id="squire" label="squire" />
+      <node id="squaring" label="squaring">
+        <attvalues>
+          <attvalue for="0" value="2.3856062736" />
+        </attvalues>
+      </node>
+      <node id="squawky" label="squawky">
+        <attvalues>
+          <attvalue for="0" value="1.2552725051" />
+        </attvalues>
+      </node>
+      <node id="squatting" label="squatting" />
+      <node id="squeezing" label="squeezing" />
+      <node id="squab" label="squab">
+        <attvalues>
+          <attvalue for="0" value="1.89209460269" />
+        </attvalues>
+      </node>
+      <node id="squirt" label="squirt">
+        <attvalues>
+          <attvalue for="0" value="2.75663610825" />
+        </attvalues>
+      </node>
+      <node id="squatter" label="squatter" />
+      <node id="squawk" label="squawk">
+        <attvalues>
+          <attvalue for="0" value="2.47129171106" />
+        </attvalues>
+      </node>
+      <node id="squabble" label="squabble">
+        <attvalues>
+          <attvalue for="0" value="2.52504480704" />
+        </attvalues>
+      </node>
+      <node id="squelchy" label="squelchy">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="squash" label="squash" />
+      <node id="squall" label="squall" />
+      <node id="squelch" label="squelch" />
+      <node id="squat" label="squat">
+        <attvalues>
+          <attvalue for="0" value="3.30081279412" />
+        </attvalues>
+      </node>
+      <node id="squarely" label="squarely">
+        <attvalues>
+          <attvalue for="0" value="3.20303288701" />
+        </attvalues>
+      </node>
+      <node id="squalid" label="squalid" />
+      <node id="squeeze" label="squeeze">
+        <attvalues>
+          <attvalue for="0" value="3.76930346019" />
+        </attvalues>
+      </node>
+      <node id="squad" label="squad" />
+      <node id="squashy" label="squashy">
+        <attvalues>
+          <attvalue for="0" value="1.32221929473" />
+        </attvalues>
+      </node>
+      <node id="squeaky" label="squeaky">
+        <attvalues>
+          <attvalue for="0" value="2.76863810125" />
+        </attvalues>
+      </node>
+      <node id="squish" label="squish" />
+      <node id="squeamish" label="squeamish" />
+      <node id="squandered" label="squandered" />
+      <node id="squealer" label="squealer">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="squeezed" label="squeezed">
+        <attvalues>
+          <attvalue for="0" value="3.70397882501" />
+        </attvalues>
+      </node>
+      <node id="squadron" label="squadron" />
+      <node id="squally" label="squally" />
+      <node id="squint" label="squint" />
+    </nodes>
+    <edges>
+      <edge id="0" source="square" target="squashed" weight="0.008929" />
+      <edge id="1" source="square" target="squat" weight="0.105263" />
+      <edge id="2" source="square" target="squeaky" weight="0.003003" />
+      <edge id="3" source="square" target="squeamish" weight="0.005797" />
+      <edge id="4" source="square" target="squeeze" weight="0.012903" />
+      <edge id="5" source="square" target="squire" weight="0.00495" />
+      <edge id="6" source="square" target="squelchy" weight="0.00289" />
+      <edge id="7" source="square" target="squash" weight="0.004073" />
+      <edge id="8" source="square" target="squaring" weight="0.022792" />
+      <edge id="9" source="square" target="squelch" weight="0.002427" />
+      <edge id="10" source="square" target="squad" weight="0.005222" />
+      <edge id="11" source="square" target="squishy" weight="0.002899" />
+      <edge id="12" source="square" target="squarely" weight="0.086687" />
+      <edge id="13" source="square" target="squalid" weight="0.004505" />
+      <edge id="14" source="square" target="squadron" weight="0.002817" />
+      <edge id="15" source="square" target="squally" weight="0.002915" />
+      <edge id="16" source="square" target="squirt" weight="0.005391" />
+      <edge id="17" source="square" target="squashy" weight="0.00289" />
+      <edge id="18" source="squander" target="squawk" weight="0.005435" />
+      <edge id="19" source="squander" target="squirt" weight="0.011236" />
+      <edge id="20" source="squander" target="squeal" weight="0.006536" />
+      <edge id="21" source="squeak" target="squawk" weight="0.182353" />
+      <edge id="22" source="squeak" target="squabble" weight="0.011364" />
+      <edge id="23" source="squeak" target="squeaky" weight="0.030769" />
+      <edge id="24" source="squeak" target="squealer" weight="0.014925" />
+      <edge id="25" source="squeak" target="squat" weight="0.005155" />
+      <edge id="26" source="squeak" target="squeal" weight="0.382114" />
+      <edge id="27" source="squishy" target="squat" weight="0.006061" />
+      <edge id="28" source="squishy" target="squelchy" weight="0.888889" />
+      <edge id="29" source="squishy" target="squashy" weight="0.888889" />
+      <edge id="30" source="squashed" target="squarely" weight="0.043478" />
+      <edge id="31" source="squashed" target="squirt" weight="0.014493" />
+      <edge id="32" source="squashed" target="squat" weight="0.006329" />
+      <edge id="33" source="squirm" target="squawk" weight="0.022472" />
+      <edge id="34" source="squirm" target="squabble" weight="0.014493" />
+      <edge id="35" source="squirm" target="squish" weight="0.01087" />
+      <edge id="36" source="squirm" target="squire" weight="0.008403" />
+      <edge id="37" source="squirm" target="squash" weight="0.004854" />
+      <edge id="38" source="squirm" target="squall" weight="0.007092" />
+      <edge id="39" source="squirm" target="squeeze" weight="0.010929" />
+      <edge id="40" source="squirm" target="squeal" weight="0.006667" />
+      <edge id="41" source="squeal" target="squealer" weight="0.04" />
+      <edge id="42" source="squeal" target="squawk" weight="0.376963" />
+      <edge id="43" source="squeal" target="squabble" weight="0.013423" />
+      <edge id="44" source="squeal" target="squeaky" weight="0.015748" />
+      <edge id="45" source="squeal" target="squash" weight="0.021277" />
+      <edge id="46" source="squeal" target="squall" weight="0.58156" />
+      <edge id="47" source="squeal" target="squelch" weight="0.024631" />
+      <edge id="48" source="squeal" target="squat" weight="0.003906" />
+      <edge id="49" source="squeal" target="squalid" weight="0.004167" />
+      <edge id="50" source="squeal" target="squish" weight="0.029586" />
+      <edge id="51" source="squinting" target="squint" weight="0.037037" />
+      <edge id="52" source="squaring" target="squarely" weight="0.014925" />
+      <edge id="53" source="squaring" target="squat" weight="0.005618" />
+      <edge id="54" source="squawky" target="squeezed" weight="0.021739" />
+      <edge id="55" source="squawky" target="squalid" weight="0.006897" />
+      <edge id="56" source="squawky" target="squat" weight="0.006211" />
+      <edge id="57" source="squatting" target="squabble" weight="0.015873" />
+      <edge id="58" source="squatting" target="squat" weight="0.011905" />
+      <edge id="59" source="squeezing" target="squeeze" weight="0.052023" />
+      <edge id="60" source="squeezing" target="squab" weight="0.030303" />
+      <edge id="61" source="squab" target="squawk" weight="0.005495" />
+      <edge id="62" source="squab" target="squat" weight="0.005682" />
+      <edge id="63" source="squab" target="squish" weight="0.08046" />
+      <edge id="64" source="squab" target="squash" weight="0.04" />
+      <edge id="65" source="squab" target="squad" weight="0.010101" />
+      <edge id="66" source="squab" target="squelch" weight="0.024" />
+      <edge id="67" source="squab" target="squeeze" weight="0.039106" />
+      <edge id="68" source="squirt" target="squash" weight="0.004484" />
+      <edge id="69" source="squirt" target="squelch" weight="0.006993" />
+      <edge id="70" source="squirt" target="squarely" weight="0.012346" />
+      <edge id="71" source="squirt" target="squish" weight="0.009174" />
+      <edge id="72" source="squatter" target="squat" weight="0.006024" />
+      <edge id="73" source="squawk" target="squabble" weight="0.028249" />
+      <edge id="74" source="squawk" target="squeaky" weight="0.019108" />
+      <edge id="75" source="squawk" target="squish" weight="0.025" />
+      <edge id="76" source="squawk" target="squash" weight="0.019169" />
+      <edge id="77" source="squawk" target="squall" weight="0.372973" />
+      <edge id="78" source="squawk" target="squelch" weight="0.021368" />
+      <edge id="79" source="squabble" target="squall" weight="0.014286" />
+      <edge id="80" source="squabble" target="squeeze" weight="0.005435" />
+      <edge id="81" source="squelchy" target="squat" weight="0.006024" />
+      <edge id="82" source="squelchy" target="squalid" weight="0.013423" />
+      <edge id="83" source="squelchy" target="squally" weight="0.020833" />
+      <edge id="84" source="squelchy" target="squashy" weight="0.925926" />
+      <edge id="85" source="squash" target="squeaky" weight="0.005435" />
+      <edge id="86" source="squash" target="squat" weight="0.006431" />
+      <edge id="87" source="squash" target="squarely" weight="0.004975" />
+      <edge id="88" source="squash" target="squeeze" weight="0.045455" />
+      <edge id="89" source="squall" target="squeaky" weight="0.008403" />
+      <edge id="90" source="squall" target="squat" weight="0.004049" />
+      <edge id="91" source="squelch" target="squeaky" weight="0.009615" />
+      <edge id="92" source="squelch" target="squat" weight="0.00431" />
+      <edge id="93" source="squelch" target="squeeze" weight="0.029787" />
+      <edge id="94" source="squat" target="squandered" weight="0.006579" />
+      <edge id="95" source="squat" target="squashy" weight="0.006024" />
+      <edge id="96" source="squat" target="squeezed" weight="0.006024" />
+      <edge id="97" source="squat" target="squarely" weight="0.017857" />
+      <edge id="98" source="squat" target="squally" weight="0.006135" />
+      <edge id="99" source="squat" target="squalid" weight="0.019157" />
+      <edge id="100" source="squarely" target="squeaky" weight="0.02381" />
+      <edge id="101" source="squalid" target="squeezed" weight="0.006667" />
+      <edge id="102" source="squalid" target="squashy" weight="0.013423" />
+      <edge id="103" source="squeeze" target="squish" weight="0.04" />
+      <edge id="104" source="squeeze" target="squad" weight="0.009434" />
+      <edge id="105" source="squashy" target="squally" weight="0.020833" />
+      <edge id="106" source="squeaky" target="squish" weight="0.014286" />
+    </edges>
+  </graph>
+</gexf>

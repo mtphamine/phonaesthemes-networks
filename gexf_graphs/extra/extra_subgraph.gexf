@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="extramural" label="extramural" />
+      <node id="extramundane" label="extramundane" />
+      <node id="extraterrestrial" label="extraterrestrial" />
+      <node id="extravagance" label="extravagance" />
+      <node id="extraneous" label="extraneous" />
+      <node id="extraction" label="extraction" />
+      <node id="extract" label="extract" />
+      <node id="extravaganza" label="extravaganza" />
+    </nodes>
+    <edges>
+      <edge id="0" source="extramural" target="extramundane" />
+      <edge id="1" source="extramural" target="extraterrestrial" />
+      <edge id="2" source="extramundane" target="extraterrestrial" />
+      <edge id="3" source="extraterrestrial" target="extraneous" />
+      <edge id="4" source="extravagance" target="extravaganza" />
+      <edge id="5" source="extraction" target="extract" />
+    </edges>
+  </graph>
+</gexf>

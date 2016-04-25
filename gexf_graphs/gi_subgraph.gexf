@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="gizzard" label="gizzard" />
+      <node id="gill" label="gill" />
+      <node id="giant" label="giant" />
+      <node id="gibe" label="gibe" />
+      <node id="gizmo" label="gizmo" />
+      <node id="gilded" label="gilded" />
+      <node id="gift" label="gift" />
+      <node id="give" label="give" />
+      <node id="gibberish" label="gibberish" />
+      <node id="girdle" label="girdle" />
+      <node id="gigantic" label="gigantic" />
+      <node id="gibbering" label="gibbering" />
+      <node id="girth" label="girth" />
+      <node id="gird" label="gird" />
+      <node id="gingerbread" label="gingerbread" />
+      <node id="gilt" label="gilt" />
+      <node id="gimcrack" label="gimcrack" />
+      <node id="gimmick" label="gimmick" />
+      <node id="gibber" label="gibber" />
+      <node id="girl" label="girl" />
+      <node id="giblets" label="giblets" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gizzard" target="giblets" />
+      <edge id="1" source="gill" target="girl" />
+      <edge id="2" source="giant" target="gigantic" />
+      <edge id="3" source="gibe" target="gird" />
+      <edge id="4" source="gizmo" target="gimcrack" />
+      <edge id="5" source="gizmo" target="gimmick" />
+      <edge id="6" source="gilded" target="gilt" />
+      <edge id="7" source="gift" target="give" />
+      <edge id="8" source="give" target="give" />
+      <edge id="9" source="gibberish" target="gibber" />
+      <edge id="10" source="girdle" target="gird" />
+      <edge id="11" source="girdle" target="girth" />
+      <edge id="12" source="gibbering" target="gibber" />
+      <edge id="13" source="girth" target="gird" />
+      <edge id="14" source="gingerbread" target="gilt" />
+      <edge id="15" source="gimcrack" target="gimmick" />
+    </edges>
+  </graph>
+</gexf>

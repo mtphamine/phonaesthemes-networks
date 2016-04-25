@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="rive" label="rive" />
+      <node id="right" label="right" />
+      <node id="rightly" label="rightly" />
+      <node id="ringing" label="ringing" />
+      <node id="ripe" label="ripe" />
+      <node id="rimple" label="rimple" />
+      <node id="rightward" label="rightward" />
+      <node id="rigging" label="rigging" />
+      <node id="rivulet" label="rivulet" />
+      <node id="rip" label="rip" />
+      <node id="risque" label="risque" />
+      <node id="rigorous" label="rigorous" />
+      <node id="rile" label="rile" />
+      <node id="rising" label="rising" />
+      <node id="ridicule" label="ridicule" />
+      <node id="ripple" label="ripple" />
+      <node id="rig" label="rig" />
+      <node id="ring" label="ring" />
+      <node id="rib" label="rib" />
+      <node id="riotous" label="riotous" />
+      <node id="rigidity" label="rigidity" />
+      <node id="rigidly" label="rigidly" />
+      <node id="ridge" label="ridge" />
+      <node id="ritual" label="ritual" />
+      <node id="rigid" label="rigid" />
+      <node id="ribald" label="ribald" />
+      <node id="ripened" label="ripened" />
+      <node id="riptide" label="riptide" />
+      <node id="rich" label="rich" />
+      <node id="rightist" label="rightist" />
+      <node id="ritualistic" label="ritualistic" />
+      <node id="riverside" label="riverside" />
+      <node id="righteous" label="righteous" />
+      <node id="rinsing" label="rinsing" />
+      <node id="risk" label="risk" />
+      <node id="riot" label="riot" />
+      <node id="rightfully" label="rightfully" />
+      <node id="rioting" label="rioting" />
+      <node id="rise" label="rise" />
+      <node id="rime" label="rime" />
+      <node id="ridiculous" label="ridiculous" />
+      <node id="rigor" label="rigor" />
+      <node id="rifle" label="rifle" />
+      <node id="rite" label="rite" />
+      <node id="rioter" label="rioter" />
+      <node id="riskiness" label="riskiness" />
+      <node id="rightful" label="rightful" />
+      <node id="rift" label="rift" />
+      <node id="risible" label="risible" />
+      <node id="rigamarole" label="rigamarole" />
+      <node id="rival" label="rival" />
+      <node id="ride" label="ride" />
+      <node id="rigorously" label="rigorously" />
+      <node id="ripen" label="ripen" />
+      <node id="rife" label="rife" />
+      <node id="rigmarole" label="rigmarole" />
+      <node id="riviera" label="riviera" />
+      <node id="riffle" label="riffle" />
+      <node id="rivaling" label="rivaling" />
+      <node id="rightness" label="rightness" />
+      <node id="river" label="river" />
+      <node id="rifleman" label="rifleman" />
+      <node id="rinse" label="rinse" />
+      <node id="risky" label="risky" />
+    </nodes>
+    <edges>
+      <edge id="0" source="rive" target="rift" />
+      <edge id="1" source="rive" target="rip" />
+      <edge id="2" source="right" target="rigidly" />
+      <edge id="3" source="right" target="rightly" />
+      <edge id="4" source="right" target="rightward" />
+      <edge id="5" source="right" target="rightful" />
+      <edge id="6" source="right" target="rigorously" />
+      <edge id="7" source="right" target="rightfully" />
+      <edge id="8" source="right" target="rigor" />
+      <edge id="9" source="right" target="rigorous" />
+      <edge id="10" source="right" target="rightist" />
+      <edge id="11" source="right" target="righteous" />
+      <edge id="12" source="right" target="rightness" />
+      <edge id="13" source="right" target="rigidity" />
+      <edge id="14" source="rightly" target="rightfully" />
+      <edge id="15" source="ringing" target="ring" />
+      <edge id="16" source="ripe" target="ripened" />
+      <edge id="17" source="ripe" target="ripen" />
+      <edge id="18" source="rimple" target="ripple" />
+      <edge id="19" source="rimple" target="ridge" />
+      <edge id="20" source="rigging" target="rig" />
+      <edge id="21" source="rivulet" target="river" />
+      <edge id="22" source="rip" target="rift" />
+      <edge id="23" source="rip" target="riptide" />
+      <edge id="24" source="risque" target="ribald" />
+      <edge id="25" source="risque" target="risky" />
+      <edge id="26" source="rigorous" target="rigid" />
+      <edge id="27" source="rile" target="ripple" />
+      <edge id="28" source="rile" target="ride" />
+      <edge id="29" source="rising" target="rise" />
+      <edge id="30" source="rising" target="riot" />
+      <edge id="31" source="ridicule" target="ride" />
+      <edge id="32" source="ripple" target="riffle" />
+      <edge id="33" source="ripple" target="rise" />
+      <edge id="34" source="ripple" target="ridge" />
+      <edge id="35" source="ring" target="rib" />
+      <edge id="36" source="ring" target="rise" />
+      <edge id="37" source="ring" target="ridge" />
+      <edge id="38" source="rib" target="ridge" />
+      <edge id="39" source="rib" target="ride" />
+      <edge id="40" source="riotous" target="rife" />
+      <edge id="41" source="riotous" target="rich" />
+      <edge id="42" source="rigidity" target="rightness" />
+      <edge id="43" source="rigidity" target="rigor" />
+      <edge id="44" source="rigidly" target="rigorously" />
+      <edge id="45" source="ritual" target="rite" />
+      <edge id="46" source="ritual" target="ritualistic" />
+      <edge id="47" source="rich" target="rife" />
+      <edge id="48" source="rich" target="ridiculous" />
+      <edge id="49" source="rich" target="risible" />
+      <edge id="50" source="riverside" target="riviera" />
+      <edge id="51" source="righteous" target="rightful" />
+      <edge id="52" source="rinsing" target="rinse" />
+      <edge id="53" source="risk" target="riskiness" />
+      <edge id="54" source="riot" target="rioting" />
+      <edge id="55" source="riot" target="rise" />
+      <edge id="56" source="rise" target="riffle" />
+      <edge id="57" source="rime" target="rift" />
+      <edge id="58" source="ridiculous" target="risible" />
+      <edge id="59" source="rigor" target="rightness" />
+      <edge id="60" source="rifle" target="rifleman" />
+      <edge id="61" source="rioter" target="rival" />
+      <edge id="62" source="rigamarole" target="rigmarole" />
+      <edge id="63" source="rival" target="rivaling" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="tuberculosis" label="tuberculosis" />
+      <node id="tumble" label="tumble" />
+      <node id="tubercle" label="tubercle" />
+      <node id="tubercular" label="tubercular" />
+      <node id="turbulent" label="turbulent">
+        <attvalues>
+          <attvalue for="0" value="3.20303288701" />
+        </attvalues>
+      </node>
+      <node id="tutelary" label="tutelary" />
+      <node id="tuneless" label="tuneless">
+        <attvalues>
+          <attvalue for="0" value="1.80617997398" />
+        </attvalues>
+      </node>
+      <node id="turtlelike" label="turtlelike">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="tumultuous" label="tumultuous">
+        <attvalues>
+          <attvalue for="0" value="3.00987563371" />
+        </attvalues>
+      </node>
+      <node id="tuberous" label="tuberous">
+        <attvalues>
+          <attvalue for="0" value="1.69897000434" />
+        </attvalues>
+      </node>
+      <node id="tutelage" label="tutelage">
+        <attvalues>
+          <attvalue for="0" value="2.660865478" />
+        </attvalues>
+      </node>
+      <node id="turkey" label="turkey">
+        <attvalues>
+          <attvalue for="0" value="4.2415464806" />
+        </attvalues>
+      </node>
+      <node id="tussle" label="tussle" />
+      <node id="tummy" label="tummy" />
+      <node id="tuft" label="tuft">
+        <attvalues>
+          <attvalue for="0" value="2.46538285145" />
+        </attvalues>
+      </node>
+      <node id="turret" label="turret" />
+      <node id="tube" label="tube">
+        <attvalues>
+          <attvalue for="0" value="3.9825877907" />
+        </attvalues>
+      </node>
+      <node id="turncoat" label="turncoat">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="tuba" label="tuba" />
+      <node id="tutor" label="tutor">
+        <attvalues>
+          <attvalue for="0" value="3.13830269817" />
+        </attvalues>
+      </node>
+      <node id="turnaround" label="turnaround">
+        <attvalues>
+          <attvalue for="0" value="3.33102217104" />
+        </attvalues>
+      </node>
+      <node id="turbid" label="turbid">
+        <attvalues>
+          <attvalue for="0" value="2.11394335231" />
+        </attvalues>
+      </node>
+      <node id="tusk" label="tusk" />
+      <node id="tush" label="tush">
+        <attvalues>
+          <attvalue for="0" value="2.34242268082" />
+        </attvalues>
+      </node>
+      <node id="turnabout" label="turnabout">
+        <attvalues>
+          <attvalue for="0" value="2.31806333496" />
+        </attvalues>
+      </node>
+      <node id="turmoil" label="turmoil">
+        <attvalues>
+          <attvalue for="0" value="3.52231379516" />
+        </attvalues>
+      </node>
+      <node id="turning" label="turning">
+        <attvalues>
+          <attvalue for="0" value="4.50551625979" />
+        </attvalues>
+      </node>
+      <node id="tumbler" label="tumbler" />
+      <node id="tucked" label="tucked">
+        <attvalues>
+          <attvalue for="0" value="3.77188132019" />
+        </attvalues>
+      </node>
+      <node id="tubby" label="tubby">
+        <attvalues>
+          <attvalue for="0" value="2.30535136945" />
+        </attvalues>
+      </node>
+      <node id="tundra" label="tundra">
+        <attvalues>
+          <attvalue for="0" value="3.03100428136" />
+        </attvalues>
+      </node>
+      <node id="tumbledown" label="tumbledown" />
+      <node id="tucker" label="tucker" />
+      <node id="tumorous" label="tumorous" />
+      <node id="turpentine" label="turpentine" />
+      <node id="tubing" label="tubing" />
+      <node id="tuppence" label="tuppence">
+        <attvalues>
+          <attvalue for="0" value="1.38021124171" />
+        </attvalues>
+      </node>
+      <node id="turbulence" label="turbulence" />
+      <node id="tub" label="tub" />
+      <node id="tuition" label="tuition">
+        <attvalues>
+          <attvalue for="0" value="3.63184946216" />
+        </attvalues>
+      </node>
+      <node id="turnout" label="turnout">
+        <attvalues>
+          <attvalue for="0" value="3.36567514046" />
+        </attvalues>
+      </node>
+      <node id="tune" label="tune" />
+      <node id="tug" label="tug">
+        <attvalues>
+          <attvalue for="0" value="3.35256838618" />
+        </attvalues>
+      </node>
+      <node id="tumid" label="tumid">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="turndown" label="turndown">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="turbidity" label="turbidity" />
+      <node id="tuck" label="tuck" />
+      <node id="tunnel" label="tunnel">
+        <attvalues>
+          <attvalue for="0" value="3.86045779542" />
+        </attvalues>
+      </node>
+      <node id="tumult" label="tumult" />
+      <node id="tutorship" label="tutorship" />
+      <node id="tumor" label="tumor">
+        <attvalues>
+          <attvalue for="0" value="3.62859325585" />
+        </attvalues>
+      </node>
+      <node id="turn" label="turn" />
+      <node id="turgid" label="turgid" />
+      <node id="turpitude" label="turpitude">
+        <attvalues>
+          <attvalue for="0" value="1.66275783168" />
+        </attvalues>
+      </node>
+      <node id="turnpike" label="turnpike" />
+      <node id="turf" label="turf">
+        <attvalues>
+          <attvalue for="0" value="3.50460677064" />
+        </attvalues>
+      </node>
+      <node id="tumescence" label="tumescence">
+        <attvalues>
+          <attvalue for="0" value="1.66275783168" />
+        </attvalues>
+      </node>
+      <node id="turnover" label="turnover">
+        <attvalues>
+          <attvalue for="0" value="3.45086469238" />
+        </attvalues>
+      </node>
+      <node id="turd" label="turd" />
+      <node id="turntail" label="turntail" />
+    </nodes>
+    <edges>
+      <edge id="0" source="tuberculosis" target="tumor" weight="0.017544" />
+      <edge id="1" source="tumble" target="turkey" weight="0.006803" />
+      <edge id="2" source="tumble" target="turmoil" weight="0.051402" />
+      <edge id="3" source="tumble" target="turning" weight="0.013514" />
+      <edge id="4" source="tumble" target="tuft" weight="0.013333" />
+      <edge id="5" source="tumble" target="tunnel" weight="0.004785" />
+      <edge id="6" source="tumble" target="tube" weight="0.005587" />
+      <edge id="7" source="tumble" target="turbulent" weight="0.004762" />
+      <edge id="8" source="tumble" target="tundra" weight="0.021127" />
+      <edge id="9" source="tumble" target="tumor" weight="0.005236" />
+      <edge id="10" source="tumble" target="tutor" weight="0.007576" />
+      <edge id="11" source="tumble" target="tuppence" weight="0.006173" />
+      <edge id="12" source="tumble" target="turbid" weight="0.006452" />
+      <edge id="13" source="tumble" target="tumescence" weight="0.005556" />
+      <edge id="14" source="tumble" target="turnover" weight="0.014184" />
+      <edge id="15" source="tumble" target="tug" weight="0.005464" />
+      <edge id="16" source="tubercle" target="tumid" weight="0.009091" />
+      <edge id="17" source="tubercle" target="turmoil" weight="0.010417" />
+      <edge id="18" source="tubercle" target="turning" weight="0.005181" />
+      <edge id="19" source="tubercle" target="tuft" weight="0.025424" />
+      <edge id="20" source="tubercle" target="tube" weight="0.006757" />
+      <edge id="21" source="tubercle" target="tumor" weight="0.110345" />
+      <edge id="22" source="tubercle" target="tush" weight="0.009615" />
+      <edge id="23" source="tubercle" target="tuppence" weight="0.007634" />
+      <edge id="24" source="tubercle" target="tumescence" weight="0.079137" />
+      <edge id="25" source="tubercle" target="turnout" weight="0.005587" />
+      <edge id="26" source="tubercular" target="tumid" weight="0.018182" />
+      <edge id="27" source="tubercular" target="tuberous" weight="0.219512" />
+      <edge id="28" source="turbulent" target="turmoil" weight="0.004831" />
+      <edge id="29" source="turbulent" target="turbid" weight="0.198276" />
+      <edge id="30" source="turbulent" target="tumult" weight="0.004739" />
+      <edge id="31" source="turbulent" target="turncoat" weight="0.015748" />
+      <edge id="32" source="turbulent" target="turn" weight="0.001497" />
+      <edge id="33" source="turbulent" target="turbulence" weight="0.004739" />
+      <edge id="34" source="turbulent" target="tumultuous" weight="0.320755" />
+      <edge id="35" source="turbulent" target="turbidity" weight="0.006849" />
+      <edge id="36" source="turbulent" target="turnover" weight="0.008" />
+      <edge id="37" source="tutelary" target="tutor" weight="0.025641" />
+      <edge id="38" source="tuneless" target="tumultuous" weight="0.016667" />
+      <edge id="39" source="tuneless" target="tundra" weight="0.020833" />
+      <edge id="40" source="tuneless" target="turn" weight="0.001698" />
+      <edge id="41" source="turtlelike" target="turgid" weight="0.025974" />
+      <edge id="42" source="turtlelike" target="tumbledown" weight="0.014085" />
+      <edge id="43" source="tumultuous" target="turbid" weight="0.024096" />
+      <edge id="44" source="tuberous" target="tumorous" weight="0.021739" />
+      <edge id="45" source="tutelage" target="tutorship" weight="0.285714" />
+      <edge id="46" source="tutelage" target="tuition" weight="0.235294" />
+      <edge id="47" source="tutelage" target="turn" weight="0.006494" />
+      <edge id="48" source="tutelage" target="turnaround" weight="0.018519" />
+      <edge id="49" source="tutelage" target="turnabout" weight="0.007692" />
+      <edge id="50" source="tutelage" target="tug" weight="0.008547" />
+      <edge id="51" source="turkey" target="turn" weight="0.001653" />
+      <edge id="52" source="tussle" target="turmoil" weight="0.05625" />
+      <edge id="53" source="tussle" target="turnout" weight="0.006494" />
+      <edge id="54" source="tussle" target="tug" weight="0.032258" />
+      <edge id="55" source="tummy" target="tuft" weight="0.018182" />
+      <edge id="56" source="tuft" target="tucker" weight="0.012658" />
+      <edge id="57" source="tuft" target="turn" weight="0.003289" />
+      <edge id="58" source="tuft" target="tundra" weight="0.014706" />
+      <edge id="59" source="tuft" target="tumbledown" weight="0.013889" />
+      <edge id="60" source="tuft" target="tumor" weight="0.017544" />
+      <edge id="61" source="tuft" target="tuppence" weight="0.011628" />
+      <edge id="62" source="tuft" target="tumescence" weight="0.009615" />
+      <edge id="63" source="tuft" target="turmoil" weight="0.006757" />
+      <edge id="64" source="turret" target="tunnel" weight="0.008" />
+      <edge id="65" source="turret" target="tube" weight="0.032258" />
+      <edge id="66" source="tube" target="tunnel" weight="0.018868" />
+      <edge id="67" source="tube" target="turning" weight="0.005682" />
+      <edge id="68" source="tube" target="turnpike" weight="0.016949" />
+      <edge id="69" source="tube" target="tutor" weight="0.011905" />
+      <edge id="70" source="tube" target="turn" weight="0.003145" />
+      <edge id="71" source="tube" target="tumbler" weight="0.014085" />
+      <edge id="72" source="tube" target="tubing" weight="0.223881" />
+      <edge id="73" source="tube" target="tuppence" weight="0.008772" />
+      <edge id="74" source="tube" target="turf" weight="0.008696" />
+      <edge id="75" source="tube" target="turnout" weight="0.181159" />
+      <edge id="76" source="tube" target="tune" weight="0.006211" />
+      <edge id="77" source="tube" target="tug" weight="0.007407" />
+      <edge id="78" source="turncoat" target="turning" weight="0.007042" />
+      <edge id="79" source="turncoat" target="tuba" weight="0.02381" />
+      <edge id="80" source="turncoat" target="turn" weight="0.003322" />
+      <edge id="81" source="turncoat" target="turntail" weight="0.515152" />
+      <edge id="82" source="turncoat" target="turnaround" weight="0.026316" />
+      <edge id="83" source="turncoat" target="turd" weight="0.032787" />
+      <edge id="84" source="turncoat" target="turnabout" weight="0.185567" />
+      <edge id="85" source="turncoat" target="tug" weight="0.009901" />
+      <edge id="86" source="tutor" target="tunnel" weight="0.008772" />
+      <edge id="87" source="tutor" target="turn" weight="0.001695" />
+      <edge id="88" source="tutor" target="turpentine" weight="0.026316" />
+      <edge id="89" source="tutor" target="tug" weight="0.011364" />
+      <edge id="90" source="turnaround" target="turning" weight="0.008547" />
+      <edge id="91" source="turnaround" target="turnabout" weight="0.071429" />
+      <edge id="92" source="turnaround" target="turn" weight="0.008711" />
+      <edge id="93" source="turnaround" target="turntail" weight="0.041667" />
+      <edge id="94" source="turbid" target="turmoil" weight="0.006579" />
+      <edge id="95" source="turbid" target="tumult" weight="0.00641" />
+      <edge id="96" source="turbid" target="turn" weight="0.001631" />
+      <edge id="97" source="turbid" target="turbulence" weight="0.00641" />
+      <edge id="98" source="turbid" target="turbidity" weight="0.010989" />
+      <edge id="99" source="turbid" target="turnover" weight="0.014286" />
+      <edge id="100" source="tusk" target="tuppence" weight="0.015385" />
+      <edge id="101" source="tusk" target="tush" weight="0.56" />
+      <edge id="102" source="tush" target="tuppence" weight="0.014286" />
+      <edge id="103" source="tush" target="turbulence" weight="0.007353" />
+      <edge id="104" source="turnabout" target="turmoil" weight="0.005181" />
+      <edge id="105" source="turnabout" target="turning" weight="0.037433" />
+      <edge id="106" source="turnabout" target="turpitude" weight="0.010526" />
+      <edge id="107" source="turnabout" target="turn" weight="0.10084" />
+      <edge id="108" source="turnabout" target="turnover" weight="0.018182" />
+      <edge id="109" source="turnabout" target="tumult" weight="0.005076" />
+      <edge id="110" source="turnabout" target="turd" weight="0.00885" />
+      <edge id="111" source="turnabout" target="turntail" weight="0.202381" />
+      <edge id="112" source="turmoil" target="tucker" weight="0.006579" />
+      <edge id="113" source="turmoil" target="turning" weight="0.009091" />
+      <edge id="114" source="turmoil" target="turnpike" weight="0.006098" />
+      <edge id="115" source="turmoil" target="tumult" weight="0.637681" />
+      <edge id="116" source="turmoil" target="tuck" weight="0.007246" />
+      <edge id="117" source="turmoil" target="tumor" weight="0.010695" />
+      <edge id="118" source="turmoil" target="turn" weight="0.011852" />
+      <edge id="119" source="turmoil" target="turbidity" weight="0.387931" />
+      <edge id="120" source="turmoil" target="turbulence" weight="0.516779" />
+      <edge id="121" source="turmoil" target="tub" weight="0.005618" />
+      <edge id="122" source="turmoil" target="tumescence" weight="0.00565" />
+      <edge id="123" source="turmoil" target="turnover" weight="0.014493" />
+      <edge id="124" source="turmoil" target="turnout" weight="0.004831" />
+      <edge id="125" source="turmoil" target="tug" weight="0.005556" />
+      <edge id="126" source="turning" target="turndown" weight="0.007576" />
+      <edge id="127" source="turning" target="tuck" weight="0.022059" />
+      <edge id="128" source="turning" target="tumult" weight="0.004444" />
+      <edge id="129" source="turning" target="turnover" weight="0.007194" />
+      <edge id="130" source="turning" target="turn" weight="0.094551" />
+      <edge id="131" source="turning" target="turbulence" weight="0.004444" />
+      <edge id="132" source="turning" target="turf" weight="0.00625" />
+      <edge id="133" source="turning" target="tubby" weight="0.006369" />
+      <edge id="134" source="turning" target="turntail" weight="0.007813" />
+      <edge id="135" source="turning" target="tug" weight="0.005556" />
+      <edge id="136" source="tucked" target="tuck" weight="0.027778" />
+      <edge id="137" source="tubby" target="tumid" weight="0.071429" />
+      <edge id="138" source="tubby" target="tumorous" weight="0.014085" />
+      <edge id="139" source="tubby" target="turgid" weight="0.059524" />
+      <edge id="140" source="tundra" target="tumbledown" weight="0.015385" />
+      <edge id="141" source="tundra" target="tucker" weight="0.013889" />
+      <edge id="142" source="tundra" target="tub" weight="0.010204" />
+      <edge id="143" source="tumbledown" target="turndown" weight="0.017857" />
+      <edge id="144" source="tucker" target="tumor" weight="0.008403" />
+      <edge id="145" source="tucker" target="tumescence" weight="0.009259" />
+      <edge id="146" source="tucker" target="tug" weight="0.009009" />
+      <edge id="147" source="tumorous" target="tumid" weight="0.12766" />
+      <edge id="148" source="tubing" target="tuppence" weight="0.015625" />
+      <edge id="149" source="tubing" target="turnout" weight="0.008929" />
+      <edge id="150" source="tuppence" target="turnover" weight="0.012987" />
+      <edge id="151" source="tuppence" target="turn" weight="0.001613" />
+      <edge id="152" source="tuppence" target="turd" weight="0.012658" />
+      <edge id="153" source="tuppence" target="tug" weight="0.008475" />
+      <edge id="154" source="turbulence" target="tunnel" weight="0.009569" />
+      <edge id="155" source="turbulence" target="tumor" weight="0.015789" />
+      <edge id="156" source="turbulence" target="tumescence" weight="0.011111" />
+      <edge id="157" source="turbulence" target="turnover" weight="0.006993" />
+      <edge id="158" source="turbulence" target="turnout" weight="0.004739" />
+      <edge id="159" source="turbulence" target="tug" weight="0.005435" />
+      <edge id="160" source="tub" target="tumor" weight="0.006897" />
+      <edge id="161" source="tub" target="tumescence" weight="0.007463" />
+      <edge id="162" source="tub" target="tunnel" weight="0.006135" />
+      <edge id="163" source="tuition" target="tutorship" weight="0.666667" />
+      <edge id="164" source="turnout" target="tunnel" weight="0.010471" />
+      <edge id="165" source="turnout" target="tumult" weight="0.004739" />
+      <edge id="166" source="turnout" target="turn" weight="0.004505" />
+      <edge id="167" source="turnout" target="turf" weight="0.006849" />
+      <edge id="168" source="turnout" target="turnpike" weight="0.013423" />
+      <edge id="169" source="turnout" target="tune" weight="0.005208" />
+      <edge id="170" source="turnout" target="tug" weight="0.02454" />
+      <edge id="171" source="tune" target="tug" weight="0.006061" />
+      <edge id="172" source="tug" target="turnpike" weight="0.00813" />
+      <edge id="173" source="tug" target="tunnel" weight="0.006061" />
+      <edge id="174" source="tug" target="tumult" weight="0.005435" />
+      <edge id="175" source="tug" target="turn" weight="0.019048" />
+      <edge id="176" source="tug" target="turf" weight="0.008403" />
+      <edge id="177" source="tug" target="turd" weight="0.01" />
+      <edge id="178" source="tug" target="turbidity" weight="0.008403" />
+      <edge id="179" source="tumid" target="tumor" weight="0.009524" />
+      <edge id="180" source="tumid" target="turgid" weight="0.627907" />
+      <edge id="181" source="tumid" target="tumescence" weight="0.010638" />
+      <edge id="182" source="turndown" target="turn" weight="0.001686" />
+      <edge id="183" source="turbidity" target="tumor" weight="0.015873" />
+      <edge id="184" source="turbidity" target="tumescence" weight="0.008621" />
+      <edge id="185" source="turbidity" target="turnover" weight="0.012821" />
+      <edge id="186" source="tunnel" target="turn" weight="0.012121" />
+      <edge id="187" source="tunnel" target="turnpike" weight="0.041667" />
+      <edge id="188" source="tunnel" target="turf" weight="0.006897" />
+      <edge id="189" source="tunnel" target="tumescence" weight="0.006173" />
+      <edge id="190" source="tunnel" target="turnover" weight="0.008065" />
+      <edge id="191" source="tumult" target="tumor" weight="0.021164" />
+      <edge id="192" source="tumult" target="tumescence" weight="0.011111" />
+      <edge id="193" source="tumult" target="turnover" weight="0.014085" />
+      <edge id="194" source="tumor" target="turn" weight="0.004637" />
+      <edge id="195" source="tumor" target="turgid" weight="0.008403" />
+      <edge id="196" source="tumor" target="tumescence" weight="0.169355" />
+      <edge id="197" source="turn" target="turpitude" weight="0.001712" />
+      <edge id="198" source="turn" target="turf" weight="0.006472" />
+      <edge id="199" source="turn" target="tumescence" weight="0.007886" />
+      <edge id="200" source="turn" target="turnover" weight="0.005017" />
+      <edge id="201" source="turgid" target="tumescence" weight="0.009259" />
+      <edge id="202" source="turnpike" target="turf" weight="0.009709" />
+      <edge id="203" source="tumescence" target="turnover" weight="0.021277" />
+    </edges>
+  </graph>
+</gexf>

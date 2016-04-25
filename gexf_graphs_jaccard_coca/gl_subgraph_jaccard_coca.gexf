@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="glaze" label="glaze" />
+      <node id="glut" label="glut" />
+      <node id="global" label="global">
+        <attvalues>
+          <attvalue for="0" value="4.62077088964" />
+        </attvalues>
+      </node>
+      <node id="glaucous" label="glaucous" />
+      <node id="glue" label="glue">
+        <attvalues>
+          <attvalue for="0" value="3.56761444273" />
+        </attvalues>
+      </node>
+      <node id="glabrous" label="glabrous" />
+      <node id="glen" label="glen">
+        <attvalues>
+          <attvalue for="0" value="3.54900326203" />
+        </attvalues>
+      </node>
+      <node id="glimpse" label="glimpse" />
+      <node id="glide" label="glide" />
+      <node id="glee" label="glee">
+        <attvalues>
+          <attvalue for="0" value="3.0817072701" />
+        </attvalues>
+      </node>
+      <node id="glowing" label="glowing">
+        <attvalues>
+          <attvalue for="0" value="3.63548374681" />
+        </attvalues>
+      </node>
+      <node id="glandular" label="glandular" />
+      <node id="gluttonous" label="gluttonous">
+        <attvalues>
+          <attvalue for="0" value="1.71600334363" />
+        </attvalues>
+      </node>
+      <node id="gleet" label="gleet" />
+      <node id="glowworm" label="glowworm">
+        <attvalues>
+          <attvalue for="0" value="1.11394335231" />
+        </attvalues>
+      </node>
+      <node id="glorify" label="glorify">
+        <attvalues>
+          <attvalue for="0" value="2.55266821611" />
+        </attvalues>
+      </node>
+      <node id="gluey" label="gluey" />
+      <node id="glyphic" label="glyphic" />
+      <node id="gloomy" label="gloomy" />
+      <node id="glazed" label="glazed" />
+      <node id="glutted" label="glutted">
+        <attvalues>
+          <attvalue for="0" value="2.02118929907" />
+        </attvalues>
+      </node>
+      <node id="gloom" label="gloom" />
+      <node id="gluttony" label="gluttony">
+        <attvalues>
+          <attvalue for="0" value="2.31806333496" />
+        </attvalues>
+      </node>
+      <node id="glaring" label="glaring">
+        <attvalues>
+          <attvalue for="0" value="3.28465628279" />
+        </attvalues>
+      </node>
+      <node id="glory" label="glory" />
+      <node id="globule" label="globule">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="glasses" label="glasses" />
+      <node id="glassy" label="glassy" />
+      <node id="glare" label="glare">
+        <attvalues>
+          <attvalue for="0" value="3.50064806337" />
+        </attvalues>
+      </node>
+      <node id="globe" label="globe">
+        <attvalues>
+          <attvalue for="0" value="3.90471554528" />
+        </attvalues>
+      </node>
+      <node id="gladness" label="gladness" />
+      <node id="glottal" label="glottal">
+        <attvalues>
+          <attvalue for="0" value="1.74036268949" />
+        </attvalues>
+      </node>
+      <node id="gloominess" label="gloominess" />
+      <node id="gladiator" label="gladiator">
+        <attvalues>
+          <attvalue for="0" value="2.60314437262" />
+        </attvalues>
+      </node>
+      <node id="glamorize" label="glamorize">
+        <attvalues>
+          <attvalue for="0" value="1.79934054945" />
+        </attvalues>
+      </node>
+      <node id="glistening" label="glistening" />
+      <node id="glissade" label="glissade">
+        <attvalues>
+          <attvalue for="0" value="1.34242268082" />
+        </attvalues>
+      </node>
+      <node id="gladden" label="gladden">
+        <attvalues>
+          <attvalue for="0" value="2.12710479836" />
+        </attvalues>
+      </node>
+      <node id="glacial" label="glacial" />
+      <node id="glibness" label="glibness" />
+      <node id="gloat" label="gloat" />
+      <node id="glorification" label="glorification" />
+      <node id="gleaning" label="gleaning">
+        <attvalues>
+          <attvalue for="0" value="1.98677173427" />
+        </attvalues>
+      </node>
+      <node id="glaucoma" label="glaucoma">
+        <attvalues>
+          <attvalue for="0" value="2.61172330801" />
+        </attvalues>
+      </node>
+      <node id="glade" label="glade">
+        <attvalues>
+          <attvalue for="0" value="2.58994960133" />
+        </attvalues>
+      </node>
+      <node id="glissando" label="glissando">
+        <attvalues>
+          <attvalue for="0" value="1.39794000867" />
+        </attvalues>
+      </node>
+      <node id="gleeful" label="gleeful" />
+      <node id="glorious" label="glorious" />
+      <node id="glittering" label="glittering" />
+      <node id="gladsome" label="gladsome" />
+      <node id="glutinous" label="glutinous">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+      <node id="gloaming" label="gloaming">
+        <attvalues>
+          <attvalue for="0" value="1.77815125038" />
+        </attvalues>
+      </node>
+      <node id="gleaming" label="gleaming" />
+      <node id="glance" label="glance">
+        <attvalues>
+          <attvalue for="0" value="3.94807048152" />
+        </attvalues>
+      </node>
+      <node id="glitter" label="glitter" />
+      <node id="globate" label="globate">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="glisten" label="glisten" />
+      <node id="gleam" label="gleam" />
+      <node id="glean" label="glean">
+        <attvalues>
+          <attvalue for="0" value="2.59439255038" />
+        </attvalues>
+      </node>
+      <node id="gloss" label="gloss" />
+      <node id="glimmering" label="glimmering" />
+      <node id="glimmer" label="glimmer">
+        <attvalues>
+          <attvalue for="0" value="2.99651167215" />
+        </attvalues>
+      </node>
+      <node id="glace" label="glace" />
+      <node id="glib" label="glib" />
+      <node id="gluten" label="gluten" />
+      <node id="glacis" label="glacis">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="glamour" label="glamour">
+        <attvalues>
+          <attvalue for="0" value="3.27806733089" />
+        </attvalues>
+      </node>
+      <node id="glass" label="glass">
+        <attvalues>
+          <attvalue for="0" value="4.63733960179" />
+        </attvalues>
+      </node>
+      <node id="glyptic" label="glyptic">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="glad" label="glad" />
+      <node id="glamorous" label="glamorous" />
+      <node id="glorified" label="glorified" />
+      <node id="glossary" label="glossary" />
+      <node id="glossal" label="glossal" />
+      <node id="glossy" label="glossy" />
+      <node id="gland" label="gland">
+        <attvalues>
+          <attvalue for="0" value="3.10174707395" />
+        </attvalues>
+      </node>
+      <node id="glacier" label="glacier" />
+      <node id="glint" label="glint">
+        <attvalues>
+          <attvalue for="0" value="2.93348728785" />
+        </attvalues>
+      </node>
+      <node id="globular" label="globular" />
+      <node id="glair" label="glair">
+        <attvalues>
+          <attvalue for="0" value="1.07918124605" />
+        </attvalues>
+      </node>
+      <node id="glassware" label="glassware">
+        <attvalues>
+          <attvalue for="0" value="2.63848925695" />
+        </attvalues>
+      </node>
+      <node id="glyph" label="glyph">
+        <attvalues>
+          <attvalue for="0" value="1.83250891271" />
+        </attvalues>
+      </node>
+      <node id="gloppy" label="gloppy">
+        <attvalues>
+          <attvalue for="0" value="1.59106460703" />
+        </attvalues>
+      </node>
+      <node id="glop" label="glop" />
+      <node id="glim" label="glim" />
+      <node id="glow" label="glow">
+        <attvalues>
+          <attvalue for="0" value="3.82216807937" />
+        </attvalues>
+      </node>
+      <node id="glower" label="glower">
+        <attvalues>
+          <attvalue for="0" value="2.05307844348" />
+        </attvalues>
+      </node>
+      <node id="glancing" label="glancing">
+        <attvalues>
+          <attvalue for="0" value="3.43964842956" />
+        </attvalues>
+      </node>
+      <node id="glutton" label="glutton">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="glaze" target="glorify" weight="0.006173" />
+      <edge id="1" source="glaze" target="glare" weight="0.02451" />
+      <edge id="2" source="glaze" target="glower" weight="0.007092" />
+      <edge id="3" source="glaze" target="glint" weight="0.041958" />
+      <edge id="4" source="glaze" target="glissade" weight="0.014815" />
+      <edge id="5" source="glaze" target="glade" weight="0.007143" />
+      <edge id="6" source="glaze" target="glamour" weight="0.005882" />
+      <edge id="7" source="glaze" target="glass" weight="0.105882" />
+      <edge id="8" source="glaze" target="glair" weight="0.019481" />
+      <edge id="9" source="glaze" target="glissando" weight="0.007246" />
+      <edge id="10" source="glaze" target="glyptic" weight="0.014599" />
+      <edge id="11" source="glaze" target="glimmer" weight="0.0125" />
+      <edge id="12" source="glaze" target="glance" weight="0.081731" />
+      <edge id="13" source="glaze" target="glue" weight="0.019417" />
+      <edge id="14" source="glaze" target="glassware" weight="0.007874" />
+      <edge id="15" source="glaze" target="glow" weight="0.040984" />
+      <edge id="16" source="glut" target="glair" weight="0.01" />
+      <edge id="17" source="glut" target="glue" weight="0.006536" />
+      <edge id="18" source="glut" target="gluttony" weight="0.009009" />
+      <edge id="19" source="glut" target="glutted" weight="0.011111" />
+      <edge id="20" source="glut" target="glow" weight="0.005076" />
+      <edge id="21" source="global" target="glib" weight="0.008065" />
+      <edge id="22" source="global" target="gluey" weight="0.007634" />
+      <edge id="23" source="global" target="glory" weight="0.004673" />
+      <edge id="24" source="global" target="glide" weight="0.008889" />
+      <edge id="25" source="global" target="glossal" weight="0.007463" />
+      <edge id="26" source="global" target="gloss" weight="0.003195" />
+      <edge id="27" source="global" target="globular" weight="0.04" />
+      <edge id="28" source="global" target="globe" weight="0.008547" />
+      <edge id="29" source="global" target="glabrous" weight="0.011628" />
+      <edge id="30" source="global" target="glass" weight="0.006803" />
+      <edge id="31" source="global" target="glottal" weight="0.006667" />
+      <edge id="32" source="global" target="glorious" weight="0.009259" />
+      <edge id="33" source="global" target="gluttonous" weight="0.007194" />
+      <edge id="34" source="global" target="glaring" weight="0.104575" />
+      <edge id="35" source="global" target="globate" weight="0.04" />
+      <edge id="36" source="global" target="glutted" weight="0.009434" />
+      <edge id="37" source="global" target="glossy" weight="0.009709" />
+      <edge id="38" source="glaucous" target="glass" weight="0.025862" />
+      <edge id="39" source="glaucous" target="glair" weight="0.023256" />
+      <edge id="40" source="glaucous" target="glottal" weight="0.008264" />
+      <edge id="41" source="glaucous" target="glassware" weight="0.017241" />
+      <edge id="42" source="glaucous" target="glue" weight="0.007143" />
+      <edge id="43" source="glaucous" target="glow" weight="0.010929" />
+      <edge id="44" source="glue" target="glib" weight="0.006849" />
+      <edge id="45" source="glue" target="gluey" weight="0.013158" />
+      <edge id="46" source="glue" target="gloss" weight="0.005988" />
+      <edge id="47" source="glue" target="gluten" weight="0.350515" />
+      <edge id="48" source="glue" target="globe" weight="0.007194" />
+      <edge id="49" source="glue" target="glean" weight="0.04065" />
+      <edge id="50" source="glue" target="glutinous" weight="0.015504" />
+      <edge id="51" source="glue" target="glass" weight="0.011905" />
+      <edge id="52" source="glue" target="globule" weight="0.008547" />
+      <edge id="53" source="glue" target="glair" weight="0.32381" />
+      <edge id="54" source="glue" target="glibness" weight="0.008772" />
+      <edge id="55" source="glue" target="glop" weight="0.314815" />
+      <edge id="56" source="glue" target="gleet" weight="0.008621" />
+      <edge id="57" source="glue" target="glyptic" weight="0.008333" />
+      <edge id="58" source="glabrous" target="glass" weight="0.035714" />
+      <edge id="59" source="glabrous" target="glottal" weight="0.011236" />
+      <edge id="60" source="glabrous" target="glaring" weight="0.009346" />
+      <edge id="61" source="glen" target="globe" weight="0.017857" />
+      <edge id="62" source="glen" target="glade" weight="0.025641" />
+      <edge id="63" source="glen" target="glide" weight="0.006061" />
+      <edge id="64" source="glimpse" target="glorify" weight="0.012658" />
+      <edge id="65" source="glimpse" target="glare" weight="0.02439" />
+      <edge id="66" source="glimpse" target="glint" weight="0.03125" />
+      <edge id="67" source="glimpse" target="glowworm" weight="0.042553" />
+      <edge id="68" source="glimpse" target="glimmer" weight="0.067568" />
+      <edge id="69" source="glimpse" target="glance" weight="0.075758" />
+      <edge id="70" source="glimpse" target="glow" weight="0.017857" />
+      <edge id="71" source="glide" target="glorify" weight="0.004975" />
+      <edge id="72" source="glide" target="glare" weight="0.004049" />
+      <edge id="73" source="glide" target="glass" weight="0.013393" />
+      <edge id="74" source="glide" target="glint" weight="0.005348" />
+      <edge id="75" source="glide" target="globe" weight="0.005102" />
+      <edge id="76" source="glide" target="glutinous" weight="0.010753" />
+      <edge id="77" source="glide" target="glissade" weight="0.142857" />
+      <edge id="78" source="glide" target="gluttonous" weight="0.004587" />
+      <edge id="79" source="glide" target="globule" weight="0.005747" />
+      <edge id="80" source="glide" target="glowing" weight="0.003175" />
+      <edge id="81" source="glide" target="glissando" weight="0.059524" />
+      <edge id="82" source="glide" target="glottal" weight="0.493506" />
+      <edge id="83" source="glide" target="glancing" weight="0.005988" />
+      <edge id="84" source="glide" target="glance" weight="0.015385" />
+      <edge id="85" source="glide" target="glaring" weight="0.004049" />
+      <edge id="86" source="glide" target="glassware" weight="0.006024" />
+      <edge id="87" source="glide" target="glow" weight="0.006873" />
+      <edge id="88" source="glee" target="glare" weight="0.007407" />
+      <edge id="89" source="glee" target="glory" weight="0.01676" />
+      <edge id="90" source="glee" target="gladness" weight="0.510638" />
+      <edge id="91" source="glee" target="glamour" weight="0.010309" />
+      <edge id="92" source="glee" target="glibness" weight="0.016949" />
+      <edge id="93" source="glee" target="gloat" weight="0.034483" />
+      <edge id="94" source="glee" target="gladden" weight="0.033333" />
+      <edge id="95" source="glee" target="glitter" weight="0.011905" />
+      <edge id="96" source="glee" target="glorification" weight="0.043478" />
+      <edge id="97" source="glowing" target="gladsome" weight="0.169399" />
+      <edge id="98" source="glowing" target="glassy" weight="0.021164" />
+      <edge id="99" source="glowing" target="glare" weight="0.003891" />
+      <edge id="100" source="glowing" target="gleaming" weight="0.094972" />
+      <edge id="101" source="glowing" target="glitter" weight="0.004854" />
+      <edge id="102" source="glowing" target="glistening" weight="0.035088" />
+      <edge id="103" source="glowing" target="glint" weight="0.005076" />
+      <edge id="104" source="glowing" target="gloss" weight="0.004988" />
+      <edge id="105" source="glowing" target="glimmering" weight="0.009346" />
+      <edge id="106" source="glowing" target="glace" weight="0.022727" />
+      <edge id="107" source="glowing" target="gluttonous" weight="0.008811" />
+      <edge id="108" source="glowing" target="glaring" weight="0.044534" />
+      <edge id="109" source="glowing" target="glorify" weight="0.004739" />
+      <edge id="110" source="glowing" target="glim" weight="0.005747" />
+      <edge id="111" source="glowing" target="gloomy" weight="0.004082" />
+      <edge id="112" source="glowing" target="glazed" weight="0.011364" />
+      <edge id="113" source="glowing" target="glacial" weight="0.009756" />
+      <edge id="114" source="glowing" target="glad" weight="0.214286" />
+      <edge id="115" source="glowing" target="glow" weight="0.016779" />
+      <edge id="116" source="glowing" target="glamorous" weight="0.105263" />
+      <edge id="117" source="glowing" target="glory" weight="0.0033" />
+      <edge id="118" source="glowing" target="glorified" weight="0.030769" />
+      <edge id="119" source="glowing" target="glower" weight="0.005263" />
+      <edge id="120" source="glowing" target="glossal" weight="0.004484" />
+      <edge id="121" source="glowing" target="glossy" weight="0.021164" />
+      <edge id="122" source="glowing" target="gleeful" weight="0.045198" />
+      <edge id="123" source="glowing" target="glottal" weight="0.004184" />
+      <edge id="124" source="glowing" target="glorious" weight="0.108303" />
+      <edge id="125" source="glowing" target="glittering" weight="0.015957" />
+      <edge id="126" source="glandular" target="glance" weight="0.008264" />
+      <edge id="127" source="gluttonous" target="gluttony" weight="0.025641" />
+      <edge id="128" source="gluttonous" target="glorified" weight="0.009709" />
+      <edge id="129" source="gluttonous" target="glossal" weight="0.007937" />
+      <edge id="130" source="gluttonous" target="gladsome" weight="0.008621" />
+      <edge id="131" source="gluttonous" target="gland" weight="0.014085" />
+      <edge id="132" source="gluttonous" target="glottal" weight="0.007042" />
+      <edge id="133" source="gluttonous" target="glad" weight="0.00813" />
+      <edge id="134" source="gluttonous" target="glutton" weight="0.021053" />
+      <edge id="135" source="gluttonous" target="glaring" weight="0.018987" />
+      <edge id="136" source="gluttonous" target="glorious" weight="0.02439" />
+      <edge id="137" source="gleet" target="glair" weight="0.015873" />
+      <edge id="138" source="gleet" target="glow" weight="0.00625" />
+      <edge id="139" source="glowworm" target="glare" weight="0.008929" />
+      <edge id="140" source="glowworm" target="glisten" weight="0.666667" />
+      <edge id="141" source="glowworm" target="glow" weight="0.019355" />
+      <edge id="142" source="glowworm" target="glint" weight="0.152174" />
+      <edge id="143" source="glowworm" target="glimmering" weight="0.290909" />
+      <edge id="144" source="glowworm" target="glimmer" weight="0.32" />
+      <edge id="145" source="glowworm" target="gleam" weight="0.216216" />
+      <edge id="146" source="glowworm" target="glistening" weight="0.142857" />
+      <edge id="147" source="glowworm" target="glance" weight="0.04878" />
+      <edge id="148" source="glowworm" target="glaring" weight="0.008929" />
+      <edge id="149" source="glowworm" target="glitter" weight="0.347826" />
+      <edge id="150" source="glowworm" target="glittering" weight="0.095238" />
+      <edge id="151" source="glorify" target="glare" weight="0.006993" />
+      <edge id="152" source="glorify" target="glorified" weight="0.011628" />
+      <edge id="153" source="glorify" target="gloss" weight="0.003472" />
+      <edge id="154" source="glorify" target="glamorous" weight="0.008621" />
+      <edge id="155" source="glorify" target="glory" weight="0.027027" />
+      <edge id="156" source="glorify" target="gladden" weight="0.029412" />
+      <edge id="157" source="glorify" target="glance" weight="0.012658" />
+      <edge id="158" source="glorify" target="glamorize" weight="0.327273" />
+      <edge id="159" source="glorify" target="glorious" weight="0.005208" />
+      <edge id="160" source="glorify" target="glorification" weight="0.038961" />
+      <edge id="161" source="gluey" target="glutinous" weight="0.576271" />
+      <edge id="162" source="gluey" target="glair" weight="0.01" />
+      <edge id="163" source="gluey" target="gloppy" weight="0.022222" />
+      <edge id="164" source="gluey" target="glottal" weight="0.030534" />
+      <edge id="165" source="gluey" target="glutted" weight="0.05814" />
+      <edge id="166" source="gluey" target="gladiator" weight="0.011111" />
+      <edge id="167" source="glyphic" target="glean" weight="0.020408" />
+      <edge id="168" source="gloomy" target="glottal" weight="0.006289" />
+      <edge id="169" source="gloomy" target="glutinous" weight="0.008547" />
+      <edge id="170" source="gloomy" target="glare" weight="0.011364" />
+      <edge id="171" source="glazed" target="glass" weight="0.011364" />
+      <edge id="172" source="glazed" target="glance" weight="0.016129" />
+      <edge id="173" source="glazed" target="glissade" weight="0.027027" />
+      <edge id="174" source="glutted" target="gladsome" weight="0.012048" />
+      <edge id="175" source="glutted" target="glorious" weight="0.011429" />
+      <edge id="176" source="glutted" target="glad" weight="0.011111" />
+      <edge id="177" source="gloom" target="glower" weight="0.09375" />
+      <edge id="178" source="gloom" target="glaucoma" weight="0.021277" />
+      <edge id="179" source="gloom" target="glare" weight="0.070313" />
+      <edge id="180" source="gloom" target="gloaming" weight="0.043478" />
+      <edge id="181" source="gloom" target="glow" weight="0.005525" />
+      <edge id="182" source="gluttony" target="glitter" weight="0.010309" />
+      <edge id="183" source="gluttony" target="glare" weight="0.006757" />
+      <edge id="184" source="gluttony" target="glancing" weight="0.014706" />
+      <edge id="185" source="glaring" target="gladsome" weight="0.006897" />
+      <edge id="186" source="glaring" target="glottal" weight="0.005848" />
+      <edge id="187" source="glaring" target="glitter" weight="0.007246" />
+      <edge id="188" source="glaring" target="glisten" weight="0.008621" />
+      <edge id="189" source="glaring" target="glimmering" weight="0.006803" />
+      <edge id="190" source="glaring" target="glimmer" weight="0.007042" />
+      <edge id="191" source="glaring" target="glib" weight="0.013889" />
+      <edge id="192" source="glaring" target="gloppy" weight="0.007813" />
+      <edge id="193" source="glaring" target="glacial" weight="0.007246" />
+      <edge id="194" source="glaring" target="glad" weight="0.006579" />
+      <edge id="195" source="glaring" target="glamorous" weight="0.044872" />
+      <edge id="196" source="glaring" target="glossal" weight="0.006452" />
+      <edge id="197" source="glaring" target="glaucoma" weight="0.01" />
+      <edge id="198" source="glaring" target="glade" weight="0.008264" />
+      <edge id="199" source="glaring" target="glossy" weight="0.008065" />
+      <edge id="200" source="glaring" target="glorious" weight="0.043668" />
+      <edge id="201" source="glaring" target="glittering" weight="0.016529" />
+      <edge id="202" source="glory" target="glamour" weight="0.076087" />
+      <edge id="203" source="glory" target="glare" weight="0.072727" />
+      <edge id="204" source="glory" target="glass" weight="0.004673" />
+      <edge id="205" source="glory" target="glower" weight="0.005952" />
+      <edge id="206" source="glory" target="glint" weight="0.017341" />
+      <edge id="207" source="glory" target="globe" weight="0.010929" />
+      <edge id="208" source="glory" target="globule" weight="0.006173" />
+      <edge id="209" source="glory" target="glottal" weight="0.004608" />
+      <edge id="210" source="glory" target="gladden" weight="0.0125" />
+      <edge id="211" source="glory" target="glance" weight="0.012048" />
+      <edge id="212" source="glory" target="glow" weight="0.072519" />
+      <edge id="213" source="glory" target="glassware" weight="0.006494" />
+      <edge id="214" source="glory" target="glamorize" weight="0.006098" />
+      <edge id="215" source="globule" target="glass" weight="0.010526" />
+      <edge id="216" source="globule" target="globe" weight="0.346939" />
+      <edge id="217" source="glasses" target="glass" weight="0.012048" />
+      <edge id="218" source="glassy" target="glass" weight="0.009709" />
+      <edge id="219" source="glassy" target="glance" weight="0.014388" />
+      <edge id="220" source="glassy" target="glissade" weight="0.019231" />
+      <edge id="221" source="glassy" target="glassware" weight="0.023256" />
+      <edge id="222" source="glare" target="gloss" weight="0.030769" />
+      <edge id="223" source="glare" target="gladness" weight="0.02459" />
+      <edge id="224" source="glare" target="gloominess" weight="0.009615" />
+      <edge id="225" source="glare" target="glitter" weight="0.177966" />
+      <edge id="226" source="glare" target="glance" weight="0.107527" />
+      <edge id="227" source="glare" target="glisten" weight="0.044643" />
+      <edge id="228" source="glare" target="gleam" weight="0.089286" />
+      <edge id="229" source="glare" target="glimmering" weight="0.006803" />
+      <edge id="230" source="glare" target="glimmer" weight="0.028777" />
+      <edge id="231" source="glare" target="glow" weight="0.124402" />
+      <edge id="232" source="glare" target="glim" weight="0.009434" />
+      <edge id="233" source="glare" target="glamour" weight="0.062937" />
+      <edge id="234" source="glare" target="gloat" weight="0.085714" />
+      <edge id="235" source="glare" target="glorification" weight="0.008" />
+      <edge id="236" source="glare" target="glower" weight="0.217822" />
+      <edge id="237" source="glare" target="glint" weight="0.181818" />
+      <edge id="238" source="globe" target="glass" weight="0.008547" />
+      <edge id="239" source="globe" target="glimmering" weight="0.010417" />
+      <edge id="240" source="globe" target="glimmer" weight="0.010989" />
+      <edge id="241" source="gladness" target="gladden" weight="0.040816" />
+      <edge id="242" source="gladness" target="glamour" weight="0.035714" />
+      <edge id="243" source="gladness" target="glow" weight="0.005917" />
+      <edge id="244" source="glottal" target="gladsome" weight="0.007874" />
+      <edge id="245" source="glottal" target="glutinous" weight="0.018182" />
+      <edge id="246" source="glottal" target="gleam" weight="0.009709" />
+      <edge id="247" source="glottal" target="gloss" weight="0.01278" />
+      <edge id="248" source="glottal" target="glissade" weight="0.010101" />
+      <edge id="249" source="glottal" target="glassware" weight="0.011111" />
+      <edge id="250" source="glottal" target="glib" weight="0.015873" />
+      <edge id="251" source="glottal" target="glim" weight="0.011364" />
+      <edge id="252" source="glottal" target="glass" weight="0.013423" />
+      <edge id="253" source="glottal" target="glad" weight="0.007463" />
+      <edge id="254" source="glottal" target="glow" weight="0.00463" />
+      <edge id="255" source="glottal" target="glorified" weight="0.008772" />
+      <edge id="256" source="glottal" target="glossal" weight="0.769231" />
+      <edge id="257" source="glottal" target="glissando" weight="0.009901" />
+      <edge id="258" source="glottal" target="glancing" weight="0.010989" />
+      <edge id="259" source="glottal" target="glorious" weight="0.004545" />
+      <edge id="260" source="gloominess" target="glower" weight="0.055556" />
+      <edge id="261" source="gloominess" target="glaucoma" weight="0.066667" />
+      <edge id="262" source="gladiator" target="glutinous" weight="0.014925" />
+      <edge id="263" source="glamorize" target="glamour" weight="0.0125" />
+      <edge id="264" source="glamorize" target="gladden" weight="0.022727" />
+      <edge id="265" source="glamorize" target="glorification" weight="0.018519" />
+      <edge id="266" source="glamorize" target="glow" weight="0.006135" />
+      <edge id="267" source="glistening" target="glimmer" weight="0.068966" />
+      <edge id="268" source="glissade" target="glib" weight="0.013699" />
+      <edge id="269" source="glissade" target="glossal" weight="0.012048" />
+      <edge id="270" source="glissade" target="gloss" weight="0.003817" />
+      <edge id="271" source="glissade" target="glass" weight="0.010417" />
+      <edge id="272" source="glissade" target="glissando" weight="0.263158" />
+      <edge id="273" source="glissade" target="gleaming" weight="0.018182" />
+      <edge id="274" source="glissade" target="glossy" weight="0.039216" />
+      <edge id="275" source="glissade" target="glace" weight="0.025641" />
+      <edge id="276" source="glissade" target="glance" weight="0.022901" />
+      <edge id="277" source="gladden" target="gloat" weight="0.025641" />
+      <edge id="278" source="glacial" target="gleaning" weight="0.019608" />
+      <edge id="279" source="glacial" target="gloppy" weight="0.012987" />
+      <edge id="280" source="glacial" target="glass" weight="0.008547" />
+      <edge id="281" source="glibness" target="glair" weight="0.016393" />
+      <edge id="282" source="glibness" target="glissando" weight="0.023256" />
+      <edge id="283" source="gloat" target="glower" weight="0.175" />
+      <edge id="284" source="gloat" target="glint" weight="0.018868" />
+      <edge id="285" source="gloat" target="glamour" weight="0.013333" />
+      <edge id="286" source="gloat" target="glimmer" weight="0.015152" />
+      <edge id="287" source="gloat" target="glance" weight="0.015625" />
+      <edge id="288" source="gloat" target="glow" weight="0.006329" />
+      <edge id="289" source="glorification" target="glamour" weight="0.023256" />
+      <edge id="290" source="glorification" target="glow" weight="0.005882" />
+      <edge id="291" source="gleaning" target="glean" weight="0.052632" />
+      <edge id="292" source="glade" target="glib" weight="0.012987" />
+      <edge id="293" source="glade" target="gloss" weight="0.003759" />
+      <edge id="294" source="glade" target="glop" weight="0.013889" />
+      <edge id="295" source="glissando" target="glossal" weight="0.011765" />
+      <edge id="296" source="glissando" target="glass" weight="0.010204" />
+      <edge id="297" source="glissando" target="glance" weight="0.007407" />
+      <edge id="298" source="glissando" target="glossy" weight="0.018519" />
+      <edge id="299" source="glorious" target="glow" weight="0.003534" />
+      <edge id="300" source="glittering" target="glimmer" weight="0.055556" />
+      <edge id="301" source="glutinous" target="gluten" weight="0.014493" />
+      <edge id="302" source="glutinous" target="glossal" weight="0.021277" />
+      <edge id="303" source="glutinous" target="gloppy" weight="0.029851" />
+      <edge id="304" source="glutinous" target="glair" weight="0.012987" />
+      <edge id="305" source="glutinous" target="glop" weight="0.0125" />
+      <edge id="306" source="gloaming" target="glow" weight="0.013889" />
+      <edge id="307" source="gleaming" target="glass" weight="0.009434" />
+      <edge id="308" source="gleaming" target="glance" weight="0.014085" />
+      <edge id="309" source="glance" target="glitter" weight="0.099291" />
+      <edge id="310" source="glance" target="glisten" weight="0.081301" />
+      <edge id="311" source="glance" target="glacier" weight="0.008333" />
+      <edge id="312" source="glance" target="glint" weight="0.237288" />
+      <edge id="313" source="glance" target="gloss" weight="0.063636" />
+      <edge id="314" source="glance" target="glimmering" weight="0.100671" />
+      <edge id="315" source="glance" target="glimmer" weight="0.119718" />
+      <edge id="316" source="glance" target="glossy" weight="0.014388" />
+      <edge id="317" source="glance" target="glib" weight="0.006211" />
+      <edge id="318" source="glance" target="glace" weight="0.015873" />
+      <edge id="319" source="glance" target="glacis" weight="0.006667" />
+      <edge id="320" source="glance" target="glamour" weight="0.005988" />
+      <edge id="321" source="glance" target="glass" weight="0.005435" />
+      <edge id="322" source="glance" target="glim" weight="0.008197" />
+      <edge id="323" source="glance" target="glow" weight="0.100877" />
+      <edge id="324" source="glance" target="glossary" weight="0.007813" />
+      <edge id="325" source="glance" target="glower" weight="0.014599" />
+      <edge id="326" source="glance" target="glancing" weight="0.016129" />
+      <edge id="327" source="glance" target="gleam" weight="0.140496" />
+      <edge id="328" source="glitter" target="glower" weight="0.014085" />
+      <edge id="329" source="glitter" target="glint" weight="0.19697" />
+      <edge id="330" source="glitter" target="glamour" weight="0.020202" />
+      <edge id="331" source="glitter" target="glimmer" weight="0.277778" />
+      <edge id="332" source="glitter" target="glow" weight="0.069767" />
+      <edge id="333" source="globate" target="globular" weight="0.6" />
+      <edge id="334" source="glisten" target="glint" weight="0.1875" />
+      <edge id="335" source="glisten" target="glimmer" weight="0.4" />
+      <edge id="336" source="glisten" target="glow" weight="0.045161" />
+      <edge id="337" source="gleam" target="glower" weight="0.037736" />
+      <edge id="338" source="gleam" target="glint" weight="0.319149" />
+      <edge id="339" source="gleam" target="glass" weight="0.01" />
+      <edge id="340" source="gleam" target="glimmer" weight="0.209677" />
+      <edge id="341" source="gleam" target="glassware" weight="0.025" />
+      <edge id="342" source="gleam" target="glow" weight="0.091503" />
+      <edge id="343" source="glean" target="glower" weight="0.016949" />
+      <edge id="344" source="gloss" target="glow" weight="0.041096" />
+      <edge id="345" source="gloss" target="glower" weight="0.007519" />
+      <edge id="346" source="gloss" target="glint" weight="0.049618" />
+      <edge id="347" source="gloss" target="glamour" weight="0.003378" />
+      <edge id="348" source="gloss" target="glass" weight="0.019481" />
+      <edge id="349" source="gloss" target="glair" weight="0.007117" />
+      <edge id="350" source="gloss" target="glyptic" weight="0.01145" />
+      <edge id="351" source="gloss" target="glimmer" weight="0.006993" />
+      <edge id="352" source="gloss" target="glassware" weight="0.003953" />
+      <edge id="353" source="gloss" target="glyph" weight="0.004049" />
+      <edge id="354" source="glimmering" target="glower" weight="0.0125" />
+      <edge id="355" source="glimmering" target="glint" weight="0.1" />
+      <edge id="356" source="glimmering" target="glimmer" weight="0.741379" />
+      <edge id="357" source="glimmering" target="glow" weight="0.015789" />
+      <edge id="358" source="glimmer" target="glow" weight="0.032967" />
+      <edge id="359" source="glimmer" target="glower" weight="0.013333" />
+      <edge id="360" source="glimmer" target="glint" weight="0.106667" />
+      <edge id="361" source="glace" target="glass" weight="0.011111" />
+      <edge id="362" source="glib" target="glamour" weight="0.009346" />
+      <edge id="363" source="glib" target="glass" weight="0.008065" />
+      <edge id="364" source="glib" target="glassware" weight="0.015625" />
+      <edge id="365" source="glib" target="glow" weight="0.005263" />
+      <edge id="366" source="gluten" target="glass" weight="0.009259" />
+      <edge id="367" source="gluten" target="glair" weight="0.772727" />
+      <edge id="368" source="glacis" target="glancing" weight="0.018519" />
+      <edge id="369" source="glamour" target="glamorous" weight="0.008065" />
+      <edge id="370" source="glamour" target="glower" weight="0.024096" />
+      <edge id="371" source="glamour" target="glint" weight="0.010989" />
+      <edge id="372" source="glamour" target="glow" weight="0.026042" />
+      <edge id="373" source="glass" target="glacier" weight="0.02439" />
+      <edge id="374" source="glass" target="glint" weight="0.009259" />
+      <edge id="375" source="glass" target="glair" weight="0.017391" />
+      <edge id="376" source="glass" target="glassware" weight="0.047619" />
+      <edge id="377" source="glass" target="glim" weight="0.011765" />
+      <edge id="378" source="glass" target="glop" weight="0.008403" />
+      <edge id="379" source="glass" target="glow" weight="0.009434" />
+      <edge id="380" source="glass" target="glossal" weight="0.015038" />
+      <edge id="381" source="glass" target="glossy" weight="0.019608" />
+      <edge id="382" source="glyptic" target="glyph" weight="0.03125" />
+      <edge id="383" source="glossary" target="glint" weight="0.019231" />
+      <edge id="384" source="glossary" target="glow" weight="0.006369" />
+      <edge id="385" source="glossal" target="glancing" weight="0.013333" />
+      <edge id="386" source="glossal" target="glassware" weight="0.013514" />
+      <edge id="387" source="glossal" target="glow" weight="0.005" />
+      <edge id="388" source="glacier" target="glint" weight="0.022727" />
+      <edge id="389" source="glint" target="glim" weight="0.021739" />
+      <edge id="390" source="glint" target="glow" weight="0.174497" />
+      <edge id="391" source="glint" target="glower" weight="0.032787" />
+      <edge id="392" source="glair" target="glop" weight="0.618182" />
+      <edge id="393" source="glassware" target="glim" weight="0.04" />
+      <edge id="394" source="glassware" target="glow" weight="0.006536" />
+      <edge id="395" source="glim" target="glow" weight="0.020134" />
+      <edge id="396" source="glow" target="glower" weight="0.030675" />
+    </edges>
+  </graph>
+</gexf>

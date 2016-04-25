@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="quiver" label="quiver" />
+      <node id="quizzical" label="quizzical" />
+      <node id="quivering" label="quivering" />
+      <node id="quench" label="quench" />
+      <node id="quaver" label="quaver" />
+      <node id="queen" label="queen" />
+      <node id="quadrilateral" label="quadrilateral" />
+      <node id="quantum" label="quantum" />
+      <node id="quintessential" label="quintessential" />
+      <node id="quake" label="quake" />
+      <node id="queer" label="queer" />
+      <node id="quarto" label="quarto" />
+      <node id="query" label="query" />
+      <node id="quagmire" label="quagmire" />
+      <node id="quality" label="quality" />
+      <node id="quadrant" label="quadrant" />
+      <node id="quietism" label="quietism" />
+      <node id="quid" label="quid" />
+      <node id="quaint" label="quaint" />
+      <node id="qualmish" label="qualmish" />
+      <node id="question" label="question" />
+      <node id="quibbling" label="quibbling" />
+      <node id="quiz" label="quiz" />
+      <node id="quiescence" label="quiescence" />
+      <node id="quasi" label="quasi" />
+      <node id="quash" label="quash" />
+      <node id="querulous" label="querulous" />
+      <node id="quadrate" label="quadrate" />
+      <node id="quirky" label="quirky" />
+      <node id="quotation" label="quotation" />
+      <node id="quiddity" label="quiddity" />
+      <node id="quartering" label="quartering" />
+      <node id="quirk" label="quirk" />
+      <node id="quintet" label="quintet" />
+      <node id="quantified" label="quantified" />
+      <node id="quota" label="quota" />
+      <node id="questioning" label="questioning" />
+      <node id="quell" label="quell" />
+      <node id="quietus" label="quietus" />
+      <node id="quiescent" label="quiescent" />
+      <node id="quicksand" label="quicksand" />
+      <node id="quantitative" label="quantitative" />
+      <node id="quip" label="quip" />
+      <node id="quote" label="quote" />
+      <node id="quickly" label="quickly" />
+      <node id="quietude" label="quietude" />
+      <node id="queasy" label="queasy" />
+      <node id="quittance" label="quittance" />
+      <node id="quadrangle" label="quadrangle" />
+      <node id="quarrelsome" label="quarrelsome" />
+      <node id="quiet" label="quiet" />
+      <node id="quavering" label="quavering" />
+      <node id="quadruped" label="quadruped" />
+      <node id="quintessence" label="quintessence" />
+      <node id="quintuplet" label="quintuplet" />
+      <node id="quibble" label="quibble" />
+      <node id="quaternary" label="quaternary" />
+      <node id="quick" label="quick" />
+      <node id="quaking" label="quaking" />
+      <node id="quarter" label="quarter" />
+      <node id="quartet" label="quartet" />
+      <node id="quantity" label="quantity" />
+    </nodes>
+    <edges>
+      <edge id="0" source="quiver" target="quaking" />
+      <edge id="1" source="quiver" target="quavering" />
+      <edge id="2" source="quiver" target="quaver" />
+      <edge id="3" source="quiver" target="quake" />
+      <edge id="4" source="quiver" target="quivering" />
+      <edge id="5" source="quizzical" target="quaint" />
+      <edge id="6" source="quizzical" target="questioning" />
+      <edge id="7" source="quivering" target="quaking" />
+      <edge id="8" source="quivering" target="quaver" />
+      <edge id="9" source="quivering" target="quavering" />
+      <edge id="10" source="quench" target="quell" />
+      <edge id="11" source="quench" target="quash" />
+      <edge id="12" source="quaver" target="quaking" />
+      <edge id="13" source="quaver" target="quavering" />
+      <edge id="14" source="quaver" target="quake" />
+      <edge id="15" source="queen" target="quintessence" />
+      <edge id="16" source="queen" target="queer" />
+      <edge id="17" source="quadrilateral" target="quadruped" />
+      <edge id="18" source="quadrilateral" target="quaternary" />
+      <edge id="19" source="quadrilateral" target="quadrate" />
+      <edge id="20" source="quantum" target="quota" />
+      <edge id="21" source="quantum" target="quantity" />
+      <edge id="22" source="quintessential" target="quintessence" />
+      <edge id="23" source="queer" target="queasy" />
+      <edge id="24" source="queer" target="quaint" />
+      <edge id="25" source="queer" target="qualmish" />
+      <edge id="26" source="queer" target="quasi" />
+      <edge id="27" source="queer" target="quirky" />
+      <edge id="28" source="quarto" target="quarter" />
+      <edge id="29" source="query" target="questioning" />
+      <edge id="30" source="query" target="question" />
+      <edge id="31" source="query" target="quiz" />
+      <edge id="32" source="quagmire" target="quicksand" />
+      <edge id="33" source="quality" target="quirk" />
+      <edge id="34" source="quadrant" target="quarter" />
+      <edge id="35" source="quadrant" target="quota" />
+      <edge id="36" source="quietism" target="quiescence" />
+      <edge id="37" source="quietism" target="quietude" />
+      <edge id="38" source="quietism" target="quiet" />
+      <edge id="39" source="quid" target="quintessence" />
+      <edge id="40" source="quid" target="quiddity" />
+      <edge id="41" source="qualmish" target="queasy" />
+      <edge id="42" source="question" target="questioning" />
+      <edge id="43" source="question" target="question" />
+      <edge id="44" source="question" target="quiz" />
+      <edge id="45" source="quibbling" target="quibble" />
+      <edge id="46" source="quiz" target="questioning" />
+      <edge id="47" source="quiescence" target="quietude" />
+      <edge id="48" source="quiescence" target="quiet" />
+      <edge id="49" source="quash" target="quell" />
+      <edge id="50" source="querulous" target="quarrelsome" />
+      <edge id="51" source="quotation" target="quote" />
+      <edge id="52" source="quiddity" target="quintessence" />
+      <edge id="53" source="quiddity" target="quip" />
+      <edge id="54" source="quiddity" target="quibble" />
+      <edge id="55" source="quiddity" target="quirk" />
+      <edge id="56" source="quartering" target="quarter" />
+      <edge id="57" source="quirk" target="quip" />
+      <edge id="58" source="quirk" target="quibble" />
+      <edge id="59" source="quintet" target="quartet" />
+      <edge id="60" source="quintet" target="quintuplet" />
+      <edge id="61" source="quantified" target="quantitative" />
+      <edge id="62" source="quota" target="quarter" />
+      <edge id="63" source="quell" target="quiet" />
+      <edge id="64" source="quietus" target="quittance" />
+      <edge id="65" source="quiescent" target="quiet" />
+      <edge id="66" source="quip" target="quibble" />
+      <edge id="67" source="quickly" target="quick" />
+      <edge id="68" source="quietude" target="quiet" />
+      <edge id="69" source="quadrangle" target="quartet" />
+      <edge id="70" source="quadrangle" target="quaternary" />
+      <edge id="71" source="quavering" target="quaking" />
+      <edge id="72" source="quadruped" target="quaternary" />
+      <edge id="73" source="quaternary" target="quartet" />
+    </edges>
+  </graph>
+</gexf>

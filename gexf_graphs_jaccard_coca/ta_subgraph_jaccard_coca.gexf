@@ -1,0 +1,1377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="taxi" label="taxi" />
+      <node id="taxonomy" label="taxonomy">
+        <attvalues>
+          <attvalue for="0" value="2.96614173274" />
+        </attvalues>
+      </node>
+      <node id="tarry" label="tarry">
+        <attvalues>
+          <attvalue for="0" value="2.20139712432" />
+        </attvalues>
+      </node>
+      <node id="talky" label="talky" />
+      <node id="talkative" label="talkative" />
+      <node id="taps" label="taps" />
+      <node id="tablet" label="tablet" />
+      <node id="tantamount" label="tantamount">
+        <attvalues>
+          <attvalue for="0" value="2.82477646248" />
+        </attvalues>
+      </node>
+      <node id="tail" label="tail">
+        <attvalues>
+          <attvalue for="0" value="3.97011432229" />
+        </attvalues>
+      </node>
+      <node id="tape" label="tape">
+        <attvalues>
+          <attvalue for="0" value="4.32296316214" />
+        </attvalues>
+      </node>
+      <node id="tawny" label="tawny" />
+      <node id="taunting" label="taunting">
+        <attvalues>
+          <attvalue for="0" value="2.82477646248" />
+        </attvalues>
+      </node>
+      <node id="tatter" label="tatter" />
+      <node id="tautologous" label="tautologous">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="tactic" label="tactic" />
+      <node id="taxidermy" label="taxidermy" />
+      <node id="taunt" label="taunt" />
+      <node id="tailor" label="tailor">
+        <attvalues>
+          <attvalue for="0" value="3.17551181336" />
+        </attvalues>
+      </node>
+      <node id="tantalizing" label="tantalizing" />
+      <node id="tank" label="tank">
+        <attvalues>
+          <attvalue for="0" value="4.09576195948" />
+        </attvalues>
+      </node>
+      <node id="target" label="target">
+        <attvalues>
+          <attvalue for="0" value="4.40854522132" />
+        </attvalues>
+      </node>
+      <node id="tapering" label="tapering" />
+      <node id="tabby" label="tabby" />
+      <node id="tanked" label="tanked" />
+      <node id="tavern" label="tavern" />
+      <node id="tableland" label="tableland">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="tactless" label="tactless" />
+      <node id="tallow" label="tallow" />
+      <node id="tatty" label="tatty" />
+      <node id="tailpiece" label="tailpiece" />
+      <node id="tangential" label="tangential">
+        <attvalues>
+          <attvalue for="0" value="2.29885307641" />
+        </attvalues>
+      </node>
+      <node id="takeoff" label="takeoff" />
+      <node id="talisman" label="talisman">
+        <attvalues>
+          <attvalue for="0" value="2.51851393988" />
+        </attvalues>
+      </node>
+      <node id="tattletale" label="tattletale" />
+      <node id="taskmaster" label="taskmaster">
+        <attvalues>
+          <attvalue for="0" value="2.05307844348" />
+        </attvalues>
+      </node>
+      <node id="talebearer" label="talebearer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="tabulate" label="tabulate" />
+      <node id="tabloid" label="tabloid" />
+      <node id="tasteful" label="tasteful" />
+      <node id="taxing" label="taxing">
+        <attvalues>
+          <attvalue for="0" value="3.1152775914" />
+        </attvalues>
+      </node>
+      <node id="taming" label="taming" />
+      <node id="tauten" label="tauten">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="tadpole" label="tadpole" />
+      <node id="tainted" label="tainted">
+        <attvalues>
+          <attvalue for="0" value="3.20357677498" />
+        </attvalues>
+      </node>
+      <node id="tarantula" label="tarantula" />
+      <node id="tannery" label="tannery">
+        <attvalues>
+          <attvalue for="0" value="1.7923916895" />
+        </attvalues>
+      </node>
+      <node id="tarsus" label="tarsus">
+        <attvalues>
+          <attvalue for="0" value="1.63346845558" />
+        </attvalues>
+      </node>
+      <node id="tabulation" label="tabulation">
+        <attvalues>
+          <attvalue for="0" value="2.16435285578" />
+        </attvalues>
+      </node>
+      <node id="tangent" label="tangent">
+        <attvalues>
+          <attvalue for="0" value="2.24797326636" />
+        </attvalues>
+      </node>
+      <node id="taxed" label="taxed" />
+      <node id="tartan" label="tartan" />
+      <node id="taboo" label="taboo">
+        <attvalues>
+          <attvalue for="0" value="3.17724783626" />
+        </attvalues>
+      </node>
+      <node id="tantrum" label="tantrum">
+        <attvalues>
+          <attvalue for="0" value="2.7427251313" />
+        </attvalues>
+      </node>
+      <node id="tangible" label="tangible" />
+      <node id="talented" label="talented">
+        <attvalues>
+          <attvalue for="0" value="3.84757265914" />
+        </attvalues>
+      </node>
+      <node id="taper" label="taper">
+        <attvalues>
+          <attvalue for="0" value="2.6414741105" />
+        </attvalues>
+      </node>
+      <node id="tapered" label="tapered" />
+      <node id="talebearing" label="talebearing">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="tattle" label="tattle" />
+      <node id="tater" label="tater">
+        <attvalues>
+          <attvalue for="0" value="1.90308998699" />
+        </attvalues>
+      </node>
+      <node id="tangled" label="tangled">
+        <attvalues>
+          <attvalue for="0" value="3.43360984332" />
+        </attvalues>
+      </node>
+      <node id="tactical" label="tactical">
+        <attvalues>
+          <attvalue for="0" value="3.45331834005" />
+        </attvalues>
+      </node>
+      <node id="tableware" label="tableware" />
+      <node id="table" label="table">
+        <attvalues>
+          <attvalue for="0" value="5.09598484963" />
+        </attvalues>
+      </node>
+      <node id="tangle" label="tangle" />
+      <node id="tabernacle" label="tabernacle" />
+      <node id="taker" label="taker" />
+      <node id="tasting" label="tasting" />
+      <node id="tame" label="tame" />
+      <node id="tabes" label="tabes">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="tacky" label="tacky">
+        <attvalues>
+          <attvalue for="0" value="2.90525604875" />
+        </attvalues>
+      </node>
+      <node id="tamp" label="tamp">
+        <attvalues>
+          <attvalue for="0" value="2.24797326636" />
+        </attvalues>
+      </node>
+      <node id="tallowy" label="tallowy" />
+      <node id="tamer" label="tamer">
+        <attvalues>
+          <attvalue for="0" value="2.34439227369" />
+        </attvalues>
+      </node>
+      <node id="tasteless" label="tasteless" />
+      <node id="taxation" label="taxation">
+        <attvalues>
+          <attvalue for="0" value="3.2447717615" />
+        </attvalues>
+      </node>
+      <node id="tally" label="tally">
+        <attvalues>
+          <attvalue for="0" value="3.19033169817" />
+        </attvalues>
+      </node>
+      <node id="taciturn" label="taciturn" />
+      <node id="tailing" label="tailing" />
+      <node id="tapeworm" label="tapeworm">
+        <attvalues>
+          <attvalue for="0" value="1.61278385672" />
+        </attvalues>
+      </node>
+      <node id="tampon" label="tampon" />
+      <node id="tandem" label="tandem" />
+      <node id="tapping" label="tapping" />
+      <node id="tattered" label="tattered" />
+      <node id="talent" label="talent" />
+      <node id="tariff" label="tariff">
+        <attvalues>
+          <attvalue for="0" value="2.97818051694" />
+        </attvalues>
+      </node>
+      <node id="tachycardia" label="tachycardia">
+        <attvalues>
+          <attvalue for="0" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="taproot" label="taproot" />
+      <node id="tactics" label="tactics">
+        <attvalues>
+          <attvalue for="0" value="3.85027855252" />
+        </attvalues>
+      </node>
+      <node id="tawdry" label="tawdry">
+        <attvalues>
+          <attvalue for="0" value="2.56584781867" />
+        </attvalues>
+      </node>
+      <node id="tang" label="tang" />
+      <node id="taleteller" label="taleteller" />
+      <node id="talkathon" label="talkathon" />
+      <node id="taut" label="taut" />
+      <node id="taking" label="taking" />
+      <node id="taupe" label="taupe">
+        <attvalues>
+          <attvalue for="0" value="2.32837960344" />
+        </attvalues>
+      </node>
+      <node id="tap" label="tap">
+        <attvalues>
+          <attvalue for="0" value="3.84966505548" />
+        </attvalues>
+      </node>
+      <node id="tar" label="tar" />
+      <node id="tantalize" label="tantalize" />
+      <node id="taste" label="taste">
+        <attvalues>
+          <attvalue for="0" value="4.38667728396" />
+        </attvalues>
+      </node>
+      <node id="taproom" label="taproom">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="tax" label="tax">
+        <attvalues>
+          <attvalue for="0" value="4.8047049422" />
+        </attvalues>
+      </node>
+      <node id="tabular" label="tabular" />
+      <node id="talking" label="talking">
+        <attvalues>
+          <attvalue for="0" value="4.98897788906" />
+        </attvalues>
+      </node>
+      <node id="tag" label="tag">
+        <attvalues>
+          <attvalue for="0" value="3.74996808351" />
+        </attvalues>
+      </node>
+      <node id="tasty" label="tasty" />
+      <node id="tarnished" label="tarnished" />
+      <node id="tab" label="tab" />
+      <node id="tan" label="tan">
+        <attvalues>
+          <attvalue for="0" value="3.60346915973" />
+        </attvalues>
+      </node>
+      <node id="tarrying" label="tarrying" />
+      <node id="tapestry" label="tapestry">
+        <attvalues>
+          <attvalue for="0" value="3.01494034979" />
+        </attvalues>
+      </node>
+      <node id="tattoo" label="tattoo" />
+      <node id="tarnish" label="tarnish">
+        <attvalues>
+          <attvalue for="0" value="2.45484486001" />
+        </attvalues>
+      </node>
+      <node id="tableau" label="tableau">
+        <attvalues>
+          <attvalue for="0" value="2.82542611777" />
+        </attvalues>
+      </node>
+      <node id="tare" label="tare" />
+      <node id="take" label="take">
+        <attvalues>
+          <attvalue for="0" value="5.50064806337" />
+        </attvalues>
+      </node>
+      <node id="talkie" label="talkie">
+        <attvalues>
+          <attvalue for="0" value="1.85733249643" />
+        </attvalues>
+      </node>
+      <node id="talons" label="talons">
+        <attvalues>
+          <attvalue for="0" value="2.61066016309" />
+        </attvalues>
+      </node>
+      <node id="tambourine" label="tambourine" />
+      <node id="tardy" label="tardy">
+        <attvalues>
+          <attvalue for="0" value="2.50514997832" />
+        </attvalues>
+      </node>
+      <node id="tart" label="tart">
+        <attvalues>
+          <attvalue for="0" value="3.33000770087" />
+        </attvalues>
+      </node>
+      <node id="tactful" label="tactful">
+        <attvalues>
+          <attvalue for="0" value="2.36172783602" />
+        </attvalues>
+      </node>
+      <node id="tact" label="tact">
+        <attvalues>
+          <attvalue for="0" value="2.70070371715" />
+        </attvalues>
+      </node>
+      <node id="tack" label="tack" />
+      <node id="tangibility" label="tangibility">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="tailgate" label="tailgate" />
+      <node id="tackle" label="tackle">
+        <attvalues>
+          <attvalue for="0" value="3.84689354332" />
+        </attvalues>
+      </node>
+      <node id="tailored" label="tailored" />
+      <node id="task" label="task">
+        <attvalues>
+          <attvalue for="0" value="4.49937086711" />
+        </attvalues>
+      </node>
+      <node id="tautology" label="tautology">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="taint" label="taint" />
+      <node id="tale" label="tale" />
+      <node id="tall" label="tall">
+        <attvalues>
+          <attvalue for="0" value="4.35694321958" />
+        </attvalues>
+      </node>
+      <node id="talk" label="talk">
+        <attvalues>
+          <attvalue for="0" value="5.15065514382" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="taxi" target="tamp" weight="0.014493" />
+      <edge id="1" source="taxi" target="task" weight="0.006897" />
+      <edge id="2" source="taxi" target="tax" weight="0.008621" />
+      <edge id="3" source="taxi" target="take" weight="0.002882" />
+      <edge id="4" source="taxonomy" target="tactics" weight="0.008" />
+      <edge id="5" source="taxonomy" target="taxing" weight="0.006711" />
+      <edge id="6" source="taxonomy" target="tabulation" weight="0.194444" />
+      <edge id="7" source="taxonomy" target="tax" weight="0.006623" />
+      <edge id="8" source="taxonomy" target="tailpiece" weight="0.007692" />
+      <edge id="9" source="taxonomy" target="tack" weight="0.004739" />
+      <edge id="10" source="taxonomy" target="talkathon" weight="0.024691" />
+      <edge id="11" source="taxonomy" target="taxidermy" weight="0.114286" />
+      <edge id="12" source="taxonomy" target="tabulate" weight="0.018349" />
+      <edge id="13" source="tarry" target="tattoo" weight="0.004082" />
+      <edge id="14" source="tarry" target="tatter" weight="0.01" />
+      <edge id="15" source="tarry" target="tank" weight="0.007143" />
+      <edge id="16" source="tarry" target="tar" weight="0.006993" />
+      <edge id="17" source="tarry" target="taxing" weight="0.006897" />
+      <edge id="18" source="tarry" target="taste" weight="0.008097" />
+      <edge id="19" source="tarry" target="talons" weight="0.012346" />
+      <edge id="20" source="tarry" target="tap" weight="0.006969" />
+      <edge id="21" source="tarry" target="tag" weight="0.005128" />
+      <edge id="22" source="tarry" target="tailpiece" weight="0.007937" />
+      <edge id="23" source="tarry" target="tauten" weight="0.03125" />
+      <edge id="24" source="tarry" target="tail" weight="0.009479" />
+      <edge id="25" source="tarry" target="tack" weight="0.009709" />
+      <edge id="26" source="tarry" target="tape" weight="0.005952" />
+      <edge id="27" source="tarry" target="take" weight="0.016086" />
+      <edge id="28" source="tarry" target="tab" weight="0.011905" />
+      <edge id="29" source="tarry" target="tailgate" weight="0.016393" />
+      <edge id="30" source="tarry" target="table" weight="0.01992" />
+      <edge id="31" source="tarry" target="tamp" weight="0.020202" />
+      <edge id="32" source="tarry" target="tarrying" weight="0.015625" />
+      <edge id="33" source="talky" target="tautologous" weight="0.05" />
+      <edge id="34" source="talky" target="tap" weight="0.003817" />
+      <edge id="35" source="talky" target="talebearing" weight="0.034483" />
+      <edge id="36" source="talky" target="talking" weight="0.015873" />
+      <edge id="37" source="talky" target="tactical" weight="0.011628" />
+      <edge id="38" source="talky" target="tall" weight="0.019231" />
+      <edge id="39" source="talkative" target="tautologous" weight="0.031915" />
+      <edge id="40" source="talkative" target="tap" weight="0.00678" />
+      <edge id="41" source="talkative" target="talebearing" weight="0.015873" />
+      <edge id="42" source="talkative" target="talking" weight="0.042553" />
+      <edge id="43" source="talkative" target="tape" weight="0.005682" />
+      <edge id="44" source="talkative" target="tactical" weight="0.008333" />
+      <edge id="45" source="talkative" target="tall" weight="0.029412" />
+      <edge id="46" source="talkative" target="talk" weight="0.009901" />
+      <edge id="47" source="taps" target="tax" weight="0.00813" />
+      <edge id="48" source="taps" target="tag" weight="0.005848" />
+      <edge id="49" source="taps" target="tank" weight="0.008621" />
+      <edge id="50" source="taps" target="talk" weight="0.005848" />
+      <edge id="51" source="taps" target="taxing" weight="0.008264" />
+      <edge id="52" source="tablet" target="task" weight="0.004425" />
+      <edge id="53" source="tablet" target="tank" weight="0.005263" />
+      <edge id="54" source="tablet" target="tabulation" weight="0.007634" />
+      <edge id="55" source="tablet" target="taste" weight="0.003356" />
+      <edge id="56" source="tablet" target="tap" weight="0.018018" />
+      <edge id="57" source="tablet" target="tally" weight="0.022388" />
+      <edge id="58" source="tablet" target="tag" weight="0.008197" />
+      <edge id="59" source="tablet" target="tail" weight="0.011538" />
+      <edge id="60" source="tablet" target="tableau" weight="0.010152" />
+      <edge id="61" source="tablet" target="tableland" weight="0.007752" />
+      <edge id="62" source="tablet" target="tailor" weight="0.00641" />
+      <edge id="63" source="tablet" target="tape" weight="0.047847" />
+      <edge id="64" source="tablet" target="take" weight="0.002336" />
+      <edge id="65" source="tablet" target="talkie" weight="0.008696" />
+      <edge id="66" source="tablet" target="tactical" weight="0.006173" />
+      <edge id="67" source="tablet" target="table" weight="0.209486" />
+      <edge id="68" source="tablet" target="tapestry" weight="0.016" />
+      <edge id="69" source="tantamount" target="tailor" weight="0.014085" />
+      <edge id="70" source="tantamount" target="tally" weight="0.027174" />
+      <edge id="71" source="tail" target="tap" weight="0.004975" />
+      <edge id="72" source="tail" target="taste" weight="0.00831" />
+      <edge id="73" source="tail" target="taproom" weight="0.005556" />
+      <edge id="74" source="tail" target="tailpiece" weight="0.125581" />
+      <edge id="75" source="tail" target="taproot" weight="0.005435" />
+      <edge id="76" source="tail" target="tag" weight="0.143382" />
+      <edge id="77" source="tail" target="tab" weight="0.036364" />
+      <edge id="78" source="tail" target="takeoff" weight="0.004464" />
+      <edge id="79" source="tail" target="table" weight="0.013661" />
+      <edge id="80" source="tail" target="taskmaster" weight="0.005464" />
+      <edge id="81" source="tail" target="tabulate" weight="0.009091" />
+      <edge id="82" source="tail" target="tattoo" weight="0.011204" />
+      <edge id="83" source="tail" target="tangle" weight="0.004149" />
+      <edge id="84" source="tail" target="tableau" weight="0.007634" />
+      <edge id="85" source="tail" target="tame" weight="0.006826" />
+      <edge id="86" source="tail" target="tape" weight="0.014286" />
+      <edge id="87" source="tail" target="take" weight="0.004065" />
+      <edge id="88" source="tail" target="talkie" weight="0.005556" />
+      <edge id="89" source="tail" target="tamp" weight="0.009346" />
+      <edge id="90" source="tail" target="tardy" weight="0.016129" />
+      <edge id="91" source="tail" target="tatter" weight="0.014085" />
+      <edge id="92" source="tail" target="tabulation" weight="0.005102" />
+      <edge id="93" source="tail" target="talons" weight="0.005102" />
+      <edge id="94" source="tail" target="tally" weight="0.018018" />
+      <edge id="95" source="tail" target="tailing" weight="0.005495" />
+      <edge id="96" source="tail" target="tack" weight="0.012539" />
+      <edge id="97" source="tail" target="tailgate" weight="0.053571" />
+      <edge id="98" source="tail" target="tackle" weight="0.007463" />
+      <edge id="99" source="tail" target="talent" weight="0.004405" />
+      <edge id="100" source="tail" target="taboo" weight="0.004237" />
+      <edge id="101" source="tail" target="tariff" weight="0.005682" />
+      <edge id="102" source="tail" target="tank" weight="0.007874" />
+      <edge id="103" source="tail" target="target" weight="0.004975" />
+      <edge id="104" source="tail" target="taper" weight="0.013699" />
+      <edge id="105" source="tail" target="tavern" weight="0.004739" />
+      <edge id="106" source="tail" target="taint" weight="0.007792" />
+      <edge id="107" source="tail" target="tang" weight="0.004274" />
+      <edge id="108" source="tail" target="tandem" weight="0.005814" />
+      <edge id="109" source="tail" target="talkathon" weight="0.005181" />
+      <edge id="110" source="tail" target="tarsus" weight="0.011429" />
+      <edge id="111" source="tail" target="talk" weight="0.003226" />
+      <edge id="112" source="tape" target="tattered" weight="0.00565" />
+      <edge id="113" source="tape" target="tap" weight="0.014085" />
+      <edge id="114" source="tape" target="tar" weight="0.004673" />
+      <edge id="115" source="tape" target="taste" weight="0.009464" />
+      <edge id="116" source="tape" target="tandem" weight="0.015748" />
+      <edge id="117" source="tape" target="tartan" weight="0.012987" />
+      <edge id="118" source="tape" target="tailpiece" weight="0.005076" />
+      <edge id="119" source="tape" target="talking" weight="0.00625" />
+      <edge id="120" source="tape" target="tag" weight="0.007547" />
+      <edge id="121" source="tape" target="tab" weight="0.008368" />
+      <edge id="122" source="tape" target="table" weight="0.041401" />
+      <edge id="123" source="tape" target="tan" weight="0.012048" />
+      <edge id="124" source="tape" target="tangle" weight="0.005076" />
+      <edge id="125" source="tape" target="tabulate" weight="0.186667" />
+      <edge id="126" source="tape" target="tattoo" weight="0.016026" />
+      <edge id="127" source="tape" target="tableau" weight="0.004566" />
+      <edge id="128" source="tape" target="tare" weight="0.007246" />
+      <edge id="129" source="tape" target="tame" weight="0.004" />
+      <edge id="130" source="tape" target="take" weight="0.006711" />
+      <edge id="131" source="tape" target="talkie" weight="0.007353" />
+      <edge id="132" source="tape" target="tamp" weight="0.005848" />
+      <edge id="133" source="tape" target="tatter" weight="0.011765" />
+      <edge id="134" source="tape" target="tabulation" weight="0.013245" />
+      <edge id="135" source="tape" target="taunt" weight="0.005747" />
+      <edge id="136" source="tape" target="tally" weight="0.061151" />
+      <edge id="137" source="tape" target="taciturn" weight="0.006173" />
+      <edge id="138" source="tape" target="tack" weight="0.018248" />
+      <edge id="139" source="tape" target="tangibility" weight="0.007353" />
+      <edge id="140" source="tape" target="tampon" weight="0.15748" />
+      <edge id="141" source="tape" target="tackle" weight="0.004444" />
+      <edge id="142" source="tape" target="taboo" weight="0.005208" />
+      <edge id="143" source="tape" target="tariff" weight="0.007576" />
+      <edge id="144" source="tape" target="tantrum" weight="0.007874" />
+      <edge id="145" source="tape" target="task" weight="0.004049" />
+      <edge id="146" source="tape" target="taper" weight="0.028902" />
+      <edge id="147" source="tape" target="tang" weight="0.015957" />
+      <edge id="148" source="tape" target="taint" weight="0.008798" />
+      <edge id="149" source="tape" target="tax" weight="0.004587" />
+      <edge id="150" source="tape" target="tale" weight="0.011696" />
+      <edge id="151" source="tape" target="tattle" weight="0.006849" />
+      <edge id="152" source="tape" target="tailor" weight="0.017143" />
+      <edge id="153" source="tape" target="talk" weight="0.003759" />
+      <edge id="154" source="tawny" target="taupe" weight="0.386364" />
+      <edge id="155" source="tawny" target="tawdry" weight="0.022222" />
+      <edge id="156" source="tawny" target="taste" weight="0.004608" />
+      <edge id="157" source="tawny" target="tally" weight="0.005208" />
+      <edge id="158" source="tawny" target="tag" weight="0.006098" />
+      <edge id="159" source="tawny" target="tall" weight="0.01" />
+      <edge id="160" source="tawny" target="tan" weight="0.346939" />
+      <edge id="161" source="taunting" target="talented" weight="0.022222" />
+      <edge id="162" source="taunting" target="taunt" weight="0.05" />
+      <edge id="163" source="taunting" target="taking" weight="0.017857" />
+      <edge id="164" source="taunting" target="tactless" weight="0.012195" />
+      <edge id="165" source="taunting" target="tantalizing" weight="0.008197" />
+      <edge id="166" source="taunting" target="takeoff" weight="0.011236" />
+      <edge id="167" source="taunting" target="target" weight="0.015152" />
+      <edge id="168" source="tatter" target="tally" weight="0.004425" />
+      <edge id="169" source="tatter" target="tap" weight="0.003436" />
+      <edge id="170" source="tatter" target="target" weight="0.022727" />
+      <edge id="171" source="tatter" target="taper" weight="0.009174" />
+      <edge id="172" source="tatter" target="tarnish" weight="0.006993" />
+      <edge id="173" source="tatter" target="tag" weight="0.093407" />
+      <edge id="174" source="tatter" target="tableau" weight="0.006623" />
+      <edge id="175" source="tatter" target="taste" weight="0.012048" />
+      <edge id="176" source="tatter" target="tailor" weight="0.018519" />
+      <edge id="177" source="tatter" target="take" weight="0.005263" />
+      <edge id="178" source="tatter" target="tackle" weight="0.012821" />
+      <edge id="179" source="tatter" target="table" weight="0.015686" />
+      <edge id="180" source="tatter" target="tamp" weight="0.009709" />
+      <edge id="181" source="tatter" target="talk" weight="0.005051" />
+      <edge id="182" source="tatter" target="tart" weight="0.007519" />
+      <edge id="183" source="tautologous" target="tall" weight="0.008197" />
+      <edge id="184" source="tautologous" target="tautology" weight="0.026316" />
+      <edge id="185" source="tautologous" target="tawdry" weight="0.014925" />
+      <edge id="186" source="tactic" target="task" weight="0.011364" />
+      <edge id="187" source="tactic" target="tactics" weight="0.069565" />
+      <edge id="188" source="tactic" target="target" weight="0.011494" />
+      <edge id="189" source="tactic" target="taste" weight="0.004016" />
+      <edge id="190" source="tactic" target="tap" weight="0.006944" />
+      <edge id="191" source="tactic" target="tally" weight="0.004464" />
+      <edge id="192" source="tactic" target="tact" weight="0.015152" />
+      <edge id="193" source="tactic" target="talking" weight="0.011111" />
+      <edge id="194" source="tactic" target="tailor" weight="0.009346" />
+      <edge id="195" source="tactic" target="take" weight="0.005291" />
+      <edge id="196" source="tactic" target="table" weight="0.011811" />
+      <edge id="197" source="tactic" target="tachycardia" weight="0.009346" />
+      <edge id="198" source="taxidermy" target="tabulation" weight="0.017544" />
+      <edge id="199" source="taunt" target="task" weight="0.005495" />
+      <edge id="200" source="taunt" target="tank" weight="0.006849" />
+      <edge id="201" source="taunt" target="target" weight="0.021978" />
+      <edge id="202" source="taunt" target="tactful" weight="0.006329" />
+      <edge id="203" source="taunt" target="tarnish" weight="0.006849" />
+      <edge id="204" source="taunt" target="tap" weight="0.013746" />
+      <edge id="205" source="taunt" target="tax" weight="0.006536" />
+      <edge id="206" source="taunt" target="taste" weight="0.003937" />
+      <edge id="207" source="taunt" target="tailor" weight="0.008929" />
+      <edge id="208" source="taunt" target="take" weight="0.010499" />
+      <edge id="209" source="taunt" target="table" weight="0.003831" />
+      <edge id="210" source="taunt" target="tamp" weight="0.019048" />
+      <edge id="211" source="tailor" target="tap" weight="0.010169" />
+      <edge id="212" source="tailor" target="taste" weight="0.032" />
+      <edge id="213" source="tailor" target="tampon" weight="0.011905" />
+      <edge id="214" source="tailor" target="tax" weight="0.012903" />
+      <edge id="215" source="tailor" target="tailpiece" weight="0.007407" />
+      <edge id="216" source="tailor" target="tag" weight="0.0199" />
+      <edge id="217" source="tailor" target="tab" weight="0.017045" />
+      <edge id="218" source="tailor" target="table" weight="0.007605" />
+      <edge id="219" source="tailor" target="tan" weight="0.009524" />
+      <edge id="220" source="tailor" target="tabulate" weight="0.017544" />
+      <edge id="221" source="tailor" target="tattoo" weight="0.007905" />
+      <edge id="222" source="tailor" target="tableau" weight="0.006369" />
+      <edge id="223" source="tailor" target="tare" weight="0.013158" />
+      <edge id="224" source="tailor" target="tame" weight="0.021622" />
+      <edge id="225" source="tailor" target="take" weight="0.005181" />
+      <edge id="226" source="tailor" target="tamp" weight="0.009174" />
+      <edge id="227" source="tailor" target="taxing" weight="0.006494" />
+      <edge id="228" source="tailor" target="tally" weight="0.04955" />
+      <edge id="229" source="tailor" target="tact" weight="0.007092" />
+      <edge id="230" source="tailor" target="tantrum" weight="0.015385" />
+      <edge id="231" source="tailor" target="taciturn" weight="0.01" />
+      <edge id="232" source="tailor" target="tack" weight="0.028436" />
+      <edge id="233" source="tailor" target="tattered" weight="0.008696" />
+      <edge id="234" source="tailor" target="tactics" weight="0.007692" />
+      <edge id="235" source="tailor" target="tannery" weight="0.013514" />
+      <edge id="236" source="tailor" target="tailored" weight="0.024691" />
+      <edge id="237" source="tailor" target="task" weight="0.01087" />
+      <edge id="238" source="tailor" target="talent" weight="0.008264" />
+      <edge id="239" source="tailor" target="taper" weight="0.008696" />
+      <edge id="240" source="tailor" target="tang" weight="0.04878" />
+      <edge id="241" source="tailor" target="taint" weight="0.021739" />
+      <edge id="242" source="tailor" target="tale" weight="0.009091" />
+      <edge id="243" source="tailor" target="tactical" weight="0.008264" />
+      <edge id="244" source="tantalizing" target="tactful" weight="0.005076" />
+      <edge id="245" source="tank" target="tar" weight="0.005376" />
+      <edge id="246" source="tank" target="taste" weight="0.003436" />
+      <edge id="247" source="tank" target="taproom" weight="0.009259" />
+      <edge id="248" source="tank" target="tartan" weight="0.007874" />
+      <edge id="249" source="tank" target="tailpiece" weight="0.005917" />
+      <edge id="250" source="tank" target="tabular" weight="0.008772" />
+      <edge id="251" source="tank" target="talking" weight="0.007576" />
+      <edge id="252" source="tank" target="tab" weight="0.004717" />
+      <edge id="253" source="tank" target="takeoff" weight="0.006579" />
+      <edge id="254" source="tank" target="table" weight="0.006734" />
+      <edge id="255" source="tank" target="tangle" weight="0.017964" />
+      <edge id="256" source="tank" target="tattoo" weight="0.003472" />
+      <edge id="257" source="tank" target="tasteless" weight="0.00495" />
+      <edge id="258" source="tank" target="tableau" weight="0.005236" />
+      <edge id="259" source="tank" target="tame" weight="0.004505" />
+      <edge id="260" source="tank" target="take" weight="0.014423" />
+      <edge id="261" source="tank" target="talons" weight="0.008065" />
+      <edge id="262" source="tank" target="tannery" weight="0.018692" />
+      <edge id="263" source="tank" target="tactful" weight="0.005128" />
+      <edge id="264" source="tank" target="taxing" weight="0.005319" />
+      <edge id="265" source="tank" target="tally" weight="0.003759" />
+      <edge id="266" source="tank" target="tabloid" weight="0.008772" />
+      <edge id="267" source="tank" target="tax" weight="0.010582" />
+      <edge id="268" source="tank" target="tackle" weight="0.005076" />
+      <edge id="269" source="tank" target="tactics" weight="0.006098" />
+      <edge id="270" source="tank" target="tavern" weight="0.014493" />
+      <edge id="271" source="tank" target="tableland" weight="0.008197" />
+      <edge id="272" source="target" target="taste" weight="0.004219" />
+      <edge id="273" source="target" target="tax" weight="0.007353" />
+      <edge id="274" source="target" target="taproot" weight="0.017241" />
+      <edge id="275" source="target" target="tag" weight="0.010929" />
+      <edge id="276" source="target" target="takeoff" weight="0.010204" />
+      <edge id="277" source="target" target="tattoo" weight="0.008584" />
+      <edge id="278" source="target" target="tarnish" weight="0.007752" />
+      <edge id="279" source="target" target="take" weight="0.005464" />
+      <edge id="280" source="target" target="tamp" weight="0.011236" />
+      <edge id="281" source="target" target="taxing" weight="0.007463" />
+      <edge id="282" source="target" target="taxation" weight="0.020833" />
+      <edge id="283" source="target" target="tailing" weight="0.017857" />
+      <edge id="284" source="target" target="tack" weight="0.005102" />
+      <edge id="285" source="target" target="tackle" weight="0.014085" />
+      <edge id="286" source="target" target="tangible" weight="0.012658" />
+      <edge id="287" source="target" target="tariff" weight="0.02" />
+      <edge id="288" source="target" target="task" weight="0.012195" />
+      <edge id="289" source="target" target="tactics" weight="0.009091" />
+      <edge id="290" source="target" target="tang" weight="0.009259" />
+      <edge id="291" source="target" target="taint" weight="0.003831" />
+      <edge id="292" source="target" target="talk" weight="0.005435" />
+      <edge id="293" source="tapering" target="taboo" weight="0.011236" />
+      <edge id="294" source="tapering" target="taper" weight="0.056338" />
+      <edge id="295" source="tapering" target="tactical" weight="0.0125" />
+      <edge id="296" source="tabby" target="talebearing" weight="0.027027" />
+      <edge id="297" source="tabby" target="tactical" weight="0.010638" />
+      <edge id="298" source="tabby" target="tackle" weight="0.007353" />
+      <edge id="299" source="tabby" target="taboo" weight="0.009709" />
+      <edge id="300" source="tabby" target="talebearer" weight="0.227273" />
+      <edge id="301" source="tabby" target="talk" weight="0.00565" />
+      <edge id="302" source="tanked" target="taste" weight="0.004464" />
+      <edge id="303" source="tanked" target="tall" weight="0.018868" />
+      <edge id="304" source="tanked" target="tart" weight="0.009434" />
+      <edge id="305" source="tanked" target="tainted" weight="0.021053" />
+      <edge id="306" source="tanked" target="tactical" weight="0.011364" />
+      <edge id="307" source="tavern" target="taproom" weight="0.3" />
+      <edge id="308" source="tavern" target="tap" weight="0.006993" />
+      <edge id="309" source="tavern" target="take" weight="0.002653" />
+      <edge id="310" source="tavern" target="table" weight="0.007905" />
+      <edge id="311" source="tavern" target="taboo" weight="0.008333" />
+      <edge id="312" source="tableland" target="tabloid" weight="0.038462" />
+      <edge id="313" source="tableland" target="tasteless" weight="0.007092" />
+      <edge id="314" source="tableland" target="tableau" weight="0.007692" />
+      <edge id="315" source="tableland" target="tame" weight="0.006211" />
+      <edge id="316" source="tableland" target="tabular" weight="0.038462" />
+      <edge id="317" source="tableland" target="take" weight="0.002778" />
+      <edge id="318" source="tableland" target="tab" weight="0.006623" />
+      <edge id="319" source="tableland" target="table" weight="0.144231" />
+      <edge id="320" source="tactless" target="tacky" weight="0.011111" />
+      <edge id="321" source="tactless" target="taboo" weight="0.007937" />
+      <edge id="322" source="tactless" target="tawdry" weight="0.025" />
+      <edge id="323" source="tactless" target="tart" weight="0.007407" />
+      <edge id="324" source="tallow" target="tautology" weight="0.02381" />
+      <edge id="325" source="tatty" target="tacky" weight="0.145038" />
+      <edge id="326" source="tatty" target="tawdry" weight="0.041667" />
+      <edge id="327" source="tailpiece" target="tap" weight="0.006329" />
+      <edge id="328" source="tailpiece" target="taste" weight="0.00361" />
+      <edge id="329" source="tailpiece" target="tax" weight="0.011429" />
+      <edge id="330" source="tailpiece" target="talking" weight="0.008475" />
+      <edge id="331" source="tailpiece" target="tag" weight="0.092233" />
+      <edge id="332" source="tailpiece" target="table" weight="0.003521" />
+      <edge id="333" source="tailpiece" target="taxing" weight="0.011561" />
+      <edge id="334" source="tailpiece" target="tableau" weight="0.011364" />
+      <edge id="335" source="tailpiece" target="tauten" weight="0.010638" />
+      <edge id="336" source="tailpiece" target="take" weight="0.002457" />
+      <edge id="337" source="tailpiece" target="talkie" weight="0.010638" />
+      <edge id="338" source="tailpiece" target="tardy" weight="0.019802" />
+      <edge id="339" source="tailpiece" target="tabulation" weight="0.009091" />
+      <edge id="340" source="tailpiece" target="tally" weight="0.028455" />
+      <edge id="341" source="tailpiece" target="tariff" weight="0.011111" />
+      <edge id="342" source="tailpiece" target="task" weight="0.009804" />
+      <edge id="343" source="tailpiece" target="talk" weight="0.008969" />
+      <edge id="344" source="tangential" target="tangent" weight="0.021739" />
+      <edge id="345" source="tangential" target="tasting" weight="0.028571" />
+      <edge id="346" source="takeoff" target="taste" weight="0.003846" />
+      <edge id="347" source="takeoff" target="tap" weight="0.003333" />
+      <edge id="348" source="takeoff" target="tautology" weight="0.020619" />
+      <edge id="349" source="takeoff" target="table" weight="0.003745" />
+      <edge id="350" source="takeoff" target="tacky" weight="0.005319" />
+      <edge id="351" source="takeoff" target="talk" weight="0.004831" />
+      <edge id="352" source="talisman" target="tartan" weight="0.022222" />
+      <edge id="353" source="talisman" target="take" weight="0.00295" />
+      <edge id="354" source="talisman" target="tantalize" weight="0.019608" />
+      <edge id="355" source="tattletale" target="talebearing" weight="0.037037" />
+      <edge id="356" source="tattletale" target="take" weight="0.002857" />
+      <edge id="357" source="tattletale" target="talk" weight="0.018182" />
+      <edge id="358" source="tattletale" target="talebearer" weight="0.833333" />
+      <edge id="359" source="taskmaster" target="taproot" weight="0.025" />
+      <edge id="360" source="taskmaster" target="taker" weight="0.028571" />
+      <edge id="361" source="taskmaster" target="tab" weight="0.007143" />
+      <edge id="362" source="talebearer" target="taleteller" weight="0.3125" />
+      <edge id="363" source="talebearer" target="tale" weight="0.013333" />
+      <edge id="364" source="talebearer" target="talebearing" weight="0.034483" />
+      <edge id="365" source="talebearer" target="tattle" weight="0.136364" />
+      <edge id="366" source="talebearer" target="take" weight="0.002841" />
+      <edge id="367" source="talebearer" target="talk" weight="0.017964" />
+      <edge id="368" source="tabulate" target="tap" weight="0.013605" />
+      <edge id="369" source="tabulate" target="taste" weight="0.011765" />
+      <edge id="370" source="tabulate" target="tax" weight="0.019481" />
+      <edge id="371" source="tabulate" target="tag" weight="0.014851" />
+      <edge id="372" source="tabulate" target="table" weight="0.047431" />
+      <edge id="373" source="tabulate" target="tan" weight="0.009524" />
+      <edge id="374" source="tabulate" target="taxing" weight="0.006494" />
+      <edge id="375" source="tabulate" target="take" weight="0.005181" />
+      <edge id="376" source="tabulate" target="tainted" weight="0.007752" />
+      <edge id="377" source="tabulate" target="tamp" weight="0.009174" />
+      <edge id="378" source="tabulate" target="tabulation" weight="0.011111" />
+      <edge id="379" source="tabulate" target="tally" weight="0.104265" />
+      <edge id="380" source="tabulate" target="taboo" weight="0.007692" />
+      <edge id="381" source="tabulate" target="tariff" weight="0.028986" />
+      <edge id="382" source="tabulate" target="task" weight="0.016393" />
+      <edge id="383" source="tabulate" target="tactics" weight="0.015504" />
+      <edge id="384" source="tabulate" target="taper" weight="0.008696" />
+      <edge id="385" source="tabulate" target="talk" weight="0.004902" />
+      <edge id="386" source="tabloid" target="taupe" weight="0.03125" />
+      <edge id="387" source="tabloid" target="tawdry" weight="0.02" />
+      <edge id="388" source="tabloid" target="tactical" weight="0.011628" />
+      <edge id="389" source="tabloid" target="tableau" weight="0.016529" />
+      <edge id="390" source="tabloid" target="tall" weight="0.009524" />
+      <edge id="391" source="tabloid" target="table" weight="0.026786" />
+      <edge id="392" source="tabloid" target="tan" weight="0.014286" />
+      <edge id="393" source="tabloid" target="talk" weight="0.005917" />
+      <edge id="394" source="tasteful" target="tactful" weight="0.035971" />
+      <edge id="395" source="tasteful" target="tauten" weight="0.017857" />
+      <edge id="396" source="tasteful" target="take" weight="0.00271" />
+      <edge id="397" source="tasteful" target="tackle" weight="0.006897" />
+      <edge id="398" source="tasteful" target="table" weight="0.004065" />
+      <edge id="399" source="tasteful" target="tan" weight="0.011494" />
+      <edge id="400" source="taxing" target="tap" weight="0.008982" />
+      <edge id="401" source="taxing" target="tax" weight="0.240506" />
+      <edge id="402" source="taxing" target="talking" weight="0.007299" />
+      <edge id="403" source="taxing" target="tag" weight="0.008264" />
+      <edge id="404" source="taxing" target="tab" weight="0.004608" />
+      <edge id="405" source="taxing" target="table" weight="0.0033" />
+      <edge id="406" source="taxing" target="tangle" weight="0.011561" />
+      <edge id="407" source="taxing" target="tarnish" weight="0.016129" />
+      <edge id="408" source="taxing" target="tauten" weight="0.027027" />
+      <edge id="409" source="taxing" target="take" weight="0.011848" />
+      <edge id="410" source="taxing" target="tacky" weight="0.008969" />
+      <edge id="411" source="taxing" target="tamp" weight="0.013605" />
+      <edge id="412" source="taxing" target="tasteless" weight="0.004831" />
+      <edge id="413" source="taxing" target="taxation" weight="0.069307" />
+      <edge id="414" source="taxing" target="tally" weight="0.007407" />
+      <edge id="415" source="taxing" target="tack" weight="0.007874" />
+      <edge id="416" source="taxing" target="tapping" weight="0.008772" />
+      <edge id="417" source="taxing" target="tackle" weight="0.00495" />
+      <edge id="418" source="taxing" target="tariff" weight="0.047619" />
+      <edge id="419" source="taxing" target="task" weight="0.056338" />
+      <edge id="420" source="taxing" target="tawdry" weight="0.008065" />
+      <edge id="421" source="taxing" target="taint" weight="0.00627" />
+      <edge id="422" source="taxing" target="tale" weight="0.006711" />
+      <edge id="423" source="taming" target="taboo" weight="0.011765" />
+      <edge id="424" source="tauten" target="tap" weight="0.003906" />
+      <edge id="425" source="tauten" target="tax" weight="0.035714" />
+      <edge id="426" source="tauten" target="tack" weight="0.005714" />
+      <edge id="427" source="tauten" target="tater" weight="0.043478" />
+      <edge id="428" source="tauten" target="take" weight="0.005797" />
+      <edge id="429" source="tauten" target="taut" weight="0.04878" />
+      <edge id="430" source="tauten" target="tackle" weight="0.033613" />
+      <edge id="431" source="tauten" target="table" weight="0.018182" />
+      <edge id="432" source="tauten" target="tan" weight="0.015625" />
+      <edge id="433" source="tadpole" target="tackle" weight="0.007576" />
+      <edge id="434" source="tadpole" target="taupe" weight="0.014493" />
+      <edge id="435" source="tadpole" target="tan" weight="0.013514" />
+      <edge id="436" source="tadpole" target="tarsus" weight="0.025641" />
+      <edge id="437" source="tainted" target="taupe" weight="0.008772" />
+      <edge id="438" source="tainted" target="tall" weight="0.006494" />
+      <edge id="439" source="tainted" target="tart" weight="0.013158" />
+      <edge id="440" source="tainted" target="tasteless" weight="0.016667" />
+      <edge id="441" source="tainted" target="tangle" weight="0.006711" />
+      <edge id="442" source="tainted" target="tarnish" weight="0.012346" />
+      <edge id="443" source="tainted" target="taking" weight="0.00641" />
+      <edge id="444" source="tainted" target="tattered" weight="0.015625" />
+      <edge id="445" source="tainted" target="tame" weight="0.00495" />
+      <edge id="446" source="tainted" target="tang" weight="0.007042" />
+      <edge id="447" source="tainted" target="tack" weight="0.004348" />
+      <edge id="448" source="tainted" target="take" weight="0.002494" />
+      <edge id="449" source="tainted" target="tactical" weight="0.007407" />
+      <edge id="450" source="tainted" target="tacky" weight="0.010101" />
+      <edge id="451" source="tainted" target="taint" weight="0.010239" />
+      <edge id="452" source="tainted" target="tarnished" weight="0.205479" />
+      <edge id="453" source="tarantula" target="tap" weight="0.007968" />
+      <edge id="454" source="tarantula" target="take" weight="0.002924" />
+      <edge id="455" source="tannery" target="tackle" weight="0.008197" />
+      <edge id="456" source="tannery" target="tartan" weight="0.019231" />
+      <edge id="457" source="tarsus" target="tambourine" weight="0.052632" />
+      <edge id="458" source="tabulation" target="tactics" weight="0.009524" />
+      <edge id="459" source="tabulation" target="tally" weight="0.014634" />
+      <edge id="460" source="tabulation" target="talkathon" weight="0.032787" />
+      <edge id="461" source="tabulation" target="table" weight="0.016949" />
+      <edge id="462" source="tangent" target="tactics" weight="0.009524" />
+      <edge id="463" source="tangent" target="taper" weight="0.034091" />
+      <edge id="464" source="tangent" target="taint" weight="0.003906" />
+      <edge id="465" source="tangent" target="talking" weight="0.013699" />
+      <edge id="466" source="tangent" target="tack" weight="0.010526" />
+      <edge id="467" source="tangent" target="tap" weight="0.003676" />
+      <edge id="468" source="taxed" target="tangled" weight="0.04878" />
+      <edge id="469" source="tartan" target="tarnish" weight="0.007874" />
+      <edge id="470" source="tartan" target="tap" weight="0.003636" />
+      <edge id="471" source="tartan" target="tally" weight="0.004762" />
+      <edge id="472" source="tartan" target="tableau" weight="0.007407" />
+      <edge id="473" source="tartan" target="taste" weight="0.004255" />
+      <edge id="474" source="tartan" target="tag" weight="0.005495" />
+      <edge id="475" source="tartan" target="take" weight="0.00274" />
+      <edge id="476" source="tartan" target="tackle" weight="0.007092" />
+      <edge id="477" source="tartan" target="tan" weight="0.012048" />
+      <edge id="478" source="tartan" target="tapestry" weight="0.015873" />
+      <edge id="479" source="taboo" target="tap" weight="0.003205" />
+      <edge id="480" source="taboo" target="taste" weight="0.00738" />
+      <edge id="481" source="taboo" target="taproom" weight="0.011236" />
+      <edge id="482" source="taboo" target="tax" weight="0.005848" />
+      <edge id="483" source="taboo" target="table" weight="0.007194" />
+      <edge id="484" source="taboo" target="tattoo" weight="0.003717" />
+      <edge id="485" source="taboo" target="tame" weight="0.004926" />
+      <edge id="486" source="taboo" target="take" weight="0.002488" />
+      <edge id="487" source="taboo" target="tasteless" weight="0.005464" />
+      <edge id="488" source="taboo" target="tally" weight="0.004049" />
+      <edge id="489" source="taboo" target="task" weight="0.005" />
+      <edge id="490" source="taboo" target="taper" weight="0.007692" />
+      <edge id="491" source="taboo" target="taint" weight="0.003378" />
+      <edge id="492" source="taboo" target="tang" weight="0.006993" />
+      <edge id="493" source="tantrum" target="tabes" weight="0.015873" />
+      <edge id="494" source="tantrum" target="tailored" weight="0.03125" />
+      <edge id="495" source="tantrum" target="tachycardia" weight="0.015385" />
+      <edge id="496" source="tangible" target="tangibility" weight="0.017241" />
+      <edge id="497" source="tangible" target="tall" weight="0.008065" />
+      <edge id="498" source="tangible" target="table" weight="0.004032" />
+      <edge id="499" source="tangible" target="tamp" weight="0.010753" />
+      <edge id="500" source="tangible" target="take" weight="0.005405" />
+      <edge id="501" source="talented" target="tailored" weight="0.02439" />
+      <edge id="502" source="talented" target="tactful" weight="0.070796" />
+      <edge id="503" source="talented" target="tactical" weight="0.025316" />
+      <edge id="504" source="talented" target="tasty" weight="0.021739" />
+      <edge id="505" source="talented" target="tart" weight="0.020619" />
+      <edge id="506" source="taper" target="tap" weight="0.006757" />
+      <edge id="507" source="taper" target="taste" weight="0.011765" />
+      <edge id="508" source="taper" target="tax" weight="0.00641" />
+      <edge id="509" source="taper" target="tag" weight="0.030151" />
+      <edge id="510" source="taper" target="tab" weight="0.005618" />
+      <edge id="511" source="taper" target="tabernacle" weight="0.013333" />
+      <edge id="512" source="taper" target="tattoo" weight="0.007905" />
+      <edge id="513" source="taper" target="tarnish" weight="0.006711" />
+      <edge id="514" source="taper" target="tame" weight="0.010695" />
+      <edge id="515" source="taper" target="take" weight="0.010417" />
+      <edge id="516" source="taper" target="tacky" weight="0.005405" />
+      <edge id="517" source="taper" target="tally" weight="0.017467" />
+      <edge id="518" source="taper" target="taciturn" weight="0.01" />
+      <edge id="519" source="taper" target="tack" weight="0.00463" />
+      <edge id="520" source="taper" target="tackle" weight="0.006135" />
+      <edge id="521" source="taper" target="tactics" weight="0.007692" />
+      <edge id="522" source="taper" target="task" weight="0.016393" />
+      <edge id="523" source="taper" target="talent" weight="0.008264" />
+      <edge id="524" source="taper" target="tang" weight="0.015748" />
+      <edge id="525" source="taper" target="tapered" weight="0.014493" />
+      <edge id="526" source="taper" target="taint" weight="0.003559" />
+      <edge id="527" source="taper" target="tattle" weight="0.011905" />
+      <edge id="528" source="taper" target="tactical" weight="0.008264" />
+      <edge id="529" source="taper" target="talk" weight="0.004902" />
+      <edge id="530" source="tapered" target="tactical" weight="0.013333" />
+      <edge id="531" source="talebearing" target="task" weight="0.007463" />
+      <edge id="532" source="talebearing" target="tally" weight="0.005525" />
+      <edge id="533" source="talebearing" target="tattle" weight="0.172414" />
+      <edge id="534" source="talebearing" target="taleteller" weight="0.04" />
+      <edge id="535" source="talebearing" target="tale" weight="0.090909" />
+      <edge id="536" source="talebearing" target="talking" weight="0.021277" />
+      <edge id="537" source="talebearing" target="talkathon" weight="0.027778" />
+      <edge id="538" source="talebearing" target="talk" weight="0.033557" />
+      <edge id="539" source="tattle" target="task" weight="0.006494" />
+      <edge id="540" source="tattle" target="tap" weight="0.003759" />
+      <edge id="541" source="tattle" target="talking" weight="0.030303" />
+      <edge id="542" source="tattle" target="tally" weight="0.01" />
+      <edge id="543" source="tattle" target="take" weight="0.002809" />
+      <edge id="544" source="tattle" target="talk" weight="0.137255" />
+      <edge id="545" source="tater" target="take" weight="0.002976" />
+      <edge id="546" source="tangled" target="tactful" weight="0.016" />
+      <edge id="547" source="tangled" target="tautology" weight="0.016667" />
+      <edge id="548" source="tangled" target="tactical" weight="0.011628" />
+      <edge id="549" source="tangled" target="tall" weight="0.009524" />
+      <edge id="550" source="tangled" target="tangle" weight="0.01" />
+      <edge id="551" source="tangled" target="tart" weight="0.009615" />
+      <edge id="552" source="tactical" target="tax" weight="0.006173" />
+      <edge id="553" source="tactical" target="tabular" weight="0.011628" />
+      <edge id="554" source="tactical" target="tag" weight="0.004762" />
+      <edge id="555" source="tactical" target="tasty" weight="0.010753" />
+      <edge id="556" source="tactical" target="tarnished" weight="0.012658" />
+      <edge id="557" source="tactical" target="tan" weight="0.009009" />
+      <edge id="558" source="tactical" target="tame" weight="0.005155" />
+      <edge id="559" source="tactical" target="tacky" weight="0.005236" />
+      <edge id="560" source="tactical" target="tart" weight="0.006897" />
+      <edge id="561" source="tactical" target="tallowy" weight="0.039474" />
+      <edge id="562" source="tactical" target="tactful" weight="0.070064" />
+      <edge id="563" source="tactical" target="tact" weight="0.006803" />
+      <edge id="564" source="tactical" target="task" weight="0.005236" />
+      <edge id="565" source="tactical" target="talent" weight="0.007874" />
+      <edge id="566" source="tactical" target="tack" weight="0.004505" />
+      <edge id="567" source="tableware" target="taupe" weight="0.018868" />
+      <edge id="568" source="table" target="tap" weight="0.022883" />
+      <edge id="569" source="table" target="tar" weight="0.006667" />
+      <edge id="570" source="table" target="tantalize" weight="0.004032" />
+      <edge id="571" source="table" target="taste" weight="0.0175" />
+      <edge id="572" source="table" target="taproom" weight="0.004484" />
+      <edge id="573" source="table" target="tax" weight="0.003279" />
+      <edge id="574" source="table" target="tabular" weight="0.022222" />
+      <edge id="575" source="table" target="talking" weight="0.004049" />
+      <edge id="576" source="table" target="tag" weight="0.017241" />
+      <edge id="577" source="table" target="tab" weight="0.01548" />
+      <edge id="578" source="table" target="tan" weight="0.007905" />
+      <edge id="579" source="table" target="tangle" weight="0.003521" />
+      <edge id="580" source="table" target="tapestry" weight="0.012931" />
+      <edge id="581" source="table" target="tattoo" weight="0.01" />
+      <edge id="582" source="table" target="tasting" weight="0.004386" />
+      <edge id="583" source="table" target="tarnish" weight="0.003356" />
+      <edge id="584" source="table" target="tableau" weight="0.016556" />
+      <edge id="585" source="table" target="tare" weight="0.004444" />
+      <edge id="586" source="table" target="tame" weight="0.005952" />
+      <edge id="587" source="table" target="take" weight="0.018975" />
+      <edge id="588" source="table" target="talkie" weight="0.009009" />
+      <edge id="589" source="table" target="tactics" weight="0.018182" />
+      <edge id="590" source="table" target="tamp" weight="0.003876" />
+      <edge id="591" source="table" target="tart" weight="0.003472" />
+      <edge id="592" source="table" target="tally" weight="0.043716" />
+      <edge id="593" source="table" target="taciturn" weight="0.004016" />
+      <edge id="594" source="table" target="tasteless" weight="0.003155" />
+      <edge id="595" source="table" target="tack" weight="0.00274" />
+      <edge id="596" source="table" target="tapping" weight="0.004464" />
+      <edge id="597" source="table" target="tattered" weight="0.003788" />
+      <edge id="598" source="table" target="task" weight="0.006006" />
+      <edge id="599" source="table" target="taint" weight="0.016509" />
+      <edge id="600" source="table" target="tale" weight="0.011673" />
+      <edge id="601" source="table" target="tang" weight="0.014599" />
+      <edge id="602" source="table" target="talkathon" weight="0.004237" />
+      <edge id="603" source="table" target="talk" weight="0.008547" />
+      <edge id="604" source="tangle" target="task" weight="0.009804" />
+      <edge id="605" source="tangle" target="tarnish" weight="0.011905" />
+      <edge id="606" source="tangle" target="tax" weight="0.023121" />
+      <edge id="607" source="tangle" target="tap" weight="0.003155" />
+      <edge id="608" source="tangle" target="tact" weight="0.006211" />
+      <edge id="609" source="tangle" target="taste" weight="0.007246" />
+      <edge id="610" source="tangle" target="tag" weight="0.013514" />
+      <edge id="611" source="tangle" target="take" weight="0.068063" />
+      <edge id="612" source="tabernacle" target="tableau" weight="0.008547" />
+      <edge id="613" source="tabernacle" target="tapestry" weight="0.022222" />
+      <edge id="614" source="taker" target="tackle" weight="0.008264" />
+      <edge id="615" source="tasting" target="taste" weight="0.009091" />
+      <edge id="616" source="tasting" target="tapeworm" weight="0.066667" />
+      <edge id="617" source="tasting" target="take" weight="0.002849" />
+      <edge id="618" source="tame" target="taupe" weight="0.017544" />
+      <edge id="619" source="tame" target="tap" weight="0.013661" />
+      <edge id="620" source="tame" target="taste" weight="0.006079" />
+      <edge id="621" source="tame" target="tax" weight="0.008772" />
+      <edge id="622" source="tame" target="tag" weight="0.007246" />
+      <edge id="623" source="tame" target="tan" weight="0.005618" />
+      <edge id="624" source="tame" target="tarnish" weight="0.00905" />
+      <edge id="625" source="tame" target="tableau" weight="0.004348" />
+      <edge id="626" source="tame" target="take" weight="0.008753" />
+      <edge id="627" source="tame" target="tamer" weight="0.007092" />
+      <edge id="628" source="tame" target="tactful" weight="0.004274" />
+      <edge id="629" source="tame" target="talons" weight="0.006135" />
+      <edge id="630" source="tame" target="tact" weight="0.004673" />
+      <edge id="631" source="tame" target="tacky" weight="0.011719" />
+      <edge id="632" source="tame" target="tackle" weight="0.017167" />
+      <edge id="633" source="tame" target="task" weight="0.007782" />
+      <edge id="634" source="tame" target="talk" weight="0.00361" />
+      <edge id="635" source="tabes" target="tachycardia" weight="0.727273" />
+      <edge id="636" source="tabes" target="task" weight="0.005464" />
+      <edge id="637" source="tabes" target="tap" weight="0.00339" />
+      <edge id="638" source="tabes" target="take" weight="0.002597" />
+      <edge id="639" source="tacky" target="tattered" weight="0.309859" />
+      <edge id="640" source="tacky" target="taupe" weight="0.005882" />
+      <edge id="641" source="tacky" target="tall" weight="0.009569" />
+      <edge id="642" source="tacky" target="tawdry" weight="0.026316" />
+      <edge id="643" source="tacky" target="tasteless" weight="0.025751" />
+      <edge id="644" source="tacky" target="tactful" weight="0.004329" />
+      <edge id="645" source="tacky" target="tasty" weight="0.012821" />
+      <edge id="646" source="tacky" target="tarnished" weight="0.014085" />
+      <edge id="647" source="tacky" target="taut" weight="0.006536" />
+      <edge id="648" source="tacky" target="tart" weight="0.009615" />
+      <edge id="649" source="tamp" target="tap" weight="0.013889" />
+      <edge id="650" source="tamp" target="taste" weight="0.008" />
+      <edge id="651" source="tamp" target="tax" weight="0.027211" />
+      <edge id="652" source="tamp" target="tag" weight="0.015306" />
+      <edge id="653" source="tamp" target="tab" weight="0.023669" />
+      <edge id="654" source="tamp" target="tattoo" weight="0.041841" />
+      <edge id="655" source="tamp" target="take" weight="0.007916" />
+      <edge id="656" source="tamp" target="tally" weight="0.008889" />
+      <edge id="657" source="tamp" target="task" weight="0.005587" />
+      <edge id="658" source="tamp" target="talent" weight="0.008696" />
+      <edge id="659" source="tamp" target="tang" weight="0.025" />
+      <edge id="660" source="tamp" target="taint" weight="0.007299" />
+      <edge id="661" source="tamp" target="tack" weight="0.009569" />
+      <edge id="662" source="tallowy" target="tautology" weight="0.019231" />
+      <edge id="663" source="tallowy" target="tactful" weight="0.008475" />
+      <edge id="664" source="tasteless" target="taupe" weight="0.033557" />
+      <edge id="665" source="tasteless" target="tall" weight="0.021053" />
+      <edge id="666" source="tasteless" target="tawdry" weight="0.045113" />
+      <edge id="667" source="tasteless" target="tarnish" weight="0.015" />
+      <edge id="668" source="tasteless" target="tap" weight="0.002857" />
+      <edge id="669" source="tasteless" target="tableau" weight="0.004762" />
+      <edge id="670" source="tasteless" target="take" weight="0.002273" />
+      <edge id="671" source="tasteless" target="tardy" weight="0.007407" />
+      <edge id="672" source="tasteless" target="tart" weight="0.015789" />
+      <edge id="673" source="taxation" target="tax" weight="0.1" />
+      <edge id="674" source="taxation" target="task" weight="0.022059" />
+      <edge id="675" source="taxation" target="tariff" weight="0.333333" />
+      <edge id="676" source="tally" target="taupe" weight="0.004608" />
+      <edge id="677" source="tally" target="tap" weight="0.007282" />
+      <edge id="678" source="tally" target="taste" weight="0.03022" />
+      <edge id="679" source="tally" target="tailgate" weight="0.005348" />
+      <edge id="680" source="tally" target="tax" weight="0.007353" />
+      <edge id="681" source="tally" target="talking" weight="0.004651" />
+      <edge id="682" source="tally" target="tag" weight="0.076923" />
+      <edge id="683" source="tally" target="tab" weight="0.049645" />
+      <edge id="684" source="tally" target="tan" weight="0.004505" />
+      <edge id="685" source="tally" target="tapestry" weight="0.015" />
+      <edge id="686" source="tally" target="tattoo" weight="0.019178" />
+      <edge id="687" source="tally" target="tarnish" weight="0.003759" />
+      <edge id="688" source="tally" target="tableau" weight="0.01476" />
+      <edge id="689" source="tally" target="take" weight="0.012024" />
+      <edge id="690" source="tally" target="talkie" weight="0.005236" />
+      <edge id="691" source="tally" target="taciturn" weight="0.004608" />
+      <edge id="692" source="tally" target="tact" weight="0.003876" />
+      <edge id="693" source="tally" target="tack" weight="0.012121" />
+      <edge id="694" source="tally" target="tampon" weight="0.004975" />
+      <edge id="695" source="tally" target="tactics" weight="0.00813" />
+      <edge id="696" source="tally" target="tariff" weight="0.005348" />
+      <edge id="697" source="tally" target="task" weight="0.01" />
+      <edge id="698" source="tally" target="tang" weight="0.037975" />
+      <edge id="699" source="tally" target="tautology" weight="0.004717" />
+      <edge id="700" source="tally" target="taint" weight="0.023077" />
+      <edge id="701" source="tally" target="tale" weight="0.090909" />
+      <edge id="702" source="tally" target="talk" weight="0.00625" />
+      <edge id="703" source="taciturn" target="tap" weight="0.003546" />
+      <edge id="704" source="taciturn" target="taste" weight="0.004132" />
+      <edge id="705" source="taciturn" target="talkie" weight="0.016949" />
+      <edge id="706" source="taciturn" target="tall" weight="0.008" />
+      <edge id="707" source="tailing" target="tap" weight="0.003876" />
+      <edge id="708" source="tapeworm" target="taste" weight="0.039604" />
+      <edge id="709" source="tapeworm" target="tact" weight="0.010753" />
+      <edge id="710" source="tapeworm" target="taint" weight="0.004292" />
+      <edge id="711" source="tapeworm" target="tang" weight="0.038462" />
+      <edge id="712" source="tapeworm" target="take" weight="0.011905" />
+      <edge id="713" source="tampon" target="tautology" weight="0.015625" />
+      <edge id="714" source="tampon" target="tap" weight="0.003759" />
+      <edge id="715" source="tampon" target="taste" weight="0.004425" />
+      <edge id="716" source="tandem" target="tackle" weight="0.017699" />
+      <edge id="717" source="tandem" target="tap" weight="0.004032" />
+      <edge id="718" source="tandem" target="tardy" weight="0.030303" />
+      <edge id="719" source="tapping" target="talking" weight="0.017241" />
+      <edge id="720" source="tapping" target="talk" weight="0.006098" />
+      <edge id="721" source="tattered" target="tap" weight="0.013605" />
+      <edge id="722" source="tattered" target="tawdry" weight="0.011765" />
+      <edge id="723" source="tattered" target="taste" weight="0.003891" />
+      <edge id="724" source="talent" target="tax" weight="0.006173" />
+      <edge id="725" source="talent" target="task" weight="0.005236" />
+      <edge id="726" source="talent" target="tap" weight="0.0033" />
+      <edge id="727" source="talent" target="taste" weight="0.003802" />
+      <edge id="728" source="talent" target="talons" weight="0.010417" />
+      <edge id="729" source="talent" target="tact" weight="0.112782" />
+      <edge id="730" source="talent" target="tangibility" weight="0.0125" />
+      <edge id="731" source="talent" target="tackle" weight="0.011905" />
+      <edge id="732" source="talent" target="tag" weight="0.004762" />
+      <edge id="733" source="talent" target="take" weight="0.005102" />
+      <edge id="734" source="tariff" target="task" weight="0.029197" />
+      <edge id="735" source="tariff" target="tax" weight="0.056604" />
+      <edge id="736" source="tariff" target="tableau" weight="0.008929" />
+      <edge id="737" source="tariff" target="tag" weight="0.006289" />
+      <edge id="738" source="tariff" target="tab" weight="0.022901" />
+      <edge id="739" source="tachycardia" target="tattoo" weight="0.007905" />
+      <edge id="740" source="tachycardia" target="task" weight="0.01087" />
+      <edge id="741" source="tachycardia" target="tap" weight="0.003367" />
+      <edge id="742" source="tachycardia" target="take" weight="0.002584" />
+      <edge id="743" source="taproot" target="tactics" weight="0.010753" />
+      <edge id="744" source="taproot" target="taproom" weight="0.027027" />
+      <edge id="745" source="taproot" target="tap" weight="0.019531" />
+      <edge id="746" source="tactics" target="tap" weight="0.003205" />
+      <edge id="747" source="tactics" target="taste" weight="0.00738" />
+      <edge id="748" source="tactics" target="tag" weight="0.009174" />
+      <edge id="749" source="tactics" target="tab" weight="0.005181" />
+      <edge id="750" source="tactics" target="take" weight="0.002488" />
+      <edge id="751" source="tactics" target="talons" weight="0.009524" />
+      <edge id="752" source="tactics" target="tact" weight="0.019481" />
+      <edge id="753" source="tactics" target="tack" weight="0.054545" />
+      <edge id="754" source="tactics" target="tackle" weight="0.017045" />
+      <edge id="755" source="tactics" target="task" weight="0.01005" />
+      <edge id="756" source="tactics" target="talkathon" weight="0.009804" />
+      <edge id="757" source="tactics" target="talk" weight="0.009174" />
+      <edge id="758" source="tawdry" target="taupe" weight="0.014286" />
+      <edge id="759" source="tawdry" target="tall" weight="0.088235" />
+      <edge id="760" source="tawdry" target="tan" weight="0.013333" />
+      <edge id="761" source="tang" target="taupe" weight="0.00885" />
+      <edge id="762" source="tang" target="tap" weight="0.01634" />
+      <edge id="763" source="tang" target="taste" weight="0.226244" />
+      <edge id="764" source="tang" target="tag" weight="0.038095" />
+      <edge id="765" source="tang" target="tan" weight="0.008475" />
+      <edge id="766" source="tang" target="tarnish" weight="0.01875" />
+      <edge id="767" source="tang" target="take" weight="0.01519" />
+      <edge id="768" source="tang" target="talkie" weight="0.011494" />
+      <edge id="769" source="tang" target="tart" weight="0.013245" />
+      <edge id="770" source="tang" target="tactful" weight="0.005747" />
+      <edge id="771" source="tang" target="tact" weight="0.013072" />
+      <edge id="772" source="tang" target="talk" weight="0.004608" />
+      <edge id="773" source="taleteller" target="talk" weight="0.006061" />
+      <edge id="774" source="talkathon" target="talking" weight="0.028986" />
+      <edge id="775" source="talkathon" target="task" weight="0.025974" />
+      <edge id="776" source="talkathon" target="tautology" weight="0.014925" />
+      <edge id="777" source="talkathon" target="tact" weight="0.00885" />
+      <edge id="778" source="talkathon" target="tag" weight="0.005682" />
+      <edge id="779" source="talkathon" target="take" weight="0.002786" />
+      <edge id="780" source="talkathon" target="talk" weight="0.141935" />
+      <edge id="781" source="taut" target="tactful" weight="0.007752" />
+      <edge id="782" source="taut" target="tax" weight="0.008065" />
+      <edge id="783" source="taut" target="tackle" weight="0.007634" />
+      <edge id="784" source="taut" target="tan" weight="0.013699" />
+      <edge id="785" source="taking" target="take" weight="0.004843" />
+      <edge id="786" source="taking" target="tactful" weight="0.005319" />
+      <edge id="787" source="taupe" target="tattoo" weight="0.008403" />
+      <edge id="788" source="taupe" target="tall" weight="0.008" />
+      <edge id="789" source="taupe" target="tab" weight="0.012346" />
+      <edge id="790" source="taupe" target="tarnish" weight="0.007463" />
+      <edge id="791" source="taupe" target="taint" weight="0.003759" />
+      <edge id="792" source="taupe" target="taste" weight="0.004132" />
+      <edge id="793" source="taupe" target="tag" weight="0.005291" />
+      <edge id="794" source="taupe" target="tarnished" weight="0.017241" />
+      <edge id="795" source="taupe" target="tan" weight="0.22973" />
+      <edge id="796" source="tap" target="tambourine" weight="0.004065" />
+      <edge id="797" source="tap" target="tantalize" weight="0.003559" />
+      <edge id="798" source="tap" target="taste" weight="0.018519" />
+      <edge id="799" source="tap" target="taproom" weight="0.003906" />
+      <edge id="800" source="tap" target="tax" weight="0.01194" />
+      <edge id="801" source="tap" target="talking" weight="0.007168" />
+      <edge id="802" source="tap" target="tag" weight="0.010444" />
+      <edge id="803" source="tap" target="tab" weight="0.031429" />
+      <edge id="804" source="tap" target="tan" weight="0.006993" />
+      <edge id="805" source="tap" target="tattoo" weight="0.07371" />
+      <edge id="806" source="tap" target="tar" weight="0.006006" />
+      <edge id="807" source="tap" target="tarnish" weight="0.009119" />
+      <edge id="808" source="tap" target="tableau" weight="0.00295" />
+      <edge id="809" source="tap" target="tare" weight="0.003876" />
+      <edge id="810" source="tap" target="take" weight="0.017857" />
+      <edge id="811" source="tap" target="talkie" weight="0.003906" />
+      <edge id="812" source="tap" target="tactful" weight="0.002915" />
+      <edge id="813" source="tap" target="talons" weight="0.003676" />
+      <edge id="814" source="tap" target="tact" weight="0.006211" />
+      <edge id="815" source="tap" target="tailored" weight="0.003788" />
+      <edge id="816" source="tap" target="task" weight="0.008219" />
+      <edge id="817" source="tap" target="taint" weight="0.01978" />
+      <edge id="818" source="tap" target="tale" weight="0.003425" />
+      <edge id="819" source="tap" target="tack" weight="0.023077" />
+      <edge id="820" source="tap" target="talk" weight="0.015748" />
+      <edge id="821" source="tar" target="tarnish" weight="0.074713" />
+      <edge id="822" source="tar" target="tableau" weight="0.005155" />
+      <edge id="823" source="tar" target="talk" weight="0.004149" />
+      <edge id="824" source="tar" target="taste" weight="0.003401" />
+      <edge id="825" source="tar" target="take" weight="0.002358" />
+      <edge id="826" source="tar" target="tackle" weight="0.005" />
+      <edge id="827" source="tar" target="tapestry" weight="0.008197" />
+      <edge id="828" source="tantalize" target="taste" weight="0.004149" />
+      <edge id="829" source="tantalize" target="tact" weight="0.008" />
+      <edge id="830" source="tantalize" target="take" weight="0.016393" />
+      <edge id="831" source="taste" target="taint" weight="0.168044" />
+      <edge id="832" source="taste" target="talking" weight="0.004167" />
+      <edge id="833" source="taste" target="tag" weight="0.029674" />
+      <edge id="834" source="taste" target="tab" weight="0.025559" />
+      <edge id="835" source="taste" target="tan" weight="0.00813" />
+      <edge id="836" source="taste" target="tattoo" weight="0.031169" />
+      <edge id="837" source="taste" target="tarnish" weight="0.013889" />
+      <edge id="838" source="taste" target="tableau" weight="0.010101" />
+      <edge id="839" source="taste" target="tare" weight="0.004587" />
+      <edge id="840" source="taste" target="take" weight="0.043307" />
+      <edge id="841" source="taste" target="talkie" weight="0.00463" />
+      <edge id="842" source="taste" target="tactful" weight="0.006623" />
+      <edge id="843" source="taste" target="tact" weight="0.059701" />
+      <edge id="844" source="taste" target="tack" weight="0.011268" />
+      <edge id="845" source="taste" target="tangibility" weight="0.009302" />
+      <edge id="846" source="taste" target="tailgate" weight="0.004717" />
+      <edge id="847" source="taste" target="task" weight="0.003058" />
+      <edge id="848" source="taste" target="tautology" weight="0.004219" />
+      <edge id="849" source="taste" target="tale" weight="0.003968" />
+      <edge id="850" source="taproom" target="tattoo" weight="0.004695" />
+      <edge id="851" source="tax" target="tag" weight="0.016529" />
+      <edge id="852" source="tax" target="tab" weight="0.009174" />
+      <edge id="853" source="tax" target="tarnish" weight="0.015957" />
+      <edge id="854" source="tax" target="tableau" weight="0.005051" />
+      <edge id="855" source="tax" target="take" weight="0.021429" />
+      <edge id="856" source="tax" target="tactful" weight="0.00495" />
+      <edge id="857" source="tax" target="tackle" weight="0.009852" />
+      <edge id="858" source="tax" target="task" weight="0.247253" />
+      <edge id="859" source="tax" target="taint" weight="0.006231" />
+      <edge id="860" source="tax" target="tack" weight="0.011765" />
+      <edge id="861" source="tax" target="talk" weight="0.008197" />
+      <edge id="862" source="tabular" target="tableau" weight="0.008197" />
+      <edge id="863" source="talking" target="task" weight="0.011976" />
+      <edge id="864" source="talking" target="taint" weight="0.003788" />
+      <edge id="865" source="talking" target="tale" weight="0.010753" />
+      <edge id="866" source="talking" target="tack" weight="0.005025" />
+      <edge id="867" source="talking" target="talk" weight="0.08046" />
+      <edge id="868" source="tag" target="tab" weight="0.098361" />
+      <edge id="869" source="tag" target="tan" weight="0.005155" />
+      <edge id="870" source="tag" target="tattoo" weight="0.02994" />
+      <edge id="871" source="tag" target="tarnish" weight="0.008439" />
+      <edge id="872" source="tag" target="tableau" weight="0.004065" />
+      <edge id="873" source="tag" target="take" weight="0.010593" />
+      <edge id="874" source="tag" target="talkie" weight="0.006135" />
+      <edge id="875" source="tag" target="tact" weight="0.004348" />
+      <edge id="876" source="tag" target="tailgate" weight="0.059603" />
+      <edge id="877" source="tag" target="tackle" weight="0.007968" />
+      <edge id="878" source="tag" target="task" weight="0.007326" />
+      <edge id="879" source="tag" target="taint" weight="0.022039" />
+      <edge id="880" source="tag" target="tale" weight="0.005025" />
+      <edge id="881" source="tag" target="tack" weight="0.013245" />
+      <edge id="882" source="tag" target="talk" weight="0.010309" />
+      <edge id="883" source="tasty" target="tactful" weight="0.030769" />
+      <edge id="884" source="tab" target="tan" weight="0.018072" />
+      <edge id="885" source="tab" target="tapestry" weight="0.013605" />
+      <edge id="886" source="tab" target="tarnish" weight="0.009479" />
+      <edge id="887" source="tab" target="tableau" weight="0.110553" />
+      <edge id="888" source="tab" target="take" weight="0.008949" />
+      <edge id="889" source="tab" target="talkie" weight="0.007299" />
+      <edge id="890" source="tab" target="tact" weight="0.004902" />
+      <edge id="891" source="tab" target="task" weight="0.004032" />
+      <edge id="892" source="tab" target="talk" weight="0.003745" />
+      <edge id="893" source="tan" target="tattoo" weight="0.00823" />
+      <edge id="894" source="tan" target="tactful" weight="0.006623" />
+      <edge id="895" source="tan" target="take" weight="0.002653" />
+      <edge id="896" source="tan" target="tack" weight="0.004854" />
+      <edge id="897" source="tan" target="tackle" weight="0.006536" />
+      <edge id="898" source="tan" target="task" weight="0.017341" />
+      <edge id="899" source="tan" target="taint" weight="0.00369" />
+      <edge id="900" source="tan" target="tall" weight="0.007692" />
+      <edge id="901" source="tan" target="talk" weight="0.005155" />
+      <edge id="902" source="tapestry" target="tattoo" weight="0.008969" />
+      <edge id="903" source="tapestry" target="tarnish" weight="0.008403" />
+      <edge id="904" source="tapestry" target="taint" weight="0.003984" />
+      <edge id="905" source="tapestry" target="tableau" weight="0.267327" />
+      <edge id="906" source="tapestry" target="take" weight="0.005618" />
+      <edge id="907" source="tapestry" target="talkie" weight="0.022727" />
+      <edge id="908" source="tattoo" target="tarnish" weight="0.054745" />
+      <edge id="909" source="tattoo" target="tableau" weight="0.010204" />
+      <edge id="910" source="tattoo" target="take" weight="0.013462" />
+      <edge id="911" source="tattoo" target="talkie" weight="0.004695" />
+      <edge id="912" source="tattoo" target="tactful" weight="0.003333" />
+      <edge id="913" source="tattoo" target="tackle" weight="0.003311" />
+      <edge id="914" source="tattoo" target="task" weight="0.006192" />
+      <edge id="915" source="tattoo" target="tautology" weight="0.008584" />
+      <edge id="916" source="tattoo" target="talk" weight="0.008798" />
+      <edge id="917" source="tarnish" target="tableau" weight="0.005236" />
+      <edge id="918" source="tarnish" target="take" weight="0.004762" />
+      <edge id="919" source="tarnish" target="talkie" weight="0.009259" />
+      <edge id="920" source="tarnish" target="task" weight="0.009174" />
+      <edge id="921" source="tarnish" target="taint" weight="0.295082" />
+      <edge id="922" source="tarnish" target="tale" weight="0.006944" />
+      <edge id="923" source="tableau" target="take" weight="0.011765" />
+      <edge id="924" source="tableau" target="talkie" weight="0.008621" />
+      <edge id="925" source="tableau" target="tack" weight="0.007782" />
+      <edge id="926" source="tableau" target="task" weight="0.013333" />
+      <edge id="927" source="tableau" target="taint" weight="0.006211" />
+      <edge id="928" source="tableau" target="talk" weight="0.020661" />
+      <edge id="929" source="tare" target="take" weight="0.002874" />
+      <edge id="930" source="take" target="tactful" weight="0.002309" />
+      <edge id="931" source="take" target="talons" weight="0.011142" />
+      <edge id="932" source="take" target="tact" weight="0.014706" />
+      <edge id="933" source="take" target="tack" weight="0.006173" />
+      <edge id="934" source="take" target="tailgate" weight="0.002924" />
+      <edge id="935" source="take" target="tackle" weight="0.018692" />
+      <edge id="936" source="take" target="tambourine" weight="0.002976" />
+      <edge id="937" source="take" target="tailored" weight="0.002825" />
+      <edge id="938" source="take" target="task" weight="0.011038" />
+      <edge id="939" source="take" target="taint" weight="0.020258" />
+      <edge id="940" source="take" target="tale" weight="0.005249" />
+      <edge id="941" source="take" target="tall" weight="0.002427" />
+      <edge id="942" source="take" target="talk" weight="0.008457" />
+      <edge id="943" source="talkie" target="taint" weight="0.008368" />
+      <edge id="944" source="talons" target="task" weight="0.012579" />
+      <edge id="945" source="talons" target="tact" weight="0.044643" />
+      <edge id="946" source="tart" target="taint" weight="0.003279" />
+      <edge id="947" source="tart" target="tackle" weight="0.005348" />
+      <edge id="948" source="tactful" target="tact" weight="0.010753" />
+      <edge id="949" source="tactful" target="tailored" weight="0.007813" />
+      <edge id="950" source="tactful" target="task" weight="0.004329" />
+      <edge id="951" source="tactful" target="taint" weight="0.006135" />
+      <edge id="952" source="tact" target="tackle" weight="0.005291" />
+      <edge id="953" source="tact" target="taint" weight="0.006536" />
+      <edge id="954" source="tact" target="tack" weight="0.008299" />
+      <edge id="955" source="tact" target="talk" weight="0.004348" />
+      <edge id="956" source="tack" target="tackle" weight="0.108787" />
+      <edge id="957" source="tack" target="task" weight="0.003497" />
+      <edge id="958" source="tack" target="talk" weight="0.003279" />
+      <edge id="959" source="tailgate" target="tackle" weight="0.017094" />
+      <edge id="960" source="tackle" target="task" weight="0.017391" />
+      <edge id="961" source="tackle" target="talk" weight="0.007968" />
+      <edge id="962" source="task" target="taint" weight="0.005714" />
+      <edge id="963" source="task" target="tale" weight="0.005556" />
+      <edge id="964" source="task" target="talk" weight="0.065891" />
+      <edge id="965" source="tautology" target="talk" weight="0.010929" />
+      <edge id="966" source="tale" target="talk" weight="0.036269" />
+    </edges>
+  </graph>
+</gexf>

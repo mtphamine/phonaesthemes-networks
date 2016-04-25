@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="fiendish" label="fiendish" />
+      <node id="fini" label="fini" />
+      <node id="fidelity" label="fidelity" />
+      <node id="fine" label="fine" />
+      <node id="find" label="find" />
+      <node id="fit" label="fit" />
+      <node id="fix" label="fix" />
+      <node id="fib" label="fib" />
+      <node id="fickle" label="fickle" />
+      <node id="fiend" label="fiend" />
+      <node id="fin" label="fin" />
+      <node id="finance" label="finance" />
+      <node id="finalize" label="finalize" />
+      <node id="fixation" label="fixation" />
+      <node id="figment" label="figment" />
+      <node id="fireplace" label="fireplace" />
+      <node id="finite" label="finite" />
+      <node id="filiation" label="filiation" />
+      <node id="filling" label="filling" />
+      <node id="fiddle" label="fiddle" />
+      <node id="finishing" label="finishing" />
+      <node id="fixed" label="fixed" />
+      <node id="fish" label="fish" />
+      <node id="fixture" label="fixture" />
+      <node id="firepower" label="firepower" />
+      <node id="fiduciary" label="fiduciary" />
+      <node id="filtration" label="filtration" />
+      <node id="fingerboard" label="fingerboard" />
+      <node id="filler" label="filler" />
+      <node id="fishmonger" label="fishmonger" />
+      <node id="finger" label="finger" />
+      <node id="fidgety" label="fidgety" />
+      <node id="figurehead" label="figurehead" />
+      <node id="finicky" label="finicky" />
+      <node id="figured" label="figured" />
+      <node id="firing" label="firing" />
+      <node id="filtering" label="filtering" />
+      <node id="figmental" label="figmental" />
+      <node id="filigree" label="filigree" />
+      <node id="fitful" label="fitful" />
+      <node id="fiction" label="fiction" />
+      <node id="figurative" label="figurative" />
+      <node id="filmy" label="filmy" />
+      <node id="fiery" label="fiery" />
+      <node id="final" label="final" />
+      <node id="filibuster" label="filibuster" />
+      <node id="firm" label="firm" />
+      <node id="finespun" label="finespun" />
+      <node id="fire" label="fire" />
+      <node id="finis" label="finis" />
+      <node id="fireworks" label="fireworks" />
+      <node id="finished" label="finished" />
+      <node id="fidget" label="fidget" />
+      <node id="figuration" label="figuration" />
+      <node id="finances" label="finances" />
+      <node id="fiducial" label="fiducial" />
+      <node id="fishwife" label="fishwife" />
+      <node id="fizz" label="fizz" />
+      <node id="figure" label="figure" />
+      <node id="fireside" label="fireside" />
+      <node id="fighting" label="fighting" />
+      <node id="file" label="file" />
+      <node id="film" label="film" />
+      <node id="fill" label="fill" />
+      <node id="field" label="field" />
+      <node id="fitting" label="fitting" />
+      <node id="figurine" label="figurine" />
+      <node id="fillip" label="fillip" />
+      <node id="finding" label="finding" />
+      <node id="firmly" label="firmly" />
+      <node id="finagle" label="finagle" />
+      <node id="finish" label="finish" />
+      <node id="firsthand" label="firsthand" />
+      <node id="fireguard" label="fireguard" />
+      <node id="finale" label="finale" />
+      <node id="finality" label="finality" />
+      <node id="fierce" label="fierce" />
+      <node id="finesse" label="finesse" />
+      <node id="figural" label="figural" />
+      <node id="firebrand" label="firebrand" />
+      <node id="fictional" label="fictional" />
+      <node id="fictitious" label="fictitious" />
+      <node id="fizzle" label="fizzle" />
+      <node id="fiasco" label="fiasco" />
+      <node id="fireball" label="fireball" />
+      <node id="filing" label="filing" />
+      <node id="fitted" label="fitted" />
+    </nodes>
+    <edges>
+      <edge id="0" source="fiendish" target="fierce" />
+      <edge id="1" source="fini" target="finished" />
+      <edge id="2" source="fidelity" target="fire" />
+      <edge id="3" source="fine" target="finespun" />
+      <edge id="4" source="fine" target="filmy" />
+      <edge id="5" source="fine" target="finicky" />
+      <edge id="6" source="fine" target="fit" />
+      <edge id="7" source="find" target="finding" />
+      <edge id="8" source="find" target="fix" />
+      <edge id="9" source="find" target="finger" />
+      <edge id="10" source="find" target="fill" />
+      <edge id="11" source="fit" target="fix" />
+      <edge id="12" source="fit" target="fitting" />
+      <edge id="13" source="fit" target="fitted" />
+      <edge id="14" source="fix" target="figure" />
+      <edge id="15" source="fib" target="fiction" />
+      <edge id="16" source="fickle" target="fitful" />
+      <edge id="17" source="fiend" target="firebrand" />
+      <edge id="18" source="fin" target="fish" />
+      <edge id="19" source="finance" target="finances" />
+      <edge id="20" source="finalize" target="finish" />
+      <edge id="21" source="fixation" target="fixture" />
+      <edge id="22" source="figment" target="fiction" />
+      <edge id="23" source="fireplace" target="fireguard" />
+      <edge id="24" source="fireplace" target="fireside" />
+      <edge id="25" source="finite" target="figurative" />
+      <edge id="26" source="finite" target="figural" />
+      <edge id="27" source="filiation" target="file" />
+      <edge id="28" source="filling" target="filler" />
+      <edge id="29" source="filling" target="filigree" />
+      <edge id="30" source="filling" target="fillip" />
+      <edge id="31" source="fiddle" target="fidget" />
+      <edge id="32" source="fiddle" target="fingerboard" />
+      <edge id="33" source="finishing" target="finish" />
+      <edge id="34" source="finishing" target="final" />
+      <edge id="35" source="fixed" target="firm" />
+      <edge id="36" source="fixed" target="final" />
+      <edge id="37" source="fish" target="fish" />
+      <edge id="38" source="firepower" target="fire" />
+      <edge id="39" source="firepower" target="fireworks" />
+      <edge id="40" source="firepower" target="firing" />
+      <edge id="41" source="fiduciary" target="fiducial" />
+      <edge id="42" source="filtration" target="filtering" />
+      <edge id="43" source="fishmonger" target="fishwife" />
+      <edge id="44" source="finger" target="figure" />
+      <edge id="45" source="fidgety" target="fitful" />
+      <edge id="46" source="figurehead" target="figurine" />
+      <edge id="47" source="figurehead" target="figure" />
+      <edge id="48" source="figured" target="figurative" />
+      <edge id="49" source="firing" target="fire" />
+      <edge id="50" source="firing" target="fireworks" />
+      <edge id="51" source="firing" target="fireball" />
+      <edge id="52" source="figmental" target="fictitious" />
+      <edge id="53" source="figmental" target="fictional" />
+      <edge id="54" source="filigree" target="fillip" />
+      <edge id="55" source="filigree" target="figure" />
+      <edge id="56" source="figurative" target="figural" />
+      <edge id="57" source="filmy" target="finespun" />
+      <edge id="58" source="fiery" target="fierce" />
+      <edge id="59" source="final" target="firsthand" />
+      <edge id="60" source="filibuster" target="filing" />
+      <edge id="61" source="firm" target="fiducial" />
+      <edge id="62" source="firm" target="firmly" />
+      <edge id="63" source="fire" target="fireworks" />
+      <edge id="64" source="finis" target="finish" />
+      <edge id="65" source="finis" target="finality" />
+      <edge id="66" source="finis" target="finale" />
+      <edge id="67" source="figuration" target="figure" />
+      <edge id="68" source="fizz" target="fizzle" />
+      <edge id="69" source="figure" target="figurine" />
+      <edge id="70" source="fireside" target="fireguard" />
+      <edge id="71" source="fighting" target="fierce" />
+      <edge id="72" source="file" target="field" />
+      <edge id="73" source="file" target="film" />
+      <edge id="74" source="fitting" target="fitted" />
+      <edge id="75" source="finagle" target="finesse" />
+      <edge id="76" source="finish" target="finale" />
+      <edge id="77" source="finish" target="finality" />
+      <edge id="78" source="finale" target="finality" />
+      <edge id="79" source="fictional" target="fictitious" />
+      <edge id="80" source="fizzle" target="fiasco" />
+    </edges>
+  </graph>
+</gexf>

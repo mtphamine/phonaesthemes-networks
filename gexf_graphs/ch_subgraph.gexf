@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="chore" label="chore" />
+      <node id="choreography" label="choreography" />
+      <node id="chain" label="chain" />
+      <node id="cheat" label="cheat" />
+      <node id="cheap" label="cheap" />
+      <node id="cheerful" label="cheerful" />
+      <node id="chord" label="chord" />
+      <node id="chancel" label="chancel" />
+      <node id="chicken" label="chicken" />
+      <node id="chock" label="chock" />
+      <node id="chieftaincy" label="chieftaincy" />
+      <node id="cheerfulness" label="cheerfulness" />
+      <node id="chosen" label="chosen" />
+      <node id="chatter" label="chatter" />
+      <node id="character" label="character" />
+      <node id="charge" label="charge" />
+      <node id="chaps" label="chaps" />
+      <node id="chill" label="chill" />
+      <node id="chagrined" label="chagrined" />
+      <node id="chouse" label="chouse" />
+      <node id="chambermaid" label="chambermaid" />
+      <node id="chrismal" label="chrismal" />
+      <node id="chatelaine" label="chatelaine" />
+      <node id="christening" label="christening" />
+      <node id="choice" label="choice" />
+      <node id="chutzpah" label="chutzpah" />
+      <node id="chimney" label="chimney" />
+      <node id="chapfallen" label="chapfallen" />
+      <node id="chasten" label="chasten" />
+      <node id="chilblain" label="chilblain" />
+      <node id="chancre" label="chancre" />
+      <node id="chuck" label="chuck" />
+      <node id="chorus" label="chorus" />
+      <node id="chick" label="chick" />
+      <node id="choppy" label="choppy" />
+      <node id="chew" label="chew" />
+      <node id="charter" label="charter" />
+      <node id="chisel" label="chisel" />
+      <node id="chunk" label="chunk" />
+      <node id="chomp" label="chomp" />
+      <node id="chorography" label="chorography" />
+      <node id="chronology" label="chronology" />
+      <node id="choosing" label="choosing" />
+      <node id="chubby" label="chubby" />
+      <node id="chambers" label="chambers" />
+      <node id="changeable" label="changeable" />
+      <node id="chuckle" label="chuckle" />
+      <node id="choir" label="choir" />
+      <node id="characterless" label="characterless" />
+      <node id="checkers" label="checkers" />
+      <node id="childish" label="childish" />
+      <node id="charismatic" label="charismatic" />
+      <node id="checkmate" label="checkmate" />
+      <node id="checkered" label="checkered" />
+      <node id="chicane" label="chicane" />
+      <node id="chitchat" label="chitchat" />
+      <node id="cheeseparing" label="cheeseparing" />
+      <node id="chink" label="chink" />
+      <node id="chafe" label="chafe" />
+      <node id="chaff" label="chaff" />
+      <node id="chivy" label="chivy" />
+      <node id="chortle" label="chortle" />
+      <node id="chant" label="chant" />
+      <node id="changed" label="changed" />
+      <node id="churchgoer" label="churchgoer" />
+      <node id="choke" label="choke" />
+      <node id="chop" label="chop" />
+      <node id="cheering" label="cheering" />
+      <node id="chipper" label="chipper" />
+      <node id="chilling" label="chilling" />
+      <node id="choosy" label="choosy" />
+      <node id="chieftain" label="chieftain" />
+      <node id="chaste" label="chaste" />
+      <node id="characterization" label="characterization" />
+      <node id="chaperon" label="chaperon" />
+      <node id="chunky" label="chunky" />
+      <node id="champ" label="champ" />
+      <node id="chevron" label="chevron" />
+      <node id="church" label="church" />
+      <node id="chime" label="chime" />
+      <node id="cheesy" label="cheesy" />
+      <node id="checker" label="checker" />
+      <node id="chide" label="chide" />
+      <node id="charisma" label="charisma" />
+      <node id="cheeky" label="cheeky" />
+      <node id="checkbook" label="checkbook" />
+      <node id="charcoal" label="charcoal" />
+      <node id="chattel" label="chattel" />
+      <node id="champion" label="champion" />
+      <node id="chorale" label="chorale" />
+      <node id="charming" label="charming" />
+      <node id="change" label="change" />
+      <node id="changeling" label="changeling" />
+      <node id="child" label="child" />
+      <node id="chintzy" label="chintzy" />
+      <node id="chaplain" label="chaplain" />
+      <node id="charity" label="charity" />
+      <node id="chef" label="chef" />
+      <node id="chicanery" label="chicanery" />
+      <node id="characterize" label="characterize" />
+      <node id="characteristic" label="characteristic" />
+      <node id="challenge" label="challenge" />
+      <node id="churchly" label="churchly" />
+      <node id="chalk" label="chalk" />
+      <node id="childlike" label="childlike" />
+      <node id="cherub" label="cherub" />
+      <node id="churchman" label="churchman" />
+      <node id="challenging" label="challenging" />
+      <node id="chaotic" label="chaotic" />
+      <node id="chip" label="chip" />
+      <node id="chit" label="chit" />
+      <node id="char" label="char" />
+      <node id="chancellery" label="chancellery" />
+      <node id="chap" label="chap" />
+      <node id="chin" label="chin" />
+      <node id="chat" label="chat" />
+      <node id="chasm" label="chasm" />
+      <node id="churl" label="churl" />
+      <node id="check" label="check" />
+      <node id="chromosome" label="chromosome" />
+      <node id="chase" label="chase" />
+      <node id="choking" label="choking" />
+      <node id="chilly" label="chilly" />
+      <node id="chops" label="chops" />
+      <node id="cheer" label="cheer" />
+      <node id="chess" label="chess" />
+      <node id="channel" label="channel" />
+      <node id="chary" label="chary" />
+      <node id="championship" label="championship" />
+      <node id="cherish" label="cherish" />
+      <node id="chirm" label="chirm" />
+      <node id="chart" label="chart" />
+      <node id="chancy" label="chancy" />
+      <node id="chirp" label="chirp" />
+      <node id="chance" label="chance" />
+      <node id="charm" label="charm" />
+      <node id="chump" label="chump" />
+      <node id="cheery" label="cheery" />
+      <node id="chancery" label="chancery" />
+      <node id="chute" label="chute" />
+      <node id="chronicle" label="chronicle" />
+      <node id="cheek" label="cheek" />
+      <node id="cheep" label="cheep" />
+      <node id="chief" label="chief" />
+      <node id="checkerboard" label="checkerboard" />
+      <node id="chastise" label="chastise" />
+      <node id="chiming" label="chiming" />
+    </nodes>
+    <edges>
+      <edge id="0" source="chore" target="char" />
+      <edge id="1" source="chore" target="charge" />
+      <edge id="2" source="choreography" target="chart" />
+      <edge id="3" source="choreography" target="characterization" />
+      <edge id="4" source="chain" target="chatelaine" />
+      <edge id="5" source="chain" target="chock" />
+      <edge id="6" source="chain" target="charm" />
+      <edge id="7" source="chain" target="check" />
+      <edge id="8" source="cheat" target="chouse" />
+      <edge id="9" source="cheat" target="chisel" />
+      <edge id="10" source="cheap" target="cheesy" />
+      <edge id="11" source="cheerful" target="cheering" />
+      <edge id="12" source="cheerful" target="cheery" />
+      <edge id="13" source="chord" target="chime" />
+      <edge id="14" source="chancel" target="choir" />
+      <edge id="15" source="chicken" target="chick" />
+      <edge id="16" source="chicken" target="chevron" />
+      <edge id="17" source="chock" target="charge" />
+      <edge id="18" source="chock" target="choke" />
+      <edge id="19" source="chock" target="check" />
+      <edge id="20" source="chieftaincy" target="chancellery" />
+      <edge id="21" source="cheerfulness" target="cheer" />
+      <edge id="22" source="chosen" target="champion" />
+      <edge id="23" source="chosen" target="choice" />
+      <edge id="24" source="chatter" target="chitchat" />
+      <edge id="25" source="chatter" target="chuck" />
+      <edge id="26" source="chatter" target="cheep" />
+      <edge id="27" source="chatter" target="chirp" />
+      <edge id="28" source="chatter" target="chat" />
+      <edge id="29" source="chatter" target="chill" />
+      <edge id="30" source="character" target="characterization" />
+      <edge id="31" source="character" target="characteristic" />
+      <edge id="32" source="character" target="chisel" />
+      <edge id="33" source="character" target="chart" />
+      <edge id="34" source="character" target="characterize" />
+      <edge id="35" source="character" target="chap" />
+      <edge id="36" source="character" target="chromosome" />
+      <edge id="37" source="charge" target="charisma" />
+      <edge id="38" source="charge" target="charter" />
+      <edge id="39" source="charge" target="choke" />
+      <edge id="40" source="charge" target="chief" />
+      <edge id="41" source="charge" target="chevron" />
+      <edge id="42" source="charge" target="chase" />
+      <edge id="43" source="chaps" target="chops" />
+      <edge id="44" source="chill" target="chilly" />
+      <edge id="45" source="chill" target="chilling" />
+      <edge id="46" source="chagrined" target="chapfallen" />
+      <edge id="47" source="chambermaid" target="chaperon" />
+      <edge id="48" source="chrismal" target="christening" />
+      <edge id="49" source="chatelaine" target="charm" />
+      <edge id="50" source="choice" target="chaste" />
+      <edge id="51" source="choice" target="champion" />
+      <edge id="52" source="choice" target="choosing" />
+      <edge id="53" source="chutzpah" target="cheek" />
+      <edge id="54" source="chimney" target="chute" />
+      <edge id="55" source="chimney" target="chap" />
+      <edge id="56" source="chimney" target="check" />
+      <edge id="57" source="chimney" target="chink" />
+      <edge id="58" source="chimney" target="chasm" />
+      <edge id="59" source="chasten" target="chastise" />
+      <edge id="60" source="chilblain" target="chancre" />
+      <edge id="61" source="chuck" target="chunk" />
+      <edge id="62" source="chuck" target="chuck" />
+      <edge id="63" source="chuck" target="cheep" />
+      <edge id="64" source="chuck" target="chirp" />
+      <edge id="65" source="chuck" target="chase" />
+      <edge id="66" source="chorus" target="choir" />
+      <edge id="67" source="chorus" target="chant" />
+      <edge id="68" source="chorus" target="chirp" />
+      <edge id="69" source="chorus" target="chorale" />
+      <edge id="70" source="chorus" target="chime" />
+      <edge id="71" source="chick" target="cherub" />
+      <edge id="72" source="choppy" target="changeable" />
+      <edge id="73" source="chew" target="chump" />
+      <edge id="74" source="chew" target="champ" />
+      <edge id="75" source="chew" target="chomp" />
+      <edge id="76" source="chisel" target="channel" />
+      <edge id="77" source="chisel" target="chase" />
+      <edge id="78" source="chunk" target="chip" />
+      <edge id="79" source="chomp" target="chump" />
+      <edge id="80" source="chomp" target="champ" />
+      <edge id="81" source="chorography" target="chart" />
+      <edge id="82" source="chronology" target="chronicle" />
+      <edge id="83" source="choosing" target="choosy" />
+      <edge id="84" source="chubby" target="chunky" />
+      <edge id="85" source="chambers" target="chancellery" />
+      <edge id="86" source="chambers" target="chancery" />
+      <edge id="87" source="changeable" target="chancy" />
+      <edge id="88" source="changeable" target="checkered" />
+      <edge id="89" source="changeable" target="changed" />
+      <edge id="90" source="chuckle" target="chortle" />
+      <edge id="91" source="choir" target="chorale" />
+      <edge id="92" source="characterless" target="chaotic" />
+      <edge id="93" source="checkers" target="chess" />
+      <edge id="94" source="childish" target="childlike" />
+      <edge id="95" source="charismatic" target="charming" />
+      <edge id="96" source="checkmate" target="challenge" />
+      <edge id="97" source="checkmate" target="check" />
+      <edge id="98" source="chicane" target="chicanery" />
+      <edge id="99" source="cheeseparing" target="chary" />
+      <edge id="100" source="cheeseparing" target="chintzy" />
+      <edge id="101" source="chink" target="choke" />
+      <edge id="102" source="chink" target="chap" />
+      <edge id="103" source="chink" target="chasm" />
+      <edge id="104" source="chink" target="chime" />
+      <edge id="105" source="chink" target="chiming" />
+      <edge id="106" source="chink" target="check" />
+      <edge id="107" source="chink" target="chase" />
+      <edge id="108" source="chafe" target="chip" />
+      <edge id="109" source="chafe" target="check" />
+      <edge id="110" source="chaff" target="chip" />
+      <edge id="111" source="chivy" target="chase" />
+      <edge id="112" source="chant" target="chirp" />
+      <edge id="113" source="chant" target="chorale" />
+      <edge id="114" source="churchgoer" target="churchman" />
+      <edge id="115" source="choke" target="choking" />
+      <edge id="116" source="chop" target="checker" />
+      <edge id="117" source="chop" target="cheek" />
+      <edge id="118" source="chop" target="change" />
+      <edge id="119" source="cheering" target="cheery" />
+      <edge id="120" source="chipper" target="cheep" />
+      <edge id="121" source="chipper" target="chip" />
+      <edge id="122" source="chipper" target="chirm" />
+      <edge id="123" source="chieftain" target="chief" />
+      <edge id="124" source="characterization" target="chart" />
+      <edge id="125" source="chaperon" target="cherish" />
+      <edge id="126" source="champ" target="champion" />
+      <edge id="127" source="chevron" target="chief" />
+      <edge id="128" source="church" target="churchly" />
+      <edge id="129" source="chime" target="chiming" />
+      <edge id="130" source="chime" target="check" />
+      <edge id="131" source="checker" target="check" />
+      <edge id="132" source="checker" target="change" />
+      <edge id="133" source="chide" target="chastise" />
+      <edge id="134" source="charisma" target="charm" />
+      <edge id="135" source="cheeky" target="challenging" />
+      <edge id="136" source="checkbook" target="check" />
+      <edge id="137" source="charcoal" target="chalk" />
+      <edge id="138" source="chattel" target="churl" />
+      <edge id="139" source="champion" target="chief" />
+      <edge id="140" source="change" target="changeling" />
+      <edge id="141" source="child" target="cherub" />
+      <edge id="142" source="child" target="chit" />
+      <edge id="143" source="chaplain" target="churchman" />
+      <edge id="144" source="charity" target="championship" />
+      <edge id="145" source="chef" target="chief" />
+      <edge id="146" source="characterize" target="chart" />
+      <edge id="147" source="challenge" target="challenge" />
+      <edge id="148" source="chalk" target="check" />
+      <edge id="149" source="chalk" target="chronicle" />
+      <edge id="150" source="cherub" target="chit" />
+      <edge id="151" source="chaotic" target="chance" />
+      <edge id="152" source="chaotic" target="chancy" />
+      <edge id="153" source="chip" target="chirm" />
+      <edge id="154" source="chip" target="cheep" />
+      <edge id="155" source="chip" target="check" />
+      <edge id="156" source="chancellery" target="chancery" />
+      <edge id="157" source="chap" target="check" />
+      <edge id="158" source="chap" target="chasm" />
+      <edge id="159" source="chin" target="chat" />
+      <edge id="160" source="chasm" target="check" />
+      <edge id="161" source="check" target="checkerboard" />
+      <edge id="162" source="check" target="check" />
+      <edge id="163" source="channel" target="chute" />
+      <edge id="164" source="chirm" target="cheep" />
+      <edge id="165" source="chancy" target="chance" />
+      <edge id="166" source="chirp" target="cheep" />
+    </edges>
+  </graph>
+</gexf>

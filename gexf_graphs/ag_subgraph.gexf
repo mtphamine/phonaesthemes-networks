@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="agronomist" label="agronomist" />
+      <node id="agape" label="agape" />
+      <node id="agglomeration" label="agglomeration" />
+      <node id="agitation" label="agitation" />
+      <node id="agreeing" label="agreeing" />
+      <node id="agog" label="agog" />
+      <node id="agency" label="agency" />
+      <node id="agitprop" label="agitprop" />
+      <node id="agreement" label="agreement" />
+      <node id="aghast" label="aghast" />
+      <node id="aggregation" label="aggregation" />
+      <node id="aggravation" label="aggravation" />
+      <node id="agitator" label="agitator" />
+      <node id="agent" label="agent" />
+      <node id="aggregate" label="aggregate" />
+      <node id="agreeable" label="agreeable" />
+      <node id="agglutination" label="agglutination" />
+      <node id="agreed" label="agreed" />
+      <node id="agriculturist" label="agriculturist" />
+    </nodes>
+    <edges>
+      <edge id="0" source="agronomist" target="agriculturist" />
+      <edge id="1" source="agape" target="agog" />
+      <edge id="2" source="agape" target="agreement" />
+      <edge id="3" source="agape" target="aghast" />
+      <edge id="4" source="agglomeration" target="aggregate" />
+      <edge id="5" source="agglomeration" target="agglutination" />
+      <edge id="6" source="agglomeration" target="aggregation" />
+      <edge id="7" source="agglomeration" target="agreement" />
+      <edge id="8" source="agitation" target="aggravation" />
+      <edge id="9" source="agreeing" target="agreeable" />
+      <edge id="10" source="agreeing" target="agreed" />
+      <edge id="11" source="agog" target="aghast" />
+      <edge id="12" source="agency" target="agent" />
+      <edge id="13" source="agitprop" target="agitator" />
+      <edge id="14" source="agreement" target="agreement" />
+      <edge id="15" source="agreement" target="aggregation" />
+      <edge id="16" source="aggregation" target="aggregate" />
+      <edge id="17" source="aggregation" target="agglutination" />
+      <edge id="18" source="agreeable" target="agreeable" />
+    </edges>
+  </graph>
+</gexf>

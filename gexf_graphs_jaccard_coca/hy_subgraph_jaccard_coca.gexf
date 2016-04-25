@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="hyaline" label="hyaline">
+        <attvalues>
+          <attvalue for="0" value="1.27875360095" />
+        </attvalues>
+      </node>
+      <node id="hydrosphere" label="hydrosphere" />
+      <node id="hypertension" label="hypertension">
+        <attvalues>
+          <attvalue for="0" value="3.25623653321" />
+        </attvalues>
+      </node>
+      <node id="hypercritical" label="hypercritical" />
+      <node id="hypnosis" label="hypnosis" />
+      <node id="hydroplane" label="hydroplane">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="hygrometer" label="hygrometer" />
+      <node id="hysteria" label="hysteria">
+        <attvalues>
+          <attvalue for="0" value="3.16256440652" />
+        </attvalues>
+      </node>
+      <node id="hymn" label="hymn" />
+      <node id="hydrant" label="hydrant">
+        <attvalues>
+          <attvalue for="0" value="2.42651126136" />
+        </attvalues>
+      </node>
+      <node id="hypocrisy" label="hypocrisy" />
+      <node id="hypothesize" label="hypothesize">
+        <attvalues>
+          <attvalue for="0" value="2.56820172407" />
+        </attvalues>
+      </node>
+      <node id="hybrid" label="hybrid">
+        <attvalues>
+          <attvalue for="0" value="3.69152352217" />
+        </attvalues>
+      </node>
+      <node id="hypersensitivity" label="hypersensitivity" />
+      <node id="hypothetical" label="hypothetical" />
+      <node id="hypocritical" label="hypocritical">
+        <attvalues>
+          <attvalue for="0" value="2.90254677931" />
+        </attvalues>
+      </node>
+      <node id="hyperbole" label="hyperbole" />
+      <node id="hysterical" label="hysterical" />
+      <node id="hypochondriac" label="hypochondriac">
+        <attvalues>
+          <attvalue for="0" value="2.1303337685" />
+        </attvalues>
+      </node>
+      <node id="hydrogenate" label="hydrogenate">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="hypersensitive" label="hypersensitive">
+        <attvalues>
+          <attvalue for="0" value="2.19589965241" />
+        </attvalues>
+      </node>
+      <node id="hydraulics" label="hydraulics" />
+      <node id="hypnotize" label="hypnotize">
+        <attvalues>
+          <attvalue for="0" value="2.02938377769" />
+        </attvalues>
+      </node>
+      <node id="hydrostatics" label="hydrostatics">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="hydrodynamics" label="hydrodynamics">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="hydrate" label="hydrate">
+        <attvalues>
+          <attvalue for="0" value="2.34830486305" />
+        </attvalues>
+      </node>
+      <node id="hyphenate" label="hyphenate" />
+      <node id="hypocrite" label="hypocrite" />
+      <node id="hypotension" label="hypotension" />
+      <node id="hypnotized" label="hypnotized">
+        <attvalues>
+          <attvalue for="0" value="2.55022835306" />
+        </attvalues>
+      </node>
+      <node id="hypochondria" label="hypochondria" />
+      <node id="hypnotic" label="hypnotic">
+        <attvalues>
+          <attvalue for="0" value="2.85913829729" />
+        </attvalues>
+      </node>
+      <node id="hypertrophy" label="hypertrophy" />
+      <node id="hyena" label="hyena" />
+      <node id="hydromechanics" label="hydromechanics">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="hype" label="hype" />
+      <node id="hydrophobia" label="hydrophobia" />
+      <node id="hypostasis" label="hypostasis" />
+    </nodes>
+    <edges>
+      <edge id="0" source="hyaline" target="hypostasis" weight="0.017241" />
+      <edge id="1" source="hyaline" target="hygrometer" weight="0.066667" />
+      <edge id="2" source="hydrosphere" target="hydrogenate" weight="0.02381" />
+      <edge id="3" source="hypertension" target="hypochondria" weight="0.010753" />
+      <edge id="4" source="hypertension" target="hypotension" weight="0.813559" />
+      <edge id="5" source="hypertension" target="hydrophobia" weight="0.021739" />
+      <edge id="6" source="hypercritical" target="hypersensitive" weight="0.15" />
+      <edge id="7" source="hypnosis" target="hysteria" weight="0.038462" />
+      <edge id="8" source="hydroplane" target="hypnotic" weight="0.008929" />
+      <edge id="9" source="hysteria" target="hymn" weight="0.009091" />
+      <edge id="10" source="hysteria" target="hypochondria" weight="0.490566" />
+      <edge id="11" source="hysteria" target="hypertrophy" weight="0.012195" />
+      <edge id="12" source="hysteria" target="hypnotize" weight="0.012048" />
+      <edge id="13" source="hysteria" target="hydrophobia" weight="0.012821" />
+      <edge id="14" source="hysteria" target="hyperbole" weight="0.010753" />
+      <edge id="15" source="hydrant" target="hype" weight="0.026316" />
+      <edge id="16" source="hypocrisy" target="hypocritical" weight="0.016129" />
+      <edge id="17" source="hypothesize" target="hyphenate" weight="0.043478" />
+      <edge id="18" source="hybrid" target="hyena" weight="0.023256" />
+      <edge id="19" source="hypersensitivity" target="hypersensitive" weight="0.025641" />
+      <edge id="20" source="hypothetical" target="hypocritical" weight="0.018519" />
+      <edge id="21" source="hypocritical" target="hypocrite" weight="0.015873" />
+      <edge id="22" source="hysterical" target="hypnotized" weight="0.013158" />
+      <edge id="23" source="hypochondriac" target="hype" weight="0.015873" />
+      <edge id="24" source="hypochondriac" target="hypochondria" weight="0.015152" />
+      <edge id="25" source="hydrogenate" target="hydrate" weight="0.324324" />
+      <edge id="26" source="hydraulics" target="hydromechanics" weight="0.117647" />
+      <edge id="27" source="hydraulics" target="hydrostatics" weight="0.068966" />
+      <edge id="28" source="hydraulics" target="hydrodynamics" weight="0.105263" />
+      <edge id="29" source="hydraulics" target="hypnotic" weight="0.009434" />
+      <edge id="30" source="hydrostatics" target="hydromechanics" weight="0.157895" />
+      <edge id="31" source="hydrostatics" target="hydrodynamics" weight="0.2" />
+      <edge id="32" source="hydrodynamics" target="hydromechanics" weight="0.2" />
+    </edges>
+  </graph>
+</gexf>

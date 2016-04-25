@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="epidermal" label="epidermal" />
+      <node id="epistemology" label="epistemology">
+        <attvalues>
+          <attvalue for="0" value="2.82216807937" />
+        </attvalues>
+      </node>
+      <node id="epilepsy" label="epilepsy" />
+      <node id="episode" label="episode">
+        <attvalues>
+          <attvalue for="0" value="3.89292898236" />
+        </attvalues>
+      </node>
+      <node id="episodic" label="episodic" />
+      <node id="epochal" label="epochal">
+        <attvalues>
+          <attvalue for="0" value="2.30963016743" />
+        </attvalues>
+      </node>
+      <node id="ephemeral" label="ephemeral" />
+      <node id="epidermis" label="epidermis">
+        <attvalues>
+          <attvalue for="0" value="2.34830486305" />
+        </attvalues>
+      </node>
+      <node id="epithet" label="epithet">
+        <attvalues>
+          <attvalue for="0" value="2.52891670028" />
+        </attvalues>
+      </node>
+      <node id="epiphany" label="epiphany" />
+      <node id="epidemic" label="epidemic" />
+      <node id="episcopal" label="episcopal" />
+      <node id="epigram" label="epigram">
+        <attvalues>
+          <attvalue for="0" value="1.83884909074" />
+        </attvalues>
+      </node>
+      <node id="epitomize" label="epitomize">
+        <attvalues>
+          <attvalue for="0" value="2.28780172993" />
+        </attvalues>
+      </node>
+      <node id="epigraph" label="epigraph" />
+      <node id="epitome" label="epitome">
+        <attvalues>
+          <attvalue for="0" value="2.81491318128" />
+        </attvalues>
+      </node>
+      <node id="epic" label="epic" />
+      <node id="epilogue" label="epilogue">
+        <attvalues>
+          <attvalue for="0" value="2.66370092539" />
+        </attvalues>
+      </node>
+      <node id="epicureanism" label="epicureanism" />
+    </nodes>
+    <edges>
+      <edge id="0" source="epidermal" target="epidermis" weight="0.020833" />
+      <edge id="1" source="epistemology" target="epicureanism" weight="0.058824" />
+      <edge id="2" source="epilepsy" target="epilogue" weight="0.009009" />
+      <edge id="3" source="episode" target="epigraph" weight="0.009615" />
+      <edge id="4" source="episode" target="epilogue" weight="0.038961" />
+      <edge id="5" source="episode" target="epiphany" weight="0.009009" />
+      <edge id="6" source="episode" target="epic" weight="0.009174" />
+      <edge id="7" source="episode" target="epithet" weight="0.009091" />
+      <edge id="8" source="episodic" target="epochal" weight="0.019608" />
+      <edge id="9" source="ephemeral" target="epitome" weight="0.010638" />
+      <edge id="10" source="epidermis" target="epitome" weight="0.011628" />
+      <edge id="11" source="epithet" target="epigraph" weight="0.137255" />
+      <edge id="12" source="epithet" target="epilogue" weight="0.008929" />
+      <edge id="13" source="epithet" target="epigram" weight="0.03125" />
+      <edge id="14" source="epiphany" target="epigram" weight="0.010101" />
+      <edge id="15" source="epiphany" target="epitome" weight="0.011364" />
+      <edge id="16" source="epidemic" target="epitome" weight="0.007519" />
+      <edge id="17" source="epidemic" target="epilogue" weight="0.006329" />
+      <edge id="18" source="episcopal" target="epigram" weight="0.013333" />
+      <edge id="19" source="epigram" target="epigraph" weight="0.021978" />
+      <edge id="20" source="epigram" target="epitome" weight="0.008197" />
+      <edge id="21" source="epigram" target="epic" weight="0.306667" />
+      <edge id="22" source="epitomize" target="epitome" weight="0.043478" />
+      <edge id="23" source="epigraph" target="epitome" weight="0.025" />
+      <edge id="24" source="epitome" target="epilogue" weight="0.007353" />
+    </edges>
+  </graph>
+</gexf>

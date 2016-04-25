@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="withered" label="withered" />
+      <node id="witling" label="witling" />
+      <node id="wilderness" label="wilderness" />
+      <node id="witchcraft" label="witchcraft" />
+      <node id="windward" label="windward" />
+      <node id="win" label="win" />
+      <node id="winnow" label="winnow" />
+      <node id="wit" label="wit" />
+      <node id="wizen" label="wizen" />
+      <node id="wicket" label="wicket" />
+      <node id="widespread" label="widespread" />
+      <node id="witchery" label="witchery" />
+      <node id="wisecrack" label="wisecrack" />
+      <node id="windjammer" label="windjammer" />
+      <node id="wishbone" label="wishbone" />
+      <node id="winter" label="winter" />
+      <node id="winner" label="winner" />
+      <node id="wield" label="wield" />
+      <node id="wipe" label="wipe" />
+      <node id="wizardry" label="wizardry" />
+      <node id="winning" label="winning" />
+      <node id="wigwag" label="wigwag" />
+      <node id="window" label="window" />
+      <node id="willing" label="willing" />
+      <node id="wintry" label="wintry" />
+      <node id="wizened" label="wizened" />
+      <node id="willful" label="willful" />
+      <node id="wisecracker" label="wisecracker" />
+      <node id="wilted" label="wilted" />
+      <node id="widdershins" label="widdershins" />
+      <node id="witching" label="witching" />
+      <node id="wink" label="wink" />
+      <node id="wiredrawn" label="wiredrawn" />
+      <node id="wince" label="wince" />
+      <node id="witticism" label="witticism" />
+      <node id="wisdom" label="wisdom" />
+      <node id="winsome" label="winsome" />
+      <node id="wildcat" label="wildcat" />
+      <node id="wide" label="wide" />
+      <node id="wispy" label="wispy" />
+      <node id="wilt" label="wilt" />
+      <node id="windowpane" label="windowpane" />
+      <node id="windbag" label="windbag" />
+      <node id="windfall" label="windfall" />
+      <node id="wither" label="wither" />
+      <node id="willowy" label="willowy" />
+      <node id="withdraw" label="withdraw" />
+      <node id="wild" label="wild" />
+      <node id="witch" label="witch" />
+      <node id="wing" label="wing" />
+      <node id="wind" label="wind" />
+    </nodes>
+    <edges>
+      <edge id="0" source="withered" target="wilted" />
+      <edge id="1" source="withered" target="wizened" />
+      <edge id="2" source="witling" target="wisecracker" />
+      <edge id="3" source="witling" target="wit" />
+      <edge id="4" source="wilderness" target="wild" />
+      <edge id="5" source="witchcraft" target="witchery" />
+      <edge id="6" source="witchcraft" target="wizardry" />
+      <edge id="7" source="windward" target="widdershins" />
+      <edge id="8" source="win" target="winning" />
+      <edge id="9" source="winnow" target="wind" />
+      <edge id="10" source="wit" target="wisecracker" />
+      <edge id="11" source="wit" target="wizardry" />
+      <edge id="12" source="wizen" target="wilt" />
+      <edge id="13" source="wizen" target="wither" />
+      <edge id="14" source="wizen" target="wipe" />
+      <edge id="15" source="wicket" target="window" />
+      <edge id="16" source="wicket" target="windowpane" />
+      <edge id="17" source="widespread" target="wide" />
+      <edge id="18" source="witchery" target="wizardry" />
+      <edge id="19" source="wisecrack" target="witticism" />
+      <edge id="20" source="windjammer" target="windbag" />
+      <edge id="21" source="wishbone" target="wing" />
+      <edge id="22" source="winter" target="wintry" />
+      <edge id="23" source="winner" target="windfall" />
+      <edge id="24" source="wield" target="wigwag" />
+      <edge id="25" source="wipe" target="wither" />
+      <edge id="26" source="winning" target="winsome" />
+      <edge id="27" source="winning" target="witching" />
+      <edge id="28" source="wigwag" target="wink" />
+      <edge id="29" source="window" target="windowpane" />
+      <edge id="30" source="willing" target="willful" />
+      <edge id="31" source="wizened" target="wilted" />
+      <edge id="32" source="willful" target="wildcat" />
+      <edge id="33" source="witching" target="winsome" />
+      <edge id="34" source="wiredrawn" target="wispy" />
+      <edge id="35" source="wiredrawn" target="willowy" />
+      <edge id="36" source="wince" target="withdraw" />
+      <edge id="37" source="witticism" target="wisdom" />
+      <edge id="38" source="wildcat" target="witch" />
+      <edge id="39" source="wispy" target="willowy" />
+      <edge id="40" source="wilt" target="wither" />
+      <edge id="41" source="wilt" target="wind" />
+    </edges>
+  </graph>
+</gexf>

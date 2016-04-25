@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="echoing" label="echoing" />
+      <node id="economizing" label="economizing" />
+      <node id="echo" label="echo">
+        <attvalues>
+          <attvalue for="0" value="3.65600232068" />
+        </attvalues>
+      </node>
+      <node id="ecstasy" label="ecstasy">
+        <attvalues>
+          <attvalue for="0" value="3.27369558793" />
+        </attvalues>
+      </node>
+      <node id="economic" label="economic">
+        <attvalues>
+          <attvalue for="0" value="4.98490069105" />
+        </attvalues>
+      </node>
+      <node id="ectoplasmic" label="ectoplasmic" />
+      <node id="eclat" label="eclat">
+        <attvalues>
+          <attvalue for="0" value="1.39794000867" />
+        </attvalues>
+      </node>
+      <node id="ecclesiastic" label="ecclesiastic" />
+      <node id="ecclesiastical" label="ecclesiastical">
+        <attvalues>
+          <attvalue for="0" value="2.92220627744" />
+        </attvalues>
+      </node>
+      <node id="ecumenical" label="ecumenical">
+        <attvalues>
+          <attvalue for="0" value="3.14921911266" />
+        </attvalues>
+      </node>
+      <node id="economical" label="economical">
+        <attvalues>
+          <attvalue for="0" value="3.10856502373" />
+        </attvalues>
+      </node>
+      <node id="eclectic" label="eclectic">
+        <attvalues>
+          <attvalue for="0" value="3.23274206272" />
+        </attvalues>
+      </node>
+      <node id="economy" label="economy">
+        <attvalues>
+          <attvalue for="0" value="4.79462047583" />
+        </attvalues>
+      </node>
+      <node id="eccentric" label="eccentric" />
+      <node id="ecliptic" label="ecliptic" />
+      <node id="eccentricity" label="eccentricity">
+        <attvalues>
+          <attvalue for="0" value="2.57403126773" />
+        </attvalues>
+      </node>
+      <node id="echelon" label="echelon" />
+      <node id="eclampsia" label="eclampsia" />
+      <node id="eclipse" label="eclipse" />
+      <node id="eclair" label="eclair" />
+      <node id="ecru" label="ecru">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="echoic" label="echoic" />
+    </nodes>
+    <edges>
+      <edge id="0" source="echoing" target="echo" weight="0.024242" />
+      <edge id="1" source="economizing" target="economic" weight="0.416667" />
+      <edge id="2" source="economizing" target="economical" weight="0.333333" />
+      <edge id="3" source="economizing" target="economy" weight="0.12766" />
+      <edge id="4" source="echo" target="ecliptic" weight="0.005714" />
+      <edge id="5" source="echo" target="eclipse" weight="0.004386" />
+      <edge id="6" source="echo" target="echoic" weight="0.027322" />
+      <edge id="7" source="echo" target="eclat" weight="0.009479" />
+      <edge id="8" source="ecstasy" target="eccentricity" weight="0.006711" />
+      <edge id="9" source="ecstasy" target="eclat" weight="0.008197" />
+      <edge id="10" source="ecstasy" target="eclampsia" weight="0.024691" />
+      <edge id="11" source="economic" target="economical" weight="0.34375" />
+      <edge id="12" source="economic" target="economy" weight="0.422222" />
+      <edge id="13" source="ectoplasmic" target="ecclesiastical" weight="0.066667" />
+      <edge id="14" source="eclat" target="eccentric" weight="0.004292" />
+      <edge id="15" source="eclat" target="eclipse" weight="0.007092" />
+      <edge id="16" source="eclat" target="eclair" weight="0.013158" />
+      <edge id="17" source="eclat" target="eccentricity" weight="0.006579" />
+      <edge id="18" source="ecclesiastic" target="ecclesiastical" weight="0.047619" />
+      <edge id="19" source="ecumenical" target="eclectic" weight="0.013158" />
+      <edge id="20" source="economical" target="economy" weight="0.125" />
+      <edge id="21" source="eclectic" target="eccentric" weight="0.004202" />
+      <edge id="22" source="eclectic" target="echoic" weight="0.009524" />
+      <edge id="23" source="eccentric" target="eccentricity" weight="0.007722" />
+      <edge id="24" source="eccentricity" target="echelon" weight="0.008772" />
+      <edge id="25" source="eclipse" target="ecru" weight="0.008929" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="operant" label="operant" />
+      <node id="openhanded" label="openhanded">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="oppressed" label="oppressed">
+        <attvalues>
+          <attvalue for="0" value="3.24821856119" />
+        </attvalues>
+      </node>
+      <node id="optimistic" label="optimistic" />
+      <node id="operator" label="operator" />
+      <node id="openness" label="openness">
+        <attvalues>
+          <attvalue for="0" value="3.4485517392" />
+        </attvalues>
+      </node>
+      <node id="operation" label="operation" />
+      <node id="open" label="open" />
+      <node id="operative" label="operative">
+        <attvalues>
+          <attvalue for="0" value="3.277838333" />
+        </attvalues>
+      </node>
+      <node id="opportune" label="opportune" />
+      <node id="opposer" label="opposer">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="operable" label="operable">
+        <attvalues>
+          <attvalue for="0" value="2.12057393121" />
+        </attvalues>
+      </node>
+      <node id="optic" label="optic">
+        <attvalues>
+          <attvalue for="0" value="2.88930170251" />
+        </attvalues>
+      </node>
+      <node id="opaque" label="opaque" />
+      <node id="optional" label="optional">
+        <attvalues>
+          <attvalue for="0" value="3.66162340923" />
+        </attvalues>
+      </node>
+      <node id="opening" label="opening" />
+      <node id="operose" label="operose" />
+      <node id="operational" label="operational">
+        <attvalues>
+          <attvalue for="0" value="3.59361830813" />
+        </attvalues>
+      </node>
+      <node id="opus" label="opus">
+        <attvalues>
+          <attvalue for="0" value="2.84198480459" />
+        </attvalues>
+      </node>
+      <node id="opossum" label="opossum">
+        <attvalues>
+          <attvalue for="0" value="2.30319605742" />
+        </attvalues>
+      </node>
+      <node id="opposed" label="opposed" />
+      <node id="oppressor" label="oppressor">
+        <attvalues>
+          <attvalue for="0" value="2.31597034546" />
+        </attvalues>
+      </node>
+      <node id="optimal" label="optimal">
+        <attvalues>
+          <attvalue for="0" value="3.52087638169" />
+        </attvalues>
+      </node>
+      <node id="operatic" label="operatic">
+        <attvalues>
+          <attvalue for="0" value="2.72672720903" />
+        </attvalues>
+      </node>
+      <node id="openhearted" label="openhearted">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="opponent" label="opponent">
+        <attvalues>
+          <attvalue for="0" value="3.8121108412" />
+        </attvalues>
+      </node>
+      <node id="opacity" label="opacity" />
+      <node id="option" label="option" />
+      <node id="oppressive" label="oppressive">
+        <attvalues>
+          <attvalue for="0" value="3.21932250842" />
+        </attvalues>
+      </node>
+      <node id="opposite" label="opposite">
+        <attvalues>
+          <attvalue for="0" value="4.34327070065" />
+        </attvalues>
+      </node>
+      <node id="oppression" label="oppression" />
+      <node id="opulence" label="opulence">
+        <attvalues>
+          <attvalue for="0" value="2.49276038903" />
+        </attvalues>
+      </node>
+      <node id="opulent" label="opulent" />
+      <node id="opalescent" label="opalescent" />
+      <node id="opposing" label="opposing" />
+      <node id="operating" label="operating" />
+      <node id="opener" label="opener">
+        <attvalues>
+          <attvalue for="0" value="3.38471174294" />
+        </attvalues>
+      </node>
+      <node id="opposition" label="opposition">
+        <attvalues>
+          <attvalue for="0" value="4.32815526197" />
+        </attvalues>
+      </node>
+      <node id="opprobrium" label="opprobrium" />
+      <node id="opportunity" label="opportunity" />
+      <node id="operetta" label="operetta" />
+      <node id="opium" label="opium">
+        <attvalues>
+          <attvalue for="0" value="3.08350261983" />
+        </attvalues>
+      </node>
+      <node id="opera" label="opera" />
+      <node id="opine" label="opine">
+        <attvalues>
+          <attvalue for="0" value="1.94448267215" />
+        </attvalues>
+      </node>
+      <node id="opiate" label="opiate" />
+      <node id="oppress" label="oppress">
+        <attvalues>
+          <attvalue for="0" value="2.38201704257" />
+        </attvalues>
+      </node>
+      <node id="opinionated" label="opinionated" />
+      <node id="optimum" label="optimum" />
+      <node id="oppose" label="oppose">
+        <attvalues>
+          <attvalue for="0" value="3.74075732331" />
+        </attvalues>
+      </node>
+      <node id="openmouthed" label="openmouthed" />
+      <node id="optimist" label="optimist">
+        <attvalues>
+          <attvalue for="0" value="2.81822589361" />
+        </attvalues>
+      </node>
+      <node id="opinion" label="opinion">
+        <attvalues>
+          <attvalue for="0" value="4.43771886134" />
+        </attvalues>
+      </node>
+      <node id="operate" label="operate">
+        <attvalues>
+          <attvalue for="0" value="4.06434565716" />
+        </attvalues>
+      </node>
+      <node id="oppugn" label="oppugn">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="oppositional" label="oppositional" />
+    </nodes>
+    <edges>
+      <edge id="0" source="operant" target="oppressor" weight="0.025641" />
+      <edge id="1" source="operant" target="operate" weight="0.023529" />
+      <edge id="2" source="operant" target="operative" weight="0.307692" />
+      <edge id="3" source="operant" target="operational" weight="0.022727" />
+      <edge id="4" source="openhanded" target="optional" weight="0.015625" />
+      <edge id="5" source="openhanded" target="opulent" weight="0.05618" />
+      <edge id="6" source="openhanded" target="openhearted" weight="0.261364" />
+      <edge id="7" source="openhanded" target="optimistic" weight="0.034884" />
+      <edge id="8" source="openhanded" target="operatic" weight="0.014706" />
+      <edge id="9" source="openhanded" target="open" weight="0.056206" />
+      <edge id="10" source="oppressed" target="oppressive" weight="0.00885" />
+      <edge id="11" source="oppressed" target="operose" weight="0.012987" />
+      <edge id="12" source="oppressed" target="opulent" weight="0.0125" />
+      <edge id="13" source="oppressed" target="opalescent" weight="0.020833" />
+      <edge id="14" source="oppressed" target="openmouthed" weight="0.009615" />
+      <edge id="15" source="oppressed" target="open" weight="0.002288" />
+      <edge id="16" source="optimistic" target="openhearted" weight="0.007874" />
+      <edge id="17" source="optimistic" target="optimist" weight="0.074074" />
+      <edge id="18" source="operator" target="oppressor" weight="0.015625" />
+      <edge id="19" source="operator" target="operate" weight="0.018182" />
+      <edge id="20" source="operator" target="operative" weight="0.23301" />
+      <edge id="21" source="operator" target="operational" weight="0.014493" />
+      <edge id="22" source="openness" target="opulence" weight="0.009709" />
+      <edge id="23" source="openness" target="opening" weight="0.007722" />
+      <edge id="24" source="operation" target="operational" weight="0.054545" />
+      <edge id="25" source="operation" target="opus" weight="0.027778" />
+      <edge id="26" source="operation" target="opulence" weight="0.006897" />
+      <edge id="27" source="operation" target="opinion" weight="0.005917" />
+      <edge id="28" source="operation" target="operate" weight="0.07483" />
+      <edge id="29" source="operation" target="oppress" weight="0.01105" />
+      <edge id="30" source="operation" target="operative" weight="0.029762" />
+      <edge id="31" source="open" target="operable" weight="0.004619" />
+      <edge id="32" source="open" target="oppressive" weight="0.007968" />
+      <edge id="33" source="open" target="optic" weight="0.004706" />
+      <edge id="34" source="open" target="opposite" weight="0.004065" />
+      <edge id="35" source="open" target="optional" weight="0.002257" />
+      <edge id="36" source="open" target="oppose" weight="0.003868" />
+      <edge id="37" source="open" target="opposition" weight="0.001761" />
+      <edge id="38" source="open" target="operate" weight="0.002101" />
+      <edge id="39" source="open" target="openhearted" weight="0.177885" />
+      <edge id="40" source="open" target="oppress" weight="0.001996" />
+      <edge id="41" source="open" target="operative" weight="0.008197" />
+      <edge id="42" source="operative" target="operable" weight="0.054348" />
+      <edge id="43" source="operative" target="oppressive" weight="0.005988" />
+      <edge id="44" source="operative" target="opportunity" weight="0.009174" />
+      <edge id="45" source="operative" target="operational" weight="0.127907" />
+      <edge id="46" source="operative" target="oppressor" weight="0.010989" />
+      <edge id="47" source="operative" target="operating" weight="0.072289" />
+      <edge id="48" source="operative" target="operate" weight="0.022059" />
+      <edge id="49" source="opportune" target="operable" weight="0.028169" />
+      <edge id="50" source="opposer" target="opposing" weight="0.006803" />
+      <edge id="51" source="opposer" target="opponent" weight="0.016949" />
+      <edge id="52" source="opposer" target="oppose" weight="0.00813" />
+      <edge id="53" source="opposer" target="opposition" weight="0.00578" />
+      <edge id="54" source="opposer" target="oppositional" weight="0.013699" />
+      <edge id="55" source="operable" target="operational" weight="0.111111" />
+      <edge id="56" source="optic" target="opinion" weight="0.011765" />
+      <edge id="57" source="opaque" target="oppress" weight="0.007353" />
+      <edge id="58" source="opaque" target="oppressive" weight="0.007143" />
+      <edge id="59" source="optional" target="option" weight="0.022222" />
+      <edge id="60" source="optional" target="oppressive" weight="0.008403" />
+      <edge id="61" source="optional" target="openhearted" weight="0.009709" />
+      <edge id="62" source="optional" target="opulent" weight="0.011628" />
+      <edge id="63" source="optional" target="opinionated" weight="0.013699" />
+      <edge id="64" source="opening" target="opus" weight="0.013699" />
+      <edge id="65" source="opening" target="opener" weight="0.004525" />
+      <edge id="66" source="opening" target="oppose" weight="0.003226" />
+      <edge id="67" source="opening" target="opposition" weight="0.002778" />
+      <edge id="68" source="opening" target="opinion" weight="0.007168" />
+      <edge id="69" source="opening" target="oppress" weight="0.006849" />
+      <edge id="70" source="operose" target="oppressive" weight="0.186992" />
+      <edge id="71" source="operose" target="opposite" weight="0.030769" />
+      <edge id="72" source="operational" target="operating" weight="0.52381" />
+      <edge id="73" source="operational" target="operate" weight="0.012346" />
+      <edge id="74" source="operational" target="opportunity" weight="0.019231" />
+      <edge id="75" source="opus" target="operetta" weight="0.01087" />
+      <edge id="76" source="opus" target="opera" weight="0.253425" />
+      <edge id="77" source="opus" target="opposition" weight="0.004132" />
+      <edge id="78" source="opus" target="operate" weight="0.02027" />
+      <edge id="79" source="opus" target="oppress" weight="0.005714" />
+      <edge id="80" source="opossum" target="opiate" weight="0.014925" />
+      <edge id="81" source="opossum" target="opium" weight="0.015873" />
+      <edge id="82" source="opposed" target="oppressive" weight="0.016949" />
+      <edge id="83" source="opposed" target="opposite" weight="0.513514" />
+      <edge id="84" source="opposed" target="oppose" weight="0.010471" />
+      <edge id="85" source="opposed" target="opposition" weight="0.0125" />
+      <edge id="86" source="opposed" target="oppugn" weight="0.017241" />
+      <edge id="87" source="opposed" target="opponent" weight="0.357895" />
+      <edge id="88" source="optimal" target="optimum" weight="0.606061" />
+      <edge id="89" source="optimal" target="option" weight="0.027027" />
+      <edge id="90" source="operatic" target="opera" weight="0.007937" />
+      <edge id="91" source="openhearted" target="opulent" weight="0.047244" />
+      <edge id="92" source="openhearted" target="opalescent" weight="0.01" />
+      <edge id="93" source="openhearted" target="operate" weight="0.007353" />
+      <edge id="94" source="openhearted" target="opportunity" weight="0.009346" />
+      <edge id="95" source="opponent" target="opposite" weight="0.4" />
+      <edge id="96" source="opponent" target="oppression" weight="0.010989" />
+      <edge id="97" source="opponent" target="opinionated" weight="0.024096" />
+      <edge id="98" source="opponent" target="opposing" weight="0.253731" />
+      <edge id="99" source="opponent" target="oppose" weight="0.014085" />
+      <edge id="100" source="opponent" target="opposition" weight="0.021053" />
+      <edge id="101" source="opponent" target="oppugn" weight="0.029851" />
+      <edge id="102" source="opponent" target="oppositional" weight="0.566667" />
+      <edge id="103" source="opacity" target="opposition" weight="0.005814" />
+      <edge id="104" source="option" target="opine" weight="0.015625" />
+      <edge id="105" source="option" target="opposition" weight="0.005882" />
+      <edge id="106" source="oppressive" target="opium" weight="0.007752" />
+      <edge id="107" source="oppressive" target="opposite" weight="0.011905" />
+      <edge id="108" source="oppressive" target="opiate" weight="0.007519" />
+      <edge id="109" source="oppressive" target="oppression" weight="0.014184" />
+      <edge id="110" source="oppressive" target="opinionated" weight="0.007407" />
+      <edge id="111" source="oppressive" target="opposing" weight="0.009217" />
+      <edge id="112" source="oppressive" target="opposition" weight="0.004098" />
+      <edge id="113" source="oppressive" target="openmouthed" weight="0.005814" />
+      <edge id="114" source="opposite" target="oppression" weight="0.007692" />
+      <edge id="115" source="opposite" target="opinionated" weight="0.016393" />
+      <edge id="116" source="opposite" target="opposing" weight="0.427586" />
+      <edge id="117" source="opposite" target="oppose" weight="0.022346" />
+      <edge id="118" source="opposite" target="opposition" weight="0.017467" />
+      <edge id="119" source="opposite" target="oppugn" weight="0.038462" />
+      <edge id="120" source="opposite" target="oppositional" weight="0.494382" />
+      <edge id="121" source="oppression" target="opium" weight="0.011111" />
+      <edge id="122" source="oppression" target="oppugn" weight="0.0125" />
+      <edge id="123" source="oppression" target="oppose" weight="0.006452" />
+      <edge id="124" source="oppression" target="oppress" weight="0.061069" />
+      <edge id="125" source="opulence" target="opportunity" weight="0.012195" />
+      <edge id="126" source="opulence" target="opulent" weight="0.018868" />
+      <edge id="127" source="opposing" target="oppose" weight="0.017544" />
+      <edge id="128" source="opposing" target="opposition" weight="0.114625" />
+      <edge id="129" source="opposing" target="oppugn" weight="0.019481" />
+      <edge id="130" source="opposition" target="oppose" weight="0.057377" />
+      <edge id="131" source="opposition" target="opinion" weight="0.004405" />
+      <edge id="132" source="opposition" target="oppositional" weight="0.014634" />
+      <edge id="133" source="opposition" target="opine" weight="0.004975" />
+      <edge id="134" source="opposition" target="oppugn" weight="0.01105" />
+      <edge id="135" source="opprobrium" target="oppress" weight="0.009804" />
+      <edge id="136" source="opportunity" target="operate" weight="0.010638" />
+      <edge id="137" source="opportunity" target="opine" weight="0.0125" />
+      <edge id="138" source="opportunity" target="oppress" weight="0.008403" />
+      <edge id="139" source="opium" target="opiate" weight="0.863636" />
+      <edge id="140" source="opera" target="operate" weight="0.012987" />
+      <edge id="141" source="opera" target="oppress" weight="0.005556" />
+      <edge id="142" source="opine" target="opinion" weight="0.016667" />
+      <edge id="143" source="opine" target="operate" weight="0.009174" />
+      <edge id="144" source="oppress" target="oppose" weight="0.02139" />
+      <edge id="145" source="oppress" target="operate" weight="0.013605" />
+      <edge id="146" source="oppose" target="oppositional" weight="0.012821" />
+      <edge id="147" source="oppose" target="oppugn" weight="0.209091" />
+      <edge id="148" source="oppugn" target="oppositional" weight="0.024691" />
+    </edges>
+  </graph>
+</gexf>

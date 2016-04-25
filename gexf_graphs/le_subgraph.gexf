@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="lexical" label="lexical" />
+      <node id="lewd" label="lewd" />
+      <node id="less" label="less" />
+      <node id="leasehold" label="leasehold" />
+      <node id="legislation" label="legislation" />
+      <node id="lengthwise" label="lengthwise" />
+      <node id="leniency" label="leniency" />
+      <node id="lexicologist" label="lexicologist" />
+      <node id="lechery" label="lechery" />
+      <node id="lettered" label="lettered" />
+      <node id="leeway" label="leeway" />
+      <node id="leaseholder" label="leaseholder" />
+      <node id="lewdness" label="lewdness" />
+      <node id="lesson" label="lesson" />
+      <node id="lessening" label="lessening" />
+      <node id="leafy" label="leafy" />
+      <node id="levity" label="levity" />
+      <node id="legislative" label="legislative" />
+      <node id="leaden" label="leaden" />
+      <node id="leaflet" label="leaflet" />
+      <node id="leaf" label="leaf" />
+      <node id="lees" label="lees" />
+      <node id="lead" label="lead" />
+      <node id="lexigraphic" label="lexigraphic" />
+      <node id="leak" label="leak" />
+      <node id="leeward" label="leeward" />
+      <node id="lean" label="lean" />
+      <node id="leftward" label="leftward" />
+      <node id="least" label="least" />
+      <node id="leakage" label="leakage" />
+      <node id="leap" label="leap" />
+      <node id="ledge" label="ledge" />
+      <node id="lexicography" label="lexicography" />
+      <node id="lecture" label="lecture" />
+      <node id="learned" label="learned" />
+      <node id="levitation" label="levitation" />
+      <node id="leader" label="leader" />
+      <node id="lethargic" label="lethargic" />
+      <node id="leering" label="leering" />
+      <node id="lecturer" label="lecturer" />
+      <node id="leach" label="leach" />
+      <node id="leavings" label="leavings" />
+      <node id="lee" label="lee" />
+      <node id="lecherous" label="lecherous" />
+      <node id="legitimacy" label="legitimacy" />
+      <node id="lexicographer" label="lexicographer" />
+      <node id="leisured" label="leisured" />
+      <node id="lessen" label="lessen" />
+      <node id="leisure" label="leisure" />
+      <node id="leapfrog" label="leapfrog" />
+      <node id="leadership" label="leadership" />
+      <node id="let" label="let" />
+      <node id="legitimate" label="legitimate" />
+      <node id="lex" label="lex" />
+      <node id="leftover" label="leftover" />
+      <node id="letup" label="letup" />
+      <node id="legit" label="legit" />
+      <node id="legal" label="legal" />
+      <node id="legislature" label="legislature" />
+      <node id="letdown" label="letdown" />
+      <node id="lector" label="lector" />
+      <node id="left" label="left" />
+      <node id="level" label="level" />
+      <node id="leather" label="leather" />
+      <node id="leave" label="leave" />
+      <node id="lessee" label="lessee" />
+      <node id="lexicology" label="lexicology" />
+      <node id="leading" label="leading" />
+      <node id="leaving" label="leaving" />
+      <node id="lesser" label="lesser" />
+      <node id="legislate" label="legislate" />
+      <node id="length" label="length" />
+      <node id="leverage" label="leverage" />
+      <node id="legalize" label="legalize" />
+      <node id="leaning" label="leaning" />
+      <node id="lease" label="lease" />
+      <node id="leathery" label="leathery" />
+      <node id="leaved" label="leaved" />
+      <node id="legality" label="legality" />
+    </nodes>
+    <edges>
+      <edge id="0" source="lexical" target="lexigraphic" />
+      <edge id="1" source="lewd" target="lecherous" />
+      <edge id="2" source="less" target="lesser" />
+      <edge id="3" source="less" target="least" />
+      <edge id="4" source="leasehold" target="lease" />
+      <edge id="5" source="legislation" target="lex" />
+      <edge id="6" source="legislation" target="legislature" />
+      <edge id="7" source="lengthwise" target="level" />
+      <edge id="8" source="leniency" target="letdown" />
+      <edge id="9" source="leniency" target="letup" />
+      <edge id="10" source="leniency" target="lessening" />
+      <edge id="11" source="lexicologist" target="lexicographer" />
+      <edge id="12" source="lechery" target="lewdness" />
+      <edge id="13" source="lettered" target="learned" />
+      <edge id="14" source="lettered" target="lexigraphic" />
+      <edge id="15" source="leeway" target="length" />
+      <edge id="16" source="leeway" target="leap" />
+      <edge id="17" source="leaseholder" target="lessee" />
+      <edge id="18" source="lesson" target="lecture" />
+      <edge id="19" source="lessening" target="letdown" />
+      <edge id="20" source="lessening" target="letup" />
+      <edge id="21" source="leafy" target="leaved" />
+      <edge id="22" source="levity" target="levitation" />
+      <edge id="23" source="levity" target="leering" />
+      <edge id="24" source="legislative" target="legit" />
+      <edge id="25" source="legislative" target="legal" />
+      <edge id="26" source="legislative" target="legitimate" />
+      <edge id="27" source="leaden" target="lethargic" />
+      <edge id="28" source="leaden" target="lead" />
+      <edge id="29" source="leaflet" target="leaf" />
+      <edge id="30" source="leaf" target="leave" />
+      <edge id="31" source="lees" target="leavings" />
+      <edge id="32" source="lead" target="lean" />
+      <edge id="33" source="lead" target="leader" />
+      <edge id="34" source="lead" target="leading" />
+      <edge id="35" source="leak" target="leakage" />
+      <edge id="36" source="leeward" target="lee" />
+      <edge id="37" source="leeward" target="leftward" />
+      <edge id="38" source="lean" target="leaning" />
+      <edge id="39" source="leftward" target="left" />
+      <edge id="40" source="leap" target="leapfrog" />
+      <edge id="41" source="leap" target="levitation" />
+      <edge id="42" source="leap" target="level" />
+      <edge id="43" source="ledge" target="level" />
+      <edge id="44" source="lexicography" target="lexicology" />
+      <edge id="45" source="lecturer" target="lector" />
+      <edge id="46" source="leach" target="lessen" />
+      <edge id="47" source="legitimacy" target="legality" />
+      <edge id="48" source="leisured" target="leisure" />
+      <edge id="49" source="leisured" target="leisured" />
+      <edge id="50" source="leadership" target="leverage" />
+      <edge id="51" source="let" target="leave" />
+      <edge id="52" source="let" target="lease" />
+      <edge id="53" source="legitimate" target="legalize" />
+      <edge id="54" source="legitimate" target="legit" />
+      <edge id="55" source="legitimate" target="legal" />
+      <edge id="56" source="leftover" target="left" />
+      <edge id="57" source="letup" target="letdown" />
+      <edge id="58" source="legit" target="legal" />
+      <edge id="59" source="legal" target="level" />
+      <edge id="60" source="leather" target="leathery" />
+      <edge id="61" source="leave" target="leaving" />
+      <edge id="62" source="legislate" target="legalize" />
+    </edges>
+  </graph>
+</gexf>

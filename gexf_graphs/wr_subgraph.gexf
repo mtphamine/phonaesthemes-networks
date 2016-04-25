@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="wrongful" label="wrongful" />
+      <node id="wrack" label="wrack" />
+      <node id="wreck" label="wreck" />
+      <node id="wrest" label="wrest" />
+      <node id="wrathful" label="wrathful" />
+      <node id="wreathed" label="wreathed" />
+      <node id="writhe" label="writhe" />
+      <node id="wrapping" label="wrapping" />
+      <node id="wreak" label="wreak" />
+      <node id="wrapper" label="wrapper" />
+      <node id="writing" label="writing" />
+      <node id="wriggle" label="wriggle" />
+      <node id="wrapped" label="wrapped" />
+      <node id="wrong" label="wrong" />
+      <node id="wroth" label="wroth" />
+      <node id="writ" label="writ" />
+      <node id="wrench" label="wrench" />
+      <node id="wrongdoing" label="wrongdoing" />
+      <node id="wrap" label="wrap" />
+      <node id="wring" label="wring" />
+      <node id="wry" label="wry" />
+    </nodes>
+    <edges>
+      <edge id="0" source="wrongful" target="wrong" />
+      <edge id="1" source="wrack" target="wreck" />
+      <edge id="2" source="wreck" target="wreak" />
+      <edge id="3" source="wrest" target="writhe" />
+      <edge id="4" source="wrest" target="wring" />
+      <edge id="5" source="wrest" target="wrench" />
+      <edge id="6" source="wrest" target="wry" />
+      <edge id="7" source="wrathful" target="wroth" />
+      <edge id="8" source="wreathed" target="wrapped" />
+      <edge id="9" source="writhe" target="wriggle" />
+      <edge id="10" source="writhe" target="wring" />
+      <edge id="11" source="writhe" target="wrench" />
+      <edge id="12" source="wrapping" target="wrap" />
+      <edge id="13" source="wrapping" target="wrapper" />
+      <edge id="14" source="wrapper" target="wrap" />
+      <edge id="15" source="writing" target="writ" />
+      <edge id="16" source="wrong" target="wrongdoing" />
+      <edge id="17" source="wrench" target="wring" />
+      <edge id="18" source="wring" target="wry" />
+    </edges>
+  </graph>
+</gexf>

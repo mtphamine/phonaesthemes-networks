@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="sketch" label="sketch" />
+      <node id="skeleton" label="skeleton" />
+      <node id="skedaddle" label="skedaddle" />
+      <node id="skillful" label="skillful" />
+      <node id="skeletal" label="skeletal" />
+      <node id="skew" label="skew" />
+      <node id="skilled" label="skilled" />
+      <node id="skateboard" label="skateboard" />
+      <node id="skit" label="skit" />
+      <node id="skewed" label="skewed" />
+      <node id="skimping" label="skimping" />
+      <node id="skinny" label="skinny" />
+      <node id="skate" label="skate" />
+      <node id="skim" label="skim" />
+      <node id="skip" label="skip" />
+      <node id="skirt" label="skirt" />
+      <node id="skimpy" label="skimpy" />
+      <node id="ski" label="ski" />
+      <node id="skid" label="skid" />
+      <node id="skimp" label="skimp" />
+    </nodes>
+    <edges>
+      <edge id="0" source="sketch" target="skeleton" />
+      <edge id="1" source="sketch" target="skit" />
+      <edge id="2" source="skeleton" target="skeletal" />
+      <edge id="3" source="skedaddle" target="skip" />
+      <edge id="4" source="skillful" target="skilled" />
+      <edge id="5" source="skeletal" target="skinny" />
+      <edge id="6" source="skew" target="skid" />
+      <edge id="7" source="skew" target="skewed" />
+      <edge id="8" source="skateboard" target="ski" />
+      <edge id="9" source="skateboard" target="skate" />
+      <edge id="10" source="skateboard" target="skim" />
+      <edge id="11" source="skateboard" target="skid" />
+      <edge id="12" source="skimping" target="skimpy" />
+      <edge id="13" source="skate" target="skim" />
+      <edge id="14" source="skate" target="skid" />
+      <edge id="15" source="skate" target="ski" />
+      <edge id="16" source="skim" target="skimp" />
+      <edge id="17" source="skim" target="skip" />
+      <edge id="18" source="skim" target="skirt" />
+      <edge id="19" source="skim" target="skid" />
+      <edge id="20" source="skim" target="ski" />
+      <edge id="21" source="skimpy" target="skimp" />
+      <edge id="22" source="ski" target="skid" />
+    </edges>
+  </graph>
+</gexf>

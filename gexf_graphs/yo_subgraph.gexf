@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="youngest" label="youngest" />
+      <node id="young" label="young" />
+      <node id="yourself" label="yourself" />
+      <node id="youth" label="youth" />
+      <node id="youngster" label="youngster" />
+      <node id="you" label="you" />
+      <node id="youthful" label="youthful" />
+    </nodes>
+    <edges>
+      <edge id="0" source="youngest" target="youth" />
+      <edge id="1" source="young" target="youth" />
+      <edge id="2" source="young" target="youthful" />
+      <edge id="3" source="yourself" target="you" />
+      <edge id="4" source="youth" target="youngster" />
+    </edges>
+  </graph>
+</gexf>

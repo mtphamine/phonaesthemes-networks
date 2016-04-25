@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="wrestle" label="wrestle">
+        <attvalues>
+          <attvalue for="0" value="3.08062648692" />
+        </attvalues>
+      </node>
+      <node id="wreathe" label="wreathe" />
+      <node id="wrest" label="wrest">
+        <attvalues>
+          <attvalue for="0" value="2.59328606702" />
+        </attvalues>
+      </node>
+      <node id="wreath" label="wreath">
+        <attvalues>
+          <attvalue for="0" value="3.03662889536" />
+        </attvalues>
+      </node>
+      <node id="wrangle" label="wrangle" />
+      <node id="wrathful" label="wrathful" />
+      <node id="wrack" label="wrack">
+        <attvalues>
+          <attvalue for="0" value="1.84509804001" />
+        </attvalues>
+      </node>
+      <node id="wrap" label="wrap">
+        <attvalues>
+          <attvalue for="0" value="3.89281782431" />
+        </attvalues>
+      </node>
+      <node id="wraith" label="wraith" />
+      <node id="wriggle" label="wriggle" />
+      <node id="wraps" label="wraps">
+        <attvalues>
+          <attvalue for="0" value="3.34301449715" />
+        </attvalues>
+      </node>
+      <node id="wristband" label="wristband" />
+      <node id="wreck" label="wreck">
+        <attvalues>
+          <attvalue for="0" value="3.4965145187" />
+        </attvalues>
+      </node>
+      <node id="wrecked" label="wrecked" />
+      <node id="writer" label="writer">
+        <attvalues>
+          <attvalue for="0" value="4.43495193609" />
+        </attvalues>
+      </node>
+      <node id="wreak" label="wreak">
+        <attvalues>
+          <attvalue for="0" value="2.79169064902" />
+        </attvalues>
+      </node>
+      <node id="wrapper" label="wrapper" />
+      <node id="writing" label="writing">
+        <attvalues>
+          <attvalue for="0" value="4.69850071283" />
+        </attvalues>
+      </node>
+      <node id="write" label="write">
+        <attvalues>
+          <attvalue for="0" value="4.63106816515" />
+        </attvalues>
+      </node>
+      <node id="wright" label="wright">
+        <attvalues>
+          <attvalue for="0" value="3.95684049016" />
+        </attvalues>
+      </node>
+      <node id="written" label="written" />
+      <node id="wrongdoing" label="wrongdoing" />
+      <node id="wrapped" label="wrapped">
+        <attvalues>
+          <attvalue for="0" value="4.0536161744" />
+        </attvalues>
+      </node>
+      <node id="wrecker" label="wrecker">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+      <node id="wry" label="wry" />
+      <node id="wretched" label="wretched" />
+      <node id="wrestler" label="wrestler" />
+      <node id="wrangling" label="wrangling">
+        <attvalues>
+          <attvalue for="0" value="2.78390357927" />
+        </attvalues>
+      </node>
+      <node id="wryneck" label="wryneck">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="writhe" label="writhe" />
+      <node id="wrapping" label="wrapping">
+        <attvalues>
+          <attvalue for="0" value="3.40976410427" />
+        </attvalues>
+      </node>
+      <node id="wrongheaded" label="wrongheaded">
+        <attvalues>
+          <attvalue for="0" value="2.21484384805" />
+        </attvalues>
+      </node>
+      <node id="wrongdoer" label="wrongdoer" />
+      <node id="wrong" label="wrong" />
+      <node id="wrist" label="wrist">
+        <attvalues>
+          <attvalue for="0" value="3.80250006776" />
+        </attvalues>
+      </node>
+      <node id="wrinkle" label="wrinkle" />
+      <node id="wring" label="wring" />
+      <node id="wrath" label="wrath">
+        <attvalues>
+          <attvalue for="0" value="3.20357677498" />
+        </attvalues>
+      </node>
+      <node id="wrangler" label="wrangler">
+        <attvalues>
+          <attvalue for="0" value="2.53781909507" />
+        </attvalues>
+      </node>
+      <node id="wreathed" label="wreathed" />
+      <node id="wroth" label="wroth" />
+      <node id="writ" label="writ">
+        <attvalues>
+          <attvalue for="0" value="2.81090428067" />
+        </attvalues>
+      </node>
+      <node id="wrench" label="wrench">
+        <attvalues>
+          <attvalue for="0" value="3.10653085382" />
+        </attvalues>
+      </node>
+      <node id="wrung" label="wrung" />
+      <node id="wrinkled" label="wrinkled" />
+    </nodes>
+    <edges>
+      <edge id="0" source="wrestle" target="wreck" weight="0.005208" />
+      <edge id="1" source="wrestle" target="wrangling" weight="0.086957" />
+      <edge id="2" source="wrestle" target="writhe" weight="0.011111" />
+      <edge id="3" source="wrestle" target="wrangle" weight="0.138889" />
+      <edge id="4" source="wrestle" target="wrap" weight="0.015873" />
+      <edge id="5" source="wrestle" target="wring" weight="0.007353" />
+      <edge id="6" source="wreathe" target="wrap" weight="0.048951" />
+      <edge id="7" source="wreathe" target="wrest" weight="0.010638" />
+      <edge id="8" source="wreathe" target="write" weight="0.012195" />
+      <edge id="9" source="wreathe" target="wreath" weight="0.052239" />
+      <edge id="10" source="wreathe" target="wrench" weight="0.008696" />
+      <edge id="11" source="wrest" target="writhe" weight="0.176471" />
+      <edge id="12" source="wrest" target="wreck" weight="0.004975" />
+      <edge id="13" source="wrest" target="wreath" weight="0.007874" />
+      <edge id="14" source="wrest" target="wriggle" weight="0.015152" />
+      <edge id="15" source="wrest" target="wrongdoer" weight="0.017857" />
+      <edge id="16" source="wrest" target="wrench" weight="0.203297" />
+      <edge id="17" source="wrest" target="wrap" weight="0.007353" />
+      <edge id="18" source="wrest" target="wrinkle" weight="0.034965" />
+      <edge id="19" source="wrest" target="wring" weight="0.327273" />
+      <edge id="20" source="wrest" target="wry" weight="0.019231" />
+      <edge id="21" source="wreath" target="wristband" weight="0.041667" />
+      <edge id="22" source="wreath" target="writhe" weight="0.006897" />
+      <edge id="23" source="wreath" target="writing" weight="0.010256" />
+      <edge id="24" source="wreath" target="write" weight="0.005051" />
+      <edge id="25" source="wreath" target="wrathful" weight="0.010309" />
+      <edge id="26" source="wreath" target="wroth" weight="0.010309" />
+      <edge id="27" source="wreath" target="writ" weight="0.00885" />
+      <edge id="28" source="wreath" target="wrench" weight="0.007605" />
+      <edge id="29" source="wreath" target="wrap" weight="0.005495" />
+      <edge id="30" source="wreath" target="wring" weight="0.010526" />
+      <edge id="31" source="wrangle" target="wrap" weight="0.020979" />
+      <edge id="32" source="wrangle" target="wrangling" weight="0.148148" />
+      <edge id="33" source="wrangle" target="wrangler" weight="0.017857" />
+      <edge id="34" source="wrangle" target="wrench" weight="0.004405" />
+      <edge id="35" source="wrathful" target="wrench" weight="0.005319" />
+      <edge id="36" source="wrathful" target="wrath" weight="0.038462" />
+      <edge id="37" source="wrack" target="wretched" weight="0.003906" />
+      <edge id="38" source="wrack" target="wreck" weight="0.314136" />
+      <edge id="39" source="wrack" target="wreak" weight="0.009346" />
+      <edge id="40" source="wrack" target="write" weight="0.004975" />
+      <edge id="41" source="wrack" target="wrong" weight="0.011299" />
+      <edge id="42" source="wrack" target="wrongdoing" weight="0.015267" />
+      <edge id="43" source="wrap" target="wraps" weight="0.009434" />
+      <edge id="44" source="wrap" target="writhe" weight="0.006494" />
+      <edge id="45" source="wrap" target="wristband" weight="0.03876" />
+      <edge id="46" source="wrap" target="wreck" weight="0.003906" />
+      <edge id="47" source="wrap" target="wrapping" weight="0.059829" />
+      <edge id="48" source="wrap" target="wrapper" weight="0.092593" />
+      <edge id="49" source="wrap" target="write" weight="0.004831" />
+      <edge id="50" source="wrap" target="writer" weight="0.007752" />
+      <edge id="51" source="wrap" target="wrist" weight="0.007576" />
+      <edge id="52" source="wrap" target="wrench" weight="0.003663" />
+      <edge id="53" source="wrap" target="writing" weight="0.004878" />
+      <edge id="54" source="wrap" target="wring" weight="0.005" />
+      <edge id="55" source="wraith" target="write" weight="0.020833" />
+      <edge id="56" source="wraith" target="writer" weight="0.014706" />
+      <edge id="57" source="wraith" target="writ" weight="0.016393" />
+      <edge id="58" source="wraith" target="writing" weight="0.006944" />
+      <edge id="59" source="wriggle" target="wrench" weight="0.02" />
+      <edge id="60" source="wraps" target="wrench" weight="0.005319" />
+      <edge id="61" source="wraps" target="wrapper" weight="0.03125" />
+      <edge id="62" source="wreck" target="wretched" weight="0.003058" />
+      <edge id="63" source="wreck" target="wrath" weight="0.005682" />
+      <edge id="64" source="wreck" target="wring" weight="0.011407" />
+      <edge id="65" source="wreck" target="wrecked" weight="0.005348" />
+      <edge id="66" source="wreck" target="wreak" weight="0.017045" />
+      <edge id="67" source="wreck" target="wrestler" weight="0.005495" />
+      <edge id="68" source="wreck" target="wrong" weight="0.016588" />
+      <edge id="69" source="wreck" target="wrench" weight="0.030395" />
+      <edge id="70" source="wreck" target="wrongdoing" weight="0.009901" />
+      <edge id="71" source="wreck" target="wrinkle" weight="0.003745" />
+      <edge id="72" source="wreck" target="wrecker" weight="0.005376" />
+      <edge id="73" source="writer" target="wright" weight="0.014085" />
+      <edge id="74" source="writer" target="write" weight="0.035461" />
+      <edge id="75" source="writer" target="writing" weight="0.006993" />
+      <edge id="76" source="wreak" target="write" weight="0.023622" />
+      <edge id="77" source="wreak" target="wring" weight="0.008197" />
+      <edge id="78" source="wreak" target="wrench" weight="0.005128" />
+      <edge id="79" source="wrapper" target="wrapping" weight="0.162791" />
+      <edge id="80" source="writing" target="write" weight="0.062201" />
+      <edge id="81" source="writing" target="written" weight="0.007576" />
+      <edge id="82" source="writing" target="writ" weight="0.122951" />
+      <edge id="83" source="writing" target="wrinkle" weight="0.00463" />
+      <edge id="84" source="write" target="wretched" weight="0.003597" />
+      <edge id="85" source="write" target="wrinkled" weight="0.005495" />
+      <edge id="86" source="write" target="wright" weight="0.006711" />
+      <edge id="87" source="write" target="writ" weight="0.037313" />
+      <edge id="88" source="write" target="wrench" weight="0.006944" />
+      <edge id="89" source="write" target="wrinkle" weight="0.028169" />
+      <edge id="90" source="write" target="wring" weight="0.018779" />
+      <edge id="91" source="written" target="wrapped" weight="0.019231" />
+      <edge id="92" source="wrapped" target="wreathed" weight="0.04918" />
+      <edge id="93" source="wrecker" target="wrong" weight="0.003413" />
+      <edge id="94" source="wrecker" target="wring" weight="0.007692" />
+      <edge id="95" source="wrecker" target="wrench" weight="0.004926" />
+      <edge id="96" source="wry" target="wrench" weight="0.010638" />
+      <edge id="97" source="wretched" target="wrongheaded" weight="0.015306" />
+      <edge id="98" source="wretched" target="wrench" weight="0.002907" />
+      <edge id="99" source="wrestler" target="wrangler" weight="0.011765" />
+      <edge id="100" source="wrangling" target="wrangler" weight="0.019048" />
+      <edge id="101" source="wryneck" target="wrench" weight="0.004695" />
+      <edge id="102" source="writhe" target="wrench" weight="0.102326" />
+      <edge id="103" source="wrongheaded" target="wrong" weight="0.003344" />
+      <edge id="104" source="wrongdoer" target="wrench" weight="0.005181" />
+      <edge id="105" source="wrong" target="wrench" weight="0.015945" />
+      <edge id="106" source="wrist" target="wrinkle" weight="0.006993" />
+      <edge id="107" source="wrist" target="wrench" weight="0.004673" />
+      <edge id="108" source="wrinkle" target="wrath" weight="0.008197" />
+      <edge id="109" source="wrinkle" target="wrench" weight="0.051661" />
+      <edge id="110" source="wring" target="wrench" weight="0.252212" />
+      <edge id="111" source="wrath" target="wroth" weight="0.038462" />
+      <edge id="112" source="wroth" target="wrench" weight="0.005319" />
+      <edge id="113" source="wrench" target="wrung" weight="0.010363" />
+      <edge id="114" source="wrench" target="wrinkled" weight="0.008097" />
+    </edges>
+  </graph>
+</gexf>

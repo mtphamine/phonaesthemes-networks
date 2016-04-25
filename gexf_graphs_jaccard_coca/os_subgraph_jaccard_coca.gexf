@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="oscillatory" label="oscillatory" />
+      <node id="ostentatious" label="ostentatious">
+        <attvalues>
+          <attvalue for="0" value="2.52891670028" />
+        </attvalues>
+      </node>
+      <node id="osmose" label="osmose">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="ossified" label="ossified">
+        <attvalues>
+          <attvalue for="0" value="1.92941892571" />
+        </attvalues>
+      </node>
+      <node id="oscillation" label="oscillation">
+        <attvalues>
+          <attvalue for="0" value="2.61595005166" />
+        </attvalues>
+      </node>
+      <node id="ostracize" label="ostracize" />
+      <node id="oscillating" label="oscillating">
+        <attvalues>
+          <attvalue for="0" value="2.42813479403" />
+        </attvalues>
+      </node>
+      <node id="ostentation" label="ostentation" />
+      <node id="ostensible" label="ostensible" />
+      <node id="ostracism" label="ostracism">
+        <attvalues>
+          <attvalue for="0" value="2.30319605742" />
+        </attvalues>
+      </node>
+      <node id="ossify" label="ossify" />
+      <node id="osmosis" label="osmosis" />
+      <node id="oscillate" label="oscillate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="oscillatory" target="oscillating" weight="0.310345" />
+      <edge id="1" source="oscillatory" target="oscillation" weight="0.020833" />
+      <edge id="2" source="ostentatious" target="ostensible" weight="0.008621" />
+      <edge id="3" source="ostentatious" target="ostentation" weight="0.007519" />
+      <edge id="4" source="osmose" target="osmosis" weight="0.020833" />
+      <edge id="5" source="ossified" target="ossify" weight="0.066667" />
+      <edge id="6" source="oscillation" target="oscillating" weight="0.033333" />
+      <edge id="7" source="oscillation" target="oscillate" weight="0.013889" />
+      <edge id="8" source="ostracize" target="ostracism" weight="0.082353" />
+      <edge id="9" source="ostracism" target="osmosis" weight="0.022727" />
+    </edges>
+  </graph>
+</gexf>

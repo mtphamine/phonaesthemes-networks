@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<style>
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+
+.link {
+  fill: none;
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+<body>
+  The graph doesn't reset properly yet when a new option is selected. Please reload page to see new graph for now.
+
+  <p>Node size is proportional to degree. Node color is based on community group</p>
+
+  <p><b>Note</b>: some graphs (such as un-, in-, de-) are relatively large and might have trouble rendering</p>
+
+  <p><b>Upcoming improvements</b>: zoomable/panable graphs; weighted edges; better layout of community; sticky nodes on drag; more customizable stuff</p>
+
+  Select 2-letter prefix:
+  <FORM NAME="nav2">
+    <DIV><SELECT ID="jsonSource" ONCHANGE="createGraph()">
+      <OPTION VALUE="json_files/ab_jaccard.json">
+      ab
+      <OPTION VALUE="json_files/ac_jaccard.json">
+      ac
+      <OPTION VALUE="json_files/ad_jaccard.json">
+      ad
+      <OPTION VALUE="json_files/ae_jaccard.json">
+      ae
+      <OPTION VALUE="json_files/af_jaccard.json">
+      af
+      <OPTION VALUE="json_files/ag_jaccard.json">
+      ag
+      <OPTION VALUE="json_files/ai_jaccard.json">
+      ai
+      <OPTION VALUE="json_files/al_jaccard.json">
+      al
+      <OPTION VALUE="json_files/am_jaccard.json">
+      am
+      <OPTION VALUE="json_files/an_jaccard.json">
+      an
+      <OPTION VALUE="json_files/ap_jaccard.json">
+      ap
+      <OPTION VALUE="json_files/aq_jaccard.json">
+      aq
+      <OPTION VALUE="json_files/ar_jaccard.json">
+      ar
+      <OPTION VALUE="json_files/as_jaccard.json">
+      as
+      <OPTION VALUE="json_files/at_jaccard.json">
+      at
+      <OPTION VALUE="json_files/au_jaccard.json">
+      au
+      <OPTION VALUE="json_files/av_jaccard.json">
+      av
+      <OPTION VALUE="json_files/aw_jaccard.json">
+      aw
+      <OPTION VALUE="json_files/ax_jaccard.json">
+      ax
+      <OPTION VALUE="json_files/ba_jaccard.json">
+      ba
+      <OPTION VALUE="json_files/be_jaccard.json">
+      be
+      <OPTION VALUE="json_files/bi_jaccard.json">
+      bi
+      <OPTION VALUE="json_files/bl_jaccard.json">
+      bl
+      <OPTION VALUE="json_files/bo_jaccard.json">
+      bo
+      <OPTION VALUE="json_files/br_jaccard.json">
+      br
+      <OPTION VALUE="json_files/bu_jaccard.json">
+      bu
+      <OPTION VALUE="json_files/by_jaccard.json">
+      by
+      <OPTION VALUE="json_files/ca_jaccard.json">
+      ca
+      <OPTION VALUE="json_files/ce_jaccard.json">
+      ce
+      <OPTION VALUE="json_files/ch_jaccard.json">
+      ch
+      <OPTION VALUE="json_files/ci_jaccard.json">
+      ci
+      <OPTION VALUE="json_files/cl_jaccard.json">
+      cl
+      <OPTION VALUE="json_files/co_jaccard.json">
+      co
+      <OPTION VALUE="json_files/cr_jaccard.json">
+      cr
+      <OPTION VALUE="json_files/cu_jaccard.json">
+      cu
+      <OPTION VALUE="json_files/cy_jaccard.json">
+      cy
+      <OPTION VALUE="json_files/da_jaccard.json">
+      da
+      <OPTION VALUE="json_files/de_jaccard.json">
+      de
+      <OPTION VALUE="json_files/di_jaccard.json">
+      di
+      <OPTION VALUE="json_files/do_jaccard.json">
+      do
+      <OPTION VALUE="json_files/dr_jaccard.json">
+      dr
+      <OPTION VALUE="json_files/du_jaccard.json">
+      du
+      <OPTION VALUE="json_files/dw_jaccard.json">
+      dw
+      <OPTION VALUE="json_files/dy_jaccard.json">
+      dy
+      <OPTION VALUE="json_files/ea_jaccard.json">
+      ea
+      <OPTION VALUE="json_files/eb_jaccard.json">
+      eb
+      <OPTION VALUE="json_files/ec_jaccard.json">
+      ec
+      <OPTION VALUE="json_files/ed_jaccard.json">
+      ed
+      <OPTION VALUE="json_files/ef_jaccard.json">
+      ef
+      <OPTION VALUE="json_files/eg_jaccard.json">
+      eg
+      <OPTION VALUE="json_files/ei_jaccard.json">
+      ei
+      <OPTION VALUE="json_files/ej_jaccard.json">
+      ej
+      <OPTION VALUE="json_files/el_jaccard.json">
+      el
+      <OPTION VALUE="json_files/em_jaccard.json">
+      em
+      <OPTION VALUE="json_files/en_jaccard.json">
+      en
+      <OPTION VALUE="json_files/ep_jaccard.json">
+      ep
+      <OPTION VALUE="json_files/eq_jaccard.json">
+      eq
+      <OPTION VALUE="json_files/er_jaccard.json">
+      er
+      <OPTION VALUE="json_files/es_jaccard.json">
+      es
+      <OPTION VALUE="json_files/et_jaccard.json">
+      et
+      <OPTION VALUE="json_files/eu_jaccard.json">
+      eu
+      <OPTION VALUE="json_files/ev_jaccard.json">
+      ev
+      <OPTION VALUE="json_files/ex_jaccard.json">
+      ex
+      <OPTION VALUE="json_files/ey_jaccard.json">
+      ey
+      <OPTION VALUE="json_files/fa_jaccard.json">
+      fa
+      <OPTION VALUE="json_files/fe_jaccard.json">
+      fe
+      <OPTION VALUE="json_files/fi_jaccard.json">
+      fi
+      <OPTION VALUE="json_files/fl_jaccard.json">
+      fl
+      <OPTION VALUE="json_files/fo_jaccard.json">
+      fo
+      <OPTION VALUE="json_files/fr_jaccard.json">
+      fr
+      <OPTION VALUE="json_files/fu_jaccard.json">
+      fu
+      <OPTION VALUE="json_files/ga_jaccard.json">
+      ga
+      <OPTION VALUE="json_files/ge_jaccard.json">
+      ge
+      <OPTION VALUE="json_files/gh_jaccard.json">
+      gh
+      <OPTION VALUE="json_files/gi_jaccard.json">
+      gi
+      <OPTION VALUE="json_files/gl_jaccard.json">
+      gl
+      <OPTION VALUE="json_files/gn_jaccard.json">
+      gn
+      <OPTION VALUE="json_files/go_jaccard.json">
+      go
+      <OPTION VALUE="json_files/gr_jaccard.json">
+      gr
+      <OPTION VALUE="json_files/gu_jaccard.json">
+      gu
+      <OPTION VALUE="json_files/gy_jaccard.json">
+      gy
+      <OPTION VALUE="json_files/ha_jaccard.json">
+      ha
+      <OPTION VALUE="json_files/he_jaccard.json">
+      he
+      <OPTION VALUE="json_files/hi_jaccard.json">
+      hi
+      <OPTION VALUE="json_files/ho_jaccard.json">
+      ho
+      <OPTION VALUE="json_files/hu_jaccard.json">
+      hu
+      <OPTION VALUE="json_files/hy_jaccard.json">
+      hy
+      <OPTION VALUE="json_files/ic_jaccard.json">
+      ic
+      <OPTION VALUE="json_files/id_jaccard.json">
+      id
+      <OPTION VALUE="json_files/ig_jaccard.json">
+      ig
+      <OPTION VALUE="json_files/il_jaccard.json">
+      il
+      <OPTION VALUE="json_files/im_jaccard.json">
+      im
+      <OPTION VALUE="json_files/in_jaccard.json">
+      in
+      <OPTION VALUE="json_files/io_jaccard.json">
+      io
+      <OPTION VALUE="json_files/ir_jaccard.json">
+      ir
+      <OPTION VALUE="json_files/is_jaccard.json">
+      is
+      <OPTION VALUE="json_files/it_jaccard.json">
+      it
+      <OPTION VALUE="json_files/iv_jaccard.json">
+      iv
+      <OPTION VALUE="json_files/ja_jaccard.json">
+      ja
+      <OPTION VALUE="json_files/je_jaccard.json">
+      je
+      <OPTION VALUE="json_files/ji_jaccard.json">
+      ji
+      <OPTION VALUE="json_files/jo_jaccard.json">
+      jo
+      <OPTION VALUE="json_files/ju_jaccard.json">
+      ju
+      <OPTION VALUE="json_files/ka_jaccard.json">
+      ka
+      <OPTION VALUE="json_files/ke_jaccard.json">
+      ke
+      <OPTION VALUE="json_files/ki_jaccard.json">
+      ki
+      <OPTION VALUE="json_files/kn_jaccard.json">
+      kn
+      <OPTION VALUE="json_files/ko_jaccard.json">
+      ko
+      <OPTION VALUE="json_files/la_jaccard.json">
+      la
+      <OPTION VALUE="json_files/le_jaccard.json">
+      le
+      <OPTION VALUE="json_files/li_jaccard.json">
+      li
+      <OPTION VALUE="json_files/lo_jaccard.json">
+      lo
+      <OPTION VALUE="json_files/lu_jaccard.json">
+      lu
+      <OPTION VALUE="json_files/ly_jaccard.json">
+      ly
+      <OPTION VALUE="json_files/ma_jaccard.json">
+      ma
+      <OPTION VALUE="json_files/me_jaccard.json">
+      me
+      <OPTION VALUE="json_files/mi_jaccard.json">
+      mi
+      <OPTION VALUE="json_files/mo_jaccard.json">
+      mo
+      <OPTION VALUE="json_files/mu_jaccard.json">
+      mu
+      <OPTION VALUE="json_files/my_jaccard.json">
+      my
+      <OPTION VALUE="json_files/na_jaccard.json">
+      na
+      <OPTION VALUE="json_files/ne_jaccard.json">
+      ne
+      <OPTION VALUE="json_files/ni_jaccard.json">
+      ni
+      <OPTION VALUE="json_files/no_jaccard.json">
+      no
+      <OPTION VALUE="json_files/nu_jaccard.json">
+      nu
+      <OPTION VALUE="json_files/ny_jaccard.json">
+      ny
+      <OPTION VALUE="json_files/oa_jaccard.json">
+      oa
+      <OPTION VALUE="json_files/ob_jaccard.json">
+      ob
+      <OPTION VALUE="json_files/oc_jaccard.json">
+      oc
+      <OPTION VALUE="json_files/od_jaccard.json">
+      od
+      <OPTION VALUE="json_files/of_jaccard.json">
+      of
+      <OPTION VALUE="json_files/oi_jaccard.json">
+      oi
+      <OPTION VALUE="json_files/ol_jaccard.json">
+      ol
+      <OPTION VALUE="json_files/om_jaccard.json">
+      om
+      <OPTION VALUE="json_files/on_jaccard.json">
+      on
+      <OPTION VALUE="json_files/op_jaccard.json">
+      op
+      <OPTION VALUE="json_files/or_jaccard.json">
+      or
+      <OPTION VALUE="json_files/os_jaccard.json">
+      os
+      <OPTION VALUE="json_files/ot_jaccard.json">
+      ot
+      <OPTION VALUE="json_files/ou_jaccard.json">
+      ou
+      <OPTION VALUE="json_files/ov_jaccard.json">
+      ov
+      <OPTION VALUE="json_files/ow_jaccard.json">
+      ow
+      <OPTION VALUE="json_files/ox_jaccard.json">
+      ox
+      <OPTION VALUE="json_files/pa_jaccard.json">
+      pa
+      <OPTION VALUE="json_files/pe_jaccard.json">
+      pe
+      <OPTION VALUE="json_files/ph_jaccard.json">
+      ph
+      <OPTION VALUE="json_files/pi_jaccard.json">
+      pi
+      <OPTION VALUE="json_files/pl_jaccard.json">
+      pl
+      <OPTION VALUE="json_files/pn_jaccard.json">
+      pn
+      <OPTION VALUE="json_files/po_jaccard.json">
+      po
+      <OPTION VALUE="json_files/pr_jaccard.json">
+      pr
+      <OPTION VALUE="json_files/ps_jaccard.json">
+      ps
+      <OPTION VALUE="json_files/pu_jaccard.json">
+      pu
+      <OPTION VALUE="json_files/py_jaccard.json">
+      py
+      <OPTION VALUE="json_files/qu_jaccard.json">
+      qu
+      <OPTION VALUE="json_files/ra_jaccard.json">
+      ra
+      <OPTION VALUE="json_files/re_jaccard.json">
+      re
+      <OPTION VALUE="json_files/rh_jaccard.json">
+      rh
+      <OPTION VALUE="json_files/ri_jaccard.json">
+      ri
+      <OPTION VALUE="json_files/ro_jaccard.json">
+      ro
+      <OPTION VALUE="json_files/ru_jaccard.json">
+      ru
+      <OPTION VALUE="json_files/sa_jaccard.json">
+      sa
+      <OPTION VALUE="json_files/sc_jaccard.json">
+      sc
+      <OPTION VALUE="json_files/se_jaccard.json">
+      se
+      <OPTION VALUE="json_files/sh_jaccard.json">
+      sh
+      <OPTION VALUE="json_files/si_jaccard.json">
+      si
+      <OPTION VALUE="json_files/sk_jaccard.json">
+      sk
+      <OPTION VALUE="json_files/sl_jaccard.json">
+      sl
+      <OPTION VALUE="json_files/sm_jaccard.json">
+      sm
+      <OPTION VALUE="json_files/sn_jaccard.json">
+      sn
+      <OPTION VALUE="json_files/so_jaccard.json">
+      so
+      <OPTION VALUE="json_files/sp_jaccard.json">
+      sp
+      <OPTION VALUE="json_files/sq_jaccard.json">
+      sq
+      <OPTION VALUE="json_files/st_jaccard.json">
+      st
+      <OPTION VALUE="json_files/su_jaccard.json">
+      su
+      <OPTION VALUE="json_files/sw_jaccard.json">
+      sw
+      <OPTION VALUE="json_files/sy_jaccard.json">
+      sy
+      <OPTION VALUE="json_files/ta_jaccard.json">
+      ta
+      <OPTION VALUE="json_files/te_jaccard.json">
+      te
+      <OPTION VALUE="json_files/th_jaccard.json">
+      th
+      <OPTION VALUE="json_files/ti_jaccard.json">
+      ti
+      <OPTION VALUE="json_files/to_jaccard.json">
+      to
+      <OPTION VALUE="json_files/tr_jaccard.json">
+      tr
+      <OPTION VALUE="json_files/tu_jaccard.json">
+      tu
+      <OPTION VALUE="json_files/tw_jaccard.json">
+      tw
+      <OPTION VALUE="json_files/ty_jaccard.json">
+      ty
+      <OPTION VALUE="json_files/ul_jaccard.json">
+      ul
+      <OPTION VALUE="json_files/um_jaccard.json">
+      um
+      <OPTION VALUE="json_files/un_jaccard.json">
+      un
+      <OPTION VALUE="json_files/up_jaccard.json">
+      up
+      <OPTION VALUE="json_files/ur_jaccard.json">
+      ur
+      <OPTION VALUE="json_files/us_jaccard.json">
+      us
+      <OPTION VALUE="json_files/ut_jaccard.json">
+      ut
+      <OPTION VALUE="json_files/va_jaccard.json">
+      va
+      <OPTION VALUE="json_files/ve_jaccard.json">
+      ve
+      <OPTION VALUE="json_files/vi_jaccard.json">
+      vi
+      <OPTION VALUE="json_files/vo_jaccard.json">
+      vo
+      <OPTION VALUE="json_files/vu_jaccard.json">
+      vu
+      <OPTION VALUE="json_files/wa_jaccard.json">
+      wa
+      <OPTION VALUE="json_files/we_jaccard.json">
+      we
+      <OPTION VALUE="json_files/wh_jaccard.json">
+      wh
+      <OPTION VALUE="json_files/wi_jaccard.json">
+      wi
+      <OPTION VALUE="json_files/wo_jaccard.json">
+      wo
+      <OPTION VALUE="json_files/wr_jaccard.json">
+      wr
+      <OPTION VALUE="json_files/ya_jaccard.json">
+      ya
+      <OPTION VALUE="json_files/ye_jaccard.json">
+      ye
+      <OPTION VALUE="json_files/yi_jaccard.json">
+      yi
+      <OPTION VALUE="json_files/yo_jaccard.json">
+      yo
+      <OPTION VALUE="json_files/yu_jaccard.json">
+      yu
+      <OPTION VALUE="json_files/za_jaccard.json">
+      za
+      <OPTION VALUE="json_files/ze_jaccard.json">
+      ze
+      <OPTION VALUE="json_files/zi_jaccard.json">
+      zi
+      <OPTION VALUE="json_files/zo_jaccard.json">
+      zo
+
+      </SELECT>
+      
+    </DIV>
+  </FORM>
+
+</body>
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+function createGraph()  {
+
+  var graphSource = document.getElementById("jsonSource").value;
+
+  var width = 1600,
+      height = 1600;
+
+  var color = d3.scale.category20();
+
+  var force = d3.layout.force()
+      .gravity(0.4)
+      .charge(-110)
+      .linkDistance(10)
+      // .linkStrength(10)
+      .size([width, height]);
+
+  var svg = d3.select("body").append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+  ///---------------------------------------
+
+  d3.json(graphSource, function(error, graph) {
+    if (error) throw error;
+
+    // //------------------------------------------
+    // //   curved edges
+    // //-------------------------------------------
+
+    var nodes = graph.nodes.slice(),
+        links = [],
+        bilinks = [];
+
+    graph.links.forEach(function(link) {
+      var s = nodes[link.source],
+          t = nodes[link.target],
+          i = {}; // intermediate node
+      nodes.push(i);
+      links.push({source: s, target: i}, {source: i, target: t});
+      bilinks.push([s, i, t]);
+    });
+
+    force
+        .nodes(nodes)
+        .links(links)
+        .start();
+
+    var link = svg.selectAll(".link")
+        .data(bilinks)
+      .enter().append("path")
+        .attr("class", "link")
+        .style("stroke-width", function(d) { return d.weight; });
+
+    // Create the groups under svg
+    var gnodes = svg.selectAll('g.gnode')
+      .data(graph.nodes)
+      .enter()
+      .append('g')
+      .classed('gnode', true);
+
+    //Add one circle in each group
+    var node = gnodes.append("circle")
+      .attr("class", "node")
+      .attr("r", function(d) { return (Math.log(d.degree) * 5) + 5; })
+      .style("fill", function(d) { return color(d.group); })
+      .call(force.drag);
+
+    //Append the labels to each group
+    var labels = gnodes.append("text")
+      .text(function(d) { return d.id; });
+
+    node.append("title")
+        .text(function(d) { return d.id; });
+
+    force.on("tick", function() {
+      link.attr("d", function(d) {
+        return "M" + d[0].x + "," + d[0].y
+            + "S" + d[1].x + "," + d[1].y
+            + " " + d[2].x + "," + d[2].y;
+      });
+      gnodes.attr("transform", function(d) {
+        return "translate(" + d.x + "," + d.y + ")";
+      });
+    });
+
+  });
+}
+</script>
+</html>

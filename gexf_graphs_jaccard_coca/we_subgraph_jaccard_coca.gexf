@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="wedge" label="wedge">
+        <attvalues>
+          <attvalue for="0" value="3.44341946178" />
+        </attvalues>
+      </node>
+      <node id="weft" label="weft">
+        <attvalues>
+          <attvalue for="0" value="2.19312459835" />
+        </attvalues>
+      </node>
+      <node id="wearisome" label="wearisome">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="weight" label="weight" />
+      <node id="westerly" label="westerly" />
+      <node id="weightless" label="weightless" />
+      <node id="wealthy" label="wealthy" />
+      <node id="wearying" label="wearying">
+        <attvalues>
+          <attvalue for="0" value="1.93449845124" />
+        </attvalues>
+      </node>
+      <node id="westward" label="westward">
+        <attvalues>
+          <attvalue for="0" value="3.06669855042" />
+        </attvalues>
+      </node>
+      <node id="weatherproof" label="weatherproof">
+        <attvalues>
+          <attvalue for="0" value="2.10720996965" />
+        </attvalues>
+      </node>
+      <node id="weather" label="weather">
+        <attvalues>
+          <attvalue for="0" value="4.41979058611" />
+        </attvalues>
+      </node>
+      <node id="weasel" label="weasel">
+        <attvalues>
+          <attvalue for="0" value="2.8790958795" />
+        </attvalues>
+      </node>
+      <node id="wench" label="wench">
+        <attvalues>
+          <attvalue for="0" value="2.20951501454" />
+        </attvalues>
+      </node>
+      <node id="welfare" label="welfare">
+        <attvalues>
+          <attvalue for="0" value="4.30200606059" />
+        </attvalues>
+      </node>
+      <node id="weazened" label="weazened">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="wedded" label="wedded" />
+      <node id="wellspring" label="wellspring" />
+      <node id="welterweight" label="welterweight" />
+      <node id="weaken" label="weaken">
+        <attvalues>
+          <attvalue for="0" value="3.29114676173" />
+        </attvalues>
+      </node>
+      <node id="web" label="web">
+        <attvalues>
+          <attvalue for="0" value="4.56031321185" />
+        </attvalues>
+      </node>
+      <node id="weep" label="weep">
+        <attvalues>
+          <attvalue for="0" value="3.14891099311" />
+        </attvalues>
+      </node>
+      <node id="weaving" label="weaving">
+        <attvalues>
+          <attvalue for="0" value="3.36078268987" />
+        </attvalues>
+      </node>
+      <node id="wealth" label="wealth" />
+      <node id="wedlock" label="wedlock">
+        <attvalues>
+          <attvalue for="0" value="2.7259116323" />
+        </attvalues>
+      </node>
+      <node id="wed" label="wed" />
+      <node id="west" label="west" />
+      <node id="weariness" label="weariness" />
+      <node id="welter" label="welter">
+        <attvalues>
+          <attvalue for="0" value="2.40823996531" />
+        </attvalues>
+      </node>
+      <node id="wen" label="wen">
+        <attvalues>
+          <attvalue for="0" value="2.88930170251" />
+        </attvalues>
+      </node>
+      <node id="weakhearted" label="weakhearted">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="welsher" label="welsher">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="weeping" label="weeping" />
+      <node id="wet" label="wet">
+        <attvalues>
+          <attvalue for="0" value="4.2281436076" />
+        </attvalues>
+      </node>
+      <node id="wean" label="wean" />
+      <node id="weekly" label="weekly">
+        <attvalues>
+          <attvalue for="0" value="4.06344595312" />
+        </attvalues>
+      </node>
+      <node id="week" label="week" />
+      <node id="welcome" label="welcome" />
+      <node id="weakening" label="weakening" />
+      <node id="weepy" label="weepy">
+        <attvalues>
+          <attvalue for="0" value="2.34044411484" />
+        </attvalues>
+      </node>
+      <node id="welsh" label="welsh" />
+      <node id="weakness" label="weakness" />
+      <node id="weal" label="weal" />
+      <node id="weak" label="weak">
+        <attvalues>
+          <attvalue for="0" value="4.18161495173" />
+        </attvalues>
+      </node>
+      <node id="weir" label="weir" />
+      <node id="weed" label="weed" />
+      <node id="weirdo" label="weirdo" />
+      <node id="wear" label="wear">
+        <attvalues>
+          <attvalue for="0" value="4.42127479121" />
+        </attvalues>
+      </node>
+      <node id="wedding" label="wedding">
+        <attvalues>
+          <attvalue for="0" value="4.21553181849" />
+        </attvalues>
+      </node>
+      <node id="western" label="western">
+        <attvalues>
+          <attvalue for="0" value="4.65995421105" />
+        </attvalues>
+      </node>
+      <node id="weary" label="weary" />
+      <node id="weedy" label="weedy" />
+      <node id="weave" label="weave">
+        <attvalues>
+          <attvalue for="0" value="3.27531135454" />
+        </attvalues>
+      </node>
+      <node id="weevily" label="weevily">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="weazen" label="weazen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="weakly" label="weakly">
+        <attvalues>
+          <attvalue for="0" value="3.08278537032" />
+        </attvalues>
+      </node>
+      <node id="weld" label="weld" />
+      <node id="weakened" label="weakened" />
+      <node id="weald" label="weald">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="werewolf" label="werewolf">
+        <attvalues>
+          <attvalue for="0" value="2.64933485871" />
+        </attvalues>
+      </node>
+      <node id="well" label="well">
+        <attvalues>
+          <attvalue for="0" value="5.73284069224" />
+        </attvalues>
+      </node>
+      <node id="wedged" label="wedged" />
+      <node id="weatherboard" label="weatherboard" />
+      <node id="welt" label="welt" />
+      <node id="welcoming" label="welcoming" />
+      <node id="weigh" label="weigh">
+        <attvalues>
+          <attvalue for="0" value="3.69548167649" />
+        </attvalues>
+      </node>
+      <node id="weird" label="weird" />
+      <node id="weakling" label="weakling" />
+      <node id="weighty" label="weighty" />
+      <node id="weathercock" label="weathercock">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="wedge" target="web" weight="0.004878" />
+      <edge id="1" source="wedge" target="weirdo" weight="0.009901" />
+      <edge id="2" source="wedge" target="weld" weight="0.076023" />
+      <edge id="3" source="wedge" target="weight" weight="0.007463" />
+      <edge id="4" source="wedge" target="wedlock" weight="0.011236" />
+      <edge id="5" source="wedge" target="wed" weight="0.008333" />
+      <edge id="6" source="wedge" target="weak" weight="0.002381" />
+      <edge id="7" source="wedge" target="well" weight="0.010582" />
+      <edge id="8" source="wedge" target="weir" weight="0.014493" />
+      <edge id="9" source="wedge" target="wedged" weight="0.01" />
+      <edge id="10" source="wedge" target="weed" weight="0.017964" />
+      <edge id="11" source="wedge" target="weatherboard" weight="0.008197" />
+      <edge id="12" source="wedge" target="welt" weight="0.009479" />
+      <edge id="13" source="wedge" target="wear" weight="0.003953" />
+      <edge id="14" source="wedge" target="wet" weight="0.004651" />
+      <edge id="15" source="wedge" target="weigh" weight="0.006098" />
+      <edge id="16" source="wedge" target="weep" weight="0.005682" />
+      <edge id="17" source="wedge" target="wellspring" weight="0.01" />
+      <edge id="18" source="wedge" target="weighty" weight="0.003788" />
+      <edge id="19" source="weft" target="web" weight="0.358779" />
+      <edge id="20" source="weft" target="weaving" weight="0.607143" />
+      <edge id="21" source="weft" target="wealth" weight="0.007194" />
+      <edge id="22" source="weft" target="weight" weight="0.004149" />
+      <edge id="23" source="weft" target="weakness" weight="0.004525" />
+      <edge id="24" source="weft" target="weal" weight="0.009524" />
+      <edge id="25" source="weft" target="wen" weight="0.008696" />
+      <edge id="26" source="weft" target="weather" weight="0.013699" />
+      <edge id="27" source="weft" target="welt" weight="0.005435" />
+      <edge id="28" source="weft" target="wear" weight="0.013453" />
+      <edge id="29" source="weft" target="weave" weight="0.364341" />
+      <edge id="30" source="weft" target="weighty" weight="0.004237" />
+      <edge id="31" source="weft" target="weekly" weight="0.011111" />
+      <edge id="32" source="wearisome" target="weeping" weight="0.008403" />
+      <edge id="33" source="wearisome" target="weld" weight="0.00578" />
+      <edge id="34" source="wearisome" target="wealth" weight="0.006369" />
+      <edge id="35" source="wearisome" target="weakened" weight="0.006098" />
+      <edge id="36" source="wearisome" target="weak" weight="0.009828" />
+      <edge id="37" source="wearisome" target="wearying" weight="0.243243" />
+      <edge id="38" source="wearisome" target="weary" weight="0.094675" />
+      <edge id="39" source="wearisome" target="wear" weight="0.004115" />
+      <edge id="40" source="wearisome" target="weakening" weight="0.04065" />
+      <edge id="41" source="wearisome" target="weep" weight="0.006024" />
+      <edge id="42" source="wearisome" target="weedy" weight="0.010526" />
+      <edge id="43" source="wearisome" target="weighty" weight="0.045082" />
+      <edge id="44" source="wearisome" target="weaken" weight="0.004854" />
+      <edge id="45" source="weight" target="weevily" weight="0.004292" />
+      <edge id="46" source="weight" target="web" weight="0.006369" />
+      <edge id="47" source="weight" target="welter" weight="0.008197" />
+      <edge id="48" source="weight" target="wear" weight="0.011111" />
+      <edge id="49" source="weight" target="wet" weight="0.009288" />
+      <edge id="50" source="weight" target="welfare" weight="0.004115" />
+      <edge id="51" source="weight" target="weigh" weight="0.049618" />
+      <edge id="52" source="weight" target="weaken" weight="0.003067" />
+      <edge id="53" source="weight" target="weave" weight="0.009646" />
+      <edge id="54" source="westerly" target="welsher" weight="0.032258" />
+      <edge id="55" source="westerly" target="western" weight="0.791667" />
+      <edge id="56" source="westerly" target="westward" weight="0.296296" />
+      <edge id="57" source="weightless" target="weakly" weight="0.010638" />
+      <edge id="58" source="weightless" target="weak" weight="0.019608" />
+      <edge id="59" source="wealthy" target="weak" weight="0.005115" />
+      <edge id="60" source="wealthy" target="weep" weight="0.006757" />
+      <edge id="61" source="wealthy" target="well" weight="0.006173" />
+      <edge id="62" source="wealthy" target="welfare" weight="0.009524" />
+      <edge id="63" source="wearying" target="wealth" weight="0.009174" />
+      <edge id="64" source="wearying" target="weak" weight="0.002762" />
+      <edge id="65" source="wearying" target="weeping" weight="0.014085" />
+      <edge id="66" source="wearying" target="weary" weight="0.014815" />
+      <edge id="67" source="wearying" target="wear" weight="0.005128" />
+      <edge id="68" source="wearying" target="weakening" weight="0.066667" />
+      <edge id="69" source="wearying" target="weep" weight="0.008475" />
+      <edge id="70" source="wearying" target="weedy" weight="0.021277" />
+      <edge id="71" source="wearying" target="weighty" weight="0.035" />
+      <edge id="72" source="westward" target="west" weight="0.423077" />
+      <edge id="73" source="westward" target="western" weight="0.333333" />
+      <edge id="74" source="weatherproof" target="wedged" weight="0.027778" />
+      <edge id="75" source="weather" target="web" weight="0.006803" />
+      <edge id="76" source="weather" target="weaving" weight="0.016949" />
+      <edge id="77" source="weather" target="weary" weight="0.014815" />
+      <edge id="78" source="weather" target="weed" weight="0.018182" />
+      <edge id="79" source="weather" target="weatherboard" weight="0.015625" />
+      <edge id="80" source="weather" target="wear" weight="0.037037" />
+      <edge id="81" source="weather" target="weaken" weight="0.012739" />
+      <edge id="82" source="weather" target="weave" weight="0.006897" />
+      <edge id="83" source="weasel" target="weazen" weight="0.011905" />
+      <edge id="84" source="weasel" target="welsh" weight="0.030769" />
+      <edge id="85" source="weasel" target="welter" weight="0.009434" />
+      <edge id="86" source="weasel" target="weak" weight="0.002558" />
+      <edge id="87" source="weasel" target="wear" weight="0.008969" />
+      <edge id="88" source="weasel" target="weaken" weight="0.010753" />
+      <edge id="89" source="wench" target="weakling" weight="0.011905" />
+      <edge id="90" source="wench" target="weary" weight="0.00578" />
+      <edge id="91" source="wench" target="weak" weight="0.005025" />
+      <edge id="92" source="wench" target="wear" weight="0.00431" />
+      <edge id="93" source="wench" target="weaken" weight="0.005128" />
+      <edge id="94" source="welfare" target="weal" weight="0.125" />
+      <edge id="95" source="welfare" target="welcoming" weight="0.013699" />
+      <edge id="96" source="welfare" target="wealth" weight="0.11811" />
+      <edge id="97" source="welfare" target="welcome" weight="0.031008" />
+      <edge id="98" source="welfare" target="well" weight="0.006098" />
+      <edge id="99" source="welfare" target="wen" weight="0.008547" />
+      <edge id="100" source="welfare" target="welt" weight="0.005376" />
+      <edge id="101" source="welfare" target="weighty" weight="0.004202" />
+      <edge id="102" source="welfare" target="weaken" weight="0.005263" />
+      <edge id="103" source="weazened" target="weazen" weight="0.037736" />
+      <edge id="104" source="weazened" target="weld" weight="0.008065" />
+      <edge id="105" source="weazened" target="weakened" weight="0.045045" />
+      <edge id="106" source="weazened" target="weak" weight="0.014006" />
+      <edge id="107" source="weazened" target="weed" weight="0.009091" />
+      <edge id="108" source="weazened" target="weaken" weight="0.006369" />
+      <edge id="109" source="wedded" target="weigh" weight="0.007692" />
+      <edge id="110" source="wellspring" target="well" weight="0.178571" />
+      <edge id="111" source="welterweight" target="weak" weight="0.005666" />
+      <edge id="112" source="weaken" target="weariness" weight="0.005882" />
+      <edge id="113" source="weaken" target="wealth" weight="0.004464" />
+      <edge id="114" source="weaken" target="weakened" weight="0.022026" />
+      <edge id="115" source="weaken" target="welter" weight="0.005208" />
+      <edge id="116" source="weaken" target="weakening" weight="0.031746" />
+      <edge id="117" source="weaken" target="wet" weight="0.01487" />
+      <edge id="118" source="weaken" target="weakness" weight="0.006557" />
+      <edge id="119" source="weaken" target="weal" weight="0.005263" />
+      <edge id="120" source="weaken" target="weak" weight="0.012712" />
+      <edge id="121" source="weaken" target="weir" weight="0.005102" />
+      <edge id="122" source="weaken" target="weed" weight="0.041284" />
+      <edge id="123" source="weaken" target="wear" weight="0.114695" />
+      <edge id="124" source="weaken" target="weep" weight="0.012987" />
+      <edge id="125" source="weaken" target="weazen" weight="0.042683" />
+      <edge id="126" source="weaken" target="weakly" weight="0.014563" />
+      <edge id="127" source="weaken" target="weld" weight="0.004167" />
+      <edge id="128" source="weaken" target="well" weight="0.00813" />
+      <edge id="129" source="weaken" target="weary" weight="0.105263" />
+      <edge id="130" source="weaken" target="weatherboard" weight="0.005587" />
+      <edge id="131" source="weaken" target="weird" weight="0.004425" />
+      <edge id="132" source="weaken" target="weakling" weight="0.006173" />
+      <edge id="133" source="weaken" target="weathercock" weight="0.006579" />
+      <edge id="134" source="web" target="weld" weight="0.017699" />
+      <edge id="135" source="web" target="wedlock" weight="0.007407" />
+      <edge id="136" source="web" target="wed" weight="0.006024" />
+      <edge id="137" source="web" target="weak" weight="0.004301" />
+      <edge id="138" source="web" target="weal" weight="0.005587" />
+      <edge id="139" source="web" target="wealth" weight="0.004695" />
+      <edge id="140" source="web" target="wen" weight="0.005291" />
+      <edge id="141" source="web" target="weakness" weight="0.00339" />
+      <edge id="142" source="web" target="welt" weight="0.011719" />
+      <edge id="143" source="web" target="wear" weight="0.013514" />
+      <edge id="144" source="web" target="wedding" weight="0.005682" />
+      <edge id="145" source="web" target="weaving" weight="0.291339" />
+      <edge id="146" source="web" target="weave" weight="0.70068" />
+      <edge id="147" source="web" target="weighty" weight="0.003226" />
+      <edge id="148" source="web" target="weekly" weight="0.006098" />
+      <edge id="149" source="weep" target="welcome" weight="0.011494" />
+      <edge id="150" source="weep" target="wealth" weight="0.016484" />
+      <edge id="151" source="weep" target="weepy" weight="0.009174" />
+      <edge id="152" source="weep" target="weakness" weight="0.007547" />
+      <edge id="153" source="weep" target="welter" weight="0.006579" />
+      <edge id="154" source="weep" target="well" weight="0.019608" />
+      <edge id="155" source="weep" target="weed" weight="0.005376" />
+      <edge id="156" source="weep" target="welt" weight="0.008772" />
+      <edge id="157" source="weep" target="wear" weight="0.014981" />
+      <edge id="158" source="weep" target="weariness" weight="0.007692" />
+      <edge id="159" source="weep" target="wet" weight="0.035556" />
+      <edge id="160" source="weep" target="weary" weight="0.009524" />
+      <edge id="161" source="weep" target="weigh" weight="0.005525" />
+      <edge id="162" source="weep" target="weave" weight="0.004545" />
+      <edge id="163" source="weep" target="weeping" weight="0.065217" />
+      <edge id="164" source="weep" target="weathercock" weight="0.008929" />
+      <edge id="165" source="weaving" target="wealth" weight="0.008" />
+      <edge id="166" source="weaving" target="wear" weight="0.009524" />
+      <edge id="167" source="weaving" target="weave" weight="0.296" />
+      <edge id="168" source="wealth" target="wet" weight="0.004484" />
+      <edge id="169" source="wealth" target="well" weight="0.020513" />
+      <edge id="170" source="wealth" target="wen" weight="0.006623" />
+      <edge id="171" source="wealth" target="weave" weight="0.004739" />
+      <edge id="172" source="wedlock" target="weld" weight="0.00885" />
+      <edge id="173" source="wedlock" target="wed" weight="0.02" />
+      <edge id="174" source="wedlock" target="wedding" weight="0.051724" />
+      <edge id="175" source="wedlock" target="weigh" weight="0.010638" />
+      <edge id="176" source="wed" target="wedding" weight="0.022222" />
+      <edge id="177" source="wed" target="weigh" weight="0.032787" />
+      <edge id="178" source="wed" target="weave" weight="0.006098" />
+      <edge id="179" source="west" target="western" weight="0.730769" />
+      <edge id="180" source="weariness" target="wear" weight="0.004831" />
+      <edge id="181" source="welter" target="weazen" weight="0.034483" />
+      <edge id="182" source="welter" target="weary" weight="0.005882" />
+      <edge id="183" source="welter" target="weed" weight="0.006897" />
+      <edge id="184" source="welter" target="welt" weight="0.016129" />
+      <edge id="185" source="welter" target="wear" weight="0.013216" />
+      <edge id="186" source="welter" target="weave" weight="0.022727" />
+      <edge id="187" source="wen" target="weld" weight="0.012048" />
+      <edge id="188" source="wen" target="weakened" weight="0.006329" />
+      <edge id="189" source="wen" target="weakness" weight="0.035398" />
+      <edge id="190" source="wen" target="weal" weight="0.475" />
+      <edge id="191" source="wen" target="well" weight="0.011561" />
+      <edge id="192" source="wen" target="weir" weight="0.00813" />
+      <edge id="193" source="wen" target="weed" weight="0.006536" />
+      <edge id="194" source="wen" target="welt" weight="0.304636" />
+      <edge id="195" source="wen" target="wear" weight="0.004219" />
+      <edge id="196" source="wen" target="weave" weight="0.021739" />
+      <edge id="197" source="weakhearted" target="weakling" weight="0.043478" />
+      <edge id="198" source="weakhearted" target="weakly" weight="0.044444" />
+      <edge id="199" source="weakhearted" target="weak" weight="0.061404" />
+      <edge id="200" source="weakhearted" target="weakened" weight="0.008621" />
+      <edge id="201" source="weakhearted" target="weary" weight="0.007353" />
+      <edge id="202" source="welsher" target="welsh" weight="0.136364" />
+      <edge id="203" source="weeping" target="weepy" weight="0.145455" />
+      <edge id="204" source="weeping" target="wet" weight="0.039106" />
+      <edge id="205" source="wet" target="weazen" weight="0.005917" />
+      <edge id="206" source="wet" target="weakly" weight="0.004831" />
+      <edge id="207" source="wet" target="weak" weight="0.004211" />
+      <edge id="208" source="wet" target="well" weight="0.004065" />
+      <edge id="209" source="wet" target="weary" weight="0.004" />
+      <edge id="210" source="wet" target="welt" weight="0.007491" />
+      <edge id="211" source="wet" target="wear" weight="0.006494" />
+      <edge id="212" source="wet" target="weird" weight="0.013453" />
+      <edge id="213" source="wet" target="weakling" weight="0.006211" />
+      <edge id="214" source="wet" target="weathercock" weight="0.006623" />
+      <edge id="215" source="wean" target="weazen" weight="0.025" />
+      <edge id="216" source="weekly" target="weatherboard" weight="0.012346" />
+      <edge id="217" source="weekly" target="weave" weight="0.006173" />
+      <edge id="218" source="weekly" target="weed" weight="0.02381" />
+      <edge id="219" source="week" target="weazen" weight="0.018519" />
+      <edge id="220" source="week" target="weathercock" weight="0.027778" />
+      <edge id="221" source="welcome" target="well" weight="0.010638" />
+      <edge id="222" source="welcome" target="wedding" weight="0.007752" />
+      <edge id="223" source="welcome" target="weak" weight="0.002387" />
+      <edge id="224" source="welcome" target="wear" weight="0.003968" />
+      <edge id="225" source="weakening" target="weak" weight="0.002513" />
+      <edge id="226" source="weakening" target="wear" weight="0.0131" />
+      <edge id="227" source="weepy" target="weak" weight="0.002833" />
+      <edge id="228" source="welsh" target="weakly" weight="0.011494" />
+      <edge id="229" source="welsh" target="weak" weight="0.002809" />
+      <edge id="230" source="weakness" target="weakly" weight="0.004149" />
+      <edge id="231" source="weakness" target="weak" weight="0.001961" />
+      <edge id="232" source="weakness" target="well" weight="0.003571" />
+      <edge id="233" source="weakness" target="wear" weight="0.011765" />
+      <edge id="234" source="weakness" target="weave" weight="0.003413" />
+      <edge id="235" source="weal" target="well" weight="0.01227" />
+      <edge id="236" source="weal" target="wear" weight="0.004405" />
+      <edge id="237" source="weal" target="weave" weight="0.022989" />
+      <edge id="238" source="weak" target="weakened" weight="0.073892" />
+      <edge id="239" source="weak" target="weald" weight="0.002674" />
+      <edge id="240" source="weak" target="weed" weight="0.004662" />
+      <edge id="241" source="weak" target="wear" weight="0.001946" />
+      <edge id="242" source="weak" target="weary" weight="0.070423" />
+      <edge id="243" source="weak" target="weedy" weight="0.005479" />
+      <edge id="244" source="weak" target="weave" weight="0.002155" />
+      <edge id="245" source="weak" target="weevily" weight="0.002604" />
+      <edge id="246" source="weak" target="weazen" weight="0.002674" />
+      <edge id="247" source="weak" target="weakly" weight="0.131507" />
+      <edge id="248" source="weak" target="welcoming" weight="0.005571" />
+      <edge id="249" source="weak" target="well" weight="0.002217" />
+      <edge id="250" source="weak" target="wedged" weight="0.00277" />
+      <edge id="251" source="weak" target="weird" weight="0.018913" />
+      <edge id="252" source="weak" target="weakling" weight="0.013812" />
+      <edge id="253" source="weak" target="weighty" weight="0.005736" />
+      <edge id="254" source="weir" target="well" weight="0.023952" />
+      <edge id="255" source="weir" target="wear" weight="0.004292" />
+      <edge id="256" source="weed" target="weazen" weight="0.016393" />
+      <edge id="257" source="weed" target="well" weight="0.01005" />
+      <edge id="258" source="weed" target="wear" weight="0.03937" />
+      <edge id="259" source="wear" target="weakened" weight="0.003731" />
+      <edge id="260" source="wear" target="weave" weight="0.013605" />
+      <edge id="261" source="wear" target="weazen" weight="0.019608" />
+      <edge id="262" source="wear" target="weld" weight="0.00361" />
+      <edge id="263" source="wear" target="well" weight="0.010638" />
+      <edge id="264" source="wear" target="weary" weight="0.082397" />
+      <edge id="265" source="wear" target="weatherboard" weight="0.00463" />
+      <edge id="266" source="wear" target="welt" weight="0.013201" />
+      <edge id="267" source="wear" target="weird" weight="0.003802" />
+      <edge id="268" source="wear" target="weighty" weight="0.002793" />
+      <edge id="269" source="wedding" target="weld" weight="0.013072" />
+      <edge id="270" source="wedding" target="weave" weight="0.005747" />
+      <edge id="271" source="weary" target="weakly" weight="0.074713" />
+      <edge id="272" source="weary" target="well" weight="0.004444" />
+      <edge id="273" source="weedy" target="weevily" weight="0.014493" />
+      <edge id="274" source="weave" target="weld" weight="0.00885" />
+      <edge id="275" source="weave" target="well" weight="0.004274" />
+      <edge id="276" source="weave" target="welt" weight="0.023904" />
+      <edge id="277" source="weave" target="weighty" weight="0.003247" />
+      <edge id="278" source="weazen" target="weld" weight="0.029851" />
+      <edge id="279" source="weazen" target="well" weight="0.006944" />
+      <edge id="280" source="weakly" target="weakened" weight="0.167832" />
+      <edge id="281" source="weakly" target="weird" weight="0.006211" />
+      <edge id="282" source="weakly" target="weakling" weight="0.031579" />
+      <edge id="283" source="weakly" target="well" weight="0.005495" />
+      <edge id="284" source="weld" target="weigh" weight="0.005319" />
+      <edge id="285" source="weald" target="weatherboard" weight="0.013158" />
+      <edge id="286" source="werewolf" target="weighty" weight="0.004854" />
+      <edge id="287" source="well" target="welt" weight="0.008264" />
+      <edge id="288" source="well" target="weigh" weight="0.005128" />
+      <edge id="289" source="well" target="weighty" weight="0.010239" />
+      <edge id="290" source="well" target="weathercock" weight="0.007937" />
+      <edge id="291" source="weatherboard" target="weigh" weight="0.007874" />
+      <edge id="292" source="weigh" target="weighty" weight="0.003717" />
+      <edge id="293" source="weigh" target="weathercock" weight="0.020202" />
+      <edge id="294" source="weighty" target="weathercock" weight="0.005" />
+    </edges>
+  </graph>
+</gexf>

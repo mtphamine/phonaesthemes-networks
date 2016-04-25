@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="shot" label="shot" />
+      <node id="shield" label="shield" />
+      <node id="show" label="show" />
+      <node id="shivering" label="shivering" />
+      <node id="sheltering" label="sheltering" />
+      <node id="shape" label="shape" />
+      <node id="shake" label="shake" />
+      <node id="shamble" label="shamble" />
+      <node id="shellfish" label="shellfish" />
+      <node id="shuffling" label="shuffling" />
+      <node id="shrinkage" label="shrinkage" />
+      <node id="shimmer" label="shimmer" />
+      <node id="shudder" label="shudder" />
+      <node id="shack" label="shack" />
+      <node id="shout" label="shout" />
+      <node id="shuddering" label="shuddering" />
+      <node id="shrunken" label="shrunken" />
+      <node id="shrill" label="shrill" />
+      <node id="shellac" label="shellac" />
+      <node id="shear" label="shear" />
+      <node id="shaving" label="shaving" />
+      <node id="shapeless" label="shapeless" />
+      <node id="shaky" label="shaky" />
+      <node id="shielding" label="shielding" />
+      <node id="shyster" label="shyster" />
+      <node id="showing" label="showing" />
+      <node id="shatter" label="shatter" />
+      <node id="shameful" label="shameful" />
+      <node id="shading" label="shading" />
+      <node id="shadow" label="shadow" />
+      <node id="sheared" label="sheared" />
+      <node id="shoulder" label="shoulder" />
+      <node id="shy" label="shy" />
+      <node id="shadowy" label="shadowy" />
+      <node id="shock" label="shock" />
+      <node id="sharpshooter" label="sharpshooter" />
+      <node id="shortage" label="shortage" />
+      <node id="shirt" label="shirt" />
+      <node id="shortchange" label="shortchange" />
+      <node id="shocking" label="shocking" />
+      <node id="shaking" label="shaking" />
+      <node id="shave" label="shave" />
+      <node id="shed" label="shed" />
+      <node id="sheathed" label="sheathed" />
+      <node id="shabby" label="shabby" />
+      <node id="shrouded" label="shrouded" />
+      <node id="shortcoming" label="shortcoming" />
+      <node id="shining" label="shining" />
+      <node id="shivery" label="shivery" />
+      <node id="shamefaced" label="shamefaced" />
+      <node id="shadowing" label="shadowing" />
+      <node id="shaved" label="shaved" />
+      <node id="shipment" label="shipment" />
+      <node id="shrivel" label="shrivel" />
+      <node id="shakes" label="shakes" />
+      <node id="shogun" label="shogun" />
+      <node id="shriveled" label="shriveled" />
+      <node id="shifting" label="shifting" />
+      <node id="sheltered" label="sheltered" />
+      <node id="shun" label="shun" />
+      <node id="shriek" label="shriek" />
+      <node id="shuck" label="shuck" />
+      <node id="shaken" label="shaken" />
+      <node id="shine" label="shine" />
+      <node id="shrubbery" label="shrubbery" />
+      <node id="shove" label="shove" />
+      <node id="shingle" label="shingle" />
+      <node id="shellfire" label="shellfire" />
+      <node id="shipping" label="shipping" />
+      <node id="shrimp" label="shrimp" />
+      <node id="sheikh" label="sheikh" />
+      <node id="shred" label="shred" />
+      <node id="shrewdness" label="shrewdness" />
+      <node id="sheeting" label="sheeting" />
+      <node id="shiny" label="shiny" />
+      <node id="sheathe" label="sheathe" />
+      <node id="shovel" label="shovel" />
+      <node id="shuffle" label="shuffle" />
+      <node id="shoving" label="shoving" />
+      <node id="sharpness" label="sharpness" />
+      <node id="shoal" label="shoal" />
+      <node id="shrinking" label="shrinking" />
+      <node id="sheer" label="sheer" />
+      <node id="sheet" label="sheet" />
+      <node id="sharper" label="sharper" />
+      <node id="shiver" label="shiver" />
+      <node id="sheen" label="sheen" />
+      <node id="shell" label="shell" />
+      <node id="shipwreck" label="shipwreck" />
+      <node id="shank" label="shank" />
+      <node id="shelf" label="shelf" />
+      <node id="shallow" label="shallow" />
+      <node id="shrewd" label="shrewd" />
+      <node id="shyness" label="shyness" />
+      <node id="shroud" label="shroud" />
+      <node id="shortfall" label="shortfall" />
+      <node id="shameless" label="shameless" />
+      <node id="shoot" label="shoot" />
+      <node id="shaft" label="shaft" />
+      <node id="shrapnel" label="shrapnel" />
+      <node id="shielded" label="shielded" />
+      <node id="shanty" label="shanty" />
+      <node id="shampoo" label="shampoo" />
+      <node id="shindig" label="shindig" />
+      <node id="shower" label="shower" />
+      <node id="shift" label="shift" />
+      <node id="shook" label="shook" />
+      <node id="shortened" label="shortened" />
+      <node id="shark" label="shark" />
+      <node id="shoddy" label="shoddy" />
+      <node id="shin" label="shin" />
+      <node id="shepherd" label="shepherd" />
+      <node id="shimmering" label="shimmering" />
+      <node id="shard" label="shard" />
+      <node id="sheepish" label="sheepish" />
+      <node id="sheath" label="sheath" />
+      <node id="sharp" label="sharp" />
+      <node id="shooting" label="shooting" />
+      <node id="shuffled" label="shuffled" />
+      <node id="shorten" label="shorten" />
+      <node id="shocked" label="shocked" />
+      <node id="shorter" label="shorter" />
+      <node id="shrine" label="shrine" />
+      <node id="shag" label="shag" />
+      <node id="shuttle" label="shuttle" />
+      <node id="shah" label="shah" />
+      <node id="shifty" label="shifty" />
+      <node id="shrink" label="shrink" />
+      <node id="sham" label="sham" />
+      <node id="shelter" label="shelter" />
+      <node id="shindy" label="shindy" />
+      <node id="shamed" label="shamed" />
+      <node id="shrub" label="shrub" />
+      <node id="short" label="short" />
+      <node id="shunt" label="shunt" />
+      <node id="shady" label="shady" />
+      <node id="shore" label="shore" />
+      <node id="shade" label="shade" />
+      <node id="sheathing" label="sheathing" />
+      <node id="shorn" label="shorn" />
+      <node id="shrieking" label="shrieking" />
+    </nodes>
+    <edges>
+      <edge id="0" source="shot" target="shoot" />
+      <edge id="1" source="shot" target="shell" />
+      <edge id="2" source="shot" target="shrapnel" />
+      <edge id="3" source="shot" target="show" />
+      <edge id="4" source="shot" target="sharpshooter" />
+      <edge id="5" source="shot" target="shaken" />
+      <edge id="6" source="shield" target="shelter" />
+      <edge id="7" source="shield" target="shroud" />
+      <edge id="8" source="shield" target="shell" />
+      <edge id="9" source="show" target="shine" />
+      <edge id="10" source="show" target="shepherd" />
+      <edge id="11" source="show" target="showing" />
+      <edge id="12" source="show" target="sham" />
+      <edge id="13" source="shivering" target="shivery" />
+      <edge id="14" source="shivering" target="shuddering" />
+      <edge id="15" source="shivering" target="shaky" />
+      <edge id="16" source="shivering" target="shaking" />
+      <edge id="17" source="shivering" target="shakes" />
+      <edge id="18" source="sheltering" target="shielding" />
+      <edge id="19" source="shape" target="shadow" />
+      <edge id="20" source="shape" target="shade" />
+      <edge id="21" source="shake" target="shoulder" />
+      <edge id="22" source="shake" target="shuffle" />
+      <edge id="23" source="shake" target="shove" />
+      <edge id="24" source="shake" target="shingle" />
+      <edge id="25" source="shake" target="shock" />
+      <edge id="26" source="shake" target="shudder" />
+      <edge id="27" source="shake" target="shiver" />
+      <edge id="28" source="shake" target="sheathing" />
+      <edge id="29" source="shake" target="sheathe" />
+      <edge id="30" source="shake" target="shrivel" />
+      <edge id="31" source="shake" target="sheeting" />
+      <edge id="32" source="shamble" target="shovel" />
+      <edge id="33" source="shamble" target="shuffle" />
+      <edge id="34" source="shellfish" target="shrimp" />
+      <edge id="35" source="shuffling" target="shapeless" />
+      <edge id="36" source="shuffling" target="shifty" />
+      <edge id="37" source="shuffling" target="shifting" />
+      <edge id="38" source="shrinkage" target="shrinking" />
+      <edge id="39" source="shimmer" target="shine" />
+      <edge id="40" source="shimmer" target="shimmering" />
+      <edge id="41" source="shudder" target="shock" />
+      <edge id="42" source="shudder" target="shiver" />
+      <edge id="43" source="shudder" target="shaking" />
+      <edge id="44" source="shudder" target="shakes" />
+      <edge id="45" source="shack" target="shed" />
+      <edge id="46" source="shack" target="shanty" />
+      <edge id="47" source="shout" target="shriek" />
+      <edge id="48" source="shuddering" target="shivery" />
+      <edge id="49" source="shuddering" target="shaky" />
+      <edge id="50" source="shuddering" target="shaking" />
+      <edge id="51" source="shuddering" target="shakes" />
+      <edge id="52" source="shrunken" target="shorter" />
+      <edge id="53" source="shrunken" target="shriveled" />
+      <edge id="54" source="shrunken" target="shorn" />
+      <edge id="55" source="shrill" target="sharp" />
+      <edge id="56" source="shrill" target="shriek" />
+      <edge id="57" source="shrill" target="shrieking" />
+      <edge id="58" source="shellac" target="shadow" />
+      <edge id="59" source="shellac" target="shade" />
+      <edge id="60" source="shear" target="shave" />
+      <edge id="61" source="shear" target="shorten" />
+      <edge id="62" source="shaving" target="shiver" />
+      <edge id="63" source="shaving" target="shadow" />
+      <edge id="64" source="shaving" target="shred" />
+      <edge id="65" source="shaving" target="shard" />
+      <edge id="66" source="shapeless" target="shadowy" />
+      <edge id="67" source="shapeless" target="shifty" />
+      <edge id="68" source="shapeless" target="shifting" />
+      <edge id="69" source="shaky" target="shivery" />
+      <edge id="70" source="shaky" target="shrinking" />
+      <edge id="71" source="shaky" target="shy" />
+      <edge id="72" source="shaky" target="shriveled" />
+      <edge id="73" source="shaky" target="shifting" />
+      <edge id="74" source="shaky" target="shifty" />
+      <edge id="75" source="shaky" target="shaking" />
+      <edge id="76" source="shielding" target="sheathing" />
+      <edge id="77" source="shyster" target="sharp" />
+      <edge id="78" source="shyster" target="shark" />
+      <edge id="79" source="shyster" target="sharper" />
+      <edge id="80" source="shatter" target="shiver" />
+      <edge id="81" source="shatter" target="shard" />
+      <edge id="82" source="shameful" target="shamefaced" />
+      <edge id="83" source="shameful" target="shabby" />
+      <edge id="84" source="shameful" target="shady" />
+      <edge id="85" source="shameful" target="shoddy" />
+      <edge id="86" source="shameful" target="shocking" />
+      <edge id="87" source="shameful" target="shameless" />
+      <edge id="88" source="shading" target="shadow" />
+      <edge id="89" source="shading" target="shadowing" />
+      <edge id="90" source="shadow" target="shadowy" />
+      <edge id="91" source="shadow" target="shelter" />
+      <edge id="92" source="shadow" target="shady" />
+      <edge id="93" source="shadow" target="shade" />
+      <edge id="94" source="sheared" target="shortened" />
+      <edge id="95" source="sheared" target="shaved" />
+      <edge id="96" source="shoulder" target="shove" />
+      <edge id="97" source="shoulder" target="shank" />
+      <edge id="98" source="shoulder" target="shelf" />
+      <edge id="99" source="shoulder" target="shroud" />
+      <edge id="100" source="shoulder" target="shore" />
+      <edge id="101" source="shy" target="shivery" />
+      <edge id="102" source="shy" target="shamefaced" />
+      <edge id="103" source="shy" target="shuffle" />
+      <edge id="104" source="shy" target="shunt" />
+      <edge id="105" source="shy" target="shift" />
+      <edge id="106" source="shy" target="short" />
+      <edge id="107" source="shy" target="shun" />
+      <edge id="108" source="shy" target="shrinking" />
+      <edge id="109" source="shy" target="shrink" />
+      <edge id="110" source="shadowy" target="shady" />
+      <edge id="111" source="shock" target="short" />
+      <edge id="112" source="shock" target="shipwreck" />
+      <edge id="113" source="shock" target="shiver" />
+      <edge id="114" source="shock" target="shag" />
+      <edge id="115" source="shortage" target="shortfall" />
+      <edge id="116" source="shortage" target="shortcoming" />
+      <edge id="117" source="shirt" target="shift" />
+      <edge id="118" source="shortchange" target="shave" />
+      <edge id="119" source="shocking" target="shoddy" />
+      <edge id="120" source="shocking" target="shabby" />
+      <edge id="121" source="shaking" target="shivery" />
+      <edge id="122" source="shaking" target="shakes" />
+      <edge id="123" source="shaking" target="shiver" />
+      <edge id="124" source="shave" target="shred" />
+      <edge id="125" source="shave" target="shorten" />
+      <edge id="126" source="shed" target="shanty" />
+      <edge id="127" source="sheathed" target="shielded" />
+      <edge id="128" source="sheathed" target="shrouded" />
+      <edge id="129" source="shabby" target="shady" />
+      <edge id="130" source="shabby" target="shoddy" />
+      <edge id="131" source="shrouded" target="shielded" />
+      <edge id="132" source="shortcoming" target="shortfall" />
+      <edge id="133" source="shining" target="shiny" />
+      <edge id="134" source="shivery" target="shrinking" />
+      <edge id="135" source="shamefaced" target="sheepish" />
+      <edge id="136" source="shamefaced" target="shamed" />
+      <edge id="137" source="shaved" target="shortened" />
+      <edge id="138" source="shipment" target="shipping" />
+      <edge id="139" source="shrivel" target="shrink" />
+      <edge id="140" source="shakes" target="shiver" />
+      <edge id="141" source="shogun" target="sheikh" />
+      <edge id="142" source="shogun" target="shah" />
+      <edge id="143" source="shifting" target="sheer" />
+      <edge id="144" source="shifting" target="shift" />
+      <edge id="145" source="shifting" target="shifty" />
+      <edge id="146" source="sheltered" target="shielded" />
+      <edge id="147" source="shuck" target="shell" />
+      <edge id="148" source="shaken" target="shuffled" />
+      <edge id="149" source="shaken" target="shocked" />
+      <edge id="150" source="shaken" target="shook" />
+      <edge id="151" source="shine" target="shoot" />
+      <edge id="152" source="shine" target="sheen" />
+      <edge id="153" source="shrubbery" target="shrub" />
+      <edge id="154" source="shove" target="shoving" />
+      <edge id="155" source="shove" target="shunt" />
+      <edge id="156" source="shingle" target="sheathing" />
+      <edge id="157" source="shingle" target="sheathe" />
+      <edge id="158" source="shingle" target="shore" />
+      <edge id="159" source="shingle" target="sheeting" />
+      <edge id="160" source="shellfire" target="shooting" />
+      <edge id="161" source="sheikh" target="shah" />
+      <edge id="162" source="shred" target="shiver" />
+      <edge id="163" source="shred" target="shard" />
+      <edge id="164" source="shrewdness" target="sharpness" />
+      <edge id="165" source="sheeting" target="sheathing" />
+      <edge id="166" source="sheeting" target="sheet" />
+      <edge id="167" source="sheathe" target="shroud" />
+      <edge id="168" source="shuffle" target="shift" />
+      <edge id="169" source="shoal" target="shelf" />
+      <edge id="170" source="shoal" target="shallow" />
+      <edge id="171" source="shrinking" target="shyness" />
+      <edge id="172" source="sheer" target="shift" />
+      <edge id="173" source="sheer" target="sharp" />
+      <edge id="174" source="sharper" target="sharp" />
+      <edge id="175" source="sharper" target="shark" />
+      <edge id="176" source="shiver" target="shard" />
+      <edge id="177" source="shell" target="shoot" />
+      <edge id="178" source="shell" target="shrapnel" />
+      <edge id="179" source="shank" target="shin" />
+      <edge id="180" source="shelf" target="shallow" />
+      <edge id="181" source="shallow" target="short" />
+      <edge id="182" source="shrewd" target="sharp" />
+      <edge id="183" source="shrewd" target="shifty" />
+      <edge id="184" source="shroud" target="shelter" />
+      <edge id="185" source="shroud" target="shade" />
+      <edge id="186" source="shameless" target="shady" />
+      <edge id="187" source="shameless" target="shifty" />
+      <edge id="188" source="shoot" target="shaft" />
+      <edge id="189" source="shoot" target="shooting" />
+      <edge id="190" source="shoot" target="shrink" />
+      <edge id="191" source="shaft" target="shrine" />
+      <edge id="192" source="shampoo" target="shower" />
+      <edge id="193" source="shindig" target="shower" />
+      <edge id="194" source="shindig" target="shindy" />
+      <edge id="195" source="shower" target="shindy" />
+      <edge id="196" source="shift" target="shunt" />
+      <edge id="197" source="shift" target="shrink" />
+      <edge id="198" source="shook" target="shuffled" />
+      <edge id="199" source="shook" target="shocked" />
+      <edge id="200" source="shortened" target="short" />
+      <edge id="201" source="shark" target="sharp" />
+      <edge id="202" source="shoddy" target="shady" />
+      <edge id="203" source="shoddy" target="sham" />
+      <edge id="204" source="sheath" target="sheathing" />
+      <edge id="205" source="sharp" target="short" />
+      <edge id="206" source="sharp" target="shooting" />
+      <edge id="207" source="sharp" target="shifty" />
+      <edge id="208" source="sharp" target="shrieking" />
+      <edge id="209" source="shorter" target="shorn" />
+      <edge id="210" source="shuttle" target="shunt" />
+      <edge id="211" source="shifty" target="shady" />
+      <edge id="212" source="shelter" target="shade" />
+    </edges>
+  </graph>
+</gexf>

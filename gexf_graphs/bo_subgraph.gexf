@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="bouillabaisse" label="bouillabaisse" />
+      <node id="bomb" label="bomb" />
+      <node id="bolus" label="bolus" />
+      <node id="bookseller" label="bookseller" />
+      <node id="boob" label="boob" />
+      <node id="bossy" label="bossy" />
+      <node id="bound" label="bound" />
+      <node id="bookworm" label="bookworm" />
+      <node id="boycott" label="boycott" />
+      <node id="bombard" label="bombard" />
+      <node id="born" label="born" />
+      <node id="bodily" label="bodily" />
+      <node id="bombast" label="bombast" />
+      <node id="booth" label="booth" />
+      <node id="bones" label="bones" />
+      <node id="boner" label="boner" />
+      <node id="bore" label="bore" />
+      <node id="bomber" label="bomber" />
+      <node id="border" label="border" />
+      <node id="boat" label="boat" />
+      <node id="borderland" label="borderland" />
+      <node id="booming" label="booming" />
+      <node id="bombardier" label="bombardier" />
+      <node id="bonus" label="bonus" />
+      <node id="booby" label="booby" />
+      <node id="borderline" label="borderline" />
+      <node id="botch" label="botch" />
+      <node id="boggle" label="boggle" />
+      <node id="booklover" label="booklover" />
+      <node id="boxing" label="boxing" />
+      <node id="boot" label="boot" />
+      <node id="bosom" label="bosom" />
+      <node id="boodle" label="boodle" />
+      <node id="bouquet" label="bouquet" />
+      <node id="bourse" label="bourse" />
+      <node id="board" label="board" />
+      <node id="bookdealer" label="bookdealer" />
+      <node id="bounty" label="bounty" />
+      <node id="bottomless" label="bottomless" />
+      <node id="bout" label="bout" />
+      <node id="boost" label="boost" />
+      <node id="boil" label="boil" />
+      <node id="boom" label="boom" />
+      <node id="body" label="body" />
+      <node id="booty" label="booty" />
+      <node id="bourn" label="bourn" />
+      <node id="bold" label="bold" />
+      <node id="bobble" label="bobble" />
+      <node id="bountiful" label="bountiful" />
+      <node id="bookbinding" label="bookbinding" />
+      <node id="boll" label="boll" />
+      <node id="bosh" label="bosh" />
+      <node id="bombshell" label="bombshell" />
+      <node id="boiling" label="boiling" />
+      <node id="bookcase" label="bookcase" />
+      <node id="bookmaker" label="bookmaker" />
+      <node id="bounce" label="bounce" />
+      <node id="boatswain" label="boatswain" />
+      <node id="bogey" label="bogey" />
+      <node id="boundary" label="boundary" />
+      <node id="bourgeois" label="bourgeois" />
+      <node id="box" label="box" />
+      <node id="bony" label="bony" />
+      <node id="boondocks" label="boondocks" />
+      <node id="bovine" label="bovine" />
+      <node id="boast" label="boast" />
+      <node id="bogeyman" label="bogeyman" />
+      <node id="bop" label="bop" />
+      <node id="boring" label="boring" />
+      <node id="bother" label="bother" />
+      <node id="bottom" label="bottom" />
+      <node id="bolt" label="bolt" />
+      <node id="borrow" label="borrow" />
+      <node id="boss" label="boss" />
+      <node id="bow" label="bow" />
+      <node id="bottomland" label="bottomland" />
+      <node id="bouillon" label="bouillon" />
+      <node id="bottle" label="bottle" />
+      <node id="boomerang" label="boomerang" />
+      <node id="bob" label="bob" />
+      <node id="bordering" label="bordering" />
+      <node id="bounder" label="bounder" />
+      <node id="boor" label="boor" />
+      <node id="bone" label="bone" />
+      <node id="bog" label="bog" />
+    </nodes>
+    <edges>
+      <edge id="0" source="bouillabaisse" target="bouillon" />
+      <edge id="1" source="bomb" target="bombard" />
+      <edge id="2" source="bomb" target="bombshell" />
+      <edge id="3" source="bolus" target="boll" />
+      <edge id="4" source="bookseller" target="booklover" />
+      <edge id="5" source="bookseller" target="bookmaker" />
+      <edge id="6" source="bookseller" target="bookworm" />
+      <edge id="7" source="bookseller" target="bookdealer" />
+      <edge id="8" source="boob" target="booby" />
+      <edge id="9" source="bossy" target="bold" />
+      <edge id="10" source="bossy" target="bovine" />
+      <edge id="11" source="bound" target="boomerang" />
+      <edge id="12" source="bound" target="boundary" />
+      <edge id="13" source="bound" target="bourn" />
+      <edge id="14" source="bound" target="border" />
+      <edge id="15" source="bound" target="bounce" />
+      <edge id="16" source="bookworm" target="booklover" />
+      <edge id="17" source="bookworm" target="bookmaker" />
+      <edge id="18" source="bookworm" target="bookdealer" />
+      <edge id="19" source="boycott" target="boggle" />
+      <edge id="20" source="born" target="bodily" />
+      <edge id="21" source="bombast" target="boast" />
+      <edge id="22" source="booth" target="box" />
+      <edge id="23" source="bones" target="body" />
+      <edge id="24" source="bones" target="bosom" />
+      <edge id="25" source="boner" target="boot" />
+      <edge id="26" source="boner" target="boggle" />
+      <edge id="27" source="boner" target="bobble" />
+      <edge id="28" source="boner" target="botch" />
+      <edge id="29" source="bore" target="boring" />
+      <edge id="30" source="bore" target="bother" />
+      <edge id="31" source="bomber" target="bombardier" />
+      <edge id="32" source="border" target="borderland" />
+      <edge id="33" source="border" target="board" />
+      <edge id="34" source="boat" target="bottom" />
+      <edge id="35" source="borderland" target="boondocks" />
+      <edge id="36" source="booming" target="boom" />
+      <edge id="37" source="bonus" target="bounty" />
+      <edge id="38" source="borderline" target="boundary" />
+      <edge id="39" source="borderline" target="bordering" />
+      <edge id="40" source="botch" target="boggle" />
+      <edge id="41" source="botch" target="bobble" />
+      <edge id="42" source="boggle" target="bobble" />
+      <edge id="43" source="booklover" target="bookmaker" />
+      <edge id="44" source="booklover" target="bookdealer" />
+      <edge id="45" source="boxing" target="bout" />
+      <edge id="46" source="boot" target="bobble" />
+      <edge id="47" source="boot" target="bounce" />
+      <edge id="48" source="boodle" target="booty" />
+      <edge id="49" source="bouquet" target="bolt" />
+      <edge id="50" source="bourse" target="board" />
+      <edge id="51" source="board" target="boom" />
+      <edge id="52" source="bookdealer" target="bookmaker" />
+      <edge id="53" source="bottomless" target="bountiful" />
+      <edge id="54" source="boost" target="boom" />
+      <edge id="55" source="boost" target="borrow" />
+      <edge id="56" source="boil" target="boiling" />
+      <edge id="57" source="boil" target="bolt" />
+      <edge id="58" source="boom" target="bob" />
+      <edge id="59" source="boom" target="boom" />
+      <edge id="60" source="bourn" target="boundary" />
+      <edge id="61" source="bobble" target="bounce" />
+      <edge id="62" source="bobble" target="bob" />
+      <edge id="63" source="bookbinding" target="bookcase" />
+      <edge id="64" source="bosh" target="bop" />
+      <edge id="65" source="bookcase" target="box" />
+      <edge id="66" source="bounce" target="bounce" />
+      <edge id="67" source="bounce" target="boomerang" />
+      <edge id="68" source="bounce" target="bob" />
+      <edge id="69" source="boatswain" target="boss" />
+      <edge id="70" source="bogey" target="bogeyman" />
+      <edge id="71" source="boundary" target="bordering" />
+      <edge id="72" source="bourgeois" target="boor" />
+      <edge id="73" source="bourgeois" target="bounder" />
+      <edge id="74" source="box" target="bottle" />
+      <edge id="75" source="bony" target="bone" />
+      <edge id="76" source="bottom" target="bottomland" />
+      <edge id="77" source="bottom" target="bog" />
+      <edge id="78" source="bolt" target="boomerang" />
+      <edge id="79" source="boss" target="bow" />
+      <edge id="80" source="bow" target="bob" />
+      <edge id="81" source="bow" target="bow" />
+      <edge id="82" source="bottomland" target="bog" />
+      <edge id="83" source="bounder" target="boor" />
+    </edges>
+  </graph>
+</gexf>

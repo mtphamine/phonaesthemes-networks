@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="jangle" label="jangle" />
+      <node id="jangling" label="jangling" />
+      <node id="jargon" label="jargon" />
+      <node id="jape" label="jape" />
+      <node id="jaws" label="jaws" />
+      <node id="jazz" label="jazz" />
+      <node id="jar" label="jar" />
+      <node id="jab" label="jab" />
+      <node id="jazzy" label="jazzy" />
+      <node id="jam" label="jam" />
+      <node id="jack" label="jack" />
+      <node id="jarring" label="jarring" />
+      <node id="jaw" label="jaw" />
+      <node id="jackass" label="jackass" />
+      <node id="jabber" label="jabber" />
+      <node id="jaunty" label="jaunty" />
+    </nodes>
+    <edges>
+      <edge id="0" source="jangle" target="jar" />
+      <edge id="1" source="jangling" target="jarring" />
+      <edge id="2" source="jargon" target="jabber" />
+      <edge id="3" source="jape" target="jab" />
+      <edge id="4" source="jaws" target="jaw" />
+      <edge id="5" source="jazz" target="jazzy" />
+      <edge id="6" source="jab" target="jam" />
+      <edge id="7" source="jazzy" target="jaunty" />
+      <edge id="8" source="jack" target="jackass" />
+      <edge id="9" source="jaw" target="jabber" />
+    </edges>
+  </graph>
+</gexf>

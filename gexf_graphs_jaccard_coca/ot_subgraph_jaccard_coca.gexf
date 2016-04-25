@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="otiose" label="otiose" />
+      <node id="otherworldly" label="otherworldly">
+        <attvalues>
+          <attvalue for="0" value="2.74429298312" />
+        </attvalues>
+      </node>
+      <node id="other" label="other">
+        <attvalues>
+          <attvalue for="0" value="5.82748687855" />
+        </attvalues>
+      </node>
+      <node id="otherwise" label="otherwise" />
+    </nodes>
+    <edges>
+      <edge id="0" source="otiose" target="otherworldly" weight="0.00813" />
+      <edge id="1" source="otherworldly" target="other" weight="0.007407" />
+      <edge id="2" source="other" target="otherwise" weight="0.083333" />
+    </edges>
+  </graph>
+</gexf>

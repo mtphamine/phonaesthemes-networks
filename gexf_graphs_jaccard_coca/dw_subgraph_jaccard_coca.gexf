@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="dwelling" label="dwelling" />
+      <node id="dwarf" label="dwarf" />
+      <node id="dweller" label="dweller">
+        <attvalues>
+          <attvalue for="0" value="2.43456890403" />
+        </attvalues>
+      </node>
+      <node id="dwindle" label="dwindle">
+        <attvalues>
+          <attvalue for="0" value="2.55388302664" />
+        </attvalues>
+      </node>
+      <node id="dwarfed" label="dwarfed">
+        <attvalues>
+          <attvalue for="0" value="2.82994669594" />
+        </attvalues>
+      </node>
+      <node id="dwell" label="dwell" />
+      <node id="dwindling" label="dwindling">
+        <attvalues>
+          <attvalue for="0" value="3.16345955177" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="dwelling" target="dweller" weight="0.027778" />
+      <edge id="1" source="dwarf" target="dwarfed" weight="0.117647" />
+      <edge id="2" source="dweller" target="dwell" weight="0.02" />
+      <edge id="3" source="dwindle" target="dwell" weight="0.009346" />
+      <edge id="4" source="dwindle" target="dwindling" weight="0.070423" />
+      <edge id="5" source="dwarfed" target="dwell" weight="0.009434" />
+    </edges>
+  </graph>
+</gexf>

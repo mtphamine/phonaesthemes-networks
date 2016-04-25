@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="on" label="on">
+        <attvalues>
+          <attvalue for="0" value="6.47360125841" />
+        </attvalues>
+      </node>
+      <node id="onerous" label="onerous" />
+      <node id="onus" label="onus">
+        <attvalues>
+          <attvalue for="0" value="2.56937390962" />
+        </attvalues>
+      </node>
+      <node id="oncoming" label="oncoming" />
+      <node id="onward" label="onward" />
+      <node id="onetime" label="onetime" />
+      <node id="only" label="only">
+        <attvalues>
+          <attvalue for="0" value="5.72713849398" />
+        </attvalues>
+      </node>
+      <node id="one" label="one" />
+      <node id="onset" label="onset" />
+      <node id="oneness" label="oneness">
+        <attvalues>
+          <attvalue for="0" value="2.53907609879" />
+        </attvalues>
+      </node>
+      <node id="onrush" label="onrush" />
+      <node id="ongoing" label="ongoing" />
+      <node id="ontology" label="ontology" />
+      <node id="onslaught" label="onslaught">
+        <attvalues>
+          <attvalue for="0" value="3.09829753649" />
+        </attvalues>
+      </node>
+      <node id="once" label="once">
+        <attvalues>
+          <attvalue for="0" value="5.23512679133" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="on" target="oncoming" weight="0.046512" />
+      <edge id="1" source="on" target="onward" weight="0.086207" />
+      <edge id="2" source="on" target="ongoing" weight="0.152381" />
+      <edge id="3" source="on" target="onrush" weight="0.021053" />
+      <edge id="4" source="onerous" target="onslaught" weight="0.009434" />
+      <edge id="5" source="onus" target="onset" weight="0.01626" />
+      <edge id="6" source="onus" target="oncoming" weight="0.009091" />
+      <edge id="7" source="onus" target="ontology" weight="0.012346" />
+      <edge id="8" source="onus" target="onslaught" weight="0.007353" />
+      <edge id="9" source="oncoming" target="onslaught" weight="0.009709" />
+      <edge id="10" source="onetime" target="once" weight="0.542857" />
+      <edge id="11" source="only" target="once" weight="0.012821" />
+      <edge id="12" source="only" target="one" weight="0.05848" />
+      <edge id="13" source="one" target="oneness" weight="0.008929" />
+      <edge id="14" source="onset" target="onslaught" weight="0.204082" />
+      <edge id="15" source="onrush" target="onslaught" weight="0.009091" />
+      <edge id="16" source="ongoing" target="onslaught" weight="0.007463" />
+    </edges>
+  </graph>
+</gexf>

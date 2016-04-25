@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="help" label="help" />
+      <node id="headwater" label="headwater" />
+      <node id="heavily" label="heavily" />
+      <node id="heartfelt" label="heartfelt" />
+      <node id="hellion" label="hellion" />
+      <node id="heeding" label="heeding" />
+      <node id="headliner" label="headliner" />
+      <node id="headline" label="headline" />
+      <node id="heretical" label="heretical" />
+      <node id="hector" label="hector" />
+      <node id="herdsman" label="herdsman" />
+      <node id="headman" label="headman" />
+      <node id="heavyset" label="heavyset" />
+      <node id="headgear" label="headgear" />
+      <node id="hedge" label="hedge" />
+      <node id="headphone" label="headphone" />
+      <node id="headlong" label="headlong" />
+      <node id="headpiece" label="headpiece" />
+      <node id="heaven" label="heaven" />
+      <node id="helpful" label="helpful" />
+      <node id="heist" label="heist" />
+      <node id="heed" label="heed" />
+      <node id="heading" label="heading" />
+      <node id="heavy" label="heavy" />
+      <node id="heedful" label="heedful" />
+      <node id="heirloom" label="heirloom" />
+      <node id="heartburn" label="heartburn" />
+      <node id="heavyweight" label="heavyweight" />
+      <node id="helpless" label="helpless" />
+      <node id="heave" label="heave" />
+      <node id="heartache" label="heartache" />
+      <node id="headset" label="headset" />
+      <node id="heterodox" label="heterodox" />
+      <node id="hesitation" label="hesitation" />
+      <node id="hepatitis" label="hepatitis" />
+      <node id="hearken" label="hearken" />
+      <node id="herder" label="herder" />
+      <node id="hero" label="hero" />
+      <node id="hefty" label="hefty" />
+      <node id="herd" label="herd" />
+      <node id="hermetic" label="hermetic" />
+      <node id="hectic" label="hectic" />
+      <node id="herpes" label="herpes" />
+      <node id="hesitant" label="hesitant" />
+      <node id="heifer" label="heifer" />
+      <node id="healthy" label="healthy" />
+      <node id="helpmate" label="helpmate" />
+      <node id="headmost" label="headmost" />
+      <node id="heckle" label="heckle" />
+      <node id="heartbeat" label="heartbeat" />
+      <node id="hellcat" label="hellcat" />
+      <node id="height" label="height" />
+      <node id="heredity" label="heredity" />
+      <node id="heeler" label="heeler" />
+      <node id="heated" label="heated" />
+      <node id="helmsman" label="helmsman" />
+      <node id="hedging" label="hedging" />
+      <node id="her" label="her" />
+      <node id="heady" label="heady" />
+      <node id="heritage" label="heritage" />
+      <node id="hem" label="hem" />
+      <node id="hen" label="hen" />
+      <node id="headache" label="headache" />
+      <node id="head" label="head" />
+      <node id="healthful" label="healthful" />
+      <node id="heartrending" label="heartrending" />
+      <node id="heir" label="heir" />
+      <node id="heat" label="heat" />
+      <node id="hear" label="hear" />
+      <node id="heedlessly" label="heedlessly" />
+      <node id="heighten" label="heighten" />
+      <node id="he" label="he" />
+      <node id="hesitating" label="hesitating" />
+      <node id="heiress" label="heiress" />
+      <node id="heart" label="heart" />
+      <node id="heartthrob" label="heartthrob" />
+      <node id="helper" label="helper" />
+      <node id="headland" label="headland" />
+      <node id="headfirst" label="headfirst" />
+      <node id="heft" label="heft" />
+      <node id="heartbreak" label="heartbreak" />
+      <node id="heathen" label="heathen" />
+      <node id="headstrong" label="headstrong" />
+      <node id="hereby" label="hereby" />
+      <node id="hesitate" label="hesitate" />
+      <node id="helping" label="helping" />
+      <node id="heartbreaking" label="heartbreaking" />
+      <node id="henchman" label="henchman" />
+      <node id="heroine" label="heroine" />
+      <node id="headdress" label="headdress" />
+      <node id="herewith" label="herewith" />
+      <node id="hearty" label="hearty" />
+    </nodes>
+    <edges>
+      <edge id="0" source="help" target="helping" />
+      <edge id="1" source="help" target="helpmate" />
+      <edge id="2" source="help" target="helper" />
+      <edge id="3" source="headwater" target="head" />
+      <edge id="4" source="heavily" target="heavy" />
+      <edge id="5" source="heartfelt" target="hearty" />
+      <edge id="6" source="hellion" target="hellcat" />
+      <edge id="7" source="heeding" target="heed" />
+      <edge id="8" source="headliner" target="hero" />
+      <edge id="9" source="headliner" target="heroine" />
+      <edge id="10" source="headline" target="head" />
+      <edge id="11" source="headline" target="heading" />
+      <edge id="12" source="heretical" target="heathen" />
+      <edge id="13" source="heretical" target="heterodox" />
+      <edge id="14" source="hector" target="heckle" />
+      <edge id="15" source="herdsman" target="herder" />
+      <edge id="16" source="herdsman" target="helmsman" />
+      <edge id="17" source="herdsman" target="herd" />
+      <edge id="18" source="headman" target="head" />
+      <edge id="19" source="heavyset" target="heavy" />
+      <edge id="20" source="heavyset" target="hefty" />
+      <edge id="21" source="headgear" target="headpiece" />
+      <edge id="22" source="headgear" target="headdress" />
+      <edge id="23" source="hedge" target="hem" />
+      <edge id="24" source="hedge" target="hesitation" />
+      <edge id="25" source="hedge" target="hedging" />
+      <edge id="26" source="hedge" target="heed" />
+      <edge id="27" source="headphone" target="headset" />
+      <edge id="28" source="headlong" target="headfirst" />
+      <edge id="29" source="headlong" target="heedlessly" />
+      <edge id="30" source="headpiece" target="head" />
+      <edge id="31" source="headpiece" target="heading" />
+      <edge id="32" source="headpiece" target="headdress" />
+      <edge id="33" source="heaven" target="height" />
+      <edge id="34" source="helpful" target="healthy" />
+      <edge id="35" source="helpful" target="heedful" />
+      <edge id="36" source="heist" target="heighten" />
+      <edge id="37" source="heist" target="heft" />
+      <edge id="38" source="heist" target="heave" />
+      <edge id="39" source="heed" target="hesitation" />
+      <edge id="40" source="heed" target="hedging" />
+      <edge id="41" source="heed" target="hear" />
+      <edge id="42" source="heed" target="hearken" />
+      <edge id="43" source="heading" target="head" />
+      <edge id="44" source="heading" target="headmost" />
+      <edge id="45" source="heavy" target="hero" />
+      <edge id="46" source="heavy" target="hefty" />
+      <edge id="47" source="heavy" target="hermetic" />
+      <edge id="48" source="heavy" target="heavyweight" />
+      <edge id="49" source="heavy" target="heroine" />
+      <edge id="50" source="heedful" target="hesitant" />
+      <edge id="51" source="heirloom" target="heritage" />
+      <edge id="52" source="heartburn" target="headache" />
+      <edge id="53" source="heavyweight" target="hefty" />
+      <edge id="54" source="helpless" target="helpless" />
+      <edge id="55" source="heave" target="heft" />
+      <edge id="56" source="heave" target="heighten" />
+      <edge id="57" source="heartache" target="heartbreak" />
+      <edge id="58" source="hesitation" target="hedging" />
+      <edge id="59" source="hepatitis" target="herpes" />
+      <edge id="60" source="hearken" target="hear" />
+      <edge id="61" source="hero" target="heroine" />
+      <edge id="62" source="hefty" target="hearty" />
+      <edge id="63" source="herd" target="helmsman" />
+      <edge id="64" source="hectic" target="heat" />
+      <edge id="65" source="hectic" target="heated" />
+      <edge id="66" source="hesitant" target="hesitating" />
+      <edge id="67" source="heifer" target="hen" />
+      <edge id="68" source="healthy" target="healthful" />
+      <edge id="69" source="helpmate" target="helper" />
+      <edge id="70" source="headmost" target="head" />
+      <edge id="71" source="heartbeat" target="heart" />
+      <edge id="72" source="heartbeat" target="heartthrob" />
+      <edge id="73" source="heredity" target="heritage" />
+      <edge id="74" source="heeler" target="henchman" />
+      <edge id="75" source="heated" target="hearty" />
+      <edge id="76" source="her" target="he" />
+      <edge id="77" source="heady" target="headstrong" />
+      <edge id="78" source="hem" target="hesitate" />
+      <edge id="79" source="head" target="headland" />
+      <edge id="80" source="heartrending" target="heartbreaking" />
+      <edge id="81" source="heir" target="heiress" />
+      <edge id="82" source="heat" target="heart" />
+      <edge id="83" source="heedlessly" target="headfirst" />
+      <edge id="84" source="heighten" target="heft" />
+      <edge id="85" source="hereby" target="herewith" />
+    </edges>
+  </graph>
+</gexf>

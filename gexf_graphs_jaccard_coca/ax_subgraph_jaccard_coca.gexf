@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ax" label="ax" />
+      <node id="axial" label="axial">
+        <attvalues>
+          <attvalue for="0" value="2.77959649126" />
+        </attvalues>
+      </node>
+      <node id="axiom" label="axiom">
+        <attvalues>
+          <attvalue for="0" value="2.5921767574" />
+        </attvalues>
+      </node>
+      <node id="axis" label="axis">
+        <attvalues>
+          <attvalue for="0" value="3.51228406328" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ax" target="axiom" weight="0.006536" />
+      <edge id="1" source="axial" target="axis" weight="0.008929" />
+      <edge id="2" source="axiom" target="axis" weight="0.04878" />
+    </edges>
+  </graph>
+</gexf>

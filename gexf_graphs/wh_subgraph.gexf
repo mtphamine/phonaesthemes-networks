@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="whale" label="whale" />
+      <node id="whippersnapper" label="whippersnapper" />
+      <node id="whitewashing" label="whitewashing" />
+      <node id="whim" label="whim" />
+      <node id="whimpering" label="whimpering" />
+      <node id="whisper" label="whisper" />
+      <node id="whitewash" label="whitewash" />
+      <node id="whimsy" label="whimsy" />
+      <node id="whelk" label="whelk" />
+      <node id="whiplash" label="whiplash" />
+      <node id="whiz" label="whiz" />
+      <node id="whiten" label="whiten" />
+      <node id="whelm" label="whelm" />
+      <node id="whorl" label="whorl" />
+      <node id="whispering" label="whispering" />
+      <node id="whit" label="whit" />
+      <node id="whir" label="whir" />
+      <node id="whirligig" label="whirligig" />
+      <node id="whip" label="whip" />
+      <node id="whirl" label="whirl" />
+      <node id="whining" label="whining" />
+      <node id="wholesome" label="wholesome" />
+      <node id="whaling" label="whaling" />
+      <node id="whomp" label="whomp" />
+      <node id="whimper" label="whimper" />
+      <node id="whoosh" label="whoosh" />
+      <node id="while" label="while" />
+      <node id="whiffet" label="whiffet" />
+      <node id="white" label="white" />
+      <node id="wham" label="wham" />
+      <node id="whack" label="whack" />
+      <node id="whirlpool" label="whirlpool" />
+      <node id="wheel" label="wheel" />
+      <node id="whelp" label="whelp" />
+      <node id="whiff" label="whiff" />
+      <node id="whirling" label="whirling" />
+      <node id="whistling" label="whistling" />
+      <node id="whistle" label="whistle" />
+      <node id="whereupon" label="whereupon" />
+      <node id="whop" label="whop" />
+      <node id="whopping" label="whopping" />
+      <node id="whinny" label="whinny" />
+      <node id="wheeze" label="wheeze" />
+      <node id="wheal" label="wheal" />
+      <node id="why" label="why" />
+      <node id="whitey" label="whitey" />
+      <node id="whoop" label="whoop" />
+      <node id="whisk" label="whisk" />
+      <node id="whish" label="whish" />
+      <node id="whacking" label="whacking" />
+      <node id="when" label="when" />
+      <node id="whine" label="whine" />
+      <node id="wherefore" label="wherefore" />
+      <node id="whenever" label="whenever" />
+      <node id="whence" label="whence" />
+      <node id="whitening" label="whitening" />
+      <node id="whole" label="whole" />
+      <node id="whereas" label="whereas" />
+      <node id="whirlwind" label="whirlwind" />
+    </nodes>
+    <edges>
+      <edge id="0" source="whale" target="whop" />
+      <edge id="1" source="whale" target="whip" />
+      <edge id="2" source="whippersnapper" target="whiffet" />
+      <edge id="3" source="whitewashing" target="whopping" />
+      <edge id="4" source="whitewashing" target="whitewash" />
+      <edge id="5" source="whitewashing" target="whitening" />
+      <edge id="6" source="whim" target="whimsy" />
+      <edge id="7" source="whimpering" target="whining" />
+      <edge id="8" source="whisper" target="whine" />
+      <edge id="9" source="whisper" target="whoosh" />
+      <edge id="10" source="whisper" target="whistle" />
+      <edge id="11" source="whisper" target="whiz" />
+      <edge id="12" source="whisper" target="whispering" />
+      <edge id="13" source="whisper" target="wheeze" />
+      <edge id="14" source="whitewash" target="whomp" />
+      <edge id="15" source="whitewash" target="whop" />
+      <edge id="16" source="whitewash" target="whitening" />
+      <edge id="17" source="whitewash" target="whiten" />
+      <edge id="18" source="whitewash" target="whelm" />
+      <edge id="19" source="whitewash" target="whopping" />
+      <edge id="20" source="whitewash" target="white" />
+      <edge id="21" source="whelk" target="whelp" />
+      <edge id="22" source="whelk" target="wheal" />
+      <edge id="23" source="whiplash" target="whip" />
+      <edge id="24" source="whiz" target="whirl" />
+      <edge id="25" source="whiz" target="whisk" />
+      <edge id="26" source="whiz" target="whish" />
+      <edge id="27" source="whiz" target="whoosh" />
+      <edge id="28" source="whiz" target="whistling" />
+      <edge id="29" source="whiz" target="whistle" />
+      <edge id="30" source="whiz" target="wheeze" />
+      <edge id="31" source="whiz" target="whir" />
+      <edge id="32" source="whiten" target="white" />
+      <edge id="33" source="whelm" target="whomp" />
+      <edge id="34" source="whelm" target="whop" />
+      <edge id="35" source="whorl" target="whirl" />
+      <edge id="36" source="whorl" target="whirlpool" />
+      <edge id="37" source="whit" target="whoop" />
+      <edge id="38" source="whir" target="whirling" />
+      <edge id="39" source="whirligig" target="wheel" />
+      <edge id="40" source="whirligig" target="whirl" />
+      <edge id="41" source="whirligig" target="whip" />
+      <edge id="42" source="whip" target="wheel" />
+      <edge id="43" source="whip" target="whirl" />
+      <edge id="44" source="whip" target="whisk" />
+      <edge id="45" source="whip" target="whop" />
+      <edge id="46" source="whirl" target="wheel" />
+      <edge id="47" source="whirl" target="whish" />
+      <edge id="48" source="whirl" target="whirlpool" />
+      <edge id="49" source="whirl" target="whack" />
+      <edge id="50" source="whirl" target="whirlwind" />
+      <edge id="51" source="whining" target="whistling" />
+      <edge id="52" source="wholesome" target="whole" />
+      <edge id="53" source="whaling" target="whopping" />
+      <edge id="54" source="whaling" target="whacking" />
+      <edge id="55" source="whomp" target="whop" />
+      <edge id="56" source="whomp" target="whack" />
+      <edge id="57" source="whomp" target="wham" />
+      <edge id="58" source="whimper" target="whine" />
+      <edge id="59" source="whoosh" target="whish" />
+      <edge id="60" source="whoosh" target="whistling" />
+      <edge id="61" source="whoosh" target="whistle" />
+      <edge id="62" source="whoosh" target="wheeze" />
+      <edge id="63" source="while" target="whereas" />
+      <edge id="64" source="while" target="when" />
+      <edge id="65" source="whiffet" target="whiff" />
+      <edge id="66" source="white" target="whitey" />
+      <edge id="67" source="wham" target="whop" />
+      <edge id="68" source="wham" target="whack" />
+      <edge id="69" source="whack" target="whop" />
+      <edge id="70" source="whirlpool" target="wheel" />
+      <edge id="71" source="whirlpool" target="whirlwind" />
+      <edge id="72" source="wheel" target="whirlwind" />
+      <edge id="73" source="whistling" target="whish" />
+      <edge id="74" source="whistling" target="whistle" />
+      <edge id="75" source="whistling" target="wheeze" />
+      <edge id="76" source="whistle" target="whish" />
+      <edge id="77" source="whistle" target="whine" />
+      <edge id="78" source="whistle" target="wheeze" />
+      <edge id="79" source="whereupon" target="whenever" />
+      <edge id="80" source="whereupon" target="wherefore" />
+      <edge id="81" source="whereupon" target="when" />
+      <edge id="82" source="whopping" target="whacking" />
+      <edge id="83" source="whinny" target="whine" />
+      <edge id="84" source="wheeze" target="whish" />
+      <edge id="85" source="why" target="wherefore" />
+      <edge id="86" source="whisk" target="whish" />
+      <edge id="87" source="when" target="whenever" />
+      <edge id="88" source="when" target="whereas" />
+      <edge id="89" source="wherefore" target="whence" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="victimization" label="victimization" />
+      <node id="vicar" label="vicar" />
+      <node id="vile" label="vile" />
+      <node id="violation" label="violation" />
+      <node id="visible" label="visible" />
+      <node id="vituperate" label="vituperate" />
+      <node id="vice" label="vice" />
+      <node id="violent" label="violent" />
+      <node id="viability" label="viability" />
+      <node id="virtu" label="virtu" />
+      <node id="vivify" label="vivify" />
+      <node id="vilify" label="vilify" />
+      <node id="vibrato" label="vibrato" />
+      <node id="vibraphone" label="vibraphone" />
+      <node id="vilification" label="vilification" />
+      <node id="violin" label="violin" />
+      <node id="vixen" label="vixen" />
+      <node id="vista" label="vista" />
+      <node id="visualize" label="visualize" />
+      <node id="virago" label="virago" />
+      <node id="violate" label="violate" />
+      <node id="vibration" label="vibration" />
+      <node id="viscera" label="viscera" />
+      <node id="visit" label="visit" />
+      <node id="vibes" label="vibes" />
+      <node id="vituperative" label="vituperative" />
+      <node id="virgin" label="virgin" />
+      <node id="vital" label="vital" />
+      <node id="vitiate" label="vitiate" />
+      <node id="viola" label="viola" />
+      <node id="vigilance" label="vigilance" />
+      <node id="viscous" label="viscous" />
+      <node id="vitalize" label="vitalize" />
+      <node id="viable" label="viable" />
+      <node id="vigor" label="vigor" />
+      <node id="vigorous" label="vigorous" />
+      <node id="viewpoint" label="viewpoint" />
+      <node id="visualization" label="visualization" />
+      <node id="visitation" label="visitation" />
+      <node id="vicious" label="vicious" />
+      <node id="vitality" label="vitality" />
+      <node id="vilifying" label="vilifying" />
+      <node id="virulence" label="virulence" />
+      <node id="virtue" label="virtue" />
+      <node id="virtuosity" label="virtuosity" />
+      <node id="vitals" label="vitals" />
+      <node id="vigil" label="vigil" />
+      <node id="vivacity" label="vivacity" />
+      <node id="vibrancy" label="vibrancy" />
+      <node id="vim" label="vim" />
+      <node id="vivid" label="vivid" />
+      <node id="viscid" label="viscid" />
+      <node id="vitriol" label="vitriol" />
+      <node id="victuals" label="victuals" />
+      <node id="virginal" label="virginal" />
+      <node id="vibrant" label="vibrant" />
+      <node id="vitriolic" label="vitriolic" />
+      <node id="violence" label="violence" />
+      <node id="visual" label="visual" />
+      <node id="vibrating" label="vibrating" />
+      <node id="vivacious" label="vivacious" />
+      <node id="vittles" label="vittles" />
+      <node id="vituperation" label="vituperation" />
+      <node id="villainous" label="villainous" />
+      <node id="virulent" label="virulent" />
+      <node id="virility" label="virility" />
+      <node id="view" label="view" />
+      <node id="vision" label="vision" />
+      <node id="viands" label="viands" />
+    </nodes>
+    <edges>
+      <edge id="0" source="victimization" target="vision" />
+      <edge id="1" source="vicar" target="vice" />
+      <edge id="2" source="vile" target="villainous" />
+      <edge id="3" source="vile" target="vicious" />
+      <edge id="4" source="vile" target="vituperative" />
+      <edge id="5" source="violation" target="violence" />
+      <edge id="6" source="visible" target="visual" />
+      <edge id="7" source="vituperate" target="vilify" />
+      <edge id="8" source="violent" target="vixen" />
+      <edge id="9" source="violent" target="vitriolic" />
+      <edge id="10" source="violent" target="virago" />
+      <edge id="11" source="violent" target="vicious" />
+      <edge id="12" source="violent" target="virulent" />
+      <edge id="13" source="viability" target="vivacity" />
+      <edge id="14" source="viability" target="vitality" />
+      <edge id="15" source="virtu" target="virtuosity" />
+      <edge id="16" source="vivify" target="vitalize" />
+      <edge id="17" source="vibrato" target="viola" />
+      <edge id="18" source="vibraphone" target="vibes" />
+      <edge id="19" source="vilification" target="vituperation" />
+      <edge id="20" source="violin" target="viola" />
+      <edge id="21" source="vixen" target="virago" />
+      <edge id="22" source="vista" target="view" />
+      <edge id="23" source="visualize" target="vision" />
+      <edge id="24" source="visualize" target="view" />
+      <edge id="25" source="violate" target="vitiate" />
+      <edge id="26" source="vibration" target="vibrancy" />
+      <edge id="27" source="viscera" target="vitals" />
+      <edge id="28" source="visit" target="visitation" />
+      <edge id="29" source="vituperative" target="vilifying" />
+      <edge id="30" source="virgin" target="virginal" />
+      <edge id="31" source="vital" target="vigorous" />
+      <edge id="32" source="vital" target="viable" />
+      <edge id="33" source="vital" target="vivacious" />
+      <edge id="34" source="vital" target="vivid" />
+      <edge id="35" source="vigilance" target="vigil" />
+      <edge id="36" source="viscous" target="viscid" />
+      <edge id="37" source="vigor" target="vitality" />
+      <edge id="38" source="vigor" target="vim" />
+      <edge id="39" source="vigor" target="virulence" />
+      <edge id="40" source="vigor" target="virtue" />
+      <edge id="41" source="vigor" target="virility" />
+      <edge id="42" source="vigor" target="vivacity" />
+      <edge id="43" source="vigorous" target="viscid" />
+      <edge id="44" source="vigorous" target="vibrant" />
+      <edge id="45" source="vigorous" target="vivid" />
+      <edge id="46" source="vigorous" target="vivacious" />
+      <edge id="47" source="viewpoint" target="view" />
+      <edge id="48" source="visualization" target="vision" />
+      <edge id="49" source="vicious" target="villainous" />
+      <edge id="50" source="vicious" target="virulent" />
+      <edge id="51" source="vitality" target="vim" />
+      <edge id="52" source="vitality" target="virulence" />
+      <edge id="53" source="vitality" target="virtue" />
+      <edge id="54" source="vitality" target="virility" />
+      <edge id="55" source="vitality" target="vivacity" />
+      <edge id="56" source="virulence" target="vitriol" />
+      <edge id="57" source="virulence" target="violence" />
+      <edge id="58" source="virulence" target="vim" />
+      <edge id="59" source="virulence" target="virtue" />
+      <edge id="60" source="virulence" target="virility" />
+      <edge id="61" source="virtue" target="virility" />
+      <edge id="62" source="virtue" target="vim" />
+      <edge id="63" source="vivacity" target="vim" />
+      <edge id="64" source="vim" target="virility" />
+      <edge id="65" source="vivid" target="vibrant" />
+      <edge id="66" source="vivid" target="vivacious" />
+      <edge id="67" source="victuals" target="vittles" />
+      <edge id="68" source="victuals" target="viands" />
+      <edge id="69" source="vibrant" target="vivacious" />
+      <edge id="70" source="vibrant" target="vibrating" />
+      <edge id="71" source="vitriolic" target="virulent" />
+      <edge id="72" source="vittles" target="viands" />
+      <edge id="73" source="view" target="vision" />
+      <edge id="74" source="view" target="view" />
+    </edges>
+  </graph>
+</gexf>

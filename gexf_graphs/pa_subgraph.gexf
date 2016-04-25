@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="parsonage" label="parsonage" />
+      <node id="partial" label="partial" />
+      <node id="paw" label="paw" />
+      <node id="pardon" label="pardon" />
+      <node id="pater" label="pater" />
+      <node id="patina" label="patina" />
+      <node id="painstaking" label="painstaking" />
+      <node id="patricide" label="patricide" />
+      <node id="papacy" label="papacy" />
+      <node id="paper" label="paper" />
+      <node id="pang" label="pang" />
+      <node id="pane" label="pane" />
+      <node id="participate" label="participate" />
+      <node id="passe" label="passe" />
+      <node id="pantywaist" label="pantywaist" />
+      <node id="parlay" label="parlay" />
+      <node id="parchment" label="parchment" />
+      <node id="payoff" label="payoff" />
+      <node id="palindrome" label="palindrome" />
+      <node id="pastoral" label="pastoral" />
+      <node id="panther" label="panther" />
+      <node id="paralleling" label="paralleling" />
+      <node id="palladium" label="palladium" />
+      <node id="pant" label="pant" />
+      <node id="passage" label="passage" />
+      <node id="passive" label="passive" />
+      <node id="partake" label="partake" />
+      <node id="pad" label="pad" />
+      <node id="partisanism" label="partisanism" />
+      <node id="passivity" label="passivity" />
+      <node id="palinode" label="palinode" />
+      <node id="parcel" label="parcel" />
+      <node id="patter" label="patter" />
+      <node id="paterfamilias" label="paterfamilias" />
+      <node id="parget" label="parget" />
+      <node id="panting" label="panting" />
+      <node id="pacifying" label="pacifying" />
+      <node id="parry" label="parry" />
+      <node id="pastiche" label="pastiche" />
+      <node id="parody" label="parody" />
+      <node id="parlance" label="parlance" />
+      <node id="partaking" label="partaking" />
+      <node id="paternity" label="paternity" />
+      <node id="particle" label="particle" />
+      <node id="parenthetic" label="parenthetic" />
+      <node id="pal" label="pal" />
+      <node id="pacifism" label="pacifism" />
+      <node id="patch" label="patch" />
+      <node id="pavement" label="pavement" />
+      <node id="paroxysm" label="paroxysm" />
+      <node id="paddy" label="paddy" />
+      <node id="page" label="page" />
+      <node id="pandowdy" label="pandowdy" />
+      <node id="parity" label="parity" />
+      <node id="parade" label="parade" />
+      <node id="passerby" label="passerby" />
+      <node id="parol" label="parol" />
+      <node id="packet" label="packet" />
+      <node id="past" label="past" />
+      <node id="padrone" label="padrone" />
+      <node id="palm" label="palm" />
+      <node id="pacifistic" label="pacifistic" />
+      <node id="pass" label="pass" />
+      <node id="paleness" label="paleness" />
+      <node id="parasite" label="parasite" />
+      <node id="pale" label="pale" />
+      <node id="patrilineage" label="patrilineage" />
+      <node id="pastel" label="pastel" />
+      <node id="palette" label="palette" />
+      <node id="pashadom" label="pashadom" />
+      <node id="parent" label="parent" />
+      <node id="paired" label="paired" />
+      <node id="pattern" label="pattern" />
+      <node id="partisan" label="partisan" />
+      <node id="paddle" label="paddle" />
+      <node id="paternal" label="paternal" />
+      <node id="passion" label="passion" />
+      <node id="papers" label="papers" />
+      <node id="paradise" label="paradise" />
+      <node id="palaver" label="palaver" />
+      <node id="participation" label="participation" />
+      <node id="pasty" label="pasty" />
+      <node id="patient" label="patient" />
+      <node id="pathetic" label="pathetic" />
+      <node id="parental" label="parental" />
+      <node id="packaged" label="packaged" />
+      <node id="payroll" label="payroll" />
+      <node id="palter" label="palter" />
+      <node id="packing" label="packing" />
+      <node id="pasturage" label="pasturage" />
+      <node id="path" label="path" />
+      <node id="paste" label="paste" />
+      <node id="papilla" label="papilla" />
+      <node id="panel" label="panel" />
+      <node id="patronage" label="patronage" />
+      <node id="pantaloon" label="pantaloon" />
+      <node id="parricide" label="parricide" />
+      <node id="package" label="package" />
+      <node id="pastiness" label="pastiness" />
+      <node id="paralysis" label="paralysis" />
+      <node id="palisade" label="palisade" />
+      <node id="paring" label="paring" />
+      <node id="pap" label="pap" />
+      <node id="parson" label="parson" />
+      <node id="parenthetical" label="parenthetical" />
+      <node id="passing" label="passing" />
+      <node id="panicked" label="panicked" />
+      <node id="pardner" label="pardner" />
+      <node id="paragon" label="paragon" />
+      <node id="paralyzed" label="paralyzed" />
+      <node id="pacifier" label="pacifier" />
+      <node id="paltry" label="paltry" />
+      <node id="paradiddle" label="paradiddle" />
+      <node id="payload" label="payload" />
+      <node id="pallet" label="pallet" />
+      <node id="palliate" label="palliate" />
+      <node id="parley" label="parley" />
+      <node id="panorama" label="panorama" />
+      <node id="pallid" label="pallid" />
+      <node id="payment" label="payment" />
+      <node id="paint" label="paint" />
+      <node id="palpitation" label="palpitation" />
+      <node id="pa" label="pa" />
+      <node id="passed" label="passed" />
+      <node id="parliamentary" label="parliamentary" />
+      <node id="painful" label="painful" />
+      <node id="paved" label="paved" />
+      <node id="patriarchal" label="patriarchal" />
+      <node id="panhandler" label="panhandler" />
+      <node id="partly" label="partly" />
+      <node id="pains" label="pains" />
+      <node id="paregoric" label="paregoric" />
+      <node id="pat" label="pat" />
+      <node id="park" label="park" />
+      <node id="pastor" label="pastor" />
+      <node id="padding" label="padding" />
+      <node id="part" label="part" />
+      <node id="pacific" label="pacific" />
+      <node id="palsy" label="palsy" />
+      <node id="particular" label="particular" />
+      <node id="pain" label="pain" />
+      <node id="pathos" label="pathos" />
+      <node id="painter" label="painter" />
+      <node id="partially" label="partially" />
+      <node id="paying" label="paying" />
+      <node id="paean" label="paean" />
+      <node id="pageant" label="pageant" />
+      <node id="parapet" label="parapet" />
+      <node id="patriarch" label="patriarch" />
+      <node id="pandemonium" label="pandemonium" />
+      <node id="pansy" label="pansy" />
+      <node id="pace" label="pace" />
+      <node id="paragraph" label="paragraph" />
+      <node id="parquet" label="parquet" />
+      <node id="paradisal" label="paradisal" />
+      <node id="palliative" label="palliative" />
+      <node id="panicky" label="panicky" />
+      <node id="pack" label="pack" />
+      <node id="patois" label="patois" />
+      <node id="passenger" label="passenger" />
+      <node id="patisserie" label="patisserie" />
+      <node id="patrol" label="patrol" />
+      <node id="patron" label="patron" />
+      <node id="paradisiac" label="paradisiac" />
+      <node id="pampas" label="pampas" />
+      <node id="partnership" label="partnership" />
+      <node id="paranymph" label="paranymph" />
+      <node id="parachute" label="parachute" />
+      <node id="pastry" label="pastry" />
+      <node id="pandect" label="pandect" />
+      <node id="pasture" label="pasture" />
+      <node id="partner" label="partner" />
+      <node id="paradigm" label="paradigm" />
+      <node id="pallor" label="pallor" />
+      <node id="parterre" label="parterre" />
+      <node id="par" label="par" />
+      <node id="pathfinder" label="pathfinder" />
+      <node id="participant" label="participant" />
+      <node id="palsied" label="palsied" />
+      <node id="patent" label="patent" />
+      <node id="pay" label="pay" />
+      <node id="paresis" label="paresis" />
+      <node id="patrolman" label="patrolman" />
+      <node id="parch" label="parch" />
+      <node id="parts" label="parts" />
+      <node id="paralytic" label="paralytic" />
+      <node id="pappy" label="pappy" />
+      <node id="party" label="party" />
+      <node id="paraphrase" label="paraphrase" />
+      <node id="parameter" label="parameter" />
+      <node id="pathway" label="pathway" />
+      <node id="paintbrush" label="paintbrush" />
+      <node id="pantomime" label="pantomime" />
+      <node id="patchy" label="patchy" />
+      <node id="paramount" label="paramount" />
+      <node id="papa" label="papa" />
+      <node id="partiality" label="partiality" />
+      <node id="passageway" label="passageway" />
+      <node id="pair" label="pair" />
+      <node id="palpable" label="palpable" />
+      <node id="parallel" label="parallel" />
+      <node id="parting" label="parting" />
+      <node id="palpitate" label="palpitate" />
+      <node id="padre" label="padre" />
+      <node id="patchwork" label="patchwork" />
+      <node id="pageantry" label="pageantry" />
+      <node id="partition" label="partition" />
+      <node id="panegyric" label="panegyric" />
+      <node id="participle" label="participle" />
+      <node id="pastorate" label="pastorate" />
+      <node id="parallelism" label="parallelism" />
+      <node id="parenthesis" label="parenthesis" />
+      <node id="parole" label="parole" />
+      <node id="parsimonious" label="parsimonious" />
+    </nodes>
+    <edges>
+      <edge id="0" source="parsonage" target="pastorate" />
+      <edge id="1" source="partial" target="party" />
+      <edge id="2" source="partial" target="partisan" />
+      <edge id="3" source="partial" target="part" />
+      <edge id="4" source="partial" target="partly" />
+      <edge id="5" source="partial" target="patchy" />
+      <edge id="6" source="paw" target="pad" />
+      <edge id="7" source="paw" target="palm" />
+      <edge id="8" source="pardon" target="pathos" />
+      <edge id="9" source="pater" target="pap" />
+      <edge id="10" source="pater" target="paterfamilias" />
+      <edge id="11" source="pater" target="papa" />
+      <edge id="12" source="pater" target="patriarch" />
+      <edge id="13" source="pater" target="pa" />
+      <edge id="14" source="pater" target="pappy" />
+      <edge id="15" source="patina" target="pane" />
+      <edge id="16" source="patina" target="panel" />
+      <edge id="17" source="painstaking" target="pains" />
+      <edge id="18" source="patricide" target="parricide" />
+      <edge id="19" source="papacy" target="pashadom" />
+      <edge id="20" source="paper" target="pass" />
+      <edge id="21" source="paper" target="page" />
+      <edge id="22" source="paper" target="paragraph" />
+      <edge id="23" source="paper" target="pandect" />
+      <edge id="24" source="paper" target="papers" />
+      <edge id="25" source="paper" target="parchment" />
+      <edge id="26" source="pang" target="pain" />
+      <edge id="27" source="pang" target="passion" />
+      <edge id="28" source="pang" target="paroxysm" />
+      <edge id="29" source="pane" target="panel" />
+      <edge id="30" source="participate" target="partake" />
+      <edge id="31" source="passe" target="past" />
+      <edge id="32" source="passe" target="passed" />
+      <edge id="33" source="pantywaist" target="pansy" />
+      <edge id="34" source="parlay" target="pass" />
+      <edge id="35" source="parchment" target="papers" />
+      <edge id="36" source="payoff" target="paying" />
+      <edge id="37" source="palindrome" target="parenthesis" />
+      <edge id="38" source="pastoral" target="palinode" />
+      <edge id="39" source="pastoral" target="pageant" />
+      <edge id="40" source="pastoral" target="pacific" />
+      <edge id="41" source="pastoral" target="pantomime" />
+      <edge id="42" source="panther" target="painter" />
+      <edge id="43" source="paralleling" target="parallel" />
+      <edge id="44" source="palladium" target="patent" />
+      <edge id="45" source="palladium" target="padding" />
+      <edge id="46" source="palladium" target="pad" />
+      <edge id="47" source="pant" target="palpitate" />
+      <edge id="48" source="pant" target="parch" />
+      <edge id="49" source="passage" target="passageway" />
+      <edge id="50" source="passage" target="paragraph" />
+      <edge id="51" source="passage" target="part" />
+      <edge id="52" source="passage" target="pass" />
+      <edge id="53" source="passage" target="path" />
+      <edge id="54" source="passage" target="passing" />
+      <edge id="55" source="passage" target="page" />
+      <edge id="56" source="passive" target="paralytic" />
+      <edge id="57" source="passive" target="patient" />
+      <edge id="58" source="passive" target="paralyzed" />
+      <edge id="59" source="partake" target="palm" />
+      <edge id="60" source="pad" target="pallet" />
+      <edge id="61" source="pad" target="pat" />
+      <edge id="62" source="pad" target="palliate" />
+      <edge id="63" source="pad" target="patter" />
+      <edge id="64" source="pad" target="patent" />
+      <edge id="65" source="pad" target="partition" />
+      <edge id="66" source="pad" target="padding" />
+      <edge id="67" source="pad" target="pace" />
+      <edge id="68" source="pad" target="panel" />
+      <edge id="69" source="pad" target="pack" />
+      <edge id="70" source="partisanism" target="partiality" />
+      <edge id="71" source="passivity" target="paralysis" />
+      <edge id="72" source="passivity" target="pacifism" />
+      <edge id="73" source="parcel" target="package" />
+      <edge id="74" source="parcel" target="partition" />
+      <edge id="75" source="parcel" target="packet" />
+      <edge id="76" source="parcel" target="part" />
+      <edge id="77" source="parcel" target="particular" />
+      <edge id="78" source="parcel" target="pack" />
+      <edge id="79" source="patter" target="patois" />
+      <edge id="80" source="patter" target="palpitate" />
+      <edge id="81" source="patter" target="paste" />
+      <edge id="82" source="patter" target="palaver" />
+      <edge id="83" source="patter" target="palpitation" />
+      <edge id="84" source="patter" target="pat" />
+      <edge id="85" source="patter" target="paradiddle" />
+      <edge id="86" source="patter" target="pantomime" />
+      <edge id="87" source="paterfamilias" target="pap" />
+      <edge id="88" source="paterfamilias" target="paramount" />
+      <edge id="89" source="paterfamilias" target="patron" />
+      <edge id="90" source="paterfamilias" target="papa" />
+      <edge id="91" source="paterfamilias" target="patriarch" />
+      <edge id="92" source="paterfamilias" target="padrone" />
+      <edge id="93" source="paterfamilias" target="pa" />
+      <edge id="94" source="paterfamilias" target="pappy" />
+      <edge id="95" source="parget" target="paint" />
+      <edge id="96" source="panting" target="palpitation" />
+      <edge id="97" source="pacifying" target="pacific" />
+      <edge id="98" source="parry" target="palter" />
+      <edge id="99" source="pastiche" target="patchwork" />
+      <edge id="100" source="pastiche" target="parody" />
+      <edge id="101" source="parody" target="paraphrase" />
+      <edge id="102" source="parlance" target="parole" />
+      <edge id="103" source="partaking" target="partnership" />
+      <edge id="104" source="partaking" target="participant" />
+      <edge id="105" source="partaking" target="participation" />
+      <edge id="106" source="paternity" target="patrilineage" />
+      <edge id="107" source="particle" target="paring" />
+      <edge id="108" source="particle" target="participle" />
+      <edge id="109" source="parenthetic" target="patchy" />
+      <edge id="110" source="parenthetic" target="parenthetical" />
+      <edge id="111" source="pal" target="pardner" />
+      <edge id="112" source="pal" target="partner" />
+      <edge id="113" source="pacifism" target="paralysis" />
+      <edge id="114" source="patch" target="pale" />
+      <edge id="115" source="patch" target="paddy" />
+      <edge id="116" source="pavement" target="parquet" />
+      <edge id="117" source="page" target="paragraph" />
+      <edge id="118" source="pandowdy" target="pasty" />
+      <edge id="119" source="pandowdy" target="patisserie" />
+      <edge id="120" source="pandowdy" target="pastry" />
+      <edge id="121" source="parity" target="par" />
+      <edge id="122" source="parity" target="parallelism" />
+      <edge id="123" source="parade" target="path" />
+      <edge id="124" source="parade" target="pageantry" />
+      <edge id="125" source="parade" target="pageant" />
+      <edge id="126" source="parade" target="pathway" />
+      <edge id="127" source="parade" target="panorama" />
+      <edge id="128" source="passerby" target="passenger" />
+      <edge id="129" source="passerby" target="pathfinder" />
+      <edge id="130" source="parol" target="parole" />
+      <edge id="131" source="packet" target="pack" />
+      <edge id="132" source="packet" target="package" />
+      <edge id="133" source="past" target="passed" />
+      <edge id="134" source="padrone" target="paramount" />
+      <edge id="135" source="padrone" target="patriarch" />
+      <edge id="136" source="padrone" target="patron" />
+      <edge id="137" source="pacifistic" target="pacific" />
+      <edge id="138" source="pass" target="passageway" />
+      <edge id="139" source="pass" target="pass" />
+      <edge id="140" source="pass" target="part" />
+      <edge id="141" source="paleness" target="pallor" />
+      <edge id="142" source="paleness" target="pastiness" />
+      <edge id="143" source="parasite" target="panhandler" />
+      <edge id="144" source="parasite" target="partisan" />
+      <edge id="145" source="pale" target="pasty" />
+      <edge id="146" source="pale" target="pastel" />
+      <edge id="147" source="pale" target="pallid" />
+      <edge id="148" source="pale" target="park" />
+      <edge id="149" source="pale" target="palisade" />
+      <edge id="150" source="pastel" target="paint" />
+      <edge id="151" source="pastel" target="palette" />
+      <edge id="152" source="pastel" target="paintbrush" />
+      <edge id="153" source="palette" target="paint" />
+      <edge id="154" source="palette" target="paintbrush" />
+      <edge id="155" source="parent" target="patriarchal" />
+      <edge id="156" source="parent" target="parental" />
+      <edge id="157" source="parent" target="paternal" />
+      <edge id="158" source="paired" target="parallel" />
+      <edge id="159" source="pattern" target="paradigm" />
+      <edge id="160" source="pattern" target="parameter" />
+      <edge id="161" source="pattern" target="paragon" />
+      <edge id="162" source="partisan" target="party" />
+      <edge id="163" source="partisan" target="patron" />
+      <edge id="164" source="partisan" target="paranymph" />
+      <edge id="165" source="paddle" target="pace" />
+      <edge id="166" source="paternal" target="patriarchal" />
+      <edge id="167" source="paternal" target="parental" />
+      <edge id="168" source="passion" target="pain" />
+      <edge id="169" source="passion" target="paean" />
+      <edge id="170" source="passion" target="pandemonium" />
+      <edge id="171" source="paradise" target="parterre" />
+      <edge id="172" source="paradise" target="park" />
+      <edge id="173" source="paradise" target="parquet" />
+      <edge id="174" source="palaver" target="parole" />
+      <edge id="175" source="palaver" target="parley" />
+      <edge id="176" source="pasty" target="pallid" />
+      <edge id="177" source="pasty" target="patisserie" />
+      <edge id="178" source="pasty" target="pastry" />
+      <edge id="179" source="pathetic" target="paltry" />
+      <edge id="180" source="pathetic" target="painful" />
+      <edge id="181" source="parental" target="patriarchal" />
+      <edge id="182" source="packaged" target="paved" />
+      <edge id="183" source="payroll" target="pay" />
+      <edge id="184" source="payroll" target="payment" />
+      <edge id="185" source="packing" target="padding" />
+      <edge id="186" source="packing" target="package" />
+      <edge id="187" source="pasturage" target="pampas" />
+      <edge id="188" source="pasturage" target="pasture" />
+      <edge id="189" source="pasturage" target="park" />
+      <edge id="190" source="path" target="pathway" />
+      <edge id="191" source="paste" target="pap" />
+      <edge id="192" source="papilla" target="pap" />
+      <edge id="193" source="panel" target="partition" />
+      <edge id="194" source="panel" target="party" />
+      <edge id="195" source="patronage" target="pastorate" />
+      <edge id="196" source="pantaloon" target="patriarch" />
+      <edge id="197" source="package" target="pack" />
+      <edge id="198" source="pastiness" target="pallor" />
+      <edge id="199" source="paralysis" target="paresis" />
+      <edge id="200" source="paralysis" target="pain" />
+      <edge id="201" source="paralysis" target="palsy" />
+      <edge id="202" source="palisade" target="parapet" />
+      <edge id="203" source="pap" target="papa" />
+      <edge id="204" source="pap" target="patriarch" />
+      <edge id="205" source="pap" target="pa" />
+      <edge id="206" source="pap" target="pappy" />
+      <edge id="207" source="parson" target="padre" />
+      <edge id="208" source="parson" target="pastor" />
+      <edge id="209" source="passing" target="parting" />
+      <edge id="210" source="panicked" target="panicky" />
+      <edge id="211" source="pardner" target="partner" />
+      <edge id="212" source="paragon" target="parallel" />
+      <edge id="213" source="paralyzed" target="paralytic" />
+      <edge id="214" source="paralyzed" target="pallid" />
+      <edge id="215" source="pacifier" target="paregoric" />
+      <edge id="216" source="pacifier" target="palliative" />
+      <edge id="217" source="paltry" target="parsimonious" />
+      <edge id="218" source="paradiddle" target="palpitation" />
+      <edge id="219" source="payload" target="pack" />
+      <edge id="220" source="panorama" target="pageantry" />
+      <edge id="221" source="panorama" target="pageant" />
+      <edge id="222" source="payment" target="pay" />
+      <edge id="223" source="paint" target="paintbrush" />
+      <edge id="224" source="pa" target="papa" />
+      <edge id="225" source="pa" target="patriarch" />
+      <edge id="226" source="pa" target="pappy" />
+      <edge id="227" source="parliamentary" target="patriarchal" />
+      <edge id="228" source="partly" target="part" />
+      <edge id="229" source="partly" target="partially" />
+      <edge id="230" source="park" target="pampas" />
+      <edge id="231" source="park" target="pasture" />
+      <edge id="232" source="pastor" target="padre" />
+      <edge id="233" source="padding" target="patent" />
+      <edge id="234" source="part" target="patchy" />
+      <edge id="235" source="part" target="partition" />
+      <edge id="236" source="part" target="parts" />
+      <edge id="237" source="part" target="paragraph" />
+      <edge id="238" source="part" target="pack" />
+      <edge id="239" source="part" target="partially" />
+      <edge id="240" source="palsy" target="paresis" />
+      <edge id="241" source="particular" target="particular" />
+      <edge id="242" source="pain" target="pathos" />
+      <edge id="243" source="paean" target="panegyric" />
+      <edge id="244" source="pageant" target="pageantry" />
+      <edge id="245" source="pageant" target="pantomime" />
+      <edge id="246" source="patriarch" target="paramount" />
+      <edge id="247" source="patriarch" target="patron" />
+      <edge id="248" source="patriarch" target="papa" />
+      <edge id="249" source="patriarch" target="pappy" />
+      <edge id="250" source="paragraph" target="pandect" />
+      <edge id="251" source="parquet" target="patchwork" />
+      <edge id="252" source="parquet" target="parterre" />
+      <edge id="253" source="paradisal" target="paradisiac" />
+      <edge id="254" source="pack" target="parachute" />
+      <edge id="255" source="pack" target="pair" />
+      <edge id="256" source="pack" target="party" />
+      <edge id="257" source="passenger" target="pathfinder" />
+      <edge id="258" source="patisserie" target="pastry" />
+      <edge id="259" source="patrol" target="patrolman" />
+      <edge id="260" source="patron" target="paramount" />
+      <edge id="261" source="patron" target="paranymph" />
+      <edge id="262" source="pampas" target="pasture" />
+      <edge id="263" source="partner" target="pair" />
+      <edge id="264" source="partner" target="participant" />
+      <edge id="265" source="partner" target="party" />
+      <edge id="266" source="par" target="parallelism" />
+      <edge id="267" source="participant" target="party" />
+      <edge id="268" source="palsied" target="paralytic" />
+      <edge id="269" source="patent" target="palpable" />
+      <edge id="270" source="pappy" target="papa" />
+      <edge id="271" source="parting" target="partition" />
+    </edges>
+  </graph>
+</gexf>

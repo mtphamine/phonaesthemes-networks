@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="lummox" label="lummox" />
+      <node id="lubricious" label="lubricious" />
+      <node id="lush" label="lush" />
+      <node id="lurch" label="lurch" />
+      <node id="lusterless" label="lusterless" />
+      <node id="lumpen" label="lumpen" />
+      <node id="luminous" label="luminous" />
+      <node id="lumpy" label="lumpy" />
+      <node id="lux" label="lux" />
+      <node id="lumpish" label="lumpish" />
+      <node id="luscious" label="luscious" />
+      <node id="lumen" label="lumen" />
+      <node id="lug" label="lug" />
+      <node id="lumbering" label="lumbering" />
+      <node id="lurid" label="lurid" />
+      <node id="lucid" label="lucid" />
+      <node id="luncheon" label="luncheon" />
+      <node id="lump" label="lump" />
+      <node id="luxurious" label="luxurious" />
+      <node id="lunge" label="lunge" />
+      <node id="lunch" label="lunch" />
+      <node id="lustrous" label="lustrous" />
+      <node id="lubber" label="lubber" />
+      <node id="lustful" label="lustful" />
+      <node id="luxuriant" label="luxuriant" />
+      <node id="lucent" label="lucent" />
+      <node id="lumber" label="lumber" />
+    </nodes>
+    <edges>
+      <edge id="0" source="lummox" target="lubber" />
+      <edge id="1" source="lummox" target="lump" />
+      <edge id="2" source="lummox" target="lug" />
+      <edge id="3" source="lubricious" target="lustful" />
+      <edge id="4" source="lush" target="luscious" />
+      <edge id="5" source="lush" target="luxurious" />
+      <edge id="6" source="lush" target="luxuriant" />
+      <edge id="7" source="lurch" target="lunge" />
+      <edge id="8" source="lurch" target="lumber" />
+      <edge id="9" source="lurch" target="lug" />
+      <edge id="10" source="lusterless" target="lurid" />
+      <edge id="11" source="lumpen" target="lumpish" />
+      <edge id="12" source="luminous" target="lucent" />
+      <edge id="13" source="luminous" target="lucid" />
+      <edge id="14" source="luminous" target="lustrous" />
+      <edge id="15" source="lumpy" target="lumbering" />
+      <edge id="16" source="lumpy" target="lumpish" />
+      <edge id="17" source="lux" target="lumen" />
+      <edge id="18" source="lumpish" target="lumbering" />
+      <edge id="19" source="luscious" target="luxuriant" />
+      <edge id="20" source="luscious" target="luxurious" />
+      <edge id="21" source="lug" target="lubber" />
+      <edge id="22" source="luncheon" target="lunch" />
+      <edge id="23" source="lump" target="lubber" />
+      <edge id="24" source="luxurious" target="luxuriant" />
+      <edge id="25" source="lunge" target="lumber" />
+    </edges>
+  </graph>
+</gexf>

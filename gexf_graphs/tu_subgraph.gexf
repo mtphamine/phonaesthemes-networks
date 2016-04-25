@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="tumble" label="tumble" />
+      <node id="tubercular" label="tubercular" />
+      <node id="turbulent" label="turbulent" />
+      <node id="tumultuous" label="tumultuous" />
+      <node id="tuberous" label="tuberous" />
+      <node id="tutelage" label="tutelage" />
+      <node id="turbid" label="turbid" />
+      <node id="tube" label="tube" />
+      <node id="turncoat" label="turncoat" />
+      <node id="turnaround" label="turnaround" />
+      <node id="tusk" label="tusk" />
+      <node id="tush" label="tush" />
+      <node id="turnabout" label="turnabout" />
+      <node id="turmoil" label="turmoil" />
+      <node id="turning" label="turning" />
+      <node id="tuneful" label="tuneful" />
+      <node id="tuition" label="tuition" />
+      <node id="tumorous" label="tumorous" />
+      <node id="turnstile" label="turnstile" />
+      <node id="turbulence" label="turbulence" />
+      <node id="turnout" label="turnout" />
+      <node id="tumid" label="tumid" />
+      <node id="tumult" label="tumult" />
+      <node id="tutorship" label="tutorship" />
+      <node id="tuned" label="tuned" />
+      <node id="tumor" label="tumor" />
+      <node id="turn" label="turn" />
+      <node id="turgid" label="turgid" />
+      <node id="turnpike" label="turnpike" />
+      <node id="tubing" label="tubing" />
+      <node id="tumescence" label="tumescence" />
+      <node id="turbidity" label="turbidity" />
+      <node id="turntail" label="turntail" />
+    </nodes>
+    <edges>
+      <edge id="0" source="tumble" target="turmoil" />
+      <edge id="1" source="tubercular" target="tuberous" />
+      <edge id="2" source="tubercular" target="tumorous" />
+      <edge id="3" source="turbulent" target="tumultuous" />
+      <edge id="4" source="turbulent" target="turbid" />
+      <edge id="5" source="tutelage" target="tutorship" />
+      <edge id="6" source="tutelage" target="tuition" />
+      <edge id="7" source="tube" target="tubing" />
+      <edge id="8" source="tube" target="turnout" />
+      <edge id="9" source="turncoat" target="turnabout" />
+      <edge id="10" source="turncoat" target="turntail" />
+      <edge id="11" source="turnaround" target="turnabout" />
+      <edge id="12" source="tusk" target="tush" />
+      <edge id="13" source="turnabout" target="turntail" />
+      <edge id="14" source="turnabout" target="turning" />
+      <edge id="15" source="turnabout" target="turn" />
+      <edge id="16" source="turmoil" target="turbulence" />
+      <edge id="17" source="turmoil" target="turbidity" />
+      <edge id="18" source="turmoil" target="tumult" />
+      <edge id="19" source="turning" target="turn" />
+      <edge id="20" source="tuneful" target="tuned" />
+      <edge id="21" source="tuition" target="tutorship" />
+      <edge id="22" source="tumorous" target="tumid" />
+      <edge id="23" source="tumorous" target="turgid" />
+      <edge id="24" source="turnstile" target="turnpike" />
+      <edge id="25" source="turbulence" target="tumult" />
+      <edge id="26" source="turbulence" target="turbidity" />
+      <edge id="27" source="tumid" target="turgid" />
+      <edge id="28" source="tumult" target="turbidity" />
+      <edge id="29" source="tumor" target="tumescence" />
+    </edges>
+  </graph>
+</gexf>

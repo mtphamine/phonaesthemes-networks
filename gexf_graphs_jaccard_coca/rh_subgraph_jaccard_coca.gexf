@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="rhetoric" label="rhetoric">
+        <attvalues>
+          <attvalue for="0" value="3.91429025567" />
+        </attvalues>
+      </node>
+      <node id="rhapsodize" label="rhapsodize">
+        <attvalues>
+          <attvalue for="0" value="1.39794000867" />
+        </attvalues>
+      </node>
+      <node id="rheumatism" label="rheumatism" />
+      <node id="rhapsodic" label="rhapsodic" />
+      <node id="rhyme" label="rhyme">
+        <attvalues>
+          <attvalue for="0" value="3.08990511144" />
+        </attvalues>
+      </node>
+      <node id="rheum" label="rheum">
+        <attvalues>
+          <attvalue for="0" value="1.34242268082" />
+        </attvalues>
+      </node>
+      <node id="rhyming" label="rhyming" />
+      <node id="rhythm" label="rhythm" />
+      <node id="rhapsody" label="rhapsody" />
+      <node id="rhetorical" label="rhetorical">
+        <attvalues>
+          <attvalue for="0" value="3.45924166488" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="rhetoric" target="rhapsody" weight="0.031746" />
+      <edge id="1" source="rhetoric" target="rhetorical" weight="0.011111" />
+      <edge id="2" source="rhetoric" target="rhapsodize" weight="0.016393" />
+      <edge id="3" source="rhapsodize" target="rhapsody" weight="0.133333" />
+      <edge id="4" source="rheumatism" target="rheum" weight="0.047619" />
+      <edge id="5" source="rhapsodic" target="rhyme" weight="0.027027" />
+      <edge id="6" source="rhyme" target="rhyming" weight="0.074074" />
+      <edge id="7" source="rhyme" target="rhythm" weight="0.05" />
+      <edge id="8" source="rhapsody" target="rhetorical" weight="0.022222" />
+    </edges>
+  </graph>
+</gexf>

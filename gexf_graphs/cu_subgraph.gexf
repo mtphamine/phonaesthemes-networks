@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="cute" label="cute" />
+      <node id="curt" label="curt" />
+      <node id="customary" label="customary" />
+      <node id="cussed" label="cussed" />
+      <node id="curvaceous" label="curvaceous" />
+      <node id="curator" label="curator" />
+      <node id="cursed" label="cursed" />
+      <node id="culture" label="culture" />
+      <node id="cure" label="cure" />
+      <node id="curb" label="curb" />
+      <node id="cultured" label="cultured" />
+      <node id="cultivated" label="cultivated" />
+      <node id="curved" label="curved" />
+      <node id="cultivate" label="cultivate" />
+      <node id="cubicle" label="cubicle" />
+      <node id="curl" label="curl" />
+      <node id="custody" label="custody" />
+      <node id="culmination" label="culmination" />
+      <node id="cut" label="cut" />
+      <node id="cultism" label="cultism" />
+      <node id="curing" label="curing" />
+      <node id="cudgel" label="cudgel" />
+      <node id="cushy" label="cushy" />
+      <node id="cutback" label="cutback" />
+      <node id="current" label="current" />
+      <node id="curacy" label="curacy" />
+      <node id="cultivation" label="cultivation" />
+      <node id="cubbyhole" label="cubbyhole" />
+      <node id="curtain" label="curtain" />
+      <node id="curtail" label="curtail" />
+      <node id="curlicue" label="curlicue" />
+      <node id="cutter" label="cutter" />
+      <node id="cull" label="cull" />
+      <node id="curtains" label="curtains" />
+      <node id="cuss" label="cuss" />
+      <node id="cubed" label="cubed" />
+      <node id="cubic" label="cubic" />
+      <node id="custodian" label="custodian" />
+      <node id="cuspid" label="cuspid" />
+      <node id="cutting" label="cutting" />
+      <node id="curiosity" label="curiosity" />
+      <node id="cult" label="cult" />
+      <node id="cumbersome" label="cumbersome" />
+      <node id="cutoff" label="cutoff" />
+      <node id="curbstone" label="curbstone" />
+      <node id="cunning" label="cunning" />
+      <node id="cumbrous" label="cumbrous" />
+      <node id="curse" label="curse" />
+      <node id="curve" label="curve" />
+      <node id="cutlery" label="cutlery" />
+      <node id="cushioned" label="cushioned" />
+      <node id="curvy" label="curvy" />
+      <node id="curtailment" label="curtailment" />
+      <node id="cuff" label="cuff" />
+      <node id="curio" label="curio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="cute" target="cunning" />
+      <edge id="1" source="curt" target="cut" />
+      <edge id="2" source="customary" target="current" />
+      <edge id="3" source="cussed" target="cursed" />
+      <edge id="4" source="curvaceous" target="curvy" />
+      <edge id="5" source="curvaceous" target="curved" />
+      <edge id="6" source="curator" target="custodian" />
+      <edge id="7" source="culture" target="cultivation" />
+      <edge id="8" source="culture" target="cultivate" />
+      <edge id="9" source="culture" target="cut" />
+      <edge id="10" source="cure" target="curacy" />
+      <edge id="11" source="cure" target="curing" />
+      <edge id="12" source="cure" target="custody" />
+      <edge id="13" source="curb" target="curtail" />
+      <edge id="14" source="curb" target="curtailment" />
+      <edge id="15" source="curb" target="curbstone" />
+      <edge id="16" source="cultured" target="cultivated" />
+      <edge id="17" source="curved" target="curvy" />
+      <edge id="18" source="cultivate" target="cut" />
+      <edge id="19" source="cubicle" target="cubbyhole" />
+      <edge id="20" source="curl" target="curve" />
+      <edge id="21" source="curl" target="curlicue" />
+      <edge id="22" source="culmination" target="curtain" />
+      <edge id="23" source="culmination" target="curtains" />
+      <edge id="24" source="cut" target="cull" />
+      <edge id="25" source="cut" target="cutoff" />
+      <edge id="26" source="cut" target="cudgel" />
+      <edge id="27" source="cut" target="cutback" />
+      <edge id="28" source="cut" target="cutting" />
+      <edge id="29" source="cut" target="cuff" />
+      <edge id="30" source="cut" target="curtailment" />
+      <edge id="31" source="cut" target="curtail" />
+      <edge id="32" source="cultism" target="cult" />
+      <edge id="33" source="cushy" target="cushioned" />
+      <edge id="34" source="cutback" target="curtailment" />
+      <edge id="35" source="curtain" target="curtains" />
+      <edge id="36" source="cutter" target="cuspid" />
+      <edge id="37" source="cutter" target="cutlery" />
+      <edge id="38" source="cuss" target="curse" />
+      <edge id="39" source="cubed" target="cubic" />
+      <edge id="40" source="cutting" target="curtailment" />
+      <edge id="41" source="curiosity" target="curio" />
+      <edge id="42" source="cumbersome" target="cumbrous" />
+      <edge id="43" source="cunning" target="cunning" />
+    </edges>
+  </graph>
+</gexf>

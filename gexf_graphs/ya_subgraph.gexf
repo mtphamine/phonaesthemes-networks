@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="yawning" label="yawning" />
+      <node id="yammering" label="yammering" />
+      <node id="yapping" label="yapping" />
+      <node id="yap" label="yap" />
+      <node id="yawp" label="yawp" />
+      <node id="yawn" label="yawn" />
+      <node id="yak" label="yak" />
+      <node id="yammer" label="yammer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="yawning" target="yawn" />
+      <edge id="1" source="yammering" target="yapping" />
+      <edge id="2" source="yap" target="yammer" />
+      <edge id="3" source="yap" target="yak" />
+      <edge id="4" source="yap" target="yawp" />
+      <edge id="5" source="yawp" target="yammer" />
+    </edges>
+  </graph>
+</gexf>

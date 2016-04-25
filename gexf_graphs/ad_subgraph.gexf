@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="admired" label="admired" />
+      <node id="adjusted" label="adjusted" />
+      <node id="adjuvant" label="adjuvant" />
+      <node id="adroit" label="adroit" />
+      <node id="advent" label="advent" />
+      <node id="admonition" label="admonition" />
+      <node id="adventuress" label="adventuress" />
+      <node id="adjective" label="adjective" />
+      <node id="adjustable" label="adjustable" />
+      <node id="adjoining" label="adjoining" />
+      <node id="adaptation" label="adaptation" />
+      <node id="admirer" label="admirer" />
+      <node id="adornment" label="adornment" />
+      <node id="advertise" label="advertise" />
+      <node id="adjustment" label="adjustment" />
+      <node id="adventitious" label="adventitious" />
+      <node id="adhesive" label="adhesive" />
+      <node id="adoration" label="adoration" />
+      <node id="additive" label="additive" />
+      <node id="additional" label="additional" />
+      <node id="adverb" label="adverb" />
+      <node id="adored" label="adored" />
+      <node id="addition" label="addition" />
+      <node id="admission" label="admission" />
+      <node id="administration" label="administration" />
+      <node id="advancement" label="advancement" />
+      <node id="adventurous" label="adventurous" />
+      <node id="adjunct" label="adjunct" />
+      <node id="adverse" label="adverse" />
+      <node id="add" label="add" />
+      <node id="adoption" label="adoption" />
+      <node id="adjoin" label="adjoin" />
+      <node id="adjacent" label="adjacent" />
+      <node id="adequate" label="adequate" />
+      <node id="admirable" label="admirable" />
+      <node id="adapt" label="adapt" />
+      <node id="adventuresome" label="adventuresome" />
+      <node id="administrator" label="administrator" />
+      <node id="adherent" label="adherent" />
+      <node id="adit" label="adit" />
+      <node id="adsorbent" label="adsorbent" />
+      <node id="advantage" label="advantage" />
+      <node id="addendum" label="addendum" />
+      <node id="advice" label="advice" />
+      <node id="advocate" label="advocate" />
+      <node id="admissive" label="admissive" />
+      <node id="adept" label="adept" />
+      <node id="addict" label="addict" />
+      <node id="addlepated" label="addlepated" />
+      <node id="address" label="address" />
+      <node id="adversary" label="adversary" />
+      <node id="advise" label="advise" />
+      <node id="advance" label="advance" />
+      <node id="admiration" label="admiration" />
+      <node id="advantageous" label="advantageous" />
+      <node id="adaptable" label="adaptable" />
+      <node id="adorable" label="adorable" />
+      <node id="admissibility" label="admissibility" />
+      <node id="adopt" label="adopt" />
+      <node id="adventurer" label="adventurer" />
+      <node id="admitted" label="admitted" />
+      <node id="admire" label="admire" />
+      <node id="admissible" label="admissible" />
+      <node id="admit" label="admit" />
+      <node id="adjust" label="adjust" />
+      <node id="adore" label="adore" />
+      <node id="advocacy" label="advocacy" />
+      <node id="adsorption" label="adsorption" />
+      <node id="adherence" label="adherence" />
+      <node id="advisable" label="advisable" />
+      <node id="adapted" label="adapted" />
+      <node id="addled" label="addled" />
+      <node id="admonish" label="admonish" />
+    </nodes>
+    <edges>
+      <edge id="0" source="admired" target="adored" />
+      <edge id="1" source="admired" target="admitted" />
+      <edge id="2" source="adjusted" target="adapted" />
+      <edge id="3" source="adjuvant" target="addition" />
+      <edge id="4" source="adjuvant" target="addendum" />
+      <edge id="5" source="adjuvant" target="additive" />
+      <edge id="6" source="adroit" target="adept" />
+      <edge id="7" source="advent" target="advance" />
+      <edge id="8" source="admonition" target="advice" />
+      <edge id="9" source="admonition" target="advocacy" />
+      <edge id="10" source="adventuress" target="adventurer" />
+      <edge id="11" source="adjective" target="adverb" />
+      <edge id="12" source="adjustable" target="adaptable" />
+      <edge id="13" source="adjoining" target="adjacent" />
+      <edge id="14" source="adaptation" target="adjustment" />
+      <edge id="15" source="admirer" target="advocate" />
+      <edge id="16" source="adornment" target="adjunct" />
+      <edge id="17" source="advertise" target="advise" />
+      <edge id="18" source="adventitious" target="additional" />
+      <edge id="19" source="adhesive" target="adherent" />
+      <edge id="20" source="adoration" target="admiration" />
+      <edge id="21" source="additive" target="addition" />
+      <edge id="22" source="additive" target="addendum" />
+      <edge id="23" source="additive" target="additional" />
+      <edge id="24" source="addition" target="adjunct" />
+      <edge id="25" source="addition" target="advance" />
+      <edge id="26" source="addition" target="addendum" />
+      <edge id="27" source="admission" target="adit" />
+      <edge id="28" source="admission" target="admissibility" />
+      <edge id="29" source="admission" target="adoption" />
+      <edge id="30" source="administration" target="administrator" />
+      <edge id="31" source="advancement" target="advance" />
+      <edge id="32" source="adventurous" target="adventuresome" />
+      <edge id="33" source="adjunct" target="addendum" />
+      <edge id="34" source="adverse" target="adversary" />
+      <edge id="35" source="add" target="adjoin" />
+      <edge id="36" source="adequate" target="admissible" />
+      <edge id="37" source="admirable" target="adorable" />
+      <edge id="38" source="adapt" target="adjust" />
+      <edge id="39" source="adsorbent" target="adsorption" />
+      <edge id="40" source="advantage" target="advance" />
+      <edge id="41" source="advocate" target="advise" />
+      <edge id="42" source="admissive" target="admissible" />
+      <edge id="43" source="addict" target="adjust" />
+      <edge id="44" source="addlepated" target="addled" />
+      <edge id="45" source="address" target="address" />
+      <edge id="46" source="advise" target="admonish" />
+      <edge id="47" source="advance" target="advance" />
+      <edge id="48" source="admiration" target="adherence" />
+      <edge id="49" source="advantageous" target="advisable" />
+      <edge id="50" source="adopt" target="admit" />
+      <edge id="51" source="admire" target="adore" />
+      <edge id="52" source="adjust" target="adjust" />
+    </edges>
+  </graph>
+</gexf>

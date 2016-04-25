@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="east" label="east" />
+      <node id="easement" label="easement" />
+      <node id="earthbound" label="earthbound" />
+      <node id="earnest" label="earnest" />
+      <node id="earnestness" label="earnestness" />
+      <node id="ease" label="ease" />
+      <node id="earthy" label="earthy" />
+      <node id="easterly" label="easterly" />
+      <node id="eardrum" label="eardrum" />
+      <node id="early" label="early" />
+      <node id="eager" label="eager" />
+      <node id="earthly" label="earthly" />
+      <node id="easing" label="easing" />
+      <node id="earth" label="earth" />
+      <node id="ear" label="ear" />
+      <node id="easy" label="easy" />
+      <node id="earlier" label="earlier" />
+      <node id="easygoing" label="easygoing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="east" target="easterly" />
+      <edge id="1" source="easement" target="easing" />
+      <edge id="2" source="easement" target="ease" />
+      <edge id="3" source="earthbound" target="earth" />
+      <edge id="4" source="earthbound" target="earthly" />
+      <edge id="5" source="earnest" target="eager" />
+      <edge id="6" source="earnestness" target="ear" />
+      <edge id="7" source="ease" target="easing" />
+      <edge id="8" source="earthy" target="earthly" />
+      <edge id="9" source="eardrum" target="ear" />
+      <edge id="10" source="early" target="earlier" />
+      <edge id="11" source="earthly" target="earth" />
+      <edge id="12" source="easy" target="easygoing" />
+    </edges>
+  </graph>
+</gexf>

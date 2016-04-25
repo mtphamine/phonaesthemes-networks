@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="eyeglass" label="eyeglass" />
+      <node id="eyesight" label="eyesight" />
+      <node id="eye" label="eye">
+        <attvalues>
+          <attvalue for="0" value="4.66218153724" />
+        </attvalues>
+      </node>
+      <node id="eyeball" label="eyeball" />
+      <node id="eyesore" label="eyesore" />
+      <node id="eyeful" label="eyeful">
+        <attvalues>
+          <attvalue for="0" value="1.98677173427" />
+        </attvalues>
+      </node>
+      <node id="eyelet" label="eyelet">
+        <attvalues>
+          <attvalue for="0" value="1.92427928606" />
+        </attvalues>
+      </node>
+      <node id="eyewitness" label="eyewitness" />
+    </nodes>
+    <edges>
+      <edge id="0" source="eyeglass" target="eye" weight="0.005747" />
+      <edge id="1" source="eyesight" target="eyelet" weight="0.023256" />
+      <edge id="2" source="eyesight" target="eye" weight="0.09816" />
+      <edge id="3" source="eyesight" target="eyeful" weight="0.15625" />
+      <edge id="4" source="eye" target="eyeball" weight="0.1" />
+      <edge id="5" source="eye" target="eyesore" weight="0.005128" />
+      <edge id="6" source="eye" target="eyeful" weight="0.04878" />
+      <edge id="7" source="eye" target="eyelet" weight="0.132911" />
+      <edge id="8" source="eyeball" target="eyelet" weight="0.025" />
+      <edge id="9" source="eyeball" target="eyeful" weight="0.096774" />
+      <edge id="10" source="eyesore" target="eyeful" weight="0.018868" />
+      <edge id="11" source="eyeful" target="eyelet" weight="0.027778" />
+      <edge id="12" source="eyeful" target="eyewitness" weight="0.034483" />
+    </edges>
+  </graph>
+</gexf>

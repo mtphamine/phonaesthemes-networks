@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="zeal" label="zeal" />
+      <node id="zealotry" label="zealotry" />
+      <node id="zest" label="zest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="zeal" target="zealotry" />
+      <edge id="1" source="zeal" target="zest" />
+    </edges>
+  </graph>
+</gexf>

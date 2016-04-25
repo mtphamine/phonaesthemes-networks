@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="arousing" label="arousing" />
+      <node id="arterial" label="arterial" />
+      <node id="artistry" label="artistry" />
+      <node id="art" label="art" />
+      <node id="arrayed" label="arrayed" />
+      <node id="argument" label="argument" />
+      <node id="arousal" label="arousal" />
+      <node id="arc" label="arc" />
+      <node id="arrears" label="arrears" />
+      <node id="army" label="army" />
+      <node id="artifice" label="artifice" />
+      <node id="armada" label="armada" />
+      <node id="arrearage" label="arrearage" />
+      <node id="array" label="array" />
+      <node id="armed" label="armed" />
+      <node id="arrogant" label="arrogant" />
+      <node id="argosy" label="argosy" />
+      <node id="arcade" label="arcade" />
+      <node id="area" label="area" />
+      <node id="armor" label="armor" />
+      <node id="arms" label="arms" />
+      <node id="arrangement" label="arrangement" />
+      <node id="arrest" label="arrest" />
+      <node id="aristocratic" label="aristocratic" />
+      <node id="artisan" label="artisan" />
+      <node id="armory" label="armory" />
+      <node id="aristocracy" label="aristocracy" />
+      <node id="archives" label="archives" />
+      <node id="artilleryman" label="artilleryman" />
+      <node id="armament" label="armament" />
+      <node id="archbishopric" label="archbishopric" />
+      <node id="articulation" label="articulation" />
+      <node id="arraign" label="arraign" />
+      <node id="artifact" label="artifact" />
+      <node id="arsenal" label="arsenal" />
+      <node id="arbitrator" label="arbitrator" />
+      <node id="artery" label="artery" />
+      <node id="article" label="article" />
+      <node id="arch" label="arch" />
+      <node id="arrange" label="arrange" />
+      <node id="arena" label="arena" />
+      <node id="arranged" label="arranged" />
+      <node id="artist" label="artist" />
+      <node id="archway" label="archway" />
+      <node id="artfulness" label="artfulness" />
+      <node id="artful" label="artful" />
+      <node id="archer" label="archer" />
+      <node id="architect" label="architect" />
+      <node id="architecture" label="architecture" />
+      <node id="arbitrary" label="arbitrary" />
+      <node id="arbiter" label="arbiter" />
+      <node id="archaism" label="archaism" />
+    </nodes>
+    <edges>
+      <edge id="0" source="arousing" target="arousal" />
+      <edge id="1" source="arterial" target="artery" />
+      <edge id="2" source="artistry" target="artfulness" />
+      <edge id="3" source="artistry" target="art" />
+      <edge id="4" source="art" target="arena" />
+      <edge id="5" source="art" target="artfulness" />
+      <edge id="6" source="art" target="artifice" />
+      <edge id="7" source="art" target="area" />
+      <edge id="8" source="arrayed" target="arranged" />
+      <edge id="9" source="arrayed" target="armed" />
+      <edge id="10" source="argument" target="architecture" />
+      <edge id="11" source="arc" target="arch" />
+      <edge id="12" source="arrears" target="arrearage" />
+      <edge id="13" source="army" target="array" />
+      <edge id="14" source="artifice" target="artfulness" />
+      <edge id="15" source="armada" target="argosy" />
+      <edge id="16" source="array" target="arrange" />
+      <edge id="17" source="array" target="arrangement" />
+      <edge id="18" source="array" target="articulation" />
+      <edge id="19" source="arrogant" target="aristocratic" />
+      <edge id="20" source="arrogant" target="arbitrary" />
+      <edge id="21" source="arcade" target="artery" />
+      <edge id="22" source="arcade" target="archway" />
+      <edge id="23" source="arcade" target="arch" />
+      <edge id="24" source="area" target="arena" />
+      <edge id="25" source="armor" target="armament" />
+      <edge id="26" source="arms" target="armory" />
+      <edge id="27" source="arrangement" target="architecture" />
+      <edge id="28" source="arrangement" target="arrangement" />
+      <edge id="29" source="arrest" target="arrest" />
+      <edge id="30" source="aristocratic" target="arbitrary" />
+      <edge id="31" source="artisan" target="artist" />
+      <edge id="32" source="armory" target="arsenal" />
+      <edge id="33" source="armory" target="archives" />
+      <edge id="34" source="aristocracy" target="archbishopric" />
+      <edge id="35" source="archives" target="arsenal" />
+      <edge id="36" source="artilleryman" target="archer" />
+      <edge id="37" source="arraign" target="article" />
+      <edge id="38" source="artifact" target="article" />
+      <edge id="39" source="artifact" target="archaism" />
+      <edge id="40" source="arbitrator" target="arbiter" />
+      <edge id="41" source="arch" target="archway" />
+      <edge id="42" source="arch" target="artful" />
+      <edge id="43" source="artist" target="architect" />
+    </edges>
+  </graph>
+</gexf>

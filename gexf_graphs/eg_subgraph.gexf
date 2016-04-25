@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="egocentric" label="egocentric" />
+      <node id="egotist" label="egotist" />
+      <node id="egotistic" label="egotistic" />
+      <node id="eggshell" label="eggshell" />
+      <node id="ego" label="ego" />
+      <node id="egg" label="egg" />
+      <node id="egotism" label="egotism" />
+      <node id="egotistical" label="egotistical" />
+    </nodes>
+    <edges>
+      <edge id="0" source="egocentric" target="egotistic" />
+      <edge id="1" source="egocentric" target="egotist" />
+      <edge id="2" source="egocentric" target="egotistical" />
+      <edge id="3" source="egotistic" target="egotistical" />
+      <edge id="4" source="eggshell" target="egg" />
+      <edge id="5" source="ego" target="egotism" />
+    </edges>
+  </graph>
+</gexf>

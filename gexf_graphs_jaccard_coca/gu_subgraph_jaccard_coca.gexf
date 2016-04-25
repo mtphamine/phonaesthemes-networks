@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="gudgeon" label="gudgeon">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="gunshot" label="gunshot" />
+      <node id="gully" label="gully" />
+      <node id="gumption" label="gumption">
+        <attvalues>
+          <attvalue for="0" value="2.25767857487" />
+        </attvalues>
+      </node>
+      <node id="guttersnipe" label="guttersnipe">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="gull" label="gull" />
+      <node id="guerrilla" label="guerrilla">
+        <attvalues>
+          <attvalue for="0" value="3.39915433396" />
+        </attvalues>
+      </node>
+      <node id="gusto" label="gusto">
+        <attvalues>
+          <attvalue for="0" value="2.75663610825" />
+        </attvalues>
+      </node>
+      <node id="guaranty" label="guaranty">
+        <attvalues>
+          <attvalue for="0" value="2.51188336098" />
+        </attvalues>
+      </node>
+      <node id="guarding" label="guarding" />
+      <node id="guard" label="guard" />
+      <node id="guzzle" label="guzzle" />
+      <node id="gunman" label="gunman">
+        <attvalues>
+          <attvalue for="0" value="3.24129738711" />
+        </attvalues>
+      </node>
+      <node id="guidebook" label="guidebook" />
+      <node id="guillotine" label="guillotine">
+        <attvalues>
+          <attvalue for="0" value="2.54777470539" />
+        </attvalues>
+      </node>
+      <node id="gunner" label="gunner">
+        <attvalues>
+          <attvalue for="0" value="2.7923916895" />
+        </attvalues>
+      </node>
+      <node id="gurgle" label="gurgle">
+        <attvalues>
+          <attvalue for="0" value="2.33645973385" />
+        </attvalues>
+      </node>
+      <node id="gumbo" label="gumbo" />
+      <node id="gutless" label="gutless" />
+      <node id="guess" label="guess">
+        <attvalues>
+          <attvalue for="0" value="4.69771743166" />
+        </attvalues>
+      </node>
+      <node id="gunfight" label="gunfight" />
+      <node id="gunk" label="gunk">
+        <attvalues>
+          <attvalue for="0" value="2.35983548234" />
+        </attvalues>
+      </node>
+      <node id="gulf" label="gulf">
+        <attvalues>
+          <attvalue for="0" value="4.37854324716" />
+        </attvalues>
+      </node>
+      <node id="guru" label="guru">
+        <attvalues>
+          <attvalue for="0" value="3.3018977172" />
+        </attvalues>
+      </node>
+      <node id="guinea" label="guinea" />
+      <node id="guidance" label="guidance" />
+      <node id="guts" label="guts">
+        <attvalues>
+          <attvalue for="0" value="3.44886084561" />
+        </attvalues>
+      </node>
+      <node id="guaranteed" label="guaranteed" />
+      <node id="guideline" label="guideline">
+        <attvalues>
+          <attvalue for="0" value="2.89431606268" />
+        </attvalues>
+      </node>
+      <node id="gulp" label="gulp">
+        <attvalues>
+          <attvalue for="0" value="2.95182303532" />
+        </attvalues>
+      </node>
+      <node id="gutsy" label="gutsy">
+        <attvalues>
+          <attvalue for="0" value="2.66745295289" />
+        </attvalues>
+      </node>
+      <node id="gurge" label="gurge" />
+      <node id="guarantee" label="guarantee">
+        <attvalues>
+          <attvalue for="0" value="3.96341001568" />
+        </attvalues>
+      </node>
+      <node id="guidepost" label="guidepost" />
+      <node id="guywire" label="guywire">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="guttural" label="guttural" />
+      <node id="gunsel" label="gunsel" />
+      <node id="gummy" label="gummy">
+        <attvalues>
+          <attvalue for="0" value="2.52633927739" />
+        </attvalues>
+      </node>
+      <node id="guarded" label="guarded">
+        <attvalues>
+          <attvalue for="0" value="3.38987455839" />
+        </attvalues>
+      </node>
+      <node id="gunnery" label="gunnery">
+        <attvalues>
+          <attvalue for="0" value="2.28555730901" />
+        </attvalues>
+      </node>
+      <node id="guilefully" label="guilefully" />
+      <node id="guardian" label="guardian">
+        <attvalues>
+          <attvalue for="0" value="3.50528567414" />
+        </attvalues>
+      </node>
+      <node id="guardrail" label="guardrail" />
+      <node id="guiltless" label="guiltless">
+        <attvalues>
+          <attvalue for="0" value="1.89762709129" />
+        </attvalues>
+      </node>
+      <node id="guff" label="guff" />
+      <node id="guileful" label="guileful">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="gulch" label="gulch" />
+      <node id="gullet" label="gullet">
+        <attvalues>
+          <attvalue for="0" value="2.1105897103" />
+        </attvalues>
+      </node>
+      <node id="gushing" label="gushing" />
+      <node id="gutter" label="gutter">
+        <attvalues>
+          <attvalue for="0" value="2.94200805302" />
+        </attvalues>
+      </node>
+      <node id="guile" label="guile">
+        <attvalues>
+          <attvalue for="0" value="2.33445375115" />
+        </attvalues>
+      </node>
+      <node id="guffaw" label="guffaw" />
+      <node id="gust" label="gust" />
+      <node id="guarantor" label="guarantor" />
+      <node id="gun" label="gun">
+        <attvalues>
+          <attvalue for="0" value="4.5291350775" />
+        </attvalues>
+      </node>
+      <node id="gum" label="gum" />
+      <node id="gunfire" label="gunfire">
+        <attvalues>
+          <attvalue for="0" value="3.31302311032" />
+        </attvalues>
+      </node>
+      <node id="gullible" label="gullible">
+        <attvalues>
+          <attvalue for="0" value="2.58994960133" />
+        </attvalues>
+      </node>
+      <node id="guardhouse" label="guardhouse" />
+      <node id="guilt" label="guilt" />
+      <node id="gush" label="gush" />
+      <node id="guileless" label="guileless">
+        <attvalues>
+          <attvalue for="0" value="2.23044892138" />
+        </attvalues>
+      </node>
+      <node id="gut" label="gut">
+        <attvalues>
+          <attvalue for="0" value="3.62654565903" />
+        </attvalues>
+      </node>
+      <node id="guise" label="guise">
+        <attvalues>
+          <attvalue for="0" value="3.0595634179" />
+        </attvalues>
+      </node>
+      <node id="guesswork" label="guesswork">
+        <attvalues>
+          <attvalue for="0" value="2.55388302664" />
+        </attvalues>
+      </node>
+      <node id="guy" label="guy" />
+      <node id="gumshoe" label="gumshoe" />
+      <node id="guide" label="guide">
+        <attvalues>
+          <attvalue for="0" value="4.38749660694" />
+        </attvalues>
+      </node>
+      <node id="guardianship" label="guardianship" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gudgeon" target="guinea" weight="0.018868" />
+      <edge id="1" source="gudgeon" target="guileless" weight="0.013889" />
+      <edge id="2" source="gudgeon" target="guiltless" weight="0.018868" />
+      <edge id="3" source="gudgeon" target="gull" weight="0.206522" />
+      <edge id="4" source="gudgeon" target="guywire" weight="0.013514" />
+      <edge id="5" source="gudgeon" target="gullible" weight="0.02" />
+      <edge id="6" source="gudgeon" target="guy" weight="0.008475" />
+      <edge id="7" source="gunshot" target="guess" weight="0.016949" />
+      <edge id="8" source="gunshot" target="gulf" weight="0.006667" />
+      <edge id="9" source="gunshot" target="gun" weight="0.090278" />
+      <edge id="10" source="gunshot" target="gunner" weight="0.033333" />
+      <edge id="11" source="gunshot" target="gunman" weight="0.028986" />
+      <edge id="12" source="gunshot" target="gunfire" weight="0.317073" />
+      <edge id="13" source="gully" target="guess" weight="0.005525" />
+      <edge id="14" source="gully" target="gutter" weight="0.082192" />
+      <edge id="15" source="gully" target="gullet" weight="0.00885" />
+      <edge id="16" source="gully" target="gulf" weight="0.374194" />
+      <edge id="17" source="gully" target="gun" weight="0.009217" />
+      <edge id="18" source="gully" target="gulp" weight="0.005952" />
+      <edge id="19" source="gully" target="gut" weight="0.009217" />
+      <edge id="20" source="gully" target="guide" weight="0.003205" />
+      <edge id="21" source="gully" target="gurgle" weight="0.007752" />
+      <edge id="22" source="gumption" target="gust" weight="0.007874" />
+      <edge id="23" source="gumption" target="guts" weight="0.050505" />
+      <edge id="24" source="gumption" target="gusto" weight="0.011494" />
+      <edge id="25" source="gumption" target="gun" weight="0.007042" />
+      <edge id="26" source="gumption" target="guise" weight="0.005495" />
+      <edge id="27" source="gumption" target="guide" weight="0.008511" />
+      <edge id="28" source="guttersnipe" target="gunsel" weight="0.016393" />
+      <edge id="29" source="guttersnipe" target="gun" weight="0.011628" />
+      <edge id="30" source="guttersnipe" target="gunman" weight="0.035294" />
+      <edge id="31" source="guttersnipe" target="gush" weight="0.003861" />
+      <edge id="32" source="guttersnipe" target="guy" weight="0.007576" />
+      <edge id="33" source="guttersnipe" target="guttural" weight="0.006452" />
+      <edge id="34" source="gull" target="gutter" weight="0.006993" />
+      <edge id="35" source="gull" target="guardian" weight="0.007692" />
+      <edge id="36" source="gull" target="guileless" weight="0.017241" />
+      <edge id="37" source="gull" target="guiltless" weight="0.010204" />
+      <edge id="38" source="gull" target="gun" weight="0.004902" />
+      <edge id="39" source="gull" target="guywire" weight="0.008403" />
+      <edge id="40" source="gull" target="gullible" weight="0.010526" />
+      <edge id="41" source="gull" target="guillotine" weight="0.009901" />
+      <edge id="42" source="gull" target="gut" weight="0.004902" />
+      <edge id="43" source="gull" target="guise" weight="0.004098" />
+      <edge id="44" source="guerrilla" target="guard" weight="0.005208" />
+      <edge id="45" source="guerrilla" target="guide" weight="0.004425" />
+      <edge id="46" source="guerrilla" target="gut" weight="0.007576" />
+      <edge id="47" source="gusto" target="gushing" weight="0.006369" />
+      <edge id="48" source="gusto" target="gunsel" weight="0.006757" />
+      <edge id="49" source="gusto" target="gunfight" weight="0.012346" />
+      <edge id="50" source="gusto" target="gust" weight="0.194805" />
+      <edge id="51" source="gusto" target="guts" weight="0.081081" />
+      <edge id="52" source="gusto" target="gun" weight="0.005051" />
+      <edge id="53" source="gusto" target="gunfire" weight="0.010526" />
+      <edge id="54" source="gusto" target="gush" weight="0.003521" />
+      <edge id="55" source="gusto" target="guise" weight="0.004202" />
+      <edge id="56" source="gusto" target="guy" weight="0.012821" />
+      <edge id="57" source="gusto" target="guide" weight="0.003425" />
+      <edge id="58" source="gusto" target="guile" weight="0.010417" />
+      <edge id="59" source="guaranty" target="guarantor" weight="0.162162" />
+      <edge id="60" source="guaranty" target="guaranteed" weight="0.015152" />
+      <edge id="61" source="guaranty" target="guywire" weight="0.014493" />
+      <edge id="62" source="guaranty" target="guard" weight="0.028708" />
+      <edge id="63" source="guaranty" target="guy" weight="0.00885" />
+      <edge id="64" source="guaranty" target="guttural" weight="0.007353" />
+      <edge id="65" source="guaranty" target="guarantee" weight="0.366197" />
+      <edge id="66" source="guarding" target="guess" weight="0.009009" />
+      <edge id="67" source="guarding" target="guarded" weight="0.027523" />
+      <edge id="68" source="guarding" target="guardian" weight="0.190476" />
+      <edge id="69" source="guarding" target="gun" weight="0.006757" />
+      <edge id="70" source="guarding" target="guise" weight="0.005319" />
+      <edge id="71" source="guarding" target="guide" weight="0.008299" />
+      <edge id="72" source="guarding" target="guarantee" weight="0.011111" />
+      <edge id="73" source="guard" target="guarantee" weight="0.122807" />
+      <edge id="74" source="guard" target="guess" weight="0.003623" />
+      <edge id="75" source="guard" target="guarded" weight="0.003623" />
+      <edge id="76" source="guard" target="gulf" weight="0.009836" />
+      <edge id="77" source="guard" target="guru" weight="0.004202" />
+      <edge id="78" source="guard" target="guardian" weight="0.066667" />
+      <edge id="79" source="guard" target="gun" weight="0.019481" />
+      <edge id="80" source="guard" target="gunner" weight="0.018605" />
+      <edge id="81" source="guard" target="gulp" weight="0.007634" />
+      <edge id="82" source="guard" target="gutter" weight="0.003968" />
+      <edge id="83" source="guard" target="gunman" weight="0.00885" />
+      <edge id="84" source="guard" target="gut" weight="0.00641" />
+      <edge id="85" source="guard" target="guise" weight="0.026087" />
+      <edge id="86" source="guard" target="guywire" weight="0.031532" />
+      <edge id="87" source="guard" target="guide" weight="0.051546" />
+      <edge id="88" source="guard" target="gunk" weight="0.004049" />
+      <edge id="89" source="guzzle" target="guess" weight="0.006098" />
+      <edge id="90" source="guzzle" target="gunk" weight="0.014925" />
+      <edge id="91" source="guzzle" target="gulf" weight="0.005128" />
+      <edge id="92" source="guzzle" target="guts" weight="0.006173" />
+      <edge id="93" source="guzzle" target="gun" weight="0.01" />
+      <edge id="94" source="guzzle" target="gunner" weight="0.009434" />
+      <edge id="95" source="guzzle" target="gulp" weight="0.288136" />
+      <edge id="96" source="guzzle" target="gunman" weight="0.008696" />
+      <edge id="97" source="guzzle" target="gunfire" weight="0.010204" />
+      <edge id="98" source="guzzle" target="gut" weight="0.025381" />
+      <edge id="99" source="guzzle" target="guillotine" weight="0.010204" />
+      <edge id="100" source="guzzle" target="guarantee" weight="0.006993" />
+      <edge id="101" source="guzzle" target="guide" weight="0.00339" />
+      <edge id="102" source="guzzle" target="gurgle" weight="0.027273" />
+      <edge id="103" source="guzzle" target="gullet" weight="0.031915" />
+      <edge id="104" source="gunman" target="gunsel" weight="0.216495" />
+      <edge id="105" source="gunman" target="guess" weight="0.007692" />
+      <edge id="106" source="gunman" target="gun" weight="0.253731" />
+      <edge id="107" source="gunman" target="gunner" weight="0.196721" />
+      <edge id="108" source="gunman" target="guide" weight="0.003831" />
+      <edge id="109" source="gunman" target="gunfire" weight="0.031746" />
+      <edge id="110" source="gunman" target="guttural" weight="0.006711" />
+      <edge id="111" source="guidebook" target="gutter" weight="0.009259" />
+      <edge id="112" source="guidebook" target="guru" weight="0.010638" />
+      <edge id="113" source="guidebook" target="guardian" weight="0.010526" />
+      <edge id="114" source="guidebook" target="guts" weight="0.007692" />
+      <edge id="115" source="guidebook" target="guise" weight="0.004785" />
+      <edge id="116" source="guidebook" target="guide" weight="0.015385" />
+      <edge id="117" source="guidebook" target="guarantee" weight="0.009009" />
+      <edge id="118" source="guillotine" target="gutter" weight="0.011236" />
+      <edge id="119" source="guillotine" target="gun" weight="0.013423" />
+      <edge id="120" source="guillotine" target="guy" weight="0.009174" />
+      <edge id="121" source="guillotine" target="guide" weight="0.00823" />
+      <edge id="122" source="guillotine" target="gurgle" weight="0.016393" />
+      <edge id="123" source="gunner" target="gunsel" weight="0.028302" />
+      <edge id="124" source="gunner" target="guess" weight="0.008264" />
+      <edge id="125" source="gunner" target="guardian" weight="0.011905" />
+      <edge id="126" source="gunner" target="gun" weight="0.081633" />
+      <edge id="127" source="gunner" target="guide" weight="0.012" />
+      <edge id="128" source="gunner" target="guy" weight="0.008547" />
+      <edge id="129" source="gunner" target="guidepost" weight="0.022727" />
+      <edge id="130" source="gunner" target="gunfire" weight="0.037037" />
+      <edge id="131" source="gunner" target="guardianship" weight="0.013333" />
+      <edge id="132" source="gurgle" target="guff" weight="0.0125" />
+      <edge id="133" source="gurgle" target="guess" weight="0.007874" />
+      <edge id="134" source="gurgle" target="gunk" weight="0.010204" />
+      <edge id="135" source="gurgle" target="gun" weight="0.006098" />
+      <edge id="136" source="gurgle" target="gulp" weight="0.008772" />
+      <edge id="137" source="gurgle" target="gulch" weight="0.009174" />
+      <edge id="138" source="gurgle" target="gurge" weight="0.016129" />
+      <edge id="139" source="gurgle" target="gush" weight="0.012097" />
+      <edge id="140" source="gurgle" target="guide" weight="0.003876" />
+      <edge id="141" source="gurgle" target="gumbo" weight="0.007813" />
+      <edge id="142" source="gumbo" target="gummy" weight="0.295918" />
+      <edge id="143" source="gumbo" target="gutter" weight="0.00641" />
+      <edge id="144" source="gumbo" target="gunk" weight="0.407407" />
+      <edge id="145" source="gumbo" target="gun" weight="0.004608" />
+      <edge id="146" source="gumbo" target="gulp" weight="0.005988" />
+      <edge id="147" source="gumbo" target="gutsy" weight="0.013333" />
+      <edge id="148" source="gutless" target="gullible" weight="0.016949" />
+      <edge id="149" source="guess" target="gutter" weight="0.006452" />
+      <edge id="150" source="guess" target="gulf" weight="0.004762" />
+      <edge id="151" source="guess" target="gust" weight="0.01" />
+      <edge id="152" source="guess" target="gun" weight="0.009302" />
+      <edge id="153" source="guess" target="gulch" weight="0.006211" />
+      <edge id="154" source="guess" target="guise" weight="0.007843" />
+      <edge id="155" source="guess" target="guesswork" weight="0.053097" />
+      <edge id="156" source="guess" target="gunfire" weight="0.00885" />
+      <edge id="157" source="gunfight" target="gun" weight="0.014815" />
+      <edge id="158" source="gunfight" target="gunnery" weight="0.176471" />
+      <edge id="159" source="gunfight" target="gunfire" weight="0.36" />
+      <edge id="160" source="gunk" target="gummy" weight="0.021053" />
+      <edge id="161" source="gunk" target="gum" weight="0.032967" />
+      <edge id="162" source="gunk" target="gush" weight="0.003663" />
+      <edge id="163" source="gulf" target="guywire" weight="0.006173" />
+      <edge id="164" source="gulf" target="guarantee" weight="0.010638" />
+      <edge id="165" source="gulf" target="guaranteed" weight="0.006289" />
+      <edge id="166" source="gulf" target="gulp" weight="0.005076" />
+      <edge id="167" source="gulf" target="gurge" weight="0.089552" />
+      <edge id="168" source="gulf" target="guttural" weight="0.004367" />
+      <edge id="169" source="gulf" target="guileful" weight="0.005587" />
+      <edge id="170" source="gulf" target="gulch" weight="0.440299" />
+      <edge id="171" source="gulf" target="gutter" weight="0.027473" />
+      <edge id="172" source="gulf" target="gullet" weight="0.014184" />
+      <edge id="173" source="gulf" target="guffaw" weight="0.007042" />
+      <edge id="174" source="gulf" target="gust" weight="0.00431" />
+      <edge id="175" source="gulf" target="gun" weight="0.00813" />
+      <edge id="176" source="gulf" target="gum" weight="0.006536" />
+      <edge id="177" source="gulf" target="guilt" weight="0.007813" />
+      <edge id="178" source="gulf" target="gush" weight="0.003003" />
+      <edge id="179" source="gulf" target="gut" weight="0.082969" />
+      <edge id="180" source="gulf" target="guy" weight="0.009756" />
+      <edge id="181" source="guru" target="gutter" weight="0.008547" />
+      <edge id="182" source="guru" target="guardian" weight="0.019417" />
+      <edge id="183" source="guru" target="guarantor" weight="0.030769" />
+      <edge id="184" source="guru" target="guidepost" weight="0.015625" />
+      <edge id="185" source="guru" target="guidance" weight="0.007752" />
+      <edge id="186" source="guru" target="guy" weight="0.007299" />
+      <edge id="187" source="guru" target="guide" weight="0.070588" />
+      <edge id="188" source="guinea" target="gun" weight="0.006803" />
+      <edge id="189" source="guidance" target="guardian" weight="0.007692" />
+      <edge id="190" source="guidance" target="guywire" weight="0.008403" />
+      <edge id="191" source="guidance" target="gun" weight="0.004902" />
+      <edge id="192" source="guidance" target="guise" weight="0.012397" />
+      <edge id="193" source="guidance" target="guideline" weight="0.009901" />
+      <edge id="194" source="guidance" target="guide" weight="0.017007" />
+      <edge id="195" source="guts" target="gust" weight="0.041667" />
+      <edge id="196" source="guts" target="gun" weight="0.004673" />
+      <edge id="197" source="guts" target="gum" weight="0.008333" />
+      <edge id="198" source="guts" target="guywire" weight="0.007752" />
+      <edge id="199" source="guts" target="gulp" weight="0.006098" />
+      <edge id="200" source="guts" target="gut" weight="0.028708" />
+      <edge id="201" source="guts" target="guy" weight="0.017544" />
+      <edge id="202" source="guts" target="guidepost" weight="0.01" />
+      <edge id="203" source="guts" target="guide" weight="0.009804" />
+      <edge id="204" source="guts" target="gullet" weight="0.037736" />
+      <edge id="205" source="guaranteed" target="guarded" weight="0.007813" />
+      <edge id="206" source="guaranteed" target="guarantee" weight="0.009346" />
+      <edge id="207" source="guaranteed" target="gut" weight="0.006061" />
+      <edge id="208" source="guideline" target="guise" weight="0.005263" />
+      <edge id="209" source="guideline" target="gutsy" weight="0.011905" />
+      <edge id="210" source="guideline" target="guide" weight="0.012397" />
+      <edge id="211" source="gulp" target="gunsel" weight="0.006536" />
+      <edge id="212" source="gulp" target="guffaw" weight="0.010204" />
+      <edge id="213" source="gulp" target="gust" weight="0.010695" />
+      <edge id="214" source="gulp" target="guardrail" weight="0.009259" />
+      <edge id="215" source="gulp" target="guff" weight="0.008403" />
+      <edge id="216" source="gulp" target="gut" weight="0.02" />
+      <edge id="217" source="gulp" target="gulch" weight="0.006757" />
+      <edge id="218" source="gulp" target="gullet" weight="0.020619" />
+      <edge id="219" source="gulp" target="guide" weight="0.006757" />
+      <edge id="220" source="gulp" target="guttural" weight="0.005405" />
+      <edge id="221" source="gulp" target="gush" weight="0.00346" />
+      <edge id="222" source="gutsy" target="gunsel" weight="0.007299" />
+      <edge id="223" source="gutsy" target="gummy" weight="0.031915" />
+      <edge id="224" source="gutsy" target="gun" weight="0.005348" />
+      <edge id="225" source="gutsy" target="guttural" weight="0.017964" />
+      <edge id="226" source="gurge" target="guise" weight="0.005236" />
+      <edge id="227" source="gurge" target="gut" weight="0.006623" />
+      <edge id="228" source="guarantee" target="guardian" weight="0.016667" />
+      <edge id="229" source="guarantee" target="guarantor" weight="0.076923" />
+      <edge id="230" source="guarantee" target="guywire" weight="0.027778" />
+      <edge id="231" source="guarantee" target="guardhouse" weight="0.012195" />
+      <edge id="232" source="guarantee" target="guardrail" weight="0.074468" />
+      <edge id="233" source="guarantee" target="gut" weight="0.010309" />
+      <edge id="234" source="guarantee" target="guise" weight="0.026087" />
+      <edge id="235" source="guarantee" target="guesswork" weight="0.010309" />
+      <edge id="236" source="guarantee" target="guy" weight="0.019737" />
+      <edge id="237" source="guarantee" target="guide" weight="0.00346" />
+      <edge id="238" source="guarantee" target="guttural" weight="0.00565" />
+      <edge id="239" source="guarantee" target="guardianship" weight="0.008929" />
+      <edge id="240" source="guidepost" target="gutter" weight="0.012821" />
+      <edge id="241" source="guidepost" target="guardian" weight="0.015385" />
+      <edge id="242" source="guidepost" target="guide" weight="0.054054" />
+      <edge id="243" source="guywire" target="guarantor" weight="0.017857" />
+      <edge id="244" source="guywire" target="gun" weight="0.005952" />
+      <edge id="245" source="guywire" target="gut" weight="0.005952" />
+      <edge id="246" source="guywire" target="guise" weight="0.004808" />
+      <edge id="247" source="guywire" target="guy" weight="0.471264" />
+      <edge id="248" source="guywire" target="guide" weight="0.003817" />
+      <edge id="249" source="guywire" target="guttural" weight="0.006667" />
+      <edge id="250" source="guttural" target="gummy" weight="0.013986" />
+      <edge id="251" source="guttural" target="gutter" weight="0.017442" />
+      <edge id="252" source="guttural" target="gullible" weight="0.007937" />
+      <edge id="253" source="guttural" target="guileless" weight="0.006757" />
+      <edge id="254" source="guttural" target="gun" weight="0.008547" />
+      <edge id="255" source="guttural" target="guise" weight="0.007299" />
+      <edge id="256" source="gunsel" target="gummy" weight="0.008929" />
+      <edge id="257" source="gunsel" target="gutter" weight="0.007042" />
+      <edge id="258" source="gunsel" target="gun" weight="0.172414" />
+      <edge id="259" source="gunsel" target="guise" weight="0.004115" />
+      <edge id="260" source="gunsel" target="gunfire" weight="0.01" />
+      <edge id="261" source="gummy" target="gushing" weight="0.02521" />
+      <edge id="262" source="gummy" target="gun" weight="0.006173" />
+      <edge id="263" source="guarded" target="guardian" weight="0.021429" />
+      <edge id="264" source="guarded" target="guileful" weight="0.034722" />
+      <edge id="265" source="guarded" target="guise" weight="0.003906" />
+      <edge id="266" source="gunnery" target="gunfire" weight="0.096774" />
+      <edge id="267" source="guilefully" target="guileful" weight="0.016129" />
+      <edge id="268" source="guardian" target="gutter" weight="0.008475" />
+      <edge id="269" source="guardian" target="guarantor" weight="0.014925" />
+      <edge id="270" source="guardian" target="guff" weight="0.010526" />
+      <edge id="271" source="guardian" target="guardrail" weight="0.049383" />
+      <edge id="272" source="guardian" target="guise" weight="0.004566" />
+      <edge id="273" source="guardian" target="gumshoe" weight="0.011111" />
+      <edge id="274" source="guardian" target="guide" weight="0.037879" />
+      <edge id="275" source="guardian" target="guardianship" weight="0.010417" />
+      <edge id="276" source="guardrail" target="guise" weight="0.015306" />
+      <edge id="277" source="guardrail" target="guide" weight="0.007968" />
+      <edge id="278" source="guiltless" target="gullible" weight="0.026316" />
+      <edge id="279" source="guiltless" target="guileless" weight="0.033898" />
+      <edge id="280" source="guiltless" target="gut" weight="0.006803" />
+      <edge id="281" source="guileful" target="gushing" weight="0.013986" />
+      <edge id="282" source="guileful" target="guile" weight="0.012048" />
+      <edge id="283" source="gulch" target="gutter" weight="0.061538" />
+      <edge id="284" source="gulch" target="gullet" weight="0.010753" />
+      <edge id="285" source="gulch" target="gun" weight="0.005051" />
+      <edge id="286" source="gulch" target="gut" weight="0.005051" />
+      <edge id="287" source="gullet" target="gust" weight="0.007519" />
+      <edge id="288" source="gullet" target="gun" weight="0.006757" />
+      <edge id="289" source="gullet" target="gut" weight="0.128788" />
+      <edge id="290" source="gushing" target="gullible" weight="0.009709" />
+      <edge id="291" source="gutter" target="guileless" weight="0.009524" />
+      <edge id="292" source="gutter" target="gun" weight="0.010471" />
+      <edge id="293" source="gutter" target="gum" weight="0.010204" />
+      <edge id="294" source="gutter" target="gush" weight="0.00722" />
+      <edge id="295" source="gutter" target="guide" weight="0.014134" />
+      <edge id="296" source="guile" target="gust" weight="0.007353" />
+      <edge id="297" source="gust" target="gut" weight="0.004202" />
+      <edge id="298" source="gust" target="guise" weight="0.02952" />
+      <edge id="299" source="gust" target="guide" weight="0.012158" />
+      <edge id="300" source="guarantor" target="guide" weight="0.004255" />
+      <edge id="301" source="gun" target="guide" weight="0.011628" />
+      <edge id="302" source="gun" target="gush" weight="0.014925" />
+      <edge id="303" source="gun" target="gut" weight="0.011952" />
+      <edge id="304" source="gun" target="guise" weight="0.006849" />
+      <edge id="305" source="gun" target="guy" weight="0.004717" />
+      <edge id="306" source="gun" target="gumshoe" weight="0.006098" />
+      <edge id="307" source="gun" target="gunfire" weight="0.10219" />
+      <edge id="308" source="gun" target="guardianship" weight="0.005882" />
+      <edge id="309" source="gum" target="gut" weight="0.006289" />
+      <edge id="310" source="gunfire" target="gush" weight="0.008511" />
+      <edge id="311" source="gullible" target="guileless" weight="0.16" />
+      <edge id="312" source="gush" target="guise" weight="0.002639" />
+      <edge id="313" source="gush" target="guide" weight="0.002309" />
+      <edge id="314" source="guileless" target="guide" weight="0.003846" />
+      <edge id="315" source="gut" target="guise" weight="0.003413" />
+      <edge id="316" source="gut" target="guy" weight="0.004717" />
+      <edge id="317" source="guise" target="guy" weight="0.003968" />
+      <edge id="318" source="guise" target="guide" weight="0.023747" />
+      <edge id="319" source="guy" target="guide" weight="0.013201" />
+      <edge id="320" source="gumshoe" target="guide" weight="0.007782" />
+      <edge id="321" source="guide" target="guardianship" weight="0.003788" />
+    </edges>
+  </graph>
+</gexf>

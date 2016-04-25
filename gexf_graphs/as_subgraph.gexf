@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="astringent" label="astringent" />
+      <node id="associated" label="associated" />
+      <node id="astronomical" label="astronomical" />
+      <node id="astound" label="astound" />
+      <node id="aside" label="aside" />
+      <node id="assess" label="assess" />
+      <node id="ask" label="ask" />
+      <node id="asseverate" label="asseverate" />
+      <node id="aspect" label="aspect" />
+      <node id="ascension" label="ascension" />
+      <node id="assembly" label="assembly" />
+      <node id="asperity" label="asperity" />
+      <node id="ascent" label="ascent" />
+      <node id="assembled" label="assembled" />
+      <node id="astrology" label="astrology" />
+      <node id="astonishing" label="astonishing" />
+      <node id="astronomy" label="astronomy" />
+      <node id="asthma" label="asthma" />
+      <node id="assure" label="assure" />
+      <node id="assistance" label="assistance" />
+      <node id="aspiring" label="aspiring" />
+      <node id="assertion" label="assertion" />
+      <node id="astray" label="astray" />
+      <node id="astronomic" label="astronomic" />
+      <node id="assumption" label="assumption" />
+      <node id="astonish" label="astonish" />
+      <node id="assignment" label="assignment" />
+      <node id="astrophysics" label="astrophysics" />
+      <node id="astral" label="astral" />
+      <node id="assurance" label="assurance" />
+      <node id="assist" label="assist" />
+      <node id="assay" label="assay" />
+      <node id="assured" label="assured" />
+      <node id="associate" label="associate" />
+      <node id="asymmetric" label="asymmetric" />
+      <node id="assistant" label="assistant" />
+      <node id="asphyxiation" label="asphyxiation" />
+      <node id="ascribe" label="ascribe" />
+      <node id="assimilation" label="assimilation" />
+      <node id="ascending" label="ascending" />
+      <node id="assert" label="assert" />
+      <node id="astounding" label="astounding" />
+      <node id="assault" label="assault" />
+      <node id="ascendant" label="ascendant" />
+      <node id="assemble" label="assemble" />
+      <node id="assail" label="assail" />
+      <node id="assortment" label="assortment" />
+      <node id="ash" label="ash" />
+      <node id="astounded" label="astounded" />
+      <node id="association" label="association" />
+      <node id="assignation" label="assignation" />
+      <node id="assimilate" label="assimilate" />
+      <node id="askance" label="askance" />
+      <node id="aspiration" label="aspiration" />
+      <node id="ashen" label="ashen" />
+      <node id="askew" label="askew" />
+      <node id="astringency" label="astringency" />
+      <node id="ashes" label="ashes" />
+      <node id="ascertained" label="ascertained" />
+      <node id="astrophysical" label="astrophysical" />
+      <node id="assume" label="assume" />
+      <node id="ascertain" label="ascertain" />
+      <node id="assign" label="assign" />
+      <node id="assemblage" label="assemblage" />
+      <node id="ascetic" label="ascetic" />
+    </nodes>
+    <edges>
+      <edge id="0" source="astringent" target="ascetic" />
+      <edge id="1" source="associated" target="assembled" />
+      <edge id="2" source="associated" target="associate" />
+      <edge id="3" source="astronomical" target="astronomic" />
+      <edge id="4" source="astound" target="astonish" />
+      <edge id="5" source="aside" target="askance" />
+      <edge id="6" source="assess" target="ask" />
+      <edge id="7" source="assess" target="assay" />
+      <edge id="8" source="asseverate" target="assert" />
+      <edge id="9" source="aspect" target="astrology" />
+      <edge id="10" source="ascension" target="assumption" />
+      <edge id="11" source="ascension" target="ascent" />
+      <edge id="12" source="assembly" target="assemblage" />
+      <edge id="13" source="assembly" target="assignation" />
+      <edge id="14" source="assembly" target="association" />
+      <edge id="15" source="asperity" target="astringency" />
+      <edge id="16" source="ascent" target="assumption" />
+      <edge id="17" source="astonishing" target="astounding" />
+      <edge id="18" source="astronomy" target="astrophysics" />
+      <edge id="19" source="asthma" target="asphyxiation" />
+      <edge id="20" source="assure" target="ascertain" />
+      <edge id="21" source="assistance" target="assist" />
+      <edge id="22" source="aspiring" target="assured" />
+      <edge id="23" source="aspiring" target="ascending" />
+      <edge id="24" source="assertion" target="assumption" />
+      <edge id="25" source="astray" target="askew" />
+      <edge id="26" source="astronomic" target="astral" />
+      <edge id="27" source="astronomic" target="astrophysical" />
+      <edge id="28" source="assumption" target="assignment" />
+      <edge id="29" source="assumption" target="aspiration" />
+      <edge id="30" source="assumption" target="assimilation" />
+      <edge id="31" source="assumption" target="assumption" />
+      <edge id="32" source="assumption" target="assurance" />
+      <edge id="33" source="assignment" target="assignation" />
+      <edge id="34" source="astral" target="astrophysical" />
+      <edge id="35" source="assurance" target="aspiration" />
+      <edge id="36" source="assured" target="ascertained" />
+      <edge id="37" source="associate" target="assemble" />
+      <edge id="38" source="associate" target="assistant" />
+      <edge id="39" source="associate" target="associate" />
+      <edge id="40" source="asymmetric" target="askew" />
+      <edge id="41" source="ascribe" target="assign" />
+      <edge id="42" source="assimilation" target="aspiration" />
+      <edge id="43" source="assimilation" target="assimilation" />
+      <edge id="44" source="assimilation" target="association" />
+      <edge id="45" source="ascending" target="ascendant" />
+      <edge id="46" source="assault" target="assail" />
+      <edge id="47" source="assortment" target="assemblage" />
+      <edge id="48" source="ash" target="ashes" />
+      <edge id="49" source="astounded" target="ashen" />
+      <edge id="50" source="association" target="assemblage" />
+      <edge id="51" source="assimilate" target="assimilate" />
+      <edge id="52" source="askance" target="askew" />
+      <edge id="53" source="assume" target="assume" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="effectuate" label="effectuate" />
+      <node id="effigy" label="effigy">
+        <attvalues>
+          <attvalue for="0" value="2.4814426285" />
+        </attvalues>
+      </node>
+      <node id="effeminize" label="effeminize">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="effervesce" label="effervesce" />
+      <node id="effectively" label="effectively" />
+      <node id="effortless" label="effortless">
+        <attvalues>
+          <attvalue for="0" value="2.87506126339" />
+        </attvalues>
+      </node>
+      <node id="effervescent" label="effervescent">
+        <attvalues>
+          <attvalue for="0" value="2.25285303098" />
+        </attvalues>
+      </node>
+      <node id="effervescence" label="effervescence" />
+      <node id="effete" label="effete" />
+      <node id="efficient" label="efficient" />
+      <node id="effectiveness" label="effectiveness" />
+      <node id="effortlessly" label="effortlessly">
+        <attvalues>
+          <attvalue for="0" value="3.00259798072" />
+        </attvalues>
+      </node>
+      <node id="efficacious" label="efficacious">
+        <attvalues>
+          <attvalue for="0" value="2.66745295289" />
+        </attvalues>
+      </node>
+      <node id="effect" label="effect" />
+      <node id="efficiency" label="efficiency">
+        <attvalues>
+          <attvalue for="0" value="4.02628806202" />
+        </attvalues>
+      </node>
+      <node id="effort" label="effort">
+        <attvalues>
+          <attvalue for="0" value="4.69701999376" />
+        </attvalues>
+      </node>
+      <node id="efficiently" label="efficiently">
+        <attvalues>
+          <attvalue for="0" value="3.55193769536" />
+        </attvalues>
+      </node>
+      <node id="effluvium" label="effluvium" />
+      <node id="effective" label="effective">
+        <attvalues>
+          <attvalue for="0" value="4.59428202881" />
+        </attvalues>
+      </node>
+      <node id="effusive" label="effusive" />
+      <node id="effeminate" label="effeminate">
+        <attvalues>
+          <attvalue for="0" value="2.37474834601" />
+        </attvalues>
+      </node>
+      <node id="effectual" label="effectual">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="effuse" label="effuse" />
+    </nodes>
+    <edges>
+      <edge id="0" source="effectuate" target="effort" weight="0.0125" />
+      <edge id="1" source="effigy" target="effluvium" weight="0.017241" />
+      <edge id="2" source="effigy" target="effect" weight="0.011905" />
+      <edge id="3" source="effeminize" target="effluvium" weight="0.023256" />
+      <edge id="4" source="effervesce" target="effort" weight="0.006993" />
+      <edge id="5" source="effectively" target="effortlessly" weight="0.083333" />
+      <edge id="6" source="effectively" target="efficiently" weight="0.222222" />
+      <edge id="7" source="effortless" target="effeminate" weight="0.037037" />
+      <edge id="8" source="effortless" target="effusive" weight="0.0375" />
+      <edge id="9" source="effortless" target="effect" weight="0.003021" />
+      <edge id="10" source="effortless" target="effete" weight="0.006211" />
+      <edge id="11" source="effervescent" target="effervescence" weight="0.014706" />
+      <edge id="12" source="effervescent" target="efficacious" weight="0.009901" />
+      <edge id="13" source="effervescent" target="effective" weight="0.014184" />
+      <edge id="14" source="effervescent" target="effeminate" weight="0.009901" />
+      <edge id="15" source="effervescent" target="effusive" weight="0.015748" />
+      <edge id="16" source="effervescent" target="effectual" weight="0.007092" />
+      <edge id="17" source="effervescent" target="efficient" weight="0.011236" />
+      <edge id="18" source="effervescent" target="effuse" weight="0.007299" />
+      <edge id="19" source="effervescence" target="effort" weight="0.00578" />
+      <edge id="20" source="effete" target="effeminate" weight="0.011236" />
+      <edge id="21" source="efficient" target="effectual" weight="0.228916" />
+      <edge id="22" source="efficient" target="effective" weight="0.22619" />
+      <edge id="23" source="efficient" target="efficacious" weight="0.265306" />
+      <edge id="24" source="effectiveness" target="efficiency" weight="0.08209" />
+      <edge id="25" source="effectiveness" target="effort" weight="0.016575" />
+      <edge id="26" source="effortlessly" target="efficiently" weight="0.05" />
+      <edge id="27" source="efficacious" target="effective" weight="0.4375" />
+      <edge id="28" source="efficacious" target="effusive" weight="0.01" />
+      <edge id="29" source="efficacious" target="effectual" weight="0.443038" />
+      <edge id="30" source="efficacious" target="effuse" weight="0.009174" />
+      <edge id="31" source="effect" target="effeminate" weight="0.002865" />
+      <edge id="32" source="effect" target="efficiency" weight="0.013514" />
+      <edge id="33" source="effect" target="effort" weight="0.024752" />
+      <edge id="34" source="efficiency" target="effort" weight="0.006173" />
+      <edge id="35" source="effort" target="effective" weight="0.005618" />
+      <edge id="36" source="effort" target="effectual" weight="0.00565" />
+      <edge id="37" source="effort" target="effuse" weight="0.00578" />
+      <edge id="38" source="effective" target="effuse" weight="0.006667" />
+      <edge id="39" source="effective" target="effusive" weight="0.007092" />
+      <edge id="40" source="effective" target="effectual" weight="0.383929" />
+      <edge id="41" source="effusive" target="effectual" weight="0.007143" />
+      <edge id="42" source="effectual" target="effuse" weight="0.006711" />
+    </edges>
+  </graph>
+</gexf>

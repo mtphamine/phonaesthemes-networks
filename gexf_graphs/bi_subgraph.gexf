@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="bike" label="bike" />
+      <node id="bigotry" label="bigotry" />
+      <node id="bicycle" label="bicycle" />
+      <node id="bisexual" label="bisexual" />
+      <node id="bionomics" label="bionomics" />
+      <node id="binding" label="binding" />
+      <node id="biased" label="biased" />
+      <node id="biannual" label="biannual" />
+      <node id="bias" label="bias" />
+      <node id="bitch" label="bitch" />
+      <node id="biweekly" label="biweekly" />
+      <node id="binary" label="binary" />
+      <node id="bilious" label="bilious" />
+      <node id="biochemistry" label="biochemistry" />
+      <node id="bite" label="bite" />
+      <node id="bicameral" label="bicameral" />
+      <node id="bibliophile" label="bibliophile" />
+      <node id="bipartisan" label="bipartisan" />
+      <node id="bitter" label="bitter" />
+      <node id="bird" label="bird" />
+      <node id="bisque" label="bisque" />
+      <node id="biddy" label="biddy" />
+      <node id="biology" label="biology" />
+      <node id="bionics" label="bionics" />
+      <node id="biennial" label="biennial" />
+      <node id="big" label="big" />
+      <node id="bid" label="bid" />
+      <node id="biophysics" label="biophysics" />
+      <node id="binder" label="binder" />
+      <node id="bight" label="bight" />
+      <node id="bidding" label="bidding" />
+      <node id="biting" label="biting" />
+      <node id="bit" label="bit" />
+      <node id="bile" label="bile" />
+      <node id="bibliographer" label="bibliographer" />
+      <node id="bibliolatry" label="bibliolatry" />
+      <node id="bilateral" label="bilateral" />
+      <node id="biscuit" label="biscuit" />
+      <node id="bibelot" label="bibelot" />
+      <node id="bifurcation" label="bifurcation" />
+      <node id="bitterness" label="bitterness" />
+      <node id="birthday" label="birthday" />
+      <node id="bicentennial" label="bicentennial" />
+      <node id="bighearted" label="bighearted" />
+      <node id="binomial" label="binomial" />
+      <node id="biped" label="biped" />
+      <node id="bicuspid" label="bicuspid" />
+      <node id="bipartite" label="bipartite" />
+    </nodes>
+    <edges>
+      <edge id="0" source="bike" target="bicycle" />
+      <edge id="1" source="bigotry" target="bibliolatry" />
+      <edge id="2" source="bisexual" target="bicuspid" />
+      <edge id="3" source="bisexual" target="bicameral" />
+      <edge id="4" source="bisexual" target="bipartite" />
+      <edge id="5" source="bisexual" target="binomial" />
+      <edge id="6" source="bisexual" target="biped" />
+      <edge id="7" source="bionomics" target="biochemistry" />
+      <edge id="8" source="bionomics" target="biology" />
+      <edge id="9" source="bionomics" target="bionics" />
+      <edge id="10" source="bionomics" target="biophysics" />
+      <edge id="11" source="binding" target="binder" />
+      <edge id="12" source="biased" target="bias" />
+      <edge id="13" source="biannual" target="biweekly" />
+      <edge id="14" source="biannual" target="biennial" />
+      <edge id="15" source="bitch" target="biddy" />
+      <edge id="16" source="bitch" target="bird" />
+      <edge id="17" source="biweekly" target="biennial" />
+      <edge id="18" source="binary" target="bilateral" />
+      <edge id="19" source="bilious" target="bitter" />
+      <edge id="20" source="biochemistry" target="biology" />
+      <edge id="21" source="biochemistry" target="bionics" />
+      <edge id="22" source="biochemistry" target="biophysics" />
+      <edge id="23" source="bite" target="bit" />
+      <edge id="24" source="bite" target="bitterness" />
+      <edge id="25" source="bicameral" target="biped" />
+      <edge id="26" source="bicameral" target="bicuspid" />
+      <edge id="27" source="bicameral" target="binomial" />
+      <edge id="28" source="bicameral" target="bipartite" />
+      <edge id="29" source="bibliophile" target="bibliographer" />
+      <edge id="30" source="bipartisan" target="bilateral" />
+      <edge id="31" source="bipartisan" target="bipartite" />
+      <edge id="32" source="bitter" target="biting" />
+      <edge id="33" source="bird" target="biddy" />
+      <edge id="34" source="bisque" target="biscuit" />
+      <edge id="35" source="biology" target="bionics" />
+      <edge id="36" source="biology" target="biophysics" />
+      <edge id="37" source="bionics" target="biophysics" />
+      <edge id="38" source="biennial" target="bicentennial" />
+      <edge id="39" source="biennial" target="birthday" />
+      <edge id="40" source="big" target="bighearted" />
+      <edge id="41" source="bid" target="bidding" />
+      <edge id="42" source="bight" target="bifurcation" />
+      <edge id="43" source="bit" target="bibelot" />
+      <edge id="44" source="bile" target="bitterness" />
+      <edge id="45" source="bilateral" target="bipartite" />
+      <edge id="46" source="bitterness" target="bitterness" />
+      <edge id="47" source="birthday" target="bicentennial" />
+      <edge id="48" source="binomial" target="biped" />
+      <edge id="49" source="binomial" target="bicuspid" />
+      <edge id="50" source="binomial" target="bipartite" />
+      <edge id="51" source="biped" target="bicuspid" />
+      <edge id="52" source="biped" target="bipartite" />
+      <edge id="53" source="bicuspid" target="bipartite" />
+    </edges>
+  </graph>
+</gexf>

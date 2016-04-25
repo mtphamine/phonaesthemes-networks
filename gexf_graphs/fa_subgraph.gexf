@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="fatuity" label="fatuity" />
+      <node id="fabricated" label="fabricated" />
+      <node id="farmhand" label="farmhand" />
+      <node id="facilities" label="facilities" />
+      <node id="fateful" label="fateful" />
+      <node id="fable" label="fable" />
+      <node id="facts" label="facts" />
+      <node id="faddist" label="faddist" />
+      <node id="falsity" label="falsity" />
+      <node id="famished" label="famished" />
+      <node id="failed" label="failed" />
+      <node id="fade" label="fade" />
+      <node id="farmer" label="farmer" />
+      <node id="fatal" label="fatal" />
+      <node id="fancied" label="fancied" />
+      <node id="fatigues" label="fatigues" />
+      <node id="fasces" label="fasces" />
+      <node id="fate" label="fate" />
+      <node id="far" label="far" />
+      <node id="familiar" label="familiar" />
+      <node id="fat" label="fat" />
+      <node id="famous" label="famous" />
+      <node id="fan" label="fan" />
+      <node id="fatigued" label="fatigued" />
+      <node id="fallout" label="fallout" />
+      <node id="fall" label="fall" />
+      <node id="fag" label="fag" />
+      <node id="fad" label="fad" />
+      <node id="fallible" label="fallible" />
+      <node id="facia" label="facia" />
+      <node id="fagot" label="fagot" />
+      <node id="faraway" label="faraway" />
+      <node id="fairy" label="fairy" />
+      <node id="favoring" label="favoring" />
+      <node id="falsehood" label="falsehood" />
+      <node id="fair" label="fair" />
+      <node id="fabulous" label="fabulous" />
+      <node id="fabric" label="fabric" />
+      <node id="fail" label="fail" />
+      <node id="fain" label="fain" />
+      <node id="fanfare" label="fanfare" />
+      <node id="farsighted" label="farsighted" />
+      <node id="familiarity" label="familiarity" />
+      <node id="favor" label="favor" />
+      <node id="falling" label="falling" />
+      <node id="falsify" label="falsify" />
+      <node id="favored" label="favored" />
+      <node id="faded" label="faded" />
+      <node id="fantasize" label="fantasize" />
+      <node id="fatality" label="fatality" />
+      <node id="fairyland" label="fairyland" />
+      <node id="farmland" label="farmland" />
+      <node id="fault" label="fault" />
+      <node id="favorite" label="favorite" />
+      <node id="facet" label="facet" />
+      <node id="falsified" label="falsified" />
+      <node id="fabled" label="fabled" />
+      <node id="facilitate" label="facilitate" />
+      <node id="fallacy" label="fallacy" />
+      <node id="fantastic" label="fantastic" />
+      <node id="facility" label="facility" />
+      <node id="factitious" label="factitious" />
+      <node id="fancy" label="fancy" />
+      <node id="fantasy" label="fantasy" />
+      <node id="fagged" label="fagged" />
+      <node id="fake" label="fake" />
+      <node id="factor" label="factor" />
+      <node id="fakery" label="fakery" />
+      <node id="fascinating" label="fascinating" />
+      <node id="fated" label="fated" />
+      <node id="faint" label="faint" />
+      <node id="fast" label="fast" />
+      <node id="faerie" label="faerie" />
+      <node id="faithworthy" label="faithworthy" />
+      <node id="farming" label="farming" />
+      <node id="farina" label="farina" />
+      <node id="fanatic" label="fanatic" />
+      <node id="fascination" label="fascination" />
+      <node id="fastidious" label="fastidious" />
+      <node id="failure" label="failure" />
+      <node id="favorable" label="favorable" />
+      <node id="falsehearted" label="falsehearted" />
+      <node id="farseeing" label="farseeing" />
+      <node id="fabricate" label="fabricate" />
+      <node id="fallow" label="fallow" />
+      <node id="fallacious" label="fallacious" />
+      <node id="faggot" label="faggot" />
+      <node id="fanfaronade" label="fanfaronade" />
+      <node id="fashion" label="fashion" />
+      <node id="false" label="false" />
+      <node id="falseness" label="falseness" />
+      <node id="fay" label="fay" />
+      <node id="fanciful" label="fanciful" />
+      <node id="facade" label="facade" />
+      <node id="fading" label="fading" />
+      <node id="farmstead" label="farmstead" />
+      <node id="faithful" label="faithful" />
+      <node id="farce" label="farce" />
+      <node id="faulty" label="faulty" />
+      <node id="fairly" label="fairly" />
+      <node id="fatty" label="fatty" />
+      <node id="fatuous" label="fatuous" />
+      <node id="farm" label="farm" />
+      <node id="fatigue" label="fatigue" />
+      <node id="faculty" label="faculty" />
+      <node id="fabrication" label="fabrication" />
+      <node id="fasting" label="fasting" />
+      <node id="fastened" label="fastened" />
+      <node id="farthing" label="farthing" />
+      <node id="fatten" label="fatten" />
+      <node id="failing" label="failing" />
+      <node id="faithless" label="faithless" />
+      <node id="face" label="face" />
+      <node id="fainthearted" label="fainthearted" />
+      <node id="fact" label="fact" />
+    </nodes>
+    <edges>
+      <edge id="0" source="fatuity" target="failure" />
+      <edge id="1" source="fabricated" target="fantastic" />
+      <edge id="2" source="fabricated" target="fabulous" />
+      <edge id="3" source="fabricated" target="fancied" />
+      <edge id="4" source="farmhand" target="farmer" />
+      <edge id="5" source="facilities" target="facility" />
+      <edge id="6" source="fateful" target="fatal" />
+      <edge id="7" source="fateful" target="fated" />
+      <edge id="8" source="fable" target="fantasy" />
+      <edge id="9" source="fable" target="fabrication" />
+      <edge id="10" source="facts" target="familiarity" />
+      <edge id="11" source="facts" target="fact" />
+      <edge id="12" source="faddist" target="fad" />
+      <edge id="13" source="faddist" target="fanatic" />
+      <edge id="14" source="falsity" target="falsehood" />
+      <edge id="15" source="falsity" target="falseness" />
+      <edge id="16" source="falsity" target="fault" />
+      <edge id="17" source="falsity" target="face" />
+      <edge id="18" source="falsity" target="facade" />
+      <edge id="19" source="falsity" target="fakery" />
+      <edge id="20" source="falsity" target="fallacy" />
+      <edge id="21" source="famished" target="fasting" />
+      <edge id="22" source="failed" target="failing" />
+      <edge id="23" source="fade" target="fail" />
+      <edge id="24" source="fade" target="familiar" />
+      <edge id="25" source="fade" target="faint" />
+      <edge id="26" source="fade" target="fall" />
+      <edge id="27" source="fatal" target="fated" />
+      <edge id="28" source="fancied" target="fantastic" />
+      <edge id="29" source="fancied" target="fabulous" />
+      <edge id="30" source="fancied" target="fanciful" />
+      <edge id="31" source="fatigues" target="fashion" />
+      <edge id="32" source="fasces" target="fagot" />
+      <edge id="33" source="fate" target="fatality" />
+      <edge id="34" source="far" target="faraway" />
+      <edge id="35" source="fat" target="fatten" />
+      <edge id="36" source="fat" target="fatty" />
+      <edge id="37" source="fat" target="fair" />
+      <edge id="38" source="famous" target="fabled" />
+      <edge id="39" source="famous" target="favorable" />
+      <edge id="40" source="famous" target="fair" />
+      <edge id="41" source="fan" target="fanatic" />
+      <edge id="42" source="fatigued" target="faint" />
+      <edge id="43" source="fatigued" target="fagged" />
+      <edge id="44" source="fallout" target="farina" />
+      <edge id="45" source="fall" target="fail" />
+      <edge id="46" source="fall" target="failure" />
+      <edge id="47" source="fall" target="failing" />
+      <edge id="48" source="fall" target="fading" />
+      <edge id="49" source="fag" target="faggot" />
+      <edge id="50" source="fag" target="fatigue" />
+      <edge id="51" source="fag" target="fairy" />
+      <edge id="52" source="fad" target="fantasy" />
+      <edge id="53" source="fad" target="fancy" />
+      <edge id="54" source="fallible" target="faulty" />
+      <edge id="55" source="facia" target="facade" />
+      <edge id="56" source="facia" target="facet" />
+      <edge id="57" source="facia" target="face" />
+      <edge id="58" source="fairy" target="faggot" />
+      <edge id="59" source="fairy" target="fay" />
+      <edge id="60" source="favoring" target="favored" />
+      <edge id="61" source="favoring" target="favorable" />
+      <edge id="62" source="favoring" target="fair" />
+      <edge id="63" source="favoring" target="fake" />
+      <edge id="64" source="falsehood" target="fabrication" />
+      <edge id="65" source="falsehood" target="fallacy" />
+      <edge id="66" source="falsehood" target="falseness" />
+      <edge id="67" source="fair" target="fairly" />
+      <edge id="68" source="fair" target="fastidious" />
+      <edge id="69" source="fair" target="favorable" />
+      <edge id="70" source="fabulous" target="fantastic" />
+      <edge id="71" source="fabulous" target="fascinating" />
+      <edge id="72" source="fabulous" target="fancy" />
+      <edge id="73" source="fabulous" target="fanciful" />
+      <edge id="74" source="fabric" target="farm" />
+      <edge id="75" source="fabric" target="fashion" />
+      <edge id="76" source="fabric" target="fabrication" />
+      <edge id="77" source="fail" target="faint" />
+      <edge id="78" source="fain" target="favorable" />
+      <edge id="79" source="fanfare" target="fanfaronade" />
+      <edge id="80" source="farsighted" target="farseeing" />
+      <edge id="81" source="favor" target="fascination" />
+      <edge id="82" source="favor" target="fatten" />
+      <edge id="83" source="favor" target="facilitate" />
+      <edge id="84" source="favor" target="fancy" />
+      <edge id="85" source="favor" target="face" />
+      <edge id="86" source="falling" target="failing" />
+      <edge id="87" source="falling" target="fading" />
+      <edge id="88" source="falsify" target="fake" />
+      <edge id="89" source="favored" target="favorite" />
+      <edge id="90" source="faded" target="fallow" />
+      <edge id="91" source="faded" target="faint" />
+      <edge id="92" source="fantasize" target="fabricate" />
+      <edge id="93" source="fantasize" target="fancy" />
+      <edge id="94" source="fantasize" target="fake" />
+      <edge id="95" source="fairyland" target="faerie" />
+      <edge id="96" source="farmland" target="farm" />
+      <edge id="97" source="farmland" target="fallow" />
+      <edge id="98" source="farmland" target="farmstead" />
+      <edge id="99" source="fault" target="failure" />
+      <edge id="100" source="fault" target="failing" />
+      <edge id="101" source="fault" target="falseness" />
+      <edge id="102" source="fault" target="fallacy" />
+      <edge id="103" source="facet" target="fashion" />
+      <edge id="104" source="facet" target="face" />
+      <edge id="105" source="facet" target="factor" />
+      <edge id="106" source="facet" target="facade" />
+      <edge id="107" source="facet" target="fact" />
+      <edge id="108" source="falsified" target="factitious" />
+      <edge id="109" source="falsified" target="fake" />
+      <edge id="110" source="fallacy" target="falseness" />
+      <edge id="111" source="fantastic" target="false" />
+      <edge id="112" source="fantastic" target="fascinating" />
+      <edge id="113" source="fantastic" target="fallacious" />
+      <edge id="114" source="fantastic" target="fanciful" />
+      <edge id="115" source="facility" target="faculty" />
+      <edge id="116" source="factitious" target="false" />
+      <edge id="117" source="fancy" target="fantasy" />
+      <edge id="118" source="fancy" target="fascination" />
+      <edge id="119" source="fancy" target="fabricate" />
+      <edge id="120" source="fagged" target="faint" />
+      <edge id="121" source="fake" target="false" />
+      <edge id="122" source="fake" target="fabricate" />
+      <edge id="123" source="factor" target="fact" />
+      <edge id="124" source="fakery" target="facade" />
+      <edge id="125" source="fakery" target="face" />
+      <edge id="126" source="faint" target="fainthearted" />
+      <edge id="127" source="faint" target="fallow" />
+      <edge id="128" source="faint" target="fatigue" />
+      <edge id="129" source="fast" target="fastened" />
+      <edge id="130" source="fast" target="faithful" />
+      <edge id="131" source="fast" target="faithworthy" />
+      <edge id="132" source="faithworthy" target="faithful" />
+      <edge id="133" source="farming" target="farm" />
+      <edge id="134" source="failure" target="fading" />
+      <edge id="135" source="failure" target="failing" />
+      <edge id="136" source="falsehearted" target="false" />
+      <edge id="137" source="falsehearted" target="faithless" />
+      <edge id="138" source="fabricate" target="fashion" />
+      <edge id="139" source="fallow" target="farm" />
+      <edge id="140" source="fallow" target="farmstead" />
+      <edge id="141" source="fallacious" target="faulty" />
+      <edge id="142" source="fallacious" target="false" />
+      <edge id="143" source="fashion" target="fabrication" />
+      <edge id="144" source="false" target="faithless" />
+      <edge id="145" source="false" target="faulty" />
+      <edge id="146" source="fanciful" target="fatuous" />
+      <edge id="147" source="facade" target="face" />
+      <edge id="148" source="fading" target="failing" />
+      <edge id="149" source="farmstead" target="farm" />
+      <edge id="150" source="farce" target="farthing" />
+      <edge id="151" source="farm" target="fatten" />
+    </edges>
+  </graph>
+</gexf>

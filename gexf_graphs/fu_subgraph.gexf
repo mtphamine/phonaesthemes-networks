@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="funereal" label="funereal" />
+      <node id="fury" label="fury" />
+      <node id="fume" label="fume" />
+      <node id="functional" label="functional" />
+      <node id="furious" label="furious" />
+      <node id="fumigate" label="fumigate" />
+      <node id="fullness" label="fullness" />
+      <node id="further" label="further" />
+      <node id="fuddled" label="fuddled" />
+      <node id="functioning" label="functioning" />
+      <node id="fustian" label="fustian" />
+      <node id="fuming" label="fuming" />
+      <node id="fumigant" label="fumigant" />
+      <node id="furry" label="furry" />
+      <node id="fulsome" label="fulsome" />
+      <node id="fusty" label="fusty" />
+      <node id="future" label="future" />
+      <node id="futile" label="futile" />
+      <node id="fuel" label="fuel" />
+      <node id="furor" label="furor" />
+      <node id="fudge" label="fudge" />
+      <node id="function" label="function" />
+      <node id="full" label="full" />
+      <node id="fuss" label="fuss" />
+      <node id="funds" label="funds" />
+      <node id="funeral" label="funeral" />
+      <node id="fugacious" label="fugacious" />
+      <node id="fugitive" label="fugitive" />
+      <node id="fund" label="fund" />
+      <node id="funebrial" label="funebrial" />
+      <node id="furore" label="furore" />
+      <node id="fuzzy" label="fuzzy" />
+      <node id="furniture" label="furniture" />
+      <node id="fur" label="fur" />
+      <node id="furnishings" label="furnishings" />
+      <node id="fundament" label="fundament" />
+      <node id="fulminate" label="fulminate" />
+      <node id="funky" label="funky" />
+      <node id="fuzz" label="fuzz" />
+      <node id="furnish" label="furnish" />
+      <node id="fundamental" label="fundamental" />
+      <node id="fungicide" label="fungicide" />
+      <node id="fuddle" label="fuddle" />
+      <node id="furthermore" label="furthermore" />
+      <node id="futuristic" label="futuristic" />
+      <node id="fussy" label="fussy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="funereal" target="funeral" />
+      <edge id="1" source="funereal" target="funebrial" />
+      <edge id="2" source="fury" target="fume" />
+      <edge id="3" source="fury" target="fuss" />
+      <edge id="4" source="fury" target="furor" />
+      <edge id="5" source="fume" target="furor" />
+      <edge id="6" source="fume" target="fumigate" />
+      <edge id="7" source="fume" target="fuss" />
+      <edge id="8" source="functional" target="functioning" />
+      <edge id="9" source="furious" target="fuming" />
+      <edge id="10" source="fullness" target="full" />
+      <edge id="11" source="further" target="furthermore" />
+      <edge id="12" source="fuddled" target="futile" />
+      <edge id="13" source="functioning" target="function" />
+      <edge id="14" source="fustian" target="fudge" />
+      <edge id="15" source="fumigant" target="fungicide" />
+      <edge id="16" source="furry" target="fuzzy" />
+      <edge id="17" source="fulsome" target="funky" />
+      <edge id="18" source="fulsome" target="fusty" />
+      <edge id="19" source="fusty" target="funky" />
+      <edge id="20" source="future" target="futuristic" />
+      <edge id="21" source="fuel" target="fulminate" />
+      <edge id="22" source="furor" target="fuss" />
+      <edge id="23" source="furor" target="furore" />
+      <edge id="24" source="full" target="fussy" />
+      <edge id="25" source="fuss" target="fuddle" />
+      <edge id="26" source="fuss" target="furore" />
+      <edge id="27" source="funds" target="fund" />
+      <edge id="28" source="funeral" target="funebrial" />
+      <edge id="29" source="fugacious" target="fugitive" />
+      <edge id="30" source="fund" target="furnish" />
+      <edge id="31" source="furniture" target="furnishings" />
+      <edge id="32" source="fur" target="fuzz" />
+      <edge id="33" source="fundament" target="fundamental" />
+    </edges>
+  </graph>
+</gexf>

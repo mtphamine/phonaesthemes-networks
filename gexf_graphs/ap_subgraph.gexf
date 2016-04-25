@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="apocalyptic" label="apocalyptic" />
+      <node id="apprehend" label="apprehend" />
+      <node id="appliance" label="appliance" />
+      <node id="appetizing" label="appetizing" />
+      <node id="apt" label="apt" />
+      <node id="apotheosis" label="apotheosis" />
+      <node id="approximation" label="approximation" />
+      <node id="appropriate" label="appropriate" />
+      <node id="apropos" label="apropos" />
+      <node id="appealing" label="appealing" />
+      <node id="apply" label="apply" />
+      <node id="appurtenance" label="appurtenance" />
+      <node id="ape" label="ape" />
+      <node id="appanage" label="appanage" />
+      <node id="appear" label="appear" />
+      <node id="apparatus" label="apparatus" />
+      <node id="apothegm" label="apothegm" />
+      <node id="apex" label="apex" />
+      <node id="approximate" label="approximate" />
+      <node id="application" label="application" />
+      <node id="apparition" label="apparition" />
+      <node id="appreciate" label="appreciate" />
+      <node id="appeal" label="appeal" />
+      <node id="approach" label="approach" />
+      <node id="apogee" label="apogee" />
+      <node id="appertaining" label="appertaining" />
+      <node id="aphorism" label="aphorism" />
+      <node id="appointment" label="appointment" />
+      <node id="apostolic" label="apostolic" />
+      <node id="applaud" label="applaud" />
+      <node id="apologetic" label="apologetic" />
+      <node id="appurtenances" label="appurtenances" />
+      <node id="appreciation" label="appreciation" />
+      <node id="appointments" label="appointments" />
+      <node id="appropriation" label="appropriation" />
+      <node id="approval" label="approval" />
+      <node id="apposite" label="apposite" />
+      <node id="appraise" label="appraise" />
+      <node id="applause" label="applause" />
+      <node id="apology" label="apology" />
+      <node id="approve" label="approve" />
+      <node id="appearance" label="appearance" />
+      <node id="applicable" label="applicable" />
+      <node id="aptness" label="aptness" />
+      <node id="apologetics" label="apologetics" />
+      <node id="approbation" label="approbation" />
+      <node id="appendix" label="appendix" />
+      <node id="appendage" label="appendage" />
+      <node id="apologia" label="apologia" />
+      <node id="appropriateness" label="appropriateness" />
+      <node id="appraisal" label="appraisal" />
+      <node id="approaching" label="approaching" />
+    </nodes>
+    <edges>
+      <edge id="0" source="apocalyptic" target="apostolic" />
+      <edge id="1" source="apprehend" target="appreciate" />
+      <edge id="2" source="appliance" target="application" />
+      <edge id="3" source="appliance" target="appurtenance" />
+      <edge id="4" source="appliance" target="apparatus" />
+      <edge id="5" source="appetizing" target="appealing" />
+      <edge id="6" source="apt" target="appropriate" />
+      <edge id="7" source="apt" target="apposite" />
+      <edge id="8" source="apt" target="applicable" />
+      <edge id="9" source="apt" target="apropos" />
+      <edge id="10" source="apotheosis" target="appreciation" />
+      <edge id="11" source="apotheosis" target="approbation" />
+      <edge id="12" source="apotheosis" target="approval" />
+      <edge id="13" source="approximation" target="appraisal" />
+      <edge id="14" source="approximation" target="approach" />
+      <edge id="15" source="appropriate" target="appertaining" />
+      <edge id="16" source="appropriate" target="apposite" />
+      <edge id="17" source="appropriate" target="applicable" />
+      <edge id="18" source="appropriate" target="appropriate" />
+      <edge id="19" source="appropriate" target="apropos" />
+      <edge id="20" source="apropos" target="appertaining" />
+      <edge id="21" source="apropos" target="applicable" />
+      <edge id="22" source="apropos" target="apposite" />
+      <edge id="23" source="apply" target="appeal" />
+      <edge id="24" source="appurtenance" target="appendage" />
+      <edge id="25" source="appurtenance" target="appanage" />
+      <edge id="26" source="appurtenance" target="appendix" />
+      <edge id="27" source="ape" target="approach" />
+      <edge id="28" source="ape" target="approximate" />
+      <edge id="29" source="appanage" target="appendage" />
+      <edge id="30" source="appear" target="approach" />
+      <edge id="31" source="apparatus" target="appointments" />
+      <edge id="32" source="apparatus" target="appurtenances" />
+      <edge id="33" source="apothegm" target="aphorism" />
+      <edge id="34" source="apex" target="apogee" />
+      <edge id="35" source="approximate" target="approach" />
+      <edge id="36" source="approximate" target="approaching" />
+      <edge id="37" source="application" target="appeal" />
+      <edge id="38" source="apparition" target="appearance" />
+      <edge id="39" source="appreciate" target="appraise" />
+      <edge id="40" source="approach" target="appearance" />
+      <edge id="41" source="appertaining" target="applicable" />
+      <edge id="42" source="appertaining" target="apposite" />
+      <edge id="43" source="appointment" target="appropriation" />
+      <edge id="44" source="applaud" target="approve" />
+      <edge id="45" source="apologetic" target="apologia" />
+      <edge id="46" source="appurtenances" target="appointments" />
+      <edge id="47" source="appreciation" target="approval" />
+      <edge id="48" source="appreciation" target="approbation" />
+      <edge id="49" source="appreciation" target="appraisal" />
+      <edge id="50" source="approval" target="approbation" />
+      <edge id="51" source="approval" target="applause" />
+      <edge id="52" source="apposite" target="applicable" />
+      <edge id="53" source="apology" target="apologetics" />
+      <edge id="54" source="apology" target="apologia" />
+      <edge id="55" source="aptness" target="appropriateness" />
+      <edge id="56" source="apologetics" target="apologia" />
+    </edges>
+  </graph>
+</gexf>

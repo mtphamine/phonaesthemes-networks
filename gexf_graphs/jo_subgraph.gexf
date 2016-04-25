@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="johnny" label="johnny" />
+      <node id="joyous" label="joyous" />
+      <node id="jolt" label="jolt" />
+      <node id="joviality" label="joviality" />
+      <node id="joking" label="joking" />
+      <node id="jounce" label="jounce" />
+      <node id="jocose" label="jocose" />
+      <node id="jocular" label="jocular" />
+      <node id="jolly" label="jolly" />
+      <node id="jostle" label="jostle" />
+      <node id="john" label="john" />
+      <node id="joyful" label="joyful" />
+      <node id="jobholder" label="jobholder" />
+      <node id="joy" label="joy" />
+      <node id="joint" label="joint" />
+      <node id="joust" label="joust" />
+      <node id="jovial" label="jovial" />
+      <node id="jog" label="jog" />
+      <node id="jocularity" label="jocularity" />
+      <node id="joyfulness" label="joyfulness" />
+      <node id="joke" label="joke" />
+      <node id="joined" label="joined" />
+      <node id="jollity" label="jollity" />
+      <node id="jobber" label="jobber" />
+      <node id="joshing" label="joshing" />
+      <node id="joining" label="joining" />
+    </nodes>
+    <edges>
+      <edge id="0" source="johnny" target="john" />
+      <edge id="1" source="joyous" target="joyful" />
+      <edge id="2" source="joyous" target="jocular" />
+      <edge id="3" source="joyous" target="jovial" />
+      <edge id="4" source="joyous" target="jolly" />
+      <edge id="5" source="jolt" target="jostle" />
+      <edge id="6" source="jolt" target="jounce" />
+      <edge id="7" source="jolt" target="jog" />
+      <edge id="8" source="joviality" target="jocularity" />
+      <edge id="9" source="joviality" target="joyfulness" />
+      <edge id="10" source="joviality" target="jollity" />
+      <edge id="11" source="joviality" target="joy" />
+      <edge id="12" source="joking" target="jocularity" />
+      <edge id="13" source="joking" target="jocose" />
+      <edge id="14" source="joking" target="jocular" />
+      <edge id="15" source="joking" target="joshing" />
+      <edge id="16" source="jounce" target="jostle" />
+      <edge id="17" source="jounce" target="jog" />
+      <edge id="18" source="jocose" target="joshing" />
+      <edge id="19" source="jocose" target="jovial" />
+      <edge id="20" source="jocose" target="jocular" />
+      <edge id="21" source="jocose" target="jolly" />
+      <edge id="22" source="jocular" target="jolly" />
+      <edge id="23" source="jocular" target="jovial" />
+      <edge id="24" source="jocular" target="joshing" />
+      <edge id="25" source="jocular" target="joyful" />
+      <edge id="26" source="jolly" target="jovial" />
+      <edge id="27" source="jolly" target="joke" />
+      <edge id="28" source="jolly" target="joyful" />
+      <edge id="29" source="jostle" target="joust" />
+      <edge id="30" source="jostle" target="jog" />
+      <edge id="31" source="joyful" target="jovial" />
+      <edge id="32" source="jobholder" target="jobber" />
+      <edge id="33" source="joy" target="jollity" />
+      <edge id="34" source="joy" target="jocularity" />
+      <edge id="35" source="joy" target="joyfulness" />
+      <edge id="36" source="joint" target="joined" />
+      <edge id="37" source="joint" target="joining" />
+      <edge id="38" source="jocularity" target="joyfulness" />
+      <edge id="39" source="jocularity" target="jollity" />
+      <edge id="40" source="jocularity" target="joshing" />
+      <edge id="41" source="joyfulness" target="jollity" />
+    </edges>
+  </graph>
+</gexf>

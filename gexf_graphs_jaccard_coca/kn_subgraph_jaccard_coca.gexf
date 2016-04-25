@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="knob" label="knob">
+        <attvalues>
+          <attvalue for="0" value="3.25042000231" />
+        </attvalues>
+      </node>
+      <node id="knavish" label="knavish">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="knockout" label="knockout">
+        <attvalues>
+          <attvalue for="0" value="2.88986172126" />
+        </attvalues>
+      </node>
+      <node id="knowledgeable" label="knowledgeable" />
+      <node id="knotted" label="knotted" />
+      <node id="knub" label="knub">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="knitted" label="knitted" />
+      <node id="knightly" label="knightly">
+        <attvalues>
+          <attvalue for="0" value="1.91907809238" />
+        </attvalues>
+      </node>
+      <node id="knell" label="knell" />
+      <node id="knickknack" label="knickknack">
+        <attvalues>
+          <attvalue for="0" value="1.59106460703" />
+        </attvalues>
+      </node>
+      <node id="knobbed" label="knobbed" />
+      <node id="knowingly" label="knowingly">
+        <attvalues>
+          <attvalue for="0" value="3.10311925355" />
+        </attvalues>
+      </node>
+      <node id="knowledge" label="knowledge">
+        <attvalues>
+          <attvalue for="0" value="4.73979378608" />
+        </attvalues>
+      </node>
+      <node id="knurl" label="knurl">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="knead" label="knead" />
+      <node id="knuckle" label="knuckle">
+        <attvalues>
+          <attvalue for="0" value="2.72672720903" />
+        </attvalues>
+      </node>
+      <node id="knoll" label="knoll" />
+      <node id="knothole" label="knothole" />
+      <node id="kneel" label="kneel">
+        <attvalues>
+          <attvalue for="0" value="2.95999483833" />
+        </attvalues>
+      </node>
+      <node id="knobby" label="knobby">
+        <attvalues>
+          <attvalue for="0" value="2.56937390962" />
+        </attvalues>
+      </node>
+      <node id="knowing" label="knowing" />
+      <node id="knitting" label="knitting">
+        <attvalues>
+          <attvalue for="0" value="3.03622954409" />
+        </attvalues>
+      </node>
+      <node id="know" label="know" />
+      <node id="knot" label="knot">
+        <attvalues>
+          <attvalue for="0" value="3.49941212567" />
+        </attvalues>
+      </node>
+      <node id="knee" label="knee" />
+      <node id="knack" label="knack">
+        <attvalues>
+          <attvalue for="0" value="3.09236969963" />
+        </attvalues>
+      </node>
+      <node id="knit" label="knit">
+        <attvalues>
+          <attvalue for="0" value="3.21748394421" />
+        </attvalues>
+      </node>
+      <node id="knock" label="knock" />
+      <node id="knight" label="knight" />
+      <node id="knocker" label="knocker" />
+      <node id="knife" label="knife">
+        <attvalues>
+          <attvalue for="0" value="4.15140049804" />
+        </attvalues>
+      </node>
+      <node id="knave" label="knave">
+        <attvalues>
+          <attvalue for="0" value="2.10037054512" />
+        </attvalues>
+      </node>
+      <node id="knotty" label="knotty" />
+      <node id="knurled" label="knurled" />
+      <node id="knavery" label="knavery" />
+    </nodes>
+    <edges>
+      <edge id="0" source="knob" target="knock" weight="0.013889" />
+      <edge id="1" source="knob" target="knotty" weight="0.007042" />
+      <edge id="2" source="knob" target="knurl" weight="0.458716" />
+      <edge id="3" source="knob" target="knight" weight="0.006289" />
+      <edge id="4" source="knob" target="knotted" weight="0.004739" />
+      <edge id="5" source="knob" target="knub" weight="0.019802" />
+      <edge id="6" source="knob" target="knee" weight="0.006211" />
+      <edge id="7" source="knob" target="knuckle" weight="0.014493" />
+      <edge id="8" source="knob" target="knell" weight="0.006667" />
+      <edge id="9" source="knob" target="knot" weight="0.232727" />
+      <edge id="10" source="knob" target="knoll" weight="0.141414" />
+      <edge id="11" source="knob" target="knothole" weight="0.009434" />
+      <edge id="12" source="knob" target="knickknack" weight="0.021583" />
+      <edge id="13" source="knob" target="knit" weight="0.029412" />
+      <edge id="14" source="knob" target="kneel" weight="0.009434" />
+      <edge id="15" source="knob" target="know" weight="0.007353" />
+      <edge id="16" source="knavish" target="knowing" weight="0.017143" />
+      <edge id="17" source="knavish" target="knock" weight="0.010582" />
+      <edge id="18" source="knavish" target="knotted" weight="0.005464" />
+      <edge id="19" source="knavish" target="knotty" weight="0.008772" />
+      <edge id="20" source="knavish" target="knavery" weight="0.027778" />
+      <edge id="21" source="knockout" target="knock" weight="0.005102" />
+      <edge id="22" source="knockout" target="knead" weight="0.014286" />
+      <edge id="23" source="knockout" target="knack" weight="0.010101" />
+      <edge id="24" source="knockout" target="knell" weight="0.015748" />
+      <edge id="25" source="knockout" target="knave" weight="0.008696" />
+      <edge id="26" source="knowledgeable" target="knowledge" weight="0.01087" />
+      <edge id="27" source="knotted" target="knuckle" weight="0.00565" />
+      <edge id="28" source="knotted" target="knot" weight="0.013441" />
+      <edge id="29" source="knotted" target="knobby" weight="0.078125" />
+      <edge id="30" source="knub" target="knitting" weight="0.020833" />
+      <edge id="31" source="knub" target="knurl" weight="0.023256" />
+      <edge id="32" source="knub" target="know" weight="0.015385" />
+      <edge id="33" source="knub" target="knot" weight="0.007519" />
+      <edge id="34" source="knub" target="knack" weight="0.02" />
+      <edge id="35" source="knub" target="knit" weight="0.009709" />
+      <edge id="36" source="knitted" target="knobby" weight="0.027778" />
+      <edge id="37" source="knightly" target="knight" weight="0.008475" />
+      <edge id="38" source="knightly" target="knead" weight="0.008197" />
+      <edge id="39" source="knell" target="knowledge" weight="0.00813" />
+      <edge id="40" source="knell" target="knot" weight="0.003175" />
+      <edge id="41" source="knell" target="knurl" weight="0.007407" />
+      <edge id="42" source="knickknack" target="knock" weight="0.016304" />
+      <edge id="43" source="knickknack" target="knurl" weight="0.007937" />
+      <edge id="44" source="knickknack" target="knot" weight="0.009868" />
+      <edge id="45" source="knickknack" target="knoll" weight="0.0125" />
+      <edge id="46" source="knickknack" target="knack" weight="0.097561" />
+      <edge id="47" source="knickknack" target="knavery" weight="0.009434" />
+      <edge id="48" source="knobbed" target="knobby" weight="0.529412" />
+      <edge id="49" source="knowingly" target="knowing" weight="0.007463" />
+      <edge id="50" source="knowledge" target="knowing" weight="0.005618" />
+      <edge id="51" source="knowledge" target="knack" weight="0.021505" />
+      <edge id="52" source="knowledge" target="know" weight="0.018519" />
+      <edge id="53" source="knurl" target="knock" weight="0.025126" />
+      <edge id="54" source="knurl" target="know" weight="0.008264" />
+      <edge id="55" source="knurl" target="knead" weight="0.006757" />
+      <edge id="56" source="knurl" target="knee" weight="0.006849" />
+      <edge id="57" source="knurl" target="knuckle" weight="0.01626" />
+      <edge id="58" source="knurl" target="kneel" weight="0.010989" />
+      <edge id="59" source="knurl" target="knot" weight="0.186813" />
+      <edge id="60" source="knurl" target="knoll" weight="0.020833" />
+      <edge id="61" source="knurl" target="knothole" weight="0.010989" />
+      <edge id="62" source="knurl" target="knit" weight="0.025641" />
+      <edge id="63" source="knurl" target="knife" weight="0.01087" />
+      <edge id="64" source="knead" target="knot" weight="0.012308" />
+      <edge id="65" source="knead" target="knack" weight="0.018182" />
+      <edge id="66" source="knead" target="knit" weight="0.037736" />
+      <edge id="67" source="knuckle" target="knitting" weight="0.02381" />
+      <edge id="68" source="knuckle" target="knot" weight="0.016667" />
+      <edge id="69" source="knuckle" target="knocker" weight="0.016949" />
+      <edge id="70" source="knuckle" target="knave" weight="0.009709" />
+      <edge id="71" source="knuckle" target="knee" weight="0.361702" />
+      <edge id="72" source="knuckle" target="knit" weight="0.014388" />
+      <edge id="73" source="knuckle" target="kneel" weight="0.013889" />
+      <edge id="74" source="knoll" target="knot" weight="0.007246" />
+      <edge id="75" source="knoll" target="knit" weight="0.00885" />
+      <edge id="76" source="knoll" target="knife" weight="0.021739" />
+      <edge id="77" source="knothole" target="knit" weight="0.009346" />
+      <edge id="78" source="knothole" target="knot" weight="0.00369" />
+      <edge id="79" source="kneel" target="knock" weight="0.006623" />
+      <edge id="80" source="kneel" target="knot" weight="0.007407" />
+      <edge id="81" source="kneel" target="knee" weight="0.010638" />
+      <edge id="82" source="knobby" target="knotty" weight="0.169492" />
+      <edge id="83" source="knobby" target="knurled" weight="0.714286" />
+      <edge id="84" source="knitting" target="knock" weight="0.006098" />
+      <edge id="85" source="knitting" target="knot" weight="0.003521" />
+      <edge id="86" source="knitting" target="knee" weight="0.018868" />
+      <edge id="87" source="knitting" target="knit" weight="0.025424" />
+      <edge id="88" source="know" target="knot" weight="0.003322" />
+      <edge id="89" source="know" target="knack" weight="0.011905" />
+      <edge id="90" source="know" target="knit" weight="0.007299" />
+      <edge id="91" source="knot" target="knock" weight="0.007874" />
+      <edge id="92" source="knot" target="knotty" weight="0.003257" />
+      <edge id="93" source="knot" target="knight" weight="0.003086" />
+      <edge id="94" source="knot" target="knee" weight="0.018692" />
+      <edge id="95" source="knot" target="knave" weight="0.003311" />
+      <edge id="96" source="knot" target="knack" weight="0.010563" />
+      <edge id="97" source="knot" target="knit" weight="0.093248" />
+      <edge id="98" source="knee" target="knife" weight="0.010526" />
+      <edge id="99" source="knee" target="knit" weight="0.012422" />
+      <edge id="100" source="knack" target="knock" weight="0.006024" />
+      <edge id="101" source="knack" target="knave" weight="0.011765" />
+      <edge id="102" source="knack" target="knit" weight="0.008197" />
+      <edge id="103" source="knack" target="knavery" weight="0.023529" />
+      <edge id="104" source="knit" target="knock" weight="0.004566" />
+      <edge id="105" source="knit" target="knotty" weight="0.006993" />
+      <edge id="106" source="knock" target="knave" weight="0.005495" />
+      <edge id="107" source="knight" target="knave" weight="0.059829" />
+      <edge id="108" source="knight" target="knife" weight="0.021739" />
+      <edge id="109" source="knave" target="knavery" weight="0.009804" />
+    </edges>
+  </graph>
+</gexf>

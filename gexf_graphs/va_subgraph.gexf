@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="vacillation" label="vacillation" />
+      <node id="variegate" label="variegate" />
+      <node id="vain" label="vain" />
+      <node id="vacillating" label="vacillating" />
+      <node id="vary" label="vary" />
+      <node id="vagabond" label="vagabond" />
+      <node id="vacancy" label="vacancy" />
+      <node id="vacate" label="vacate" />
+      <node id="variability" label="variability" />
+      <node id="value" label="value" />
+      <node id="valiant" label="valiant" />
+      <node id="vamp" label="vamp" />
+      <node id="vaulting" label="vaulting" />
+      <node id="vanish" label="vanish" />
+      <node id="vanguard" label="vanguard" />
+      <node id="vaporize" label="vaporize" />
+      <node id="varied" label="varied" />
+      <node id="variety" label="variety" />
+      <node id="vacuous" label="vacuous" />
+      <node id="vagrant" label="vagrant" />
+      <node id="vampire" label="vampire" />
+      <node id="various" label="various" />
+      <node id="valuate" label="valuate" />
+      <node id="vainglory" label="vainglory" />
+      <node id="vacuity" label="vacuity" />
+      <node id="valley" label="valley" />
+      <node id="vat" label="vat" />
+      <node id="vandalize" label="vandalize" />
+      <node id="varying" label="varying" />
+      <node id="variegation" label="variegation" />
+      <node id="vainglorious" label="vainglorious" />
+      <node id="variant" label="variant" />
+      <node id="variation" label="variation" />
+      <node id="vale" label="vale" />
+      <node id="vacuum" label="vacuum" />
+      <node id="variable" label="variable" />
+      <node id="van" label="van" />
+      <node id="vault" label="vault" />
+      <node id="vague" label="vague" />
+      <node id="vanity" label="vanity" />
+      <node id="valorous" label="valorous" />
+      <node id="vacillate" label="vacillate" />
+      <node id="vaporous" label="vaporous" />
+      <node id="vapid" label="vapid" />
+      <node id="vaudeville" label="vaudeville" />
+      <node id="vacant" label="vacant" />
+      <node id="variegated" label="variegated" />
+      <node id="variform" label="variform" />
+      <node id="validity" label="validity" />
+      <node id="variance" label="variance" />
+      <node id="vapor" label="vapor" />
+      <node id="vaunt" label="vaunt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="vacillation" target="variation" />
+      <edge id="1" source="variegate" target="vary" />
+      <edge id="2" source="vain" target="vacuous" />
+      <edge id="3" source="vain" target="vainglorious" />
+      <edge id="4" source="vain" target="vapid" />
+      <edge id="5" source="vacillating" target="variable" />
+      <edge id="6" source="vacillating" target="vagrant" />
+      <edge id="7" source="vary" target="vacillate" />
+      <edge id="8" source="vagabond" target="vagrant" />
+      <edge id="9" source="vacancy" target="vacuity" />
+      <edge id="10" source="vacancy" target="vacuum" />
+      <edge id="11" source="vacate" target="vanish" />
+      <edge id="12" source="variability" target="variegation" />
+      <edge id="13" source="variability" target="variation" />
+      <edge id="14" source="variability" target="variety" />
+      <edge id="15" source="value" target="valuate" />
+      <edge id="16" source="value" target="validity" />
+      <edge id="17" source="valiant" target="valorous" />
+      <edge id="18" source="vamp" target="vampire" />
+      <edge id="19" source="vaulting" target="vault" />
+      <edge id="20" source="vanguard" target="van" />
+      <edge id="21" source="vaporize" target="vandalize" />
+      <edge id="22" source="varied" target="variant" />
+      <edge id="23" source="varied" target="various" />
+      <edge id="24" source="varied" target="variegated" />
+      <edge id="25" source="varied" target="varying" />
+      <edge id="26" source="variety" target="vaudeville" />
+      <edge id="27" source="variety" target="variegation" />
+      <edge id="28" source="variety" target="variation" />
+      <edge id="29" source="variety" target="variance" />
+      <edge id="30" source="vacuous" target="vacant" />
+      <edge id="31" source="vacuous" target="vapid" />
+      <edge id="32" source="vagrant" target="variable" />
+      <edge id="33" source="various" target="variant" />
+      <edge id="34" source="various" target="variegated" />
+      <edge id="35" source="various" target="variform" />
+      <edge id="36" source="various" target="varying" />
+      <edge id="37" source="various" target="variable" />
+      <edge id="38" source="vainglory" target="vanity" />
+      <edge id="39" source="valley" target="vale" />
+      <edge id="40" source="vat" target="vault" />
+      <edge id="41" source="varying" target="variant" />
+      <edge id="42" source="varying" target="variegated" />
+      <edge id="43" source="varying" target="variform" />
+      <edge id="44" source="varying" target="variable" />
+      <edge id="45" source="variegation" target="variation" />
+      <edge id="46" source="variegation" target="variance" />
+      <edge id="47" source="variant" target="variegated" />
+      <edge id="48" source="variation" target="variance" />
+      <edge id="49" source="variable" target="variegated" />
+      <edge id="50" source="variable" target="variform" />
+      <edge id="51" source="vague" target="vaporous" />
+      <edge id="52" source="vanity" target="vaunt" />
+      <edge id="53" source="vapid" target="vacant" />
+      <edge id="54" source="variegated" target="variform" />
+      <edge id="55" source="vapor" target="vaunt" />
+    </edges>
+  </graph>
+</gexf>

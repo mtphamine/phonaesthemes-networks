@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="enunciation" label="enunciation" />
+      <node id="ensnarl" label="ensnarl" />
+      <node id="ennoble" label="ennoble" />
+      <node id="endear" label="endear" />
+      <node id="ensnare" label="ensnare" />
+      <node id="engrossed" label="engrossed" />
+      <node id="enmesh" label="enmesh" />
+      <node id="envisage" label="envisage" />
+      <node id="enlighten" label="enlighten" />
+      <node id="endue" label="endue" />
+      <node id="enfeebled" label="enfeebled" />
+      <node id="environment" label="environment" />
+      <node id="entranced" label="entranced" />
+      <node id="encounter" label="encounter" />
+      <node id="envelopment" label="envelopment" />
+      <node id="enslave" label="enslave" />
+      <node id="enshrine" label="enshrine" />
+      <node id="encircle" label="encircle" />
+      <node id="enrich" label="enrich" />
+      <node id="engrave" label="engrave" />
+      <node id="ending" label="ending" />
+      <node id="enamor" label="enamor" />
+      <node id="enrobe" label="enrobe" />
+      <node id="engross" label="engross" />
+      <node id="enfranchised" label="enfranchised" />
+      <node id="engrossing" label="engrossing" />
+      <node id="entice" label="entice" />
+      <node id="encroach" label="encroach" />
+      <node id="enchantress" label="enchantress" />
+      <node id="enclose" label="enclose" />
+      <node id="engraved" label="engraved" />
+      <node id="entomb" label="entomb" />
+      <node id="entourage" label="entourage" />
+      <node id="enthralled" label="enthralled" />
+      <node id="envision" label="envision" />
+      <node id="energy" label="energy" />
+      <node id="encroachment" label="encroachment" />
+      <node id="engaging" label="engaging" />
+      <node id="enfeeble" label="enfeeble" />
+      <node id="enclosed" label="enclosed" />
+      <node id="enhanced" label="enhanced" />
+      <node id="enjoin" label="enjoin" />
+      <node id="enclosure" label="enclosure" />
+      <node id="enticing" label="enticing" />
+      <node id="entertainment" label="entertainment" />
+      <node id="encourage" label="encourage" />
+      <node id="endorse" label="endorse" />
+      <node id="entwine" label="entwine" />
+      <node id="enclosing" label="enclosing" />
+      <node id="envelop" label="envelop" />
+      <node id="enumerate" label="enumerate" />
+      <node id="entertain" label="entertain" />
+      <node id="enfranchise" label="enfranchise" />
+      <node id="enhance" label="enhance" />
+      <node id="entrancing" label="entrancing" />
+      <node id="entrap" label="entrap" />
+      <node id="enterprising" label="enterprising" />
+      <node id="environs" label="environs" />
+      <node id="engage" label="engage" />
+      <node id="enchant" label="enchant" />
+      <node id="enshroud" label="enshroud" />
+      <node id="encephalitis" label="encephalitis" />
+      <node id="enliven" label="enliven" />
+      <node id="ensure" label="ensure" />
+      <node id="entrenchment" label="entrenchment" />
+      <node id="encirclement" label="encirclement" />
+      <node id="encouraging" label="encouraging" />
+      <node id="encircling" label="encircling" />
+      <node id="ensue" label="ensue" />
+      <node id="enlarged" label="enlarged" />
+      <node id="enthralling" label="enthralling" />
+      <node id="endeavor" label="endeavor" />
+      <node id="enrapture" label="enrapture" />
+      <node id="encapsulate" label="encapsulate" />
+      <node id="engagement" label="engagement" />
+      <node id="entitle" label="entitle" />
+      <node id="encyclical" label="encyclical" />
+      <node id="enraptured" label="enraptured" />
+      <node id="entrance" label="entrance" />
+      <node id="enable" label="enable" />
+      <node id="enthrall" label="enthrall" />
+      <node id="enchantment" label="enchantment" />
+      <node id="envelope" label="envelope" />
+      <node id="enroll" label="enroll" />
+      <node id="enravish" label="enravish" />
+      <node id="enervated" label="enervated" />
+      <node id="entangle" label="entangle" />
+      <node id="enfold" label="enfold" />
+      <node id="enravished" label="enravished" />
+      <node id="enrollment" label="enrollment" />
+      <node id="enteritis" label="enteritis" />
+      <node id="encumber" label="encumber" />
+      <node id="entrapment" label="entrapment" />
+      <node id="encase" label="encase" />
+      <node id="endure" label="endure" />
+      <node id="enticement" label="enticement" />
+      <node id="enthrone" label="enthrone" />
+      <node id="ensconce" label="ensconce" />
+      <node id="endow" label="endow" />
+      <node id="enhancement" label="enhancement" />
+      <node id="enamored" label="enamored" />
+      <node id="entering" label="entering" />
+      <node id="enchanter" label="enchanter" />
+      <node id="engaged" label="engaged" />
+      <node id="enchanted" label="enchanted" />
+      <node id="engulf" label="engulf" />
+      <node id="enlace" label="enlace" />
+      <node id="enervate" label="enervate" />
+      <node id="encompass" label="encompass" />
+      <node id="engorge" label="engorge" />
+      <node id="end" label="end" />
+      <node id="endurance" label="endurance" />
+      <node id="enlarge" label="enlarge" />
+      <node id="enlistment" label="enlistment" />
+      <node id="enclave" label="enclave" />
+      <node id="energizing" label="energizing" />
+      <node id="entrench" label="entrench" />
+      <node id="entitled" label="entitled" />
+      <node id="entree" label="entree" />
+      <node id="energetic" label="energetic" />
+      <node id="enveloped" label="enveloped" />
+      <node id="enjoyment" label="enjoyment" />
+      <node id="enterprise" label="enterprise" />
+      <node id="enlargement" label="enlargement" />
+      <node id="entanglement" label="entanglement" />
+      <node id="enchanting" label="enchanting" />
+      <node id="energize" label="energize" />
+      <node id="enthusiastic" label="enthusiastic" />
+      <node id="enchased" label="enchased" />
+      <node id="enlist" label="enlist" />
+      <node id="enter" label="enter" />
+      <node id="entry" label="entry" />
+      <node id="enrichment" label="enrichment" />
+    </nodes>
+    <edges>
+      <edge id="0" source="enunciation" target="encyclical" />
+      <edge id="1" source="ensnarl" target="entangle" />
+      <edge id="2" source="ensnarl" target="ensnare" />
+      <edge id="3" source="ensnarl" target="encumber" />
+      <edge id="4" source="ensnarl" target="enmesh" />
+      <edge id="5" source="ensnarl" target="entrap" />
+      <edge id="6" source="ensnarl" target="entwine" />
+      <edge id="7" source="ennoble" target="enshrine" />
+      <edge id="8" source="ennoble" target="enthrone" />
+      <edge id="9" source="endear" target="enrapture" />
+      <edge id="10" source="endear" target="enamor" />
+      <edge id="11" source="ensnare" target="entangle" />
+      <edge id="12" source="ensnare" target="enmesh" />
+      <edge id="13" source="ensnare" target="entrap" />
+      <edge id="14" source="ensnare" target="entice" />
+      <edge id="15" source="engrossed" target="engaged" />
+      <edge id="16" source="enmesh" target="entangle" />
+      <edge id="17" source="enmesh" target="engage" />
+      <edge id="18" source="enmesh" target="encumber" />
+      <edge id="19" source="enmesh" target="entrap" />
+      <edge id="20" source="enmesh" target="entwine" />
+      <edge id="21" source="envisage" target="encircle" />
+      <edge id="22" source="envisage" target="encompass" />
+      <edge id="23" source="envisage" target="enclose" />
+      <edge id="24" source="envisage" target="envision" />
+      <edge id="25" source="envisage" target="encounter" />
+      <edge id="26" source="enlighten" target="enrich" />
+      <edge id="27" source="enlighten" target="enhance" />
+      <edge id="28" source="endue" target="envelop" />
+      <edge id="29" source="endue" target="enable" />
+      <edge id="30" source="endue" target="endow" />
+      <edge id="31" source="endue" target="enshroud" />
+      <edge id="32" source="endue" target="enrobe" />
+      <edge id="33" source="enfeebled" target="enervated" />
+      <edge id="34" source="environment" target="envelopment" />
+      <edge id="35" source="environment" target="encirclement" />
+      <edge id="36" source="environment" target="environs" />
+      <edge id="37" source="environment" target="enclosure" />
+      <edge id="38" source="entranced" target="enchanted" />
+      <edge id="39" source="entranced" target="enthralled" />
+      <edge id="40" source="entranced" target="enraptured" />
+      <edge id="41" source="entranced" target="enravished" />
+      <edge id="42" source="encounter" target="engagement" />
+      <edge id="43" source="encounter" target="endure" />
+      <edge id="44" source="encounter" target="engage" />
+      <edge id="45" source="envelopment" target="encirclement" />
+      <edge id="46" source="envelopment" target="envelope" />
+      <edge id="47" source="envelopment" target="enclosure" />
+      <edge id="48" source="enslave" target="enthrall" />
+      <edge id="49" source="enshrine" target="encircle" />
+      <edge id="50" source="enshrine" target="enclose" />
+      <edge id="51" source="enshrine" target="enthrone" />
+      <edge id="52" source="enshrine" target="encompass" />
+      <edge id="53" source="enshrine" target="entomb" />
+      <edge id="54" source="encircle" target="encompass" />
+      <edge id="55" source="encircle" target="enclose" />
+      <edge id="56" source="encircle" target="envelop" />
+      <edge id="57" source="enrich" target="enhance" />
+      <edge id="58" source="enrich" target="endow" />
+      <edge id="59" source="engrave" target="enroll" />
+      <edge id="60" source="engrave" target="entrench" />
+      <edge id="61" source="engrave" target="enter" />
+      <edge id="62" source="ending" target="end" />
+      <edge id="63" source="enamor" target="enrapture" />
+      <edge id="64" source="enrobe" target="envelop" />
+      <edge id="65" source="enrobe" target="enshroud" />
+      <edge id="66" source="engross" target="engage" />
+      <edge id="67" source="engross" target="enchant" />
+      <edge id="68" source="engross" target="enthrall" />
+      <edge id="69" source="enfranchised" target="entitled" />
+      <edge id="70" source="engrossing" target="engaging" />
+      <edge id="71" source="engrossing" target="enthralling" />
+      <edge id="72" source="engrossing" target="enchanting" />
+      <edge id="73" source="entice" target="entrap" />
+      <edge id="74" source="encroach" target="entrench" />
+      <edge id="75" source="enchantress" target="enchanter" />
+      <edge id="76" source="enclose" target="enfold" />
+      <edge id="77" source="enclose" target="envelop" />
+      <edge id="78" source="enclose" target="enshroud" />
+      <edge id="79" source="enclose" target="encompass" />
+      <edge id="80" source="engraved" target="enchased" />
+      <edge id="81" source="entomb" target="encase" />
+      <edge id="82" source="entourage" target="environs" />
+      <edge id="83" source="enthralled" target="enchanted" />
+      <edge id="84" source="enthralled" target="enraptured" />
+      <edge id="85" source="enthralled" target="enravished" />
+      <edge id="86" source="energy" target="endeavor" />
+      <edge id="87" source="energy" target="endurance" />
+      <edge id="88" source="encroachment" target="entrance" />
+      <edge id="89" source="encroachment" target="entrenchment" />
+      <edge id="90" source="engaging" target="enticing" />
+      <edge id="91" source="engaging" target="engagement" />
+      <edge id="92" source="engaging" target="entrancing" />
+      <edge id="93" source="engaging" target="enthralling" />
+      <edge id="94" source="engaging" target="enchanting" />
+      <edge id="95" source="enfeeble" target="enervate" />
+      <edge id="96" source="enclosed" target="enveloped" />
+      <edge id="97" source="enhanced" target="enlarged" />
+      <edge id="98" source="enjoin" target="encourage" />
+      <edge id="99" source="enclosure" target="entanglement" />
+      <edge id="100" source="enclosure" target="enclave" />
+      <edge id="101" source="enclosure" target="encirclement" />
+      <edge id="102" source="enticing" target="entrancing" />
+      <edge id="103" source="enticing" target="enchanting" />
+      <edge id="104" source="enticing" target="enthralling" />
+      <edge id="105" source="entertainment" target="enjoyment" />
+      <edge id="106" source="encourage" target="enliven" />
+      <edge id="107" source="encourage" target="endorse" />
+      <edge id="108" source="endorse" target="ensure" />
+      <edge id="109" source="entwine" target="entangle" />
+      <edge id="110" source="entwine" target="encumber" />
+      <edge id="111" source="entwine" target="enlace" />
+      <edge id="112" source="entwine" target="entrap" />
+      <edge id="113" source="enclosing" target="encircling" />
+      <edge id="114" source="envelop" target="enfold" />
+      <edge id="115" source="envelop" target="enshroud" />
+      <edge id="116" source="envelop" target="encase" />
+      <edge id="117" source="envelop" target="ensconce" />
+      <edge id="118" source="envelop" target="encompass" />
+      <edge id="119" source="envelop" target="encapsulate" />
+      <edge id="120" source="enumerate" target="enroll" />
+      <edge id="121" source="enumerate" target="enter" />
+      <edge id="122" source="entertain" target="enliven" />
+      <edge id="123" source="enfranchise" target="enable" />
+      <edge id="124" source="enfranchise" target="entitle" />
+      <edge id="125" source="enhance" target="enlarge" />
+      <edge id="126" source="entrancing" target="enchanting" />
+      <edge id="127" source="entrancing" target="enthralling" />
+      <edge id="128" source="entrap" target="entangle" />
+      <edge id="129" source="entrap" target="encumber" />
+      <edge id="130" source="enterprising" target="enthusiastic" />
+      <edge id="131" source="enterprising" target="energetic" />
+      <edge id="132" source="engage" target="entangle" />
+      <edge id="133" source="engage" target="enthrall" />
+      <edge id="134" source="engage" target="enlist" />
+      <edge id="135" source="engage" target="enchant" />
+      <edge id="136" source="enchant" target="entrance" />
+      <edge id="137" source="enchant" target="enthrall" />
+      <edge id="138" source="enchant" target="enravish" />
+      <edge id="139" source="enchant" target="enrapture" />
+      <edge id="140" source="enshroud" target="enfold" />
+      <edge id="141" source="enshroud" target="encase" />
+      <edge id="142" source="enshroud" target="ensconce" />
+      <edge id="143" source="enshroud" target="encapsulate" />
+      <edge id="144" source="encephalitis" target="enteritis" />
+      <edge id="145" source="enliven" target="energize" />
+      <edge id="146" source="entrenchment" target="entrance" />
+      <edge id="147" source="encouraging" target="energizing" />
+      <edge id="148" source="ensue" target="end" />
+      <edge id="149" source="enthralling" target="enchanting" />
+      <edge id="150" source="endeavor" target="enterprise" />
+      <edge id="151" source="enrapture" target="entrance" />
+      <edge id="152" source="enrapture" target="enthrall" />
+      <edge id="153" source="enrapture" target="enravish" />
+      <edge id="154" source="encapsulate" target="encase" />
+      <edge id="155" source="encapsulate" target="enfold" />
+      <edge id="156" source="engagement" target="entanglement" />
+      <edge id="157" source="engagement" target="enterprise" />
+      <edge id="158" source="engagement" target="enlistment" />
+      <edge id="159" source="entitle" target="enable" />
+      <edge id="160" source="enraptured" target="enchanted" />
+      <edge id="161" source="enraptured" target="enravished" />
+      <edge id="162" source="enraptured" target="enamored" />
+      <edge id="163" source="entrance" target="entree" />
+      <edge id="164" source="entrance" target="entry" />
+      <edge id="165" source="entrance" target="enthrall" />
+      <edge id="166" source="entrance" target="enravish" />
+      <edge id="167" source="enable" target="endow" />
+      <edge id="168" source="enthrall" target="enravish" />
+      <edge id="169" source="enchantment" target="entrapment" />
+      <edge id="170" source="enchantment" target="enticement" />
+      <edge id="171" source="enroll" target="enlist" />
+      <edge id="172" source="enroll" target="enter" />
+      <edge id="173" source="entangle" target="encumber" />
+      <edge id="174" source="enfold" target="encase" />
+      <edge id="175" source="enfold" target="encompass" />
+      <edge id="176" source="enravished" target="enchanted" />
+      <edge id="177" source="enrollment" target="entry" />
+      <edge id="178" source="enrollment" target="entering" />
+      <edge id="179" source="enrollment" target="enlistment" />
+      <edge id="180" source="entrapment" target="entanglement" />
+      <edge id="181" source="entrapment" target="enticement" />
+      <edge id="182" source="enhancement" target="enlargement" />
+      <edge id="183" source="enhancement" target="enrichment" />
+      <edge id="184" source="enamored" target="enchanted" />
+      <edge id="185" source="entering" target="entry" />
+      <edge id="186" source="entering" target="enlistment" />
+      <edge id="187" source="engulf" target="engorge" />
+      <edge id="188" source="enlistment" target="entry" />
+      <edge id="189" source="entree" target="entry" />
+      <edge id="190" source="energetic" target="enthusiastic" />
+      <edge id="191" source="enlist" target="enter" />
+    </edges>
+  </graph>
+</gexf>

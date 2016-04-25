@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="spherical" label="spherical" />
+      <node id="spastic" label="spastic" />
+      <node id="spindly" label="spindly" />
+      <node id="sprocket" label="sprocket" />
+      <node id="splashing" label="splashing" />
+      <node id="spirochete" label="spirochete" />
+      <node id="spanking" label="spanking" />
+      <node id="sponging" label="sponging" />
+      <node id="sperm" label="sperm" />
+      <node id="spasmodically" label="spasmodically" />
+      <node id="spacecraft" label="spacecraft" />
+      <node id="spattered" label="spattered" />
+      <node id="sputtering" label="sputtering" />
+      <node id="speed" label="speed" />
+      <node id="spellbind" label="spellbind" />
+      <node id="spasmodic" label="spasmodic" />
+      <node id="spidery" label="spidery" />
+      <node id="sportive" label="sportive" />
+      <node id="splurge" label="splurge" />
+      <node id="spectacles" label="spectacles" />
+      <node id="spineless" label="spineless" />
+      <node id="spew" label="spew" />
+      <node id="sparkling" label="sparkling" />
+      <node id="spinner" label="spinner" />
+      <node id="spread" label="spread" />
+      <node id="sprout" label="sprout" />
+      <node id="sputter" label="sputter" />
+      <node id="speech" label="speech" />
+      <node id="sporting" label="sporting" />
+      <node id="spell" label="spell" />
+      <node id="spate" label="spate" />
+      <node id="splendorous" label="splendorous" />
+      <node id="spunkless" label="spunkless" />
+      <node id="spoon" label="spoon" />
+      <node id="spook" label="spook" />
+      <node id="speculate" label="speculate" />
+      <node id="spur" label="spur" />
+      <node id="spiritualism" label="spiritualism" />
+      <node id="spigot" label="spigot" />
+      <node id="spine" label="spine" />
+      <node id="spiracle" label="spiracle" />
+      <node id="specific" label="specific" />
+      <node id="spiked" label="spiked" />
+      <node id="sparse" label="sparse" />
+      <node id="speculation" label="speculation" />
+      <node id="spieler" label="spieler" />
+      <node id="spotted" label="spotted" />
+      <node id="spiritual" label="spiritual" />
+      <node id="speck" label="speck" />
+      <node id="spring" label="spring" />
+      <node id="spore" label="spore" />
+      <node id="splendiferous" label="splendiferous" />
+      <node id="spider" label="spider" />
+      <node id="sportsman" label="sportsman" />
+      <node id="sponge" label="sponge" />
+      <node id="spotter" label="spotter" />
+      <node id="sporadic" label="sporadic" />
+      <node id="sprint" label="sprint" />
+      <node id="sport" label="sport" />
+      <node id="sparge" label="sparge" />
+      <node id="specs" label="specs" />
+      <node id="special" label="special" />
+      <node id="spasm" label="spasm" />
+      <node id="spectral" label="spectral" />
+      <node id="splashy" label="splashy" />
+      <node id="spirits" label="spirits" />
+      <node id="spry" label="spry" />
+      <node id="space" label="space" />
+      <node id="sparingly" label="sparingly" />
+      <node id="spire" label="spire" />
+      <node id="spokesman" label="spokesman" />
+      <node id="sparkle" label="sparkle" />
+      <node id="speedy" label="speedy" />
+      <node id="spiritualistic" label="spiritualistic" />
+      <node id="spiny" label="spiny" />
+      <node id="sparsely" label="sparsely" />
+      <node id="spunky" label="spunky" />
+      <node id="splinter" label="splinter" />
+      <node id="sprung" label="sprung" />
+      <node id="spiel" label="spiel" />
+      <node id="specious" label="specious" />
+      <node id="spray" label="spray" />
+      <node id="spare" label="spare" />
+      <node id="splice" label="splice" />
+      <node id="spattering" label="spattering" />
+      <node id="spark" label="spark" />
+      <node id="spectrograph" label="spectrograph" />
+      <node id="speechmaker" label="speechmaker" />
+      <node id="spined" label="spined" />
+      <node id="spill" label="spill" />
+      <node id="splotchy" label="splotchy" />
+      <node id="spile" label="spile" />
+      <node id="spatter" label="spatter" />
+      <node id="spume" label="spume" />
+      <node id="spiritless" label="spiritless" />
+      <node id="spotty" label="spotty" />
+      <node id="sprawling" label="sprawling" />
+      <node id="spoil" label="spoil" />
+      <node id="spear" label="spear" />
+      <node id="spoken" label="spoken" />
+      <node id="sparing" label="sparing" />
+      <node id="splint" label="splint" />
+      <node id="springe" label="springe" />
+      <node id="speculator" label="speculator" />
+      <node id="spinning" label="spinning" />
+      <node id="splattered" label="splattered" />
+      <node id="spermatozoa" label="spermatozoa" />
+      <node id="span" label="span" />
+      <node id="sporty" label="sporty" />
+      <node id="spiffy" label="spiffy" />
+      <node id="spurtle" label="spurtle" />
+      <node id="spiral" label="spiral" />
+      <node id="specifically" label="specifically" />
+      <node id="splash" label="splash" />
+      <node id="spangle" label="spangle" />
+      <node id="spike" label="spike" />
+      <node id="spar" label="spar" />
+      <node id="springboard" label="springboard" />
+      <node id="spaceship" label="spaceship" />
+      <node id="spat" label="spat" />
+      <node id="spermatozoon" label="spermatozoon" />
+      <node id="sprite" label="sprite" />
+      <node id="spit" label="spit" />
+      <node id="sponger" label="sponger" />
+      <node id="splenetic" label="splenetic" />
+      <node id="specialty" label="specialty" />
+      <node id="sporadically" label="sporadically" />
+      <node id="sprinkling" label="sprinkling" />
+      <node id="spritz" label="spritz" />
+      <node id="spin" label="spin" />
+      <node id="spirit" label="spirit" />
+      <node id="specify" label="specify" />
+      <node id="spice" label="spice" />
+      <node id="sphere" label="sphere" />
+      <node id="spindrift" label="spindrift" />
+      <node id="spectroscope" label="spectroscope" />
+      <node id="splutter" label="splutter" />
+      <node id="spirited" label="spirited" />
+      <node id="spicule" label="spicule" />
+      <node id="speediness" label="speediness" />
+      <node id="spectroscopy" label="spectroscopy" />
+      <node id="spurt" label="spurt" />
+      <node id="spectrometry" label="spectrometry" />
+      <node id="spotlight" label="spotlight" />
+      <node id="spawn" label="spawn" />
+      <node id="spy" label="spy" />
+      <node id="speciality" label="speciality" />
+      <node id="splatter" label="splatter" />
+      <node id="springlike" label="springlike" />
+      <node id="spruce" label="spruce" />
+      <node id="spectacle" label="spectacle" />
+      <node id="splotch" label="splotch" />
+      <node id="spleeny" label="spleeny" />
+      <node id="spade" label="spade" />
+      <node id="spunk" label="spunk" />
+      <node id="speaking" label="speaking" />
+      <node id="sprinkler" label="sprinkler" />
+      <node id="sprightly" label="sprightly" />
+      <node id="spiraling" label="spiraling" />
+      <node id="specter" label="specter" />
+      <node id="spellbinding" label="spellbinding" />
+      <node id="sprinkled" label="sprinkled" />
+      <node id="speaker" label="speaker" />
+      <node id="split" label="split" />
+      <node id="sprig" label="sprig" />
+      <node id="sprinkle" label="sprinkle" />
+      <node id="spinster" label="spinster" />
+      <node id="spangled" label="spangled" />
+      <node id="sprawl" label="sprawl" />
+      <node id="spot" label="spot" />
+      <node id="splay" label="splay" />
+      <node id="spree" label="spree" />
+      <node id="speckled" label="speckled" />
+      <node id="specialization" label="specialization" />
+      <node id="specialize" label="specialize" />
+      <node id="splendid" label="splendid" />
+      <node id="spoliate" label="spoliate" />
+      <node id="spout" label="spout" />
+      <node id="spiteful" label="spiteful" />
+      <node id="spend" label="spend" />
+    </nodes>
+    <edges>
+      <edge id="0" source="spherical" target="space" />
+      <edge id="1" source="spastic" target="sporadic" />
+      <edge id="2" source="spastic" target="spotty" />
+      <edge id="3" source="spastic" target="spasmodic" />
+      <edge id="4" source="spindly" target="spare" />
+      <edge id="5" source="spindly" target="spidery" />
+      <edge id="6" source="sprocket" target="spur" />
+      <edge id="7" source="sprocket" target="spire" />
+      <edge id="8" source="splashing" target="sprinkling" />
+      <edge id="9" source="splashing" target="spattering" />
+      <edge id="10" source="spirochete" target="spore" />
+      <edge id="11" source="spanking" target="spirited" />
+      <edge id="12" source="spanking" target="sprightly" />
+      <edge id="13" source="spanking" target="speedy" />
+      <edge id="14" source="spanking" target="spry" />
+      <edge id="15" source="sponging" target="sponge" />
+      <edge id="16" source="sperm" target="spermatozoa" />
+      <edge id="17" source="sperm" target="spermatozoon" />
+      <edge id="18" source="spasmodically" target="sporadically" />
+      <edge id="19" source="spacecraft" target="spaceship" />
+      <edge id="20" source="spattered" target="spotted" />
+      <edge id="21" source="spattered" target="splotchy" />
+      <edge id="22" source="spattered" target="speckled" />
+      <edge id="23" source="spattered" target="sprinkled" />
+      <edge id="24" source="spattered" target="spotty" />
+      <edge id="25" source="spattered" target="splattered" />
+      <edge id="26" source="sputtering" target="spattering" />
+      <edge id="27" source="speed" target="spur" />
+      <edge id="28" source="speed" target="speediness" />
+      <edge id="29" source="spellbind" target="spell" />
+      <edge id="30" source="spasmodic" target="sporadic" />
+      <edge id="31" source="spasmodic" target="spotty" />
+      <edge id="32" source="spasmodic" target="spineless" />
+      <edge id="33" source="spidery" target="spare" />
+      <edge id="34" source="sportive" target="spirited" />
+      <edge id="35" source="sportive" target="sprightly" />
+      <edge id="36" source="splurge" target="splatter" />
+      <edge id="37" source="splurge" target="spurtle" />
+      <edge id="38" source="splurge" target="splash" />
+      <edge id="39" source="splurge" target="spectacle" />
+      <edge id="40" source="splurge" target="spree" />
+      <edge id="41" source="splurge" target="spend" />
+      <edge id="42" source="spectacles" target="specs" />
+      <edge id="43" source="spew" target="spit" />
+      <edge id="44" source="spew" target="spout" />
+      <edge id="45" source="spew" target="spate" />
+      <edge id="46" source="spew" target="spray" />
+      <edge id="47" source="spew" target="spurt" />
+      <edge id="48" source="spew" target="spritz" />
+      <edge id="49" source="spew" target="spurtle" />
+      <edge id="50" source="sparkling" target="spirited" />
+      <edge id="51" source="sparkling" target="sprightly" />
+      <edge id="52" source="sparkling" target="splendid" />
+      <edge id="53" source="sparkling" target="splendorous" />
+      <edge id="54" source="spinner" target="spinster" />
+      <edge id="55" source="spinner" target="spider" />
+      <edge id="56" source="spinner" target="springe" />
+      <edge id="57" source="spread" target="sprawling" />
+      <edge id="58" source="spread" target="sprawl" />
+      <edge id="59" source="spread" target="span" />
+      <edge id="60" source="spread" target="space" />
+      <edge id="61" source="spread" target="sprinkling" />
+      <edge id="62" source="spread" target="splay" />
+      <edge id="63" source="spread" target="sphere" />
+      <edge id="64" source="spread" target="split" />
+      <edge id="65" source="spread" target="sparse" />
+      <edge id="66" source="spread" target="spattering" />
+      <edge id="67" source="spread" target="sporadic" />
+      <edge id="68" source="sprout" target="spray" />
+      <edge id="69" source="sprout" target="sprig" />
+      <edge id="70" source="sprout" target="spear" />
+      <edge id="71" source="sputter" target="splatter" />
+      <edge id="72" source="sputter" target="spatter" />
+      <edge id="73" source="sputter" target="splutter" />
+      <edge id="74" source="sputter" target="spit" />
+      <edge id="75" source="speech" target="spoken" />
+      <edge id="76" source="speech" target="speaking" />
+      <edge id="77" source="sporting" target="speculation" />
+      <edge id="78" source="sporting" target="sport" />
+      <edge id="79" source="spell" target="spellbinding" />
+      <edge id="80" source="spell" target="span" />
+      <edge id="81" source="spell" target="space" />
+      <edge id="82" source="spate" target="spout" />
+      <edge id="83" source="spate" target="spurt" />
+      <edge id="84" source="splendorous" target="splendiferous" />
+      <edge id="85" source="splendorous" target="splendid" />
+      <edge id="86" source="spunkless" target="spiritless" />
+      <edge id="87" source="spoon" target="spade" />
+      <edge id="88" source="spook" target="spy" />
+      <edge id="89" source="spook" target="sprite" />
+      <edge id="90" source="spook" target="spirit" />
+      <edge id="91" source="speculate" target="sport" />
+      <edge id="92" source="spur" target="spit" />
+      <edge id="93" source="spur" target="spine" />
+      <edge id="94" source="spur" target="spire" />
+      <edge id="95" source="spur" target="spray" />
+      <edge id="96" source="spur" target="sprig" />
+      <edge id="97" source="spiritualism" target="spirit" />
+      <edge id="98" source="spigot" target="spike" />
+      <edge id="99" source="spigot" target="spile" />
+      <edge id="100" source="spigot" target="spill" />
+      <edge id="101" source="spine" target="spicule" />
+      <edge id="102" source="spine" target="spike" />
+      <edge id="103" source="spiracle" target="spout" />
+      <edge id="104" source="specific" target="special" />
+      <edge id="105" source="spiked" target="spiny" />
+      <edge id="106" source="spiked" target="spined" />
+      <edge id="107" source="sparse" target="sparing" />
+      <edge id="108" source="sparse" target="spare" />
+      <edge id="109" source="sparse" target="sporadic" />
+      <edge id="110" source="sparse" target="spotty" />
+      <edge id="111" source="sparse" target="sprinkled" />
+      <edge id="112" source="spieler" target="spokesman" />
+      <edge id="113" source="spieler" target="speaker" />
+      <edge id="114" source="spieler" target="speechmaker" />
+      <edge id="115" source="spotted" target="spangled" />
+      <edge id="116" source="spotted" target="splotchy" />
+      <edge id="117" source="spotted" target="speckled" />
+      <edge id="118" source="spotted" target="sprinkled" />
+      <edge id="119" source="spotted" target="spotty" />
+      <edge id="120" source="spotted" target="splattered" />
+      <edge id="121" source="spiritual" target="spectral" />
+      <edge id="122" source="spiritual" target="spiritualistic" />
+      <edge id="123" source="speck" target="sprinkle" />
+      <edge id="124" source="speck" target="spangle" />
+      <edge id="125" source="speck" target="splinter" />
+      <edge id="126" source="speck" target="spot" />
+      <edge id="127" source="speck" target="splash" />
+      <edge id="128" source="speck" target="spatter" />
+      <edge id="129" source="speck" target="splatter" />
+      <edge id="130" source="speck" target="splotch" />
+      <edge id="131" source="spring" target="springlike" />
+      <edge id="132" source="spring" target="spurt" />
+      <edge id="133" source="spring" target="springboard" />
+      <edge id="134" source="spring" target="spout" />
+      <edge id="135" source="spring" target="sprint" />
+      <edge id="136" source="splendiferous" target="splendid" />
+      <edge id="137" source="spider" target="spinster" />
+      <edge id="138" source="sportsman" target="speculator" />
+      <edge id="139" source="sportsman" target="sport" />
+      <edge id="140" source="sponge" target="sprinkle" />
+      <edge id="141" source="sponge" target="splatter" />
+      <edge id="142" source="sponge" target="splint" />
+      <edge id="143" source="sponge" target="spray" />
+      <edge id="144" source="sponge" target="splash" />
+      <edge id="145" source="sponge" target="spatter" />
+      <edge id="146" source="sponge" target="spume" />
+      <edge id="147" source="sponge" target="sponger" />
+      <edge id="148" source="sponge" target="sparge" />
+      <edge id="149" source="spotter" target="spy" />
+      <edge id="150" source="sporadic" target="spotty" />
+      <edge id="151" source="sprint" target="spurt" />
+      <edge id="152" source="sport" target="speculator" />
+      <edge id="153" source="sport" target="spark" />
+      <edge id="154" source="sparge" target="sprinkle" />
+      <edge id="155" source="sparge" target="sprinkler" />
+      <edge id="156" source="sparge" target="spindrift" />
+      <edge id="157" source="sparge" target="splatter" />
+      <edge id="158" source="sparge" target="spray" />
+      <edge id="159" source="sparge" target="splash" />
+      <edge id="160" source="sparge" target="spatter" />
+      <edge id="161" source="sparge" target="spume" />
+      <edge id="162" source="special" target="speciality" />
+      <edge id="163" source="special" target="specifically" />
+      <edge id="164" source="spasm" target="spurt" />
+      <edge id="165" source="spectral" target="specious" />
+      <edge id="166" source="splashy" target="sporty" />
+      <edge id="167" source="spirits" target="spirit" />
+      <edge id="168" source="spry" target="spirited" />
+      <edge id="169" source="spry" target="sprightly" />
+      <edge id="170" source="spry" target="speedy" />
+      <edge id="171" source="space" target="span" />
+      <edge id="172" source="space" target="split" />
+      <edge id="173" source="sparingly" target="sparsely" />
+      <edge id="174" source="spire" target="spiral" />
+      <edge id="175" source="spire" target="spear" />
+      <edge id="176" source="spokesman" target="speaker" />
+      <edge id="177" source="spokesman" target="speechmaker" />
+      <edge id="178" source="sparkle" target="spangle" />
+      <edge id="179" source="sparkle" target="spark" />
+      <edge id="180" source="sparkle" target="spirit" />
+      <edge id="181" source="spiny" target="spined" />
+      <edge id="182" source="sparsely" target="sporadically" />
+      <edge id="183" source="spunky" target="spirited" />
+      <edge id="184" source="splinter" target="split" />
+      <edge id="185" source="sprung" target="split" />
+      <edge id="186" source="spiel" target="spout" />
+      <edge id="187" source="spray" target="spout" />
+      <edge id="188" source="spray" target="sprinkle" />
+      <edge id="189" source="spray" target="spit" />
+      <edge id="190" source="spray" target="spear" />
+      <edge id="191" source="spray" target="spindrift" />
+      <edge id="192" source="spray" target="spurtle" />
+      <edge id="193" source="spray" target="splatter" />
+      <edge id="194" source="spray" target="sprig" />
+      <edge id="195" source="spray" target="splash" />
+      <edge id="196" source="spray" target="spatter" />
+      <edge id="197" source="spray" target="spume" />
+      <edge id="198" source="spray" target="spurt" />
+      <edge id="199" source="spray" target="spritz" />
+      <edge id="200" source="spray" target="sprinkler" />
+      <edge id="201" source="spare" target="sparing" />
+      <edge id="202" source="splice" target="span" />
+      <edge id="203" source="spattering" target="splay" />
+      <edge id="204" source="spattering" target="spatter" />
+      <edge id="205" source="spattering" target="sprinkling" />
+      <edge id="206" source="spark" target="sprinkling" />
+      <edge id="207" source="spark" target="spangle" />
+      <edge id="208" source="spectrograph" target="spectroscope" />
+      <edge id="209" source="speechmaker" target="speaker" />
+      <edge id="210" source="spill" target="sprawl" />
+      <edge id="211" source="spill" target="spend" />
+      <edge id="212" source="spill" target="spile" />
+      <edge id="213" source="spill" target="spike" />
+      <edge id="214" source="splotchy" target="spangled" />
+      <edge id="215" source="splotchy" target="speckled" />
+      <edge id="216" source="splotchy" target="sprinkled" />
+      <edge id="217" source="splotchy" target="spotty" />
+      <edge id="218" source="splotchy" target="splattered" />
+      <edge id="219" source="spile" target="spike" />
+      <edge id="220" source="spatter" target="sprinkle" />
+      <edge id="221" source="spatter" target="spit" />
+      <edge id="222" source="spatter" target="spindrift" />
+      <edge id="223" source="spatter" target="splatter" />
+      <edge id="224" source="spatter" target="spot" />
+      <edge id="225" source="spatter" target="splotch" />
+      <edge id="226" source="spatter" target="splash" />
+      <edge id="227" source="spatter" target="spume" />
+      <edge id="228" source="spatter" target="sprinkling" />
+      <edge id="229" source="spatter" target="splutter" />
+      <edge id="230" source="spume" target="sprinkle" />
+      <edge id="231" source="spume" target="spindrift" />
+      <edge id="232" source="spume" target="splatter" />
+      <edge id="233" source="spume" target="splash" />
+      <edge id="234" source="spotty" target="spangled" />
+      <edge id="235" source="spotty" target="speckled" />
+      <edge id="236" source="spotty" target="sprinkled" />
+      <edge id="237" source="spotty" target="splattered" />
+      <edge id="238" source="sprawling" target="splay" />
+      <edge id="239" source="spoil" target="spoliate" />
+      <edge id="240" source="spoil" target="spike" />
+      <edge id="241" source="spear" target="spit" />
+      <edge id="242" source="spear" target="sprig" />
+      <edge id="243" source="spear" target="spike" />
+      <edge id="244" source="spinning" target="spin" />
+      <edge id="245" source="splattered" target="speckled" />
+      <edge id="246" source="splattered" target="sprinkled" />
+      <edge id="247" source="spermatozoa" target="spermatozoon" />
+      <edge id="248" source="span" target="spike" />
+      <edge id="249" source="span" target="spurt" />
+      <edge id="250" source="spiffy" target="spruce" />
+      <edge id="251" source="spurtle" target="spit" />
+      <edge id="252" source="spurtle" target="splatter" />
+      <edge id="253" source="spurtle" target="spout" />
+      <edge id="254" source="spurtle" target="spurt" />
+      <edge id="255" source="spurtle" target="spritz" />
+      <edge id="256" source="spiral" target="spin" />
+      <edge id="257" source="spiral" target="spiraling" />
+      <edge id="258" source="splash" target="sprinkle" />
+      <edge id="259" source="splash" target="spindrift" />
+      <edge id="260" source="splash" target="splatter" />
+      <edge id="261" source="splash" target="spot" />
+      <edge id="262" source="splash" target="spectacle" />
+      <edge id="263" source="splash" target="splotch" />
+      <edge id="264" source="spangle" target="sprinkle" />
+      <edge id="265" source="spangle" target="spot" />
+      <edge id="266" source="spangle" target="splotch" />
+      <edge id="267" source="spike" target="spit" />
+      <edge id="268" source="spike" target="spicule" />
+      <edge id="269" source="spar" target="spat" />
+      <edge id="270" source="spat" target="spawn" />
+      <edge id="271" source="sprite" target="spirit" />
+      <edge id="272" source="spit" target="spout" />
+      <edge id="273" source="spit" target="sprinkle" />
+      <edge id="274" source="spit" target="spurt" />
+      <edge id="275" source="spit" target="spritz" />
+      <edge id="276" source="spit" target="splutter" />
+      <edge id="277" source="splenetic" target="spiteful" />
+      <edge id="278" source="splenetic" target="spleeny" />
+      <edge id="279" source="specialty" target="sphere" />
+      <edge id="280" source="specialty" target="speciality" />
+      <edge id="281" source="specialty" target="specialization" />
+      <edge id="282" source="sprinkling" target="splay" />
+      <edge id="283" source="sprinkling" target="spice" />
+      <edge id="284" source="spritz" target="spout" />
+      <edge id="285" source="spritz" target="spurt" />
+      <edge id="286" source="spirit" target="spunk" />
+      <edge id="287" source="spirit" target="specter" />
+      <edge id="288" source="spirit" target="spice" />
+      <edge id="289" source="specify" target="specialize" />
+      <edge id="290" source="spindrift" target="sprinkle" />
+      <edge id="291" source="spindrift" target="splatter" />
+      <edge id="292" source="splutter" target="splatter" />
+      <edge id="293" source="spirited" target="sprightly" />
+      <edge id="294" source="spectroscopy" target="spectrometry" />
+      <edge id="295" source="spurt" target="spout" />
+      <edge id="296" source="spotlight" target="spot" />
+      <edge id="297" source="spy" target="spot" />
+      <edge id="298" source="speciality" target="specialization" />
+      <edge id="299" source="splatter" target="sprinkle" />
+      <edge id="300" source="splatter" target="spot" />
+      <edge id="301" source="splatter" target="splotch" />
+      <edge id="302" source="splotch" target="sprinkle" />
+      <edge id="303" source="splotch" target="spot" />
+      <edge id="304" source="spleeny" target="spiteful" />
+      <edge id="305" source="sprinkled" target="spangled" />
+      <edge id="306" source="sprinkled" target="speckled" />
+      <edge id="307" source="sprinkle" target="spot" />
+      <edge id="308" source="spangled" target="speckled" />
+      <edge id="309" source="sprawl" target="splay" />
+    </edges>
+  </graph>
+</gexf>

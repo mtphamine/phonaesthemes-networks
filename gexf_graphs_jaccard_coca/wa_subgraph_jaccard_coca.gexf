@@ -1,0 +1,1421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="walking" label="walking">
+        <attvalues>
+          <attvalue for="0" value="4.54961623952" />
+        </attvalues>
+      </node>
+      <node id="wainscot" label="wainscot">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="wasteful" label="wasteful">
+        <attvalues>
+          <attvalue for="0" value="3.00173371281" />
+        </attvalues>
+      </node>
+      <node id="wailing" label="wailing" />
+      <node id="wakeful" label="wakeful" />
+      <node id="wardrobe" label="wardrobe">
+        <attvalues>
+          <attvalue for="0" value="3.38345629652" />
+        </attvalues>
+      </node>
+      <node id="warren" label="warren" />
+      <node id="wage" label="wage">
+        <attvalues>
+          <attvalue for="0" value="3.8790958795" />
+        </attvalues>
+      </node>
+      <node id="wanton" label="wanton" />
+      <node id="waiting" label="waiting" />
+      <node id="wasting" label="wasting">
+        <attvalues>
+          <attvalue for="0" value="3.3884564527" />
+        </attvalues>
+      </node>
+      <node id="wassail" label="wassail" />
+      <node id="warpath" label="warpath">
+        <attvalues>
+          <attvalue for="0" value="1.95424250944" />
+        </attvalues>
+      </node>
+      <node id="waggle" label="waggle">
+        <attvalues>
+          <attvalue for="0" value="1.87506126339" />
+        </attvalues>
+      </node>
+      <node id="warrant" label="warrant">
+        <attvalues>
+          <attvalue for="0" value="3.65696018274" />
+        </attvalues>
+      </node>
+      <node id="washroom" label="washroom">
+        <attvalues>
+          <attvalue for="0" value="2.30963016743" />
+        </attvalues>
+      </node>
+      <node id="wasteland" label="wasteland">
+        <attvalues>
+          <attvalue for="0" value="2.84010609446" />
+        </attvalues>
+      </node>
+      <node id="waterproof" label="waterproof" />
+      <node id="waggish" label="waggish" />
+      <node id="watch" label="watch" />
+      <node id="warble" label="warble">
+        <attvalues>
+          <attvalue for="0" value="2.02938377769" />
+        </attvalues>
+      </node>
+      <node id="warranted" label="warranted" />
+      <node id="wavy" label="wavy" />
+      <node id="washboard" label="washboard">
+        <attvalues>
+          <attvalue for="0" value="2.27875360095" />
+        </attvalues>
+      </node>
+      <node id="waterlogged" label="waterlogged">
+        <attvalues>
+          <attvalue for="0" value="2.47567118832" />
+        </attvalues>
+      </node>
+      <node id="wagon" label="wagon" />
+      <node id="washing" label="washing">
+        <attvalues>
+          <attvalue for="0" value="3.70552161342" />
+        </attvalues>
+      </node>
+      <node id="war" label="war" />
+      <node id="washout" label="washout" />
+      <node id="wattle" label="wattle" />
+      <node id="walleye" label="walleye" />
+      <node id="wacky" label="wacky" />
+      <node id="waffle" label="waffle" />
+      <node id="wagoner" label="wagoner" />
+      <node id="warring" label="warring" />
+      <node id="wavelength" label="wavelength" />
+      <node id="wander" label="wander" />
+      <node id="warrantable" label="warrantable" />
+      <node id="wanderlust" label="wanderlust">
+        <attvalues>
+          <attvalue for="0" value="2.2552725051" />
+        </attvalues>
+      </node>
+      <node id="waning" label="waning">
+        <attvalues>
+          <attvalue for="0" value="3.11260500153" />
+        </attvalues>
+      </node>
+      <node id="waive" label="waive" />
+      <node id="walkout" label="walkout" />
+      <node id="warmongering" label="warmongering">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="washer" label="washer" />
+      <node id="warrior" label="warrior" />
+      <node id="waggery" label="waggery" />
+      <node id="watermark" label="watermark">
+        <attvalues>
+          <attvalue for="0" value="2.10720996965" />
+        </attvalues>
+      </node>
+      <node id="wayward" label="wayward" />
+      <node id="waddle" label="waddle">
+        <attvalues>
+          <attvalue for="0" value="2.65991620007" />
+        </attvalues>
+      </node>
+      <node id="wayworn" label="wayworn" />
+      <node id="waif" label="waif">
+        <attvalues>
+          <attvalue for="0" value="2.23299611039" />
+        </attvalues>
+      </node>
+      <node id="water" label="water">
+        <attvalues>
+          <attvalue for="0" value="5.23927945356" />
+        </attvalues>
+      </node>
+      <node id="wanted" label="wanted" />
+      <node id="washstand" label="washstand" />
+      <node id="wait" label="wait" />
+      <node id="waving" label="waving" />
+      <node id="wading" label="wading" />
+      <node id="warmhearted" label="warmhearted">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="warranty" label="warranty" />
+      <node id="wale" label="wale" />
+      <node id="watering" label="watering" />
+      <node id="wall" label="wall">
+        <attvalues>
+          <attvalue for="0" value="4.80498401897" />
+        </attvalues>
+      </node>
+      <node id="wattage" label="wattage">
+        <attvalues>
+          <attvalue for="0" value="2.38916608436" />
+        </attvalues>
+      </node>
+      <node id="warbling" label="warbling" />
+      <node id="walk" label="walk" />
+      <node id="wash" label="wash">
+        <attvalues>
+          <attvalue for="0" value="4.04300840988" />
+        </attvalues>
+      </node>
+      <node id="warped" label="warped">
+        <attvalues>
+          <attvalue for="0" value="2.96331551139" />
+        </attvalues>
+      </node>
+      <node id="wadi" label="wadi" />
+      <node id="watchdog" label="watchdog" />
+      <node id="waterspout" label="waterspout">
+        <attvalues>
+          <attvalue for="0" value="1.51851393988" />
+        </attvalues>
+      </node>
+      <node id="wager" label="wager">
+        <attvalues>
+          <attvalue for="0" value="2.83442070368" />
+        </attvalues>
+      </node>
+      <node id="wan" label="wan">
+        <attvalues>
+          <attvalue for="0" value="3.75181778774" />
+        </attvalues>
+      </node>
+      <node id="watercraft" label="watercraft" />
+      <node id="wag" label="wag">
+        <attvalues>
+          <attvalue for="0" value="2.58319877397" />
+        </attvalues>
+      </node>
+      <node id="wad" label="wad" />
+      <node id="watchman" label="watchman">
+        <attvalues>
+          <attvalue for="0" value="2.58883172559" />
+        </attvalues>
+      </node>
+      <node id="watchword" label="watchword">
+        <attvalues>
+          <attvalue for="0" value="2.15533603747" />
+        </attvalues>
+      </node>
+      <node id="wavering" label="wavering">
+        <attvalues>
+          <attvalue for="0" value="2.90363251608" />
+        </attvalues>
+      </node>
+      <node id="way" label="way" />
+      <node id="waistline" label="waistline">
+        <attvalues>
+          <attvalue for="0" value="2.51982799378" />
+        </attvalues>
+      </node>
+      <node id="waste" label="waste">
+        <attvalues>
+          <attvalue for="0" value="4.36647899161" />
+        </attvalues>
+      </node>
+      <node id="waistband" label="waistband" />
+      <node id="warmth" label="warmth">
+        <attvalues>
+          <attvalue for="0" value="3.77210156928" />
+        </attvalues>
+      </node>
+      <node id="waxen" label="waxen" />
+      <node id="warmly" label="warmly" />
+      <node id="wary" label="wary">
+        <attvalues>
+          <attvalue for="0" value="3.58046878395" />
+        </attvalues>
+      </node>
+      <node id="wardship" label="wardship">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="wart" label="wart" />
+      <node id="wax" label="wax">
+        <attvalues>
+          <attvalue for="0" value="3.56525734342" />
+        </attvalues>
+      </node>
+      <node id="warp" label="warp">
+        <attvalues>
+          <attvalue for="0" value="3.02201573982" />
+        </attvalues>
+      </node>
+      <node id="warn" label="warn">
+        <attvalues>
+          <attvalue for="0" value="3.68583127463" />
+        </attvalues>
+      </node>
+      <node id="warm" label="warm" />
+      <node id="wake" label="wake" />
+      <node id="waft" label="waft" />
+      <node id="walkway" label="walkway">
+        <attvalues>
+          <attvalue for="0" value="3.08206693429" />
+        </attvalues>
+      </node>
+      <node id="wasted" label="wasted" />
+      <node id="wayfarer" label="wayfarer">
+        <attvalues>
+          <attvalue for="0" value="1.87506126339" />
+        </attvalues>
+      </node>
+      <node id="ward" label="ward">
+        <attvalues>
+          <attvalue for="0" value="3.98163742466" />
+        </attvalues>
+      </node>
+      <node id="wampum" label="wampum">
+        <attvalues>
+          <attvalue for="0" value="2.32221929473" />
+        </attvalues>
+      </node>
+      <node id="warlike" label="warlike">
+        <attvalues>
+          <attvalue for="0" value="2.38738982634" />
+        </attvalues>
+      </node>
+      <node id="waist" label="waist">
+        <attvalues>
+          <attvalue for="0" value="3.82157902791" />
+        </attvalues>
+      </node>
+      <node id="walled" label="walled">
+        <attvalues>
+          <attvalue for="0" value="2.92890769024" />
+        </attvalues>
+      </node>
+      <node id="warfare" label="warfare" />
+      <node id="wadding" label="wadding" />
+      <node id="warbler" label="warbler">
+        <attvalues>
+          <attvalue for="0" value="2.31597034546" />
+        </attvalues>
+      </node>
+      <node id="walkaway" label="walkaway">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="wastrel" label="wastrel">
+        <attvalues>
+          <attvalue for="0" value="1.73239375982" />
+        </attvalues>
+      </node>
+      <node id="watercourse" label="watercourse">
+        <attvalues>
+          <attvalue for="0" value="2.30749603791" />
+        </attvalues>
+      </node>
+      <node id="watchtower" label="watchtower" />
+      <node id="wandering" label="wandering" />
+      <node id="watertight" label="watertight">
+        <attvalues>
+          <attvalue for="0" value="2.36921585741" />
+        </attvalues>
+      </node>
+      <node id="wand" label="wand" />
+      <node id="wane" label="wane" />
+      <node id="wartime" label="wartime">
+        <attvalues>
+          <attvalue for="0" value="3.39445168083" />
+        </attvalues>
+      </node>
+      <node id="watcher" label="watcher">
+        <attvalues>
+          <attvalue for="0" value="2.69983772587" />
+        </attvalues>
+      </node>
+      <node id="warning" label="warning" />
+      <node id="want" label="want">
+        <attvalues>
+          <attvalue for="0" value="5.55084693487" />
+        </attvalues>
+      </node>
+      <node id="waterway" label="waterway" />
+      <node id="wail" label="wail" />
+      <node id="watchful" label="watchful" />
+      <node id="waspish" label="waspish">
+        <attvalues>
+          <attvalue for="0" value="1.49136169383" />
+        </attvalues>
+      </node>
+      <node id="wayfare" label="wayfare">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="washbasin" label="washbasin" />
+      <node id="wangle" label="wangle">
+        <attvalues>
+          <attvalue for="0" value="1.41497334797" />
+        </attvalues>
+      </node>
+      <node id="waterskiing" label="waterskiing" />
+      <node id="waterworks" label="waterworks">
+        <attvalues>
+          <attvalue for="0" value="2.34242268082" />
+        </attvalues>
+      </node>
+      <node id="warehouse" label="warehouse">
+        <attvalues>
+          <attvalue for="0" value="3.62200667301" />
+        </attvalues>
+      </node>
+      <node id="wanting" label="wanting" />
+      <node id="watery" label="watery">
+        <attvalues>
+          <attvalue for="0" value="3.16731733475" />
+        </attvalues>
+      </node>
+      <node id="waxwork" label="waxwork" />
+      <node id="warder" label="warder">
+        <attvalues>
+          <attvalue for="0" value="2.00432137378" />
+        </attvalues>
+      </node>
+      <node id="wallpaper" label="wallpaper" />
+      <node id="wallow" label="wallow" />
+      <node id="waterfall" label="waterfall" />
+      <node id="warden" label="warden">
+        <attvalues>
+          <attvalue for="0" value="3.21058602491" />
+        </attvalues>
+      </node>
+      <node id="waver" label="waver">
+        <attvalues>
+          <attvalue for="0" value="2.56229286446" />
+        </attvalues>
+      </node>
+      <node id="wallop" label="wallop">
+        <attvalues>
+          <attvalue for="0" value="2.47421626408" />
+        </attvalues>
+      </node>
+      <node id="waterfront" label="waterfront">
+        <attvalues>
+          <attvalue for="0" value="3.30920417967" />
+        </attvalues>
+      </node>
+      <node id="wave" label="wave" />
+      <node id="warming" label="warming">
+        <attvalues>
+          <attvalue for="0" value="3.92048856466" />
+        </attvalues>
+      </node>
+      <node id="wanderer" label="wanderer">
+        <attvalues>
+          <attvalue for="0" value="2.53147891704" />
+        </attvalues>
+      </node>
+      <node id="wafer" label="wafer" />
+      <node id="waived" label="waived">
+        <attvalues>
+          <attvalue for="0" value="2.88309335858" />
+        </attvalues>
+      </node>
+      <node id="waterless" label="waterless" />
+      <node id="wamble" label="wamble">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="waterfowl" label="waterfowl" />
+      <node id="walker" label="walker" />
+      <node id="warlord" label="warlord">
+        <attvalues>
+          <attvalue for="0" value="2.65513843481" />
+        </attvalues>
+      </node>
+      <node id="waiver" label="waiver" />
+    </nodes>
+    <edges>
+      <edge id="0" source="walking" target="wanderer" weight="0.058824" />
+      <edge id="1" source="walking" target="walkout" weight="0.026667" />
+      <edge id="2" source="walking" target="wavering" weight="0.00995" />
+      <edge id="3" source="walking" target="walker" weight="0.057143" />
+      <edge id="4" source="walking" target="wandering" weight="0.007692" />
+      <edge id="5" source="walking" target="wainscot" weight="0.016129" />
+      <edge id="6" source="wainscot" target="washroom" weight="0.019231" />
+      <edge id="7" source="wainscot" target="wamble" weight="0.009009" />
+      <edge id="8" source="wainscot" target="wadding" weight="0.307692" />
+      <edge id="9" source="wainscot" target="wasteland" weight="0.018868" />
+      <edge id="10" source="wainscot" target="wall" weight="0.017699" />
+      <edge id="11" source="wainscot" target="wad" weight="0.105263" />
+      <edge id="12" source="wainscot" target="waddle" weight="0.00885" />
+      <edge id="13" source="wainscot" target="waft" weight="0.02381" />
+      <edge id="14" source="wainscot" target="walk" weight="0.013393" />
+      <edge id="15" source="wainscot" target="water" weight="0.005714" />
+      <edge id="16" source="wainscot" target="wash" weight="0.004926" />
+      <edge id="17" source="wainscot" target="watercraft" weight="0.019608" />
+      <edge id="18" source="wainscot" target="wake" weight="0.009709" />
+      <edge id="19" source="wainscot" target="warp" weight="0.003311" />
+      <edge id="20" source="wainscot" target="way" weight="0.006849" />
+      <edge id="21" source="wainscot" target="wangle" weight="0.012658" />
+      <edge id="22" source="wainscot" target="warehouse" weight="0.02" />
+      <edge id="23" source="wainscot" target="waste" weight="0.003436" />
+      <edge id="24" source="wainscot" target="warrant" weight="0.003937" />
+      <edge id="25" source="wainscot" target="wallpaper" weight="0.019231" />
+      <edge id="26" source="wasteful" target="wan" weight="0.008065" />
+      <edge id="27" source="wasteful" target="wanton" weight="0.017937" />
+      <edge id="28" source="wasteful" target="wastrel" weight="0.038961" />
+      <edge id="29" source="wasteful" target="waning" weight="0.021277" />
+      <edge id="30" source="wasteful" target="wayward" weight="0.006849" />
+      <edge id="31" source="wasteful" target="wasting" weight="0.177966" />
+      <edge id="32" source="wasteful" target="warped" weight="0.007874" />
+      <edge id="33" source="wasteful" target="wasted" weight="0.007937" />
+      <edge id="34" source="wasteful" target="waste" weight="0.003497" />
+      <edge id="35" source="wailing" target="watery" weight="0.006944" />
+      <edge id="36" source="wailing" target="waste" weight="0.003623" />
+      <edge id="37" source="wailing" target="wary" weight="0.019802" />
+      <edge id="38" source="wailing" target="water" weight="0.00625" />
+      <edge id="39" source="wailing" target="warble" weight="0.008475" />
+      <edge id="40" source="wakeful" target="warn" weight="0.028169" />
+      <edge id="41" source="wakeful" target="wary" weight="0.030928" />
+      <edge id="42" source="wakeful" target="wavering" weight="0.005236" />
+      <edge id="43" source="wakeful" target="warble" weight="0.008696" />
+      <edge id="44" source="wardrobe" target="washroom" weight="0.035714" />
+      <edge id="45" source="wardrobe" target="wand" weight="0.021739" />
+      <edge id="46" source="wardrobe" target="walkout" weight="0.016949" />
+      <edge id="47" source="wardrobe" target="water" weight="0.006623" />
+      <edge id="48" source="wardrobe" target="wangle" weight="0.018182" />
+      <edge id="49" source="wardrobe" target="warehouse" weight="0.012987" />
+      <edge id="50" source="warren" target="warehouse" weight="0.022727" />
+      <edge id="51" source="warren" target="ward" weight="0.007519" />
+      <edge id="52" source="warren" target="warp" weight="0.003448" />
+      <edge id="53" source="wage" target="way" weight="0.01087" />
+      <edge id="54" source="wage" target="watch" weight="0.014925" />
+      <edge id="55" source="wage" target="waft" weight="0.014286" />
+      <edge id="56" source="wage" target="want" weight="0.00885" />
+      <edge id="57" source="wage" target="walk" weight="0.004739" />
+      <edge id="58" source="wanton" target="wash" weight="0.00274" />
+      <edge id="59" source="wanton" target="warped" weight="0.010274" />
+      <edge id="60" source="wanton" target="warbler" weight="0.004292" />
+      <edge id="61" source="wanton" target="wanderlust" weight="0.014634" />
+      <edge id="62" source="wanton" target="wan" weight="0.003436" />
+      <edge id="63" source="wanton" target="waspish" weight="0.013274" />
+      <edge id="64" source="wanton" target="wag" weight="0.003584" />
+      <edge id="65" source="wanton" target="wavering" weight="0.196141" />
+      <edge id="66" source="wanton" target="wasteland" weight="0.004651" />
+      <edge id="67" source="wanton" target="waggle" weight="0.004367" />
+      <edge id="68" source="wanton" target="waste" weight="0.006652" />
+      <edge id="69" source="wanton" target="watery" weight="0.018987" />
+      <edge id="70" source="wanton" target="wary" weight="0.007194" />
+      <edge id="71" source="wanton" target="waddle" weight="0.003636" />
+      <edge id="72" source="wanton" target="waif" weight="0.008584" />
+      <edge id="73" source="wanton" target="warp" weight="0.008677" />
+      <edge id="74" source="wanton" target="waver" weight="0.003676" />
+      <edge id="75" source="wanton" target="wallop" weight="0.00641" />
+      <edge id="76" source="wanton" target="waived" weight="0.004525" />
+      <edge id="77" source="wanton" target="wamble" weight="0.003663" />
+      <edge id="78" source="wanton" target="wastrel" weight="0.016461" />
+      <edge id="79" source="waiting" target="watertight" weight="0.012048" />
+      <edge id="80" source="waiting" target="warder" weight="0.011905" />
+      <edge id="81" source="waiting" target="warden" weight="0.009524" />
+      <edge id="82" source="waiting" target="wary" weight="0.007194" />
+      <edge id="83" source="wasting" target="wan" weight="0.004926" />
+      <edge id="84" source="wasting" target="wane" weight="0.013333" />
+      <edge id="85" source="wasting" target="waning" weight="0.174497" />
+      <edge id="86" source="wasting" target="wart" weight="0.008811" />
+      <edge id="87" source="wasting" target="wayworn" weight="0.015504" />
+      <edge id="88" source="wasting" target="wacky" weight="0.004926" />
+      <edge id="89" source="wasting" target="warped" weight="0.009756" />
+      <edge id="90" source="wasting" target="wake" weight="0.00565" />
+      <edge id="91" source="wasting" target="warp" weight="0.005333" />
+      <edge id="92" source="wasting" target="wasted" weight="0.009804" />
+      <edge id="93" source="wasting" target="wanting" weight="0.005525" />
+      <edge id="94" source="wasting" target="waste" weight="0.01385" />
+      <edge id="95" source="wasting" target="wale" weight="0.008811" />
+      <edge id="96" source="wasting" target="warmth" weight="0.005814" />
+      <edge id="97" source="wassail" target="water" weight="0.006098" />
+      <edge id="98" source="wassail" target="warp" weight="0.003436" />
+      <edge id="99" source="wassail" target="wallop" weight="0.007143" />
+      <edge id="100" source="warpath" target="warmongering" weight="0.857143" />
+      <edge id="101" source="warpath" target="war" weight="0.042254" />
+      <edge id="102" source="warpath" target="warfare" weight="0.028571" />
+      <edge id="103" source="warpath" target="wartime" weight="0.047619" />
+      <edge id="104" source="warpath" target="warring" weight="0.017544" />
+      <edge id="105" source="waggle" target="wallow" weight="0.104651" />
+      <edge id="106" source="waggle" target="wad" weight="0.009804" />
+      <edge id="107" source="waggle" target="way" weight="0.003436" />
+      <edge id="108" source="waggle" target="wayfare" weight="0.012987" />
+      <edge id="109" source="waggle" target="wane" weight="0.006623" />
+      <edge id="110" source="waggle" target="wag" weight="0.364706" />
+      <edge id="111" source="waggle" target="wamble" weight="0.047619" />
+      <edge id="112" source="waggle" target="wave" weight="0.142857" />
+      <edge id="113" source="waggle" target="waddle" weight="0.046729" />
+      <edge id="114" source="waggle" target="warp" weight="0.010067" />
+      <edge id="115" source="waggle" target="warble" weight="0.015385" />
+      <edge id="116" source="waggle" target="waving" weight="0.020833" />
+      <edge id="117" source="waggle" target="wangle" weight="0.012987" />
+      <edge id="118" source="waggle" target="waver" weight="0.313253" />
+      <edge id="119" source="waggle" target="wallop" weight="0.086957" />
+      <edge id="120" source="waggle" target="wavelength" weight="0.021277" />
+      <edge id="121" source="waggle" target="walk" weight="0.0181" />
+      <edge id="122" source="waggle" target="wandering" weight="0.003759" />
+      <edge id="123" source="waggle" target="wallpaper" weight="0.02" />
+      <edge id="124" source="warrant" target="warranty" weight="0.165179" />
+      <edge id="125" source="warrant" target="wale" weight="0.00295" />
+      <edge id="126" source="warrant" target="waive" weight="0.016234" />
+      <edge id="127" source="warrant" target="wand" weight="0.007874" />
+      <edge id="128" source="warrant" target="wane" weight="0.002959" />
+      <edge id="129" source="warrant" target="wall" weight="0.003344" />
+      <edge id="130" source="warrant" target="wattage" weight="0.007722" />
+      <edge id="131" source="warrant" target="waft" weight="0.007435" />
+      <edge id="132" source="warrant" target="watcher" weight="0.004149" />
+      <edge id="133" source="warrant" target="wash" weight="0.005168" />
+      <edge id="134" source="warrant" target="warning" weight="0.020548" />
+      <edge id="135" source="warrant" target="wadi" weight="0.006431" />
+      <edge id="136" source="warrant" target="want" weight="0.00641" />
+      <edge id="137" source="warrant" target="wager" weight="0.012146" />
+      <edge id="138" source="warrant" target="wail" weight="0.003257" />
+      <edge id="139" source="warrant" target="warrantable" weight="0.003906" />
+      <edge id="140" source="warrant" target="watchful" weight="0.003846" />
+      <edge id="141" source="warrant" target="wayfare" weight="0.003788" />
+      <edge id="142" source="warrant" target="wad" weight="0.00346" />
+      <edge id="143" source="warrant" target="walkout" weight="0.003731" />
+      <edge id="144" source="warrant" target="watchword" weight="0.012605" />
+      <edge id="145" source="warrant" target="way" weight="0.004193" />
+      <edge id="146" source="warrant" target="wax" weight="0.002959" />
+      <edge id="147" source="warrant" target="warehouse" weight="0.003497" />
+      <edge id="148" source="warrant" target="waste" weight="0.004211" />
+      <edge id="149" source="warrant" target="warmth" weight="0.003534" />
+      <edge id="150" source="warrant" target="wave" weight="0.012821" />
+      <edge id="151" source="warrant" target="wallpaper" weight="0.004219" />
+      <edge id="152" source="warrant" target="watermark" weight="0.003831" />
+      <edge id="153" source="warrant" target="wardship" weight="0.015936" />
+      <edge id="154" source="warrant" target="wart" weight="0.00295" />
+      <edge id="155" source="warrant" target="waddle" weight="0.003356" />
+      <edge id="156" source="warrant" target="watch" weight="0.012048" />
+      <edge id="157" source="warrant" target="warp" weight="0.004115" />
+      <edge id="158" source="warrant" target="warble" weight="0.003145" />
+      <edge id="159" source="warrant" target="warn" weight="0.007299" />
+      <edge id="160" source="warrant" target="warranted" weight="0.006536" />
+      <edge id="161" source="warrant" target="warm" weight="0.002278" />
+      <edge id="162" source="warrant" target="wangle" weight="0.003788" />
+      <edge id="163" source="warrant" target="ward" weight="0.024768" />
+      <edge id="164" source="warrant" target="walk" weight="0.007335" />
+      <edge id="165" source="warrant" target="water" weight="0.005571" />
+      <edge id="166" source="warrant" target="wafer" weight="0.003676" />
+      <edge id="167" source="warrant" target="wamble" weight="0.003378" />
+      <edge id="168" source="warrant" target="war" weight="0.003571" />
+      <edge id="169" source="warrant" target="waiver" weight="0.029963" />
+      <edge id="170" source="washroom" target="water" weight="0.006329" />
+      <edge id="171" source="washroom" target="washbasin" weight="0.071429" />
+      <edge id="172" source="washroom" target="watering" weight="0.02" />
+      <edge id="173" source="washroom" target="warp" weight="0.003509" />
+      <edge id="174" source="washroom" target="wash" weight="0.005376" />
+      <edge id="175" source="washroom" target="warehouse" weight="0.024096" />
+      <edge id="176" source="washroom" target="washer" weight="0.068966" />
+      <edge id="177" source="washroom" target="washstand" weight="0.071429" />
+      <edge id="178" source="wasteland" target="wane" weight="0.007299" />
+      <edge id="179" source="wasteland" target="warder" weight="0.021739" />
+      <edge id="180" source="wasteland" target="wadding" weight="0.029412" />
+      <edge id="181" source="wasteland" target="waterless" weight="0.035714" />
+      <edge id="182" source="wasteland" target="walk" weight="0.004762" />
+      <edge id="183" source="wasteland" target="water" weight="0.006289" />
+      <edge id="184" source="wasteland" target="wasted" weight="0.026549" />
+      <edge id="185" source="wasteland" target="waste" weight="0.045455" />
+      <edge id="186" source="wasteland" target="wandering" weight="0.003968" />
+      <edge id="187" source="waterproof" target="wastrel" weight="0.014085" />
+      <edge id="188" source="waterproof" target="waif" weight="0.016949" />
+      <edge id="189" source="waterproof" target="warmhearted" weight="0.014085" />
+      <edge id="190" source="waterproof" target="watertight" weight="0.689655" />
+      <edge id="191" source="waggish" target="wag" weight="0.009709" />
+      <edge id="192" source="waggish" target="wary" weight="0.019608" />
+      <edge id="193" source="watch" target="wamble" weight="0.005208" />
+      <edge id="194" source="watch" target="wager" weight="0.006897" />
+      <edge id="195" source="watch" target="waist" weight="0.007353" />
+      <edge id="196" source="watch" target="wayfare" weight="0.00625" />
+      <edge id="197" source="watch" target="watermark" weight="0.006369" />
+      <edge id="198" source="watch" target="waver" weight="0.010526" />
+      <edge id="199" source="watch" target="warder" weight="0.028571" />
+      <edge id="200" source="watch" target="warble" weight="0.00939" />
+      <edge id="201" source="watch" target="warp" weight="0.013193" />
+      <edge id="202" source="watch" target="watchman" weight="0.094017" />
+      <edge id="203" source="watch" target="water" weight="0.007843" />
+      <edge id="204" source="watch" target="wardship" weight="0.027211" />
+      <edge id="205" source="watch" target="wampum" weight="0.012987" />
+      <edge id="206" source="watch" target="warden" weight="0.018519" />
+      <edge id="207" source="watch" target="want" weight="0.009615" />
+      <edge id="208" source="watch" target="wangle" weight="0.00625" />
+      <edge id="209" source="watch" target="ward" weight="0.03653" />
+      <edge id="210" source="watch" target="watcher" weight="0.086614" />
+      <edge id="211" source="watch" target="wall" weight="0.005128" />
+      <edge id="212" source="warble" target="wad" weight="0.005952" />
+      <edge id="213" source="warble" target="wane" weight="0.004608" />
+      <edge id="214" source="warble" target="wall" weight="0.005618" />
+      <edge id="215" source="warble" target="warbling" weight="0.018692" />
+      <edge id="216" source="warble" target="waffle" weight="0.021429" />
+      <edge id="217" source="warble" target="wash" weight="0.003745" />
+      <edge id="218" source="warble" target="warning" weight="0.011429" />
+      <edge id="219" source="warble" target="wamble" weight="0.005714" />
+      <edge id="220" source="warble" target="wager" weight="0.015748" />
+      <edge id="221" source="warble" target="watercraft" weight="0.008696" />
+      <edge id="222" source="warble" target="wayfare" weight="0.006993" />
+      <edge id="223" source="warble" target="wag" weight="0.011111" />
+      <edge id="224" source="warble" target="waive" weight="0.005236" />
+      <edge id="225" source="warble" target="way" weight="0.002801" />
+      <edge id="226" source="warble" target="wax" weight="0.009259" />
+      <edge id="227" source="warble" target="waste" weight="0.00565" />
+      <edge id="228" source="warble" target="wacky" weight="0.005181" />
+      <edge id="229" source="warble" target="wallpaper" weight="0.008621" />
+      <edge id="230" source="warble" target="wail" weight="0.416667" />
+      <edge id="231" source="warble" target="waddle" weight="0.00565" />
+      <edge id="232" source="warble" target="warp" weight="0.005479" />
+      <edge id="233" source="warble" target="wave" weight="0.014815" />
+      <edge id="234" source="warble" target="wallow" weight="0.00625" />
+      <edge id="235" source="warble" target="warm" weight="0.003145" />
+      <edge id="236" source="warble" target="waft" weight="0.006711" />
+      <edge id="237" source="warble" target="waver" weight="0.011561" />
+      <edge id="238" source="warble" target="wallop" weight="0.009346" />
+      <edge id="239" source="warble" target="walk" weight="0.003448" />
+      <edge id="240" source="warble" target="warn" weight="0.006494" />
+      <edge id="241" source="warble" target="warbler" weight="0.007407" />
+      <edge id="242" source="warranted" target="walled" weight="0.008065" />
+      <edge id="243" source="warranted" target="watertight" weight="0.008772" />
+      <edge id="244" source="warranted" target="wangle" weight="0.007576" />
+      <edge id="245" source="warranted" target="warp" weight="0.002817" />
+      <edge id="246" source="warranted" target="wager" weight="0.008547" />
+      <edge id="247" source="warranted" target="warmhearted" weight="0.007299" />
+      <edge id="248" source="wavy" target="watery" weight="0.015306" />
+      <edge id="249" source="wavy" target="wanderlust" weight="0.036585" />
+      <edge id="250" source="wavy" target="wary" weight="0.019481" />
+      <edge id="251" source="wavy" target="waif" weight="0.009009" />
+      <edge id="252" source="wavy" target="warp" weight="0.011834" />
+      <edge id="253" source="wavy" target="wastrel" weight="0.00813" />
+      <edge id="254" source="wavy" target="warped" weight="0.02381" />
+      <edge id="255" source="wavy" target="wavering" weight="0.31746" />
+      <edge id="256" source="washboard" target="wave" weight="0.015464" />
+      <edge id="257" source="washboard" target="wallpaper" weight="0.081081" />
+      <edge id="258" source="washboard" target="warp" weight="0.00346" />
+      <edge id="259" source="washboard" target="wampum" weight="0.016393" />
+      <edge id="260" source="washboard" target="wash" weight="0.005263" />
+      <edge id="261" source="washboard" target="wavering" weight="0.005102" />
+      <edge id="262" source="washboard" target="waste" weight="0.003597" />
+      <edge id="263" source="washboard" target="wandering" weight="0.003922" />
+      <edge id="264" source="waterlogged" target="wash" weight="0.005376" />
+      <edge id="265" source="waterlogged" target="watering" weight="0.040816" />
+      <edge id="266" source="wagon" target="wag" weight="0.010309" />
+      <edge id="267" source="wagon" target="warder" weight="0.02381" />
+      <edge id="268" source="wagon" target="waddle" weight="0.010753" />
+      <edge id="269" source="wagon" target="warp" weight="0.003546" />
+      <edge id="270" source="wagon" target="wash" weight="0.005464" />
+      <edge id="271" source="wagon" target="wamble" weight="0.010989" />
+      <edge id="272" source="wagon" target="wayfarer" weight="0.025" />
+      <edge id="273" source="washing" target="water" weight="0.0375" />
+      <edge id="274" source="washing" target="warm" weight="0.004098" />
+      <edge id="275" source="washing" target="wafer" weight="0.012987" />
+      <edge id="276" source="washing" target="watermark" weight="0.015152" />
+      <edge id="277" source="washing" target="washout" weight="0.183099" />
+      <edge id="278" source="washing" target="waterspout" weight="0.023256" />
+      <edge id="279" source="washing" target="watering" weight="0.035714" />
+      <edge id="280" source="washing" target="warp" weight="0.003425" />
+      <edge id="281" source="washing" target="walk" weight="0.00463" />
+      <edge id="282" source="washing" target="wallow" weight="0.011628" />
+      <edge id="283" source="washing" target="wash" weight="0.108571" />
+      <edge id="284" source="washing" target="waterworks" weight="0.02381" />
+      <edge id="285" source="washing" target="wake" weight="0.010753" />
+      <edge id="286" source="washing" target="wadi" weight="0.008547" />
+      <edge id="287" source="washing" target="waterway" weight="0.017544" />
+      <edge id="288" source="washing" target="wandering" weight="0.003876" />
+      <edge id="289" source="washing" target="warmth" weight="0.011364" />
+      <edge id="290" source="washing" target="watercourse" weight="0.017241" />
+      <edge id="291" source="war" target="watertight" weight="0.011494" />
+      <edge id="292" source="war" target="wamble" weight="0.007299" />
+      <edge id="293" source="war" target="wayfare" weight="0.009524" />
+      <edge id="294" source="war" target="wall" weight="0.014388" />
+      <edge id="295" source="war" target="warlike" weight="0.022727" />
+      <edge id="296" source="war" target="wattage" weight="0.009901" />
+      <edge id="297" source="war" target="waddle" weight="0.007194" />
+      <edge id="298" source="war" target="wartime" weight="0.129032" />
+      <edge id="299" source="war" target="warmongering" weight="0.042254" />
+      <edge id="300" source="war" target="wavering" weight="0.004255" />
+      <edge id="301" source="war" target="want" weight="0.006494" />
+      <edge id="302" source="war" target="wallop" weight="0.011364" />
+      <edge id="303" source="war" target="warehouse" weight="0.007874" />
+      <edge id="304" source="washout" target="want" weight="0.006579" />
+      <edge id="305" source="washout" target="warp" weight="0.003067" />
+      <edge id="306" source="washout" target="water" weight="0.015228" />
+      <edge id="307" source="washout" target="wash" weight="0.060465" />
+      <edge id="308" source="washout" target="waver" weight="0.007463" />
+      <edge id="309" source="washout" target="wallop" weight="0.005714" />
+      <edge id="310" source="washout" target="waterspout" weight="0.026316" />
+      <edge id="311" source="washout" target="waste" weight="0.016077" />
+      <edge id="312" source="washout" target="warmth" weight="0.008197" />
+      <edge id="313" source="wattle" target="wan" weight="0.006803" />
+      <edge id="314" source="wattle" target="wall" weight="0.007576" />
+      <edge id="315" source="wattle" target="wamble" weight="0.007752" />
+      <edge id="316" source="wattle" target="water" weight="0.005181" />
+      <edge id="317" source="wattle" target="warp" weight="0.00627" />
+      <edge id="318" source="wattle" target="wallop" weight="0.005917" />
+      <edge id="319" source="walleye" target="warp" weight="0.007353" />
+      <edge id="320" source="wacky" target="watery" weight="0.009174" />
+      <edge id="321" source="wacky" target="waspish" weight="0.016" />
+      <edge id="322" source="wacky" target="waning" weight="0.00625" />
+      <edge id="323" source="wacky" target="wamble" weight="0.005848" />
+      <edge id="324" source="wacky" target="warbler" weight="0.007634" />
+      <edge id="325" source="wacky" target="water" weight="0.004255" />
+      <edge id="326" source="wacky" target="warped" weight="0.032086" />
+      <edge id="327" source="wacky" target="wavering" weight="0.030534" />
+      <edge id="328" source="waffle" target="warder" weight="0.014085" />
+      <edge id="329" source="waffle" target="water" weight="0.005435" />
+      <edge id="330" source="waffle" target="wash" weight="0.004717" />
+      <edge id="331" source="waffle" target="warden" weight="0.01087" />
+      <edge id="332" source="waffle" target="waver" weight="0.025641" />
+      <edge id="333" source="waffle" target="wallop" weight="0.00625" />
+      <edge id="334" source="waffle" target="waterspout" weight="0.016129" />
+      <edge id="335" source="wagoner" target="wallop" weight="0.007299" />
+      <edge id="336" source="wagoner" target="warlord" weight="0.028571" />
+      <edge id="337" source="wagoner" target="warden" weight="0.014493" />
+      <edge id="338" source="wagoner" target="watermark" weight="0.016129" />
+      <edge id="339" source="warring" target="wall" weight="0.008065" />
+      <edge id="340" source="warring" target="wartime" weight="0.173913" />
+      <edge id="341" source="warring" target="warmongering" weight="0.017544" />
+      <edge id="342" source="warring" target="wavering" weight="0.004566" />
+      <edge id="343" source="warring" target="warlike" weight="0.608696" />
+      <edge id="344" source="wavelength" target="wag" weight="0.010309" />
+      <edge id="345" source="wavelength" target="watery" weight="0.007194" />
+      <edge id="346" source="wavelength" target="wavering" weight="0.010638" />
+      <edge id="347" source="wavelength" target="waver" weight="0.011111" />
+      <edge id="348" source="wander" target="wanderlust" weight="0.033333" />
+      <edge id="349" source="wander" target="want" weight="0.006944" />
+      <edge id="350" source="wander" target="wayfare" weight="0.263158" />
+      <edge id="351" source="wander" target="wastrel" weight="0.041237" />
+      <edge id="352" source="wander" target="wamble" weight="0.057851" />
+      <edge id="353" source="wander" target="waddle" weight="0.04" />
+      <edge id="354" source="wander" target="waif" weight="0.047059" />
+      <edge id="355" source="wander" target="warp" weight="0.015924" />
+      <edge id="356" source="wander" target="water" weight="0.021277" />
+      <edge id="357" source="wander" target="wash" weight="0.004566" />
+      <edge id="358" source="wander" target="wallop" weight="0.005988" />
+      <edge id="359" source="wander" target="waver" weight="0.007937" />
+      <edge id="360" source="wander" target="wanderer" weight="0.013158" />
+      <edge id="361" source="wander" target="waste" weight="0.003257" />
+      <edge id="362" source="wander" target="wax" weight="0.005917" />
+      <edge id="363" source="warrantable" target="warmhearted" weight="0.011628" />
+      <edge id="364" source="wanderlust" target="wayfare" weight="0.037037" />
+      <edge id="365" source="wanderlust" target="wayward" weight="0.024" />
+      <edge id="366" source="wanderlust" target="warp" weight="0.014545" />
+      <edge id="367" source="wanderlust" target="walk" weight="0.00495" />
+      <edge id="368" source="wanderlust" target="wavering" weight="0.016393" />
+      <edge id="369" source="wanderlust" target="wandering" weight="0.042553" />
+      <edge id="370" source="waning" target="walled" weight="0.009804" />
+      <edge id="371" source="waning" target="wane" weight="0.039326" />
+      <edge id="372" source="waning" target="warm" weight="0.014184" />
+      <edge id="373" source="waning" target="wary" weight="0.006757" />
+      <edge id="374" source="waning" target="wayworn" weight="0.023256" />
+      <edge id="375" source="waning" target="warped" weight="0.012346" />
+      <edge id="376" source="waning" target="warp" weight="0.003003" />
+      <edge id="377" source="waning" target="wasted" weight="0.006173" />
+      <edge id="378" source="waning" target="wanting" weight="0.007246" />
+      <edge id="379" source="waning" target="waste" weight="0.003106" />
+      <edge id="380" source="waive" target="watery" weight="0.004608" />
+      <edge id="381" source="waive" target="waste" weight="0.011561" />
+      <edge id="382" source="waive" target="watcher" weight="0.008772" />
+      <edge id="383" source="waive" target="waived" weight="0.017241" />
+      <edge id="384" source="waive" target="waif" weight="0.023438" />
+      <edge id="385" source="waive" target="wastrel" weight="0.021429" />
+      <edge id="386" source="waive" target="want" weight="0.005376" />
+      <edge id="387" source="waive" target="warehouse" weight="0.006289" />
+      <edge id="388" source="waive" target="watchman" weight="0.009615" />
+      <edge id="389" source="waive" target="warmth" weight="0.00641" />
+      <edge id="390" source="waive" target="wall" weight="0.005814" />
+      <edge id="391" source="walkout" target="watermark" weight="0.011111" />
+      <edge id="392" source="walkout" target="wall" weight="0.007813" />
+      <edge id="393" source="walkout" target="waddle" weight="0.007874" />
+      <edge id="394" source="walkout" target="warp" weight="0.003165" />
+      <edge id="395" source="walkout" target="wamble" weight="0.008" />
+      <edge id="396" source="walkout" target="wallop" weight="0.006061" />
+      <edge id="397" source="walkout" target="waste" weight="0.006579" />
+      <edge id="398" source="warmongering" target="warfare" weight="0.028571" />
+      <edge id="399" source="warmongering" target="wartime" weight="0.047619" />
+      <edge id="400" source="washer" target="wash" weight="0.01676" />
+      <edge id="401" source="washer" target="waste" weight="0.003717" />
+      <edge id="402" source="warrior" target="water" weight="0.006757" />
+      <edge id="403" source="waggery" target="wag" weight="0.010101" />
+      <edge id="404" source="watermark" target="wale" weight="0.058824" />
+      <edge id="405" source="watermark" target="way" weight="0.006689" />
+      <edge id="406" source="watermark" target="wafer" weight="0.010638" />
+      <edge id="407" source="watermark" target="wall" weight="0.016667" />
+      <edge id="408" source="watermark" target="wart" weight="0.058824" />
+      <edge id="409" source="watermark" target="wave" weight="0.00463" />
+      <edge id="410" source="watermark" target="water" weight="0.01105" />
+      <edge id="411" source="watermark" target="wash" weight="0.009569" />
+      <edge id="412" source="watermark" target="warp" weight="0.033333" />
+      <edge id="413" source="watermark" target="waver" weight="0.008547" />
+      <edge id="414" source="watermark" target="wallop" weight="0.006329" />
+      <edge id="415" source="watermark" target="watchtower" weight="0.015152" />
+      <edge id="416" source="watermark" target="waste" weight="0.003356" />
+      <edge id="417" source="watermark" target="wadi" weight="0.030534" />
+      <edge id="418" source="wayward" target="watery" weight="0.025424" />
+      <edge id="419" source="wayward" target="wan" weight="0.004739" />
+      <edge id="420" source="wayward" target="waspish" weight="0.049296" />
+      <edge id="421" source="wayward" target="wary" weight="0.010101" />
+      <edge id="422" source="wayward" target="waif" weight="0.006494" />
+      <edge id="423" source="wayward" target="warp" weight="0.007853" />
+      <edge id="424" source="wayward" target="wastrel" weight="0.012121" />
+      <edge id="425" source="wayward" target="warped" weight="0.004673" />
+      <edge id="426" source="wayward" target="wavering" weight="0.264069" />
+      <edge id="427" source="wayward" target="waste" weight="0.002681" />
+      <edge id="428" source="waddle" target="wale" weight="0.015306" />
+      <edge id="429" source="waddle" target="wane" weight="0.010204" />
+      <edge id="430" source="waddle" target="walkway" weight="0.010417" />
+      <edge id="431" source="waddle" target="walk" weight="0.237443" />
+      <edge id="432" source="waddle" target="wayfare" weight="0.042017" />
+      <edge id="433" source="waddle" target="wag" weight="0.031847" />
+      <edge id="434" source="waddle" target="wad" weight="0.020548" />
+      <edge id="435" source="waddle" target="water" weight="0.009174" />
+      <edge id="436" source="waddle" target="waterskiing" weight="0.01087" />
+      <edge id="437" source="waddle" target="way" weight="0.011976" />
+      <edge id="438" source="waddle" target="warehouse" weight="0.006897" />
+      <edge id="439" source="waddle" target="waste" weight="0.005988" />
+      <edge id="440" source="waddle" target="wart" weight="0.015306" />
+      <edge id="441" source="waddle" target="warp" weight="0.005797" />
+      <edge id="442" source="waddle" target="wallow" weight="0.044444" />
+      <edge id="443" source="waddle" target="waver" weight="0.047297" />
+      <edge id="444" source="waddle" target="wallop" weight="0.053763" />
+      <edge id="445" source="waddle" target="wave" weight="0.02008" />
+      <edge id="446" source="waddle" target="wait" weight="0.015504" />
+      <edge id="447" source="waddle" target="wamble" weight="0.608247" />
+      <edge id="448" source="waddle" target="wading" weight="0.01087" />
+      <edge id="449" source="wayworn" target="watery" weight="0.006849" />
+      <edge id="450" source="wayworn" target="wavering" weight="0.005102" />
+      <edge id="451" source="wayworn" target="wan" weight="0.083333" />
+      <edge id="452" source="waif" target="watertight" weight="0.015625" />
+      <edge id="453" source="waif" target="wayfare" weight="0.0375" />
+      <edge id="454" source="waif" target="walk" weight="0.004367" />
+      <edge id="455" source="waif" target="wastrel" weight="0.72549" />
+      <edge id="456" source="waif" target="wavering" weight="0.004717" />
+      <edge id="457" source="waif" target="waste" weight="0.013746" />
+      <edge id="458" source="waif" target="wandering" weight="0.011152" />
+      <edge id="459" source="water" target="watery" weight="0.019157" />
+      <edge id="460" source="water" target="wane" weight="0.003861" />
+      <edge id="461" source="water" target="wall" weight="0.004545" />
+      <edge id="462" source="water" target="wattage" weight="0.005525" />
+      <edge id="463" source="water" target="wale" weight="0.003846" />
+      <edge id="464" source="water" target="wash" weight="0.047297" />
+      <edge id="465" source="water" target="warped" weight="0.004202" />
+      <edge id="466" source="water" target="wadi" weight="0.017391" />
+      <edge id="467" source="water" target="want" weight="0.004274" />
+      <edge id="468" source="water" target="waterway" weight="0.011628" />
+      <edge id="469" source="water" target="wail" weight="0.004386" />
+      <edge id="470" source="water" target="wad" weight="0.004762" />
+      <edge id="471" source="water" target="waterworks" weight="0.012739" />
+      <edge id="472" source="water" target="way" weight="0.005025" />
+      <edge id="473" source="water" target="wax" weight="0.011673" />
+      <edge id="474" source="water" target="waste" weight="0.020513" />
+      <edge id="475" source="water" target="warmth" weight="0.004902" />
+      <edge id="476" source="water" target="wart" weight="0.003846" />
+      <edge id="477" source="water" target="warp" weight="0.027638" />
+      <edge id="478" source="water" target="wave" weight="0.012821" />
+      <edge id="479" source="water" target="wallow" weight="0.00495" />
+      <edge id="480" source="water" target="warm" weight="0.005571" />
+      <edge id="481" source="water" target="wake" weight="0.014493" />
+      <edge id="482" source="water" target="wallop" weight="0.019763" />
+      <edge id="483" source="water" target="walk" weight="0.012158" />
+      <edge id="484" source="water" target="warmhearted" weight="0.005263" />
+      <edge id="485" source="water" target="wait" weight="0.010471" />
+      <edge id="486" source="water" target="wafer" weight="0.010417" />
+      <edge id="487" source="water" target="wamble" weight="0.009259" />
+      <edge id="488" source="water" target="wasted" weight="0.004219" />
+      <edge id="489" source="water" target="watercourse" weight="0.011561" />
+      <edge id="490" source="wanted" target="want" weight="0.039604" />
+      <edge id="491" source="washstand" target="wash" weight="0.016854" />
+      <edge id="492" source="washstand" target="waste" weight="0.003731" />
+      <edge id="493" source="wait" target="want" weight="0.013889" />
+      <edge id="494" source="wait" target="wanderer" weight="0.012987" />
+      <edge id="495" source="wait" target="wall" weight="0.03125" />
+      <edge id="496" source="wait" target="warp" weight="0.006289" />
+      <edge id="497" source="wait" target="watchman" weight="0.015873" />
+      <edge id="498" source="wait" target="wamble" weight="0.007813" />
+      <edge id="499" source="wait" target="waver" weight="0.007874" />
+      <edge id="500" source="wait" target="ward" weight="0.006173" />
+      <edge id="501" source="wait" target="watcher" weight="0.013699" />
+      <edge id="502" source="waving" target="wayfare" weight="0.016667" />
+      <edge id="503" source="waving" target="wag" weight="0.020619" />
+      <edge id="504" source="waving" target="warp" weight="0.007092" />
+      <edge id="505" source="waving" target="waver" weight="0.010989" />
+      <edge id="506" source="waving" target="wax" weight="0.007463" />
+      <edge id="507" source="wading" target="wash" weight="0.005495" />
+      <edge id="508" source="warmhearted" target="watertight" weight="0.013158" />
+      <edge id="509" source="warmhearted" target="watchful" weight="0.011111" />
+      <edge id="510" source="warmhearted" target="warmly" weight="0.042857" />
+      <edge id="511" source="warmhearted" target="warm" weight="0.148936" />
+      <edge id="512" source="warmhearted" target="wake" weight="0.008475" />
+      <edge id="513" source="warmhearted" target="way" weight="0.003247" />
+      <edge id="514" source="warmhearted" target="watery" weight="0.005747" />
+      <edge id="515" source="warranty" target="wattage" weight="0.012346" />
+      <edge id="516" source="warranty" target="watcher" weight="0.016129" />
+      <edge id="517" source="warranty" target="watchword" weight="0.016393" />
+      <edge id="518" source="warranty" target="ward" weight="0.006623" />
+      <edge id="519" source="warranty" target="warmth" weight="0.009615" />
+      <edge id="520" source="wale" target="waver" weight="0.005128" />
+      <edge id="521" source="wale" target="wallop" weight="0.021552" />
+      <edge id="522" source="wale" target="wamble" weight="0.020725" />
+      <edge id="523" source="wale" target="warp" weight="0.124638" />
+      <edge id="524" source="wale" target="wampum" weight="0.006289" />
+      <edge id="525" source="wale" target="wash" weight="0.014035" />
+      <edge id="526" source="wale" target="walkway" weight="0.007299" />
+      <edge id="527" source="wale" target="warped" weight="0.004608" />
+      <edge id="528" source="wale" target="wag" weight="0.00495" />
+      <edge id="529" source="wale" target="want" weight="0.004695" />
+      <edge id="530" source="wale" target="wax" weight="0.004202" />
+      <edge id="531" source="wale" target="wall" weight="0.010101" />
+      <edge id="532" source="watering" target="watery" weight="0.07483" />
+      <edge id="533" source="watering" target="wash" weight="0.015075" />
+      <edge id="534" source="watering" target="waterspout" weight="0.019608" />
+      <edge id="535" source="wall" target="wad" weight="0.027397" />
+      <edge id="536" source="wall" target="wane" weight="0.005051" />
+      <edge id="537" source="wall" target="wartime" weight="0.011364" />
+      <edge id="538" source="wall" target="watcher" weight="0.009901" />
+      <edge id="539" source="wall" target="wash" weight="0.008097" />
+      <edge id="540" source="wall" target="wadi" weight="0.017647" />
+      <edge id="541" source="wall" target="wail" weight="0.005988" />
+      <edge id="542" source="wall" target="wan" weight="0.011561" />
+      <edge id="543" source="wall" target="watchman" weight="0.010989" />
+      <edge id="544" source="wall" target="way" weight="0.005935" />
+      <edge id="545" source="wall" target="wax" weight="0.010152" />
+      <edge id="546" source="wall" target="warehouse" weight="0.006849" />
+      <edge id="547" source="wall" target="waxen" weight="0.017094" />
+      <edge id="548" source="wall" target="wallpaper" weight="0.010309" />
+      <edge id="549" source="wall" target="warder" weight="0.018868" />
+      <edge id="550" source="wall" target="wart" weight="0.010101" />
+      <edge id="551" source="wall" target="waistline" weight="0.021277" />
+      <edge id="552" source="wall" target="warp" weight="0.008696" />
+      <edge id="553" source="wall" target="wake" weight="0.006757" />
+      <edge id="554" source="wall" target="waterfront" weight="0.020833" />
+      <edge id="555" source="wall" target="ward" weight="0.015957" />
+      <edge id="556" source="wall" target="walk" weight="0.014925" />
+      <edge id="557" source="wall" target="waist" weight="0.020202" />
+      <edge id="558" source="wall" target="wafer" weight="0.015267" />
+      <edge id="559" source="wall" target="waiver" weight="0.007463" />
+      <edge id="560" source="wattage" target="wardship" weight="0.013333" />
+      <edge id="561" source="wattage" target="warm" weight="0.003846" />
+      <edge id="562" source="wattage" target="wad" weight="0.018349" />
+      <edge id="563" source="wattage" target="warp" weight="0.003247" />
+      <edge id="564" source="wattage" target="warn" weight="0.010417" />
+      <edge id="565" source="wattage" target="waterfall" weight="0.015152" />
+      <edge id="566" source="wattage" target="want" weight="0.007463" />
+      <edge id="567" source="wattage" target="wallop" weight="0.012821" />
+      <edge id="568" source="wattage" target="ward" weight="0.006623" />
+      <edge id="569" source="wattage" target="warmth" weight="0.009615" />
+      <edge id="570" source="walk" target="walkway" weight="0.088083" />
+      <edge id="571" source="walk" target="wampum" weight="0.008696" />
+      <edge id="572" source="walk" target="wash" weight="0.011204" />
+      <edge id="573" source="walk" target="wager" weight="0.004525" />
+      <edge id="574" source="walk" target="wan" weight="0.007018" />
+      <edge id="575" source="walk" target="wayfare" weight="0.039474" />
+      <edge id="576" source="walk" target="wag" weight="0.011029" />
+      <edge id="577" source="walk" target="waterworks" weight="0.004785" />
+      <edge id="578" source="walk" target="warehouse" weight="0.003876" />
+      <edge id="579" source="walk" target="waste" weight="0.002232" />
+      <edge id="580" source="walk" target="warmth" weight="0.003922" />
+      <edge id="581" source="walk" target="wardship" weight="0.004425" />
+      <edge id="582" source="walk" target="warp" weight="0.008772" />
+      <edge id="583" source="walk" target="waver" weight="0.030769" />
+      <edge id="584" source="walk" target="wallop" weight="0.036913" />
+      <edge id="585" source="walk" target="waterfront" weight="0.004785" />
+      <edge id="586" source="walk" target="ward" weight="0.016779" />
+      <edge id="587" source="walk" target="wamble" weight="0.164502" />
+      <edge id="588" source="walk" target="wastrel" weight="0.004149" />
+      <edge id="589" source="walk" target="watercourse" weight="0.013453" />
+      <edge id="590" source="wash" target="wane" weight="0.003484" />
+      <edge id="591" source="wash" target="wave" weight="0.014749" />
+      <edge id="592" source="wash" target="walkway" weight="0.005376" />
+      <edge id="593" source="wash" target="waft" weight="0.009174" />
+      <edge id="594" source="wash" target="wadi" weight="0.011583" />
+      <edge id="595" source="wash" target="waterspout" weight="0.005348" />
+      <edge id="596" source="wash" target="wager" weight="0.005051" />
+      <edge id="597" source="wash" target="wayfare" weight="0.004695" />
+      <edge id="598" source="wash" target="wag" weight="0.003984" />
+      <edge id="599" source="wash" target="washbasin" weight="0.016854" />
+      <edge id="600" source="wash" target="wad" weight="0.008439" />
+      <edge id="601" source="wash" target="wangle" weight="0.004695" />
+      <edge id="602" source="wash" target="waterskiing" weight="0.005495" />
+      <edge id="603" source="wash" target="waterworks" weight="0.010811" />
+      <edge id="604" source="wash" target="way" weight="0.009434" />
+      <edge id="605" source="wash" target="wax" weight="0.028571" />
+      <edge id="606" source="wash" target="warehouse" weight="0.004255" />
+      <edge id="607" source="wash" target="waste" weight="0.007092" />
+      <edge id="608" source="wash" target="warmth" weight="0.00431" />
+      <edge id="609" source="wash" target="watercraft" weight="0.01087" />
+      <edge id="610" source="wash" target="wart" weight="0.01049" />
+      <edge id="611" source="wash" target="wallpaper" weight="0.010811" />
+      <edge id="612" source="wash" target="warp" weight="0.013921" />
+      <edge id="613" source="wash" target="wallow" weight="0.079439" />
+      <edge id="614" source="wash" target="warm" weight="0.01039" />
+      <edge id="615" source="wash" target="wake" weight="0.021459" />
+      <edge id="616" source="wash" target="wallop" weight="0.014184" />
+      <edge id="617" source="wash" target="ward" weight="0.003584" />
+      <edge id="618" source="wash" target="wafer" weight="0.018349" />
+      <edge id="619" source="wash" target="watercourse" weight="0.015" />
+      <edge id="620" source="wash" target="waterway" weight="0.015075" />
+      <edge id="621" source="warped" target="waxwork" weight="0.008696" />
+      <edge id="622" source="warped" target="wavering" weight="0.003676" />
+      <edge id="623" source="warped" target="wart" weight="0.004608" />
+      <edge id="624" source="warped" target="warm" weight="0.003155" />
+      <edge id="625" source="warped" target="warp" weight="0.01105" />
+      <edge id="626" source="warped" target="waived" weight="0.008197" />
+      <edge id="627" source="warped" target="way" weight="0.002809" />
+      <edge id="628" source="warped" target="wadi" weight="0.005263" />
+      <edge id="629" source="warped" target="wanting" weight="0.023952" />
+      <edge id="630" source="warped" target="wandering" weight="0.018405" />
+      <edge id="631" source="warped" target="wastrel" weight="0.006803" />
+      <edge id="632" source="wadi" target="waste" weight="0.005747" />
+      <edge id="633" source="wadi" target="wayfare" weight="0.014706" />
+      <edge id="634" source="wadi" target="waived" weight="0.008547" />
+      <edge id="635" source="wadi" target="walkway" weight="0.018349" />
+      <edge id="636" source="wadi" target="waterworks" weight="0.14433" />
+      <edge id="637" source="wadi" target="warp" weight="0.022663" />
+      <edge id="638" source="wadi" target="watercourse" weight="0.295918" />
+      <edge id="639" source="wadi" target="want" weight="0.010811" />
+      <edge id="640" source="wadi" target="wallop" weight="0.009615" />
+      <edge id="641" source="wadi" target="wager" weight="0.008197" />
+      <edge id="642" source="watchdog" target="warder" weight="0.078947" />
+      <edge id="643" source="watchdog" target="warden" weight="0.033333" />
+      <edge id="644" source="waterspout" target="wad" weight="0.011364" />
+      <edge id="645" source="waterspout" target="waterfall" weight="0.046512" />
+      <edge id="646" source="wager" target="watery" weight="0.006494" />
+      <edge id="647" source="wager" target="wan" weight="0.008065" />
+      <edge id="648" source="wager" target="waste" weight="0.014134" />
+      <edge id="649" source="wager" target="way" weight="0.014035" />
+      <edge id="650" source="wager" target="wayfare" weight="0.013514" />
+      <edge id="651" source="wager" target="wane" weight="0.020548" />
+      <edge id="652" source="wager" target="wad" weight="0.020408" />
+      <edge id="653" source="wager" target="warp" weight="0.006757" />
+      <edge id="654" source="wager" target="wallow" weight="0.010989" />
+      <edge id="655" source="wager" target="warning" weight="0.009346" />
+      <edge id="656" source="wager" target="waver" weight="0.009524" />
+      <edge id="657" source="wager" target="wallop" weight="0.006849" />
+      <edge id="658" source="wager" target="ward" weight="0.007143" />
+      <edge id="659" source="wager" target="wail" weight="0.008547" />
+      <edge id="660" source="wan" target="watery" weight="0.037736" />
+      <edge id="661" source="wan" target="waxen" weight="0.381443" />
+      <edge id="662" source="wan" target="wane" weight="0.004695" />
+      <edge id="663" source="wan" target="warm" weight="0.003185" />
+      <edge id="664" source="wan" target="wavering" weight="0.003717" />
+      <edge id="665" source="wan" target="wasted" weight="0.032258" />
+      <edge id="666" source="wan" target="waste" weight="0.005714" />
+      <edge id="667" source="wag" target="wane" weight="0.004975" />
+      <edge id="668" source="wag" target="wave" weight="0.151786" />
+      <edge id="669" source="wag" target="waft" weight="0.015152" />
+      <edge id="670" source="wag" target="wayfare" weight="0.007874" />
+      <edge id="671" source="wag" target="wad" weight="0.006579" />
+      <edge id="672" source="wag" target="wangle" weight="0.007874" />
+      <edge id="673" source="wag" target="way" weight="0.002933" />
+      <edge id="674" source="wag" target="wax" weight="0.004975" />
+      <edge id="675" source="wag" target="waste" weight="0.00295" />
+      <edge id="676" source="wag" target="wallpaper" weight="0.01" />
+      <edge id="677" source="wag" target="wart" weight="0.00995" />
+      <edge id="678" source="wag" target="warp" weight="0.008621" />
+      <edge id="679" source="wag" target="wallow" weight="0.066176" />
+      <edge id="680" source="wag" target="waver" weight="0.195489" />
+      <edge id="681" source="wag" target="wallop" weight="0.06383" />
+      <edge id="682" source="wag" target="wafer" weight="0.007407" />
+      <edge id="683" source="wag" target="wamble" weight="0.032258" />
+      <edge id="684" source="wag" target="wastrel" weight="0.023077" />
+      <edge id="685" source="wag" target="wandering" weight="0.003165" />
+      <edge id="686" source="wad" target="wampum" weight="0.009174" />
+      <edge id="687" source="wad" target="wayfare" weight="0.008772" />
+      <edge id="688" source="wad" target="wax" weight="0.005319" />
+      <edge id="689" source="wad" target="warehouse" weight="0.014815" />
+      <edge id="690" source="wad" target="wardship" weight="0.009615" />
+      <edge id="691" source="wad" target="warn" weight="0.008" />
+      <edge id="692" source="wad" target="waver" weight="0.006897" />
+      <edge id="693" source="wad" target="wallop" weight="0.016304" />
+      <edge id="694" source="wad" target="ward" weight="0.005556" />
+      <edge id="695" source="wad" target="waived" weight="0.010638" />
+      <edge id="696" source="wad" target="wamble" weight="0.020833" />
+      <edge id="697" source="watchman" target="wardship" weight="0.021739" />
+      <edge id="698" source="watchman" target="warder" weight="0.025641" />
+      <edge id="699" source="watchman" target="watcher" weight="0.416667" />
+      <edge id="700" source="watchman" target="watchtower" weight="0.027778" />
+      <edge id="701" source="watchman" target="ward" weight="0.033613" />
+      <edge id="702" source="watchword" target="wave" weight="0.005128" />
+      <edge id="703" source="watchword" target="warn" weight="0.013158" />
+      <edge id="704" source="watchword" target="warning" weight="0.020619" />
+      <edge id="705" source="watchword" target="wake" weight="0.011236" />
+      <edge id="706" source="watchword" target="way" weight="0.003584" />
+      <edge id="707" source="wavering" target="waxen" weight="0.004695" />
+      <edge id="708" source="wavering" target="want" weight="0.003731" />
+      <edge id="709" source="wavering" target="wary" weight="0.019763" />
+      <edge id="710" source="wavering" target="way" weight="0.002309" />
+      <edge id="711" source="wavering" target="wanting" weight="0.012245" />
+      <edge id="712" source="wavering" target="watery" weight="0.013514" />
+      <edge id="713" source="wavering" target="warp" weight="0.016055" />
+      <edge id="714" source="wavering" target="wave" weight="0.005747" />
+      <edge id="715" source="wavering" target="wallow" weight="0.004237" />
+      <edge id="716" source="wavering" target="warm" weight="0.007653" />
+      <edge id="717" source="wavering" target="wasted" weight="0.00369" />
+      <edge id="718" source="wavering" target="warlike" weight="0.004926" />
+      <edge id="719" source="wavering" target="warfare" weight="0.005076" />
+      <edge id="720" source="wavering" target="wastrel" weight="0.004464" />
+      <edge id="721" source="wavering" target="wandering" weight="0.278125" />
+      <edge id="722" source="way" target="walkway" weight="0.010949" />
+      <edge id="723" source="way" target="wartime" weight="0.003745" />
+      <edge id="724" source="way" target="wamble" weight="0.015106" />
+      <edge id="725" source="way" target="wayfare" weight="0.020134" />
+      <edge id="726" source="way" target="wangle" weight="0.006623" />
+      <edge id="727" source="way" target="wax" weight="0.005319" />
+      <edge id="728" source="way" target="waste" weight="0.001942" />
+      <edge id="729" source="way" target="warmth" weight="0.006231" />
+      <edge id="730" source="way" target="warp" weight="0.056112" />
+      <edge id="731" source="way" target="warn" weight="0.003185" />
+      <edge id="732" source="way" target="waver" weight="0.012085" />
+      <edge id="733" source="way" target="wallop" weight="0.008043" />
+      <edge id="734" source="way" target="warbler" weight="0.00339" />
+      <edge id="735" source="way" target="watercourse" weight="0.017361" />
+      <edge id="736" source="waistline" target="watery" weight="0.007143" />
+      <edge id="737" source="waistline" target="waspish" weight="0.021277" />
+      <edge id="738" source="waistline" target="waist" weight="0.681818" />
+      <edge id="739" source="waistline" target="wave" weight="0.005263" />
+      <edge id="740" source="waistline" target="warmth" weight="0.012658" />
+      <edge id="741" source="waste" target="waxen" weight="0.00339" />
+      <edge id="742" source="waste" target="wane" weight="0.102639" />
+      <edge id="743" source="waste" target="waft" weight="0.009836" />
+      <edge id="744" source="waste" target="warning" weight="0.002994" />
+      <edge id="745" source="waste" target="want" weight="0.005731" />
+      <edge id="746" source="waste" target="wayfare" weight="0.006667" />
+      <edge id="747" source="waste" target="wastrel" weight="0.013201" />
+      <edge id="748" source="waste" target="washbasin" weight="0.003731" />
+      <edge id="749" source="waste" target="wanting" weight="0.00304" />
+      <edge id="750" source="waste" target="watery" weight="0.007916" />
+      <edge id="751" source="waste" target="wave" weight="0.006993" />
+      <edge id="752" source="waste" target="warp" weight="0.011561" />
+      <edge id="753" source="waste" target="warn" weight="0.003205" />
+      <edge id="754" source="waste" target="waterfall" weight="0.007117" />
+      <edge id="755" source="waste" target="wake" weight="0.009288" />
+      <edge id="756" source="waste" target="waver" weight="0.003012" />
+      <edge id="757" source="waste" target="wallop" weight="0.010811" />
+      <edge id="758" source="waste" target="wasted" weight="0.095975" />
+      <edge id="759" source="waste" target="waterless" weight="0.011364" />
+      <edge id="760" source="waste" target="wallow" weight="0.006309" />
+      <edge id="761" source="waste" target="wafer" weight="0.006494" />
+      <edge id="762" source="waste" target="wadding" weight="0.003676" />
+      <edge id="763" source="waste" target="wamble" weight="0.003003" />
+      <edge id="764" source="waste" target="wandering" weight="0.00409" />
+      <edge id="765" source="waistband" target="wallop" weight="0.008264" />
+      <edge id="766" source="warmth" target="warm" weight="0.017921" />
+      <edge id="767" source="warmth" target="waist" weight="0.011905" />
+      <edge id="768" source="warmth" target="warp" weight="0.003021" />
+      <edge id="769" source="warmth" target="wake" weight="0.015267" />
+      <edge id="770" source="warmth" target="want" weight="0.012821" />
+      <edge id="771" source="warmth" target="warming" weight="0.028986" />
+      <edge id="772" source="waxen" target="watery" weight="0.044586" />
+      <edge id="773" source="wary" target="watery" weight="0.009709" />
+      <edge id="774" source="wary" target="watchful" weight="0.068966" />
+      <edge id="775" source="wary" target="waver" weight="0.006329" />
+      <edge id="776" source="wary" target="wax" weight="0.004975" />
+      <edge id="777" source="wary" target="wanting" weight="0.006452" />
+      <edge id="778" source="wary" target="wandering" weight="0.01278" />
+      <edge id="779" source="wardship" target="waft" weight="0.011765" />
+      <edge id="780" source="wardship" target="warn" weight="0.011111" />
+      <edge id="781" source="wardship" target="warning" weight="0.008929" />
+      <edge id="782" source="wardship" target="warden" weight="0.012048" />
+      <edge id="783" source="wardship" target="want" weight="0.007813" />
+      <edge id="784" source="wardship" target="ward" weight="0.149606" />
+      <edge id="785" source="wart" target="waver" weight="0.005128" />
+      <edge id="786" source="wart" target="wamble" weight="0.020725" />
+      <edge id="787" source="wart" target="warp" weight="0.118156" />
+      <edge id="788" source="wart" target="wampum" weight="0.006289" />
+      <edge id="789" source="wart" target="walkway" weight="0.007299" />
+      <edge id="790" source="wart" target="want" weight="0.004695" />
+      <edge id="791" source="wart" target="wallop" weight="0.021552" />
+      <edge id="792" source="wax" target="wand" weight="0.006494" />
+      <edge id="793" source="wax" target="wane" weight="0.017094" />
+      <edge id="794" source="wax" target="waft" weight="0.030303" />
+      <edge id="795" source="wax" target="wampum" weight="0.012739" />
+      <edge id="796" source="wax" target="wail" weight="0.009756" />
+      <edge id="797" source="wax" target="wayfare" weight="0.006135" />
+      <edge id="798" source="wax" target="wangle" weight="0.012346" />
+      <edge id="799" source="wax" target="warehouse" weight="0.005405" />
+      <edge id="800" source="wax" target="wallpaper" weight="0.007353" />
+      <edge id="801" source="wax" target="warp" weight="0.005195" />
+      <edge id="802" source="wax" target="waterfall" weight="0.006944" />
+      <edge id="803" source="wax" target="ward" weight="0.004367" />
+      <edge id="804" source="wax" target="wave" weight="0.017301" />
+      <edge id="805" source="wax" target="watchtower" weight="0.006993" />
+      <edge id="806" source="warp" target="wand" weight="0.006623" />
+      <edge id="807" source="warp" target="wane" weight="0.010444" />
+      <edge id="808" source="warp" target="wamble" weight="0.017699" />
+      <edge id="809" source="warp" target="want" weight="0.014006" />
+      <edge id="810" source="warp" target="wayfare" weight="0.006431" />
+      <edge id="811" source="warp" target="wail" weight="0.002817" />
+      <edge id="812" source="warp" target="walkway" weight="0.003509" />
+      <edge id="813" source="warp" target="wallpaper" weight="0.003509" />
+      <edge id="814" source="warp" target="warder" weight="0.00339" />
+      <edge id="815" source="warp" target="waterfall" weight="0.006849" />
+      <edge id="816" source="warp" target="wake" weight="0.002976" />
+      <edge id="817" source="warp" target="warden" weight="0.003165" />
+      <edge id="818" source="warp" target="waver" weight="0.02381" />
+      <edge id="819" source="warp" target="wallop" weight="0.010499" />
+      <edge id="820" source="warp" target="watery" weight="0.002551" />
+      <edge id="821" source="warp" target="wave" weight="0.018391" />
+      <edge id="822" source="warp" target="wallow" weight="0.015385" />
+      <edge id="823" source="warp" target="waist" weight="0.003472" />
+      <edge id="824" source="warp" target="wafer" weight="0.003125" />
+      <edge id="825" source="warp" target="wadding" weight="0.003534" />
+      <edge id="826" source="warp" target="warn" weight="0.003096" />
+      <edge id="827" source="warp" target="wandering" weight="0.081897" />
+      <edge id="828" source="warn" target="wane" weight="0.005747" />
+      <edge id="829" source="warn" target="warning" weight="0.072" />
+      <edge id="830" source="warn" target="want" weight="0.048951" />
+      <edge id="831" source="warn" target="watchful" weight="0.021053" />
+      <edge id="832" source="warn" target="wayfare" weight="0.01" />
+      <edge id="833" source="warn" target="wangle" weight="0.030612" />
+      <edge id="834" source="warn" target="warder" weight="0.012048" />
+      <edge id="835" source="warn" target="warm" weight="0.010989" />
+      <edge id="836" source="warn" target="wake" weight="0.033058" />
+      <edge id="837" source="warn" target="warden" weight="0.009615" />
+      <edge id="838" source="warn" target="ward" weight="0.006024" />
+      <edge id="839" source="warn" target="wamble" weight="0.007576" />
+      <edge id="840" source="warm" target="watery" weight="0.002907" />
+      <edge id="841" source="warm" target="wayfare" weight="0.003788" />
+      <edge id="842" source="warm" target="wangle" weight="0.01145" />
+      <edge id="843" source="warm" target="watertight" weight="0.012295" />
+      <edge id="844" source="warm" target="waived" weight="0.004098" />
+      <edge id="845" source="warm" target="warming" weight="0.004425" />
+      <edge id="846" source="wake" target="wayfare" weight="0.027027" />
+      <edge id="847" source="wake" target="wangle" weight="0.017857" />
+      <edge id="848" source="wake" target="walkway" weight="0.035714" />
+      <edge id="849" source="wake" target="warehouse" weight="0.007407" />
+      <edge id="850" source="wake" target="watercourse" weight="0.019802" />
+      <edge id="851" source="waft" target="wallop" weight="0.005988" />
+      <edge id="852" source="waft" target="wangle" weight="0.010526" />
+      <edge id="853" source="waft" target="warehouse" weight="0.008547" />
+      <edge id="854" source="waft" target="ward" weight="0.006211" />
+      <edge id="855" source="walkway" target="wayfare" weight="0.016129" />
+      <edge id="856" source="walkway" target="wane" weight="0.007353" />
+      <edge id="857" source="walkway" target="waterfront" weight="0.028571" />
+      <edge id="858" source="walkway" target="waterway" weight="0.02" />
+      <edge id="859" source="walkway" target="wave" weight="0.005208" />
+      <edge id="860" source="walkway" target="watercourse" weight="0.019608" />
+      <edge id="861" source="wasted" target="watery" weight="0.032558" />
+      <edge id="862" source="wayfarer" target="wandering" weight="0.003861" />
+      <edge id="863" source="wayfarer" target="wayfare" weight="0.028986" />
+      <edge id="864" source="ward" target="watcher" weight="0.039063" />
+      <edge id="865" source="ward" target="warning" weight="0.005319" />
+      <edge id="866" source="ward" target="watchful" weight="0.006623" />
+      <edge id="867" source="ward" target="wangle" weight="0.006452" />
+      <edge id="868" source="ward" target="warehouse" weight="0.017143" />
+      <edge id="869" source="ward" target="warder" weight="0.022059" />
+      <edge id="870" source="ward" target="warden" weight="0.012658" />
+      <edge id="871" source="ward" target="wafer" weight="0.006135" />
+      <edge id="872" source="ward" target="watchtower" weight="0.014925" />
+      <edge id="873" source="wampum" target="wallpaper" weight="0.017544" />
+      <edge id="874" source="wampum" target="wand" weight="0.041096" />
+      <edge id="875" source="wampum" target="wafer" weight="0.01087" />
+      <edge id="876" source="wampum" target="wane" weight="0.006329" />
+      <edge id="877" source="wampum" target="wangle" weight="0.011905" />
+      <edge id="878" source="wampum" target="wamble" weight="0.008621" />
+      <edge id="879" source="warlike" target="warfare" weight="0.04" />
+      <edge id="880" source="warlike" target="wartime" weight="0.055556" />
+      <edge id="881" source="warlike" target="wanting" weight="0.009901" />
+      <edge id="882" source="warlike" target="wandering" weight="0.003817" />
+      <edge id="883" source="waist" target="watery" weight="0.006897" />
+      <edge id="884" source="waist" target="waspish" weight="0.019231" />
+      <edge id="885" source="waist" target="wane" weight="0.007194" />
+      <edge id="886" source="waist" target="wave" weight="0.005128" />
+      <edge id="887" source="waist" target="waver" weight="0.010417" />
+      <edge id="888" source="waist" target="wandering" weight="0.003937" />
+      <edge id="889" source="warfare" target="wartime" weight="0.103448" />
+      <edge id="890" source="warfare" target="wallop" weight="0.007194" />
+      <edge id="891" source="warbler" target="wand" weight="0.013889" />
+      <edge id="892" source="warbler" target="waterfowl" weight="0.394737" />
+      <edge id="893" source="walkaway" target="wangle" weight="0.016393" />
+      <edge id="894" source="walkaway" target="warming" weight="0.043478" />
+      <edge id="895" source="wastrel" target="watertight" weight="0.013158" />
+      <edge id="896" source="wastrel" target="wayfare" weight="0.032609" />
+      <edge id="897" source="wastrel" target="wanderer" weight="0.013333" />
+      <edge id="898" source="wastrel" target="wandering" weight="0.010676" />
+      <edge id="899" source="watercourse" target="wayfare" weight="0.039474" />
+      <edge id="900" source="watercourse" target="wane" weight="0.013245" />
+      <edge id="901" source="watercourse" target="waived" weight="0.017241" />
+      <edge id="902" source="watercourse" target="waterworks" weight="0.368421" />
+      <edge id="903" source="watercourse" target="waterway" weight="0.810811" />
+      <edge id="904" source="watchtower" target="watcher" weight="0.021739" />
+      <edge id="905" source="wandering" target="watery" weight="0.011268" />
+      <edge id="906" source="wandering" target="wayfare" weight="0.018248" />
+      <edge id="907" source="wandering" target="wamble" weight="0.006472" />
+      <edge id="908" source="wandering" target="waver" weight="0.009772" />
+      <edge id="909" source="wand" target="waspish" weight="0.014925" />
+      <edge id="910" source="wand" target="warehouse" weight="0.009804" />
+      <edge id="911" source="wane" target="wallop" weight="0.008547" />
+      <edge id="912" source="wane" target="want" weight="0.019139" />
+      <edge id="913" source="wane" target="wayfare" weight="0.044586" />
+      <edge id="914" source="wane" target="watery" weight="0.004115" />
+      <edge id="915" source="wane" target="waver" weight="0.026316" />
+      <edge id="916" source="wane" target="wamble" weight="0.031579" />
+      <edge id="917" source="watcher" target="warder" weight="0.020408" />
+      <edge id="918" source="warning" target="want" weight="0.017751" />
+      <edge id="919" source="want" target="watery" weight="0.004587" />
+      <edge id="920" source="want" target="wave" weight="0.003731" />
+      <edge id="921" source="want" target="waterfall" weight="0.008403" />
+      <edge id="922" source="waterway" target="wayfare" weight="0.026316" />
+      <edge id="923" source="waterway" target="waived" weight="0.017544" />
+      <edge id="924" source="waterway" target="waterworks" weight="0.378378" />
+      <edge id="925" source="wail" target="wallop" weight="0.004902" />
+      <edge id="926" source="wail" target="warehouse" weight="0.006494" />
+      <edge id="927" source="watchful" target="warder" weight="0.014706" />
+      <edge id="928" source="watchful" target="warden" weight="0.011236" />
+      <edge id="929" source="waspish" target="watery" weight="0.00641" />
+      <edge id="930" source="waspish" target="wave" weight="0.004854" />
+      <edge id="931" source="wayfare" target="wanderer" weight="0.014286" />
+      <edge id="932" source="wayfare" target="waver" weight="0.016807" />
+      <edge id="933" source="wayfare" target="wallop" weight="0.0125" />
+      <edge id="934" source="wayfare" target="wave" weight="0.013825" />
+      <edge id="935" source="wayfare" target="wallow" weight="0.009434" />
+      <edge id="936" source="wayfare" target="wamble" weight="0.042735" />
+      <edge id="937" source="wangle" target="wallow" weight="0.009434" />
+      <edge id="938" source="wangle" target="wallop" weight="0.006211" />
+      <edge id="939" source="wangle" target="waver" weight="0.008333" />
+      <edge id="940" source="wangle" target="wave" weight="0.004566" />
+      <edge id="941" source="warehouse" target="wamble" weight="0.006993" />
+      <edge id="942" source="warehouse" target="waiver" weight="0.008264" />
+      <edge id="943" source="warehouse" target="waterfront" weight="0.011905" />
+      <edge id="944" source="wanting" target="watery" weight="0.010204" />
+      <edge id="945" source="wanting" target="waver" weight="0.006757" />
+      <edge id="946" source="watery" target="waterless" weight="0.007463" />
+      <edge id="947" source="watery" target="wave" weight="0.006711" />
+      <edge id="948" source="watery" target="waived" weight="0.006711" />
+      <edge id="949" source="warder" target="wamble" weight="0.009615" />
+      <edge id="950" source="warder" target="warden" weight="0.327586" />
+      <edge id="951" source="wallpaper" target="waver" weight="0.010753" />
+      <edge id="952" source="wallpaper" target="waterfront" weight="0.028571" />
+      <edge id="953" source="wallow" target="wamble" weight="0.045113" />
+      <edge id="954" source="wallow" target="waver" weight="0.104" />
+      <edge id="955" source="wallow" target="wallop" weight="0.154839" />
+      <edge id="956" source="warden" target="wamble" weight="0.008" />
+      <edge id="957" source="warden" target="warlord" weight="0.015873" />
+      <edge id="958" source="waver" target="wave" weight="0.195238" />
+      <edge id="959" source="waver" target="wallop" weight="0.08427" />
+      <edge id="960" source="waver" target="wafer" weight="0.007813" />
+      <edge id="961" source="waver" target="wamble" weight="0.055172" />
+      <edge id="962" source="wallop" target="wave" weight="0.057971" />
+      <edge id="963" source="wallop" target="wafer" weight="0.017964" />
+      <edge id="964" source="wallop" target="wamble" weight="0.048649" />
+      <edge id="965" source="waterfront" target="wave" weight="0.005208" />
+      <edge id="966" source="wave" target="wamble" weight="0.016129" />
+      <edge id="967" source="wanderer" target="walker" weight="0.060606" />
+    </edges>
+  </graph>
+</gexf>

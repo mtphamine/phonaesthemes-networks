@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="circularity" label="circularity" />
+      <node id="cincture" label="cincture" />
+      <node id="civic" label="civic" />
+      <node id="civil" label="civil" />
+      <node id="circus" label="circus" />
+      <node id="circumlocution" label="circumlocution" />
+      <node id="circuitry" label="circuitry" />
+      <node id="circling" label="circling" />
+      <node id="circumferential" label="circumferential" />
+      <node id="circumscription" label="circumscription" />
+      <node id="circumvent" label="circumvent" />
+      <node id="city" label="city" />
+      <node id="civilization" label="civilization" />
+      <node id="citizen" label="citizen" />
+      <node id="circumnavigate" label="circumnavigate" />
+      <node id="circle" label="circle" />
+      <node id="cite" label="cite" />
+      <node id="circular" label="circular" />
+      <node id="civilian" label="civilian" />
+      <node id="circuitous" label="circuitous" />
+      <node id="circumstances" label="circumstances" />
+      <node id="circumference" label="circumference" />
+      <node id="circulation" label="circulation" />
+      <node id="civility" label="civility" />
+      <node id="circumstantiate" label="circumstantiate" />
+      <node id="circuit" label="circuit" />
+      <node id="circulate" label="circulate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="circularity" target="circuitry" />
+      <edge id="1" source="circularity" target="circumlocution" />
+      <edge id="2" source="circularity" target="circling" />
+      <edge id="3" source="circularity" target="circulation" />
+      <edge id="4" source="cincture" target="circling" />
+      <edge id="5" source="civic" target="civil" />
+      <edge id="6" source="civic" target="city" />
+      <edge id="7" source="circus" target="circle" />
+      <edge id="8" source="circus" target="circumference" />
+      <edge id="9" source="circus" target="circuit" />
+      <edge id="10" source="circumlocution" target="circuitry" />
+      <edge id="11" source="circumlocution" target="circling" />
+      <edge id="12" source="circumlocution" target="circulation" />
+      <edge id="13" source="circuitry" target="circling" />
+      <edge id="14" source="circuitry" target="circulation" />
+      <edge id="15" source="circling" target="circulation" />
+      <edge id="16" source="circling" target="circumferential" />
+      <edge id="17" source="circumscription" target="circumference" />
+      <edge id="18" source="circumvent" target="circumnavigate" />
+      <edge id="19" source="circumvent" target="circle" />
+      <edge id="20" source="circumvent" target="circuit" />
+      <edge id="21" source="circumvent" target="circulate" />
+      <edge id="22" source="civilization" target="civility" />
+      <edge id="23" source="citizen" target="civilian" />
+      <edge id="24" source="circumnavigate" target="circle" />
+      <edge id="25" source="circumnavigate" target="circuit" />
+      <edge id="26" source="circumnavigate" target="circulate" />
+      <edge id="27" source="circle" target="circumference" />
+      <edge id="28" source="circle" target="circuit" />
+      <edge id="29" source="circle" target="circulate" />
+      <edge id="30" source="circle" target="circumstances" />
+      <edge id="31" source="cite" target="circumstantiate" />
+      <edge id="32" source="circular" target="circuitous" />
+      <edge id="33" source="circumstances" target="circuit" />
+      <edge id="34" source="circumference" target="circuit" />
+      <edge id="35" source="circulation" target="circuit" />
+      <edge id="36" source="circuit" target="circulate" />
+    </edges>
+  </graph>
+</gexf>

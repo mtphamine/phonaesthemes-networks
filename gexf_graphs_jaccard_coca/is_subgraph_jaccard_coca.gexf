@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="isolationist" label="isolationist" />
+      <node id="isomer" label="isomer" />
+      <node id="isobar" label="isobar" />
+      <node id="island" label="island">
+        <attvalues>
+          <attvalue for="0" value="4.62077088964" />
+        </attvalues>
+      </node>
+      <node id="isolate" label="isolate" />
+      <node id="isolated" label="isolated">
+        <attvalues>
+          <attvalue for="0" value="4.00569518112" />
+        </attvalues>
+      </node>
+      <node id="isotherm" label="isotherm">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="ism" label="ism" />
+      <node id="isolation" label="isolation" />
+      <node id="isolationism" label="isolationism">
+        <attvalues>
+          <attvalue for="0" value="2.51454775266" />
+        </attvalues>
+      </node>
+      <node id="issue" label="issue">
+        <attvalues>
+          <attvalue for="0" value="4.97878746555" />
+        </attvalues>
+      </node>
+      <node id="isle" label="isle">
+        <attvalues>
+          <attvalue for="0" value="3.11793383504" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="isolationist" target="isolated" weight="0.016129" />
+      <edge id="1" source="isomer" target="isotherm" weight="0.041667" />
+      <edge id="2" source="isobar" target="isotherm" weight="0.571429" />
+      <edge id="3" source="island" target="isolation" weight="0.010753" />
+      <edge id="4" source="island" target="isolate" weight="0.05814" />
+      <edge id="5" source="island" target="isolated" weight="0.02439" />
+      <edge id="6" source="island" target="isle" weight="0.428571" />
+      <edge id="7" source="isolate" target="isolated" weight="0.035088" />
+      <edge id="8" source="isolate" target="isolationism" weight="0.01" />
+      <edge id="9" source="isolated" target="isle" weight="0.008696" />
+      <edge id="10" source="isolated" target="isolation" weight="0.011236" />
+      <edge id="11" source="ism" target="issue" weight="0.006154" />
+      <edge id="12" source="isolation" target="issue" weight="0.007916" />
+      <edge id="13" source="isolation" target="isle" weight="0.012048" />
+      <edge id="14" source="isolation" target="isolationism" weight="0.11828" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="westerly" label="westerly" />
+      <node id="weft" label="weft" />
+      <node id="wearisome" label="wearisome" />
+      <node id="weight" label="weight" />
+      <node id="wearying" label="wearying" />
+      <node id="westward" label="westward" />
+      <node id="weather" label="weather" />
+      <node id="welfare" label="welfare" />
+      <node id="wellspring" label="wellspring" />
+      <node id="weaken" label="weaken" />
+      <node id="web" label="web" />
+      <node id="weaving" label="weaving" />
+      <node id="wealth" label="wealth" />
+      <node id="weakened" label="weakened" />
+      <node id="west" label="west" />
+      <node id="weariness" label="weariness" />
+      <node id="wen" label="wen" />
+      <node id="weeping" label="weeping" />
+      <node id="weakness" label="weakness" />
+      <node id="weepy" label="weepy" />
+      <node id="weak" label="weak" />
+      <node id="weal" label="weal" />
+      <node id="weakhearted" label="weakhearted" />
+      <node id="weary" label="weary" />
+      <node id="western" label="western" />
+      <node id="weep" label="weep" />
+      <node id="weave" label="weave" />
+      <node id="weakly" label="weakly" />
+      <node id="well" label="well" />
+      <node id="weatherboard" label="weatherboard" />
+      <node id="welt" label="welt" />
+      <node id="weigh" label="weigh" />
+      <node id="weighty" label="weighty" />
+      <node id="wear" label="wear" />
+    </nodes>
+    <edges>
+      <edge id="0" source="westerly" target="west" />
+      <edge id="1" source="westerly" target="western" />
+      <edge id="2" source="weft" target="web" />
+      <edge id="3" source="weft" target="weaving" />
+      <edge id="4" source="weft" target="weave" />
+      <edge id="5" source="wearisome" target="wearying" />
+      <edge id="6" source="wearisome" target="weary" />
+      <edge id="7" source="weight" target="weigh" />
+      <edge id="8" source="wearying" target="weighty" />
+      <edge id="9" source="westward" target="west" />
+      <edge id="10" source="weather" target="weatherboard" />
+      <edge id="11" source="weather" target="wear" />
+      <edge id="12" source="welfare" target="weal" />
+      <edge id="13" source="welfare" target="wealth" />
+      <edge id="14" source="wellspring" target="well" />
+      <edge id="15" source="weaken" target="wear" />
+      <edge id="16" source="weaken" target="weary" />
+      <edge id="17" source="web" target="weaving" />
+      <edge id="18" source="web" target="weave" />
+      <edge id="19" source="weaving" target="weave" />
+      <edge id="20" source="wealth" target="weal" />
+      <edge id="21" source="weakened" target="weakly" />
+      <edge id="22" source="weakened" target="weak" />
+      <edge id="23" source="weakened" target="weary" />
+      <edge id="24" source="west" target="western" />
+      <edge id="25" source="weariness" target="weakness" />
+      <edge id="26" source="wen" target="weal" />
+      <edge id="27" source="wen" target="welt" />
+      <edge id="28" source="weeping" target="weepy" />
+      <edge id="29" source="weeping" target="weep" />
+      <edge id="30" source="weak" target="weakly" />
+      <edge id="31" source="weak" target="weakhearted" />
+      <edge id="32" source="weak" target="weary" />
+      <edge id="33" source="weal" target="welt" />
+      <edge id="34" source="weary" target="wear" />
+    </edges>
+  </graph>
+</gexf>

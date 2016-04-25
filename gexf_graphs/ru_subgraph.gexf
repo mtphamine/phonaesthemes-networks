@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="ruination" label="ruination" />
+      <node id="rubberneck" label="rubberneck" />
+      <node id="rubbing" label="rubbing" />
+      <node id="ruckus" label="ruckus" />
+      <node id="rubble" label="rubble" />
+      <node id="rusty" label="rusty" />
+      <node id="rubbery" label="rubbery" />
+      <node id="rubric" label="rubric" />
+      <node id="runnel" label="runnel" />
+      <node id="ruffle" label="ruffle" />
+      <node id="rushing" label="rushing" />
+      <node id="runty" label="runty" />
+      <node id="rustic" label="rustic" />
+      <node id="rue" label="rue" />
+      <node id="ruby" label="ruby" />
+      <node id="ruin" label="ruin" />
+      <node id="rubber" label="rubber" />
+      <node id="ruck" label="ruck" />
+      <node id="rundle" label="rundle" />
+      <node id="rump" label="rump" />
+      <node id="ruinous" label="ruinous" />
+      <node id="ruth" label="ruth" />
+      <node id="ruling" label="ruling" />
+      <node id="rut" label="rut" />
+      <node id="ruche" label="ruche" />
+      <node id="run" label="run" />
+      <node id="rumpus" label="rumpus" />
+      <node id="rude" label="rude" />
+      <node id="ruthful" label="ruthful" />
+      <node id="rub" label="rub" />
+      <node id="ruler" label="ruler" />
+      <node id="rubicund" label="rubicund" />
+      <node id="rudimentary" label="rudimentary" />
+      <node id="ruff" label="ruff" />
+      <node id="rumble" label="rumble" />
+      <node id="running" label="running" />
+      <node id="rubbish" label="rubbish" />
+      <node id="rugged" label="rugged" />
+      <node id="rugous" label="rugous" />
+      <node id="rupture" label="rupture" />
+      <node id="rumor" label="rumor" />
+      <node id="rush" label="rush" />
+      <node id="rumpled" label="rumpled" />
+      <node id="runway" label="runway" />
+      <node id="rumple" label="rumple" />
+      <node id="rumbling" label="rumbling" />
+      <node id="rule" label="rule" />
+      <node id="ruined" label="ruined" />
+      <node id="rube" label="rube" />
+      <node id="rueful" label="rueful" />
+      <node id="ruddy" label="ruddy" />
+      <node id="rung" label="rung" />
+      <node id="rural" label="rural" />
+      <node id="rust" label="rust" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ruination" target="ruin" />
+      <edge id="1" source="rubberneck" target="rubber" />
+      <edge id="2" source="rubbing" target="rub" />
+      <edge id="3" source="ruckus" target="rumble" />
+      <edge id="4" source="ruckus" target="rumpus" />
+      <edge id="5" source="rubble" target="rubbish" />
+      <edge id="6" source="rusty" target="rubicund" />
+      <edge id="7" source="rusty" target="ruined" />
+      <edge id="8" source="rusty" target="ruddy" />
+      <edge id="9" source="rusty" target="ruinous" />
+      <edge id="10" source="rusty" target="ruby" />
+      <edge id="11" source="rusty" target="rust" />
+      <edge id="12" source="rubbery" target="rubber" />
+      <edge id="13" source="rubric" target="ruby" />
+      <edge id="14" source="rubric" target="ruddy" />
+      <edge id="15" source="rubric" target="rule" />
+      <edge id="16" source="rubric" target="ruling" />
+      <edge id="17" source="runnel" target="run" />
+      <edge id="18" source="runnel" target="rundle" />
+      <edge id="19" source="ruffle" target="rub" />
+      <edge id="20" source="ruffle" target="ruche" />
+      <edge id="21" source="ruffle" target="rumple" />
+      <edge id="22" source="ruffle" target="ruff" />
+      <edge id="23" source="rushing" target="running" />
+      <edge id="24" source="runty" target="rudimentary" />
+      <edge id="25" source="rustic" target="rube" />
+      <edge id="26" source="rustic" target="rural" />
+      <edge id="27" source="rue" target="ruth" />
+      <edge id="28" source="ruby" target="rust" />
+      <edge id="29" source="ruby" target="rubicund" />
+      <edge id="30" source="ruby" target="ruddy" />
+      <edge id="31" source="rubber" target="ruff" />
+      <edge id="32" source="ruck" target="rumple" />
+      <edge id="33" source="ruck" target="run" />
+      <edge id="34" source="ruck" target="rut" />
+      <edge id="35" source="rundle" target="run" />
+      <edge id="36" source="rundle" target="rung" />
+      <edge id="37" source="rump" target="rubbish" />
+      <edge id="38" source="ruinous" target="ruined" />
+      <edge id="39" source="ruling" target="running" />
+      <edge id="40" source="ruling" target="rule" />
+      <edge id="41" source="rut" target="runway" />
+      <edge id="42" source="rut" target="run" />
+      <edge id="43" source="run" target="rush" />
+      <edge id="44" source="run" target="runway" />
+      <edge id="45" source="run" target="rule" />
+      <edge id="46" source="run" target="rupture" />
+      <edge id="47" source="rumpus" target="rumble" />
+      <edge id="48" source="rude" target="rudimentary" />
+      <edge id="49" source="rude" target="rugged" />
+      <edge id="50" source="ruthful" target="rueful" />
+      <edge id="51" source="ruler" target="rule" />
+      <edge id="52" source="rubicund" target="ruddy" />
+      <edge id="53" source="rubicund" target="rust" />
+      <edge id="54" source="rumble" target="rumbling" />
+      <edge id="55" source="rumble" target="rumor" />
+      <edge id="56" source="rugged" target="rugous" />
+      <edge id="57" source="rugged" target="rumpled" />
+      <edge id="58" source="rugous" target="rumpled" />
+      <edge id="59" source="rumor" target="rumor" />
+      <edge id="60" source="ruddy" target="rust" />
+    </edges>
+  </graph>
+</gexf>

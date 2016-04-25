@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="johnny" label="johnny">
+        <attvalues>
+          <attvalue for="0" value="4.00160392415" />
+        </attvalues>
+      </node>
+      <node id="joyous" label="joyous">
+        <attvalues>
+          <attvalue for="0" value="3.03261876085" />
+        </attvalues>
+      </node>
+      <node id="job" label="job">
+        <attvalues>
+          <attvalue for="0" value="5.08624234169" />
+        </attvalues>
+      </node>
+      <node id="joyride" label="joyride" />
+      <node id="jocular" label="jocular">
+        <attvalues>
+          <attvalue for="0" value="1.98227123304" />
+        </attvalues>
+      </node>
+      <node id="joviality" label="joviality">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="journal" label="journal">
+        <attvalues>
+          <attvalue for="0" value="4.4879580926" />
+        </attvalues>
+      </node>
+      <node id="journeying" label="journeying" />
+      <node id="jock" label="jock">
+        <attvalues>
+          <attvalue for="0" value="2.96189547367" />
+        </attvalues>
+      </node>
+      <node id="jollity" label="jollity">
+        <attvalues>
+          <attvalue for="0" value="1.4623979979" />
+        </attvalues>
+      </node>
+      <node id="joylessness" label="joylessness">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="jowl" label="jowl" />
+      <node id="joking" label="joking" />
+      <node id="jounce" label="jounce">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="jolting" label="jolting">
+        <attvalues>
+          <attvalue for="0" value="2.39445168083" />
+        </attvalues>
+      </node>
+      <node id="jocose" label="jocose" />
+      <node id="jolt" label="jolt">
+        <attvalues>
+          <attvalue for="0" value="3.16879202031" />
+        </attvalues>
+      </node>
+      <node id="jolly" label="jolly" />
+      <node id="journalese" label="journalese" />
+      <node id="jostle" label="jostle">
+        <attvalues>
+          <attvalue for="0" value="2.33445375115" />
+        </attvalues>
+      </node>
+      <node id="jotting" label="jotting" />
+      <node id="john" label="john" />
+      <node id="joyful" label="joyful">
+        <attvalues>
+          <attvalue for="0" value="3.10856502373" />
+        </attvalues>
+      </node>
+      <node id="jobholder" label="jobholder" />
+      <node id="jobbing" label="jobbing" />
+      <node id="jot" label="jot">
+        <attvalues>
+          <attvalue for="0" value="2.60530504614" />
+        </attvalues>
+      </node>
+      <node id="joy" label="joy" />
+      <node id="joyless" label="joyless">
+        <attvalues>
+          <attvalue for="0" value="2.19865708695" />
+        </attvalues>
+      </node>
+      <node id="journeyer" label="journeyer">
+        <attvalues>
+          <attvalue for="0" value="0.698970004336" />
+        </attvalues>
+      </node>
+      <node id="joined" label="joined" />
+      <node id="joint" label="joint">
+        <attvalues>
+          <attvalue for="0" value="4.2602145384" />
+        </attvalues>
+      </node>
+      <node id="joust" label="joust">
+        <attvalues>
+          <attvalue for="0" value="1.96378782735" />
+        </attvalues>
+      </node>
+      <node id="journey" label="journey" />
+      <node id="jollies" label="jollies" />
+      <node id="jointure" label="jointure" />
+      <node id="jog" label="jog" />
+      <node id="jockey" label="jockey" />
+      <node id="jocularity" label="jocularity" />
+      <node id="join" label="join" />
+      <node id="joyfulness" label="joyfulness">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="joke" label="joke">
+        <attvalues>
+          <attvalue for="0" value="4.07144012718" />
+        </attvalues>
+      </node>
+      <node id="journeyman" label="journeyman">
+        <attvalues>
+          <attvalue for="0" value="2.47129171106" />
+        </attvalues>
+      </node>
+      <node id="joker" label="joker" />
+      <node id="jongleur" label="jongleur">
+        <attvalues>
+          <attvalue for="0" value="1.11394335231" />
+        </attvalues>
+      </node>
+      <node id="jovial" label="jovial" />
+      <node id="jobber" label="jobber" />
+      <node id="joshing" label="joshing">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="joiner" label="joiner" />
+      <node id="joining" label="joining" />
+    </nodes>
+    <edges>
+      <edge id="0" source="johnny" target="joker" weight="0.00495" />
+      <edge id="1" source="johnny" target="john" weight="0.809524" />
+      <edge id="2" source="johnny" target="jostle" weight="0.007752" />
+      <edge id="3" source="johnny" target="jolt" weight="0.005025" />
+      <edge id="4" source="johnny" target="jog" weight="0.004425" />
+      <edge id="5" source="joyous" target="joking" weight="0.025974" />
+      <edge id="6" source="joyous" target="joke" weight="0.007634" />
+      <edge id="7" source="joyous" target="jocular" weight="0.1875" />
+      <edge id="8" source="joyous" target="jolly" weight="0.192661" />
+      <edge id="9" source="joyous" target="jollity" weight="0.016393" />
+      <edge id="10" source="joyous" target="joviality" weight="0.017241" />
+      <edge id="11" source="joyous" target="jovial" weight="0.404255" />
+      <edge id="12" source="joyous" target="joshing" weight="0.030928" />
+      <edge id="13" source="joyous" target="jocose" weight="0.063492" />
+      <edge id="14" source="joyous" target="joyful" weight="0.72549" />
+      <edge id="15" source="job" target="jobbing" weight="0.006993" />
+      <edge id="16" source="job" target="jobholder" weight="0.007246" />
+      <edge id="17" source="job" target="jockey" weight="0.011696" />
+      <edge id="18" source="job" target="jot" weight="0.004739" />
+      <edge id="19" source="job" target="jobber" weight="0.012579" />
+      <edge id="20" source="job" target="joint" weight="0.018229" />
+      <edge id="21" source="job" target="joy" weight="0.005464" />
+      <edge id="22" source="job" target="joyride" weight="0.007299" />
+      <edge id="23" source="job" target="jolt" weight="0.006711" />
+      <edge id="24" source="job" target="jolly" weight="0.004762" />
+      <edge id="25" source="job" target="joker" weight="0.013378" />
+      <edge id="26" source="job" target="jowl" weight="0.007353" />
+      <edge id="27" source="job" target="joust" weight="0.012195" />
+      <edge id="28" source="job" target="journey" weight="0.02" />
+      <edge id="29" source="job" target="jollies" weight="0.015038" />
+      <edge id="30" source="job" target="jointure" weight="0.006289" />
+      <edge id="31" source="job" target="jog" weight="0.006154" />
+      <edge id="32" source="job" target="join" weight="0.00365" />
+      <edge id="33" source="job" target="journeying" weight="0.006944" />
+      <edge id="34" source="job" target="joining" weight="0.005814" />
+      <edge id="35" source="joyride" target="joke" weight="0.009091" />
+      <edge id="36" source="joyride" target="jostle" weight="0.007874" />
+      <edge id="37" source="joyride" target="jolt" weight="0.005076" />
+      <edge id="38" source="jocular" target="jocularity" weight="0.034483" />
+      <edge id="39" source="jocular" target="joking" weight="0.425926" />
+      <edge id="40" source="jocular" target="joke" weight="0.007752" />
+      <edge id="41" source="jocular" target="joyless" weight="0.010526" />
+      <edge id="42" source="jocular" target="jolly" weight="0.103448" />
+      <edge id="43" source="jocular" target="joker" weight="0.009174" />
+      <edge id="44" source="jocular" target="journeyman" weight="0.011111" />
+      <edge id="45" source="jocular" target="jovial" weight="0.254902" />
+      <edge id="46" source="jocular" target="joshing" weight="0.306667" />
+      <edge id="47" source="jocular" target="jocose" weight="0.666667" />
+      <edge id="48" source="jocular" target="joyful" weight="0.162162" />
+      <edge id="49" source="joviality" target="jocularity" weight="0.387097" />
+      <edge id="50" source="joviality" target="joking" weight="0.016949" />
+      <edge id="51" source="joviality" target="joyfulness" weight="0.333333" />
+      <edge id="52" source="joviality" target="joke" weight="0.008929" />
+      <edge id="53" source="joviality" target="joshing" weight="0.025316" />
+      <edge id="54" source="joviality" target="jolly" weight="0.018349" />
+      <edge id="55" source="joviality" target="jollity" weight="0.791667" />
+      <edge id="56" source="joviality" target="jovial" weight="0.021739" />
+      <edge id="57" source="joviality" target="joy" weight="0.2" />
+      <edge id="58" source="joviality" target="joyful" weight="0.014706" />
+      <edge id="59" source="journal" target="jotting" weight="0.067568" />
+      <edge id="60" source="journal" target="jowl" weight="0.012821" />
+      <edge id="61" source="journal" target="journalese" weight="0.015152" />
+      <edge id="62" source="journal" target="joke" weight="0.006494" />
+      <edge id="63" source="journal" target="joined" weight="0.005435" />
+      <edge id="64" source="journal" target="joker" weight="0.00823" />
+      <edge id="65" source="journal" target="joint" weight="0.003012" />
+      <edge id="66" source="journeying" target="jolting" weight="0.015625" />
+      <edge id="67" source="journeying" target="joint" weight="0.00339" />
+      <edge id="68" source="journeying" target="joyless" weight="0.012048" />
+      <edge id="69" source="jock" target="jockey" weight="0.008403" />
+      <edge id="70" source="jock" target="join" weight="0.004525" />
+      <edge id="71" source="jock" target="joke" weight="0.006289" />
+      <edge id="72" source="jock" target="jolt" weight="0.004065" />
+      <edge id="73" source="jock" target="joker" weight="0.004016" />
+      <edge id="74" source="jock" target="joint" weight="0.015015" />
+      <edge id="75" source="jock" target="jostle" weight="0.005682" />
+      <edge id="76" source="jock" target="jog" weight="0.007353" />
+      <edge id="77" source="jock" target="joining" weight="0.034483" />
+      <edge id="78" source="jollity" target="jocularity" weight="0.352941" />
+      <edge id="79" source="jollity" target="joking" weight="0.016129" />
+      <edge id="80" source="jollity" target="joyfulness" weight="0.311111" />
+      <edge id="81" source="jollity" target="joke" weight="0.008696" />
+      <edge id="82" source="jollity" target="joshing" weight="0.02439" />
+      <edge id="83" source="jollity" target="jolly" weight="0.027027" />
+      <edge id="84" source="jollity" target="jovial" weight="0.020408" />
+      <edge id="85" source="jollity" target="joy" weight="0.225352" />
+      <edge id="86" source="jollity" target="joyful" weight="0.014085" />
+      <edge id="87" source="joylessness" target="jocularity" weight="0.017544" />
+      <edge id="88" source="joylessness" target="joshing" weight="0.010526" />
+      <edge id="89" source="joylessness" target="jolt" weight="0.004673" />
+      <edge id="90" source="joylessness" target="joking" weight="0.013514" />
+      <edge id="91" source="joylessness" target="jog" weight="0.004149" />
+      <edge id="92" source="jowl" target="joint" weight="0.006993" />
+      <edge id="93" source="joking" target="joyfulness" weight="0.013333" />
+      <edge id="94" source="joking" target="joke" weight="0.023077" />
+      <edge id="95" source="joking" target="joyless" weight="0.010204" />
+      <edge id="96" source="joking" target="joshing" weight="0.629032" />
+      <edge id="97" source="joking" target="journeyman" weight="0.010753" />
+      <edge id="98" source="joking" target="joyful" weight="0.022989" />
+      <edge id="99" source="jounce" target="joust" weight="0.014706" />
+      <edge id="100" source="jounce" target="jostle" weight="0.198198" />
+      <edge id="101" source="jounce" target="jolt" weight="0.121547" />
+      <edge id="102" source="jounce" target="jollies" weight="0.085714" />
+      <edge id="103" source="jounce" target="jog" weight="0.105769" />
+      <edge id="104" source="jolting" target="joyless" weight="0.010204" />
+      <edge id="105" source="jolting" target="joyful" weight="0.011364" />
+      <edge id="106" source="jocose" target="joke" weight="0.008333" />
+      <edge id="107" source="jocose" target="joyless" weight="0.011628" />
+      <edge id="108" source="jocose" target="journeyman" weight="0.012346" />
+      <edge id="109" source="jocose" target="joshing" weight="0.348485" />
+      <edge id="110" source="jocose" target="joyful" weight="0.054795" />
+      <edge id="111" source="jolt" target="jot" weight="0.011152" />
+      <edge id="112" source="jolt" target="joining" weight="0.013043" />
+      <edge id="113" source="jolt" target="joke" weight="0.003676" />
+      <edge id="114" source="jolt" target="joust" weight="0.013453" />
+      <edge id="115" source="jolt" target="joker" weight="0.013966" />
+      <edge id="116" source="jolt" target="joint" weight="0.015766" />
+      <edge id="117" source="jolt" target="jostle" weight="0.306306" />
+      <edge id="118" source="jolt" target="jollies" weight="0.020942" />
+      <edge id="119" source="jolt" target="jog" weight="0.477099" />
+      <edge id="120" source="jolt" target="joy" weight="0.004115" />
+      <edge id="121" source="jolt" target="join" weight="0.015152" />
+      <edge id="122" source="jolt" target="john" weight="0.005076" />
+      <edge id="123" source="jolt" target="journey" weight="0.019139" />
+      <edge id="124" source="jolly" target="joint" weight="0.00277" />
+      <edge id="125" source="jolly" target="joke" weight="0.101796" />
+      <edge id="126" source="jolly" target="joust" weight="0.007353" />
+      <edge id="127" source="jolly" target="joyfulness" weight="0.007937" />
+      <edge id="128" source="jolly" target="joshing" weight="0.020134" />
+      <edge id="129" source="jolly" target="joyful" weight="0.186441" />
+      <edge id="130" source="jostle" target="join" weight="0.007605" />
+      <edge id="131" source="jostle" target="joining" weight="0.01875" />
+      <edge id="132" source="jostle" target="joke" weight="0.00995" />
+      <edge id="133" source="jostle" target="joker" weight="0.003425" />
+      <edge id="134" source="jostle" target="joint" weight="0.013298" />
+      <edge id="135" source="jostle" target="joust" weight="0.21875" />
+      <edge id="136" source="jostle" target="journey" weight="0.007042" />
+      <edge id="137" source="jostle" target="jollies" weight="0.033058" />
+      <edge id="138" source="jostle" target="jog" weight="0.268" />
+      <edge id="139" source="jostle" target="john" weight="0.007874" />
+      <edge id="140" source="joyful" target="joke" weight="0.007092" />
+      <edge id="141" source="joyful" target="joshing" weight="0.028037" />
+      <edge id="142" source="joyful" target="jovial" weight="0.357143" />
+      <edge id="143" source="jobholder" target="joint" weight="0.00346" />
+      <edge id="144" source="jobbing" target="joke" weight="0.008621" />
+      <edge id="145" source="jot" target="joke" weight="0.022099" />
+      <edge id="146" source="jot" target="joker" weight="0.007326" />
+      <edge id="147" source="jot" target="joint" weight="0.011142" />
+      <edge id="148" source="jot" target="jointure" weight="0.007634" />
+      <edge id="149" source="jot" target="jog" weight="0.034602" />
+      <edge id="150" source="joy" target="joyfulness" weight="0.538462" />
+      <edge id="151" source="joy" target="joke" weight="0.012903" />
+      <edge id="152" source="joy" target="joshing" weight="0.01626" />
+      <edge id="153" source="joyless" target="journeyman" weight="0.008929" />
+      <edge id="154" source="joyless" target="joshing" weight="0.008403" />
+      <edge id="155" source="journeyer" target="jockey" weight="0.012821" />
+      <edge id="156" source="journeyer" target="journey" weight="0.035088" />
+      <edge id="157" source="joined" target="joint" weight="0.135447" />
+      <edge id="158" source="joined" target="joust" weight="0.005952" />
+      <edge id="159" source="joint" target="jockey" weight="0.003096" />
+      <edge id="160" source="joint" target="joust" weight="0.006349" />
+      <edge id="161" source="joint" target="journey" weight="0.006623" />
+      <edge id="162" source="joint" target="jointure" weight="0.01634" />
+      <edge id="163" source="joint" target="jog" weight="0.025751" />
+      <edge id="164" source="joint" target="join" weight="0.024038" />
+      <edge id="165" source="joint" target="joke" weight="0.01676" />
+      <edge id="166" source="joint" target="joker" weight="0.017937" />
+      <edge id="167" source="joint" target="jobber" weight="0.009709" />
+      <edge id="168" source="joint" target="joiner" weight="0.007042" />
+      <edge id="169" source="joint" target="joining" weight="0.121107" />
+      <edge id="170" source="joust" target="jockey" weight="0.010204" />
+      <edge id="171" source="joust" target="join" weight="0.015152" />
+      <edge id="172" source="joust" target="joke" weight="0.022059" />
+      <edge id="173" source="joust" target="jointure" weight="0.011765" />
+      <edge id="174" source="joust" target="jog" weight="0.007968" />
+      <edge id="175" source="joust" target="journey" weight="0.012821" />
+      <edge id="176" source="joust" target="joining" weight="0.03125" />
+      <edge id="177" source="jollies" target="joke" weight="0.009346" />
+      <edge id="178" source="jog" target="joke" weight="0.010101" />
+      <edge id="179" source="jockey" target="joke" weight="0.006897" />
+      <edge id="180" source="jockey" target="journeyman" weight="0.009434" />
+      <edge id="181" source="jocularity" target="joyfulness" weight="0.255319" />
+      <edge id="182" source="jocularity" target="joke" weight="0.017544" />
+      <edge id="183" source="jocularity" target="joshing" weight="0.135135" />
+      <edge id="184" source="join" target="joke" weight="0.00813" />
+      <edge id="185" source="joyfulness" target="joke" weight="0.007813" />
+      <edge id="186" source="joyfulness" target="joshing" weight="0.021053" />
+      <edge id="187" source="joke" target="joker" weight="0.003636" />
+      <edge id="188" source="joke" target="jovial" weight="0.008403" />
+      <edge id="189" source="joke" target="joshing" weight="0.047619" />
+      <edge id="190" source="joke" target="joining" weight="0.006897" />
+      <edge id="191" source="journeyman" target="jongleur" weight="0.014925" />
+      <edge id="192" source="journeyman" target="joshing" weight="0.008772" />
+      <edge id="193" source="joker" target="jongleur" weight="0.005102" />
+      <edge id="194" source="joker" target="joshing" weight="0.004115" />
+      <edge id="195" source="jovial" target="joshing" weight="0.035294" />
+    </edges>
+  </graph>
+</gexf>

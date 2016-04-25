@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="hip" label="hip">
+        <attvalues>
+          <attvalue for="0" value="3.93836959745" />
+        </attvalues>
+      </node>
+      <node id="hither" label="hither" />
+      <node id="hiking" label="hiking">
+        <attvalues>
+          <attvalue for="0" value="3.7056071634" />
+        </attvalues>
+      </node>
+      <node id="hierarchy" label="hierarchy">
+        <attvalues>
+          <attvalue for="0" value="3.63798978078" />
+        </attvalues>
+      </node>
+      <node id="hind" label="hind">
+        <attvalues>
+          <attvalue for="0" value="3.08493357494" />
+        </attvalues>
+      </node>
+      <node id="hillbilly" label="hillbilly">
+        <attvalues>
+          <attvalue for="0" value="2.5211380837" />
+        </attvalues>
+      </node>
+      <node id="hitch" label="hitch">
+        <attvalues>
+          <attvalue for="0" value="3.09482038035" />
+        </attvalues>
+      </node>
+      <node id="high" label="high">
+        <attvalues>
+          <attvalue for="0" value="5.29788301518" />
+        </attvalues>
+      </node>
+      <node id="hirsute" label="hirsute">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="hieroglyphic" label="hieroglyphic">
+        <attvalues>
+          <attvalue for="0" value="1.9956351946" />
+        </attvalues>
+      </node>
+      <node id="hippodrome" label="hippodrome" />
+      <node id="hindsight" label="hindsight">
+        <attvalues>
+          <attvalue for="0" value="3.10653085382" />
+        </attvalues>
+      </node>
+      <node id="highfalutin" label="highfalutin" />
+      <node id="hissing" label="hissing">
+        <attvalues>
+          <attvalue for="0" value="3.0322157033" />
+        </attvalues>
+      </node>
+      <node id="hierarchic" label="hierarchic" />
+      <node id="hick" label="hick" />
+      <node id="hitherto" label="hitherto">
+        <attvalues>
+          <attvalue for="0" value="2.82930377283" />
+        </attvalues>
+      </node>
+      <node id="hidebound" label="hidebound" />
+      <node id="hickey" label="hickey" />
+      <node id="hide" label="hide" />
+      <node id="hibernal" label="hibernal" />
+      <node id="hint" label="hint" />
+      <node id="hillock" label="hillock" />
+      <node id="hiemal" label="hiemal">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="him" label="him" />
+      <node id="highball" label="highball" />
+      <node id="hill" label="hill" />
+      <node id="hiss" label="hiss" />
+      <node id="hidden" label="hidden">
+        <attvalues>
+          <attvalue for="0" value="4.24861074497" />
+        </attvalues>
+      </node>
+      <node id="hideout" label="hideout" />
+      <node id="hideous" label="hideous">
+        <attvalues>
+          <attvalue for="0" value="3.13353890837" />
+        </attvalues>
+      </node>
+      <node id="historically" label="historically" />
+      <node id="hilarity" label="hilarity">
+        <attvalues>
+          <attvalue for="0" value="2.36735592103" />
+        </attvalues>
+      </node>
+      <node id="higher" label="higher">
+        <attvalues>
+          <attvalue for="0" value="4.84302087544" />
+        </attvalues>
+      </node>
+      <node id="hinder" label="hinder" />
+      <node id="hippo" label="hippo">
+        <attvalues>
+          <attvalue for="0" value="2.41995574849" />
+        </attvalues>
+      </node>
+      <node id="hindmost" label="hindmost" />
+      <node id="hibernate" label="hibernate">
+        <attvalues>
+          <attvalue for="0" value="2.25767857487" />
+        </attvalues>
+      </node>
+      <node id="hit" label="hit" />
+      <node id="hijacking" label="hijacking">
+        <attvalues>
+          <attvalue for="0" value="2.73239375982" />
+        </attvalues>
+      </node>
+      <node id="hideaway" label="hideaway">
+        <attvalues>
+          <attvalue for="0" value="2.6414741105" />
+        </attvalues>
+      </node>
+      <node id="hireling" label="hireling">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="hilarious" label="hilarious" />
+      <node id="hightail" label="hightail" />
+      <node id="hiccup" label="hiccup">
+        <attvalues>
+          <attvalue for="0" value="2.48995847942" />
+        </attvalues>
+      </node>
+      <node id="hired" label="hired">
+        <attvalues>
+          <attvalue for="0" value="4.19345854261" />
+        </attvalues>
+      </node>
+      <node id="hie" label="hie">
+        <attvalues>
+          <attvalue for="0" value="2.21748394421" />
+        </attvalues>
+      </node>
+      <node id="hippy" label="hippy" />
+      <node id="highest" label="highest">
+        <attvalues>
+          <attvalue for="0" value="4.33797810786" />
+        </attvalues>
+      </node>
+      <node id="highbrow" label="highbrow" />
+      <node id="hiding" label="hiding" />
+      <node id="hire" label="hire">
+        <attvalues>
+          <attvalue for="0" value="3.97524794124" />
+        </attvalues>
+      </node>
+      <node id="hinterland" label="hinterland">
+        <attvalues>
+          <attvalue for="0" value="2.45788189673" />
+        </attvalues>
+      </node>
+      <node id="histrionics" label="histrionics" />
+      <node id="highroad" label="highroad">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="hike" label="hike">
+        <attvalues>
+          <attvalue for="0" value="3.73988865508" />
+        </attvalues>
+      </node>
+      <node id="hiatus" label="hiatus" />
+      <node id="hive" label="hive" />
+      <node id="hinge" label="hinge" />
+      <node id="highway" label="highway">
+        <attvalues>
+          <attvalue for="0" value="4.22209188645" />
+        </attvalues>
+      </node>
+      <node id="hindrance" label="hindrance" />
+      <node id="highlight" label="highlight">
+        <attvalues>
+          <attvalue for="0" value="3.67228262479" />
+        </attvalues>
+      </node>
+      <node id="hijack" label="hijack">
+        <attvalues>
+          <attvalue for="0" value="2.55990662504" />
+        </attvalues>
+      </node>
+      <node id="hillocky" label="hillocky">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="history" label="history" />
+    </nodes>
+    <edges>
+      <edge id="0" source="hip" target="hibernate" weight="0.014085" />
+      <edge id="1" source="hip" target="hit" weight="0.005935" />
+      <edge id="2" source="hip" target="hive" weight="0.006897" />
+      <edge id="3" source="hip" target="hitch" weight="0.040323" />
+      <edge id="4" source="hip" target="hinge" weight="0.282051" />
+      <edge id="5" source="hip" target="hinterland" weight="0.008621" />
+      <edge id="6" source="hip" target="hill" weight="0.013793" />
+      <edge id="7" source="hip" target="hissing" weight="0.007246" />
+      <edge id="8" source="hip" target="history" weight="0.009091" />
+      <edge id="9" source="hither" target="hitherto" weight="0.066667" />
+      <edge id="10" source="hiking" target="hierarchy" weight="0.010204" />
+      <edge id="11" source="hiking" target="hike" weight="0.061069" />
+      <edge id="12" source="hierarchy" target="hinterland" weight="0.01626" />
+      <edge id="13" source="hierarchy" target="hippodrome" weight="0.028302" />
+      <edge id="14" source="hierarchy" target="highroad" weight="0.009346" />
+      <edge id="15" source="hierarchy" target="hike" weight="0.005587" />
+      <edge id="16" source="hierarchy" target="high" weight="0.002242" />
+      <edge id="17" source="hierarchy" target="hill" weight="0.006494" />
+      <edge id="18" source="hierarchy" target="highest" weight="0.041176" />
+      <edge id="19" source="hierarchy" target="him" weight="0.023256" />
+      <edge id="20" source="hierarchy" target="highway" weight="0.009434" />
+      <edge id="21" source="hierarchy" target="hiding" weight="0.007353" />
+      <edge id="22" source="hind" target="hinder" weight="0.033613" />
+      <edge id="23" source="hind" target="hidebound" weight="0.009009" />
+      <edge id="24" source="hind" target="hindmost" weight="0.196429" />
+      <edge id="25" source="hind" target="hinterland" weight="0.019802" />
+      <edge id="26" source="hind" target="hike" weight="0.006369" />
+      <edge id="27" source="hind" target="high" weight="0.002358" />
+      <edge id="28" source="hind" target="hick" weight="0.010638" />
+      <edge id="29" source="hillbilly" target="hick" weight="0.210526" />
+      <edge id="30" source="hitch" target="hinder" weight="0.011194" />
+      <edge id="31" source="hitch" target="hinge" weight="0.145161" />
+      <edge id="32" source="hitch" target="hightail" weight="0.023585" />
+      <edge id="33" source="hitch" target="hinterland" weight="0.004" />
+      <edge id="34" source="hitch" target="hide" weight="0.006349" />
+      <edge id="35" source="hitch" target="highball" weight="0.0181" />
+      <edge id="36" source="hitch" target="hindrance" weight="0.042017" />
+      <edge id="37" source="hitch" target="hiatus" weight="0.007937" />
+      <edge id="38" source="hitch" target="hive" weight="0.01083" />
+      <edge id="39" source="hitch" target="hike" weight="0.030303" />
+      <edge id="40" source="hitch" target="high" weight="0.003503" />
+      <edge id="41" source="hitch" target="hippodrome" weight="0.004274" />
+      <edge id="42" source="hitch" target="hickey" weight="0.008032" />
+      <edge id="43" source="hitch" target="hie" weight="0.021368" />
+      <edge id="44" source="hitch" target="hill" weight="0.018116" />
+      <edge id="45" source="hitch" target="hiss" weight="0.003257" />
+      <edge id="46" source="hitch" target="hit" weight="0.030501" />
+      <edge id="47" source="hitch" target="hieroglyphic" weight="0.004115" />
+      <edge id="48" source="hitch" target="highway" weight="0.00431" />
+      <edge id="49" source="hitch" target="history" weight="0.004098" />
+      <edge id="50" source="high" target="higher" weight="0.015" />
+      <edge id="51" source="high" target="hit" weight="0.004608" />
+      <edge id="52" source="high" target="hissing" weight="0.004425" />
+      <edge id="53" source="high" target="hidebound" weight="0.009153" />
+      <edge id="54" source="high" target="hint" weight="0.001852" />
+      <edge id="55" source="high" target="hiemal" weight="0.004762" />
+      <edge id="56" source="high" target="hibernal" weight="0.004762" />
+      <edge id="57" source="high" target="hiss" weight="0.002049" />
+      <edge id="58" source="high" target="highbrow" weight="0.002577" />
+      <edge id="59" source="high" target="hideous" weight="0.016706" />
+      <edge id="60" source="high" target="hilarity" weight="0.002433" />
+      <edge id="61" source="high" target="hill" weight="0.002169" />
+      <edge id="62" source="high" target="hinder" weight="0.002217" />
+      <edge id="63" source="high" target="hippo" weight="0.002564" />
+      <edge id="64" source="high" target="hindmost" weight="0.002532" />
+      <edge id="65" source="high" target="hieroglyphic" weight="0.002358" />
+      <edge id="66" source="high" target="highfalutin" weight="0.021277" />
+      <edge id="67" source="high" target="hilarious" weight="0.004831" />
+      <edge id="68" source="high" target="highest" weight="0.018947" />
+      <edge id="69" source="high" target="hidden" weight="0.002237" />
+      <edge id="70" source="high" target="hinterland" weight="0.00232" />
+      <edge id="71" source="high" target="highroad" weight="0.002415" />
+      <edge id="72" source="high" target="hike" weight="0.006198" />
+      <edge id="73" source="high" target="hive" weight="0.002174" />
+      <edge id="74" source="high" target="hinge" weight="0.002155" />
+      <edge id="75" source="high" target="highway" weight="0.002421" />
+      <edge id="76" source="high" target="highlight" weight="0.002217" />
+      <edge id="77" source="high" target="hillocky" weight="0.002571" />
+      <edge id="78" source="hirsute" target="highfalutin" weight="0.012658" />
+      <edge id="79" source="hieroglyphic" target="hinge" weight="0.007407" />
+      <edge id="80" source="hieroglyphic" target="histrionics" weight="0.012987" />
+      <edge id="81" source="hieroglyphic" target="hint" weight="0.004739" />
+      <edge id="82" source="hieroglyphic" target="hit" weight="0.006192" />
+      <edge id="83" source="hippodrome" target="hinterland" weight="0.119048" />
+      <edge id="84" source="hippodrome" target="highroad" weight="0.013158" />
+      <edge id="85" source="hippodrome" target="hike" weight="0.006757" />
+      <edge id="86" source="hippodrome" target="hie" weight="0.012346" />
+      <edge id="87" source="hippodrome" target="highway" weight="0.013333" />
+      <edge id="88" source="hindsight" target="hint" weight="0.005682" />
+      <edge id="89" source="hindsight" target="hit" weight="0.006944" />
+      <edge id="90" source="hindsight" target="history" weight="0.016393" />
+      <edge id="91" source="highfalutin" target="hideous" weight="0.009709" />
+      <edge id="92" source="hissing" target="hickey" weight="0.007634" />
+      <edge id="93" source="hissing" target="hit" weight="0.002833" />
+      <edge id="94" source="hissing" target="hiss" weight="0.235294" />
+      <edge id="95" source="hissing" target="hiccup" weight="0.09434" />
+      <edge id="96" source="hissing" target="highball" weight="0.029126" />
+      <edge id="97" source="hissing" target="hilarious" weight="0.008696" />
+      <edge id="98" source="hissing" target="hilarity" weight="0.018182" />
+      <edge id="99" source="hierarchic" target="hidden" weight="0.012048" />
+      <edge id="100" source="hick" target="hippo" weight="0.016667" />
+      <edge id="101" source="hitherto" target="historically" weight="0.347826" />
+      <edge id="102" source="hitherto" target="history" weight="0.016129" />
+      <edge id="103" source="hidebound" target="highlight" weight="0.007246" />
+      <edge id="104" source="hidebound" target="hidden" weight="0.007463" />
+      <edge id="105" source="hidebound" target="hiemal" weight="0.009259" />
+      <edge id="106" source="hickey" target="highway" weight="0.010989" />
+      <edge id="107" source="hide" target="hippo" weight="0.007463" />
+      <edge id="108" source="hide" target="hibernate" weight="0.007692" />
+      <edge id="109" source="hide" target="hideaway" weight="0.020408" />
+      <edge id="110" source="hide" target="hie" weight="0.012346" />
+      <edge id="111" source="hide" target="hidden" weight="0.015873" />
+      <edge id="112" source="hide" target="highest" weight="0.004405" />
+      <edge id="113" source="hide" target="hideous" weight="0.005917" />
+      <edge id="114" source="hibernal" target="hiemal" weight="0.956522" />
+      <edge id="115" source="hint" target="hire" weight="0.004762" />
+      <edge id="116" source="hint" target="hiccup" weight="0.00495" />
+      <edge id="117" source="hint" target="hie" weight="0.004854" />
+      <edge id="118" source="hint" target="highlight" weight="0.116822" />
+      <edge id="119" source="hint" target="highway" weight="0.005" />
+      <edge id="120" source="hillock" target="hike" weight="0.008065" />
+      <edge id="121" source="hillock" target="hideous" weight="0.015873" />
+      <edge id="122" source="hiemal" target="hightail" weight="0.015385" />
+      <edge id="123" source="hiemal" target="hive" weight="0.007813" />
+      <edge id="124" source="hiemal" target="hiss" weight="0.00641" />
+      <edge id="125" source="highball" target="hike" weight="0.007246" />
+      <edge id="126" source="highball" target="hinterland" weight="0.012048" />
+      <edge id="127" source="highball" target="hie" weight="0.028571" />
+      <edge id="128" source="hill" target="hippo" weight="0.010204" />
+      <edge id="129" source="hill" target="hibernate" weight="0.010638" />
+      <edge id="130" source="hill" target="hike" weight="0.020942" />
+      <edge id="131" source="hill" target="hie" weight="0.007874" />
+      <edge id="132" source="hill" target="highest" weight="0.005236" />
+      <edge id="133" source="hill" target="hideous" weight="0.007519" />
+      <edge id="134" source="hiss" target="hike" weight="0.004525" />
+      <edge id="135" source="hiss" target="hiccup" weight="0.094203" />
+      <edge id="136" source="hiss" target="highlight" weight="0.005376" />
+      <edge id="137" source="hiss" target="hilarity" weight="0.027972" />
+      <edge id="138" source="hidden" target="highroad" weight="0.009259" />
+      <edge id="139" source="hidden" target="hideaway" weight="0.010101" />
+      <edge id="140" source="hidden" target="hiding" weight="0.007299" />
+      <edge id="141" source="hidden" target="hideout" weight="0.01" />
+      <edge id="142" source="hidden" target="highway" weight="0.009346" />
+      <edge id="143" source="hidden" target="higher" weight="0.010101" />
+      <edge id="144" source="hideout" target="hideaway" weight="0.903226" />
+      <edge id="145" source="hideous" target="hit" weight="0.006173" />
+      <edge id="146" source="hilarity" target="hiccup" weight="0.013699" />
+      <edge id="147" source="higher" target="highest" weight="0.054264" />
+      <edge id="148" source="hinder" target="hibernate" weight="0.011905" />
+      <edge id="149" source="hinder" target="hike" weight="0.005435" />
+      <edge id="150" source="hinder" target="hinterland" weight="0.015625" />
+      <edge id="151" source="hinder" target="highest" weight="0.005525" />
+      <edge id="152" source="hinder" target="highway" weight="0.009009" />
+      <edge id="153" source="hindmost" target="hike" weight="0.007813" />
+      <edge id="154" source="hindmost" target="highest" weight="0.008" />
+      <edge id="155" source="hindmost" target="hinterland" weight="0.027778" />
+      <edge id="156" source="hibernate" target="hinge" weight="0.010309" />
+      <edge id="157" source="hibernate" target="hindrance" weight="0.016393" />
+      <edge id="158" source="hit" target="hire" weight="0.006211" />
+      <edge id="159" source="hit" target="hinterland" weight="0.003021" />
+      <edge id="160" source="hit" target="hideaway" weight="0.003279" />
+      <edge id="161" source="hit" target="hike" weight="0.005195" />
+      <edge id="162" source="hit" target="hireling" weight="0.003472" />
+      <edge id="163" source="hit" target="hiccup" weight="0.006369" />
+      <edge id="164" source="hit" target="hie" weight="0.015873" />
+      <edge id="165" source="hit" target="highlight" weight="0.008596" />
+      <edge id="166" source="hit" target="highest" weight="0.002611" />
+      <edge id="167" source="hit" target="hijack" weight="0.003472" />
+      <edge id="168" source="hijacking" target="hike" weight="0.008621" />
+      <edge id="169" source="hijacking" target="hijack" weight="0.055556" />
+      <edge id="170" source="hijacking" target="hindrance" weight="0.017241" />
+      <edge id="171" source="hideaway" target="hiatus" weight="0.011628" />
+      <edge id="172" source="hideaway" target="hiding" weight="0.28" />
+      <edge id="173" source="hireling" target="hiccup" weight="0.02" />
+      <edge id="174" source="hireling" target="hired" weight="0.043478" />
+      <edge id="175" source="hightail" target="hike" weight="0.007692" />
+      <edge id="176" source="hightail" target="hie" weight="0.032258" />
+      <edge id="177" source="hiccup" target="hike" weight="0.013605" />
+      <edge id="178" source="hiccup" target="highlight" weight="0.00885" />
+      <edge id="179" source="hired" target="hire" weight="0.035088" />
+      <edge id="180" source="hie" target="hire" weight="0.011236" />
+      <edge id="181" source="hie" target="hive" weight="0.016" />
+      <edge id="182" source="hie" target="hinge" weight="0.015504" />
+      <edge id="183" source="hie" target="histrionics" weight="0.013889" />
+      <edge id="184" source="hie" target="history" weight="0.010989" />
+      <edge id="185" source="hippy" target="hillocky" weight="0.08" />
+      <edge id="186" source="highest" target="hinge" weight="0.005155" />
+      <edge id="187" source="highest" target="hindrance" weight="0.006329" />
+      <edge id="188" source="highest" target="hiding" weight="0.00578" />
+      <edge id="189" source="highest" target="history" weight="0.006452" />
+      <edge id="190" source="hire" target="highlight" weight="0.008264" />
+      <edge id="191" source="hinterland" target="highroad" weight="0.01087" />
+      <edge id="192" source="hinterland" target="hike" weight="0.006098" />
+      <edge id="193" source="hinterland" target="hiatus" weight="0.008929" />
+      <edge id="194" source="hinterland" target="highway" weight="0.010989" />
+      <edge id="195" source="hinterland" target="history" weight="0.009709" />
+      <edge id="196" source="histrionics" target="highlight" weight="0.039604" />
+      <edge id="197" source="histrionics" target="hike" weight="0.007194" />
+      <edge id="198" source="highroad" target="highway" weight="0.744186" />
+      <edge id="199" source="hike" target="hiatus" weight="0.012048" />
+      <edge id="200" source="hike" target="hive" weight="0.005181" />
+      <edge id="201" source="hike" target="hinge" weight="0.005076" />
+      <edge id="202" source="hike" target="highlight" weight="0.010929" />
+      <edge id="203" source="hike" target="hijack" weight="0.008264" />
+      <edge id="204" source="hike" target="hillocky" weight="0.016529" />
+      <edge id="205" source="highlight" target="history" weight="0.00813" />
+    </edges>
+  </graph>
+</gexf>

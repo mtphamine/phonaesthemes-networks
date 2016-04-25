@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="illness" label="illness">
+        <attvalues>
+          <attvalue for="0" value="4.10819280514" />
+        </attvalues>
+      </node>
+      <node id="illuminate" label="illuminate">
+        <attvalues>
+          <attvalue for="0" value="3.17926446434" />
+        </attvalues>
+      </node>
+      <node id="illumination" label="illumination" />
+      <node id="illustrate" label="illustrate" />
+      <node id="illogical" label="illogical" />
+      <node id="illegal" label="illegal">
+        <attvalues>
+          <attvalue for="0" value="4.27964413387" />
+        </attvalues>
+      </node>
+      <node id="illusory" label="illusory" />
+      <node id="illustrious" label="illustrious">
+        <attvalues>
+          <attvalue for="0" value="2.74507479158" />
+        </attvalues>
+      </node>
+      <node id="illiberal" label="illiberal" />
+      <node id="illusion" label="illusion">
+        <attvalues>
+          <attvalue for="0" value="3.67154308526" />
+        </attvalues>
+      </node>
+      <node id="illiterate" label="illiterate" />
+      <node id="illusionist" label="illusionist">
+        <attvalues>
+          <attvalue for="0" value="2.28555730901" />
+        </attvalues>
+      </node>
+      <node id="illustration" label="illustration" />
+      <node id="illuminating" label="illuminating">
+        <attvalues>
+          <attvalue for="0" value="3.13608609738" />
+        </attvalues>
+      </node>
+      <node id="illuminant" label="illuminant" />
+      <node id="illusive" label="illusive" />
+      <node id="illustrative" label="illustrative">
+        <attvalues>
+          <attvalue for="0" value="2.78390357927" />
+        </attvalues>
+      </node>
+      <node id="illegality" label="illegality">
+        <attvalues>
+          <attvalue for="0" value="2.32837960344" />
+        </attvalues>
+      </node>
+      <node id="ill" label="ill">
+        <attvalues>
+          <attvalue for="0" value="4.18167212207" />
+        </attvalues>
+      </node>
+      <node id="ilk" label="ilk" />
+      <node id="illegitimate" label="illegitimate">
+        <attvalues>
+          <attvalue for="0" value="3.04414762088" />
+        </attvalues>
+      </node>
+      <node id="illicit" label="illicit" />
+    </nodes>
+    <edges>
+      <edge id="0" source="illness" target="ill" weight="0.100917" />
+      <edge id="1" source="illness" target="illegality" weight="0.022727" />
+      <edge id="2" source="illuminate" target="illusionist" weight="0.007194" />
+      <edge id="3" source="illuminate" target="ilk" weight="0.027174" />
+      <edge id="4" source="illuminate" target="illustration" weight="0.023148" />
+      <edge id="5" source="illuminate" target="illegitimate" weight="0.005319" />
+      <edge id="6" source="illuminate" target="illuminant" weight="0.006211" />
+      <edge id="7" source="illuminate" target="illumination" weight="0.034483" />
+      <edge id="8" source="illuminate" target="illiberal" weight="0.006024" />
+      <edge id="9" source="illuminate" target="illusion" weight="0.005208" />
+      <edge id="10" source="illuminate" target="illustrate" weight="0.212903" />
+      <edge id="11" source="illumination" target="illuminating" weight="0.008696" />
+      <edge id="12" source="illustrate" target="illusionist" weight="0.011765" />
+      <edge id="13" source="illustrate" target="illusion" weight="0.007246" />
+      <edge id="14" source="illogical" target="illegitimate" weight="0.044643" />
+      <edge id="15" source="illogical" target="illegal" weight="0.026549" />
+      <edge id="16" source="illogical" target="ill" weight="0.028777" />
+      <edge id="17" source="illogical" target="illegality" weight="0.014925" />
+      <edge id="18" source="illogical" target="illusion" weight="0.008333" />
+      <edge id="19" source="illegal" target="illegality" weight="0.011765" />
+      <edge id="20" source="illegal" target="ill" weight="0.032051" />
+      <edge id="21" source="illegal" target="illusory" weight="0.019355" />
+      <edge id="22" source="illegal" target="illegitimate" weight="0.205357" />
+      <edge id="23" source="illegal" target="illicit" weight="0.485294" />
+      <edge id="24" source="illegal" target="illusion" weight="0.007246" />
+      <edge id="25" source="illusory" target="illegality" weight="0.009174" />
+      <edge id="26" source="illusory" target="illustrious" weight="0.008772" />
+      <edge id="27" source="illusory" target="ill" weight="0.016484" />
+      <edge id="28" source="illusory" target="illusionist" weight="0.009174" />
+      <edge id="29" source="illusory" target="illegitimate" weight="0.039216" />
+      <edge id="30" source="illusory" target="illusion" weight="0.01875" />
+      <edge id="31" source="illustrious" target="illusive" weight="0.014085" />
+      <edge id="32" source="illustrious" target="illuminant" weight="0.048387" />
+      <edge id="33" source="illusion" target="illegality" weight="0.011111" />
+      <edge id="34" source="illusion" target="ill" weight="0.006061" />
+      <edge id="35" source="illusion" target="illusionist" weight="0.034091" />
+      <edge id="36" source="illusion" target="ilk" weight="0.007194" />
+      <edge id="37" source="illusion" target="illustration" weight="0.005848" />
+      <edge id="38" source="illusion" target="illusive" weight="0.016949" />
+      <edge id="39" source="illiterate" target="ill" weight="0.007813" />
+      <edge id="40" source="illusionist" target="illusive" weight="0.015152" />
+      <edge id="41" source="illustration" target="illustrative" weight="0.00813" />
+      <edge id="42" source="illuminating" target="illustrative" weight="0.186047" />
+      <edge id="43" source="illuminant" target="illustrative" weight="0.015625" />
+      <edge id="44" source="illusive" target="illegitimate" weight="0.026549" />
+      <edge id="45" source="illegality" target="ill" weight="0.008929" />
+      <edge id="46" source="illegitimate" target="illicit" weight="0.291139" />
+    </edges>
+  </graph>
+</gexf>

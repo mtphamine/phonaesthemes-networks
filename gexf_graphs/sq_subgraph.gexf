@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="squall" label="squall" />
+      <node id="squawk" label="squawk" />
+      <node id="square" label="square" />
+      <node id="squish" label="squish" />
+      <node id="squeal" label="squeal" />
+      <node id="squeeze" label="squeeze" />
+      <node id="squelchy" label="squelchy" />
+      <node id="squash" label="squash" />
+      <node id="squaring" label="squaring" />
+      <node id="squeak" label="squeak" />
+      <node id="squat" label="squat" />
+      <node id="squeezing" label="squeezing" />
+      <node id="squab" label="squab" />
+      <node id="squishy" label="squishy" />
+      <node id="squarely" label="squarely" />
+      <node id="squadron" label="squadron" />
+      <node id="squad" label="squad" />
+      <node id="squelch" label="squelch" />
+      <node id="squashy" label="squashy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="squall" target="squeak" />
+      <edge id="1" source="squall" target="squawk" />
+      <edge id="2" source="squall" target="squeal" />
+      <edge id="3" source="squawk" target="squeak" />
+      <edge id="4" source="squawk" target="squeal" />
+      <edge id="5" source="square" target="squaring" />
+      <edge id="6" source="square" target="squarely" />
+      <edge id="7" source="square" target="squat" />
+      <edge id="8" source="squish" target="squelch" />
+      <edge id="9" source="squish" target="squeeze" />
+      <edge id="10" source="squish" target="squab" />
+      <edge id="11" source="squish" target="squash" />
+      <edge id="12" source="squeal" target="squeak" />
+      <edge id="13" source="squeeze" target="squeezing" />
+      <edge id="14" source="squeeze" target="squab" />
+      <edge id="15" source="squeeze" target="squash" />
+      <edge id="16" source="squelchy" target="squashy" />
+      <edge id="17" source="squelchy" target="squishy" />
+      <edge id="18" source="squash" target="squelch" />
+      <edge id="19" source="squash" target="squab" />
+      <edge id="20" source="squishy" target="squashy" />
+      <edge id="21" source="squadron" target="squad" />
+    </edges>
+  </graph>
+</gexf>

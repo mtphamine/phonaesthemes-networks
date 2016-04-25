@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="operant" label="operant" />
+      <node id="openhanded" label="openhanded" />
+      <node id="operator" label="operator" />
+      <node id="operation" label="operation" />
+      <node id="open" label="open" />
+      <node id="operative" label="operative" />
+      <node id="optimum" label="optimum" />
+      <node id="opposite" label="opposite" />
+      <node id="operose" label="operose" />
+      <node id="operational" label="operational" />
+      <node id="opus" label="opus" />
+      <node id="opposed" label="opposed" />
+      <node id="optimal" label="optimal" />
+      <node id="openhearted" label="openhearted" />
+      <node id="opponent" label="opponent" />
+      <node id="oppressive" label="oppressive" />
+      <node id="opening" label="opening" />
+      <node id="opposing" label="opposing" />
+      <node id="operating" label="operating" />
+      <node id="opposition" label="opposition" />
+      <node id="opportunity" label="opportunity" />
+      <node id="operetta" label="operetta" />
+      <node id="opium" label="opium" />
+      <node id="opera" label="opera" />
+      <node id="opiate" label="opiate" />
+      <node id="oppose" label="oppose" />
+      <node id="oppugn" label="oppugn" />
+      <node id="oppositional" label="oppositional" />
+    </nodes>
+    <edges>
+      <edge id="0" source="operant" target="operator" />
+      <edge id="1" source="operant" target="operative" />
+      <edge id="2" source="openhanded" target="openhearted" />
+      <edge id="3" source="openhanded" target="open" />
+      <edge id="4" source="operator" target="operative" />
+      <edge id="5" source="operation" target="operative" />
+      <edge id="6" source="open" target="openhearted" />
+      <edge id="7" source="operative" target="operational" />
+      <edge id="8" source="optimum" target="optimal" />
+      <edge id="9" source="opposite" target="opposing" />
+      <edge id="10" source="opposite" target="oppositional" />
+      <edge id="11" source="opposite" target="opposed" />
+      <edge id="12" source="opposite" target="opponent" />
+      <edge id="13" source="operose" target="oppressive" />
+      <edge id="14" source="operational" target="operating" />
+      <edge id="15" source="opus" target="opera" />
+      <edge id="16" source="opposed" target="opposing" />
+      <edge id="17" source="opposed" target="oppositional" />
+      <edge id="18" source="opposed" target="opponent" />
+      <edge id="19" source="opponent" target="opposing" />
+      <edge id="20" source="opponent" target="oppositional" />
+      <edge id="21" source="opening" target="opportunity" />
+      <edge id="22" source="opposing" target="oppositional" />
+      <edge id="23" source="opposing" target="opposition" />
+      <edge id="24" source="operetta" target="opera" />
+      <edge id="25" source="opium" target="opiate" />
+      <edge id="26" source="oppose" target="oppugn" />
+    </edges>
+  </graph>
+</gexf>

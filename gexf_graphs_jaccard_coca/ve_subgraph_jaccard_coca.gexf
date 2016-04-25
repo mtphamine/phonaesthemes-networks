@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="vermin" label="vermin">
+        <attvalues>
+          <attvalue for="0" value="2.57634135021" />
+        </attvalues>
+      </node>
+      <node id="vermilion" label="vermilion">
+        <attvalues>
+          <attvalue for="0" value="2.51982799378" />
+        </attvalues>
+      </node>
+      <node id="venery" label="venery" />
+      <node id="versification" label="versification" />
+      <node id="ventilator" label="ventilator">
+        <attvalues>
+          <attvalue for="0" value="2.71180722904" />
+        </attvalues>
+      </node>
+      <node id="vet" label="vet">
+        <attvalues>
+          <attvalue for="0" value="3.31993843998" />
+        </attvalues>
+      </node>
+      <node id="ventilate" label="ventilate">
+        <attvalues>
+          <attvalue for="0" value="2.01283722471" />
+        </attvalues>
+      </node>
+      <node id="vetch" label="vetch">
+        <attvalues>
+          <attvalue for="0" value="1.88649072517" />
+        </attvalues>
+      </node>
+      <node id="vex" label="vex" />
+      <node id="verse" label="verse">
+        <attvalues>
+          <attvalue for="0" value="3.49637605401" />
+        </attvalues>
+      </node>
+      <node id="verso" label="verso" />
+      <node id="verity" label="verity">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="versus" label="versus" />
+      <node id="very" label="very" />
+      <node id="venire" label="venire" />
+      <node id="veering" label="veering">
+        <attvalues>
+          <attvalue for="0" value="2.52891670028" />
+        </attvalues>
+      </node>
+      <node id="verbosity" label="verbosity" />
+      <node id="ventilation" label="ventilation">
+        <attvalues>
+          <attvalue for="0" value="3.22659990521" />
+        </attvalues>
+      </node>
+      <node id="vestal" label="vestal" />
+      <node id="verdict" label="verdict">
+        <attvalues>
+          <attvalue for="0" value="3.78182715293" />
+        </attvalues>
+      </node>
+      <node id="vexation" label="vexation" />
+      <node id="veracious" label="veracious" />
+      <node id="veritable" label="veritable" />
+      <node id="verifiable" label="verifiable" />
+      <node id="verbal" label="verbal" />
+      <node id="veracity" label="veracity" />
+      <node id="veld" label="veld" />
+      <node id="velvety" label="velvety" />
+      <node id="venerate" label="venerate">
+        <attvalues>
+          <attvalue for="0" value="1.89762709129" />
+        </attvalues>
+      </node>
+      <node id="vesper" label="vesper">
+        <attvalues>
+          <attvalue for="0" value="1.89762709129" />
+        </attvalues>
+      </node>
+      <node id="vengeance" label="vengeance" />
+      <node id="vertigo" label="vertigo">
+        <attvalues>
+          <attvalue for="0" value="2.94349451591" />
+        </attvalues>
+      </node>
+      <node id="velvet" label="velvet" />
+      <node id="vehement" label="vehement">
+        <attvalues>
+          <attvalue for="0" value="2.53655844257" />
+        </attvalues>
+      </node>
+      <node id="venturesome" label="venturesome" />
+      <node id="verbalize" label="verbalize" />
+      <node id="venom" label="venom" />
+      <node id="version" label="version" />
+      <node id="vestibule" label="vestibule">
+        <attvalues>
+          <attvalue for="0" value="2.85491302231" />
+        </attvalues>
+      </node>
+      <node id="verbiage" label="verbiage" />
+      <node id="vertical" label="vertical">
+        <attvalues>
+          <attvalue for="0" value="3.82052984852" />
+        </attvalues>
+      </node>
+      <node id="veto" label="veto" />
+      <node id="vestment" label="vestment" />
+      <node id="vegetarianism" label="vegetarianism" />
+      <node id="venomous" label="venomous">
+        <attvalues>
+          <attvalue for="0" value="2.59879050676" />
+        </attvalues>
+      </node>
+      <node id="vestige" label="vestige" />
+      <node id="veer" label="veer">
+        <attvalues>
+          <attvalue for="0" value="2.79795964374" />
+        </attvalues>
+      </node>
+      <node id="vegetarian" label="vegetarian" />
+      <node id="venerative" label="venerative" />
+      <node id="vent" label="vent">
+        <attvalues>
+          <attvalue for="0" value="3.32715451241" />
+        </attvalues>
+      </node>
+      <node id="verdure" label="verdure" />
+      <node id="verbose" label="verbose">
+        <attvalues>
+          <attvalue for="0" value="1.77085201164" />
+        </attvalues>
+      </node>
+      <node id="verge" label="verge" />
+      <node id="vessel" label="vessel">
+        <attvalues>
+          <attvalue for="0" value="3.74826557267" />
+        </attvalues>
+      </node>
+      <node id="vetoed" label="vetoed">
+        <attvalues>
+          <attvalue for="0" value="3.04060234011" />
+        </attvalues>
+      </node>
+      <node id="vertebrate" label="vertebrate">
+        <attvalues>
+          <attvalue for="0" value="2.69019608003" />
+        </attvalues>
+      </node>
+      <node id="vehemence" label="vehemence">
+        <attvalues>
+          <attvalue for="0" value="2.44560420327" />
+        </attvalues>
+      </node>
+      <node id="vehicle" label="vehicle" />
+      <node id="veneer" label="veneer">
+        <attvalues>
+          <attvalue for="0" value="2.91115760874" />
+        </attvalues>
+      </node>
+      <node id="verbatim" label="verbatim" />
+      <node id="vested" label="vested">
+        <attvalues>
+          <attvalue for="0" value="3.1152775914" />
+        </attvalues>
+      </node>
+      <node id="vesicle" label="vesicle">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="veridical" label="veridical">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="venal" label="venal" />
+      <node id="versatility" label="versatility" />
+      <node id="versatile" label="versatile" />
+      <node id="vestry" label="vestry" />
+      <node id="verdant" label="verdant">
+        <attvalues>
+          <attvalue for="0" value="2.69983772587" />
+        </attvalues>
+      </node>
+      <node id="veiled" label="veiled" />
+      <node id="vendetta" label="vendetta">
+        <attvalues>
+          <attvalue for="0" value="2.55144999797" />
+        </attvalues>
+      </node>
+      <node id="vermicide" label="vermicide">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="verification" label="verification" />
+      <node id="venture" label="venture" />
+      <node id="vexatious" label="vexatious" />
+      <node id="vernal" label="vernal">
+        <attvalues>
+          <attvalue for="0" value="2.29666519026" />
+        </attvalues>
+      </node>
+      <node id="vegetate" label="vegetate">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="vest" label="vest" />
+      <node id="vector" label="vector" />
+      <node id="verisimilar" label="verisimilar">
+        <attvalues>
+          <attvalue for="0" value="1.11394335231" />
+        </attvalues>
+      </node>
+      <node id="verify" label="verify">
+        <attvalues>
+          <attvalue for="0" value="3.39707054996" />
+        </attvalues>
+      </node>
+      <node id="veteran" label="veteran">
+        <attvalues>
+          <attvalue for="0" value="4.0679630895" />
+        </attvalues>
+      </node>
+      <node id="vesicular" label="vesicular">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="venison" label="venison" />
+      <node id="vegetable" label="vegetable" />
+      <node id="vegetation" label="vegetation">
+        <attvalues>
+          <attvalue for="0" value="3.57840997033" />
+        </attvalues>
+      </node>
+      <node id="venereal" label="venereal">
+        <attvalues>
+          <attvalue for="0" value="2.40312052118" />
+        </attvalues>
+      </node>
+      <node id="venerable" label="venerable" />
+      <node id="vertex" label="vertex">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="vexing" label="vexing">
+        <attvalues>
+          <attvalue for="0" value="2.71516735785" />
+        </attvalues>
+      </node>
+      <node id="venial" label="venial">
+        <attvalues>
+          <attvalue for="0" value="1.7075701761" />
+        </attvalues>
+      </node>
+      <node id="veneration" label="veneration" />
+      <node id="verboten" label="verboten">
+        <attvalues>
+          <attvalue for="0" value="2.03742649794" />
+        </attvalues>
+      </node>
+      <node id="verified" label="verified" />
+      <node id="veil" label="veil">
+        <attvalues>
+          <attvalue for="0" value="3.41161970596" />
+        </attvalues>
+      </node>
+      <node id="vein" label="vein" />
+      <node id="verve" label="verve">
+        <attvalues>
+          <attvalue for="0" value="2.69548167649" />
+        </attvalues>
+      </node>
+      <node id="vernacular" label="vernacular">
+        <attvalues>
+          <attvalue for="0" value="3.06445798923" />
+        </attvalues>
+      </node>
+      <node id="velocity" label="velocity">
+        <attvalues>
+          <attvalue for="0" value="3.46374372125" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="vermin" target="vestige" weight="0.017964" />
+      <edge id="1" source="vermin" target="vegetarian" weight="0.033708" />
+      <edge id="2" source="vermin" target="vertebrate" weight="0.382979" />
+      <edge id="3" source="vermin" target="vex" weight="0.018182" />
+      <edge id="4" source="vermin" target="vesicular" weight="0.016949" />
+      <edge id="5" source="vermin" target="veil" weight="0.007519" />
+      <edge id="6" source="vermin" target="veneer" weight="0.008333" />
+      <edge id="7" source="vermilion" target="vehement" weight="0.039063" />
+      <edge id="8" source="vermilion" target="vetch" weight="0.018868" />
+      <edge id="9" source="vermilion" target="vex" weight="0.010989" />
+      <edge id="10" source="venery" target="venereal" weight="0.016949" />
+      <edge id="11" source="venery" target="vertex" weight="0.010753" />
+      <edge id="12" source="venery" target="vegetation" weight="0.013333" />
+      <edge id="13" source="versification" target="verse" weight="0.006711" />
+      <edge id="14" source="ventilator" target="vent" weight="0.059829" />
+      <edge id="15" source="ventilator" target="ventilate" weight="0.035714" />
+      <edge id="16" source="ventilator" target="verbalize" weight="0.02439" />
+      <edge id="17" source="vet" target="vent" weight="0.007246" />
+      <edge id="18" source="vet" target="venerable" weight="0.008547" />
+      <edge id="19" source="vet" target="veteran" weight="0.113208" />
+      <edge id="20" source="vet" target="ventilation" weight="0.034483" />
+      <edge id="21" source="vet" target="ventilate" weight="0.057971" />
+      <edge id="22" source="vet" target="vehicle" weight="0.007813" />
+      <edge id="23" source="ventilate" target="vent" weight="0.07483" />
+      <edge id="24" source="ventilate" target="vertigo" weight="0.010417" />
+      <edge id="25" source="ventilate" target="velvet" weight="0.009709" />
+      <edge id="26" source="ventilate" target="veer" weight="0.006329" />
+      <edge id="27" source="ventilate" target="veritable" weight="0.008475" />
+      <edge id="28" source="ventilate" target="vesicle" weight="0.007692" />
+      <edge id="29" source="ventilate" target="ventilation" weight="0.067568" />
+      <edge id="30" source="ventilate" target="verbalize" weight="0.085714" />
+      <edge id="31" source="ventilate" target="verse" weight="0.005319" />
+      <edge id="32" source="ventilate" target="verbiage" weight="0.014085" />
+      <edge id="33" source="ventilate" target="venture" weight="0.008621" />
+      <edge id="34" source="ventilate" target="vehicle" weight="0.006803" />
+      <edge id="35" source="ventilate" target="veil" weight="0.007463" />
+      <edge id="36" source="vetch" target="vernal" weight="0.010753" />
+      <edge id="37" source="vetch" target="verdant" weight="0.02439" />
+      <edge id="38" source="vetch" target="vein" weight="0.006369" />
+      <edge id="39" source="vetch" target="vegetate" weight="0.014706" />
+      <edge id="40" source="vex" target="vesicle" weight="0.006623" />
+      <edge id="41" source="verse" target="vent" weight="0.007905" />
+      <edge id="42" source="verse" target="verge" weight="0.008621" />
+      <edge id="43" source="verse" target="verbalize" weight="0.035928" />
+      <edge id="44" source="verse" target="version" weight="0.026432" />
+      <edge id="45" source="verse" target="vehicle" weight="0.00823" />
+      <edge id="46" source="verse" target="verso" weight="0.048485" />
+      <edge id="47" source="verse" target="vestibule" weight="0.005747" />
+      <edge id="48" source="verse" target="vegetation" weight="0.005525" />
+      <edge id="49" source="verse" target="veneer" weight="0.004587" />
+      <edge id="50" source="verse" target="versatility" weight="0.006098" />
+      <edge id="51" source="verse" target="vein" weight="0.00369" />
+      <edge id="52" source="verse" target="vestry" weight="0.006211" />
+      <edge id="53" source="verse" target="vestige" weight="0.003745" />
+      <edge id="54" source="verse" target="veer" weight="0.003922" />
+      <edge id="55" source="verse" target="vehemence" weight="0.003831" />
+      <edge id="56" source="verse" target="ventilation" weight="0.005714" />
+      <edge id="57" source="verse" target="verdict" weight="0.018519" />
+      <edge id="58" source="verse" target="verbiage" weight="0.011976" />
+      <edge id="59" source="verse" target="velocity" weight="0.004854" />
+      <edge id="60" source="verse" target="vexation" weight="0.008584" />
+      <edge id="61" source="verso" target="vent" weight="0.007092" />
+      <edge id="62" source="verso" target="vertical" weight="0.011364" />
+      <edge id="63" source="verso" target="verify" weight="0.014085" />
+      <edge id="64" source="verso" target="vehemence" weight="0.006757" />
+      <edge id="65" source="verso" target="vegetate" weight="0.014493" />
+      <edge id="66" source="verso" target="veneer" weight="0.009524" />
+      <edge id="67" source="verity" target="veracity" weight="0.545455" />
+      <edge id="68" source="versus" target="veneer" weight="0.011765" />
+      <edge id="69" source="very" target="verisimilar" weight="0.011905" />
+      <edge id="70" source="very" target="veridical" weight="0.088889" />
+      <edge id="71" source="very" target="vertical" weight="0.021277" />
+      <edge id="72" source="venire" target="veneer" weight="0.011905" />
+      <edge id="73" source="veering" target="veer" weight="0.034884" />
+      <edge id="74" source="veering" target="vehement" weight="0.005814" />
+      <edge id="75" source="veering" target="vertex" weight="0.008264" />
+      <edge id="76" source="veering" target="venison" weight="0.013158" />
+      <edge id="77" source="veering" target="venomous" weight="0.006993" />
+      <edge id="78" source="veering" target="versatility" weight="0.011628" />
+      <edge id="79" source="veering" target="versatile" weight="0.010753" />
+      <edge id="80" source="verbosity" target="vernacular" weight="0.028846" />
+      <edge id="81" source="verbosity" target="verbose" weight="0.013158" />
+      <edge id="82" source="ventilation" target="vent" weight="0.006944" />
+      <edge id="83" source="ventilation" target="veneration" weight="0.014706" />
+      <edge id="84" source="ventilation" target="verdict" weight="0.018519" />
+      <edge id="85" source="ventilation" target="vehicle" weight="0.015038" />
+      <edge id="86" source="ventilation" target="vestry" weight="0.019608" />
+      <edge id="87" source="vestal" target="vernal" weight="0.072464" />
+      <edge id="88" source="verdict" target="vent" weight="0.007519" />
+      <edge id="89" source="verdict" target="veneration" weight="0.017544" />
+      <edge id="90" source="verdict" target="version" weight="0.009009" />
+      <edge id="91" source="verdict" target="veto" weight="0.027027" />
+      <edge id="92" source="verdict" target="vehemence" weight="0.007143" />
+      <edge id="93" source="verdict" target="verification" weight="0.02" />
+      <edge id="94" source="vexation" target="vendetta" weight="0.007813" />
+      <edge id="95" source="vexation" target="verve" weight="0.006173" />
+      <edge id="96" source="vexation" target="vehement" weight="0.005025" />
+      <edge id="97" source="vexation" target="vexing" weight="0.025641" />
+      <edge id="98" source="vexation" target="vermicide" weight="0.026786" />
+      <edge id="99" source="vexation" target="vehemence" weight="0.014423" />
+      <edge id="100" source="vexation" target="velocity" weight="0.006452" />
+      <edge id="101" source="vexation" target="venomous" weight="0.005882" />
+      <edge id="102" source="vexation" target="vegetation" weight="0.007692" />
+      <edge id="103" source="veracious" target="verisimilar" weight="0.013333" />
+      <edge id="104" source="veracious" target="veridical" weight="0.081081" />
+      <edge id="105" source="veracious" target="vertical" weight="0.011628" />
+      <edge id="106" source="veracious" target="vested" weight="0.038462" />
+      <edge id="107" source="veritable" target="venereal" weight="0.010526" />
+      <edge id="108" source="veritable" target="vent" weight="0.010929" />
+      <edge id="109" source="veritable" target="verisimilar" weight="0.043103" />
+      <edge id="110" source="veritable" target="veer" weight="0.005405" />
+      <edge id="111" source="veritable" target="vertical" weight="0.047619" />
+      <edge id="112" source="veritable" target="vested" weight="0.020619" />
+      <edge id="113" source="veritable" target="veridical" weight="0.049383" />
+      <edge id="114" source="veritable" target="vernacular" weight="0.013423" />
+      <edge id="115" source="verifiable" target="verisimilar" weight="0.015152" />
+      <edge id="116" source="verifiable" target="veridical" weight="0.107143" />
+      <edge id="117" source="verbal" target="verisimilar" weight="0.413793" />
+      <edge id="118" source="verbal" target="verbose" weight="0.016529" />
+      <edge id="119" source="verbal" target="vertical" weight="0.007519" />
+      <edge id="120" source="verbal" target="vehement" weight="0.005495" />
+      <edge id="121" source="verbal" target="veridical" weight="0.048193" />
+      <edge id="122" source="verbal" target="venial" weight="0.011494" />
+      <edge id="123" source="verbal" target="vernacular" weight="0.033784" />
+      <edge id="124" source="verbal" target="vernal" weight="0.007194" />
+      <edge id="125" source="veld" target="vertical" weight="0.019802" />
+      <edge id="126" source="veld" target="veneer" weight="0.008403" />
+      <edge id="127" source="velvety" target="verbose" weight="0.011494" />
+      <edge id="128" source="velvety" target="vertical" weight="0.010204" />
+      <edge id="129" source="venerate" target="veneration" weight="0.152174" />
+      <edge id="130" source="vesper" target="version" weight="0.009259" />
+      <edge id="131" source="vesper" target="veneration" weight="0.018519" />
+      <edge id="132" source="vengeance" target="vendetta" weight="0.073171" />
+      <edge id="133" source="vertigo" target="venomous" weight="0.007752" />
+      <edge id="134" source="vertigo" target="venturesome" weight="0.012048" />
+      <edge id="135" source="vertigo" target="vegetation" weight="0.022727" />
+      <edge id="136" source="velvet" target="vertical" weight="0.017391" />
+      <edge id="137" source="velvet" target="verve" weight="0.007813" />
+      <edge id="138" source="velvet" target="vesicle" weight="0.007042" />
+      <edge id="139" source="velvet" target="vegetate" weight="0.010309" />
+      <edge id="140" source="velvet" target="veil" weight="0.006849" />
+      <edge id="141" source="velvet" target="veneer" weight="0.007519" />
+      <edge id="142" source="vehement" target="venereal" weight="0.007692" />
+      <edge id="143" source="vehement" target="verisimilar" weight="0.006452" />
+      <edge id="144" source="vehement" target="vertical" weight="0.006024" />
+      <edge id="145" source="vehement" target="vexing" weight="0.007407" />
+      <edge id="146" source="vehement" target="venerative" weight="0.024" />
+      <edge id="147" source="vehement" target="verbatim" weight="0.006061" />
+      <edge id="148" source="vehement" target="veridical" weight="0.008403" />
+      <edge id="149" source="vehement" target="vexatious" weight="0.006849" />
+      <edge id="150" source="vehement" target="vegetable" weight="0.005435" />
+      <edge id="151" source="vehement" target="venal" weight="0.007042" />
+      <edge id="152" source="vehement" target="venomous" weight="0.183544" />
+      <edge id="153" source="vehement" target="venturesome" weight="0.007143" />
+      <edge id="154" source="venturesome" target="vertical" weight="0.010989" />
+      <edge id="155" source="verbalize" target="vent" weight="0.051852" />
+      <edge id="156" source="verbalize" target="vesicle" weight="0.008772" />
+      <edge id="157" source="venom" target="vendetta" weight="0.098039" />
+      <edge id="158" source="venom" target="verve" weight="0.006897" />
+      <edge id="159" source="venom" target="vertex" weight="0.007634" />
+      <edge id="160" source="venom" target="vexing" weight="0.009804" />
+      <edge id="161" source="venom" target="vermicide" weight="0.166667" />
+      <edge id="162" source="venom" target="vehemence" weight="0.134503" />
+      <edge id="163" source="venom" target="vesicle" weight="0.006289" />
+      <edge id="164" source="venom" target="venomous" weight="0.006536" />
+      <edge id="165" source="venom" target="vernacular" weight="0.006579" />
+      <edge id="166" source="version" target="verisimilar" weight="0.007299" />
+      <edge id="167" source="version" target="veer" weight="0.00495" />
+      <edge id="168" source="version" target="verify" weight="0.015385" />
+      <edge id="169" source="version" target="vernacular" weight="0.005988" />
+      <edge id="170" source="version" target="vernal" weight="0.006494" />
+      <edge id="171" source="version" target="vegetation" weight="0.007813" />
+      <edge id="172" source="version" target="veneer" weight="0.006061" />
+      <edge id="173" source="vestibule" target="vent" weight="0.006993" />
+      <edge id="174" source="vestibule" target="venture" weight="0.009804" />
+      <edge id="175" source="vestibule" target="vesicle" weight="0.008621" />
+      <edge id="176" source="vestibule" target="verge" weight="0.016529" />
+      <edge id="177" source="vestibule" target="vein" weight="0.00625" />
+      <edge id="178" source="verbiage" target="vernacular" weight="0.050505" />
+      <edge id="179" source="vertical" target="venereal" weight="0.012346" />
+      <edge id="180" source="vertical" target="verified" weight="0.011111" />
+      <edge id="181" source="vertical" target="verbose" weight="0.009434" />
+      <edge id="182" source="vertical" target="veer" weight="0.005848" />
+      <edge id="183" source="vertical" target="vertex" weight="0.035714" />
+      <edge id="184" source="vertical" target="vector" weight="0.036585" />
+      <edge id="185" source="vertical" target="verbatim" weight="0.044643" />
+      <edge id="186" source="vertical" target="veridical" weight="0.044118" />
+      <edge id="187" source="vertical" target="verge" weight="0.006711" />
+      <edge id="188" source="vertical" target="verisimilar" weight="0.009434" />
+      <edge id="189" source="vertical" target="venomous" weight="0.007299" />
+      <edge id="190" source="veto" target="vent" weight="0.007874" />
+      <edge id="191" source="veto" target="veneer" weight="0.010989" />
+      <edge id="192" source="vestment" target="vesicle" weight="0.007299" />
+      <edge id="193" source="vestment" target="veil" weight="0.173554" />
+      <edge id="194" source="vestment" target="veer" weight="0.006061" />
+      <edge id="195" source="vestment" target="veneer" weight="0.02381" />
+      <edge id="196" source="vegetarianism" target="verve" weight="0.01" />
+      <edge id="197" source="venomous" target="vexing" weight="0.009434" />
+      <edge id="198" source="venomous" target="vermicide" weight="0.009901" />
+      <edge id="199" source="venomous" target="vexatious" weight="0.008547" />
+      <edge id="200" source="venomous" target="vegetable" weight="0.006452" />
+      <edge id="201" source="venomous" target="venal" weight="0.00885" />
+      <edge id="202" source="vestige" target="verve" weight="0.005128" />
+      <edge id="203" source="vestige" target="vesicle" weight="0.029412" />
+      <edge id="204" source="vestige" target="vehemence" weight="0.004115" />
+      <edge id="205" source="vestige" target="verify" weight="0.012121" />
+      <edge id="206" source="vestige" target="velocity" weight="0.010695" />
+      <edge id="207" source="vestige" target="veneer" weight="0.005" />
+      <edge id="208" source="vestige" target="veil" weight="0.009434" />
+      <edge id="209" source="vestige" target="vegetate" weight="0.006098" />
+      <edge id="210" source="veer" target="vector" weight="0.014599" />
+      <edge id="211" source="veer" target="verge" weight="0.030303" />
+      <edge id="212" source="veer" target="vent" weight="0.004464" />
+      <edge id="213" source="veer" target="vertex" weight="0.180556" />
+      <edge id="214" source="veer" target="vehemence" weight="0.008696" />
+      <edge id="215" source="veer" target="venture" weight="0.005464" />
+      <edge id="216" source="veer" target="vehicle" weight="0.004673" />
+      <edge id="217" source="veer" target="vesicle" weight="0.010204" />
+      <edge id="218" source="veer" target="velocity" weight="0.017241" />
+      <edge id="219" source="veer" target="vernacular" weight="0.005263" />
+      <edge id="220" source="veer" target="veneer" weight="0.005319" />
+      <edge id="221" source="veer" target="versatility" weight="0.015038" />
+      <edge id="222" source="veer" target="vein" weight="0.008333" />
+      <edge id="223" source="veer" target="vegetate" weight="0.006579" />
+      <edge id="224" source="vegetarian" target="vertebrate" weight="0.046875" />
+      <edge id="225" source="venerative" target="veridical" weight="0.032258" />
+      <edge id="226" source="vent" target="vessel" weight="0.007463" />
+      <edge id="227" source="vent" target="veiled" weight="0.005405" />
+      <edge id="228" source="vent" target="vesicle" weight="0.005102" />
+      <edge id="229" source="vent" target="venture" weight="0.005495" />
+      <edge id="230" source="vent" target="vehicle" weight="0.004695" />
+      <edge id="231" source="vent" target="veil" weight="0.005" />
+      <edge id="232" source="vent" target="vein" weight="0.004167" />
+      <edge id="233" source="verdure" target="vernal" weight="0.014493" />
+      <edge id="234" source="verdure" target="verdant" weight="0.058824" />
+      <edge id="235" source="verdure" target="vegetation" weight="0.047619" />
+      <edge id="236" source="verbose" target="verisimilar" weight="0.010526" />
+      <edge id="237" source="verbose" target="verbatim" weight="0.009524" />
+      <edge id="238" source="verbose" target="venial" weight="0.016667" />
+      <edge id="239" source="verbose" target="vernacular" weight="0.008" />
+      <edge id="240" source="verge" target="vested" weight="0.008621" />
+      <edge id="241" source="verge" target="vesicle" weight="0.02924" />
+      <edge id="242" source="verge" target="vertex" weight="0.02069" />
+      <edge id="243" source="verge" target="vehemence" weight="0.009615" />
+      <edge id="244" source="verge" target="veneer" weight="0.012121" />
+      <edge id="245" source="verge" target="veil" weight="0.005587" />
+      <edge id="246" source="verge" target="vegetate" weight="0.007692" />
+      <edge id="247" source="vessel" target="venture" weight="0.010753" />
+      <edge id="248" source="vetoed" target="venerable" weight="0.009434" />
+      <edge id="249" source="vetoed" target="verboten" weight="0.882353" />
+      <edge id="250" source="vertebrate" target="vesicular" weight="0.029412" />
+      <edge id="251" source="vehemence" target="veneration" weight="0.013072" />
+      <edge id="252" source="vehemence" target="vendetta" weight="0.026316" />
+      <edge id="253" source="vehemence" target="verve" weight="0.180124" />
+      <edge id="254" source="vehemence" target="vertex" weight="0.017341" />
+      <edge id="255" source="vehemence" target="vermicide" weight="0.007092" />
+      <edge id="256" source="vehemence" target="vector" weight="0.006944" />
+      <edge id="257" source="vehemence" target="venture" weight="0.005291" />
+      <edge id="258" source="vehemence" target="vein" weight="0.00813" />
+      <edge id="259" source="vehemence" target="vernacular" weight="0.005102" />
+      <edge id="260" source="vehicle" target="verify" weight="0.006993" />
+      <edge id="261" source="vehicle" target="velocity" weight="0.006061" />
+      <edge id="262" source="vehicle" target="veil" weight="0.026882" />
+      <edge id="263" source="vehicle" target="veneer" weight="0.034884" />
+      <edge id="264" source="veneer" target="venerable" weight="0.006024" />
+      <edge id="265" source="veneer" target="verify" weight="0.008547" />
+      <edge id="266" source="veneer" target="vesicle" weight="0.012579" />
+      <edge id="267" source="veneer" target="venture" weight="0.013793" />
+      <edge id="268" source="veneer" target="veil" weight="0.071429" />
+      <edge id="269" source="veneer" target="vein" weight="0.0199" />
+      <edge id="270" source="veneer" target="vegetate" weight="0.008696" />
+      <edge id="271" source="verbatim" target="venereal" weight="0.0125" />
+      <edge id="272" source="verbatim" target="verisimilar" weight="0.514286" />
+      <edge id="273" source="verbatim" target="veridical" weight="0.09375" />
+      <edge id="274" source="verbatim" target="venial" weight="0.014286" />
+      <edge id="275" source="verbatim" target="vernacular" weight="0.007407" />
+      <edge id="276" source="verbatim" target="vernal" weight="0.008197" />
+      <edge id="277" source="vested" target="vest" weight="0.02439" />
+      <edge id="278" source="vested" target="venerable" weight="0.026316" />
+      <edge id="279" source="vested" target="verified" weight="0.054545" />
+      <edge id="280" source="vested" target="veiled" weight="0.020408" />
+      <edge id="281" source="vesicle" target="verify" weight="0.007937" />
+      <edge id="282" source="vesicle" target="vertex" weight="0.007092" />
+      <edge id="283" source="vesicle" target="verification" weight="0.00885" />
+      <edge id="284" source="vesicle" target="velocity" weight="0.006757" />
+      <edge id="285" source="vesicle" target="veil" weight="0.00578" />
+      <edge id="286" source="vesicle" target="vein" weight="0.014218" />
+      <edge id="287" source="veridical" target="verified" weight="0.1" />
+      <edge id="288" source="veridical" target="verisimilar" weight="0.071429" />
+      <edge id="289" source="verdant" target="vernal" weight="0.181818" />
+      <edge id="290" source="veiled" target="vernacular" weight="0.006623" />
+      <edge id="291" source="veiled" target="veil" weight="0.01875" />
+      <edge id="292" source="vendetta" target="vermicide" weight="0.016949" />
+      <edge id="293" source="vermicide" target="vector" weight="0.020833" />
+      <edge id="294" source="verification" target="verify" weight="0.092308" />
+      <edge id="295" source="verification" target="vernacular" weight="0.009434" />
+      <edge id="296" source="venture" target="verve" weight="0.007092" />
+      <edge id="297" source="venture" target="verify" weight="0.027273" />
+      <edge id="298" source="venture" target="veil" weight="0.012658" />
+      <edge id="299" source="vexatious" target="vexing" weight="0.55814" />
+      <edge id="300" source="vernal" target="verisimilar" weight="0.008929" />
+      <edge id="301" source="vernal" target="vegetable" weight="0.007092" />
+      <edge id="302" source="vernal" target="vein" weight="0.005181" />
+      <edge id="303" source="vernal" target="vernacular" weight="0.007042" />
+      <edge id="304" source="vegetate" target="veteran" weight="0.014085" />
+      <edge id="305" source="vegetate" target="vegetable" weight="0.008621" />
+      <edge id="306" source="vegetate" target="vein" weight="0.005952" />
+      <edge id="307" source="vest" target="vertex" weight="0.013889" />
+      <edge id="308" source="vest" target="verify" weight="0.017544" />
+      <edge id="309" source="vest" target="veil" weight="0.009615" />
+      <edge id="310" source="vector" target="venereal" weight="0.020833" />
+      <edge id="311" source="vector" target="vertex" weight="0.012195" />
+      <edge id="312" source="verisimilar" target="verified" weight="0.012658" />
+      <edge id="313" source="verisimilar" target="venial" weight="0.016667" />
+      <edge id="314" source="verisimilar" target="vernacular" weight="0.008" />
+      <edge id="315" source="verify" target="veil" weight="0.007692" />
+      <edge id="316" source="veteran" target="vegetable" weight="0.009259" />
+      <edge id="317" source="veteran" target="venerable" weight="0.008197" />
+      <edge id="318" source="vesicular" target="vein" weight="0.006993" />
+      <edge id="319" source="venison" target="velocity" weight="0.013333" />
+      <edge id="320" source="venerable" target="vernacular" weight="0.018072" />
+      <edge id="321" source="venerable" target="verboten" weight="0.009434" />
+      <edge id="322" source="vertex" target="vernacular" weight="0.007463" />
+      <edge id="323" source="veil" target="vein" weight="0.013953" />
+      <edge id="324" source="vein" target="verve" weight="0.020408" />
+      <edge id="325" source="vein" target="vernacular" weight="0.004854" />
+      <edge id="326" source="verve" target="velocity" weight="0.007463" />
+    </edges>
+  </graph>
+</gexf>

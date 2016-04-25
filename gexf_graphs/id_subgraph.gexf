@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="idealism" label="idealism" />
+      <node id="ideographic" label="ideographic" />
+      <node id="idyllic" label="idyllic" />
+      <node id="idealistic" label="idealistic" />
+      <node id="idolization" label="idolization" />
+      <node id="idea" label="idea" />
+      <node id="ideation" label="ideation" />
+      <node id="ideal" label="ideal" />
+      <node id="idealization" label="idealization" />
+      <node id="idealist" label="idealist" />
+      <node id="idolatry" label="idolatry" />
+      <node id="ideational" label="ideational" />
+      <node id="idiosyncratic" label="idiosyncratic" />
+    </nodes>
+    <edges>
+      <edge id="0" source="idealism" target="ideal" />
+      <edge id="1" source="idealism" target="idealization" />
+      <edge id="2" source="ideographic" target="idiosyncratic" />
+      <edge id="3" source="idyllic" target="ideal" />
+      <edge id="4" source="idealistic" target="idealist" />
+      <edge id="5" source="idolization" target="idolatry" />
+      <edge id="6" source="idea" target="ideation" />
+      <edge id="7" source="ideal" target="ideational" />
+      <edge id="8" source="ideal" target="idealization" />
+    </edges>
+  </graph>
+</gexf>

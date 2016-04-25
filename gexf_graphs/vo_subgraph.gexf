@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="vocalize" label="vocalize" />
+      <node id="voiced" label="voiced" />
+      <node id="vow" label="vow" />
+      <node id="vote" label="vote" />
+      <node id="voluntary" label="voluntary" />
+      <node id="voiceless" label="voiceless" />
+      <node id="vocable" label="vocable" />
+      <node id="volute" label="volute" />
+      <node id="void" label="void" />
+      <node id="vomiting" label="vomiting" />
+      <node id="volume" label="volume" />
+      <node id="vouch" label="vouch" />
+      <node id="vomit" label="vomit" />
+      <node id="vowel" label="vowel" />
+      <node id="vocalist" label="vocalist" />
+      <node id="volunteer" label="volunteer" />
+      <node id="voice" label="voice" />
+      <node id="vocal" label="vocal" />
+      <node id="vortex" label="vortex" />
+      <node id="voodoo" label="voodoo" />
+      <node id="voodooism" label="voodooism" />
+      <node id="voting" label="voting" />
+    </nodes>
+    <edges>
+      <edge id="0" source="vocalize" target="voice" />
+      <edge id="1" source="voiced" target="voiceless" />
+      <edge id="2" source="voiced" target="vocal" />
+      <edge id="3" source="voiced" target="vowel" />
+      <edge id="4" source="vow" target="vouch" />
+      <edge id="5" source="vote" target="voice" />
+      <edge id="6" source="vote" target="voting" />
+      <edge id="7" source="voluntary" target="volunteer" />
+      <edge id="8" source="voiceless" target="vowel" />
+      <edge id="9" source="vocable" target="voice" />
+      <edge id="10" source="vocable" target="vowel" />
+      <edge id="11" source="volute" target="vortex" />
+      <edge id="12" source="void" target="volume" />
+      <edge id="13" source="vomiting" target="vomit" />
+      <edge id="14" source="vowel" target="vocal" />
+      <edge id="15" source="vowel" target="voice" />
+      <edge id="16" source="vocalist" target="voice" />
+      <edge id="17" source="voice" target="voting" />
+      <edge id="18" source="voodoo" target="voodooism" />
+    </edges>
+  </graph>
+</gexf>

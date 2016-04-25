@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ken" label="ken">
+        <attvalues>
+          <attvalue for="0" value="4.07863803837" />
+        </attvalues>
+      </node>
+      <node id="keynote" label="keynote" />
+      <node id="kept" label="kept" />
+      <node id="kerosene" label="kerosene" />
+      <node id="keeping" label="keeping">
+        <attvalues>
+          <attvalue for="0" value="4.47224435267" />
+        </attvalues>
+      </node>
+      <node id="kernel" label="kernel">
+        <attvalues>
+          <attvalue for="0" value="2.80071707828" />
+        </attvalues>
+      </node>
+      <node id="keenness" label="keenness">
+        <attvalues>
+          <attvalue for="0" value="1.69897000434" />
+        </attvalues>
+      </node>
+      <node id="keys" label="keys" />
+      <node id="keno" label="keno" />
+      <node id="keep" label="keep">
+        <attvalues>
+          <attvalue for="0" value="5.16963917191" />
+        </attvalues>
+      </node>
+      <node id="keen" label="keen" />
+      <node id="keel" label="keel">
+        <attvalues>
+          <attvalue for="0" value="2.85793526472" />
+        </attvalues>
+      </node>
+      <node id="keyhole" label="keyhole" />
+      <node id="key" label="key">
+        <attvalues>
+          <attvalue for="0" value="4.78726205652" />
+        </attvalues>
+      </node>
+      <node id="keyboard" label="keyboard">
+        <attvalues>
+          <attvalue for="0" value="3.56679091238" />
+        </attvalues>
+      </node>
+      <node id="keeper" label="keeper" />
+      <node id="keystone" label="keystone" />
+      <node id="keister" label="keister" />
+      <node id="kedge" label="kedge" />
+      <node id="kennel" label="kennel">
+        <attvalues>
+          <attvalue for="0" value="2.70500795933" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ken" target="keenness" weight="0.019108" />
+      <edge id="1" source="ken" target="keynote" weight="0.006757" />
+      <edge id="2" source="ken" target="keyhole" weight="0.010526" />
+      <edge id="3" source="ken" target="keno" weight="0.011765" />
+      <edge id="4" source="ken" target="keep" weight="0.008982" />
+      <edge id="5" source="keynote" target="keenness" weight="0.00641" />
+      <edge id="6" source="keynote" target="kennel" weight="0.007092" />
+      <edge id="7" source="keynote" target="key" weight="0.042105" />
+      <edge id="8" source="keynote" target="keep" weight="0.003003" />
+      <edge id="9" source="kept" target="keep" weight="0.00369" />
+      <edge id="10" source="kerosene" target="key" weight="0.006494" />
+      <edge id="11" source="keeping" target="keep" weight="0.04451" />
+      <edge id="12" source="kernel" target="keenness" weight="0.006369" />
+      <edge id="13" source="kernel" target="keen" weight="0.002469" />
+      <edge id="14" source="kernel" target="keystone" weight="0.211111" />
+      <edge id="15" source="kernel" target="key" weight="0.015306" />
+      <edge id="16" source="kernel" target="keep" weight="0.002994" />
+      <edge id="17" source="keenness" target="keen" weight="0.007264" />
+      <edge id="18" source="keenness" target="keep" weight="0.002907" />
+      <edge id="19" source="keys" target="keyboard" weight="0.529412" />
+      <edge id="20" source="keep" target="kedge" weight="0.003676" />
+      <edge id="21" source="keep" target="keen" weight="0.003384" />
+      <edge id="22" source="keep" target="keystone" weight="0.00339" />
+      <edge id="23" source="keep" target="key" weight="0.010471" />
+      <edge id="24" source="keep" target="keeper" weight="0.003472" />
+      <edge id="25" source="keep" target="kennel" weight="0.009174" />
+      <edge id="26" source="keen" target="keel" weight="0.005102" />
+      <edge id="27" source="keen" target="key" weight="0.006608" />
+      <edge id="28" source="keen" target="keyboard" weight="0.005865" />
+      <edge id="29" source="keel" target="keister" weight="0.014493" />
+      <edge id="30" source="keel" target="kennel" weight="0.007692" />
+      <edge id="31" source="keel" target="key" weight="0.005376" />
+      <edge id="32" source="key" target="keystone" weight="0.006289" />
+      <edge id="33" source="key" target="kennel" weight="0.005181" />
+    </edges>
+  </graph>
+</gexf>

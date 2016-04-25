@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="clod" label="clod" />
+      <node id="clapper" label="clapper" />
+      <node id="clot" label="clot" />
+      <node id="closefisted" label="closefisted" />
+      <node id="clotted" label="clotted" />
+      <node id="clarinet" label="clarinet" />
+      <node id="clergyman" label="clergyman" />
+      <node id="cloak" label="cloak" />
+      <node id="clipped" label="clipped" />
+      <node id="clamor" label="clamor" />
+      <node id="clouded" label="clouded" />
+      <node id="clan" label="clan" />
+      <node id="clank" label="clank" />
+      <node id="clutches" label="clutches" />
+      <node id="clang" label="clang" />
+      <node id="closely" label="closely" />
+      <node id="clench" label="clench" />
+      <node id="closure" label="closure" />
+      <node id="clutch" label="clutch" />
+      <node id="classified" label="classified" />
+      <node id="cloudy" label="cloudy" />
+      <node id="clay" label="clay" />
+      <node id="cleavage" label="cleavage" />
+      <node id="cloister" label="cloister" />
+      <node id="clap" label="clap" />
+      <node id="clamp" label="clamp" />
+      <node id="clipping" label="clipping" />
+      <node id="classical" label="classical" />
+      <node id="clinch" label="clinch" />
+      <node id="clown" label="clown" />
+      <node id="close" label="close" />
+      <node id="click" label="click" />
+      <node id="clothe" label="clothe" />
+      <node id="climacteric" label="climacteric" />
+      <node id="closemouthed" label="closemouthed" />
+      <node id="closet" label="closet" />
+      <node id="clearing" label="clearing" />
+      <node id="cleanser" label="cleanser" />
+      <node id="closed" label="closed" />
+      <node id="claws" label="claws" />
+      <node id="clerk" label="clerk" />
+      <node id="clarify" label="clarify" />
+      <node id="clique" label="clique" />
+      <node id="cloven" label="cloven" />
+      <node id="climate" label="climate" />
+      <node id="clarion" label="clarion" />
+      <node id="climb" label="climb" />
+      <node id="clump" label="clump" />
+      <node id="clime" label="clime" />
+      <node id="clotheshorse" label="clotheshorse" />
+      <node id="classification" label="classification" />
+      <node id="claim" label="claim" />
+      <node id="clapping" label="clapping" />
+      <node id="clout" label="clout" />
+      <node id="clack" label="clack" />
+      <node id="cloud" label="cloud" />
+      <node id="clever" label="clever" />
+      <node id="cluck" label="cluck" />
+      <node id="clacker" label="clacker" />
+      <node id="cleave" label="cleave" />
+      <node id="clannish" label="clannish" />
+      <node id="cleanse" label="cleanse" />
+      <node id="clubwoman" label="clubwoman" />
+      <node id="closing" label="closing" />
+      <node id="cleaner" label="cleaner" />
+      <node id="clip" label="clip" />
+      <node id="classic" label="classic" />
+      <node id="cliquish" label="cliquish" />
+      <node id="cluster" label="cluster" />
+      <node id="clutter" label="clutter" />
+      <node id="clinging" label="clinging" />
+      <node id="clerical" label="clerical" />
+      <node id="clunk" label="clunk" />
+      <node id="cleansing" label="cleansing" />
+      <node id="cling" label="cling" />
+      <node id="clammy" label="clammy" />
+      <node id="cleft" label="cleft" />
+      <node id="clink" label="clink" />
+      <node id="classify" label="classify" />
+      <node id="cleric" label="cleric" />
+      <node id="clash" label="clash" />
+      <node id="clop" label="clop" />
+      <node id="cleaning" label="cleaning" />
+      <node id="clatter" label="clatter" />
+      <node id="climbing" label="climbing" />
+      <node id="class" label="class" />
+      <node id="clasp" label="clasp" />
+      <node id="classicist" label="classicist" />
+      <node id="clear" label="clear" />
+      <node id="clobber" label="clobber" />
+      <node id="clabber" label="clabber" />
+      <node id="clean" label="clean" />
+      <node id="clearance" label="clearance" />
+    </nodes>
+    <edges>
+      <edge id="0" source="clod" target="clot" />
+      <edge id="1" source="clod" target="clump" />
+      <edge id="2" source="clod" target="clown" />
+      <edge id="3" source="clod" target="clay" />
+      <edge id="4" source="clapper" target="clacker" />
+      <edge id="5" source="clapper" target="clack" />
+      <edge id="6" source="clot" target="cleave" />
+      <edge id="7" source="clot" target="clinch" />
+      <edge id="8" source="clot" target="clown" />
+      <edge id="9" source="clot" target="cluster" />
+      <edge id="10" source="clot" target="clabber" />
+      <edge id="11" source="clot" target="cling" />
+      <edge id="12" source="clot" target="clump" />
+      <edge id="13" source="clot" target="clasp" />
+      <edge id="14" source="closefisted" target="close" />
+      <edge id="15" source="clotted" target="clammy" />
+      <edge id="16" source="clarinet" target="clarion" />
+      <edge id="17" source="clergyman" target="clerk" />
+      <edge id="18" source="clergyman" target="cleric" />
+      <edge id="19" source="cloak" target="cloud" />
+      <edge id="20" source="cloak" target="clothe" />
+      <edge id="21" source="clipped" target="close" />
+      <edge id="22" source="clamor" target="clatter" />
+      <edge id="23" source="clamor" target="clap" />
+      <edge id="24" source="clamor" target="clash" />
+      <edge id="25" source="clouded" target="close" />
+      <edge id="26" source="clouded" target="cloudy" />
+      <edge id="27" source="clan" target="class" />
+      <edge id="28" source="clan" target="clique" />
+      <edge id="29" source="clank" target="clink" />
+      <edge id="30" source="clank" target="clang" />
+      <edge id="31" source="clank" target="clash" />
+      <edge id="32" source="clutches" target="claws" />
+      <edge id="33" source="clang" target="clink" />
+      <edge id="34" source="clang" target="clash" />
+      <edge id="35" source="closely" target="close" />
+      <edge id="36" source="clench" target="clamp" />
+      <edge id="37" source="clench" target="clip" />
+      <edge id="38" source="clench" target="clutch" />
+      <edge id="39" source="clench" target="clinch" />
+      <edge id="40" source="clench" target="cling" />
+      <edge id="41" source="clench" target="clasp" />
+      <edge id="42" source="closure" target="closing" />
+      <edge id="43" source="closure" target="clinch" />
+      <edge id="44" source="clutch" target="clamp" />
+      <edge id="45" source="clutch" target="climacteric" />
+      <edge id="46" source="clutch" target="clip" />
+      <edge id="47" source="clutch" target="clinch" />
+      <edge id="48" source="clutch" target="cluster" />
+      <edge id="49" source="clutch" target="cling" />
+      <edge id="50" source="clutch" target="clasp" />
+      <edge id="51" source="classified" target="close" />
+      <edge id="52" source="classified" target="closed" />
+      <edge id="53" source="cleavage" target="cleft" />
+      <edge id="54" source="cloister" target="closet" />
+      <edge id="55" source="clap" target="clash" />
+      <edge id="56" source="clap" target="clip" />
+      <edge id="57" source="clap" target="clapping" />
+      <edge id="58" source="clap" target="clout" />
+      <edge id="59" source="clap" target="clobber" />
+      <edge id="60" source="clap" target="clatter" />
+      <edge id="61" source="clap" target="close" />
+      <edge id="62" source="clap" target="clump" />
+      <edge id="63" source="clamp" target="clinch" />
+      <edge id="64" source="clamp" target="clasp" />
+      <edge id="65" source="clamp" target="cling" />
+      <edge id="66" source="clipping" target="clip" />
+      <edge id="67" source="classical" target="classic" />
+      <edge id="68" source="clinch" target="cleave" />
+      <edge id="69" source="clinch" target="clip" />
+      <edge id="70" source="clinch" target="cluster" />
+      <edge id="71" source="clinch" target="cling" />
+      <edge id="72" source="clinch" target="clasp" />
+      <edge id="73" source="close" target="clash" />
+      <edge id="74" source="close" target="closemouthed" />
+      <edge id="75" source="close" target="close" />
+      <edge id="76" source="close" target="closing" />
+      <edge id="77" source="close" target="closed" />
+      <edge id="78" source="click" target="clump" />
+      <edge id="79" source="click" target="clink" />
+      <edge id="80" source="click" target="clop" />
+      <edge id="81" source="click" target="clack" />
+      <edge id="82" source="click" target="clunk" />
+      <edge id="83" source="clothe" target="cloud" />
+      <edge id="84" source="clearing" target="cleft" />
+      <edge id="85" source="clearing" target="clearance" />
+      <edge id="86" source="cleanser" target="cleaner" />
+      <edge id="87" source="clerk" target="cleric" />
+      <edge id="88" source="clerk" target="clerical" />
+      <edge id="89" source="clerk" target="classicist" />
+      <edge id="90" source="clarify" target="clear" />
+      <edge id="91" source="clarify" target="cleanse" />
+      <edge id="92" source="clarify" target="clean" />
+      <edge id="93" source="cloven" target="cleft" />
+      <edge id="94" source="climate" target="clime" />
+      <edge id="95" source="clarion" target="clear" />
+      <edge id="96" source="climb" target="climbing" />
+      <edge id="97" source="clump" target="clip" />
+      <edge id="98" source="clump" target="clunk" />
+      <edge id="99" source="clump" target="clout" />
+      <edge id="100" source="clump" target="cluster" />
+      <edge id="101" source="clump" target="clop" />
+      <edge id="102" source="clump" target="clobber" />
+      <edge id="103" source="clump" target="clabber" />
+      <edge id="104" source="clump" target="clink" />
+      <edge id="105" source="clotheshorse" target="clubwoman" />
+      <edge id="106" source="classification" target="class" />
+      <edge id="107" source="claim" target="claim" />
+      <edge id="108" source="clout" target="clobber" />
+      <edge id="109" source="clout" target="clip" />
+      <edge id="110" source="clack" target="clatter" />
+      <edge id="111" source="clack" target="clacker" />
+      <edge id="112" source="clack" target="cluck" />
+      <edge id="113" source="cloud" target="clutter" />
+      <edge id="114" source="cloud" target="cloud" />
+      <edge id="115" source="clever" target="clean" />
+      <edge id="116" source="cleave" target="cluster" />
+      <edge id="117" source="cleave" target="clasp" />
+      <edge id="118" source="cleave" target="cling" />
+      <edge id="119" source="clannish" target="cliquish" />
+      <edge id="120" source="cleanse" target="clean" />
+      <edge id="121" source="clip" target="clasp" />
+      <edge id="122" source="clip" target="cling" />
+      <edge id="123" source="clip" target="clobber" />
+      <edge id="124" source="cluster" target="clabber" />
+      <edge id="125" source="cluster" target="cling" />
+      <edge id="126" source="cluster" target="clasp" />
+      <edge id="127" source="clinging" target="cling" />
+      <edge id="128" source="clerical" target="cleric" />
+      <edge id="129" source="clunk" target="clink" />
+      <edge id="130" source="clunk" target="clop" />
+      <edge id="131" source="cleansing" target="cleaning" />
+      <edge id="132" source="cling" target="clasp" />
+      <edge id="133" source="clink" target="clop" />
+      <edge id="134" source="classify" target="class" />
+      <edge id="135" source="clear" target="clear" />
+      <edge id="136" source="clear" target="clean" />
+      <edge id="137" source="clean" target="clean" />
+    </edges>
+  </graph>
+</gexf>

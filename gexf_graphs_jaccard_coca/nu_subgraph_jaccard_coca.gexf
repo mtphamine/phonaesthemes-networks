@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="nutritious" label="nutritious">
+        <attvalues>
+          <attvalue for="0" value="3.006037955" />
+        </attvalues>
+      </node>
+      <node id="nullity" label="nullity">
+        <attvalues>
+          <attvalue for="0" value="1.73239375982" />
+        </attvalues>
+      </node>
+      <node id="nudity" label="nudity">
+        <attvalues>
+          <attvalue for="0" value="2.98497712642" />
+        </attvalues>
+      </node>
+      <node id="nut" label="nut">
+        <attvalues>
+          <attvalue for="0" value="3.47885496753" />
+        </attvalues>
+      </node>
+      <node id="numbering" label="numbering" />
+      <node id="number" label="number">
+        <attvalues>
+          <attvalue for="0" value="5.1967590918" />
+        </attvalues>
+      </node>
+      <node id="numeric" label="numeric">
+        <attvalues>
+          <attvalue for="0" value="2.5211380837" />
+        </attvalues>
+      </node>
+      <node id="nun" label="nun" />
+      <node id="nursery" label="nursery" />
+      <node id="nubbin" label="nubbin" />
+      <node id="numbers" label="numbers">
+        <attvalues>
+          <attvalue for="0" value="4.6652431793" />
+        </attvalues>
+      </node>
+      <node id="numerative" label="numerative" />
+      <node id="null" label="null" />
+      <node id="nub" label="nub">
+        <attvalues>
+          <attvalue for="0" value="2.35218251811" />
+        </attvalues>
+      </node>
+      <node id="numerate" label="numerate" />
+      <node id="numinous" label="numinous">
+        <attvalues>
+          <attvalue for="0" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="nuclear" label="nuclear" />
+      <node id="nuts" label="nuts">
+        <attvalues>
+          <attvalue for="0" value="3.92116605064" />
+        </attvalues>
+      </node>
+      <node id="nutty" label="nutty" />
+      <node id="nurse" label="nurse">
+        <attvalues>
+          <attvalue for="0" value="4.15250238046" />
+        </attvalues>
+      </node>
+      <node id="nullification" label="nullification" />
+      <node id="nuzzle" label="nuzzle" />
+      <node id="nutrition" label="nutrition" />
+      <node id="nuance" label="nuance" />
+      <node id="nudist" label="nudist">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+      <node id="nullify" label="nullify" />
+      <node id="nucleus" label="nucleus" />
+      <node id="numb" label="numb">
+        <attvalues>
+          <attvalue for="0" value="3.32221929473" />
+        </attvalues>
+      </node>
+      <node id="nudge" label="nudge" />
+      <node id="nuisance" label="nuisance" />
+      <node id="nutshell" label="nutshell">
+        <attvalues>
+          <attvalue for="0" value="2.78604121024" />
+        </attvalues>
+      </node>
+      <node id="nursemaid" label="nursemaid" />
+      <node id="numberless" label="numberless">
+        <attvalues>
+          <attvalue for="0" value="1.96848294855" />
+        </attvalues>
+      </node>
+      <node id="numbness" label="numbness" />
+      <node id="nugget" label="nugget">
+        <attvalues>
+          <attvalue for="0" value="2.62634036738" />
+        </attvalues>
+      </node>
+      <node id="numerous" label="numerous" />
+      <node id="nude" label="nude">
+        <attvalues>
+          <attvalue for="0" value="3.43933269383" />
+        </attvalues>
+      </node>
+      <node id="nutriment" label="nutriment" />
+      <node id="numbing" label="numbing" />
+      <node id="nurture" label="nurture">
+        <attvalues>
+          <attvalue for="0" value="3.29424571614" />
+        </attvalues>
+      </node>
+      <node id="nudzh" label="nudzh" />
+    </nodes>
+    <edges>
+      <edge id="0" source="nutritious" target="nutrition" weight="0.023256" />
+      <edge id="1" source="nullity" target="nullify" weight="0.010753" />
+      <edge id="2" source="nullity" target="null" weight="0.016129" />
+      <edge id="3" source="nullity" target="nullification" weight="0.011494" />
+      <edge id="4" source="nullity" target="number" weight="0.004762" />
+      <edge id="5" source="nudity" target="nude" weight="0.022727" />
+      <edge id="6" source="nudity" target="nudist" weight="0.285714" />
+      <edge id="7" source="nut" target="nudge" weight="0.009132" />
+      <edge id="8" source="nut" target="nuance" weight="0.005917" />
+      <edge id="9" source="nut" target="nuts" weight="0.02439" />
+      <edge id="10" source="nut" target="number" weight="0.01476" />
+      <edge id="11" source="nut" target="nutty" weight="0.037838" />
+      <edge id="12" source="nut" target="nubbin" weight="0.006061" />
+      <edge id="13" source="nut" target="numb" weight="0.004608" />
+      <edge id="14" source="nut" target="nucleus" weight="0.019481" />
+      <edge id="15" source="nut" target="nurture" weight="0.004444" />
+      <edge id="16" source="nut" target="nub" weight="0.024155" />
+      <edge id="17" source="nut" target="nutshell" weight="0.006757" />
+      <edge id="18" source="nut" target="nudzh" weight="0.013889" />
+      <edge id="19" source="numbering" target="numbers" weight="0.011765" />
+      <edge id="20" source="number" target="nuance" weight="0.012097" />
+      <edge id="21" source="number" target="nude" weight="0.004651" />
+      <edge id="22" source="number" target="nugget" weight="0.025641" />
+      <edge id="23" source="number" target="nub" weight="0.013841" />
+      <edge id="24" source="number" target="nutshell" weight="0.022222" />
+      <edge id="25" source="number" target="nuisance" weight="0.004926" />
+      <edge id="26" source="number" target="nutty" weight="0.003676" />
+      <edge id="27" source="number" target="numerous" weight="0.004082" />
+      <edge id="28" source="number" target="nubbin" weight="0.008163" />
+      <edge id="29" source="number" target="numbers" weight="0.06383" />
+      <edge id="30" source="number" target="numb" weight="0.003356" />
+      <edge id="31" source="number" target="nurture" weight="0.009868" />
+      <edge id="32" source="number" target="nullification" weight="0.00431" />
+      <edge id="33" source="number" target="nurse" weight="0.011811" />
+      <edge id="34" source="number" target="numerate" weight="0.05" />
+      <edge id="35" source="numeric" target="numinous" weight="0.015748" />
+      <edge id="36" source="numeric" target="numberless" weight="0.02439" />
+      <edge id="37" source="numeric" target="nullify" weight="0.010989" />
+      <edge id="38" source="numeric" target="nutty" weight="0.008" />
+      <edge id="39" source="numeric" target="nuance" weight="0.009709" />
+      <edge id="40" source="numeric" target="numerative" weight="0.736842" />
+      <edge id="41" source="numeric" target="null" weight="0.016667" />
+      <edge id="42" source="nun" target="nurse" weight="0.011236" />
+      <edge id="43" source="nursery" target="nurture" weight="0.006623" />
+      <edge id="44" source="nursery" target="nurse" weight="0.009901" />
+      <edge id="45" source="nursery" target="numbers" weight="0.010638" />
+      <edge id="46" source="nubbin" target="nugget" weight="0.034091" />
+      <edge id="47" source="nubbin" target="nub" weight="0.383459" />
+      <edge id="48" source="nubbin" target="numbers" weight="0.007143" />
+      <edge id="49" source="numbers" target="nudge" weight="0.020833" />
+      <edge id="50" source="numbers" target="nuance" weight="0.028369" />
+      <edge id="51" source="numbers" target="nugget" weight="0.032967" />
+      <edge id="52" source="numbers" target="numerous" weight="0.007194" />
+      <edge id="53" source="numbers" target="nucleus" weight="0.007634" />
+      <edge id="54" source="numbers" target="nub" weight="0.016304" />
+      <edge id="55" source="numbers" target="nutshell" weight="0.00813" />
+      <edge id="56" source="numbers" target="numerate" weight="0.012195" />
+      <edge id="57" source="numerative" target="numinous" weight="0.015267" />
+      <edge id="58" source="numerative" target="numberless" weight="0.022222" />
+      <edge id="59" source="null" target="nude" weight="0.030303" />
+      <edge id="60" source="null" target="nudist" weight="0.025" />
+      <edge id="61" source="nub" target="nudge" weight="0.012712" />
+      <edge id="62" source="nub" target="nugget" weight="0.022388" />
+      <edge id="63" source="nub" target="nuclear" weight="0.022222" />
+      <edge id="64" source="nub" target="nutshell" weight="0.006024" />
+      <edge id="65" source="nub" target="nucleus" weight="0.241135" />
+      <edge id="66" source="nub" target="nurture" weight="0.008264" />
+      <edge id="67" source="nub" target="nuance" weight="0.005348" />
+      <edge id="68" source="nub" target="nurse" weight="0.005181" />
+      <edge id="69" source="numinous" target="nutty" weight="0.005208" />
+      <edge id="70" source="numinous" target="numberless" weight="0.009259" />
+      <edge id="71" source="nuts" target="numbing" weight="0.01" />
+      <edge id="72" source="nuts" target="nutty" weight="0.265306" />
+      <edge id="73" source="nurse" target="nuzzle" weight="0.033708" />
+      <edge id="74" source="nurse" target="nursemaid" weight="0.043956" />
+      <edge id="75" source="nurse" target="nudge" weight="0.00995" />
+      <edge id="76" source="nurse" target="nutriment" weight="0.034884" />
+      <edge id="77" source="nurse" target="nucleus" weight="0.007246" />
+      <edge id="78" source="nurse" target="numb" weight="0.005025" />
+      <edge id="79" source="nurse" target="numbing" weight="0.006667" />
+      <edge id="80" source="nurse" target="nurture" weight="0.359477" />
+      <edge id="81" source="nurse" target="nullification" weight="0.007519" />
+      <edge id="82" source="nurse" target="nudzh" weight="0.007874" />
+      <edge id="83" source="nuzzle" target="nurture" weight="0.007092" />
+      <edge id="84" source="nuance" target="numb" weight="0.005181" />
+      <edge id="85" source="nuance" target="nutshell" weight="0.008065" />
+      <edge id="86" source="nudist" target="numbing" weight="0.012195" />
+      <edge id="87" source="nudist" target="nude" weight="0.113636" />
+      <edge id="88" source="nullify" target="numb" weight="0.005525" />
+      <edge id="89" source="nucleus" target="nurture" weight="0.010695" />
+      <edge id="90" source="numb" target="numbness" weight="0.013245" />
+      <edge id="91" source="numb" target="numbing" weight="0.005208" />
+      <edge id="92" source="nudge" target="nurture" weight="0.012" />
+      <edge id="93" source="nursemaid" target="nurture" weight="0.013986" />
+      <edge id="94" source="numberless" target="numerous" weight="0.025974" />
+      <edge id="95" source="nude" target="numbing" weight="0.009174" />
+      <edge id="96" source="nutriment" target="nurture" weight="0.069231" />
+      <edge id="97" source="nurture" target="nudzh" weight="0.00565" />
+    </edges>
+  </graph>
+</gexf>

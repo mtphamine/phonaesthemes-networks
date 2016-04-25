@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="asphalt" label="asphalt">
+        <attvalues>
+          <attvalue for="0" value="3.35256838618" />
+        </attvalues>
+      </node>
+      <node id="astronomical" label="astronomical">
+        <attvalues>
+          <attvalue for="0" value="3.4619484952" />
+        </attvalues>
+      </node>
+      <node id="assignee" label="assignee">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="aspect" label="aspect" />
+      <node id="asylum" label="asylum">
+        <attvalues>
+          <attvalue for="0" value="3.39654803799" />
+        </attvalues>
+      </node>
+      <node id="assembled" label="assembled" />
+      <node id="astrology" label="astrology">
+        <attvalues>
+          <attvalue for="0" value="2.4885507165" />
+        </attvalues>
+      </node>
+      <node id="asthma" label="asthma" />
+      <node id="assiduity" label="assiduity">
+        <attvalues>
+          <attvalue for="0" value="0.954242509439" />
+        </attvalues>
+      </node>
+      <node id="assuage" label="assuage" />
+      <node id="assertion" label="assertion" />
+      <node id="astonish" label="astonish" />
+      <node id="assay" label="assay">
+        <attvalues>
+          <attvalue for="0" value="2.62117628178" />
+        </attvalues>
+      </node>
+      <node id="asbestos" label="asbestos" />
+      <node id="assistant" label="assistant">
+        <attvalues>
+          <attvalue for="0" value="4.34838275642" />
+        </attvalues>
+      </node>
+      <node id="astringent" label="astringent">
+        <attvalues>
+          <attvalue for="0" value="2.26481782301" />
+        </attvalues>
+      </node>
+      <node id="asymmetrical" label="asymmetrical" />
+      <node id="association" label="association" />
+      <node id="assuasive" label="assuasive">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="assignation" label="assignation">
+        <attvalues>
+          <attvalue for="0" value="1.81291335664" />
+        </attvalues>
+      </node>
+      <node id="assimilate" label="assimilate" />
+      <node id="ashen" label="ashen">
+        <attvalues>
+          <attvalue for="0" value="2.61909333063" />
+        </attvalues>
+      </node>
+      <node id="ascertain" label="ascertain">
+        <attvalues>
+          <attvalue for="0" value="3.08493357494" />
+        </attvalues>
+      </node>
+      <node id="assemblage" label="assemblage" />
+      <node id="ashram" label="ashram" />
+      <node id="ascribable" label="ascribable">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="ascend" label="ascend" />
+      <node id="asseverate" label="asseverate">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="asleep" label="asleep">
+        <attvalues>
+          <attvalue for="0" value="4.05736176299" />
+        </attvalues>
+      </node>
+      <node id="ascendant" label="ascendant" />
+      <node id="asperity" label="asperity">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="ascent" label="ascent">
+        <attvalues>
+          <attvalue for="0" value="3.16702179579" />
+        </attvalues>
+      </node>
+      <node id="assistance" label="assistance" />
+      <node id="astray" label="astray" />
+      <node id="asthmatic" label="asthmatic">
+        <attvalues>
+          <attvalue for="0" value="2.54406804435" />
+        </attvalues>
+      </node>
+      <node id="astral" label="astral">
+        <attvalues>
+          <attvalue for="0" value="2.19312459835" />
+        </attvalues>
+      </node>
+      <node id="assurance" label="assurance" />
+      <node id="ass" label="ass">
+        <attvalues>
+          <attvalue for="0" value="3.83859725282" />
+        </attvalues>
+      </node>
+      <node id="asymptote" label="asymptote">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="assembly" label="assembly" />
+      <node id="assured" label="assured">
+        <attvalues>
+          <attvalue for="0" value="3.84670814546" />
+        </attvalues>
+      </node>
+      <node id="associate" label="associate" />
+      <node id="assertive" label="assertive">
+        <attvalues>
+          <attvalue for="0" value="3.10991586302" />
+        </attvalues>
+      </node>
+      <node id="asphyxiation" label="asphyxiation">
+        <attvalues>
+          <attvalue for="0" value="2.10037054512" />
+        </attvalues>
+      </node>
+      <node id="ascending" label="ascending" />
+      <node id="asymmetry" label="asymmetry">
+        <attvalues>
+          <attvalue for="0" value="2.80821097292" />
+        </attvalues>
+      </node>
+      <node id="asinine" label="asinine" />
+      <node id="ask" label="ask" />
+      <node id="aspic" label="aspic">
+        <attvalues>
+          <attvalue for="0" value="1.81291335664" />
+        </attvalues>
+      </node>
+      <node id="asunder" label="asunder">
+        <attvalues>
+          <attvalue for="0" value="2.28555730901" />
+        </attvalues>
+      </node>
+      <node id="askew" label="askew">
+        <attvalues>
+          <attvalue for="0" value="2.85003325769" />
+        </attvalues>
+      </node>
+      <node id="astringency" label="astringency" />
+      <node id="assure" label="assure" />
+      <node id="aspire" label="aspire">
+        <attvalues>
+          <attvalue for="0" value="3.04883008653" />
+        </attvalues>
+      </node>
+      <node id="assassin" label="assassin">
+        <attvalues>
+          <attvalue for="0" value="3.12515582958" />
+        </attvalues>
+      </node>
+      <node id="assuredly" label="assuredly">
+        <attvalues>
+          <attvalue for="0" value="2.53781909507" />
+        </attvalues>
+      </node>
+      <node id="astute" label="astute" />
+      <node id="assess" label="assess" />
+      <node id="assemble" label="assemble">
+        <attvalues>
+          <attvalue for="0" value="3.43392976561" />
+        </attvalues>
+      </node>
+      <node id="astronautics" label="astronautics" />
+      <node id="assumed" label="assumed" />
+      <node id="assort" label="assort" />
+      <node id="assumption" label="assumption">
+        <attvalues>
+          <attvalue for="0" value="3.8890214221" />
+        </attvalues>
+      </node>
+      <node id="astrophysics" label="astrophysics">
+        <attvalues>
+          <attvalue for="0" value="2.83821922191" />
+        </attvalues>
+      </node>
+      <node id="assessment" label="assessment" />
+      <node id="assessor" label="assessor">
+        <attvalues>
+          <attvalue for="0" value="2.64640372622" />
+        </attvalues>
+      </node>
+      <node id="asphyxiate" label="asphyxiate" />
+      <node id="assign" label="assign">
+        <attvalues>
+          <attvalue for="0" value="3.29025726939" />
+        </attvalues>
+      </node>
+      <node id="assorted" label="assorted" />
+      <node id="asymmetric" label="asymmetric">
+        <attvalues>
+          <attvalue for="0" value="2.54406804435" />
+        </attvalues>
+      </node>
+      <node id="ascribe" label="ascribe" />
+      <node id="assimilation" label="assimilation">
+        <attvalues>
+          <attvalue for="0" value="3.28148788794" />
+        </attvalues>
+      </node>
+      <node id="assert" label="assert" />
+      <node id="ashamed" label="ashamed" />
+      <node id="assail" label="assail" />
+      <node id="astounded" label="astounded" />
+      <node id="aspiration" label="aspiration" />
+      <node id="astrophysical" label="astrophysical">
+        <attvalues>
+          <attvalue for="0" value="2.55144999797" />
+        </attvalues>
+      </node>
+      <node id="aspirant" label="aspirant">
+        <attvalues>
+          <attvalue for="0" value="2.02530586526" />
+        </attvalues>
+      </node>
+      <node id="ascendancy" label="ascendancy" />
+      <node id="ascetic" label="ascetic" />
+      <node id="associated" label="associated" />
+      <node id="aspersion" label="aspersion" />
+      <node id="assent" label="assent">
+        <attvalues>
+          <attvalue for="0" value="2.85064623518" />
+        </attvalues>
+      </node>
+      <node id="astound" label="astound">
+        <attvalues>
+          <attvalue for="0" value="1.87506126339" />
+        </attvalues>
+      </node>
+      <node id="as" label="as">
+        <attvalues>
+          <attvalue for="0" value="6.4152954416" />
+        </attvalues>
+      </node>
+      <node id="ascension" label="ascension" />
+      <node id="assimilated" label="assimilated">
+        <attvalues>
+          <attvalue for="0" value="2.90363251608" />
+        </attvalues>
+      </node>
+      <node id="aside" label="aside">
+        <attvalues>
+          <attvalue for="0" value="4.39368047402" />
+        </attvalues>
+      </node>
+      <node id="astronomic" label="astronomic" />
+      <node id="astronaut" label="astronaut">
+        <attvalues>
+          <attvalue for="0" value="3.29336255471" />
+        </attvalues>
+      </node>
+      <node id="asshole" label="asshole" />
+      <node id="assonance" label="assonance">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="aspiring" label="aspiring" />
+      <node id="assignment" label="assignment" />
+      <node id="assist" label="assist" />
+      <node id="astounding" label="astounding" />
+      <node id="assenting" label="assenting">
+        <attvalues>
+          <attvalue for="0" value="1.43136376416" />
+        </attvalues>
+      </node>
+      <node id="assiduous" label="assiduous">
+        <attvalues>
+          <attvalue for="0" value="2.06818586175" />
+        </attvalues>
+      </node>
+      <node id="assault" label="assault" />
+      <node id="assessed" label="assessed">
+        <attvalues>
+          <attvalue for="0" value="3.76125107431" />
+        </attvalues>
+      </node>
+      <node id="assortment" label="assortment" />
+      <node id="astronomy" label="astronomy">
+        <attvalues>
+          <attvalue for="0" value="3.7061201097" />
+        </attvalues>
+      </node>
+      <node id="assets" label="assets">
+        <attvalues>
+          <attvalue for="0" value="4.1232307767" />
+        </attvalues>
+      </node>
+      <node id="assume" label="assume" />
+      <node id="askance" label="askance">
+        <attvalues>
+          <attvalue for="0" value="2.38021124171" />
+        </attvalues>
+      </node>
+      <node id="assonant" label="assonant">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="astonishing" label="astonishing" />
+      <node id="ascertained" label="ascertained" />
+      <node id="astern" label="astern">
+        <attvalues>
+          <attvalue for="0" value="2.23804610313" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="asphalt" target="assemble" weight="0.006897" />
+      <edge id="1" source="asphalt" target="associate" weight="0.00565" />
+      <edge id="2" source="astronomical" target="ascendant" weight="0.007463" />
+      <edge id="3" source="astronomical" target="astronomic" weight="0.298246" />
+      <edge id="4" source="astronomical" target="aspiring" weight="0.031746" />
+      <edge id="5" source="astronomical" target="astounding" weight="0.059701" />
+      <edge id="6" source="astronomical" target="ascending" weight="0.021739" />
+      <edge id="7" source="astronomical" target="astonishing" weight="0.028986" />
+      <edge id="8" source="astronomical" target="astrophysical" weight="0.041667" />
+      <edge id="9" source="astronomical" target="astral" weight="0.028571" />
+      <edge id="10" source="assignee" target="assess" weight="0.014706" />
+      <edge id="11" source="assignee" target="assignment" weight="0.007463" />
+      <edge id="12" source="assignee" target="aspirant" weight="0.033333" />
+      <edge id="13" source="assignee" target="aspect" weight="0.010638" />
+      <edge id="14" source="assignee" target="assistant" weight="0.097561" />
+      <edge id="15" source="aspect" target="astronomy" weight="0.011364" />
+      <edge id="16" source="aspect" target="assiduity" weight="0.015267" />
+      <edge id="17" source="aspect" target="assured" weight="0.006579" />
+      <edge id="18" source="aspect" target="assimilated" weight="0.005882" />
+      <edge id="19" source="aspect" target="assimilation" weight="0.008" />
+      <edge id="20" source="aspect" target="astrophysics" weight="0.009901" />
+      <edge id="21" source="aspect" target="asymmetry" weight="0.008065" />
+      <edge id="22" source="aspect" target="assumption" weight="0.020161" />
+      <edge id="23" source="aspect" target="assistant" weight="0.008403" />
+      <edge id="24" source="aspect" target="ascertain" weight="0.009259" />
+      <edge id="25" source="aspect" target="assemble" weight="0.014218" />
+      <edge id="26" source="aspect" target="astral" weight="0.025641" />
+      <edge id="27" source="aspect" target="ascent" weight="0.004878" />
+      <edge id="28" source="aspect" target="assign" weight="0.030151" />
+      <edge id="29" source="aspect" target="astrology" weight="0.056604" />
+      <edge id="30" source="asylum" target="ashram" weight="0.096774" />
+      <edge id="31" source="asylum" target="associate" weight="0.004975" />
+      <edge id="32" source="asylum" target="assimilate" weight="0.005988" />
+      <edge id="33" source="asylum" target="aspiration" weight="0.005556" />
+      <edge id="34" source="asylum" target="ascend" weight="0.009009" />
+      <edge id="35" source="asylum" target="assumption" weight="0.004808" />
+      <edge id="36" source="asylum" target="assemble" weight="0.005917" />
+      <edge id="37" source="asylum" target="assurance" weight="0.007353" />
+      <edge id="38" source="assembled" target="asymptote" weight="0.015625" />
+      <edge id="39" source="assembled" target="assignation" weight="0.008065" />
+      <edge id="40" source="assembled" target="assured" weight="0.017094" />
+      <edge id="41" source="assembled" target="assimilated" weight="0.053846" />
+      <edge id="42" source="assembled" target="assemble" weight="0.016949" />
+      <edge id="43" source="assembled" target="aspic" weight="0.015152" />
+      <edge id="44" source="astrology" target="assets" weight="0.014925" />
+      <edge id="45" source="astrology" target="astrophysics" weight="0.023256" />
+      <edge id="46" source="astrology" target="astronomy" weight="0.033333" />
+      <edge id="47" source="astrology" target="assign" weight="0.013793" />
+      <edge id="48" source="astrology" target="assurance" weight="0.008197" />
+      <edge id="49" source="asthma" target="asphyxiation" weight="0.631579" />
+      <edge id="50" source="asthma" target="assimilation" weight="0.00431" />
+      <edge id="51" source="asthma" target="astound" weight="0.01087" />
+      <edge id="52" source="asthma" target="assumption" weight="0.008621" />
+      <edge id="53" source="asthma" target="asleep" weight="0.007299" />
+      <edge id="54" source="asthma" target="ascent" weight="0.016304" />
+      <edge id="55" source="assiduity" target="asymptote" weight="0.016393" />
+      <edge id="56" source="assiduity" target="assay" weight="0.007194" />
+      <edge id="57" source="assiduity" target="assignation" weight="0.008264" />
+      <edge id="58" source="assiduity" target="assume" weight="0.005405" />
+      <edge id="59" source="assiduity" target="assignment" weight="0.011696" />
+      <edge id="60" source="assiduity" target="aspiration" weight="0.010753" />
+      <edge id="61" source="assiduity" target="assimilation" weight="0.004673" />
+      <edge id="62" source="assiduity" target="assertion" weight="0.036036" />
+      <edge id="63" source="assiduity" target="astringency" weight="0.019417" />
+      <edge id="64" source="assiduity" target="assiduous" weight="0.02381" />
+      <edge id="65" source="assiduity" target="aside" weight="0.0125" />
+      <edge id="66" source="assiduity" target="assumption" weight="0.023697" />
+      <edge id="67" source="assuage" target="assay" weight="0.006369" />
+      <edge id="68" source="assuage" target="assimilated" weight="0.006623" />
+      <edge id="69" source="assuage" target="ashen" weight="0.006849" />
+      <edge id="70" source="assuage" target="asleep" weight="0.014706" />
+      <edge id="71" source="assuage" target="astral" weight="0.007143" />
+      <edge id="72" source="assuage" target="assign" weight="0.01087" />
+      <edge id="73" source="assertion" target="assay" weight="0.006329" />
+      <edge id="74" source="assertion" target="assent" weight="0.005556" />
+      <edge id="75" source="assertion" target="assimilation" weight="0.008621" />
+      <edge id="76" source="assertion" target="aside" weight="0.020408" />
+      <edge id="77" source="assertion" target="asseverate" weight="0.048544" />
+      <edge id="78" source="assertion" target="assumption" weight="0.098131" />
+      <edge id="79" source="assertion" target="ascent" weight="0.005348" />
+      <edge id="80" source="assertion" target="assign" weight="0.010811" />
+      <edge id="81" source="astonish" target="asphyxiation" weight="0.012195" />
+      <edge id="82" source="astonish" target="astound" weight="0.677419" />
+      <edge id="83" source="assay" target="ascend" weight="0.012422" />
+      <edge id="84" source="assay" target="assess" weight="0.247934" />
+      <edge id="85" source="assay" target="assemble" weight="0.004545" />
+      <edge id="86" source="assay" target="assorted" weight="0.00625" />
+      <edge id="87" source="assay" target="assort" weight="0.049587" />
+      <edge id="88" source="assay" target="assumption" weight="0.007752" />
+      <edge id="89" source="assay" target="assessment" weight="0.027778" />
+      <edge id="90" source="assay" target="assessor" weight="0.009524" />
+      <edge id="91" source="assay" target="assurance" weight="0.010753" />
+      <edge id="92" source="assay" target="asymptote" weight="0.009524" />
+      <edge id="93" source="assay" target="assembly" weight="0.004525" />
+      <edge id="94" source="assay" target="associate" weight="0.003968" />
+      <edge id="95" source="assay" target="assignment" weight="0.00463" />
+      <edge id="96" source="assay" target="assimilation" weight="0.007782" />
+      <edge id="97" source="assay" target="ask" weight="0.015625" />
+      <edge id="98" source="assay" target="asunder" weight="0.008475" />
+      <edge id="99" source="assay" target="assimilate" weight="0.018605" />
+      <edge id="100" source="assay" target="aspiration" weight="0.0131" />
+      <edge id="101" source="assay" target="assure" weight="0.006803" />
+      <edge id="102" source="assay" target="assume" weight="0.022222" />
+      <edge id="103" source="assay" target="ascertain" weight="0.017544" />
+      <edge id="104" source="assay" target="assign" weight="0.004739" />
+      <edge id="105" source="asbestos" target="assimilated" weight="0.009259" />
+      <edge id="106" source="asbestos" target="assumption" weight="0.005263" />
+      <edge id="107" source="asbestos" target="ashen" weight="0.009709" />
+      <edge id="108" source="asbestos" target="assimilation" weight="0.005291" />
+      <edge id="109" source="asbestos" target="assign" weight="0.007042" />
+      <edge id="110" source="assistant" target="associated" weight="0.017544" />
+      <edge id="111" source="assistant" target="associate" weight="0.031579" />
+      <edge id="112" source="assistant" target="assistance" weight="0.026316" />
+      <edge id="113" source="assistant" target="assist" weight="0.039474" />
+      <edge id="114" source="assistant" target="assess" weight="0.010753" />
+      <edge id="115" source="assistant" target="assort" weight="0.014493" />
+      <edge id="116" source="assistant" target="astronaut" weight="0.014925" />
+      <edge id="117" source="assistant" target="assemble" weight="0.006135" />
+      <edge id="118" source="assistant" target="assign" weight="0.006494" />
+      <edge id="119" source="astringent" target="ass" weight="0.008264" />
+      <edge id="120" source="astringent" target="ascendant" weight="0.00625" />
+      <edge id="121" source="astringent" target="assimilated" weight="0.006944" />
+      <edge id="122" source="astringent" target="assistance" weight="0.009901" />
+      <edge id="123" source="astringent" target="astounding" weight="0.010417" />
+      <edge id="124" source="astringent" target="assiduous" weight="0.029412" />
+      <edge id="125" source="astringent" target="ashamed" weight="0.012987" />
+      <edge id="126" source="astringent" target="asperity" weight="0.010638" />
+      <edge id="127" source="astringent" target="astute" weight="0.047244" />
+      <edge id="128" source="astringent" target="ascetic" weight="0.02381" />
+      <edge id="129" source="asymmetrical" target="asymmetric" weight="0.12" />
+      <edge id="130" source="asymmetrical" target="askew" weight="0.027397" />
+      <edge id="131" source="association" target="ass" weight="0.025253" />
+      <edge id="132" source="association" target="asymptote" weight="0.019868" />
+      <edge id="133" source="association" target="assignation" weight="0.033816" />
+      <edge id="134" source="association" target="assent" weight="0.049587" />
+      <edge id="135" source="association" target="assimilation" weight="0.218254" />
+      <edge id="136" source="association" target="asymmetry" weight="0.005587" />
+      <edge id="137" source="association" target="assumption" weight="0.006536" />
+      <edge id="138" source="association" target="assemble" weight="0.022814" />
+      <edge id="139" source="association" target="ascent" weight="0.003846" />
+      <edge id="140" source="assuasive" target="ascendancy" weight="0.010204" />
+      <edge id="141" source="assuasive" target="ascetic" weight="0.014493" />
+      <edge id="142" source="assignation" target="associated" weight="0.006494" />
+      <edge id="143" source="assignation" target="ashram" weight="0.01" />
+      <edge id="144" source="assignation" target="aspersion" weight="0.006757" />
+      <edge id="145" source="assignation" target="assess" weight="0.007576" />
+      <edge id="146" source="assignation" target="assemble" weight="0.020101" />
+      <edge id="147" source="assignation" target="ascension" weight="0.009174" />
+      <edge id="148" source="assignation" target="assumption" weight="0.021097" />
+      <edge id="149" source="assignation" target="assurance" weight="0.011905" />
+      <edge id="150" source="assignation" target="ass" weight="0.007353" />
+      <edge id="151" source="assignation" target="asymptote" weight="0.035294" />
+      <edge id="152" source="assignation" target="assembly" weight="0.236364" />
+      <edge id="153" source="assignation" target="assignment" weight="0.206061" />
+      <edge id="154" source="assignation" target="assist" weight="0.008547" />
+      <edge id="155" source="assignation" target="ascribe" weight="0.012195" />
+      <edge id="156" source="assignation" target="assimilation" weight="0.004167" />
+      <edge id="157" source="assignation" target="assault" weight="0.005155" />
+      <edge id="158" source="assignation" target="ask" weight="0.009009" />
+      <edge id="159" source="assignation" target="assortment" weight="0.008929" />
+      <edge id="160" source="assignation" target="ascendancy" weight="0.006897" />
+      <edge id="161" source="assignation" target="assign" weight="0.031915" />
+      <edge id="162" source="assignation" target="assemblage" weight="0.013699" />
+      <edge id="163" source="assimilate" target="assets" weight="0.005988" />
+      <edge id="164" source="assimilate" target="assured" weight="0.005155" />
+      <edge id="165" source="assimilate" target="asphyxiation" weight="0.005435" />
+      <edge id="166" source="assimilate" target="assent" weight="0.029915" />
+      <edge id="167" source="assimilate" target="assimilation" weight="0.017301" />
+      <edge id="168" source="assimilate" target="assign" weight="0.016461" />
+      <edge id="169" source="assimilate" target="asseverate" weight="0.018182" />
+      <edge id="170" source="assimilate" target="assessor" weight="0.007143" />
+      <edge id="171" source="assimilate" target="ascertain" weight="0.027211" />
+      <edge id="172" source="assimilate" target="assemble" weight="0.07563" />
+      <edge id="173" source="assimilate" target="ascent" weight="0.00813" />
+      <edge id="174" source="assimilate" target="assuredly" weight="0.006211" />
+      <edge id="175" source="ashen" target="assimilated" weight="0.012121" />
+      <edge id="176" source="ashen" target="astounding" weight="0.008475" />
+      <edge id="177" source="ashen" target="asleep" weight="0.013245" />
+      <edge id="178" source="ashen" target="astounded" weight="0.150442" />
+      <edge id="179" source="ashen" target="ascetic" weight="0.010417" />
+      <edge id="180" source="ascertain" target="assure" weight="0.15942" />
+      <edge id="181" source="ascertain" target="aspiration" weight="0.006135" />
+      <edge id="182" source="ascertain" target="assume" weight="0.006211" />
+      <edge id="183" source="ascertain" target="asseverate" weight="0.015625" />
+      <edge id="184" source="ascertain" target="assign" weight="0.021277" />
+      <edge id="185" source="assemblage" target="assured" weight="0.007092" />
+      <edge id="186" source="assemblage" target="aside" weight="0.009434" />
+      <edge id="187" source="assemblage" target="assent" weight="0.005348" />
+      <edge id="188" source="assemblage" target="assimilation" weight="0.066372" />
+      <edge id="189" source="assemblage" target="assign" weight="0.005181" />
+      <edge id="190" source="assemblage" target="assumption" weight="0.004149" />
+      <edge id="191" source="assemblage" target="assemble" weight="0.046392" />
+      <edge id="192" source="assemblage" target="ascent" weight="0.010363" />
+      <edge id="193" source="assemblage" target="aspic" weight="0.034483" />
+      <edge id="194" source="ashram" target="assimilation" weight="0.005181" />
+      <edge id="195" source="ascribable" target="assumed" weight="0.027027" />
+      <edge id="196" source="ascend" target="assimilated" weight="0.00641" />
+      <edge id="197" source="ascend" target="assimilation" weight="0.012766" />
+      <edge id="198" source="ascend" target="aside" weight="0.009709" />
+      <edge id="199" source="ascend" target="aspire" weight="0.047619" />
+      <edge id="200" source="ascend" target="astern" weight="0.012658" />
+      <edge id="201" source="ascend" target="assemble" weight="0.015228" />
+      <edge id="202" source="ascend" target="assumption" weight="0.012712" />
+      <edge id="203" source="ascend" target="ascent" weight="0.066667" />
+      <edge id="204" source="asseverate" target="assert" weight="0.492308" />
+      <edge id="205" source="asseverate" target="assignment" weight="0.006061" />
+      <edge id="206" source="asseverate" target="associate" weight="0.004975" />
+      <edge id="207" source="asseverate" target="assent" weight="0.006494" />
+      <edge id="208" source="asseverate" target="assure" weight="0.102273" />
+      <edge id="209" source="asseverate" target="ascribe" weight="0.020408" />
+      <edge id="210" source="asseverate" target="assign" weight="0.025478" />
+      <edge id="211" source="asseverate" target="assess" weight="0.010101" />
+      <edge id="212" source="asseverate" target="assume" weight="0.028736" />
+      <edge id="213" source="asseverate" target="ascendancy" weight="0.018018" />
+      <edge id="214" source="asseverate" target="assurance" weight="0.014815" />
+      <edge id="215" source="asleep" target="astray" weight="0.008065" />
+      <edge id="216" source="asleep" target="assenting" weight="0.010101" />
+      <edge id="217" source="asleep" target="askew" weight="0.006993" />
+      <edge id="218" source="asleep" target="asinine" weight="0.02381" />
+      <edge id="219" source="asleep" target="astounded" weight="0.008333" />
+      <edge id="220" source="asleep" target="ascetic" weight="0.005435" />
+      <edge id="221" source="ascendant" target="assertive" weight="0.009009" />
+      <edge id="222" source="ascendant" target="assumption" weight="0.003717" />
+      <edge id="223" source="ascendant" target="ascent" weight="0.032407" />
+      <edge id="224" source="ascendant" target="assessor" weight="0.008696" />
+      <edge id="225" source="asperity" target="astringency" weight="0.24" />
+      <edge id="226" source="asperity" target="asymmetry" weight="0.041096" />
+      <edge id="227" source="asperity" target="assimilation" weight="0.00495" />
+      <edge id="228" source="ascent" target="astronautics" weight="0.023438" />
+      <edge id="229" source="ascent" target="ascension" weight="0.162963" />
+      <edge id="230" source="ascent" target="assistance" weight="0.012346" />
+      <edge id="231" source="ascent" target="assumption" weight="0.066421" />
+      <edge id="232" source="ascent" target="assessment" weight="0.005682" />
+      <edge id="233" source="ascent" target="assurance" weight="0.00463" />
+      <edge id="234" source="ascent" target="asphyxiation" weight="0.017045" />
+      <edge id="235" source="ascent" target="assembly" weight="0.012097" />
+      <edge id="236" source="ascent" target="assured" weight="0.005319" />
+      <edge id="237" source="ascent" target="aspiring" weight="0.013245" />
+      <edge id="238" source="ascent" target="assignment" weight="0.008197" />
+      <edge id="239" source="ascent" target="assist" weight="0.018519" />
+      <edge id="240" source="ascent" target="assimilation" weight="0.017668" />
+      <edge id="241" source="ascent" target="ascending" weight="0.05814" />
+      <edge id="242" source="ascent" target="assert" weight="0.005682" />
+      <edge id="243" source="ascent" target="assault" weight="0.016807" />
+      <edge id="244" source="ascent" target="assemble" weight="0.012146" />
+      <edge id="245" source="ascent" target="assail" weight="0.006711" />
+      <edge id="246" source="ascent" target="aspiration" weight="0.003846" />
+      <edge id="247" source="ascent" target="assume" weight="0.003876" />
+      <edge id="248" source="ascent" target="ascertained" weight="0.006024" />
+      <edge id="249" source="ascent" target="assign" weight="0.008368" />
+      <edge id="250" source="assistance" target="assent" weight="0.00641" />
+      <edge id="251" source="assistance" target="assumption" weight="0.004762" />
+      <edge id="252" source="assistance" target="assign" weight="0.012422" />
+      <edge id="253" source="astray" target="asymmetric" weight="0.026316" />
+      <edge id="254" source="astray" target="assimilated" weight="0.007246" />
+      <edge id="255" source="astray" target="aside" weight="0.011765" />
+      <edge id="256" source="astray" target="askew" weight="0.420455" />
+      <edge id="257" source="astray" target="askance" weight="0.050847" />
+      <edge id="258" source="asthmatic" target="assimilated" weight="0.010638" />
+      <edge id="259" source="asthmatic" target="aspiration" weight="0.013605" />
+      <edge id="260" source="asthmatic" target="assimilation" weight="0.005714" />
+      <edge id="261" source="astral" target="astronomic" weight="0.148515" />
+      <edge id="262" source="astral" target="aspiring" weight="0.019048" />
+      <edge id="263" source="astral" target="ascendancy" weight="0.006849" />
+      <edge id="264" source="astral" target="astrophysical" weight="0.194805" />
+      <edge id="265" source="astral" target="asinine" weight="0.005747" />
+      <edge id="266" source="astral" target="assemble" weight="0.009901" />
+      <edge id="267" source="astral" target="ascending" weight="0.014925" />
+      <edge id="268" source="assurance" target="assent" weight="0.009615" />
+      <edge id="269" source="assurance" target="assimilation" weight="0.015444" />
+      <edge id="270" source="assurance" target="assign" weight="0.014085" />
+      <edge id="271" source="assurance" target="aspire" weight="0.027273" />
+      <edge id="272" source="assurance" target="assemble" weight="0.008969" />
+      <edge id="273" source="assurance" target="assumption" weight="0.073171" />
+      <edge id="274" source="assurance" target="assets" weight="0.014815" />
+      <edge id="275" source="ass" target="asymptote" weight="0.013158" />
+      <edge id="276" source="ass" target="assembly" weight="0.005208" />
+      <edge id="277" source="ass" target="asinine" weight="0.006173" />
+      <edge id="278" source="ass" target="aspic" weight="0.012821" />
+      <edge id="279" source="ass" target="ascetic" weight="0.005714" />
+      <edge id="280" source="asymptote" target="assimilation" weight="0.005556" />
+      <edge id="281" source="asymptote" target="astringency" weight="0.028986" />
+      <edge id="282" source="asymptote" target="assembly" weight="0.035971" />
+      <edge id="283" source="asymptote" target="associated" weight="0.010638" />
+      <edge id="284" source="assembly" target="assimilation" weight="0.027682" />
+      <edge id="285" source="assembly" target="assumption" weight="0.013605" />
+      <edge id="286" source="assembly" target="assemble" weight="0.048583" />
+      <edge id="287" source="assembly" target="assign" weight="0.004016" />
+      <edge id="288" source="assured" target="assiduous" weight="0.020548" />
+      <edge id="289" source="assured" target="assign" weight="0.005348" />
+      <edge id="290" source="assured" target="assure" weight="0.00813" />
+      <edge id="291" source="assured" target="assorted" weight="0.014815" />
+      <edge id="292" source="assured" target="assertive" weight="0.04" />
+      <edge id="293" source="assured" target="aspiring" weight="0.06383" />
+      <edge id="294" source="assured" target="ascending" weight="0.007813" />
+      <edge id="295" source="assured" target="assume" weight="0.004878" />
+      <edge id="296" source="assured" target="ascertained" weight="0.163265" />
+      <edge id="297" source="assured" target="asinine" weight="0.005988" />
+      <edge id="298" source="assured" target="associated" weight="0.013605" />
+      <edge id="299" source="assured" target="aspirant" weight="0.011364" />
+      <edge id="300" source="assured" target="assuredly" weight="0.009804" />
+      <edge id="301" source="associate" target="asymmetry" weight="0.005" />
+      <edge id="302" source="associate" target="assimilated" weight="0.004065" />
+      <edge id="303" source="associate" target="assent" weight="0.041667" />
+      <edge id="304" source="associate" target="assimilation" weight="0.012346" />
+      <edge id="305" source="associate" target="as" weight="0.005714" />
+      <edge id="306" source="associate" target="astronaut" weight="0.005181" />
+      <edge id="307" source="associate" target="assemble" weight="0.198347" />
+      <edge id="308" source="associate" target="assign" weight="0.007168" />
+      <edge id="309" source="assertive" target="assent" weight="0.00813" />
+      <edge id="310" source="assertive" target="assenting" weight="0.027027" />
+      <edge id="311" source="assertive" target="assiduous" weight="0.011111" />
+      <edge id="312" source="assertive" target="ascertained" weight="0.018182" />
+      <edge id="313" source="asphyxiation" target="asphyxiate" weight="0.02381" />
+      <edge id="314" source="asphyxiation" target="assignment" weight="0.005495" />
+      <edge id="315" source="asphyxiation" target="assimilation" weight="0.004464" />
+      <edge id="316" source="asphyxiation" target="astound" weight="0.011905" />
+      <edge id="317" source="asphyxiation" target="astringency" weight="0.008772" />
+      <edge id="318" source="asphyxiation" target="assault" weight="0.005618" />
+      <edge id="319" source="asphyxiation" target="assumption" weight="0.008929" />
+      <edge id="320" source="asphyxiation" target="ascetic" weight="0.005882" />
+      <edge id="321" source="ascending" target="assimilated" weight="0.013793" />
+      <edge id="322" source="ascending" target="aside" weight="0.010753" />
+      <edge id="323" source="ascending" target="astern" weight="0.029412" />
+      <edge id="324" source="ascending" target="assumption" weight="0.004386" />
+      <edge id="325" source="asymmetry" target="ask" weight="0.012987" />
+      <edge id="326" source="asymmetry" target="assemble" weight="0.005952" />
+      <edge id="327" source="asinine" target="asymmetric" weight="0.01626" />
+      <edge id="328" source="asinine" target="assimilated" weight="0.01087" />
+      <edge id="329" source="asinine" target="askew" weight="0.005848" />
+      <edge id="330" source="asinine" target="askance" weight="0.009259" />
+      <edge id="331" source="ask" target="assent" weight="0.006623" />
+      <edge id="332" source="ask" target="aspire" weight="0.018519" />
+      <edge id="333" source="ask" target="assumption" weight="0.014778" />
+      <edge id="334" source="ask" target="assemble" weight="0.006024" />
+      <edge id="335" source="ask" target="assign" weight="0.006369" />
+      <edge id="336" source="aspic" target="associated" weight="0.010417" />
+      <edge id="337" source="aspic" target="assimilated" weight="0.009901" />
+      <edge id="338" source="aspic" target="assail" weight="0.022727" />
+      <edge id="339" source="aspic" target="assortment" weight="0.057692" />
+      <edge id="340" source="asunder" target="assort" weight="0.016393" />
+      <edge id="341" source="asunder" target="astern" weight="0.028571" />
+      <edge id="342" source="asunder" target="aside" weight="0.034483" />
+      <edge id="343" source="asunder" target="assorted" weight="0.054945" />
+      <edge id="344" source="askew" target="asymmetric" weight="0.182927" />
+      <edge id="345" source="askew" target="assimilated" weight="0.006369" />
+      <edge id="346" source="askew" target="aside" weight="0.019417" />
+      <edge id="347" source="askew" target="askance" weight="0.0125" />
+      <edge id="348" source="askew" target="assumed" weight="0.031008" />
+      <edge id="349" source="astringency" target="assimilation" weight="0.013575" />
+      <edge id="350" source="astringency" target="assumption" weight="0.004464" />
+      <edge id="351" source="assure" target="assimilated" weight="0.007092" />
+      <edge id="352" source="assure" target="assent" weight="0.011905" />
+      <edge id="353" source="assure" target="aside" weight="0.011364" />
+      <edge id="354" source="assure" target="astern" weight="0.015625" />
+      <edge id="355" source="assure" target="assemble" weight="0.005435" />
+      <edge id="356" source="assure" target="assumption" weight="0.004484" />
+      <edge id="357" source="assure" target="assign" weight="0.02924" />
+      <edge id="358" source="aspire" target="aspiration" weight="0.026144" />
+      <edge id="359" source="aspire" target="assumption" weight="0.010929" />
+      <edge id="360" source="assassin" target="assault" weight="0.007042" />
+      <edge id="361" source="assuredly" target="assent" weight="0.006757" />
+      <edge id="362" source="astute" target="assenting" weight="0.009901" />
+      <edge id="363" source="assess" target="assessor" weight="0.013889" />
+      <edge id="364" source="assess" target="assemble" weight="0.010753" />
+      <edge id="365" source="assess" target="assumption" weight="0.008889" />
+      <edge id="366" source="assess" target="assign" weight="0.022857" />
+      <edge id="367" source="assemble" target="associated" weight="0.009615" />
+      <edge id="368" source="assemble" target="aspersion" weight="0.004926" />
+      <edge id="369" source="assemble" target="assent" weight="0.004132" />
+      <edge id="370" source="assemble" target="ascension" weight="0.006098" />
+      <edge id="371" source="assemble" target="assort" weight="0.006135" />
+      <edge id="372" source="assemble" target="assorted" weight="0.005076" />
+      <edge id="373" source="assemble" target="assimilated" weight="0.004673" />
+      <edge id="374" source="assemble" target="assist" weight="0.005814" />
+      <edge id="375" source="assemble" target="assimilation" weight="0.006803" />
+      <edge id="376" source="assemble" target="assiduous" weight="0.004785" />
+      <edge id="377" source="assemble" target="assortment" weight="0.018182" />
+      <edge id="378" source="assemble" target="assault" weight="0.004016" />
+      <edge id="379" source="assemble" target="assume" weight="0.007547" />
+      <edge id="380" source="assumed" target="asymmetric" weight="0.036145" />
+      <edge id="381" source="assumed" target="assumption" weight="0.004386" />
+      <edge id="382" source="assumed" target="assimilation" weight="0.004405" />
+      <edge id="383" source="assort" target="assign" weight="0.013072" />
+      <edge id="384" source="assumption" target="aspersion" weight="0.008299" />
+      <edge id="385" source="assumption" target="assent" weight="0.007143" />
+      <edge id="386" source="assumption" target="ascension" weight="0.035533" />
+      <edge id="387" source="assumption" target="assessment" weight="0.027523" />
+      <edge id="388" source="assumption" target="assignment" weight="0.061594" />
+      <edge id="389" source="assumption" target="assimilation" weight="0.073718" />
+      <edge id="390" source="assumption" target="assert" weight="0.004484" />
+      <edge id="391" source="assumption" target="assault" weight="0.01049" />
+      <edge id="392" source="assumption" target="assortment" weight="0.004854" />
+      <edge id="393" source="assumption" target="assume" weight="0.037288" />
+      <edge id="394" source="assumption" target="aspiration" weight="0.084507" />
+      <edge id="395" source="assumption" target="assign" weight="0.017668" />
+      <edge id="396" source="assumption" target="ascendancy" weight="0.008403" />
+      <edge id="397" source="astrophysics" target="astronomy" weight="0.166667" />
+      <edge id="398" source="assessment" target="assimilation" weight="0.00905" />
+      <edge id="399" source="assessment" target="assets" weight="0.010417" />
+      <edge id="400" source="assign" target="assent" weight="0.004292" />
+      <edge id="401" source="assign" target="astronaut" weight="0.006579" />
+      <edge id="402" source="assign" target="assignment" weight="0.047009" />
+      <edge id="403" source="assign" target="assist" weight="0.012346" />
+      <edge id="404" source="assign" target="ascribe" weight="0.066116" />
+      <edge id="405" source="assign" target="assimilation" weight="0.003497" />
+      <edge id="406" source="assign" target="assert" weight="0.023256" />
+      <edge id="407" source="assign" target="assault" weight="0.004167" />
+      <edge id="408" source="assign" target="aspiration" weight="0.003861" />
+      <edge id="409" source="assign" target="ascertained" weight="0.006061" />
+      <edge id="410" source="assign" target="assume" weight="0.011765" />
+      <edge id="411" source="assign" target="ascendancy" weight="0.005236" />
+      <edge id="412" source="assorted" target="asymmetric" weight="0.021739" />
+      <edge id="413" source="assorted" target="assimilated" weight="0.006494" />
+      <edge id="414" source="assorted" target="assonant" weight="0.011236" />
+      <edge id="415" source="assorted" target="assessed" weight="0.013333" />
+      <edge id="416" source="asymmetric" target="askance" weight="0.0625" />
+      <edge id="417" source="assimilation" target="assent" weight="0.029304" />
+      <edge id="418" source="assimilation" target="ascension" weight="0.00495" />
+      <edge id="419" source="assimilation" target="assignment" weight="0.003436" />
+      <edge id="420" source="assimilation" target="assimilated" weight="0.063025" />
+      <edge id="421" source="assimilation" target="assault" weight="0.003484" />
+      <edge id="422" source="assimilation" target="assortment" weight="0.004878" />
+      <edge id="423" source="assimilation" target="aspiration" weight="0.116364" />
+      <edge id="424" source="assimilation" target="assonant" weight="0.005348" />
+      <edge id="425" source="assimilation" target="assume" weight="0.003289" />
+      <edge id="426" source="assert" target="assent" weight="0.005917" />
+      <edge id="427" source="assail" target="assent" weight="0.007042" />
+      <edge id="428" source="assail" target="astound" weight="0.018182" />
+      <edge id="429" source="astounded" target="assiduous" weight="0.015625" />
+      <edge id="430" source="aspiration" target="assimilated" weight="0.07109" />
+      <edge id="431" source="aspiration" target="assent" weight="0.003953" />
+      <edge id="432" source="aspiration" target="assonant" weight="0.00625" />
+      <edge id="433" source="aspiration" target="assiduous" weight="0.004545" />
+      <edge id="434" source="astrophysical" target="astronomic" weight="0.348837" />
+      <edge id="435" source="aspirant" target="aspiring" weight="0.019231" />
+      <edge id="436" source="ascendancy" target="aside" weight="0.009615" />
+      <edge id="437" source="ascetic" target="assimilated" weight="0.010152" />
+      <edge id="438" source="ascetic" target="astronaut" weight="0.006897" />
+      <edge id="439" source="associated" target="assimilated" weight="0.056962" />
+      <edge id="440" source="associated" target="assent" weight="0.005155" />
+      <edge id="441" source="associated" target="assonant" weight="0.030303" />
+      <edge id="442" source="associated" target="assenting" weight="0.009259" />
+      <edge id="443" source="aspersion" target="assent" weight="0.005319" />
+      <edge id="444" source="aspersion" target="aside" weight="0.009346" />
+      <edge id="445" source="aspersion" target="assiduous" weight="0.006452" />
+      <edge id="446" source="assent" target="assonance" weight="0.015748" />
+      <edge id="447" source="assent" target="assist" weight="0.006369" />
+      <edge id="448" source="assent" target="assenting" weight="0.007092" />
+      <edge id="449" source="assent" target="assault" weight="0.004274" />
+      <edge id="450" source="assent" target="assume" weight="0.020243" />
+      <edge id="451" source="astound" target="assault" weight="0.006803" />
+      <edge id="452" source="assimilated" target="aside" weight="0.008475" />
+      <edge id="453" source="assimilated" target="aspiring" weight="0.008547" />
+      <edge id="454" source="assimilated" target="assiduous" weight="0.006024" />
+      <edge id="455" source="assimilated" target="assonant" weight="0.019048" />
+      <edge id="456" source="assimilated" target="astern" weight="0.010638" />
+      <edge id="457" source="aside" target="astern" weight="0.05" />
+      <edge id="458" source="aside" target="askance" weight="0.135135" />
+      <edge id="459" source="asshole" target="assonance" weight="0.038462" />
+      <edge id="460" source="asshole" target="assonant" weight="0.03125" />
+      <edge id="461" source="assonance" target="assonant" weight="0.125" />
+      <edge id="462" source="assist" target="assets" weight="0.011905" />
+    </edges>
+  </graph>
+</gexf>

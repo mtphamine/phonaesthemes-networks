@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="available" label="available" />
+      <node id="avid" label="avid">
+        <attvalues>
+          <attvalue for="0" value="3.32572085802" />
+        </attvalues>
+      </node>
+      <node id="avow" label="avow">
+        <attvalues>
+          <attvalue for="0" value="1.63346845558" />
+        </attvalues>
+      </node>
+      <node id="avert" label="avert">
+        <attvalues>
+          <attvalue for="0" value="3.05614226206" />
+        </attvalues>
+      </node>
+      <node id="avoid" label="avoid">
+        <attvalues>
+          <attvalue for="0" value="4.52308281573" />
+        </attvalues>
+      </node>
+      <node id="avarice" label="avarice" />
+      <node id="aver" label="aver" />
+      <node id="avail" label="avail" />
+      <node id="avidity" label="avidity">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="avaricious" label="avaricious">
+        <attvalues>
+          <attvalue for="0" value="1.99122607569" />
+        </attvalues>
+      </node>
+      <node id="avatar" label="avatar">
+        <attvalues>
+          <attvalue for="0" value="2.83250891271" />
+        </attvalues>
+      </node>
+      <node id="avowal" label="avowal" />
+      <node id="avouch" label="avouch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="average" label="average" />
+      <node id="avoidance" label="avoidance" />
+      <node id="avenue" label="avenue" />
+      <node id="availability" label="availability">
+        <attvalues>
+          <attvalue for="0" value="3.77778918743" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="available" target="avid" weight="0.01087" />
+      <edge id="1" source="avid" target="avidity" weight="0.013158" />
+      <edge id="2" source="avid" target="avaricious" weight="0.423729" />
+      <edge id="3" source="avid" target="avarice" weight="0.015152" />
+      <edge id="4" source="avow" target="aver" weight="0.636364" />
+      <edge id="5" source="avow" target="avail" weight="0.009434" />
+      <edge id="6" source="avow" target="avouch" weight="0.616667" />
+      <edge id="7" source="avow" target="avowal" weight="0.055556" />
+      <edge id="8" source="avert" target="avail" weight="0.021739" />
+      <edge id="9" source="avert" target="avoid" weight="0.075758" />
+      <edge id="10" source="avoid" target="average" weight="0.008475" />
+      <edge id="11" source="avoid" target="avoidance" weight="0.122449" />
+      <edge id="12" source="avoid" target="avenue" weight="0.008403" />
+      <edge id="13" source="avarice" target="avidity" weight="0.2" />
+      <edge id="14" source="avarice" target="avaricious" weight="0.018519" />
+      <edge id="15" source="aver" target="avouch" weight="0.7" />
+      <edge id="16" source="avail" target="avouch" weight="0.009901" />
+      <edge id="17" source="avail" target="availability" weight="0.014493" />
+      <edge id="18" source="avidity" target="avaricious" weight="0.015625" />
+      <edge id="19" source="avaricious" target="avenue" weight="0.008197" />
+      <edge id="20" source="avatar" target="avenue" weight="0.007692" />
+      <edge id="21" source="avatar" target="availability" weight="0.017544" />
+      <edge id="22" source="avatar" target="avowal" weight="0.011494" />
+      <edge id="23" source="avowal" target="avouch" weight="0.058824" />
+      <edge id="24" source="avenue" target="availability" weight="0.01" />
+    </edges>
+  </graph>
+</gexf>

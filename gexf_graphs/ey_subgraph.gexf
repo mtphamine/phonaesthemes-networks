@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="eyelet" label="eyelet" />
+      <node id="eyesight" label="eyesight" />
+      <node id="eyeball" label="eyeball" />
+      <node id="eye" label="eye" />
+      <node id="eyeful" label="eyeful" />
+    </nodes>
+    <edges>
+      <edge id="0" source="eyelet" target="eye" />
+      <edge id="1" source="eyesight" target="eye" />
+      <edge id="2" source="eyeball" target="eye" />
+      <edge id="3" source="eye" target="eyeful" />
+    </edges>
+  </graph>
+</gexf>

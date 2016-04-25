@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="gladsome" label="gladsome" />
+      <node id="glee" label="glee" />
+      <node id="glare" label="glare" />
+      <node id="globular" label="globular" />
+      <node id="glowworm" label="glowworm" />
+      <node id="global" label="global" />
+      <node id="gladness" label="gladness" />
+      <node id="glum" label="glum" />
+      <node id="glottal" label="glottal" />
+      <node id="glance" label="glance" />
+      <node id="glue" label="glue" />
+      <node id="glitter" label="glitter" />
+      <node id="globate" label="globate" />
+      <node id="glamorize" label="glamorize" />
+      <node id="glossary" label="glossary" />
+      <node id="glimpse" label="glimpse" />
+      <node id="glistening" label="glistening" />
+      <node id="glisten" label="glisten" />
+      <node id="glide" label="glide" />
+      <node id="glacier" label="glacier" />
+      <node id="glint" label="glint" />
+      <node id="gloss" label="gloss" />
+      <node id="glaze" label="glaze" />
+      <node id="glimmering" label="glimmering" />
+      <node id="glair" label="glair" />
+      <node id="glissando" label="glissando" />
+      <node id="glimmer" label="glimmer" />
+      <node id="glace" label="glace" />
+      <node id="glutinous" label="glutinous" />
+      <node id="glassware" label="glassware" />
+      <node id="glow" label="glow" />
+      <node id="globe" label="globe" />
+      <node id="gloominess" label="gloominess" />
+      <node id="glorify" label="glorify" />
+      <node id="gluten" label="gluten" />
+      <node id="gloom" label="gloom" />
+      <node id="glamour" label="glamour" />
+      <node id="glass" label="glass" />
+      <node id="gloomy" label="gloomy" />
+      <node id="gloat" label="gloat" />
+      <node id="glop" label="glop" />
+      <node id="glazed" label="glazed" />
+      <node id="glad" label="glad" />
+      <node id="glorification" label="glorification" />
+      <node id="gluey" label="gluey" />
+      <node id="glamorous" label="glamorous" />
+      <node id="glassy" label="glassy" />
+      <node id="glory" label="glory" />
+      <node id="glower" label="glower" />
+      <node id="glossal" label="glossal" />
+      <node id="glowing" label="glowing" />
+      <node id="globule" label="globule" />
+      <node id="glissade" label="glissade" />
+      <node id="glossy" label="glossy" />
+      <node id="gleam" label="gleam" />
+      <node id="gleaming" label="gleaming" />
+      <node id="glowering" label="glowering" />
+      <node id="glorious" label="glorious" />
+      <node id="glittering" label="glittering" />
+    </nodes>
+    <edges>
+      <edge id="0" source="gladsome" target="glowing" />
+      <edge id="1" source="gladsome" target="glad" />
+      <edge id="2" source="glee" target="gladness" />
+      <edge id="3" source="glare" target="glory" />
+      <edge id="4" source="glare" target="glower" />
+      <edge id="5" source="glare" target="gleam" />
+      <edge id="6" source="glare" target="gloat" />
+      <edge id="7" source="glare" target="glint" />
+      <edge id="8" source="glare" target="glance" />
+      <edge id="9" source="glare" target="glitter" />
+      <edge id="10" source="glare" target="glow" />
+      <edge id="11" source="globular" target="global" />
+      <edge id="12" source="globular" target="globate" />
+      <edge id="13" source="glowworm" target="glitter" />
+      <edge id="14" source="glowworm" target="glisten" />
+      <edge id="15" source="glowworm" target="glimmer" />
+      <edge id="16" source="glowworm" target="glimmering" />
+      <edge id="17" source="global" target="globate" />
+      <edge id="18" source="glum" target="gloomy" />
+      <edge id="19" source="glum" target="glowering" />
+      <edge id="20" source="glottal" target="glossal" />
+      <edge id="21" source="glottal" target="glide" />
+      <edge id="22" source="glance" target="glimpse" />
+      <edge id="23" source="glance" target="glisten" />
+      <edge id="24" source="glance" target="gleam" />
+      <edge id="25" source="glance" target="gloss" />
+      <edge id="26" source="glance" target="glaze" />
+      <edge id="27" source="glance" target="glimmer" />
+      <edge id="28" source="glance" target="glint" />
+      <edge id="29" source="glance" target="glance" />
+      <edge id="30" source="glance" target="glitter" />
+      <edge id="31" source="glance" target="glow" />
+      <edge id="32" source="glue" target="glop" />
+      <edge id="33" source="glue" target="glair" />
+      <edge id="34" source="glue" target="gluten" />
+      <edge id="35" source="glitter" target="glisten" />
+      <edge id="36" source="glitter" target="gleam" />
+      <edge id="37" source="glitter" target="glimmering" />
+      <edge id="38" source="glitter" target="glimmer" />
+      <edge id="39" source="glitter" target="glint" />
+      <edge id="40" source="glitter" target="glow" />
+      <edge id="41" source="glamorize" target="glorify" />
+      <edge id="42" source="glossary" target="gloss" />
+      <edge id="43" source="glimpse" target="glint" />
+      <edge id="44" source="glimpse" target="glimmering" />
+      <edge id="45" source="glistening" target="glittering" />
+      <edge id="46" source="glistening" target="gleaming" />
+      <edge id="47" source="glistening" target="glimmering" />
+      <edge id="48" source="glistening" target="glossy" />
+      <edge id="49" source="glisten" target="glint" />
+      <edge id="50" source="glisten" target="glimmering" />
+      <edge id="51" source="glisten" target="glimmer" />
+      <edge id="52" source="glisten" target="gleam" />
+      <edge id="53" source="glide" target="glissade" />
+      <edge id="54" source="glide" target="glossal" />
+      <edge id="55" source="glide" target="glissando" />
+      <edge id="56" source="glacier" target="glaze" />
+      <edge id="57" source="glint" target="gleam" />
+      <edge id="58" source="glint" target="gloss" />
+      <edge id="59" source="glint" target="glaze" />
+      <edge id="60" source="glint" target="glimmer" />
+      <edge id="61" source="glint" target="glow" />
+      <edge id="62" source="gloss" target="gloss" />
+      <edge id="63" source="gloss" target="glaze" />
+      <edge id="64" source="gloss" target="glow" />
+      <edge id="65" source="glaze" target="glass" />
+      <edge id="66" source="glimmering" target="glimmer" />
+      <edge id="67" source="glimmering" target="glittering" />
+      <edge id="68" source="glair" target="glop" />
+      <edge id="69" source="glair" target="gluten" />
+      <edge id="70" source="glissando" target="glissade" />
+      <edge id="71" source="glimmer" target="gleam" />
+      <edge id="72" source="glace" target="glazed" />
+      <edge id="73" source="glace" target="glassy" />
+      <edge id="74" source="glace" target="gleaming" />
+      <edge id="75" source="glace" target="glossy" />
+      <edge id="76" source="glutinous" target="gluey" />
+      <edge id="77" source="glassware" target="glass" />
+      <edge id="78" source="glow" target="gleam" />
+      <edge id="79" source="globe" target="globule" />
+      <edge id="80" source="gloominess" target="gloom" />
+      <edge id="81" source="gluten" target="glop" />
+      <edge id="82" source="gloom" target="glower" />
+      <edge id="83" source="glamour" target="glory" />
+      <edge id="84" source="glass" target="glassy" />
+      <edge id="85" source="gloat" target="glory" />
+      <edge id="86" source="glazed" target="glassy" />
+      <edge id="87" source="glazed" target="gleaming" />
+      <edge id="88" source="glazed" target="glossy" />
+      <edge id="89" source="glad" target="glowing" />
+      <edge id="90" source="glorification" target="glory" />
+      <edge id="91" source="glamorous" target="glowing" />
+      <edge id="92" source="glamorous" target="glorious" />
+      <edge id="93" source="glassy" target="gleaming" />
+      <edge id="94" source="glassy" target="glossy" />
+      <edge id="95" source="glowing" target="gleaming" />
+      <edge id="96" source="glowing" target="glorious" />
+      <edge id="97" source="glossy" target="gleaming" />
+    </edges>
+  </graph>
+</gexf>

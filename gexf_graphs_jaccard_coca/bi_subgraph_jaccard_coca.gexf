@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="bibulous" label="bibulous">
+        <attvalues>
+          <attvalue for="0" value="1.23044892138" />
+        </attvalues>
+      </node>
+      <node id="bigoted" label="bigoted">
+        <attvalues>
+          <attvalue for="0" value="2.53529412004" />
+        </attvalues>
+      </node>
+      <node id="birthplace" label="birthplace" />
+      <node id="bibliography" label="bibliography" />
+      <node id="bike" label="bike" />
+      <node id="bipartisan" label="bipartisan" />
+      <node id="bin" label="bin">
+        <attvalues>
+          <attvalue for="0" value="3.99982624745" />
+        </attvalues>
+      </node>
+      <node id="biddy" label="biddy" />
+      <node id="big" label="big" />
+      <node id="bid" label="bid" />
+      <node id="birth" label="birth" />
+      <node id="bit" label="bit">
+        <attvalues>
+          <attvalue for="0" value="4.89490284996" />
+        </attvalues>
+      </node>
+      <node id="biceps" label="biceps" />
+      <node id="bisect" label="bisect">
+        <attvalues>
+          <attvalue for="0" value="1.6232492904" />
+        </attvalues>
+      </node>
+      <node id="bishopric" label="bishopric">
+        <attvalues>
+          <attvalue for="0" value="1.43136376416" />
+        </attvalues>
+      </node>
+      <node id="bigotry" label="bigotry">
+        <attvalues>
+          <attvalue for="0" value="2.99033885479" />
+        </attvalues>
+      </node>
+      <node id="bison" label="bison">
+        <attvalues>
+          <attvalue for="0" value="3.17260293121" />
+        </attvalues>
+      </node>
+      <node id="bicuspid" label="bicuspid" />
+      <node id="bifurcation" label="bifurcation" />
+      <node id="bicycle" label="bicycle">
+        <attvalues>
+          <attvalue for="0" value="3.69214160937" />
+        </attvalues>
+      </node>
+      <node id="birthmark" label="birthmark" />
+      <node id="biannual" label="biannual">
+        <attvalues>
+          <attvalue for="0" value="2.1303337685" />
+        </attvalues>
+      </node>
+      <node id="bickering" label="bickering" />
+      <node id="bicorn" label="bicorn">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bicameral" label="bicameral">
+        <attvalues>
+          <attvalue for="0" value="1.77085201164" />
+        </attvalues>
+      </node>
+      <node id="bibliophile" label="bibliophile">
+        <attvalues>
+          <attvalue for="0" value="1.34242268082" />
+        </attvalues>
+      </node>
+      <node id="bird" label="bird" />
+      <node id="bisque" label="bisque">
+        <attvalues>
+          <attvalue for="0" value="2.35024801833" />
+        </attvalues>
+      </node>
+      <node id="bistro" label="bistro">
+        <attvalues>
+          <attvalue for="0" value="3.01241537476" />
+        </attvalues>
+      </node>
+      <node id="biology" label="biology" />
+      <node id="binder" label="binder">
+        <attvalues>
+          <attvalue for="0" value="2.89486965675" />
+        </attvalues>
+      </node>
+      <node id="binomial" label="binomial">
+        <attvalues>
+          <attvalue for="0" value="2.18469143082" />
+        </attvalues>
+      </node>
+      <node id="biweekly" label="biweekly" />
+      <node id="biggety" label="biggety" />
+      <node id="biosphere" label="biosphere" />
+      <node id="biscuit" label="biscuit">
+        <attvalues>
+          <attvalue for="0" value="2.92012332629" />
+        </attvalues>
+      </node>
+      <node id="bicentennial" label="bicentennial" />
+      <node id="biennial" label="biennial">
+        <attvalues>
+          <attvalue for="0" value="2.76417613239" />
+        </attvalues>
+      </node>
+      <node id="biting" label="biting">
+        <attvalues>
+          <attvalue for="0" value="3.39392600659" />
+        </attvalues>
+      </node>
+      <node id="binge" label="binge">
+        <attvalues>
+          <attvalue for="0" value="3.10002573011" />
+        </attvalues>
+      </node>
+      <node id="biorhythm" label="biorhythm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="bitch" label="bitch" />
+      <node id="bizarre" label="bizarre" />
+      <node id="bijou" label="bijou" />
+      <node id="bingo" label="bingo" />
+      <node id="bicolored" label="bicolored">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="bite" label="bite">
+        <attvalues>
+          <attvalue for="0" value="3.94792361983" />
+        </attvalues>
+      </node>
+      <node id="bitterly" label="bitterly">
+        <attvalues>
+          <attvalue for="0" value="3.30578115125" />
+        </attvalues>
+      </node>
+      <node id="biased" label="biased">
+        <attvalues>
+          <attvalue for="0" value="3.3277674899" />
+        </attvalues>
+      </node>
+      <node id="bitter" label="bitter">
+        <attvalues>
+          <attvalue for="0" value="3.95404944676" />
+        </attvalues>
+      </node>
+      <node id="bionics" label="bionics">
+        <attvalues>
+          <attvalue for="0" value="1.59106460703" />
+        </attvalues>
+      </node>
+      <node id="billet" label="billet" />
+      <node id="bilge" label="bilge" />
+      <node id="bitchy" label="bitchy" />
+      <node id="bight" label="bight">
+        <attvalues>
+          <attvalue for="0" value="1.96378782735" />
+        </attvalues>
+      </node>
+      <node id="bidding" label="bidding" />
+      <node id="bile" label="bile" />
+      <node id="bill" label="bill">
+        <attvalues>
+          <attvalue for="0" value="5.03210681359" />
+        </attvalues>
+      </node>
+      <node id="bilk" label="bilk" />
+      <node id="bitterness" label="bitterness">
+        <attvalues>
+          <attvalue for="0" value="3.32325210017" />
+        </attvalues>
+      </node>
+      <node id="birdcall" label="birdcall">
+        <attvalues>
+          <attvalue for="0" value="1.20411998266" />
+        </attvalues>
+      </node>
+      <node id="bighearted" label="bighearted">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="biped" label="biped" />
+      <node id="biochemical" label="biochemical">
+        <attvalues>
+          <attvalue for="0" value="2.92116605064" />
+        </attvalues>
+      </node>
+      <node id="bide" label="bide" />
+      <node id="bibelot" label="bibelot" />
+      <node id="bivouac" label="bivouac">
+        <attvalues>
+          <attvalue for="0" value="2.14921911266" />
+        </attvalues>
+      </node>
+      <node id="birthright" label="birthright">
+        <attvalues>
+          <attvalue for="0" value="2.63948648927" />
+        </attvalues>
+      </node>
+      <node id="bicker" label="bicker">
+        <attvalues>
+          <attvalue for="0" value="2.22271647115" />
+        </attvalues>
+      </node>
+      <node id="bisexual" label="bisexual">
+        <attvalues>
+          <attvalue for="0" value="3.16879202031" />
+        </attvalues>
+      </node>
+      <node id="bionomics" label="bionomics">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="bidet" label="bidet" />
+      <node id="binding" label="binding" />
+      <node id="bilabial" label="bilabial" />
+      <node id="bias" label="bias">
+        <attvalues>
+          <attvalue for="0" value="3.84373096511" />
+        </attvalues>
+      </node>
+      <node id="bickerer" label="bickerer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="bigwig" label="bigwig">
+        <attvalues>
+          <attvalue for="0" value="1.74818802701" />
+        </attvalues>
+      </node>
+      <node id="bishop" label="bishop">
+        <attvalues>
+          <attvalue for="0" value="3.93308216237" />
+        </attvalues>
+      </node>
+      <node id="biography" label="biography">
+        <attvalues>
+          <attvalue for="0" value="3.6359861118" />
+        </attvalues>
+      </node>
+      <node id="binary" label="binary" />
+      <node id="bigot" label="bigot" />
+      <node id="bilious" label="bilious">
+        <attvalues>
+          <attvalue for="0" value="1.94448267215" />
+        </attvalues>
+      </node>
+      <node id="biochemistry" label="biochemistry" />
+      <node id="billionaire" label="billionaire">
+        <attvalues>
+          <attvalue for="0" value="3.19893186993" />
+        </attvalues>
+      </node>
+      <node id="biff" label="biff">
+        <attvalues>
+          <attvalue for="0" value="2.19312459835" />
+        </attvalues>
+      </node>
+      <node id="billowy" label="billowy" />
+      <node id="biophysics" label="biophysics" />
+      <node id="birthday" label="birthday" />
+      <node id="billow" label="billow">
+        <attvalues>
+          <attvalue for="0" value="2.26951294422" />
+        </attvalues>
+      </node>
+      <node id="bibliographer" label="bibliographer" />
+      <node id="bibliolatry" label="bibliolatry" />
+      <node id="bilateral" label="bilateral" />
+      <node id="bind" label="bind" />
+      <node id="bipartite" label="bipartite" />
+    </nodes>
+    <edges>
+      <edge id="0" source="bibulous" target="big" weight="0.008065" />
+      <edge id="1" source="bibulous" target="bizarre" weight="0.011236" />
+      <edge id="2" source="bibulous" target="bigoted" weight="0.032258" />
+      <edge id="3" source="bibulous" target="bitter" weight="0.005525" />
+      <edge id="4" source="bigoted" target="biased" weight="0.042373" />
+      <edge id="5" source="bigoted" target="bilious" weight="0.010309" />
+      <edge id="6" source="bigoted" target="big" weight="0.005882" />
+      <edge id="7" source="bigoted" target="binding" weight="0.006173" />
+      <edge id="8" source="bigoted" target="bigot" weight="0.020833" />
+      <edge id="9" source="bigoted" target="bilabial" weight="0.006803" />
+      <edge id="10" source="bigoted" target="bickering" weight="0.006369" />
+      <edge id="11" source="bigoted" target="bias" weight="0.003906" />
+      <edge id="12" source="bigoted" target="bit" weight="0.002915" />
+      <edge id="13" source="bigoted" target="bitchy" weight="0.007752" />
+      <edge id="14" source="bigoted" target="bitter" weight="0.004405" />
+      <edge id="15" source="bigoted" target="bipartite" weight="0.009804" />
+      <edge id="16" source="bigoted" target="bizarre" weight="0.007407" />
+      <edge id="17" source="birthplace" target="bivouac" weight="0.030303" />
+      <edge id="18" source="bibliography" target="birthright" weight="0.015625" />
+      <edge id="19" source="bibliography" target="bit" weight="0.003236" />
+      <edge id="20" source="bibliography" target="bias" weight="0.00905" />
+      <edge id="21" source="bibliography" target="bill" weight="0.004926" />
+      <edge id="22" source="bike" target="bite" weight="0.004367" />
+      <edge id="23" source="bike" target="bicycle" weight="0.882353" />
+      <edge id="24" source="bipartisan" target="biased" weight="0.015625" />
+      <edge id="25" source="bipartisan" target="bisect" weight="0.019231" />
+      <edge id="26" source="bipartisan" target="bisexual" weight="0.02439" />
+      <edge id="27" source="bipartisan" target="bias" weight="0.005051" />
+      <edge id="28" source="bipartisan" target="bicameral" weight="0.047619" />
+      <edge id="29" source="bipartisan" target="binomial" weight="0.058824" />
+      <edge id="30" source="bin" target="binding" weight="0.007353" />
+      <edge id="31" source="bin" target="bite" weight="0.007782" />
+      <edge id="32" source="bin" target="bilk" weight="0.01" />
+      <edge id="33" source="bin" target="bight" weight="0.01087" />
+      <edge id="34" source="bin" target="biweekly" weight="0.013333" />
+      <edge id="35" source="bin" target="billet" weight="0.005917" />
+      <edge id="36" source="bin" target="bide" weight="0.011494" />
+      <edge id="37" source="biddy" target="biff" weight="0.008" />
+      <edge id="38" source="biddy" target="bisexual" weight="0.010638" />
+      <edge id="39" source="biddy" target="binge" weight="0.01087" />
+      <edge id="40" source="biddy" target="bias" weight="0.003984" />
+      <edge id="41" source="biddy" target="bison" weight="0.036585" />
+      <edge id="42" source="biddy" target="billow" weight="0.009709" />
+      <edge id="43" source="biddy" target="bit" weight="0.002959" />
+      <edge id="44" source="big" target="bitterly" weight="0.007813" />
+      <edge id="45" source="big" target="bighearted" weight="0.170732" />
+      <edge id="46" source="big" target="bison" weight="0.008475" />
+      <edge id="47" source="big" target="bigwig" weight="0.008065" />
+      <edge id="48" source="big" target="bit" weight="0.002688" />
+      <edge id="49" source="bid" target="bivouac" weight="0.009901" />
+      <edge id="50" source="bid" target="bicolored" weight="0.011236" />
+      <edge id="51" source="bid" target="biff" weight="0.030534" />
+      <edge id="52" source="bid" target="bite" weight="0.01049" />
+      <edge id="53" source="bid" target="bill" weight="0.025424" />
+      <edge id="54" source="bid" target="birdcall" weight="0.034884" />
+      <edge id="55" source="bid" target="bias" weight="0.007722" />
+      <edge id="56" source="bid" target="bit" weight="0.008696" />
+      <edge id="57" source="bid" target="binge" weight="0.009901" />
+      <edge id="58" source="birth" target="birthright" weight="0.02521" />
+      <edge id="59" source="birth" target="bionics" weight="0.009091" />
+      <edge id="60" source="birth" target="bisect" weight="0.007519" />
+      <edge id="61" source="birth" target="bite" weight="0.009836" />
+      <edge id="62" source="birth" target="bionomics" weight="0.008929" />
+      <edge id="63" source="birth" target="biorhythm" weight="0.009524" />
+      <edge id="64" source="birth" target="bias" weight="0.01083" />
+      <edge id="65" source="birth" target="bigwig" weight="0.008475" />
+      <edge id="66" source="birth" target="bit" weight="0.008242" />
+      <edge id="67" source="birth" target="bishopric" weight="0.013158" />
+      <edge id="68" source="birth" target="bisque" weight="0.008065" />
+      <edge id="69" source="bit" target="bivouac" weight="0.003344" />
+      <edge id="70" source="bit" target="birthright" weight="0.003333" />
+      <edge id="71" source="bit" target="bill" weight="0.018519" />
+      <edge id="72" source="bit" target="bicker" weight="0.008982" />
+      <edge id="73" source="bit" target="biting" weight="0.002532" />
+      <edge id="74" source="bit" target="birthmark" weight="0.035503" />
+      <edge id="75" source="bit" target="bilabial" weight="0.008646" />
+      <edge id="76" source="bit" target="bickering" weight="0.002786" />
+      <edge id="77" source="bit" target="bias" weight="0.02" />
+      <edge id="78" source="bit" target="bitch" weight="0.005013" />
+      <edge id="79" source="bit" target="bigwig" weight="0.006757" />
+      <edge id="80" source="bit" target="bishop" weight="0.003322" />
+      <edge id="81" source="bit" target="bijou" weight="0.006757" />
+      <edge id="82" source="bit" target="bigot" weight="0.003344" />
+      <edge id="83" source="bit" target="bite" weight="0.111872" />
+      <edge id="84" source="bit" target="bitter" weight="0.002331" />
+      <edge id="85" source="bit" target="bird" weight="0.003145" />
+      <edge id="86" source="bit" target="bisque" weight="0.0033" />
+      <edge id="87" source="bit" target="biff" weight="0.018349" />
+      <edge id="88" source="bit" target="bilge" weight="0.008287" />
+      <edge id="89" source="bit" target="binder" weight="0.003145" />
+      <edge id="90" source="bit" target="bight" weight="0.003125" />
+      <edge id="91" source="bit" target="billow" weight="0.003226" />
+      <edge id="92" source="bit" target="bidet" weight="0.00339" />
+      <edge id="93" source="bit" target="bisect" weight="0.009677" />
+      <edge id="94" source="bit" target="bind" weight="0.034965" />
+      <edge id="95" source="bit" target="bishopric" weight="0.003012" />
+      <edge id="96" source="bit" target="bigotry" weight="0.003175" />
+      <edge id="97" source="bit" target="bilk" weight="0.003049" />
+      <edge id="98" source="bit" target="bitterness" weight="0.008621" />
+      <edge id="99" source="bit" target="bifurcation" weight="0.003165" />
+      <edge id="100" source="bit" target="biennial" weight="0.003236" />
+      <edge id="101" source="bit" target="biochemical" weight="0.006826" />
+      <edge id="102" source="bit" target="bide" weight="0.009585" />
+      <edge id="103" source="bit" target="billet" weight="0.007595" />
+      <edge id="104" source="bit" target="bibelot" weight="0.130909" />
+      <edge id="105" source="biceps" target="bight" weight="0.04" />
+      <edge id="106" source="bisect" target="binary" weight="0.019608" />
+      <edge id="107" source="bisect" target="biff" weight="0.020408" />
+      <edge id="108" source="bisect" target="bilateral" weight="0.015625" />
+      <edge id="109" source="bisect" target="bilk" weight="0.010526" />
+      <edge id="110" source="bisect" target="bite" weight="0.011952" />
+      <edge id="111" source="bisect" target="bifurcation" weight="0.012048" />
+      <edge id="112" source="bisect" target="bias" weight="0.008929" />
+      <edge id="113" source="bisect" target="birthmark" weight="0.035398" />
+      <edge id="114" source="bisect" target="bight" weight="0.011494" />
+      <edge id="115" source="bisect" target="billow" weight="0.012987" />
+      <edge id="116" source="bisect" target="binge" weight="0.015152" />
+      <edge id="117" source="bisect" target="bidet" weight="0.016129" />
+      <edge id="118" source="bisect" target="bipartite" weight="0.014085" />
+      <edge id="119" source="bishopric" target="bicentennial" weight="0.013514" />
+      <edge id="120" source="bishopric" target="bite" weight="0.003663" />
+      <edge id="121" source="bishopric" target="billet" weight="0.005435" />
+      <edge id="122" source="bigotry" target="bias" weight="0.004386" />
+      <edge id="123" source="bigotry" target="bibliolatry" weight="0.089286" />
+      <edge id="124" source="bison" target="bigot" weight="0.022222" />
+      <edge id="125" source="bison" target="bilge" weight="0.009091" />
+      <edge id="126" source="bison" target="bitch" weight="0.027972" />
+      <edge id="127" source="bicuspid" target="bisexual" weight="0.081633" />
+      <edge id="128" source="bicuspid" target="bicameral" weight="0.137931" />
+      <edge id="129" source="bicuspid" target="bitter" weight="0.005556" />
+      <edge id="130" source="bicuspid" target="binomial" weight="0.16" />
+      <edge id="131" source="bifurcation" target="bite" weight="0.003891" />
+      <edge id="132" source="bifurcation" target="bill" weight="0.009569" />
+      <edge id="133" source="bifurcation" target="bias" weight="0.040724" />
+      <edge id="134" source="bifurcation" target="bitterness" weight="0.008264" />
+      <edge id="135" source="bifurcation" target="bight" weight="0.393939" />
+      <edge id="136" source="bicycle" target="bind" weight="0.005376" />
+      <edge id="137" source="bicycle" target="bite" weight="0.004367" />
+      <edge id="138" source="bicycle" target="bigot" weight="0.02381" />
+      <edge id="139" source="birthmark" target="biff" weight="0.022388" />
+      <edge id="140" source="birthmark" target="bicker" weight="0.007143" />
+      <edge id="141" source="birthmark" target="bite" weight="0.021053" />
+      <edge id="142" source="birthmark" target="bill" weight="0.016667" />
+      <edge id="143" source="birthmark" target="bias" weight="0.015444" />
+      <edge id="144" source="birthmark" target="bitterness" weight="0.006494" />
+      <edge id="145" source="birthmark" target="bight" weight="0.008065" />
+      <edge id="146" source="biannual" target="bicentennial" weight="0.09375" />
+      <edge id="147" source="biannual" target="biweekly" weight="0.59375" />
+      <edge id="148" source="biannual" target="birthday" weight="0.115385" />
+      <edge id="149" source="biannual" target="biennial" weight="0.5" />
+      <edge id="150" source="bickering" target="biased" weight="0.007246" />
+      <edge id="151" source="bickering" target="bicker" weight="0.055944" />
+      <edge id="152" source="bickering" target="bitterness" weight="0.006098" />
+      <edge id="153" source="bickering" target="bias" weight="0.003676" />
+      <edge id="154" source="bickering" target="bickerer" weight="0.008403" />
+      <edge id="155" source="bickering" target="bitter" weight="0.008264" />
+      <edge id="156" source="bicorn" target="billet" weight="0.007692" />
+      <edge id="157" source="bicameral" target="bilateral" weight="0.030303" />
+      <edge id="158" source="bicameral" target="bisexual" weight="0.117647" />
+      <edge id="159" source="bicameral" target="binomial" weight="0.4" />
+      <edge id="160" source="bicameral" target="biped" weight="0.137931" />
+      <edge id="161" source="bicameral" target="bipartite" weight="0.108108" />
+      <edge id="162" source="bibliophile" target="bite" weight="0.004444" />
+      <edge id="163" source="bibliophile" target="bibliographer" weight="0.285714" />
+      <edge id="164" source="bird" target="bias" weight="0.004329" />
+      <edge id="165" source="bird" target="bill" weight="0.004717" />
+      <edge id="166" source="bisque" target="bind" weight="0.004975" />
+      <edge id="167" source="bisque" target="bite" weight="0.004098" />
+      <edge id="168" source="bisque" target="biscuit" weight="0.439024" />
+      <edge id="169" source="bistro" target="bind" weight="0.004975" />
+      <edge id="170" source="bistro" target="billet" weight="0.006452" />
+      <edge id="171" source="biology" target="bionomics" weight="0.615385" />
+      <edge id="172" source="biology" target="bionics" weight="0.666667" />
+      <edge id="173" source="binder" target="bivouac" weight="0.013889" />
+      <edge id="174" source="binder" target="bind" weight="0.018779" />
+      <edge id="175" source="binder" target="binding" weight="0.053435" />
+      <edge id="176" source="binder" target="bias" weight="0.004329" />
+      <edge id="177" source="binder" target="billow" weight="0.012048" />
+      <edge id="178" source="binomial" target="bilateral" weight="0.034483" />
+      <edge id="179" source="binomial" target="bisexual" weight="0.133333" />
+      <edge id="180" source="binomial" target="biped" weight="0.16" />
+      <edge id="181" source="binomial" target="bipartite" weight="0.121212" />
+      <edge id="182" source="biweekly" target="biennial" weight="0.387755" />
+      <edge id="183" source="biweekly" target="biography" weight="0.040816" />
+      <edge id="184" source="biggety" target="biting" weight="0.006757" />
+      <edge id="185" source="biggety" target="bicker" weight="0.011236" />
+      <edge id="186" source="biosphere" target="billow" weight="0.019608" />
+      <edge id="187" source="biscuit" target="bind" weight="0.010152" />
+      <edge id="188" source="biscuit" target="bite" weight="0.004149" />
+      <edge id="189" source="biscuit" target="bill" weight="0.005155" />
+      <edge id="190" source="biscuit" target="bilk" weight="0.012048" />
+      <edge id="191" source="biscuit" target="bide" weight="0.014286" />
+      <edge id="192" source="biscuit" target="billet" weight="0.006579" />
+      <edge id="193" source="bicentennial" target="biennial" weight="0.181818" />
+      <edge id="194" source="biennial" target="birthday" weight="0.210526" />
+      <edge id="195" source="biennial" target="biting" weight="0.006289" />
+      <edge id="196" source="biennial" target="bitter" weight="0.005181" />
+      <edge id="197" source="biting" target="bile" weight="0.006667" />
+      <edge id="198" source="biting" target="bilious" weight="0.013514" />
+      <edge id="199" source="biting" target="bite" weight="0.00597" />
+      <edge id="200" source="biting" target="binding" weight="0.004673" />
+      <edge id="201" source="biting" target="bitterness" weight="0.005" />
+      <edge id="202" source="biting" target="bilabial" weight="0.010101" />
+      <edge id="203" source="biting" target="bitch" weight="0.004" />
+      <edge id="204" source="biting" target="bidding" weight="0.006803" />
+      <edge id="205" source="biting" target="biochemical" weight="0.006944" />
+      <edge id="206" source="biting" target="bitter" weight="0.327014" />
+      <edge id="207" source="biting" target="bizarre" weight="0.027322" />
+      <edge id="208" source="biting" target="bickerer" weight="0.006452" />
+      <edge id="209" source="binge" target="biff" weight="0.011628" />
+      <edge id="210" source="bitch" target="biff" weight="0.005348" />
+      <edge id="211" source="bitch" target="bicker" weight="0.010526" />
+      <edge id="212" source="bitch" target="bite" weight="0.00885" />
+      <edge id="213" source="bitch" target="bill" weight="0.003401" />
+      <edge id="214" source="bitch" target="birdcall" weight="0.014286" />
+      <edge id="215" source="bitch" target="bitter" weight="0.003521" />
+      <edge id="216" source="bizarre" target="bicolored" weight="0.012658" />
+      <edge id="217" source="bizarre" target="bisexual" weight="0.010753" />
+      <edge id="218" source="bingo" target="bias" weight="0.005076" />
+      <edge id="219" source="bite" target="birthright" weight="0.008333" />
+      <edge id="220" source="bite" target="bill" weight="0.016" />
+      <edge id="221" source="bite" target="bicker" weight="0.00361" />
+      <edge id="222" source="bite" target="bias" weight="0.012658" />
+      <edge id="223" source="bite" target="bigwig" weight="0.004202" />
+      <edge id="224" source="bite" target="bishop" weight="0.004132" />
+      <edge id="225" source="bite" target="bitter" weight="0.00542" />
+      <edge id="226" source="bite" target="billet" weight="0.008929" />
+      <edge id="227" source="bite" target="biff" weight="0.022388" />
+      <edge id="228" source="bite" target="bilge" weight="0.003279" />
+      <edge id="229" source="bite" target="biochemical" weight="0.004255" />
+      <edge id="230" source="bite" target="bight" weight="0.007692" />
+      <edge id="231" source="bite" target="billow" weight="0.003984" />
+      <edge id="232" source="bite" target="bile" weight="0.025424" />
+      <edge id="233" source="bite" target="bind" weight="0.023936" />
+      <edge id="234" source="bite" target="bilk" weight="0.015038" />
+      <edge id="235" source="bite" target="bitterness" weight="0.110266" />
+      <edge id="236" source="bite" target="bide" weight="0.007843" />
+      <edge id="237" source="bite" target="bibelot" weight="0.008" />
+      <edge id="238" source="biased" target="bigot" weight="0.039474" />
+      <edge id="239" source="biased" target="bilious" weight="0.012821" />
+      <edge id="240" source="biased" target="bisexual" weight="0.0125" />
+      <edge id="241" source="biased" target="bilk" weight="0.009346" />
+      <edge id="242" source="biased" target="bilabial" weight="0.007813" />
+      <edge id="243" source="biased" target="bias" weight="0.122642" />
+      <edge id="244" source="biased" target="bitter" weight="0.004808" />
+      <edge id="245" source="bitter" target="biff" weight="0.00463" />
+      <edge id="246" source="bitter" target="bilious" weight="0.045455" />
+      <edge id="247" source="bitter" target="bill" weight="0.003096" />
+      <edge id="248" source="bitter" target="bitterness" weight="0.004274" />
+      <edge id="249" source="bitter" target="bilabial" weight="0.004292" />
+      <edge id="250" source="bitter" target="bickerer" weight="0.010638" />
+      <edge id="251" source="bitter" target="bile" weight="0.005435" />
+      <edge id="252" source="bitter" target="bitchy" weight="0.048544" />
+      <edge id="253" source="bitter" target="biochemical" weight="0.005618" />
+      <edge id="254" source="bionics" target="biochemistry" weight="0.888889" />
+      <edge id="255" source="bionics" target="bionomics" weight="0.8" />
+      <edge id="256" source="bionics" target="biophysics" weight="0.516129" />
+      <edge id="257" source="billet" target="biff" weight="0.005435" />
+      <edge id="258" source="billet" target="bill" weight="0.010381" />
+      <edge id="259" source="billet" target="bight" weight="0.017647" />
+      <edge id="260" source="billet" target="birdcall" weight="0.007246" />
+      <edge id="261" source="billet" target="bivouac" weight="0.006623" />
+      <edge id="262" source="billet" target="bias" weight="0.006472" />
+      <edge id="263" source="billet" target="bigwig" weight="0.013514" />
+      <edge id="264" source="bilge" target="biff" weight="0.013333" />
+      <edge id="265" source="bilge" target="bicker" weight="0.006452" />
+      <edge id="266" source="bilge" target="bill" weight="0.003876" />
+      <edge id="267" source="bilge" target="bitterness" weight="0.005917" />
+      <edge id="268" source="bilge" target="bias" weight="0.00361" />
+      <edge id="269" source="bilge" target="billow" weight="0.007752" />
+      <edge id="270" source="bitchy" target="bilious" weight="0.011765" />
+      <edge id="271" source="bight" target="bill" weight="0.00939" />
+      <edge id="272" source="bight" target="bind" weight="0.018605" />
+      <edge id="273" source="bight" target="binding" weight="0.007194" />
+      <edge id="274" source="bight" target="bitterness" weight="0.008" />
+      <edge id="275" source="bight" target="bias" weight="0.04" />
+      <edge id="276" source="bight" target="biff" weight="0.009346" />
+      <edge id="277" source="bidding" target="bill" weight="0.015873" />
+      <edge id="278" source="bidding" target="birdcall" weight="0.054054" />
+      <edge id="279" source="bile" target="bitterness" weight="0.152174" />
+      <edge id="280" source="bile" target="biochemical" weight="0.041667" />
+      <edge id="281" source="bill" target="birthright" weight="0.015625" />
+      <edge id="282" source="bill" target="bicker" weight="0.004348" />
+      <edge id="283" source="bill" target="bidet" weight="0.010638" />
+      <edge id="284" source="bill" target="binding" weight="0.007782" />
+      <edge id="285" source="bill" target="bilabial" weight="0.012448" />
+      <edge id="286" source="bill" target="bias" weight="0.008571" />
+      <edge id="287" source="bill" target="bishop" weight="0.005128" />
+      <edge id="288" source="bill" target="billow" weight="0.004902" />
+      <edge id="289" source="bill" target="bind" weight="0.005952" />
+      <edge id="290" source="bill" target="bitterness" weight="0.004098" />
+      <edge id="291" source="bill" target="birdcall" weight="0.016854" />
+      <edge id="292" source="bill" target="bighearted" weight="0.004762" />
+      <edge id="293" source="bilk" target="biff" weight="0.008696" />
+      <edge id="294" source="bilk" target="bicker" weight="0.025641" />
+      <edge id="295" source="bilk" target="bitterness" weight="0.007519" />
+      <edge id="296" source="bilk" target="bias" weight="0.008333" />
+      <edge id="297" source="bilk" target="billow" weight="0.010753" />
+      <edge id="298" source="bilk" target="bishop" weight="0.011905" />
+      <edge id="299" source="bitterness" target="bicker" weight="0.007092" />
+      <edge id="300" source="bitterness" target="bias" weight="0.007634" />
+      <edge id="301" source="bitterness" target="biophysics" weight="0.009346" />
+      <edge id="302" source="bitterness" target="bind" weight="0.004032" />
+      <edge id="303" source="bitterness" target="biochemical" weight="0.020408" />
+      <edge id="304" source="bighearted" target="bilabial" weight="0.016807" />
+      <edge id="305" source="biped" target="bisexual" weight="0.081633" />
+      <edge id="306" source="biped" target="bishop" weight="0.019231" />
+      <edge id="307" source="biochemical" target="bionomics" weight="0.025" />
+      <edge id="308" source="bide" target="bivouac" weight="0.014493" />
+      <edge id="309" source="bide" target="biff" weight="0.009804" />
+      <edge id="310" source="bibelot" target="biff" weight="0.020833" />
+      <edge id="311" source="bivouac" target="bind" weight="0.010204" />
+      <edge id="312" source="bivouac" target="bias" weight="0.004717" />
+      <edge id="313" source="birthright" target="bias" weight="0.004695" />
+      <edge id="314" source="birthright" target="bigwig" weight="0.019231" />
+      <edge id="315" source="bicker" target="bisexual" weight="0.01087" />
+      <edge id="316" source="bicker" target="bias" weight="0.004016" />
+      <edge id="317" source="bicker" target="billow" weight="0.009901" />
+      <edge id="318" source="bisexual" target="bilateral" weight="0.018868" />
+      <edge id="319" source="bisexual" target="bipartite" weight="0.070175" />
+      <edge id="320" source="bisexual" target="bishop" weight="0.017544" />
+      <edge id="321" source="bionomics" target="biochemistry" weight="0.8" />
+      <edge id="322" source="bionomics" target="biophysics" weight="0.484848" />
+      <edge id="323" source="bidet" target="bias" weight="0.004808" />
+      <edge id="324" source="bilabial" target="bias" weight="0.003817" />
+      <edge id="325" source="bilabial" target="billow" weight="0.008772" />
+      <edge id="326" source="bias" target="binary" weight="0.005076" />
+      <edge id="327" source="bias" target="billowy" weight="0.004717" />
+      <edge id="328" source="bias" target="billow" weight="0.004484" />
+      <edge id="329" source="bias" target="bilateral" weight="0.004762" />
+      <edge id="330" source="bias" target="bind" weight="0.008475" />
+      <edge id="331" source="bias" target="bipartite" weight="0.004608" />
+      <edge id="332" source="bickerer" target="bishop" weight="0.016393" />
+      <edge id="333" source="bigwig" target="billionaire" weight="0.032258" />
+      <edge id="334" source="bigwig" target="bishop" weight="0.018868" />
+      <edge id="335" source="bigot" target="billow" weight="0.015625" />
+      <edge id="336" source="biff" target="bind" weight="0.008734" />
+      <edge id="337" source="biff" target="billow" weight="0.031579" />
+    </edges>
+  </graph>
+</gexf>

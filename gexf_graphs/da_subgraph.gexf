@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="dawdling" label="dawdling" />
+      <node id="daydreamer" label="daydreamer" />
+      <node id="dazed" label="dazed" />
+      <node id="dance" label="dance" />
+      <node id="dawdler" label="dawdler" />
+      <node id="datum" label="datum" />
+      <node id="dash" label="dash" />
+      <node id="daylight" label="daylight" />
+      <node id="dawdle" label="dawdle" />
+      <node id="dawn" label="dawn" />
+      <node id="dazzle" label="dazzle" />
+      <node id="dalliance" label="dalliance" />
+      <node id="darkness" label="darkness" />
+      <node id="dancing" label="dancing" />
+      <node id="daybreak" label="daybreak" />
+      <node id="damp" label="damp" />
+      <node id="daytime" label="daytime" />
+      <node id="daft" label="daft" />
+      <node id="damn" label="damn" />
+      <node id="daze" label="daze" />
+      <node id="dapple" label="dapple" />
+      <node id="dame" label="dame" />
+      <node id="dad" label="dad" />
+      <node id="dandy" label="dandy" />
+      <node id="daybook" label="daybook" />
+      <node id="dampness" label="dampness" />
+      <node id="dab" label="dab" />
+      <node id="damsel" label="damsel" />
+      <node id="dallying" label="dallying" />
+      <node id="darkish" label="darkish" />
+      <node id="dart" label="dart" />
+      <node id="dark" label="dark" />
+      <node id="dashing" label="dashing" />
+      <node id="darn" label="darn" />
+      <node id="dappled" label="dappled" />
+      <node id="date" label="date" />
+      <node id="dapper" label="dapper" />
+      <node id="dally" label="dally" />
+      <node id="data" label="data" />
+      <node id="day" label="day" />
+      <node id="daring" label="daring" />
+      <node id="daub" label="daub" />
+      <node id="dabble" label="dabble" />
+      <node id="darken" label="darken" />
+      <node id="damnable" label="damnable" />
+      <node id="dampen" label="dampen" />
+      <node id="daydream" label="daydream" />
+      <node id="daily" label="daily" />
+      <node id="daredevil" label="daredevil" />
+      <node id="darkened" label="darkened" />
+      <node id="daffy" label="daffy" />
+      <node id="dank" label="dank" />
+      <node id="daisy" label="daisy" />
+      <node id="damper" label="damper" />
+      <node id="daddy" label="daddy" />
+      <node id="damned" label="damned" />
+    </nodes>
+    <edges>
+      <edge id="0" source="dawdling" target="dallying" />
+      <edge id="1" source="dawdling" target="dalliance" />
+      <edge id="2" source="daydreamer" target="daydream" />
+      <edge id="3" source="dazed" target="daft" />
+      <edge id="4" source="dazed" target="darkened" />
+      <edge id="5" source="dazed" target="daffy" />
+      <edge id="6" source="dance" target="date" />
+      <edge id="7" source="dance" target="dancing" />
+      <edge id="8" source="dawdler" target="dawdle" />
+      <edge id="9" source="datum" target="data" />
+      <edge id="10" source="dash" target="dabble" />
+      <edge id="11" source="dash" target="darken" />
+      <edge id="12" source="dash" target="dampen" />
+      <edge id="13" source="dash" target="damp" />
+      <edge id="14" source="dash" target="dazzle" />
+      <edge id="15" source="dash" target="dart" />
+      <edge id="16" source="dash" target="dapple" />
+      <edge id="17" source="dash" target="daring" />
+      <edge id="18" source="daylight" target="dawn" />
+      <edge id="19" source="daylight" target="daybreak" />
+      <edge id="20" source="daylight" target="day" />
+      <edge id="21" source="daylight" target="daytime" />
+      <edge id="22" source="dawdle" target="dally" />
+      <edge id="23" source="dawn" target="daybreak" />
+      <edge id="24" source="dawn" target="day" />
+      <edge id="25" source="dawn" target="daytime" />
+      <edge id="26" source="dazzle" target="darken" />
+      <edge id="27" source="dazzle" target="daze" />
+      <edge id="28" source="dalliance" target="dallying" />
+      <edge id="29" source="darkness" target="dark" />
+      <edge id="30" source="damp" target="dabble" />
+      <edge id="31" source="damp" target="dampness" />
+      <edge id="32" source="damp" target="dampen" />
+      <edge id="33" source="damp" target="darken" />
+      <edge id="34" source="damp" target="dank" />
+      <edge id="35" source="damp" target="damper" />
+      <edge id="36" source="daytime" target="day" />
+      <edge id="37" source="daft" target="daffy" />
+      <edge id="38" source="damn" target="damnable" />
+      <edge id="39" source="damn" target="darn" />
+      <edge id="40" source="damn" target="damned" />
+      <edge id="41" source="daze" target="darken" />
+      <edge id="42" source="dapple" target="dappled" />
+      <edge id="43" source="dame" target="damsel" />
+      <edge id="44" source="dad" target="daddy" />
+      <edge id="45" source="dandy" target="daisy" />
+      <edge id="46" source="daybook" target="daily" />
+      <edge id="47" source="dab" target="daub" />
+      <edge id="48" source="darkish" target="dark" />
+      <edge id="49" source="dark" target="damnable" />
+      <edge id="50" source="dashing" target="dapper" />
+      <edge id="51" source="dashing" target="daring" />
+      <edge id="52" source="date" target="day" />
+      <edge id="53" source="dally" target="dabble" />
+      <edge id="54" source="daring" target="daredevil" />
+      <edge id="55" source="daub" target="darken" />
+      <edge id="56" source="dabble" target="dampen" />
+      <edge id="57" source="darken" target="dampen" />
+      <edge id="58" source="damnable" target="damned" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="hypotension" label="hypotension" />
+      <node id="hypnotism" label="hypnotism" />
+      <node id="hydromechanics" label="hydromechanics" />
+      <node id="hypochondria" label="hypochondria" />
+      <node id="hydraulics" label="hydraulics" />
+      <node id="hydrogenate" label="hydrogenate" />
+      <node id="hypersensitive" label="hypersensitive" />
+      <node id="hypertrophy" label="hypertrophy" />
+      <node id="hypnosis" label="hypnosis" />
+      <node id="hydrostatics" label="hydrostatics" />
+      <node id="hypertension" label="hypertension" />
+      <node id="hydrodynamics" label="hydrodynamics" />
+      <node id="hypercritical" label="hypercritical" />
+      <node id="hydrate" label="hydrate" />
+      <node id="hysteria" label="hysteria" />
+      <node id="hyperbole" label="hyperbole" />
+    </nodes>
+    <edges>
+      <edge id="0" source="hypotension" target="hypertension" />
+      <edge id="1" source="hypnotism" target="hypnosis" />
+      <edge id="2" source="hydromechanics" target="hydrostatics" />
+      <edge id="3" source="hydromechanics" target="hydraulics" />
+      <edge id="4" source="hydromechanics" target="hydrodynamics" />
+      <edge id="5" source="hypochondria" target="hysteria" />
+      <edge id="6" source="hydraulics" target="hydrostatics" />
+      <edge id="7" source="hydraulics" target="hydrodynamics" />
+      <edge id="8" source="hydrogenate" target="hydrate" />
+      <edge id="9" source="hypersensitive" target="hypercritical" />
+      <edge id="10" source="hypertrophy" target="hyperbole" />
+      <edge id="11" source="hydrostatics" target="hydrodynamics" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="obdurate" label="obdurate" />
+      <node id="obstructive" label="obstructive" />
+      <node id="observance" label="observance" />
+      <node id="obliged" label="obliged" />
+      <node id="obsolete" label="obsolete" />
+      <node id="obscene" label="obscene" />
+      <node id="obstinacy" label="obstinacy" />
+      <node id="obstruction" label="obstruction" />
+      <node id="obstacle" label="obstacle" />
+      <node id="obtuse" label="obtuse" />
+      <node id="obsequious" label="obsequious" />
+      <node id="obeisance" label="obeisance" />
+      <node id="obituary" label="obituary" />
+      <node id="objector" label="objector" />
+      <node id="obnoxious" label="obnoxious" />
+      <node id="observant" label="observant" />
+      <node id="objection" label="objection" />
+      <node id="obedience" label="obedience" />
+      <node id="oblige" label="oblige" />
+      <node id="obstinate" label="obstinate" />
+      <node id="objective" label="objective" />
+      <node id="obedient" label="obedient" />
+      <node id="obey" label="obey" />
+      <node id="obelisk" label="obelisk" />
+      <node id="object" label="object" />
+      <node id="observe" label="observe" />
+      <node id="obliteration" label="obliteration" />
+      <node id="obeisant" label="obeisant" />
+      <node id="observable" label="observable" />
+      <node id="objecting" label="objecting" />
+      <node id="observation" label="observation" />
+      <node id="obscured" label="obscured" />
+      <node id="objectionable" label="objectionable" />
+      <node id="obsolesce" label="obsolesce" />
+      <node id="obstructionist" label="obstructionist" />
+      <node id="oblivion" label="oblivion" />
+      <node id="obfuscate" label="obfuscate" />
+      <node id="obvious" label="obvious" />
+      <node id="obligate" label="obligate" />
+      <node id="obscure" label="obscure" />
+      <node id="obligated" label="obligated" />
+    </nodes>
+    <edges>
+      <edge id="0" source="obdurate" target="obtuse" />
+      <edge id="1" source="obdurate" target="obstinate" />
+      <edge id="2" source="obstructive" target="objecting" />
+      <edge id="3" source="observance" target="obedience" />
+      <edge id="4" source="observance" target="observation" />
+      <edge id="5" source="obliged" target="obligated" />
+      <edge id="6" source="obsolete" target="obsolesce" />
+      <edge id="7" source="obscene" target="objectionable" />
+      <edge id="8" source="obscene" target="obnoxious" />
+      <edge id="9" source="obstinacy" target="objection" />
+      <edge id="10" source="obstruction" target="objection" />
+      <edge id="11" source="obstruction" target="obstacle" />
+      <edge id="12" source="obstacle" target="objection" />
+      <edge id="13" source="obtuse" target="objective" />
+      <edge id="14" source="obsequious" target="obeisant" />
+      <edge id="15" source="obeisance" target="obedience" />
+      <edge id="16" source="obituary" target="obelisk" />
+      <edge id="17" source="objector" target="obstructionist" />
+      <edge id="18" source="obnoxious" target="objectionable" />
+      <edge id="19" source="observant" target="obedient" />
+      <edge id="20" source="oblige" target="obligate" />
+      <edge id="21" source="objective" target="object" />
+      <edge id="22" source="obey" target="observe" />
+      <edge id="23" source="obliteration" target="oblivion" />
+      <edge id="24" source="observable" target="obvious" />
+      <edge id="25" source="obscured" target="obscure" />
+      <edge id="26" source="obfuscate" target="obscure" />
+    </edges>
+  </graph>
+</gexf>

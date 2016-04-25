@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="brainchild" label="brainchild" />
+      <node id="broaden" label="broaden" />
+      <node id="brilliance" label="brilliance" />
+      <node id="bright" label="bright" />
+      <node id="brim" label="brim" />
+      <node id="brittle" label="brittle" />
+      <node id="brink" label="brink" />
+      <node id="brood" label="brood" />
+      <node id="brassiere" label="brassiere" />
+      <node id="broom" label="broom" />
+      <node id="brook" label="brook" />
+      <node id="brighten" label="brighten" />
+      <node id="breakout" label="breakout" />
+      <node id="brawling" label="brawling" />
+      <node id="braise" label="braise" />
+      <node id="breach" label="breach" />
+      <node id="brainstorm" label="brainstorm" />
+      <node id="brown" label="brown" />
+      <node id="bristle" label="bristle" />
+      <node id="break" label="break" />
+      <node id="breast" label="breast" />
+      <node id="breakage" label="breakage" />
+      <node id="bread" label="bread" />
+      <node id="broiler" label="broiler" />
+      <node id="brightness" label="brightness" />
+      <node id="bracelet" label="bracelet" />
+      <node id="brother" label="brother" />
+      <node id="breeze" label="breeze" />
+      <node id="breeder" label="breeder" />
+      <node id="brave" label="brave" />
+      <node id="broad" label="broad" />
+      <node id="broncobuster" label="broncobuster" />
+      <node id="brief" label="brief" />
+      <node id="brandish" label="brandish" />
+      <node id="bracing" label="bracing" />
+      <node id="brier" label="brier" />
+      <node id="bramble" label="bramble" />
+      <node id="browbeat" label="browbeat" />
+      <node id="brawl" label="brawl" />
+      <node id="brewing" label="brewing" />
+      <node id="brooch" label="brooch" />
+      <node id="broken" label="broken" />
+      <node id="brazen" label="brazen" />
+      <node id="broil" label="broil" />
+      <node id="brunet" label="brunet" />
+      <node id="bronze" label="bronze" />
+      <node id="breakable" label="breakable" />
+      <node id="brumal" label="brumal" />
+      <node id="braw" label="braw" />
+      <node id="bristling" label="bristling" />
+      <node id="brilliant" label="brilliant" />
+      <node id="bray" label="bray" />
+      <node id="brutal" label="brutal" />
+      <node id="brooder" label="brooder" />
+      <node id="brag" label="brag" />
+      <node id="braggart" label="braggart" />
+      <node id="bridge" label="bridge" />
+      <node id="breakwater" label="breakwater" />
+      <node id="brush" label="brush" />
+      <node id="breastwork" label="breastwork" />
+      <node id="bra" label="bra" />
+      <node id="bracer" label="bracer" />
+      <node id="brassy" label="brassy" />
+      <node id="breathless" label="breathless" />
+      <node id="breakup" label="breakup" />
+      <node id="breed" label="breed" />
+      <node id="brute" label="brute" />
+      <node id="breath" label="breath" />
+      <node id="breeching" label="breeching" />
+      <node id="breathe" label="breathe" />
+      <node id="brainy" label="brainy" />
+      <node id="brisk" label="brisk" />
+      <node id="broadcast" label="broadcast" />
+      <node id="broke" label="broke" />
+      <node id="brunch" label="brunch" />
+      <node id="brouhaha" label="brouhaha" />
+      <node id="brusque" label="brusque" />
+      <node id="briefing" label="briefing" />
+      <node id="breakneck" label="breakneck" />
+      <node id="brow" label="brow" />
+      <node id="breakfast" label="breakfast" />
+      <node id="breezy" label="breezy" />
+      <node id="brethren" label="brethren" />
+      <node id="bristly" label="bristly" />
+      <node id="bragging" label="bragging" />
+      <node id="broadcasting" label="broadcasting" />
+      <node id="branch" label="branch" />
+      <node id="brace" label="brace" />
+      <node id="brand" label="brand" />
+      <node id="breakdown" label="breakdown" />
+      <node id="brash" label="brash" />
+      <node id="bravado" label="bravado" />
+      <node id="bridle" label="bridle" />
+      <node id="brass" label="brass" />
+      <node id="breather" label="breather" />
+      <node id="bracket" label="bracket" />
+      <node id="bravura" label="bravura" />
+      <node id="brew" label="brew" />
+      <node id="breaker" label="breaker" />
+    </nodes>
+    <edges>
+      <edge id="0" source="brainchild" target="brainstorm" />
+      <edge id="1" source="broaden" target="breed" />
+      <edge id="2" source="brilliance" target="bravura" />
+      <edge id="3" source="brilliance" target="brightness" />
+      <edge id="4" source="bright" target="brilliant" />
+      <edge id="5" source="bright" target="brainy" />
+      <edge id="6" source="bright" target="brave" />
+      <edge id="7" source="brim" target="brow" />
+      <edge id="8" source="brim" target="brink" />
+      <edge id="9" source="brittle" target="breakable" />
+      <edge id="10" source="brink" target="brow" />
+      <edge id="11" source="brood" target="breed" />
+      <edge id="12" source="brassiere" target="bracket" />
+      <edge id="13" source="brassiere" target="brace" />
+      <edge id="14" source="brassiere" target="bra" />
+      <edge id="15" source="brassiere" target="bracer" />
+      <edge id="16" source="broom" target="brush" />
+      <edge id="17" source="brook" target="brave" />
+      <edge id="18" source="brook" target="branch" />
+      <edge id="19" source="brighten" target="break" />
+      <edge id="20" source="breakout" target="break" />
+      <edge id="21" source="brawling" target="brassy" />
+      <edge id="22" source="brawling" target="brazen" />
+      <edge id="23" source="braise" target="brew" />
+      <edge id="24" source="braise" target="brown" />
+      <edge id="25" source="braise" target="broil" />
+      <edge id="26" source="breach" target="break" />
+      <edge id="27" source="breach" target="breakage" />
+      <edge id="28" source="brown" target="broil" />
+      <edge id="29" source="brown" target="brunet" />
+      <edge id="30" source="brown" target="brew" />
+      <edge id="31" source="brown" target="bronze" />
+      <edge id="32" source="bristle" target="brier" />
+      <edge id="33" source="bristle" target="bramble" />
+      <edge id="34" source="bristle" target="bridle" />
+      <edge id="35" source="break" target="breathe" />
+      <edge id="36" source="break" target="breath" />
+      <edge id="37" source="break" target="breed" />
+      <edge id="38" source="break" target="breather" />
+      <edge id="39" source="break" target="break" />
+      <edge id="40" source="break" target="bridle" />
+      <edge id="41" source="break" target="brush" />
+      <edge id="42" source="break" target="breakage" />
+      <edge id="43" source="break" target="browbeat" />
+      <edge id="44" source="breast" target="brave" />
+      <edge id="45" source="breakage" target="breakdown" />
+      <edge id="46" source="bread" target="brass" />
+      <edge id="47" source="broiler" target="brooder" />
+      <edge id="48" source="bracelet" target="brooch" />
+      <edge id="49" source="brother" target="brethren" />
+      <edge id="50" source="breeze" target="breath" />
+      <edge id="51" source="breeze" target="brew" />
+      <edge id="52" source="breeze" target="brush" />
+      <edge id="53" source="breeder" target="broncobuster" />
+      <edge id="54" source="breeder" target="breaker" />
+      <edge id="55" source="brave" target="braw" />
+      <edge id="56" source="brave" target="brazen" />
+      <edge id="57" source="brave" target="bravura" />
+      <edge id="58" source="broad" target="brusque" />
+      <edge id="59" source="broncobuster" target="breaker" />
+      <edge id="60" source="brief" target="brusque" />
+      <edge id="61" source="brief" target="briefing" />
+      <edge id="62" source="brief" target="brisk" />
+      <edge id="63" source="brandish" target="breathe" />
+      <edge id="64" source="bracing" target="brisk" />
+      <edge id="65" source="brier" target="bramble" />
+      <edge id="66" source="brawl" target="brawl" />
+      <edge id="67" source="brawl" target="brouhaha" />
+      <edge id="68" source="brawl" target="broil" />
+      <edge id="69" source="brewing" target="broil" />
+      <edge id="70" source="broken" target="broke" />
+      <edge id="71" source="brazen" target="brash" />
+      <edge id="72" source="brazen" target="brassy" />
+      <edge id="73" source="brazen" target="brass" />
+      <edge id="74" source="brazen" target="bronze" />
+      <edge id="75" source="broil" target="brew" />
+      <edge id="76" source="broil" target="brouhaha" />
+      <edge id="77" source="bronze" target="brass" />
+      <edge id="78" source="bronze" target="brassy" />
+      <edge id="79" source="brumal" target="brisk" />
+      <edge id="80" source="braw" target="bravura" />
+      <edge id="81" source="bristling" target="bristly" />
+      <edge id="82" source="brilliant" target="brainy" />
+      <edge id="83" source="brilliant" target="bravura" />
+      <edge id="84" source="bray" target="breathe" />
+      <edge id="85" source="brutal" target="brute" />
+      <edge id="86" source="brag" target="bragging" />
+      <edge id="87" source="brag" target="braggart" />
+      <edge id="88" source="brag" target="bravado" />
+      <edge id="89" source="braggart" target="bragging" />
+      <edge id="90" source="bridge" target="bracket" />
+      <edge id="91" source="breakwater" target="breastwork" />
+      <edge id="92" source="brush" target="breath" />
+      <edge id="93" source="brush" target="bridle" />
+      <edge id="94" source="brush" target="brush" />
+      <edge id="95" source="bra" target="bracer" />
+      <edge id="96" source="bra" target="bracket" />
+      <edge id="97" source="bra" target="brace" />
+      <edge id="98" source="bracer" target="bracket" />
+      <edge id="99" source="bracer" target="brace" />
+      <edge id="100" source="brassy" target="brash" />
+      <edge id="101" source="brassy" target="brass" />
+      <edge id="102" source="breathless" target="breakneck" />
+      <edge id="103" source="breakup" target="breakdown" />
+      <edge id="104" source="breed" target="brand" />
+      <edge id="105" source="breed" target="branch" />
+      <edge id="106" source="breath" target="breather" />
+      <edge id="107" source="breeching" target="bridle" />
+      <edge id="108" source="breathe" target="brew" />
+      <edge id="109" source="brisk" target="breezy" />
+      <edge id="110" source="broadcast" target="broadcasting" />
+      <edge id="111" source="brunch" target="breakfast" />
+      <edge id="112" source="brusque" target="brash" />
+      <edge id="113" source="bragging" target="bravado" />
+      <edge id="114" source="branch" target="bracket" />
+      <edge id="115" source="brace" target="bracket" />
+      <edge id="116" source="bravado" target="bravura" />
+    </edges>
+  </graph>
+</gexf>

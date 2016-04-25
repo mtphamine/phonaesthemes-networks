@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="bathing" label="bathing" />
+      <node id="bait" label="bait" />
+      <node id="bananas" label="bananas" />
+      <node id="barter" label="barter" />
+      <node id="ballplayer" label="ballplayer" />
+      <node id="baited" label="baited" />
+      <node id="barmaid" label="barmaid" />
+      <node id="battle" label="battle" />
+      <node id="barbecue" label="barbecue" />
+      <node id="baneful" label="baneful" />
+      <node id="badger" label="badger" />
+      <node id="babyish" label="babyish" />
+      <node id="baron" label="baron" />
+      <node id="badgered" label="badgered" />
+      <node id="bastion" label="bastion" />
+      <node id="baloney" label="baloney" />
+      <node id="ballooning" label="ballooning" />
+      <node id="babble" label="babble" />
+      <node id="banned" label="banned" />
+      <node id="bashful" label="bashful" />
+      <node id="baton" label="baton" />
+      <node id="baffle" label="baffle" />
+      <node id="band" label="band" />
+      <node id="bang" label="bang" />
+      <node id="bankroll" label="bankroll" />
+      <node id="batter" label="batter" />
+      <node id="bandage" label="bandage" />
+      <node id="barbule" label="barbule" />
+      <node id="basement" label="basement" />
+      <node id="barbarian" label="barbarian" />
+      <node id="banner" label="banner" />
+      <node id="bank" label="bank" />
+      <node id="badinage" label="badinage" />
+      <node id="bat" label="bat" />
+      <node id="bar" label="bar" />
+      <node id="background" label="background" />
+      <node id="bay" label="bay" />
+      <node id="bag" label="bag" />
+      <node id="bad" label="bad" />
+      <node id="banty" label="banty" />
+      <node id="bathhouse" label="bathhouse" />
+      <node id="ban" label="ban" />
+      <node id="bafflement" label="bafflement" />
+      <node id="back" label="back" />
+      <node id="baseborn" label="baseborn" />
+      <node id="barb" label="barb" />
+      <node id="bare" label="bare" />
+      <node id="backfire" label="backfire" />
+      <node id="bacchanal" label="bacchanal" />
+      <node id="bark" label="bark" />
+      <node id="bake" label="bake" />
+      <node id="barbican" label="barbican" />
+      <node id="bantam" label="bantam" />
+      <node id="baritone" label="baritone" />
+      <node id="barbiturate" label="barbiturate" />
+      <node id="barbaric" label="barbaric" />
+      <node id="balmy" label="balmy" />
+      <node id="bayard" label="bayard" />
+      <node id="baptistery" label="baptistery" />
+      <node id="badge" label="badge" />
+      <node id="balladeer" label="balladeer" />
+      <node id="bamboozle" label="bamboozle" />
+      <node id="bald" label="bald" />
+      <node id="banister" label="banister" />
+      <node id="bass" label="bass" />
+      <node id="barrier" label="barrier" />
+      <node id="battledore" label="battledore" />
+      <node id="balked" label="balked" />
+      <node id="balefire" label="balefire" />
+      <node id="base" label="base" />
+      <node id="baptize" label="baptize" />
+      <node id="baleful" label="baleful" />
+      <node id="backlash" label="backlash" />
+      <node id="bash" label="bash" />
+      <node id="balustrade" label="balustrade" />
+      <node id="bartizan" label="bartizan" />
+      <node id="balance" label="balance" />
+      <node id="basso" label="basso" />
+      <node id="basis" label="basis" />
+      <node id="bachelor" label="bachelor" />
+      <node id="balneation" label="balneation" />
+      <node id="banker" label="banker" />
+      <node id="barbarity" label="barbarity" />
+      <node id="backup" label="backup" />
+      <node id="banneret" label="banneret" />
+      <node id="bate" label="bate" />
+      <node id="battery" label="battery" />
+      <node id="bath" label="bath" />
+      <node id="bats" label="bats" />
+      <node id="babbling" label="babbling" />
+      <node id="bathroom" label="bathroom" />
+      <node id="backwater" label="backwater" />
+      <node id="baggy" label="baggy" />
+      <node id="bayou" label="bayou" />
+      <node id="backwash" label="backwash" />
+      <node id="bagatelle" label="bagatelle" />
+      <node id="basic" label="basic" />
+      <node id="battlement" label="battlement" />
+      <node id="basin" label="basin" />
+      <node id="baronet" label="baronet" />
+      <node id="ballast" label="ballast" />
+      <node id="barbarous" label="barbarous" />
+      <node id="baffled" label="baffled" />
+      <node id="backpedal" label="backpedal" />
+      <node id="basal" label="basal" />
+      <node id="baby" label="baby" />
+      <node id="backstop" label="backstop" />
+      <node id="bathtub" label="bathtub" />
+      <node id="banish" label="banish" />
+      <node id="banter" label="banter" />
+      <node id="balls" label="balls" />
+      <node id="bartender" label="bartender" />
+      <node id="banishment" label="banishment" />
+      <node id="barroom" label="barroom" />
+      <node id="bargain" label="bargain" />
+      <node id="barring" label="barring" />
+      <node id="barricade" label="barricade" />
+      <node id="balladmonger" label="balladmonger" />
+      <node id="batty" label="batty" />
+      <node id="baptism" label="baptism" />
+      <node id="bard" label="bard" />
+      <node id="bathe" label="bathe" />
+      <node id="backflow" label="backflow" />
+      <node id="backing" label="backing" />
+      <node id="bamboozled" label="bamboozled" />
+      <node id="balsam" label="balsam" />
+      <node id="baths" label="baths" />
+      <node id="babe" label="babe" />
+      <node id="bastard" label="bastard" />
+      <node id="battalion" label="battalion" />
+      <node id="bankrupt" label="bankrupt" />
+      <node id="balloon" label="balloon" />
+      <node id="backstroke" label="backstroke" />
+      <node id="bauble" label="bauble" />
+      <node id="bacteria" label="bacteria" />
+      <node id="batten" label="batten" />
+      <node id="baste" label="baste" />
+      <node id="barmy" label="barmy" />
+      <node id="bandstand" label="bandstand" />
+      <node id="backsliding" label="backsliding" />
+      <node id="balm" label="balm" />
+      <node id="ball" label="ball" />
+      <node id="balk" label="balk" />
+      <node id="bacillus" label="bacillus" />
+      <node id="barbel" label="barbel" />
+      <node id="backbone" label="backbone" />
+      <node id="bawl" label="bawl" />
+      <node id="barren" label="barren" />
+      <node id="barrage" label="barrage" />
+      <node id="backstage" label="backstage" />
+      <node id="balderdash" label="balderdash" />
+      <node id="barbarism" label="barbarism" />
+      <node id="barfy" label="barfy" />
+      <node id="bane" label="bane" />
+      <node id="ballyhoo" label="ballyhoo" />
+      <node id="banded" label="banded" />
+      <node id="backwoods" label="backwoods" />
+      <node id="barred" label="barred" />
+      <node id="basket" label="basket" />
+      <node id="barrel" label="barrel" />
+      <node id="backward" label="backward" />
+      <node id="backdrop" label="backdrop" />
+      <node id="bandeau" label="bandeau" />
+    </nodes>
+    <edges>
+      <edge id="0" source="bathing" target="bathe" />
+      <edge id="1" source="bathing" target="baptism" />
+      <edge id="2" source="bathing" target="backstroke" />
+      <edge id="3" source="bathing" target="balneation" />
+      <edge id="4" source="bathing" target="bath" />
+      <edge id="5" source="bait" target="badger" />
+      <edge id="6" source="bananas" target="barmy" />
+      <edge id="7" source="bananas" target="bats" />
+      <edge id="8" source="bananas" target="balmy" />
+      <edge id="9" source="bananas" target="batty" />
+      <edge id="10" source="barter" target="bargain" />
+      <edge id="11" source="ballplayer" target="battery" />
+      <edge id="12" source="ballplayer" target="batter" />
+      <edge id="13" source="baited" target="badgered" />
+      <edge id="14" source="barmaid" target="bartender" />
+      <edge id="15" source="battle" target="barricade" />
+      <edge id="16" source="battle" target="bank" />
+      <edge id="17" source="barbecue" target="baste" />
+      <edge id="18" source="barbecue" target="bake" />
+      <edge id="19" source="baneful" target="baleful" />
+      <edge id="20" source="baneful" target="bad" />
+      <edge id="21" source="babyish" target="baby" />
+      <edge id="22" source="baron" target="baronet" />
+      <edge id="23" source="baron" target="banker" />
+      <edge id="24" source="bastion" target="bartizan" />
+      <edge id="25" source="bastion" target="barrier" />
+      <edge id="26" source="bastion" target="barricade" />
+      <edge id="27" source="bastion" target="battlement" />
+      <edge id="28" source="bastion" target="barbican" />
+      <edge id="29" source="bastion" target="bank" />
+      <edge id="30" source="baloney" target="balls" />
+      <edge id="31" source="ballooning" target="baggy" />
+      <edge id="32" source="babble" target="baffle" />
+      <edge id="33" source="babble" target="balderdash" />
+      <edge id="34" source="banned" target="barred" />
+      <edge id="35" source="bashful" target="backward" />
+      <edge id="36" source="baton" target="badge" />
+      <edge id="37" source="baton" target="bat" />
+      <edge id="38" source="baton" target="bar" />
+      <edge id="39" source="baton" target="bandeau" />
+      <edge id="40" source="baffle" target="balk" />
+      <edge id="41" source="baffle" target="bafflement" />
+      <edge id="42" source="baffle" target="bamboozle" />
+      <edge id="43" source="band" target="batten" />
+      <edge id="44" source="band" target="battalion" />
+      <edge id="45" source="band" target="bar" />
+      <edge id="46" source="band" target="bandage" />
+      <edge id="47" source="band" target="bandeau" />
+      <edge id="48" source="bang" target="bat" />
+      <edge id="49" source="bang" target="bar" />
+      <edge id="50" source="bang" target="batten" />
+      <edge id="51" source="bang" target="bag" />
+      <edge id="52" source="bang" target="baste" />
+      <edge id="53" source="bang" target="batter" />
+      <edge id="54" source="bang" target="backfire" />
+      <edge id="55" source="bang" target="barricade" />
+      <edge id="56" source="bang" target="bark" />
+      <edge id="57" source="bang" target="bash" />
+      <edge id="58" source="bankroll" target="back" />
+      <edge id="59" source="batter" target="battery" />
+      <edge id="60" source="batter" target="bash" />
+      <edge id="61" source="batter" target="baste" />
+      <edge id="62" source="bandage" target="batten" />
+      <edge id="63" source="bandage" target="bathe" />
+      <edge id="64" source="barbule" target="barbel" />
+      <edge id="65" source="barbule" target="barb" />
+      <edge id="66" source="barbule" target="barrel" />
+      <edge id="67" source="basement" target="basis" />
+      <edge id="68" source="basement" target="bathroom" />
+      <edge id="69" source="basement" target="base" />
+      <edge id="70" source="basement" target="bank" />
+      <edge id="71" source="basement" target="bay" />
+      <edge id="72" source="barbarian" target="barbaric" />
+      <edge id="73" source="barbarian" target="barbarous" />
+      <edge id="74" source="banner" target="badge" />
+      <edge id="75" source="banner" target="banneret" />
+      <edge id="76" source="bank" target="bartizan" />
+      <edge id="77" source="bank" target="bar" />
+      <edge id="78" source="bank" target="barrier" />
+      <edge id="79" source="bank" target="barricade" />
+      <edge id="80" source="bank" target="bay" />
+      <edge id="81" source="bank" target="battlement" />
+      <edge id="82" source="bank" target="backstop" />
+      <edge id="83" source="bank" target="barbican" />
+      <edge id="84" source="bank" target="barrage" />
+      <edge id="85" source="badinage" target="banter" />
+      <edge id="86" source="bat" target="ball" />
+      <edge id="87" source="bat" target="bacchanal" />
+      <edge id="88" source="bat" target="battledore" />
+      <edge id="89" source="bat" target="bag" />
+      <edge id="90" source="bat" target="bauble" />
+      <edge id="91" source="bat" target="bash" />
+      <edge id="92" source="bar" target="bate" />
+      <edge id="93" source="bar" target="barrier" />
+      <edge id="94" source="bar" target="batten" />
+      <edge id="95" source="bar" target="barroom" />
+      <edge id="96" source="bar" target="barring" />
+      <edge id="97" source="bar" target="barrage" />
+      <edge id="98" source="bar" target="barricade" />
+      <edge id="99" source="bar" target="ban" />
+      <edge id="100" source="bar" target="backstop" />
+      <edge id="101" source="bar" target="badge" />
+      <edge id="102" source="bar" target="bandeau" />
+      <edge id="103" source="background" target="back" />
+      <edge id="104" source="background" target="backdrop" />
+      <edge id="105" source="bay" target="bawl" />
+      <edge id="106" source="bay" target="bayou" />
+      <edge id="107" source="bay" target="bayard" />
+      <edge id="108" source="bay" target="bark" />
+      <edge id="109" source="bag" target="balls" />
+      <edge id="110" source="bag" target="balloon" />
+      <edge id="111" source="bag" target="basket" />
+      <edge id="112" source="bag" target="barrel" />
+      <edge id="113" source="bad" target="bane" />
+      <edge id="114" source="bad" target="baleful" />
+      <edge id="115" source="bad" target="base" />
+      <edge id="116" source="bad" target="barfy" />
+      <edge id="117" source="banty" target="baby" />
+      <edge id="118" source="banty" target="bantam" />
+      <edge id="119" source="bathhouse" target="bathroom" />
+      <edge id="120" source="bathhouse" target="baths" />
+      <edge id="121" source="bathhouse" target="bath" />
+      <edge id="122" source="ban" target="banishment" />
+      <edge id="123" source="ban" target="barring" />
+      <edge id="124" source="ban" target="banish" />
+      <edge id="125" source="bafflement" target="balk" />
+      <edge id="126" source="back" target="backwater" />
+      <edge id="127" source="back" target="backing" />
+      <edge id="128" source="back" target="backbone" />
+      <edge id="129" source="back" target="backpedal" />
+      <edge id="130" source="back" target="backwoods" />
+      <edge id="131" source="back" target="backstop" />
+      <edge id="132" source="back" target="backward" />
+      <edge id="133" source="back" target="backdrop" />
+      <edge id="134" source="back" target="bandeau" />
+      <edge id="135" source="baseborn" target="bastard" />
+      <edge id="136" source="baseborn" target="base" />
+      <edge id="137" source="barb" target="barbel" />
+      <edge id="138" source="barb" target="barbiturate" />
+      <edge id="139" source="barb" target="barrel" />
+      <edge id="140" source="bare" target="barren" />
+      <edge id="141" source="bare" target="bald" />
+      <edge id="142" source="bare" target="bankrupt" />
+      <edge id="143" source="bare" target="basic" />
+      <edge id="144" source="backfire" target="balefire" />
+      <edge id="145" source="backfire" target="backlash" />
+      <edge id="146" source="bark" target="bawl" />
+      <edge id="147" source="bark" target="ballyhoo" />
+      <edge id="148" source="bake" target="baste" />
+      <edge id="149" source="barbican" target="bartizan" />
+      <edge id="150" source="barbican" target="barrier" />
+      <edge id="151" source="barbican" target="barricade" />
+      <edge id="152" source="barbican" target="battlement" />
+      <edge id="153" source="bantam" target="baby" />
+      <edge id="154" source="baritone" target="basso" />
+      <edge id="155" source="baritone" target="bass" />
+      <edge id="156" source="barbaric" target="barbarous" />
+      <edge id="157" source="balmy" target="batty" />
+      <edge id="158" source="balmy" target="barmy" />
+      <edge id="159" source="balmy" target="bats" />
+      <edge id="160" source="baptistery" target="baptism" />
+      <edge id="161" source="balladeer" target="balladmonger" />
+      <edge id="162" source="balladeer" target="bard" />
+      <edge id="163" source="banister" target="base" />
+      <edge id="164" source="banister" target="balustrade" />
+      <edge id="165" source="bass" target="basso" />
+      <edge id="166" source="barrier" target="bartizan" />
+      <edge id="167" source="barrier" target="barrage" />
+      <edge id="168" source="barrier" target="barricade" />
+      <edge id="169" source="barrier" target="backstop" />
+      <edge id="170" source="barrier" target="battlement" />
+      <edge id="171" source="barrier" target="balustrade" />
+      <edge id="172" source="battledore" target="ball" />
+      <edge id="173" source="battledore" target="bauble" />
+      <edge id="174" source="balked" target="baffled" />
+      <edge id="175" source="base" target="basis" />
+      <edge id="176" source="base" target="balustrade" />
+      <edge id="177" source="baptize" target="bathe" />
+      <edge id="178" source="backlash" target="backwash" />
+      <edge id="179" source="bartizan" target="battlement" />
+      <edge id="180" source="bartizan" target="barricade" />
+      <edge id="181" source="balance" target="ballast" />
+      <edge id="182" source="bachelor" target="baronet" />
+      <edge id="183" source="bachelor" target="banneret" />
+      <edge id="184" source="balneation" target="bathe" />
+      <edge id="185" source="balneation" target="backstroke" />
+      <edge id="186" source="barbarity" target="barbarism" />
+      <edge id="187" source="backup" target="backing" />
+      <edge id="188" source="banneret" target="baronet" />
+      <edge id="189" source="battery" target="battalion" />
+      <edge id="190" source="bath" target="bathe" />
+      <edge id="191" source="bath" target="bathtub" />
+      <edge id="192" source="bath" target="bathroom" />
+      <edge id="193" source="bath" target="baths" />
+      <edge id="194" source="bath" target="basin" />
+      <edge id="195" source="bath" target="baptism" />
+      <edge id="196" source="bats" target="batty" />
+      <edge id="197" source="bats" target="barmy" />
+      <edge id="198" source="babbling" target="backward" />
+      <edge id="199" source="bathroom" target="baths" />
+      <edge id="200" source="backwater" target="backwoods" />
+      <edge id="201" source="backwater" target="backwash" />
+      <edge id="202" source="backwater" target="backflow" />
+      <edge id="203" source="backwater" target="backpedal" />
+      <edge id="204" source="backwash" target="backflow" />
+      <edge id="205" source="backwash" target="backwoods" />
+      <edge id="206" source="bagatelle" target="bauble" />
+      <edge id="207" source="basic" target="basal" />
+      <edge id="208" source="battlement" target="barricade" />
+      <edge id="209" source="basin" target="bathtub" />
+      <edge id="210" source="baffled" target="bamboozled" />
+      <edge id="211" source="baby" target="babe" />
+      <edge id="212" source="backstop" target="barrage" />
+      <edge id="213" source="balls" target="basket" />
+      <edge id="214" source="barricade" target="batten" />
+      <edge id="215" source="balladmonger" target="bard" />
+      <edge id="216" source="batty" target="barmy" />
+      <edge id="217" source="bathe" target="backstroke" />
+      <edge id="218" source="backing" target="backbone" />
+      <edge id="219" source="backing" target="backsliding" />
+      <edge id="220" source="backing" target="bandeau" />
+      <edge id="221" source="balsam" target="balm" />
+      <edge id="222" source="balloon" target="ball" />
+      <edge id="223" source="bauble" target="ball" />
+      <edge id="224" source="bacteria" target="bacillus" />
+      <edge id="225" source="batten" target="backdrop" />
+      <edge id="226" source="bandstand" target="backstage" />
+      <edge id="227" source="backbone" target="bandeau" />
+      <edge id="228" source="banded" target="barred" />
+      <edge id="229" source="basket" target="barrel" />
+    </edges>
+  </graph>
+</gexf>

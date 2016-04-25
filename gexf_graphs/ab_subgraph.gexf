@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="abate" label="abate" />
+      <node id="abbreviated" label="abbreviated" />
+      <node id="abbreviate" label="abbreviate" />
+      <node id="abstracted" label="abstracted" />
+      <node id="abridge" label="abridge" />
+      <node id="abstract" label="abstract" />
+      <node id="abrogation" label="abrogation" />
+      <node id="abbreviation" label="abbreviation" />
+      <node id="abatement" label="abatement" />
+      <node id="abashed" label="abashed" />
+      <node id="abstruse" label="abstruse" />
+      <node id="abrogate" label="abrogate" />
+      <node id="abominable" label="abominable" />
+      <node id="aberrant" label="aberrant" />
+      <node id="abase" label="abase" />
+      <node id="abdication" label="abdication" />
+      <node id="abstention" label="abstention" />
+      <node id="absorption" label="absorption" />
+      <node id="abjure" label="abjure" />
+      <node id="abnegation" label="abnegation" />
+      <node id="abulia" label="abulia" />
+      <node id="abolish" label="abolish" />
+      <node id="abhorrent" label="abhorrent" />
+      <node id="aborigine" label="aborigine" />
+      <node id="ablate" label="ablate" />
+      <node id="absorbed" label="absorbed" />
+      <node id="abrade" label="abrade" />
+      <node id="absorb" label="absorb" />
+      <node id="abridgment" label="abridgment" />
+      <node id="aberration" label="aberration" />
+      <node id="abrasive" label="abrasive" />
+      <node id="absconded" label="absconded" />
+      <node id="abstraction" label="abstraction" />
+      <node id="abdicate" label="abdicate" />
+      <node id="abridged" label="abridged" />
+      <node id="abscond" label="abscond" />
+      <node id="abnormal" label="abnormal" />
+      <node id="abjuration" label="abjuration" />
+      <node id="abecedarian" label="abecedarian" />
+      <node id="abrasion" label="abrasion" />
+      <node id="aboriginal" label="aboriginal" />
+      <node id="abeyance" label="abeyance" />
+      <node id="abject" label="abject" />
+      <node id="abroad" label="abroad" />
+      <node id="absorbent" label="absorbent" />
+      <node id="absent" label="absent" />
+      <node id="abnormality" label="abnormality" />
+      <node id="ablation" label="ablation" />
+      <node id="abash" label="abash" />
+      <node id="absquatulate" label="absquatulate" />
+      <node id="abort" label="abort" />
+      <node id="absurd" label="absurd" />
+      <node id="abolition" label="abolition" />
+      <node id="abandon" label="abandon" />
+      <node id="absentmindedness" label="absentmindedness" />
+      <node id="abstinence" label="abstinence" />
+      <node id="abjection" label="abjection" />
+    </nodes>
+    <edges>
+      <edge id="0" source="abate" target="abrogate" />
+      <edge id="1" source="abate" target="abstract" />
+      <edge id="2" source="abate" target="ablate" />
+      <edge id="3" source="abate" target="abrade" />
+      <edge id="4" source="abate" target="abolish" />
+      <edge id="5" source="abbreviated" target="abridged" />
+      <edge id="6" source="abbreviated" target="abstracted" />
+      <edge id="7" source="abbreviate" target="abridge" />
+      <edge id="8" source="abbreviate" target="abstract" />
+      <edge id="9" source="abstracted" target="absent" />
+      <edge id="10" source="abstracted" target="absorbed" />
+      <edge id="11" source="abstracted" target="abridged" />
+      <edge id="12" source="abridge" target="abstract" />
+      <edge id="13" source="abstract" target="abstraction" />
+      <edge id="14" source="abstract" target="abbreviation" />
+      <edge id="15" source="abstract" target="abrade" />
+      <edge id="16" source="abstract" target="abstruse" />
+      <edge id="17" source="abstract" target="abridgment" />
+      <edge id="18" source="abrogation" target="abjuration" />
+      <edge id="19" source="abrogation" target="abolition" />
+      <edge id="20" source="abbreviation" target="abridgment" />
+      <edge id="21" source="abatement" target="abridgment" />
+      <edge id="22" source="abashed" target="abroad" />
+      <edge id="23" source="abrogate" target="abolish" />
+      <edge id="24" source="abominable" target="abhorrent" />
+      <edge id="25" source="abominable" target="abject" />
+      <edge id="26" source="abominable" target="abnormal" />
+      <edge id="27" source="abominable" target="aberrant" />
+      <edge id="28" source="aberrant" target="abnormal" />
+      <edge id="29" source="aberrant" target="abroad" />
+      <edge id="30" source="abase" target="abash" />
+      <edge id="31" source="abdication" target="abjuration" />
+      <edge id="32" source="abstention" target="abstinence" />
+      <edge id="33" source="absorption" target="absentmindedness" />
+      <edge id="34" source="absorption" target="ablation" />
+      <edge id="35" source="absorption" target="abstraction" />
+      <edge id="36" source="absorption" target="absorbent" />
+      <edge id="37" source="abjure" target="abandon" />
+      <edge id="38" source="abjure" target="abdicate" />
+      <edge id="39" source="abnegation" target="abstinence" />
+      <edge id="40" source="abulia" target="abstraction" />
+      <edge id="41" source="aborigine" target="aboriginal" />
+      <edge id="42" source="ablate" target="absorb" />
+      <edge id="43" source="ablate" target="abrade" />
+      <edge id="44" source="absorbed" target="absent" />
+      <edge id="45" source="aberration" target="abnormality" />
+      <edge id="46" source="abrasive" target="abrasion" />
+      <edge id="47" source="abrasive" target="ablation" />
+      <edge id="48" source="absconded" target="absent" />
+      <edge id="49" source="abstraction" target="abrasion" />
+      <edge id="50" source="abstraction" target="absentmindedness" />
+      <edge id="51" source="abstraction" target="ablation" />
+      <edge id="52" source="abscond" target="abandon" />
+      <edge id="53" source="abscond" target="absquatulate" />
+      <edge id="54" source="abnormal" target="absurd" />
+      <edge id="55" source="abjuration" target="abeyance" />
+      <edge id="56" source="abecedarian" target="aboriginal" />
+      <edge id="57" source="abrasion" target="ablation" />
+      <edge id="58" source="abort" target="abandon" />
+      <edge id="59" source="abandon" target="abjection" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="roaster" label="roaster" />
+      <node id="routinely" label="routinely" />
+      <node id="rocket" label="rocket" />
+      <node id="rob" label="rob" />
+      <node id="roundel" label="roundel" />
+      <node id="roe" label="roe" />
+      <node id="rounder" label="rounder" />
+      <node id="rondeau" label="rondeau" />
+      <node id="rouge" label="rouge" />
+      <node id="rounded" label="rounded" />
+      <node id="rough" label="rough" />
+      <node id="row" label="row" />
+      <node id="rover" label="rover" />
+      <node id="rooftop" label="rooftop" />
+      <node id="rose" label="rose" />
+      <node id="royal" label="royal" />
+      <node id="rouleau" label="rouleau" />
+      <node id="rosy" label="rosy" />
+      <node id="roamer" label="roamer" />
+      <node id="roughly" label="roughly" />
+      <node id="roadway" label="roadway" />
+      <node id="roost" label="roost" />
+      <node id="royalty" label="royalty" />
+      <node id="roundabout" label="roundabout" />
+      <node id="roister" label="roister" />
+      <node id="rotation" label="rotation" />
+      <node id="roving" label="roving" />
+      <node id="room" label="room" />
+      <node id="rotate" label="rotate" />
+      <node id="rocky" label="rocky" />
+      <node id="roughneck" label="roughneck" />
+      <node id="roundly" label="roundly" />
+      <node id="roast" label="roast" />
+      <node id="rock" label="rock" />
+      <node id="rota" label="rota" />
+      <node id="rote" label="rote" />
+      <node id="round" label="round" />
+      <node id="roebuck" label="roebuck" />
+      <node id="rollick" label="rollick" />
+      <node id="romancer" label="romancer" />
+      <node id="roisterous" label="roisterous" />
+      <node id="rollicking" label="rollicking" />
+      <node id="rotten" label="rotten" />
+      <node id="roiled" label="roiled" />
+      <node id="routine" label="routine" />
+      <node id="roaming" label="roaming" />
+      <node id="roaring" label="roaring" />
+      <node id="roller" label="roller" />
+      <node id="roundup" label="roundup" />
+      <node id="rosary" label="rosary" />
+      <node id="roar" label="roar" />
+      <node id="route" label="route" />
+      <node id="roil" label="roil" />
+      <node id="rodeo" label="rodeo" />
+      <node id="roam" label="roam" />
+      <node id="road" label="road" />
+      <node id="roughen" label="roughen" />
+      <node id="rockbound" label="rockbound" />
+      <node id="roughhew" label="roughhew" />
+      <node id="roofing" label="roofing" />
+      <node id="rondelle" label="rondelle" />
+      <node id="roily" label="roily" />
+      <node id="rocking" label="rocking" />
+      <node id="roughcast" label="roughcast" />
+      <node id="roadbed" label="roadbed" />
+      <node id="romantic" label="romantic" />
+      <node id="rood" label="rood" />
+      <node id="roof" label="roof" />
+      <node id="rope" label="rope" />
+      <node id="romanticized" label="romanticized" />
+      <node id="rotator" label="rotator" />
+      <node id="roughhouse" label="roughhouse" />
+      <node id="rowdy" label="rowdy" />
+      <node id="romanticism" label="romanticism" />
+      <node id="rooster" label="rooster" />
+      <node id="rotor" label="rotor" />
+      <node id="rout" label="rout" />
+      <node id="romance" label="romance" />
+      <node id="roue" label="roue" />
+      <node id="roll" label="roll" />
+      <node id="roster" label="roster" />
+      <node id="rolling" label="rolling" />
+      <node id="robust" label="robust" />
+      <node id="rotund" label="rotund" />
+      <node id="romp" label="romp" />
+      <node id="rotting" label="rotting" />
+      <node id="roughhewn" label="roughhewn" />
+      <node id="rotary" label="rotary" />
+      <node id="roundelay" label="roundelay" />
+      <node id="rogue" label="rogue" />
+      <node id="rove" label="rove" />
+    </nodes>
+    <edges>
+      <edge id="0" source="roaster" target="rooster" />
+      <edge id="1" source="routinely" target="roughly" />
+      <edge id="2" source="rocket" target="rock" />
+      <edge id="3" source="rob" target="roll" />
+      <edge id="4" source="roundel" target="roundelay" />
+      <edge id="5" source="roundel" target="rondelle" />
+      <edge id="6" source="roundel" target="rondeau" />
+      <edge id="7" source="roundel" target="round" />
+      <edge id="8" source="roe" target="roebuck" />
+      <edge id="9" source="rounder" target="roue" />
+      <edge id="10" source="rondeau" target="roundelay" />
+      <edge id="11" source="rondeau" target="round" />
+      <edge id="12" source="rouge" target="rose" />
+      <edge id="13" source="rounded" target="rotund" />
+      <edge id="14" source="rounded" target="round" />
+      <edge id="15" source="rough" target="roughen" />
+      <edge id="16" source="rough" target="roisterous" />
+      <edge id="17" source="rough" target="roughhewn" />
+      <edge id="18" source="rough" target="roughneck" />
+      <edge id="19" source="rough" target="rowdy" />
+      <edge id="20" source="rough" target="roughly" />
+      <edge id="21" source="rough" target="rollicking" />
+      <edge id="22" source="rough" target="rotten" />
+      <edge id="23" source="rough" target="roughcast" />
+      <edge id="24" source="row" target="roadbed" />
+      <edge id="25" source="row" target="roadway" />
+      <edge id="26" source="row" target="roar" />
+      <edge id="27" source="row" target="rout" />
+      <edge id="28" source="row" target="roil" />
+      <edge id="29" source="row" target="roll" />
+      <edge id="30" source="row" target="routine" />
+      <edge id="31" source="row" target="rotation" />
+      <edge id="32" source="row" target="roughhouse" />
+      <edge id="33" source="row" target="round" />
+      <edge id="34" source="row" target="road" />
+      <edge id="35" source="rover" target="roamer" />
+      <edge id="36" source="rooftop" target="roofing" />
+      <edge id="37" source="rooftop" target="roof" />
+      <edge id="38" source="rose" target="rosy" />
+      <edge id="39" source="royal" target="royalty" />
+      <edge id="40" source="rouleau" target="roll" />
+      <edge id="41" source="rouleau" target="roller" />
+      <edge id="42" source="roughly" target="roundly" />
+      <edge id="43" source="roadway" target="roadbed" />
+      <edge id="44" source="roadway" target="road" />
+      <edge id="45" source="roost" target="room" />
+      <edge id="46" source="roundabout" target="rotator" />
+      <edge id="47" source="roundabout" target="rotor" />
+      <edge id="48" source="roundabout" target="round" />
+      <edge id="49" source="roundabout" target="roller" />
+      <edge id="50" source="roundabout" target="rotary" />
+      <edge id="51" source="roister" target="rollick" />
+      <edge id="52" source="roister" target="roil" />
+      <edge id="53" source="rotation" target="routine" />
+      <edge id="54" source="rotation" target="round" />
+      <edge id="55" source="roving" target="roaming" />
+      <edge id="56" source="roving" target="rove" />
+      <edge id="57" source="room" target="rope" />
+      <edge id="58" source="rotate" target="roll" />
+      <edge id="59" source="rotate" target="round" />
+      <edge id="60" source="rocky" target="rockbound" />
+      <edge id="61" source="roughneck" target="rowdy" />
+      <edge id="62" source="roast" target="round" />
+      <edge id="63" source="rock" target="roll" />
+      <edge id="64" source="rota" target="roll" />
+      <edge id="65" source="rota" target="roster" />
+      <edge id="66" source="rote" target="routine" />
+      <edge id="67" source="round" target="rotund" />
+      <edge id="68" source="round" target="rondelle" />
+      <edge id="69" source="round" target="route" />
+      <edge id="70" source="round" target="rotary" />
+      <edge id="71" source="round" target="roundelay" />
+      <edge id="72" source="round" target="routine" />
+      <edge id="73" source="round" target="road" />
+      <edge id="74" source="rollick" target="roll" />
+      <edge id="75" source="rollick" target="romp" />
+      <edge id="76" source="romancer" target="romantic" />
+      <edge id="77" source="roisterous" target="rowdy" />
+      <edge id="78" source="roisterous" target="rollicking" />
+      <edge id="79" source="rollicking" target="rowdy" />
+      <edge id="80" source="rotten" target="rotting" />
+      <edge id="81" source="roiled" target="roily" />
+      <edge id="82" source="roaming" target="rove" />
+      <edge id="83" source="roaring" target="rolling" />
+      <edge id="84" source="roaring" target="robust" />
+      <edge id="85" source="roller" target="rotator" />
+      <edge id="86" source="roller" target="rotor" />
+      <edge id="87" source="roller" target="roll" />
+      <edge id="88" source="roundup" target="rodeo" />
+      <edge id="89" source="rosary" target="rood" />
+      <edge id="90" source="roar" target="roll" />
+      <edge id="91" source="route" target="road" />
+      <edge id="92" source="roil" target="rout" />
+      <edge id="93" source="roil" target="roughen" />
+      <edge id="94" source="roam" target="rove" />
+      <edge id="95" source="road" target="roadbed" />
+      <edge id="96" source="roughhew" target="roughcast" />
+      <edge id="97" source="roofing" target="roof" />
+      <edge id="98" source="rocking" target="rolling" />
+      <edge id="99" source="roughcast" target="roughhewn" />
+      <edge id="100" source="romantic" target="romanticized" />
+      <edge id="101" source="rotator" target="rotor" />
+      <edge id="102" source="rowdy" target="rogue" />
+      <edge id="103" source="romanticism" target="romance" />
+      <edge id="104" source="rout" target="romp" />
+      <edge id="105" source="roll" target="roster" />
+      <edge id="106" source="roll" target="rolling" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="sweetening" label="sweetening" />
+      <node id="swerve" label="swerve" />
+      <node id="swathe" label="swathe" />
+      <node id="swelling" label="swelling" />
+      <node id="sweepings" label="sweepings" />
+      <node id="swanky" label="swanky" />
+      <node id="swelter" label="swelter" />
+      <node id="swinging" label="swinging" />
+      <node id="swordsman" label="swordsman" />
+      <node id="sweetmeat" label="sweetmeat" />
+      <node id="sweetie" label="sweetie" />
+      <node id="sweating" label="sweating" />
+      <node id="swag" label="swag" />
+      <node id="swank" label="swank" />
+      <node id="swaggering" label="swaggering" />
+      <node id="swarm" label="swarm" />
+      <node id="swipe" label="swipe" />
+      <node id="sweaty" label="sweaty" />
+      <node id="swat" label="swat" />
+      <node id="sweep" label="sweep" />
+      <node id="swap" label="swap" />
+      <node id="sword" label="sword" />
+      <node id="sweet" label="sweet" />
+      <node id="swirl" label="swirl" />
+      <node id="sweltering" label="sweltering" />
+      <node id="sweepstakes" label="sweepstakes" />
+      <node id="swagger" label="swagger" />
+      <node id="sway" label="sway" />
+      <node id="swig" label="swig" />
+      <node id="swoop" label="swoop" />
+      <node id="swim" label="swim" />
+      <node id="swivel" label="swivel" />
+      <node id="swaddle" label="swaddle" />
+      <node id="swaggerer" label="swaggerer" />
+      <node id="swell" label="swell" />
+      <node id="swollen" label="swollen" />
+      <node id="swashbuckling" label="swashbuckling" />
+      <node id="swerving" label="swerving" />
+      <node id="sweeping" label="sweeping" />
+      <node id="swivet" label="swivet" />
+      <node id="sweetener" label="sweetener" />
+      <node id="swindle" label="swindle" />
+      <node id="swish" label="swish" />
+      <node id="swashbuckler" label="swashbuckler" />
+      <node id="swapping" label="swapping" />
+      <node id="swill" label="swill" />
+      <node id="swaying" label="swaying" />
+      <node id="sweetheart" label="sweetheart" />
+      <node id="swamp" label="swamp" />
+      <node id="switch" label="switch" />
+      <node id="swirling" label="swirling" />
+      <node id="sweat" label="sweat" />
+      <node id="swing" label="swing" />
+      <node id="swallow" label="swallow" />
+      <node id="swash" label="swash" />
+      <node id="swarming" label="swarming" />
+      <node id="swimming" label="swimming" />
+    </nodes>
+    <edges>
+      <edge id="0" source="sweetening" target="sweetener" />
+      <edge id="1" source="swerve" target="sway" />
+      <edge id="2" source="swerve" target="swerving" />
+      <edge id="3" source="swerve" target="swinging" />
+      <edge id="4" source="swerve" target="sweep" />
+      <edge id="5" source="swathe" target="swaddle" />
+      <edge id="6" source="swelling" target="swell" />
+      <edge id="7" source="swelling" target="swollen" />
+      <edge id="8" source="sweepings" target="swill" />
+      <edge id="9" source="swanky" target="swell" />
+      <edge id="10" source="swanky" target="swank" />
+      <edge id="11" source="swanky" target="swish" />
+      <edge id="12" source="swelter" target="sweat" />
+      <edge id="13" source="swinging" target="swag" />
+      <edge id="14" source="swinging" target="swaying" />
+      <edge id="15" source="swinging" target="swerving" />
+      <edge id="16" source="swinging" target="sweep" />
+      <edge id="17" source="swinging" target="swirling" />
+      <edge id="18" source="swinging" target="swing" />
+      <edge id="19" source="swinging" target="sway" />
+      <edge id="20" source="swordsman" target="swashbuckler" />
+      <edge id="21" source="swordsman" target="sword" />
+      <edge id="22" source="sweetmeat" target="sweet" />
+      <edge id="23" source="sweetie" target="sweet" />
+      <edge id="24" source="sweetie" target="sweetheart" />
+      <edge id="25" source="sweating" target="sweltering" />
+      <edge id="26" source="sweating" target="sweaty" />
+      <edge id="27" source="swag" target="sway" />
+      <edge id="28" source="swag" target="sweep" />
+      <edge id="29" source="swag" target="swing" />
+      <edge id="30" source="swank" target="swell" />
+      <edge id="31" source="swank" target="swagger" />
+      <edge id="32" source="swank" target="swash" />
+      <edge id="33" source="swank" target="swish" />
+      <edge id="34" source="swaggering" target="swashbuckling" />
+      <edge id="35" source="swarm" target="swarming" />
+      <edge id="36" source="swipe" target="swat" />
+      <edge id="37" source="swipe" target="swing" />
+      <edge id="38" source="swipe" target="swindle" />
+      <edge id="39" source="sweaty" target="sweltering" />
+      <edge id="40" source="swat" target="swing" />
+      <edge id="41" source="sweep" target="swerving" />
+      <edge id="42" source="sweep" target="swamp" />
+      <edge id="43" source="sweep" target="swoop" />
+      <edge id="44" source="sweep" target="swing" />
+      <edge id="45" source="sweep" target="sweeping" />
+      <edge id="46" source="sweep" target="sweepstakes" />
+      <edge id="47" source="swap" target="switch" />
+      <edge id="48" source="swap" target="swapping" />
+      <edge id="49" source="sword" target="swashbuckler" />
+      <edge id="50" source="sweet" target="sweetheart" />
+      <edge id="51" source="swirl" target="swirling" />
+      <edge id="52" source="swirl" target="sweat" />
+      <edge id="53" source="swagger" target="swell" />
+      <edge id="54" source="swagger" target="swash" />
+      <edge id="55" source="swagger" target="swing" />
+      <edge id="56" source="sway" target="swing" />
+      <edge id="57" source="swig" target="swill" />
+      <edge id="58" source="swim" target="swimming" />
+      <edge id="59" source="swivel" target="swing" />
+      <edge id="60" source="swaggerer" target="swash" />
+      <edge id="61" source="swaggerer" target="swashbuckler" />
+      <edge id="62" source="swivet" target="sweat" />
+      <edge id="63" source="swish" target="swash" />
+      <edge id="64" source="swashbuckler" target="swash" />
+      <edge id="65" source="swapping" target="switch" />
+      <edge id="66" source="swill" target="swallow" />
+    </edges>
+  </graph>
+</gexf>

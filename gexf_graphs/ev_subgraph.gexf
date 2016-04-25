@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="everybody" label="everybody" />
+      <node id="even" label="even" />
+      <node id="evolving" label="evolving" />
+      <node id="everyone" label="everyone" />
+      <node id="eventuality" label="eventuality" />
+      <node id="evenhanded" label="evenhanded" />
+      <node id="evensong" label="evensong" />
+      <node id="evolution" label="evolution" />
+      <node id="evidence" label="evidence" />
+      <node id="evince" label="evince" />
+      <node id="evening" label="evening" />
+      <node id="evoke" label="evoke" />
+      <node id="eventide" label="eventide" />
+      <node id="evermore" label="evermore" />
+      <node id="ever" label="ever" />
+      <node id="event" label="event" />
+    </nodes>
+    <edges>
+      <edge id="0" source="everybody" target="everyone" />
+      <edge id="1" source="even" target="evenhanded" />
+      <edge id="2" source="evolving" target="evolution" />
+      <edge id="3" source="eventuality" target="event" />
+      <edge id="4" source="evensong" target="eventide" />
+      <edge id="5" source="evensong" target="evening" />
+      <edge id="6" source="evidence" target="evince" />
+      <edge id="7" source="evince" target="evoke" />
+      <edge id="8" source="evening" target="eventide" />
+      <edge id="9" source="evermore" target="ever" />
+    </edges>
+  </graph>
+</gexf>

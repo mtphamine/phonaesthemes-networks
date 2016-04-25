@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="irradiation" label="irradiation">
+        <attvalues>
+          <attvalue for="0" value="2.59988307207" />
+        </attvalues>
+      </node>
+      <node id="irrigation" label="irrigation" />
+      <node id="irruption" label="irruption">
+        <attvalues>
+          <attvalue for="0" value="1.39794000867" />
+        </attvalues>
+      </node>
+      <node id="irascibility" label="irascibility">
+        <attvalues>
+          <attvalue for="0" value="1.30102999566" />
+        </attvalues>
+      </node>
+      <node id="irritable" label="irritable" />
+      <node id="irregularly" label="irregularly" />
+      <node id="ironbound" label="ironbound">
+        <attvalues>
+          <attvalue for="0" value="1.36172783602" />
+        </attvalues>
+      </node>
+      <node id="irreconcilable" label="irreconcilable">
+        <attvalues>
+          <attvalue for="0" value="2.59106460703" />
+        </attvalues>
+      </node>
+      <node id="irredeemable" label="irredeemable">
+        <attvalues>
+          <attvalue for="0" value="1.71600334363" />
+        </attvalues>
+      </node>
+      <node id="irritation" label="irritation">
+        <attvalues>
+          <attvalue for="0" value="3.25887662937" />
+        </attvalues>
+      </node>
+      <node id="ironic" label="ironic" />
+      <node id="irrefutable" label="irrefutable">
+        <attvalues>
+          <attvalue for="0" value="2.49136169383" />
+        </attvalues>
+      </node>
+      <node id="irrecoverable" label="irrecoverable">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="irresistible" label="irresistible" />
+      <node id="irreformable" label="irreformable" />
+      <node id="irradiate" label="irradiate" />
+      <node id="irrationality" label="irrationality" />
+      <node id="irony" label="irony">
+        <attvalues>
+          <attvalue for="0" value="3.74733410962" />
+        </attvalues>
+      </node>
+      <node id="irrigate" label="irrigate">
+        <attvalues>
+          <attvalue for="0" value="2.41329976408" />
+        </attvalues>
+      </node>
+      <node id="irritate" label="irritate">
+        <attvalues>
+          <attvalue for="0" value="2.71516735785" />
+        </attvalues>
+      </node>
+      <node id="irk" label="irk" />
+      <node id="irrevocable" label="irrevocable" />
+      <node id="irrepressible" label="irrepressible" />
+      <node id="irrelevant" label="irrelevant" />
+      <node id="irreverent" label="irreverent">
+        <attvalues>
+          <attvalue for="0" value="2.74585519517" />
+        </attvalues>
+      </node>
+      <node id="irritated" label="irritated" />
+      <node id="irrupt" label="irrupt">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="ire" label="ire">
+        <attvalues>
+          <attvalue for="0" value="2.84571801797" />
+        </attvalues>
+      </node>
+      <node id="irreclaimable" label="irreclaimable">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ironclad" label="ironclad" />
+      <node id="irrational" label="irrational">
+        <attvalues>
+          <attvalue for="0" value="3.34222522936" />
+        </attvalues>
+      </node>
+      <node id="iris" label="iris" />
+      <node id="irreproachable" label="irreproachable" />
+      <node id="irresolute" label="irresolute">
+        <attvalues>
+          <attvalue for="0" value="1.67209785794" />
+        </attvalues>
+      </node>
+      <node id="irresolution" label="irresolution">
+        <attvalues>
+          <attvalue for="0" value="1.7242758696" />
+        </attvalues>
+      </node>
+      <node id="irresponsible" label="irresponsible" />
+      <node id="irreverence" label="irreverence">
+        <attvalues>
+          <attvalue for="0" value="2.30319605742" />
+        </attvalues>
+      </node>
+      <node id="irreversible" label="irreversible" />
+      <node id="irritating" label="irritating">
+        <attvalues>
+          <attvalue for="0" value="3.04844180355" />
+        </attvalues>
+      </node>
+      <node id="irksome" label="irksome">
+        <attvalues>
+          <attvalue for="0" value="2.12710479836" />
+        </attvalues>
+      </node>
+      <node id="irretrievable" label="irretrievable" />
+      <node id="irregular" label="irregular" />
+      <node id="irreducible" label="irreducible" />
+      <node id="irremovable" label="irremovable" />
+      <node id="irrelevance" label="irrelevance" />
+      <node id="irate" label="irate" />
+      <node id="irretrievably" label="irretrievably">
+        <attvalues>
+          <attvalue for="0" value="2.23044892138" />
+        </attvalues>
+      </node>
+      <node id="irked" label="irked">
+        <attvalues>
+          <attvalue for="0" value="2.53275437899" />
+        </attvalues>
+      </node>
+      <node id="irreparable" label="irreparable" />
+      <node id="irreligious" label="irreligious">
+        <attvalues>
+          <attvalue for="0" value="1.88081359228" />
+        </attvalues>
+      </node>
+      <node id="iron" label="iron">
+        <attvalues>
+          <attvalue for="0" value="4.20090519168" />
+        </attvalues>
+      </node>
+      <node id="irrevocably" label="irrevocably">
+        <attvalues>
+          <attvalue for="0" value="2.66464197556" />
+        </attvalues>
+      </node>
+      <node id="irascible" label="irascible">
+        <attvalues>
+          <attvalue for="0" value="2.33445375115" />
+        </attvalues>
+      </node>
+      <node id="irregularity" label="irregularity">
+        <attvalues>
+          <attvalue for="0" value="2.27875360095" />
+        </attvalues>
+      </node>
+      <node id="irreligion" label="irreligion" />
+      <node id="irremediable" label="irremediable" />
+    </nodes>
+    <edges>
+      <edge id="0" source="irradiation" target="irradiate" weight="0.016129" />
+      <edge id="1" source="irrigation" target="irrigate" weight="0.098592" />
+      <edge id="2" source="irruption" target="irrupt" weight="0.0125" />
+      <edge id="3" source="irruption" target="irrelevance" weight="0.013158" />
+      <edge id="4" source="irruption" target="irritated" weight="0.009259" />
+      <edge id="5" source="irascibility" target="irrationality" weight="0.018182" />
+      <edge id="6" source="irascibility" target="irritable" weight="0.01" />
+      <edge id="7" source="irritable" target="irresolute" weight="0.005618" />
+      <edge id="8" source="irritable" target="irascible" weight="0.395604" />
+      <edge id="9" source="irritable" target="irked" weight="0.008403" />
+      <edge id="10" source="irritable" target="irritation" weight="0.006897" />
+      <edge id="11" source="irregularly" target="irritating" weight="0.014286" />
+      <edge id="12" source="ironbound" target="ironclad" weight="0.52" />
+      <edge id="13" source="ironbound" target="irregular" weight="0.012121" />
+      <edge id="14" source="ironbound" target="irremovable" weight="0.068966" />
+      <edge id="15" source="ironbound" target="irreconcilable" weight="0.101449" />
+      <edge id="16" source="ironbound" target="irrevocable" weight="0.033898" />
+      <edge id="17" source="ironbound" target="iron" weight="0.236364" />
+      <edge id="18" source="ironbound" target="irritating" weight="0.009804" />
+      <edge id="19" source="ironbound" target="irresistible" weight="0.020408" />
+      <edge id="20" source="irreconcilable" target="irretrievable" weight="0.020134" />
+      <edge id="21" source="irreconcilable" target="ironclad" weight="0.118644" />
+      <edge id="22" source="irreconcilable" target="irrational" weight="0.018349" />
+      <edge id="23" source="irreconcilable" target="irregular" weight="0.045576" />
+      <edge id="24" source="irreconcilable" target="iris" weight="0.006494" />
+      <edge id="25" source="irreconcilable" target="irrelevant" weight="0.005917" />
+      <edge id="26" source="irreconcilable" target="irresponsible" weight="0.005076" />
+      <edge id="27" source="irreconcilable" target="irremovable" weight="0.053571" />
+      <edge id="28" source="irreconcilable" target="irritate" weight="0.005128" />
+      <edge id="29" source="irreconcilable" target="irrevocable" weight="0.040936" />
+      <edge id="30" source="irreconcilable" target="iron" weight="0.170732" />
+      <edge id="31" source="irreconcilable" target="ironic" weight="0.027586" />
+      <edge id="32" source="irreconcilable" target="irresistible" weight="0.015873" />
+      <edge id="33" source="irreconcilable" target="irreversible" weight="0.018182" />
+      <edge id="34" source="irreconcilable" target="irascible" weight="0.006803" />
+      <edge id="35" source="irreconcilable" target="irresolute" weight="0.005025" />
+      <edge id="36" source="irreconcilable" target="irritated" weight="0.005952" />
+      <edge id="37" source="irredeemable" target="irreformable" weight="0.818182" />
+      <edge id="38" source="irredeemable" target="irretrievable" weight="0.326923" />
+      <edge id="39" source="irredeemable" target="irreclaimable" weight="0.818182" />
+      <edge id="40" source="irredeemable" target="irrevocable" weight="0.217949" />
+      <edge id="41" source="irredeemable" target="irreparable" weight="0.695652" />
+      <edge id="42" source="irredeemable" target="irremediable" weight="0.410256" />
+      <edge id="43" source="irredeemable" target="irrepressible" weight="0.010204" />
+      <edge id="44" source="irredeemable" target="irreversible" weight="0.25" />
+      <edge id="45" source="irredeemable" target="irrecoverable" weight="0.372093" />
+      <edge id="46" source="irredeemable" target="irresistible" weight="0.005814" />
+      <edge id="47" source="irritation" target="irritate" weight="0.033333" />
+      <edge id="48" source="irritation" target="ire" weight="0.013514" />
+      <edge id="49" source="irritation" target="irk" weight="0.031496" />
+      <edge id="50" source="irritation" target="irate" weight="0.027778" />
+      <edge id="51" source="irritation" target="irregularity" weight="0.005714" />
+      <edge id="52" source="irritation" target="irascible" weight="0.009434" />
+      <edge id="53" source="irritation" target="irritated" weight="0.015873" />
+      <edge id="54" source="ironic" target="irrefutable" weight="0.021978" />
+      <edge id="55" source="ironic" target="irritating" weight="0.010101" />
+      <edge id="56" source="ironic" target="irresolute" weight="0.029197" />
+      <edge id="57" source="irrefutable" target="irrational" weight="0.006061" />
+      <edge id="58" source="irrefutable" target="irreducible" weight="0.016949" />
+      <edge id="59" source="irrefutable" target="irresponsible" weight="0.007092" />
+      <edge id="60" source="irrefutable" target="irreproachable" weight="0.019417" />
+      <edge id="61" source="irrefutable" target="irrevocable" weight="0.06087" />
+      <edge id="62" source="irrefutable" target="irreversible" weight="0.009009" />
+      <edge id="63" source="irrefutable" target="irresistible" weight="0.204819" />
+      <edge id="64" source="irrecoverable" target="irreformable" weight="0.390244" />
+      <edge id="65" source="irrecoverable" target="irretrievable" weight="0.228571" />
+      <edge id="66" source="irrecoverable" target="irreclaimable" weight="0.390244" />
+      <edge id="67" source="irrecoverable" target="irreparable" weight="0.4" />
+      <edge id="68" source="irrecoverable" target="irremediable" weight="0.309091" />
+      <edge id="69" source="irrecoverable" target="irrepressible" weight="0.008696" />
+      <edge id="70" source="irrecoverable" target="irrevocable" weight="0.166667" />
+      <edge id="71" source="irrecoverable" target="irreverent" weight="0.016129" />
+      <edge id="72" source="irrecoverable" target="irresistible" weight="0.005291" />
+      <edge id="73" source="irrecoverable" target="irreversible" weight="0.186047" />
+      <edge id="74" source="irrecoverable" target="irreligious" weight="0.014925" />
+      <edge id="75" source="irresistible" target="irreclaimable" weight="0.005882" />
+      <edge id="76" source="irresistible" target="iron" weight="0.016949" />
+      <edge id="77" source="irresistible" target="irritating" weight="0.014706" />
+      <edge id="78" source="irresistible" target="irksome" weight="0.010471" />
+      <edge id="79" source="irreformable" target="irreclaimable" weight="0.9" />
+      <edge id="80" source="irradiate" target="irony" weight="0.014286" />
+      <edge id="81" source="irrationality" target="irregularity" weight="0.041379" />
+      <edge id="82" source="irony" target="irregularity" weight="0.006757" />
+      <edge id="83" source="irony" target="irresolution" weight="0.018868" />
+      <edge id="84" source="irrigate" target="iris" weight="0.009901" />
+      <edge id="85" source="irrigate" target="irritate" weight="0.007042" />
+      <edge id="86" source="irrigate" target="irritated" weight="0.008696" />
+      <edge id="87" source="irritate" target="ire" weight="0.019608" />
+      <edge id="88" source="irritate" target="irk" weight="0.212121" />
+      <edge id="89" source="irritate" target="irregularity" weight="0.014851" />
+      <edge id="90" source="irritate" target="irritating" weight="0.006849" />
+      <edge id="91" source="irritate" target="irritated" weight="0.012903" />
+      <edge id="92" source="irk" target="irregularity" weight="0.005556" />
+      <edge id="93" source="irk" target="irked" weight="0.019417" />
+      <edge id="94" source="irrevocable" target="irreclaimable" weight="0.207792" />
+      <edge id="95" source="irrevocable" target="iron" weight="0.045161" />
+      <edge id="96" source="irrepressible" target="irreclaimable" weight="0.010417" />
+      <edge id="97" source="irrepressible" target="irrational" weight="0.005128" />
+      <edge id="98" source="irrepressible" target="irascible" weight="0.008264" />
+      <edge id="99" source="irrepressible" target="irresolute" weight="0.017544" />
+      <edge id="100" source="irrelevant" target="irrational" weight="0.022222" />
+      <edge id="101" source="irrelevant" target="irresolute" weight="0.006211" />
+      <edge id="102" source="irreverent" target="irreligious" weight="0.375" />
+      <edge id="103" source="irreverent" target="irreverence" weight="0.025641" />
+      <edge id="104" source="irreverent" target="irreligion" weight="0.028571" />
+      <edge id="105" source="irreverent" target="irremediable" weight="0.017241" />
+      <edge id="106" source="irritated" target="irrational" weight="0.005495" />
+      <edge id="107" source="irritated" target="irascible" weight="0.018692" />
+      <edge id="108" source="irritated" target="irked" weight="0.2" />
+      <edge id="109" source="ire" target="irate" weight="0.045455" />
+      <edge id="110" source="ire" target="irrational" weight="0.007752" />
+      <edge id="111" source="irreclaimable" target="irretrievable" weight="0.313725" />
+      <edge id="112" source="irreclaimable" target="irreparable" weight="0.761905" />
+      <edge id="113" source="irreclaimable" target="irreversible" weight="0.238806" />
+      <edge id="114" source="irreclaimable" target="irremediable" weight="0.432432" />
+      <edge id="115" source="ironclad" target="iron" weight="0.288889" />
+      <edge id="116" source="irrational" target="irregular" weight="0.035897" />
+      <edge id="117" source="irrational" target="irresponsible" weight="0.024155" />
+      <edge id="118" source="irrational" target="irate" weight="0.007813" />
+      <edge id="119" source="irrational" target="irremediable" weight="0.006623" />
+      <edge id="120" source="irrational" target="irreducible" weight="0.005291" />
+      <edge id="121" source="irrational" target="irreparable" weight="0.007407" />
+      <edge id="122" source="irrational" target="irresolute" weight="0.019048" />
+      <edge id="123" source="irrational" target="irked" weight="0.006494" />
+      <edge id="124" source="iris" target="iron" weight="0.007246" />
+      <edge id="125" source="irreproachable" target="irrevocably" weight="0.028986" />
+      <edge id="126" source="irreproachable" target="irretrievably" weight="0.030769" />
+      <edge id="127" source="irresolute" target="irregular" weight="0.197492" />
+      <edge id="128" source="irresolute" target="irresponsible" weight="0.472868" />
+      <edge id="129" source="irresolute" target="irregularity" weight="0.004808" />
+      <edge id="130" source="irresolute" target="irreligious" weight="0.008" />
+      <edge id="131" source="irresolute" target="iron" weight="0.005464" />
+      <edge id="132" source="irresolute" target="irresolution" weight="0.00885" />
+      <edge id="133" source="irresolute" target="irascible" weight="0.007194" />
+      <edge id="134" source="irresolution" target="irresponsible" weight="0.009009" />
+      <edge id="135" source="irresolution" target="irregular" weight="0.0033" />
+      <edge id="136" source="irresolution" target="irregularity" weight="0.031496" />
+      <edge id="137" source="irresponsible" target="irregularity" weight="0.004854" />
+      <edge id="138" source="irresponsible" target="iron" weight="0.005525" />
+      <edge id="139" source="irresponsible" target="irascible" weight="0.007299" />
+      <edge id="140" source="irreverence" target="irreligious" weight="0.022727" />
+      <edge id="141" source="irreverence" target="irreligion" weight="0.3" />
+      <edge id="142" source="irreversible" target="iron" weight="0.020134" />
+      <edge id="143" source="irritating" target="irregular" weight="0.002941" />
+      <edge id="144" source="irritating" target="irreducible" weight="0.007937" />
+      <edge id="145" source="irritating" target="irksome" weight="0.333333" />
+      <edge id="146" source="irretrievable" target="iron" weight="0.022556" />
+      <edge id="147" source="irregular" target="irrevocably" weight="0.003344" />
+      <edge id="148" source="irregular" target="irretrievably" weight="0.00339" />
+      <edge id="149" source="irregular" target="iron" weight="0.008086" />
+      <edge id="150" source="irregular" target="irregularity" weight="0.002513" />
+      <edge id="151" source="irregular" target="irascible" weight="0.009174" />
+      <edge id="152" source="irreducible" target="irrevocably" weight="0.02381" />
+      <edge id="153" source="irreducible" target="irretrievably" weight="0.025" />
+      <edge id="154" source="irremovable" target="iron" weight="0.0625" />
+      <edge id="155" source="irrelevance" target="irregularity" weight="0.035461" />
+      <edge id="156" source="irate" target="irascible" weight="0.018519" />
+      <edge id="157" source="irate" target="irked" weight="0.021277" />
+      <edge id="158" source="irretrievably" target="irrevocably" weight="0.6" />
+      <edge id="159" source="irked" target="irascible" weight="0.0125" />
+      <edge id="160" source="irreligious" target="irreligion" weight="0.025" />
+      <edge id="161" source="irreligious" target="irremediable" weight="0.015873" />
+    </edges>
+  </graph>
+</gexf>

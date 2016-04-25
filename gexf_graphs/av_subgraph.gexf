@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="avid" label="avid" />
+      <node id="avow" label="avow" />
+      <node id="avouch" label="avouch" />
+      <node id="avaricious" label="avaricious" />
+      <node id="avidity" label="avidity" />
+      <node id="avarice" label="avarice" />
+      <node id="aver" label="aver" />
+    </nodes>
+    <edges>
+      <edge id="0" source="avid" target="avaricious" />
+      <edge id="1" source="avow" target="aver" />
+      <edge id="2" source="avow" target="avouch" />
+      <edge id="3" source="avouch" target="aver" />
+      <edge id="4" source="avidity" target="avarice" />
+    </edges>
+  </graph>
+</gexf>

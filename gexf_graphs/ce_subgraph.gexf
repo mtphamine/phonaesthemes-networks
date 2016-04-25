@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="centrist" label="centrist" />
+      <node id="centralize" label="centralize" />
+      <node id="century" label="century" />
+      <node id="certain" label="certain" />
+      <node id="cease" label="cease" />
+      <node id="cerebrum" label="cerebrum" />
+      <node id="ceremony" label="ceremony" />
+      <node id="cede" label="cede" />
+      <node id="certificate" label="certificate" />
+      <node id="cerebral" label="cerebral" />
+      <node id="certification" label="certification" />
+      <node id="cent" label="cent" />
+      <node id="centurion" label="centurion" />
+      <node id="ceramics" label="ceramics" />
+      <node id="cement" label="cement" />
+      <node id="ceremonious" label="ceremonious" />
+      <node id="certified" label="certified" />
+      <node id="celebration" label="celebration" />
+      <node id="cerebellum" label="cerebellum" />
+      <node id="central" label="central" />
+      <node id="center" label="center" />
+      <node id="centipede" label="centipede" />
+      <node id="centenarian" label="centenarian" />
+      <node id="cessation" label="cessation" />
+      <node id="ceremonial" label="ceremonial" />
+      <node id="centennial" label="centennial" />
+    </nodes>
+    <edges>
+      <edge id="0" source="centrist" target="center" />
+      <edge id="1" source="centralize" target="center" />
+      <edge id="2" source="century" target="centennial" />
+      <edge id="3" source="century" target="centurion" />
+      <edge id="4" source="century" target="centipede" />
+      <edge id="5" source="century" target="cent" />
+      <edge id="6" source="century" target="centenarian" />
+      <edge id="7" source="certain" target="certified" />
+      <edge id="8" source="cease" target="cessation" />
+      <edge id="9" source="cease" target="cede" />
+      <edge id="10" source="cerebrum" target="cerebellum" />
+      <edge id="11" source="ceremony" target="ceremonial" />
+      <edge id="12" source="ceremony" target="celebration" />
+      <edge id="13" source="certificate" target="certification" />
+      <edge id="14" source="cerebral" target="central" />
+      <edge id="15" source="centurion" target="centipede" />
+      <edge id="16" source="centurion" target="centenarian" />
+      <edge id="17" source="centurion" target="centennial" />
+      <edge id="18" source="ceramics" target="cement" />
+      <edge id="19" source="ceremonious" target="ceremonial" />
+      <edge id="20" source="celebration" target="ceremonial" />
+      <edge id="21" source="central" target="center" />
+      <edge id="22" source="centipede" target="centenarian" />
+      <edge id="23" source="centipede" target="centennial" />
+      <edge id="24" source="centenarian" target="centennial" />
+    </edges>
+  </graph>
+</gexf>

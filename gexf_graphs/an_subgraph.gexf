@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="antacid" label="antacid" />
+      <node id="announcement" label="announcement" />
+      <node id="anticipation" label="anticipation" />
+      <node id="animality" label="animality" />
+      <node id="analytic" label="analytic" />
+      <node id="ancillary" label="ancillary" />
+      <node id="antipathy" label="antipathy" />
+      <node id="announce" label="announce" />
+      <node id="antecede" label="antecede" />
+      <node id="antediluvian" label="antediluvian" />
+      <node id="antithetical" label="antithetical" />
+      <node id="antagonism" label="antagonism" />
+      <node id="antipole" label="antipole" />
+      <node id="answer" label="answer" />
+      <node id="annexation" label="annexation" />
+      <node id="antiseptic" label="antiseptic" />
+      <node id="antagonist" label="antagonist" />
+      <node id="anemia" label="anemia" />
+      <node id="anatomize" label="anatomize" />
+      <node id="anion" label="anion" />
+      <node id="anxious" label="anxious" />
+      <node id="anarchic" label="anarchic" />
+      <node id="analytical" label="analytical" />
+      <node id="animalistic" label="animalistic" />
+      <node id="antique" label="antique" />
+      <node id="antibiotic" label="antibiotic" />
+      <node id="antigen" label="antigen" />
+      <node id="animate" label="animate" />
+      <node id="anarchy" label="anarchy" />
+      <node id="announcer" label="announcer" />
+      <node id="anthem" label="anthem" />
+      <node id="anguished" label="anguished" />
+      <node id="antipathetic" label="antipathetic" />
+      <node id="anodyne" label="anodyne" />
+      <node id="analyzer" label="analyzer" />
+      <node id="anthropology" label="anthropology" />
+      <node id="analects" label="analects" />
+      <node id="animus" label="animus" />
+      <node id="antipodes" label="antipodes" />
+      <node id="anarchism" label="anarchism" />
+      <node id="anchorage" label="anchorage" />
+      <node id="animalism" label="animalism" />
+      <node id="anima" label="anima" />
+      <node id="antibody" label="antibody" />
+      <node id="anterior" label="anterior" />
+      <node id="anesthetic" label="anesthetic" />
+      <node id="antidote" label="antidote" />
+      <node id="antiquity" label="antiquity" />
+      <node id="anticipatory" label="anticipatory" />
+      <node id="anti" label="anti" />
+      <node id="another" label="another" />
+      <node id="annoyance" label="annoyance" />
+      <node id="ancient" label="ancient" />
+      <node id="angry" label="angry" />
+      <node id="anathema" label="anathema" />
+      <node id="annulment" label="annulment" />
+      <node id="analgesic" label="analgesic" />
+      <node id="analgesia" label="analgesia" />
+      <node id="analyze" label="analyze" />
+      <node id="annul" label="annul" />
+      <node id="antic" label="antic" />
+      <node id="antiquated" label="antiquated" />
+      <node id="analyst" label="analyst" />
+      <node id="anxiety" label="anxiety" />
+      <node id="annihilate" label="annihilate" />
+      <node id="antitoxin" label="antitoxin" />
+      <node id="anticipate" label="anticipate" />
+      <node id="annihilation" label="annihilation" />
+      <node id="animated" label="animated" />
+      <node id="anchor" label="anchor" />
+      <node id="anthropoid" label="anthropoid" />
+      <node id="ana" label="ana" />
+      <node id="antithesis" label="antithesis" />
+      <node id="antagonistic" label="antagonistic" />
+      <node id="anger" label="anger" />
+      <node id="anticipating" label="anticipating" />
+      <node id="antedate" label="antedate" />
+      <node id="anthrax" label="anthrax" />
+      <node id="anguish" label="anguish" />
+      <node id="anesthesia" label="anesthesia" />
+      <node id="anthology" label="anthology" />
+      <node id="anachronism" label="anachronism" />
+      <node id="animation" label="animation" />
+      <node id="animal" label="animal" />
+      <node id="anarchistic" label="anarchistic" />
+      <node id="antihero" label="antihero" />
+      <node id="ancestor" label="ancestor" />
+      <node id="annex" label="annex" />
+      <node id="anatomy" label="anatomy" />
+      <node id="animosity" label="animosity" />
+      <node id="antonym" label="antonym" />
+      <node id="annunciation" label="annunciation" />
+      <node id="antecedent" label="antecedent" />
+      <node id="antiphon" label="antiphon" />
+      <node id="angst" label="angst" />
+      <node id="anoxia" label="anoxia" />
+      <node id="antipodal" label="antipodal" />
+      <node id="analysis" label="analysis" />
+      <node id="annoyed" label="annoyed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="antacid" target="anion" />
+      <edge id="1" source="antacid" target="antidote" />
+      <edge id="2" source="antacid" target="antibiotic" />
+      <edge id="3" source="announcement" target="annunciation" />
+      <edge id="4" source="anticipation" target="anachronism" />
+      <edge id="5" source="animality" target="animalism" />
+      <edge id="6" source="analytic" target="analytical" />
+      <edge id="7" source="ancillary" target="another" />
+      <edge id="8" source="antipathy" target="animosity" />
+      <edge id="9" source="antipathy" target="antithesis" />
+      <edge id="10" source="antipathy" target="anathema" />
+      <edge id="11" source="antipathy" target="animus" />
+      <edge id="12" source="antipathy" target="antagonism" />
+      <edge id="13" source="announce" target="antedate" />
+      <edge id="14" source="announce" target="antecede" />
+      <edge id="15" source="announce" target="anticipate" />
+      <edge id="16" source="antecede" target="antedate" />
+      <edge id="17" source="antecede" target="anticipate" />
+      <edge id="18" source="antediluvian" target="antique" />
+      <edge id="19" source="antediluvian" target="antiquated" />
+      <edge id="20" source="antediluvian" target="ancient" />
+      <edge id="21" source="antediluvian" target="anthropoid" />
+      <edge id="22" source="antithetical" target="antipathetic" />
+      <edge id="23" source="antithetical" target="antipodal" />
+      <edge id="24" source="antagonism" target="animosity" />
+      <edge id="25" source="antagonism" target="antithesis" />
+      <edge id="26" source="antagonism" target="animus" />
+      <edge id="27" source="antipole" target="antipodes" />
+      <edge id="28" source="antipole" target="antithesis" />
+      <edge id="29" source="antipole" target="antonym" />
+      <edge id="30" source="answer" target="anthem" />
+      <edge id="31" source="answer" target="antiphon" />
+      <edge id="32" source="annexation" target="annex" />
+      <edge id="33" source="antiseptic" target="antibiotic" />
+      <edge id="34" source="antagonist" target="antihero" />
+      <edge id="35" source="anemia" target="anoxia" />
+      <edge id="36" source="anatomize" target="analyze" />
+      <edge id="37" source="anxious" target="anguished" />
+      <edge id="38" source="anxious" target="animated" />
+      <edge id="39" source="anxious" target="annoyed" />
+      <edge id="40" source="anarchic" target="anarchistic" />
+      <edge id="41" source="anarchic" target="angry" />
+      <edge id="42" source="animalistic" target="animal" />
+      <edge id="43" source="antique" target="antiquated" />
+      <edge id="44" source="antique" target="ancient" />
+      <edge id="45" source="antique" target="antiquity" />
+      <edge id="46" source="antigen" target="antitoxin" />
+      <edge id="47" source="antigen" target="antibody" />
+      <edge id="48" source="animate" target="animated" />
+      <edge id="49" source="anarchy" target="anarchism" />
+      <edge id="50" source="announcer" target="antecedent" />
+      <edge id="51" source="announcer" target="ancestor" />
+      <edge id="52" source="anthem" target="antiphon" />
+      <edge id="53" source="antipathetic" target="antagonistic" />
+      <edge id="54" source="antipathetic" target="anti" />
+      <edge id="55" source="anodyne" target="anesthetic" />
+      <edge id="56" source="anodyne" target="analgesic" />
+      <edge id="57" source="analyzer" target="analyst" />
+      <edge id="58" source="anthropology" target="anatomy" />
+      <edge id="59" source="analects" target="ana" />
+      <edge id="60" source="analects" target="anthology" />
+      <edge id="61" source="animus" target="anima" />
+      <edge id="62" source="animus" target="animosity" />
+      <edge id="63" source="animus" target="animation" />
+      <edge id="64" source="antipodes" target="antithesis" />
+      <edge id="65" source="antipodes" target="antonym" />
+      <edge id="66" source="anchorage" target="anchor" />
+      <edge id="67" source="antibody" target="antitoxin" />
+      <edge id="68" source="anterior" target="anticipatory" />
+      <edge id="69" source="anterior" target="antecedent" />
+      <edge id="70" source="anesthetic" target="analgesic" />
+      <edge id="71" source="anticipatory" target="antecedent" />
+      <edge id="72" source="anticipatory" target="anticipating" />
+      <edge id="73" source="anti" target="antagonistic" />
+      <edge id="74" source="annoyance" target="anger" />
+      <edge id="75" source="annoyance" target="anxiety" />
+      <edge id="76" source="ancient" target="antiquated" />
+      <edge id="77" source="ancient" target="anthropoid" />
+      <edge id="78" source="angry" target="annoyed" />
+      <edge id="79" source="annulment" target="annihilation" />
+      <edge id="80" source="analgesia" target="anesthesia" />
+      <edge id="81" source="annul" target="annihilate" />
+      <edge id="82" source="antic" target="animated" />
+      <edge id="83" source="anxiety" target="angst" />
+      <edge id="84" source="anxiety" target="animation" />
+      <edge id="85" source="anxiety" target="anguish" />
+      <edge id="86" source="anticipate" target="antedate" />
+      <edge id="87" source="anchor" target="annex" />
+      <edge id="88" source="ana" target="anthology" />
+      <edge id="89" source="antithesis" target="antonym" />
+      <edge id="90" source="anthrax" target="anoxia" />
+      <edge id="91" source="anguish" target="angst" />
+      <edge id="92" source="ancestor" target="antecedent" />
+      <edge id="93" source="anatomy" target="analysis" />
+    </edges>
+  </graph>
+</gexf>

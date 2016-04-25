@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="sketch" label="sketch">
+        <attvalues>
+          <attvalue for="0" value="3.56431090996" />
+        </attvalues>
+      </node>
+      <node id="skeleton" label="skeleton" />
+      <node id="skip" label="skip" />
+      <node id="skilled" label="skilled" />
+      <node id="skit" label="skit">
+        <attvalues>
+          <attvalue for="0" value="2.55990662504" />
+        </attvalues>
+      </node>
+      <node id="skyscraper" label="skyscraper">
+        <attvalues>
+          <attvalue for="0" value="2.79098847509" />
+        </attvalues>
+      </node>
+      <node id="skate" label="skate" />
+      <node id="skim" label="skim">
+        <attvalues>
+          <attvalue for="0" value="3.07990446767" />
+        </attvalues>
+      </node>
+      <node id="skin" label="skin" />
+      <node id="skill" label="skill">
+        <attvalues>
+          <attvalue for="0" value="4.11707233659" />
+        </attvalues>
+      </node>
+      <node id="skirt" label="skirt" />
+      <node id="skid" label="skid">
+        <attvalues>
+          <attvalue for="0" value="2.98587535731" />
+        </attvalues>
+      </node>
+      <node id="sketchbook" label="sketchbook" />
+      <node id="skillful" label="skillful">
+        <attvalues>
+          <attvalue for="0" value="3.01870049867" />
+        </attvalues>
+      </node>
+      <node id="skew" label="skew" />
+      <node id="sky" label="sky" />
+      <node id="skylight" label="skylight" />
+      <node id="ski" label="ski">
+        <attvalues>
+          <attvalue for="0" value="4.13299570069" />
+        </attvalues>
+      </node>
+      <node id="skyward" label="skyward">
+        <attvalues>
+          <attvalue for="0" value="2.86213137931" />
+        </attvalues>
+      </node>
+      <node id="skimpy" label="skimpy">
+        <attvalues>
+          <attvalue for="0" value="2.70671778234" />
+        </attvalues>
+      </node>
+      <node id="skinned" label="skinned" />
+      <node id="skimp" label="skimp" />
+      <node id="skulk" label="skulk" />
+      <node id="skimping" label="skimping" />
+      <node id="skipper" label="skipper" />
+      <node id="skyrocketing" label="skyrocketing">
+        <attvalues>
+          <attvalue for="0" value="2.83378437466" />
+        </attvalues>
+      </node>
+      <node id="skeptical" label="skeptical">
+        <attvalues>
+          <attvalue for="0" value="3.72320931041" />
+        </attvalues>
+      </node>
+      <node id="skedaddle" label="skedaddle">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="skulduggery" label="skulduggery" />
+      <node id="skeletal" label="skeletal">
+        <attvalues>
+          <attvalue for="0" value="3.12483014941" />
+        </attvalues>
+      </node>
+      <node id="skateboard" label="skateboard">
+        <attvalues>
+          <attvalue for="0" value="2.67577834167" />
+        </attvalues>
+      </node>
+      <node id="skewed" label="skewed">
+        <attvalues>
+          <attvalue for="0" value="3.05880548668" />
+        </attvalues>
+      </node>
+      <node id="skylark" label="skylark">
+        <attvalues>
+          <attvalue for="0" value="2.14301480025" />
+        </attvalues>
+      </node>
+      <node id="sketchy" label="sketchy">
+        <attvalues>
+          <attvalue for="0" value="2.8790958795" />
+        </attvalues>
+      </node>
+      <node id="skyrocket" label="skyrocket">
+        <attvalues>
+          <attvalue for="0" value="2.49554433755" />
+        </attvalues>
+      </node>
+      <node id="skirmish" label="skirmish">
+        <attvalues>
+          <attvalue for="0" value="2.67760695272" />
+        </attvalues>
+      </node>
+      <node id="skewer" label="skewer" />
+      <node id="skinny" label="skinny" />
+      <node id="skein" label="skein">
+        <attvalues>
+          <attvalue for="0" value="2.26951294422" />
+        </attvalues>
+      </node>
+      <node id="skittish" label="skittish" />
+    </nodes>
+    <edges>
+      <edge id="0" source="sketch" target="sketchbook" weight="0.036364" />
+      <edge id="1" source="sketch" target="skeleton" weight="0.151394" />
+      <edge id="2" source="sketch" target="skeletal" weight="0.004464" />
+      <edge id="3" source="sketch" target="skip" weight="0.002915" />
+      <edge id="4" source="sketch" target="skew" weight="0.00361" />
+      <edge id="5" source="sketch" target="sky" weight="0.004202" />
+      <edge id="6" source="sketch" target="skit" weight="0.293194" />
+      <edge id="7" source="sketch" target="sketchy" weight="0.004184" />
+      <edge id="8" source="sketch" target="skim" weight="0.003846" />
+      <edge id="9" source="sketch" target="skipper" weight="0.004566" />
+      <edge id="10" source="sketch" target="skin" weight="0.011765" />
+      <edge id="11" source="sketch" target="skill" weight="0.004065" />
+      <edge id="12" source="sketch" target="skirt" weight="0.009934" />
+      <edge id="13" source="skeleton" target="skeletal" weight="0.007519" />
+      <edge id="14" source="skeleton" target="skateboard" weight="0.008696" />
+      <edge id="15" source="skeleton" target="skit" weight="0.012987" />
+      <edge id="16" source="skeleton" target="skyrocketing" weight="0.007576" />
+      <edge id="17" source="skeleton" target="sketchy" weight="0.006757" />
+      <edge id="18" source="skeleton" target="skim" weight="0.005917" />
+      <edge id="19" source="skeleton" target="skyscraper" weight="0.006579" />
+      <edge id="20" source="skeleton" target="ski" weight="0.008696" />
+      <edge id="21" source="skeleton" target="skid" weight="0.007042" />
+      <edge id="22" source="skeleton" target="skimpy" weight="0.006579" />
+      <edge id="23" source="skip" target="skedaddle" weight="0.102151" />
+      <edge id="24" source="skip" target="skateboard" weight="0.017857" />
+      <edge id="25" source="skip" target="skit" weight="0.004762" />
+      <edge id="26" source="skip" target="skylark" weight="0.006173" />
+      <edge id="27" source="skip" target="skim" weight="0.03211" />
+      <edge id="28" source="skip" target="skirmish" weight="0.005208" />
+      <edge id="29" source="skip" target="skein" weight="0.005435" />
+      <edge id="30" source="skip" target="ski" weight="0.017857" />
+      <edge id="31" source="skip" target="skid" weight="0.025907" />
+      <edge id="32" source="skilled" target="skillful" weight="0.075269" />
+      <edge id="33" source="skilled" target="skedaddle" weight="0.013699" />
+      <edge id="34" source="skit" target="sketchbook" weight="0.021505" />
+      <edge id="35" source="skit" target="skew" weight="0.006944" />
+      <edge id="36" source="skit" target="skim" weight="0.007874" />
+      <edge id="37" source="skit" target="skill" weight="0.00885" />
+      <edge id="38" source="skit" target="skirt" weight="0.011765" />
+      <edge id="39" source="skyscraper" target="sky" weight="0.03" />
+      <edge id="40" source="skyscraper" target="skylight" weight="0.036145" />
+      <edge id="41" source="skate" target="skim" weight="0.219178" />
+      <edge id="42" source="skate" target="skateboard" weight="0.842105" />
+      <edge id="43" source="skate" target="skid" weight="0.347826" />
+      <edge id="44" source="skate" target="skedaddle" weight="0.014706" />
+      <edge id="45" source="skate" target="ski" weight="0.842105" />
+      <edge id="46" source="skim" target="sketchbook" weight="0.009259" />
+      <edge id="47" source="skim" target="skimp" weight="0.076923" />
+      <edge id="48" source="skim" target="skedaddle" weight="0.06087" />
+      <edge id="49" source="skim" target="skulk" weight="0.025" />
+      <edge id="50" source="skim" target="skew" weight="0.019231" />
+      <edge id="51" source="skim" target="skateboard" weight="0.222222" />
+      <edge id="52" source="skim" target="skipper" weight="0.01" />
+      <edge id="53" source="skim" target="skin" weight="0.023026" />
+      <edge id="54" source="skim" target="skirmish" weight="0.009174" />
+      <edge id="55" source="skim" target="skewer" weight="0.007576" />
+      <edge id="56" source="skim" target="skirt" weight="0.107143" />
+      <edge id="57" source="skim" target="ski" weight="0.222222" />
+      <edge id="58" source="skim" target="skid" weight="0.173469" />
+      <edge id="59" source="skim" target="skimpy" weight="0.01626" />
+      <edge id="60" source="skin" target="skedaddle" weight="0.013937" />
+      <edge id="61" source="skin" target="skillful" weight="0.006349" />
+      <edge id="62" source="skin" target="skyrocket" weight="0.003922" />
+      <edge id="63" source="skin" target="skirmish" weight="0.003597" />
+      <edge id="64" source="skill" target="skillful" weight="0.007519" />
+      <edge id="65" source="skill" target="skipper" weight="0.023529" />
+      <edge id="66" source="skill" target="skulduggery" weight="0.015152" />
+      <edge id="67" source="skirt" target="skateboard" weight="0.023256" />
+      <edge id="68" source="skirt" target="skirmish" weight="0.006536" />
+      <edge id="69" source="skirt" target="ski" weight="0.023256" />
+      <edge id="70" source="skirt" target="skid" weight="0.046053" />
+      <edge id="71" source="skid" target="skulk" weight="0.010526" />
+      <edge id="72" source="skid" target="skimp" weight="0.028986" />
+      <edge id="73" source="skid" target="skedaddle" weight="0.010638" />
+      <edge id="74" source="skid" target="skew" weight="0.064516" />
+      <edge id="75" source="skid" target="skateboard" weight="0.355556" />
+      <edge id="76" source="skid" target="skewed" weight="0.015152" />
+      <edge id="77" source="skid" target="ski" weight="0.355556" />
+      <edge id="78" source="skid" target="sky" weight="0.01087" />
+      <edge id="79" source="sketchbook" target="skirmish" weight="0.013158" />
+      <edge id="80" source="skillful" target="skyrocketing" weight="0.009091" />
+      <edge id="81" source="skillful" target="skipper" weight="0.009434" />
+      <edge id="82" source="skillful" target="skittish" weight="0.005917" />
+      <edge id="83" source="skew" target="skateboard" weight="0.019417" />
+      <edge id="84" source="skew" target="skewed" weight="0.247191" />
+      <edge id="85" source="skew" target="sketchy" weight="0.014706" />
+      <edge id="86" source="skew" target="ski" weight="0.019417" />
+      <edge id="87" source="skew" target="skimpy" weight="0.014286" />
+      <edge id="88" source="skylight" target="skyward" weight="0.023256" />
+      <edge id="89" source="ski" target="skulk" weight="0.014706" />
+      <edge id="90" source="ski" target="skimp" weight="0.023256" />
+      <edge id="91" source="ski" target="skedaddle" weight="0.014925" />
+      <edge id="92" source="ski" target="skateboard" weight="0.888889" />
+      <edge id="93" source="skyward" target="skulk" weight="0.015873" />
+      <edge id="94" source="skyward" target="skyrocketing" weight="0.045455" />
+      <edge id="95" source="skimpy" target="skinned" weight="0.012658" />
+      <edge id="96" source="skimpy" target="skimp" weight="0.125" />
+      <edge id="97" source="skimpy" target="skeletal" weight="0.085366" />
+      <edge id="98" source="skimpy" target="skewed" weight="0.026667" />
+      <edge id="99" source="skimpy" target="skimping" weight="0.285714" />
+      <edge id="100" source="skimpy" target="sketchy" weight="0.04" />
+      <edge id="101" source="skimpy" target="skinny" weight="0.065789" />
+      <edge id="102" source="skinned" target="skewed" weight="0.020833" />
+      <edge id="103" source="skimp" target="skedaddle" weight="0.012987" />
+      <edge id="104" source="skimp" target="skeletal" weight="0.033333" />
+      <edge id="105" source="skimp" target="skateboard" weight="0.023256" />
+      <edge id="106" source="skimp" target="sketchy" weight="0.040541" />
+      <edge id="107" source="skulk" target="skateboard" weight="0.014706" />
+      <edge id="108" source="skulk" target="skein" weight="0.012195" />
+      <edge id="109" source="skimping" target="skeletal" weight="0.031579" />
+      <edge id="110" source="skimping" target="sketchy" weight="0.018018" />
+      <edge id="111" source="skimping" target="skewed" weight="0.011765" />
+      <edge id="112" source="skipper" target="skedaddle" weight="0.0125" />
+      <edge id="113" source="skeptical" target="sketchy" weight="0.010526" />
+      <edge id="114" source="skeptical" target="skittish" weight="0.02963" />
+      <edge id="115" source="skeptical" target="skedaddle" weight="0.010417" />
+      <edge id="116" source="skedaddle" target="skateboard" weight="0.014925" />
+      <edge id="117" source="skedaddle" target="skittish" weight="0.006993" />
+      <edge id="118" source="skedaddle" target="sketchy" weight="0.01" />
+      <edge id="119" source="skedaddle" target="skirmish" weight="0.011236" />
+      <edge id="120" source="skedaddle" target="skewer" weight="0.018018" />
+      <edge id="121" source="skeletal" target="skinny" weight="0.409091" />
+      <edge id="122" source="skewed" target="sketchy" weight="0.028169" />
+      <edge id="123" source="sketchy" target="skittish" weight="0.007042" />
+    </edges>
+  </graph>
+</gexf>

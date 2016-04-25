@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="authorize" label="authorize" />
+      <node id="authority" label="authority" />
+      <node id="auricular" label="auricular" />
+      <node id="autonomy" label="autonomy" />
+      <node id="authenticate" label="authenticate" />
+      <node id="authoritative" label="authoritative" />
+      <node id="automobile" label="automobile" />
+      <node id="autarchy" label="autarchy" />
+      <node id="autarchic" label="autarchic" />
+      <node id="authorized" label="authorized" />
+      <node id="autocratic" label="autocratic" />
+      <node id="authorization" label="authorization" />
+      <node id="auditor" label="auditor" />
+      <node id="authoritarian" label="authoritarian" />
+      <node id="auto" label="auto" />
+      <node id="audition" label="audition" />
+      <node id="aureole" label="aureole" />
+      <node id="automated" label="automated" />
+      <node id="authentic" label="authentic" />
+      <node id="austere" label="austere" />
+      <node id="audience" label="audience" />
+      <node id="aura" label="aura" />
+      <node id="autonomous" label="autonomous" />
+      <node id="automatic" label="automatic" />
+      <node id="audible" label="audible" />
+    </nodes>
+    <edges>
+      <edge id="0" source="authorize" target="authenticate" />
+      <edge id="1" source="authority" target="authority" />
+      <edge id="2" source="authority" target="authorization" />
+      <edge id="3" source="auricular" target="audible" />
+      <edge id="4" source="autonomy" target="autarchy" />
+      <edge id="5" source="authoritative" target="authentic" />
+      <edge id="6" source="authoritative" target="autocratic" />
+      <edge id="7" source="authoritative" target="authoritarian" />
+      <edge id="8" source="authoritative" target="authorized" />
+      <edge id="9" source="automobile" target="auto" />
+      <edge id="10" source="autarchic" target="autonomous" />
+      <edge id="11" source="autarchic" target="autocratic" />
+      <edge id="12" source="authorized" target="autocratic" />
+      <edge id="13" source="authorized" target="authoritarian" />
+      <edge id="14" source="autocratic" target="autonomous" />
+      <edge id="15" source="autocratic" target="authoritarian" />
+      <edge id="16" source="auditor" target="audience" />
+      <edge id="17" source="authoritarian" target="autonomous" />
+      <edge id="18" source="authoritarian" target="austere" />
+      <edge id="19" source="audition" target="audience" />
+      <edge id="20" source="aureole" target="aura" />
+      <edge id="21" source="automated" target="automatic" />
+    </edges>
+  </graph>
+</gexf>

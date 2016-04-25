@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="byway" label="byway" />
+      <node id="bylaw" label="bylaw" />
+      <node id="byword" label="byword">
+        <attvalues>
+          <attvalue for="0" value="1.83884909074" />
+        </attvalues>
+      </node>
+      <node id="bypass" label="bypass">
+        <attvalues>
+          <attvalue for="0" value="3.42094540592" />
+        </attvalues>
+      </node>
+      <node id="bygone" label="bygone">
+        <attvalues>
+          <attvalue for="0" value="2.717670503" />
+        </attvalues>
+      </node>
+      <node id="by" label="by" />
+    </nodes>
+    <edges>
+      <edge id="0" source="byway" target="bypass" weight="0.631579" />
+      <edge id="1" source="bylaw" target="byword" weight="0.021505" />
+      <edge id="2" source="bygone" target="by" weight="0.018519" />
+    </edges>
+  </graph>
+</gexf>

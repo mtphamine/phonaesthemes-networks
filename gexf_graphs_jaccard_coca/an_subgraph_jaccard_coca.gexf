@@ -1,0 +1,1257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="animadversion" label="animadversion" />
+      <node id="antelope" label="antelope" />
+      <node id="anemometer" label="anemometer" />
+      <node id="antagonize" label="antagonize" />
+      <node id="anesthetize" label="anesthetize">
+        <attvalues>
+          <attvalue for="0" value="1.76342799356" />
+        </attvalues>
+      </node>
+      <node id="anchorite" label="anchorite">
+        <attvalues>
+          <attvalue for="0" value="0.778151250384" />
+        </attvalues>
+      </node>
+      <node id="analogue" label="analogue" />
+      <node id="antacid" label="antacid" />
+      <node id="announcement" label="announcement" />
+      <node id="anticipation" label="anticipation" />
+      <node id="animal" label="animal" />
+      <node id="animality" label="animality" />
+      <node id="analytic" label="analytic">
+        <attvalues>
+          <attvalue for="0" value="3.1152775914" />
+        </attvalues>
+      </node>
+      <node id="anaphylactic" label="anaphylactic" />
+      <node id="antipathy" label="antipathy" />
+      <node id="announce" label="announce">
+        <attvalues>
+          <attvalue for="0" value="3.66857226918" />
+        </attvalues>
+      </node>
+      <node id="analogous" label="analogous" />
+      <node id="animism" label="animism" />
+      <node id="antecede" label="antecede" />
+      <node id="antediluvian" label="antediluvian">
+        <attvalues>
+          <attvalue for="0" value="1.7923916895" />
+        </attvalues>
+      </node>
+      <node id="antithetical" label="antithetical">
+        <attvalues>
+          <attvalue for="0" value="2.72015930341" />
+        </attvalues>
+      </node>
+      <node id="analogy" label="analogy">
+        <attvalues>
+          <attvalue for="0" value="3.50351831272" />
+        </attvalues>
+      </node>
+      <node id="antagonism" label="antagonism">
+        <attvalues>
+          <attvalue for="0" value="2.84880470105" />
+        </attvalues>
+      </node>
+      <node id="antipole" label="antipole">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="ancillary" label="ancillary">
+        <attvalues>
+          <attvalue for="0" value="2.74507479158" />
+        </attvalues>
+      </node>
+      <node id="anonymous" label="anonymous">
+        <attvalues>
+          <attvalue for="0" value="3.82295224055" />
+        </attvalues>
+      </node>
+      <node id="annexation" label="annexation">
+        <attvalues>
+          <attvalue for="0" value="2.81888541459" />
+        </attvalues>
+      </node>
+      <node id="antiseptic" label="antiseptic">
+        <attvalues>
+          <attvalue for="0" value="2.70500795933" />
+        </attvalues>
+      </node>
+      <node id="anemic" label="anemic" />
+      <node id="antagonist" label="antagonist" />
+      <node id="anemia" label="anemia">
+        <attvalues>
+          <attvalue for="0" value="2.93951925262" />
+        </attvalues>
+      </node>
+      <node id="anatomize" label="anatomize">
+        <attvalues>
+          <attvalue for="0" value="0.845098040014" />
+        </attvalues>
+      </node>
+      <node id="anion" label="anion" />
+      <node id="anesthetized" label="anesthetized" />
+      <node id="anachronistic" label="anachronistic">
+        <attvalues>
+          <attvalue for="0" value="2.67117284272" />
+        </attvalues>
+      </node>
+      <node id="anxious" label="anxious" />
+      <node id="anarchic" label="anarchic" />
+      <node id="analytical" label="analytical" />
+      <node id="analyzing" label="analyzing">
+        <attvalues>
+          <attvalue for="0" value="3.58308536635" />
+        </attvalues>
+      </node>
+      <node id="anal" label="anal">
+        <attvalues>
+          <attvalue for="0" value="2.9956351946" />
+        </attvalues>
+      </node>
+      <node id="anfractuous" label="anfractuous">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="animalistic" label="animalistic" />
+      <node id="antique" label="antique">
+        <attvalues>
+          <attvalue for="0" value="3.68196445899" />
+        </attvalues>
+      </node>
+      <node id="antibiotic" label="antibiotic" />
+      <node id="antigen" label="antigen" />
+      <node id="anvil" label="anvil">
+        <attvalues>
+          <attvalue for="0" value="2.63648789635" />
+        </attvalues>
+      </node>
+      <node id="anchored" label="anchored">
+        <attvalues>
+          <attvalue for="0" value="3.34024576157" />
+        </attvalues>
+      </node>
+      <node id="angina" label="angina" />
+      <node id="animate" label="animate" />
+      <node id="anarchy" label="anarchy">
+        <attvalues>
+          <attvalue for="0" value="3.09025805293" />
+        </attvalues>
+      </node>
+      <node id="antinomy" label="antinomy">
+        <attvalues>
+          <attvalue for="0" value="1.41497334797" />
+        </attvalues>
+      </node>
+      <node id="announcer" label="announcer">
+        <attvalues>
+          <attvalue for="0" value="3.97699154531" />
+        </attvalues>
+      </node>
+      <node id="anthem" label="anthem">
+        <attvalues>
+          <attvalue for="0" value="3.19728055813" />
+        </attvalues>
+      </node>
+      <node id="anniversary" label="anniversary">
+        <attvalues>
+          <attvalue for="0" value="3.97122944728" />
+        </attvalues>
+      </node>
+      <node id="anguished" label="anguished">
+        <attvalues>
+          <attvalue for="0" value="2.84818911699" />
+        </attvalues>
+      </node>
+      <node id="antipathetic" label="antipathetic">
+        <attvalues>
+          <attvalue for="0" value="1.38021124171" />
+        </attvalues>
+      </node>
+      <node id="annals" label="annals">
+        <attvalues>
+          <attvalue for="0" value="2.91803033678" />
+        </attvalues>
+      </node>
+      <node id="anodyne" label="anodyne">
+        <attvalues>
+          <attvalue for="0" value="1.81954393554" />
+        </attvalues>
+      </node>
+      <node id="annalist" label="annalist">
+        <attvalues>
+          <attvalue for="0" value="0.47712125472" />
+        </attvalues>
+      </node>
+      <node id="analyzer" label="analyzer">
+        <attvalues>
+          <attvalue for="0" value="2.63447727016" />
+        </attvalues>
+      </node>
+      <node id="analects" label="analects" />
+      <node id="ancestry" label="ancestry">
+        <attvalues>
+          <attvalue for="0" value="3.1562461904" />
+        </attvalues>
+      </node>
+      <node id="animus" label="animus">
+        <attvalues>
+          <attvalue for="0" value="2.50242711998" />
+        </attvalues>
+      </node>
+      <node id="anagram" label="anagram">
+        <attvalues>
+          <attvalue for="0" value="2.08278537032" />
+        </attvalues>
+      </node>
+      <node id="antipodes" label="antipodes" />
+      <node id="anarchism" label="anarchism">
+        <attvalues>
+          <attvalue for="0" value="2.03742649794" />
+        </attvalues>
+      </node>
+      <node id="anchorage" label="anchorage">
+        <attvalues>
+          <attvalue for="0" value="3.13193929521" />
+        </attvalues>
+      </node>
+      <node id="annual" label="annual" />
+      <node id="anomalous" label="anomalous" />
+      <node id="anima" label="anima" />
+      <node id="anon" label="anon" />
+      <node id="anarchist" label="anarchist" />
+      <node id="anoxia" label="anoxia">
+        <attvalues>
+          <attvalue for="0" value="1.69897000434" />
+        </attvalues>
+      </node>
+      <node id="anterior" label="anterior">
+        <attvalues>
+          <attvalue for="0" value="3.12319807503" />
+        </attvalues>
+      </node>
+      <node id="anesthetic" label="anesthetic" />
+      <node id="anarchistic" label="anarchistic" />
+      <node id="angelic" label="angelic" />
+      <node id="antibody" label="antibody">
+        <attvalues>
+          <attvalue for="0" value="2.89209460269" />
+        </attvalues>
+      </node>
+      <node id="anapest" label="anapest">
+        <attvalues>
+          <attvalue for="0" value="0.301029995664" />
+        </attvalues>
+      </node>
+      <node id="antidote" label="antidote" />
+      <node id="anthill" label="anthill" />
+      <node id="antiquity" label="antiquity">
+        <attvalues>
+          <attvalue for="0" value="3.06781451116" />
+        </attvalues>
+      </node>
+      <node id="anticipatory" label="anticipatory" />
+      <node id="anti" label="anti" />
+      <node id="another" label="another">
+        <attvalues>
+          <attvalue for="0" value="5.43960897515" />
+        </attvalues>
+      </node>
+      <node id="ante" label="ante">
+        <attvalues>
+          <attvalue for="0" value="3.06107532363" />
+        </attvalues>
+      </node>
+      <node id="angular" label="angular">
+        <attvalues>
+          <attvalue for="0" value="3.19451434188" />
+        </attvalues>
+      </node>
+      <node id="antitype" label="antitype" />
+      <node id="annoyance" label="annoyance" />
+      <node id="ancient" label="ancient" />
+      <node id="anility" label="anility">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="angry" label="angry" />
+      <node id="anathema" label="anathema">
+        <attvalues>
+          <attvalue for="0" value="2.70671778234" />
+        </attvalues>
+      </node>
+      <node id="annulment" label="annulment" />
+      <node id="analgesic" label="analgesic">
+        <attvalues>
+          <attvalue for="0" value="2.30102999566" />
+        </attvalues>
+      </node>
+      <node id="analgesia" label="analgesia" />
+      <node id="analyze" label="analyze">
+        <attvalues>
+          <attvalue for="0" value="3.77691900284" />
+        </attvalues>
+      </node>
+      <node id="anomaly" label="anomaly" />
+      <node id="antepast" label="antepast">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="anus" label="anus">
+        <attvalues>
+          <attvalue for="0" value="2.37657695706" />
+        </attvalues>
+      </node>
+      <node id="anointment" label="anointment" />
+      <node id="ankle" label="ankle" />
+      <node id="annul" label="annul" />
+      <node id="antic" label="antic">
+        <attvalues>
+          <attvalue for="0" value="2.17026171539" />
+        </attvalues>
+      </node>
+      <node id="anaerobe" label="anaerobe" />
+      <node id="antiquated" label="antiquated" />
+      <node id="analyst" label="analyst" />
+      <node id="annoy" label="annoy">
+        <attvalues>
+          <attvalue for="0" value="2.72181061521" />
+        </attvalues>
+      </node>
+      <node id="anxiety" label="anxiety">
+        <attvalues>
+          <attvalue for="0" value="4.1513392003" />
+        </attvalues>
+      </node>
+      <node id="annihilate" label="annihilate" />
+      <node id="antitoxin" label="antitoxin" />
+      <node id="anticipate" label="anticipate" />
+      <node id="ancestral" label="ancestral">
+        <attvalues>
+          <attvalue for="0" value="3.30059548389" />
+        </attvalues>
+      </node>
+      <node id="annihilation" label="annihilation" />
+      <node id="anew" label="anew">
+        <attvalues>
+          <attvalue for="0" value="3.17084820364" />
+        </attvalues>
+      </node>
+      <node id="animated" label="animated" />
+      <node id="anchor" label="anchor" />
+      <node id="anthropoid" label="anthropoid" />
+      <node id="anticipating" label="anticipating">
+        <attvalues>
+          <attvalue for="0" value="3.24748226068" />
+        </attvalues>
+      </node>
+      <node id="ana" label="ana">
+        <attvalues>
+          <attvalue for="0" value="3.33505651944" />
+        </attvalues>
+      </node>
+      <node id="angel" label="angel">
+        <attvalues>
+          <attvalue for="0" value="3.93287945782" />
+        </attvalues>
+      </node>
+      <node id="animalism" label="animalism" />
+      <node id="antithesis" label="antithesis">
+        <attvalues>
+          <attvalue for="0" value="2.81157500587" />
+        </attvalues>
+      </node>
+      <node id="antagonistic" label="antagonistic" />
+      <node id="anger" label="anger" />
+      <node id="anaphylaxis" label="anaphylaxis">
+        <attvalues>
+          <attvalue for="0" value="2.19033169817" />
+        </attvalues>
+      </node>
+      <node id="antedate" label="antedate">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="anthrax" label="anthrax">
+        <attvalues>
+          <attvalue for="0" value="3.37014284705" />
+        </attvalues>
+      </node>
+      <node id="analeptic" label="analeptic" />
+      <node id="annoying" label="annoying" />
+      <node id="anguish" label="anguish">
+        <attvalues>
+          <attvalue for="0" value="3.31470969296" />
+        </attvalues>
+      </node>
+      <node id="any" label="any" />
+      <node id="andiron" label="andiron">
+        <attvalues>
+          <attvalue for="0" value="0.602059991328" />
+        </attvalues>
+      </node>
+      <node id="ancestors" label="ancestors" />
+      <node id="angle" label="angle" />
+      <node id="anthology" label="anthology" />
+      <node id="anachronism" label="anachronism">
+        <attvalues>
+          <attvalue for="0" value="2.55870857053" />
+        </attvalues>
+      </node>
+      <node id="anesthesia" label="anesthesia" />
+      <node id="animation" label="animation" />
+      <node id="annulet" label="annulet">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="answer" label="answer" />
+      <node id="antihero" label="antihero">
+        <attvalues>
+          <attvalue for="0" value="2.0" />
+        </attvalues>
+      </node>
+      <node id="ancestor" label="ancestor" />
+      <node id="andante" label="andante">
+        <attvalues>
+          <attvalue for="0" value="1.65321251378" />
+        </attvalues>
+      </node>
+      <node id="anoint" label="anoint">
+        <attvalues>
+          <attvalue for="0" value="2.1398790864" />
+        </attvalues>
+      </node>
+      <node id="annex" label="annex">
+        <attvalues>
+          <attvalue for="0" value="3.00987563371" />
+        </attvalues>
+      </node>
+      <node id="ankh" label="ankh" />
+      <node id="anthropomorphism" label="anthropomorphism">
+        <attvalues>
+          <attvalue for="0" value="1.97772360529" />
+        </attvalues>
+      </node>
+      <node id="anatomy" label="anatomy" />
+      <node id="anhydrous" label="anhydrous">
+        <attvalues>
+          <attvalue for="0" value="1.85125834872" />
+        </attvalues>
+      </node>
+      <node id="animosity" label="animosity">
+        <attvalues>
+          <attvalue for="0" value="3.00346053211" />
+        </attvalues>
+      </node>
+      <node id="annotation" label="annotation">
+        <attvalues>
+          <attvalue for="0" value="2.08635983067" />
+        </attvalues>
+      </node>
+      <node id="annunciation" label="annunciation" />
+      <node id="antecedent" label="antecedent">
+        <attvalues>
+          <attvalue for="0" value="2.63548374681" />
+        </attvalues>
+      </node>
+      <node id="annum" label="annum">
+        <attvalues>
+          <attvalue for="0" value="2.32221929473" />
+        </attvalues>
+      </node>
+      <node id="antiphon" label="antiphon">
+        <attvalues>
+          <attvalue for="0" value="0.903089986992" />
+        </attvalues>
+      </node>
+      <node id="antenna" label="antenna">
+        <attvalues>
+          <attvalue for="0" value="3.20628604441" />
+        </attvalues>
+      </node>
+      <node id="angst" label="angst" />
+      <node id="annuity" label="annuity">
+        <attvalues>
+          <attvalue for="0" value="2.79309160018" />
+        </attvalues>
+      </node>
+      <node id="antipodal" label="antipodal">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="analysis" label="analysis" />
+      <node id="antidepressant" label="antidepressant" />
+      <node id="antonym" label="antonym">
+        <attvalues>
+          <attvalue for="0" value="1.44715803134" />
+        </attvalues>
+      </node>
+      <node id="annoyed" label="annoyed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="animadversion" target="analyze" weight="0.008929" />
+      <edge id="1" source="animadversion" target="anathema" weight="0.019608" />
+      <edge id="2" source="animadversion" target="annex" weight="0.007092" />
+      <edge id="3" source="antelope" target="anchorage" weight="0.008929" />
+      <edge id="4" source="antelope" target="analgesic" weight="0.009346" />
+      <edge id="5" source="antelope" target="animus" weight="0.006623" />
+      <edge id="6" source="antelope" target="annulet" weight="0.010204" />
+      <edge id="7" source="antelope" target="ante" weight="0.013699" />
+      <edge id="8" source="antelope" target="anodyne" weight="0.008929" />
+      <edge id="9" source="anemometer" target="annals" weight="0.021739" />
+      <edge id="10" source="antagonize" target="annoy" weight="0.051724" />
+      <edge id="11" source="antagonize" target="antithetical" weight="0.025641" />
+      <edge id="12" source="antagonize" target="antagonism" weight="0.026549" />
+      <edge id="13" source="antagonize" target="antithesis" weight="0.029412" />
+      <edge id="14" source="antagonize" target="antipodal" weight="0.02381" />
+      <edge id="15" source="antagonize" target="antipole" weight="0.021739" />
+      <edge id="16" source="antagonize" target="antipathetic" weight="0.026316" />
+      <edge id="17" source="antagonize" target="annulet" weight="0.012195" />
+      <edge id="18" source="antagonize" target="anguish" weight="0.00813" />
+      <edge id="19" source="antagonize" target="antonym" weight="0.017544" />
+      <edge id="20" source="anesthetize" target="anesthetic" weight="0.036585" />
+      <edge id="21" source="anesthetize" target="anatomize" weight="0.0125" />
+      <edge id="22" source="anesthetize" target="annul" weight="0.011494" />
+      <edge id="23" source="anesthetize" target="annihilate" weight="0.017094" />
+      <edge id="24" source="anesthetize" target="answer" weight="0.003333" />
+      <edge id="25" source="anesthetize" target="annual" weight="0.008696" />
+      <edge id="26" source="anesthetize" target="anesthesia" weight="0.012987" />
+      <edge id="27" source="anesthetize" target="analgesic" weight="0.018692" />
+      <edge id="28" source="anesthetize" target="annoy" weight="0.007246" />
+      <edge id="29" source="anesthetize" target="anthem" weight="0.012048" />
+      <edge id="30" source="anesthetize" target="ante" weight="0.013514" />
+      <edge id="31" source="anesthetize" target="anodyne" weight="0.017857" />
+      <edge id="32" source="anesthetize" target="analgesia" weight="0.014085" />
+      <edge id="33" source="anesthetize" target="analyze" weight="0.007463" />
+      <edge id="34" source="anesthetize" target="anesthetized" weight="0.019048" />
+      <edge id="35" source="anesthetize" target="anemic" weight="0.007519" />
+      <edge id="36" source="anesthetize" target="anoint" weight="0.041096" />
+      <edge id="37" source="anchorite" target="any" weight="0.021739" />
+      <edge id="38" source="analogue" target="annex" weight="0.013889" />
+      <edge id="39" source="analogue" target="antithesis" weight="0.014706" />
+      <edge id="40" source="analogue" target="antipodal" weight="0.02439" />
+      <edge id="41" source="analogue" target="antipole" weight="0.022222" />
+      <edge id="42" source="analogue" target="antipathetic" weight="0.008696" />
+      <edge id="43" source="analogue" target="ancestry" weight="0.012821" />
+      <edge id="44" source="analogue" target="analogy" weight="0.030303" />
+      <edge id="45" source="analogue" target="annexation" weight="0.022222" />
+      <edge id="46" source="analogue" target="antonym" weight="0.017857" />
+      <edge id="47" source="antacid" target="animosity" weight="0.037736" />
+      <edge id="48" source="antacid" target="antithesis" weight="0.014925" />
+      <edge id="49" source="antacid" target="antiseptic" weight="0.044444" />
+      <edge id="50" source="antacid" target="antonym" weight="0.018182" />
+      <edge id="51" source="antacid" target="antipole" weight="0.022727" />
+      <edge id="52" source="announcement" target="antiphon" weight="0.009524" />
+      <edge id="53" source="announcement" target="ana" weight="0.03125" />
+      <edge id="54" source="announcement" target="anthem" weight="0.009091" />
+      <edge id="55" source="announcement" target="annals" weight="0.008547" />
+      <edge id="56" source="announcement" target="annexation" weight="0.007353" />
+      <edge id="57" source="announcement" target="announce" weight="0.03937" />
+      <edge id="58" source="announcement" target="antonym" weight="0.009901" />
+      <edge id="59" source="anticipation" target="anxiety" weight="0.021127" />
+      <edge id="60" source="anticipation" target="angel" weight="0.007937" />
+      <edge id="61" source="anticipation" target="anachronism" weight="0.021277" />
+      <edge id="62" source="anticipation" target="animus" weight="0.013423" />
+      <edge id="63" source="anticipation" target="antedate" weight="0.017544" />
+      <edge id="64" source="anticipation" target="anguish" weight="0.007246" />
+      <edge id="65" source="animal" target="antique" weight="0.004505" />
+      <edge id="66" source="animal" target="annoy" weight="0.009615" />
+      <edge id="67" source="animal" target="antediluvian" weight="0.0125" />
+      <edge id="68" source="animal" target="ancestral" weight="0.007353" />
+      <edge id="69" source="animality" target="anarchism" weight="0.014493" />
+      <edge id="70" source="animality" target="antagonism" weight="0.014599" />
+      <edge id="71" source="animality" target="ancestry" weight="0.019802" />
+      <edge id="72" source="animality" target="animus" weight="0.019231" />
+      <edge id="73" source="animality" target="animosity" weight="0.025641" />
+      <edge id="74" source="animality" target="anguish" weight="0.006849" />
+      <edge id="75" source="animality" target="antiseptic" weight="0.014085" />
+      <edge id="76" source="analytic" target="antagonistic" weight="0.007092" />
+      <edge id="77" source="analytic" target="analytical" weight="0.043478" />
+      <edge id="78" source="analytic" target="annoying" weight="0.015873" />
+      <edge id="79" source="anaphylactic" target="antic" weight="0.013514" />
+      <edge id="80" source="antipathy" target="annoy" weight="0.005814" />
+      <edge id="81" source="antipathy" target="antiphon" weight="0.008929" />
+      <edge id="82" source="antipathy" target="anoxia" weight="0.007463" />
+      <edge id="83" source="antipathy" target="antagonism" weight="0.546296" />
+      <edge id="84" source="antipathy" target="anguish" weight="0.011561" />
+      <edge id="85" source="antipathy" target="antithesis" weight="0.19802" />
+      <edge id="86" source="antipathy" target="antinomy" weight="0.021505" />
+      <edge id="87" source="antipathy" target="anathema" weight="0.058824" />
+      <edge id="88" source="antipathy" target="antipole" weight="0.010309" />
+      <edge id="89" source="antipathy" target="antonym" weight="0.009259" />
+      <edge id="90" source="antipathy" target="anxiety" weight="0.011173" />
+      <edge id="91" source="antipathy" target="animus" weight="0.021858" />
+      <edge id="92" source="antipathy" target="analogy" weight="0.019868" />
+      <edge id="93" source="antipathy" target="anaphylaxis" weight="0.010989" />
+      <edge id="94" source="antipathy" target="animosity" weight="0.069307" />
+      <edge id="95" source="antipathy" target="antibody" weight="0.01" />
+      <edge id="96" source="antipathy" target="anarchy" weight="0.008621" />
+      <edge id="97" source="antipathy" target="anemia" weight="0.00641" />
+      <edge id="98" source="announce" target="antiphon" weight="0.011236" />
+      <edge id="99" source="announce" target="antecede" weight="0.106061" />
+      <edge id="100" source="announce" target="annex" weight="0.005747" />
+      <edge id="101" source="announce" target="announcer" weight="0.028846" />
+      <edge id="102" source="announce" target="anthem" weight="0.010638" />
+      <edge id="103" source="announce" target="anticipate" weight="0.075472" />
+      <edge id="104" source="announce" target="annual" weight="0.007937" />
+      <edge id="105" source="announce" target="analysis" weight="0.006452" />
+      <edge id="106" source="announce" target="answer" weight="0.019608" />
+      <edge id="107" source="announce" target="annulet" weight="0.009091" />
+      <edge id="108" source="announce" target="antedate" weight="0.109375" />
+      <edge id="109" source="announce" target="animate" weight="0.006667" />
+      <edge id="110" source="announce" target="ancestor" weight="0.02381" />
+      <edge id="111" source="announce" target="antecedent" weight="0.016667" />
+      <edge id="112" source="announce" target="annunciation" weight="0.044444" />
+      <edge id="113" source="analogous" target="ancillary" weight="0.016667" />
+      <edge id="114" source="analogous" target="anal" weight="0.014286" />
+      <edge id="115" source="analogous" target="ancestry" weight="0.025" />
+      <edge id="116" source="analogous" target="analogy" weight="0.029412" />
+      <edge id="117" source="analogous" target="another" weight="0.017544" />
+      <edge id="118" source="animism" target="anthropomorphism" weight="0.066667" />
+      <edge id="119" source="antecede" target="anterior" weight="0.043478" />
+      <edge id="120" source="antecede" target="antecedent" weight="0.012821" />
+      <edge id="121" source="antecede" target="announcer" weight="0.015873" />
+      <edge id="122" source="antecede" target="antihero" weight="0.027778" />
+      <edge id="123" source="antecede" target="ancestry" weight="0.015625" />
+      <edge id="124" source="antecede" target="antedate" weight="0.333333" />
+      <edge id="125" source="antecede" target="analyze" weight="0.019802" />
+      <edge id="126" source="antediluvian" target="antique" weight="0.252101" />
+      <edge id="127" source="antediluvian" target="anterior" weight="0.013158" />
+      <edge id="128" source="antediluvian" target="ancient" weight="0.171717" />
+      <edge id="129" source="antediluvian" target="angelic" weight="0.011111" />
+      <edge id="130" source="antediluvian" target="angel" weight="0.008" />
+      <edge id="131" source="antediluvian" target="antecedent" weight="0.009346" />
+      <edge id="132" source="antediluvian" target="ancestral" weight="0.067797" />
+      <edge id="133" source="antediluvian" target="antiquity" weight="0.042254" />
+      <edge id="134" source="antediluvian" target="antagonistic" weight="0.006135" />
+      <edge id="135" source="antediluvian" target="anticipatory" weight="0.010526" />
+      <edge id="136" source="antediluvian" target="antipathetic" weight="0.007692" />
+      <edge id="137" source="antediluvian" target="annals" weight="0.011494" />
+      <edge id="138" source="antediluvian" target="antiquated" weight="0.1" />
+      <edge id="139" source="antediluvian" target="anal" weight="0.012195" />
+      <edge id="140" source="antediluvian" target="anthropoid" weight="0.222222" />
+      <edge id="141" source="antithetical" target="antipodes" weight="0.148148" />
+      <edge id="142" source="antithetical" target="annul" weight="0.02" />
+      <edge id="143" source="antithetical" target="antithesis" weight="0.162791" />
+      <edge id="144" source="antithetical" target="antipodal" weight="0.533333" />
+      <edge id="145" source="antithetical" target="antipole" weight="0.285714" />
+      <edge id="146" source="antithetical" target="antagonistic" weight="0.065574" />
+      <edge id="147" source="antithetical" target="antipathetic" weight="0.077778" />
+      <edge id="148" source="antithetical" target="anti" weight="0.170213" />
+      <edge id="149" source="antithetical" target="analogy" weight="0.012195" />
+      <edge id="150" source="antithetical" target="answer" weight="0.007634" />
+      <edge id="151" source="antithetical" target="antonym" weight="0.117647" />
+      <edge id="152" source="analogy" target="antithesis" weight="0.036697" />
+      <edge id="153" source="analogy" target="antagonistic" weight="0.010471" />
+      <edge id="154" source="analogy" target="anti" weight="0.017241" />
+      <edge id="155" source="analogy" target="antitype" weight="0.011236" />
+      <edge id="156" source="analogy" target="angle" weight="0.008264" />
+      <edge id="157" source="analogy" target="antipathetic" weight="0.012658" />
+      <edge id="158" source="analogy" target="annals" weight="0.017391" />
+      <edge id="159" source="analogy" target="answer" weight="0.012384" />
+      <edge id="160" source="analogy" target="analyze" weight="0.00625" />
+      <edge id="161" source="analogy" target="annalist" weight="0.010309" />
+      <edge id="162" source="analogy" target="antagonism" weight="0.019231" />
+      <edge id="163" source="analogy" target="ancestry" weight="0.016529" />
+      <edge id="164" source="analogy" target="antagonist" weight="0.008264" />
+      <edge id="165" source="analogy" target="anatomize" weight="0.009434" />
+      <edge id="166" source="analogy" target="annuity" weight="0.010309" />
+      <edge id="167" source="analogy" target="anticipate" weight="0.007813" />
+      <edge id="168" source="analogy" target="antipodal" weight="0.011765" />
+      <edge id="169" source="analogy" target="analysis" weight="0.005882" />
+      <edge id="170" source="antagonism" target="antigen" weight="0.009524" />
+      <edge id="171" source="antagonism" target="antithesis" weight="0.188679" />
+      <edge id="172" source="antagonism" target="anaphylaxis" weight="0.010417" />
+      <edge id="173" source="antagonism" target="anguish" weight="0.005587" />
+      <edge id="174" source="antagonism" target="anarchy" weight="0.008264" />
+      <edge id="175" source="antagonism" target="antinomy" weight="0.020408" />
+      <edge id="176" source="antagonism" target="anathema" weight="0.036697" />
+      <edge id="177" source="antagonism" target="annulment" weight="0.015267" />
+      <edge id="178" source="antagonism" target="animation" weight="0.005917" />
+      <edge id="179" source="antagonism" target="answer" weight="0.005917" />
+      <edge id="180" source="antagonism" target="anomaly" weight="0.02381" />
+      <edge id="181" source="antagonism" target="annulet" weight="0.007246" />
+      <edge id="182" source="antagonism" target="antipole" weight="0.009804" />
+      <edge id="183" source="antagonism" target="anxiety" weight="0.005405" />
+      <edge id="184" source="antagonism" target="animus" weight="0.021277" />
+      <edge id="185" source="antagonism" target="animosity" weight="0.066038" />
+      <edge id="186" source="antagonism" target="antonym" weight="0.00885" />
+      <edge id="187" source="antagonism" target="antagonist" weight="0.007463" />
+      <edge id="188" source="antagonism" target="anemia" weight="0.006211" />
+      <edge id="189" source="antagonism" target="antipodes" weight="0.009434" />
+      <edge id="190" source="antagonism" target="antiphon" weight="0.008547" />
+      <edge id="191" source="antagonism" target="angst" weight="0.007813" />
+      <edge id="192" source="antagonism" target="anoxia" weight="0.007194" />
+      <edge id="193" source="antagonism" target="annihilation" weight="0.007937" />
+      <edge id="194" source="antagonism" target="anima" weight="0.00885" />
+      <edge id="195" source="antagonism" target="antibody" weight="0.009524" />
+      <edge id="196" source="antipole" target="antipodes" weight="0.583333" />
+      <edge id="197" source="antipole" target="annul" weight="0.054545" />
+      <edge id="198" source="antipole" target="antithesis" weight="0.390244" />
+      <edge id="199" source="antipole" target="antipodal" weight="0.363636" />
+      <edge id="200" source="antipole" target="antonym" weight="0.451613" />
+      <edge id="201" source="antipole" target="antagonistic" weight="0.062016" />
+      <edge id="202" source="antipole" target="antipathetic" weight="0.083333" />
+      <edge id="203" source="antipole" target="anti" weight="0.148148" />
+      <edge id="204" source="antipole" target="antidote" weight="0.037037" />
+      <edge id="205" source="antipole" target="answer" weight="0.007435" />
+      <edge id="206" source="antipole" target="anapest" weight="0.02381" />
+      <edge id="207" source="antipole" target="antagonist" weight="0.015385" />
+      <edge id="208" source="ancillary" target="antepast" weight="0.045455" />
+      <edge id="209" source="ancillary" target="annex" weight="0.020979" />
+      <edge id="210" source="ancillary" target="ancestry" weight="0.012821" />
+      <edge id="211" source="ancillary" target="anew" weight="0.027778" />
+      <edge id="212" source="ancillary" target="another" weight="0.447368" />
+      <edge id="213" source="ancillary" target="annexation" weight="0.022222" />
+      <edge id="214" source="ancillary" target="analeptic" weight="0.022727" />
+      <edge id="215" source="ancillary" target="angular" weight="0.020408" />
+      <edge id="216" source="anonymous" target="antique" weight="0.008" />
+      <edge id="217" source="anonymous" target="antiquated" weight="0.015625" />
+      <edge id="218" source="anonymous" target="anarchic" weight="0.01" />
+      <edge id="219" source="annexation" target="answer" weight="0.003165" />
+      <edge id="220" source="annexation" target="analeptic" weight="0.012821" />
+      <edge id="221" source="annexation" target="annex" weight="0.192053" />
+      <edge id="222" source="annexation" target="angst" weight="0.009524" />
+      <edge id="223" source="annexation" target="annuity" weight="0.011494" />
+      <edge id="224" source="annexation" target="analysis" weight="0.00625" />
+      <edge id="225" source="annexation" target="anointment" weight="0.012987" />
+      <edge id="226" source="annexation" target="annoy" weight="0.013072" />
+      <edge id="227" source="annexation" target="another" weight="0.011364" />
+      <edge id="228" source="annexation" target="ankle" weight="0.009259" />
+      <edge id="229" source="annexation" target="anxiety" weight="0.012422" />
+      <edge id="230" source="annexation" target="anguish" weight="0.00641" />
+      <edge id="231" source="annexation" target="anchor" weight="0.015267" />
+      <edge id="232" source="annexation" target="annoyance" weight="0.007937" />
+      <edge id="233" source="antiseptic" target="antibiotic" weight="0.666667" />
+      <edge id="234" source="antiseptic" target="annihilate" weight="0.011111" />
+      <edge id="235" source="antiseptic" target="antidote" weight="0.034483" />
+      <edge id="236" source="antiseptic" target="animus" weight="0.008065" />
+      <edge id="237" source="antiseptic" target="anaerobe" weight="0.029412" />
+      <edge id="238" source="antiseptic" target="animosity" weight="0.022222" />
+      <edge id="239" source="anemic" target="andante" weight="0.008475" />
+      <edge id="240" source="anemic" target="antique" weight="0.010526" />
+      <edge id="241" source="anemic" target="antipathetic" weight="0.00578" />
+      <edge id="242" source="anemic" target="annulet" weight="0.007194" />
+      <edge id="243" source="anemic" target="anhydrous" weight="0.010526" />
+      <edge id="244" source="antagonist" target="annoy" weight="0.007143" />
+      <edge id="245" source="antagonist" target="angel" weight="0.007692" />
+      <edge id="246" source="antagonist" target="antithesis" weight="0.022989" />
+      <edge id="247" source="antagonist" target="antipathetic" weight="0.022556" />
+      <edge id="248" source="antagonist" target="anticipating" weight="0.013333" />
+      <edge id="249" source="antagonist" target="antihero" weight="0.42" />
+      <edge id="250" source="antagonist" target="antonym" weight="0.013158" />
+      <edge id="251" source="antagonist" target="animus" weight="0.013072" />
+      <edge id="252" source="anemia" target="anointment" weight="0.011111" />
+      <edge id="253" source="anemia" target="anxiety" weight="0.011494" />
+      <edge id="254" source="anemia" target="angst" weight="0.017094" />
+      <edge id="255" source="anemia" target="anguish" weight="0.024096" />
+      <edge id="256" source="anemia" target="angry" weight="0.006944" />
+      <edge id="257" source="anemia" target="antagonistic" weight="0.005128" />
+      <edge id="258" source="anemia" target="anility" weight="0.011905" />
+      <edge id="259" source="anemia" target="antipathetic" weight="0.006173" />
+      <edge id="260" source="anemia" target="animation" weight="0.006289" />
+      <edge id="261" source="anemia" target="anoxia" weight="0.585366" />
+      <edge id="262" source="anemia" target="angina" weight="0.042105" />
+      <edge id="263" source="anemia" target="anthrax" weight="0.026549" />
+      <edge id="264" source="anemia" target="analgesia" weight="0.01" />
+      <edge id="265" source="anemia" target="anesthetized" weight="0.007407" />
+      <edge id="266" source="anemia" target="anesthesia" weight="0.019048" />
+      <edge id="267" source="anemia" target="annoyance" weight="0.007194" />
+      <edge id="268" source="anatomize" target="analysis" weight="0.015385" />
+      <edge id="269" source="anatomize" target="anatomy" weight="0.008" />
+      <edge id="270" source="anatomize" target="animus" weight="0.007194" />
+      <edge id="271" source="anatomize" target="answer" weight="0.003484" />
+      <edge id="272" source="anatomize" target="analyze" weight="0.244898" />
+      <edge id="273" source="anion" target="animosity" weight="0.042553" />
+      <edge id="274" source="anesthetized" target="antique" weight="0.006098" />
+      <edge id="275" source="anesthetized" target="animus" weight="0.006061" />
+      <edge id="276" source="anesthetized" target="antihero" weight="0.012346" />
+      <edge id="277" source="anesthetized" target="anticipating" weight="0.011628" />
+      <edge id="278" source="anesthetized" target="analgesic" weight="0.008264" />
+      <edge id="279" source="anesthetized" target="anodyne" weight="0.007937" />
+      <edge id="280" source="anesthetized" target="anoxia" weight="0.00885" />
+      <edge id="281" source="anachronistic" target="antique" weight="0.008696" />
+      <edge id="282" source="anachronistic" target="anterior" weight="0.023256" />
+      <edge id="283" source="anachronistic" target="ancient" weight="0.024691" />
+      <edge id="284" source="anachronistic" target="anticipatory" weight="0.016129" />
+      <edge id="285" source="anachronistic" target="antiquated" weight="0.018519" />
+      <edge id="286" source="anachronistic" target="ante" weight="0.026316" />
+      <edge id="287" source="anachronistic" target="antecedent" weight="0.013514" />
+      <edge id="288" source="anxious" target="antique" weight="0.005348" />
+      <edge id="289" source="anxious" target="anterior" weight="0.008696" />
+      <edge id="290" source="anxious" target="anxiety" weight="0.016667" />
+      <edge id="291" source="anxious" target="anhydrous" weight="0.010989" />
+      <edge id="292" source="anxious" target="anguished" weight="0.15534" />
+      <edge id="293" source="anxious" target="annoy" weight="0.005747" />
+      <edge id="294" source="anxious" target="anticipating" weight="0.028037" />
+      <edge id="295" source="anxious" target="antic" weight="0.046154" />
+      <edge id="296" source="anxious" target="ante" weight="0.009091" />
+      <edge id="297" source="anarchic" target="anarchy" weight="0.008696" />
+      <edge id="298" source="analyzing" target="angle" weight="0.005376" />
+      <edge id="299" source="analyzing" target="animus" weight="0.008264" />
+      <edge id="300" source="analyzing" target="analysis" weight="0.036364" />
+      <edge id="301" source="anal" target="antique" weight="0.006993" />
+      <edge id="302" source="anal" target="angelic" weight="0.011765" />
+      <edge id="303" source="anal" target="anoint" weight="0.014925" />
+      <edge id="304" source="anal" target="annex" weight="0.006452" />
+      <edge id="305" source="anal" target="angina" weight="0.016393" />
+      <edge id="306" source="anal" target="anguish" weight="0.007576" />
+      <edge id="307" source="anal" target="anchor" weight="0.009259" />
+      <edge id="308" source="anfractuous" target="angle" weight="0.005236" />
+      <edge id="309" source="animalistic" target="antique" weight="0.007813" />
+      <edge id="310" source="antique" target="anterior" weight="0.007299" />
+      <edge id="311" source="antique" target="angel" weight="0.005376" />
+      <edge id="312" source="antique" target="antiquity" weight="0.097561" />
+      <edge id="313" source="antique" target="antagonistic" weight="0.004464" />
+      <edge id="314" source="antique" target="anticipatory" weight="0.00641" />
+      <edge id="315" source="antique" target="animate" weight="0.005076" />
+      <edge id="316" source="antique" target="ancient" weight="0.264286" />
+      <edge id="317" source="antique" target="antipathetic" weight="0.005236" />
+      <edge id="318" source="antique" target="annals" weight="0.020548" />
+      <edge id="319" source="antique" target="antic" weight="0.006369" />
+      <edge id="320" source="antique" target="antiquated" weight="0.392523" />
+      <edge id="321" source="antique" target="antecedent" weight="0.011976" />
+      <edge id="322" source="antique" target="annihilate" weight="0.005682" />
+      <edge id="323" source="antique" target="annual" weight="0.011628" />
+      <edge id="324" source="antique" target="anew" weight="0.008929" />
+      <edge id="325" source="antique" target="animated" weight="0.005102" />
+      <edge id="326" source="antique" target="anthropoid" weight="0.017544" />
+      <edge id="327" source="antibiotic" target="animosity" weight="0.02381" />
+      <edge id="328" source="antibiotic" target="animus" weight="0.008264" />
+      <edge id="329" source="antigen" target="ancestry" weight="0.014493" />
+      <edge id="330" source="antigen" target="antibody" weight="0.904762" />
+      <edge id="331" source="anvil" target="answer" weight="0.00369" />
+      <edge id="332" source="anvil" target="antiphon" weight="0.020408" />
+      <edge id="333" source="anchored" target="animus" weight="0.008" />
+      <edge id="334" source="anchored" target="anchor" weight="0.011236" />
+      <edge id="335" source="anchored" target="annex" weight="0.007353" />
+      <edge id="336" source="angina" target="annoy" weight="0.017699" />
+      <edge id="337" source="angina" target="anxiety" weight="0.008197" />
+      <edge id="338" source="angina" target="anguish" weight="0.008621" />
+      <edge id="339" source="angina" target="annulet" weight="0.013333" />
+      <edge id="340" source="angina" target="anoxia" weight="0.054795" />
+      <edge id="341" source="animate" target="antepast" weight="0.009174" />
+      <edge id="342" source="animate" target="anxiety" weight="0.005208" />
+      <edge id="343" source="animate" target="annex" weight="0.004785" />
+      <edge id="344" source="animate" target="annoy" weight="0.075581" />
+      <edge id="345" source="animate" target="animus" weight="0.010152" />
+      <edge id="346" source="animate" target="antic" weight="0.05036" />
+      <edge id="347" source="animate" target="ante" weight="0.008333" />
+      <edge id="348" source="animate" target="anterior" weight="0.008" />
+      <edge id="349" source="anarchy" target="anarchism" weight="0.325" />
+      <edge id="350" source="anarchy" target="antinomy" weight="0.020408" />
+      <edge id="351" source="anarchy" target="antithesis" weight="0.013333" />
+      <edge id="352" source="anarchy" target="analysis" weight="0.007519" />
+      <edge id="353" source="anarchy" target="annihilation" weight="0.013158" />
+      <edge id="354" source="anarchy" target="anthrax" weight="0.013333" />
+      <edge id="355" source="antinomy" target="antithesis" weight="0.018868" />
+      <edge id="356" source="antinomy" target="anomaly" weight="0.017857" />
+      <edge id="357" source="announcer" target="anterior" weight="0.025" />
+      <edge id="358" source="announcer" target="antitype" weight="0.03125" />
+      <edge id="359" source="announcer" target="ancestors" weight="0.011905" />
+      <edge id="360" source="announcer" target="angle" weight="0.004566" />
+      <edge id="361" source="announcer" target="angel" weight="0.007692" />
+      <edge id="362" source="announcer" target="annex" weight="0.006061" />
+      <edge id="363" source="announcer" target="analyze" weight="0.007353" />
+      <edge id="364" source="announcer" target="anticipate" weight="0.009615" />
+      <edge id="365" source="announcer" target="analysis" weight="0.006849" />
+      <edge id="366" source="announcer" target="anticipatory" weight="0.01" />
+      <edge id="367" source="announcer" target="animus" weight="0.006494" />
+      <edge id="368" source="announcer" target="antedate" weight="0.016393" />
+      <edge id="369" source="announcer" target="ancestor" weight="0.425926" />
+      <edge id="370" source="announcer" target="antecedent" weight="0.255556" />
+      <edge id="371" source="anthem" target="antiphon" weight="0.301887" />
+      <edge id="372" source="anthem" target="angelic" weight="0.012048" />
+      <edge id="373" source="anthem" target="annual" weight="0.009524" />
+      <edge id="374" source="anthem" target="analysis" weight="0.007463" />
+      <edge id="375" source="anthem" target="answer" weight="0.058182" />
+      <edge id="376" source="anthem" target="ante" weight="0.015625" />
+      <edge id="377" source="anthem" target="anapest" weight="0.016129" />
+      <edge id="378" source="anthem" target="annunciation" weight="0.013889" />
+      <edge id="379" source="anniversary" target="annual" weight="0.04" />
+      <edge id="380" source="anguished" target="animated" weight="0.007874" />
+      <edge id="381" source="anguished" target="anguish" weight="0.015625" />
+      <edge id="382" source="anguished" target="annoyed" weight="0.013514" />
+      <edge id="383" source="anguished" target="annihilate" weight="0.009346" />
+      <edge id="384" source="antipathetic" target="antithesis" weight="0.076271" />
+      <edge id="385" source="antipathetic" target="antagonistic" weight="0.682927" />
+      <edge id="386" source="antipathetic" target="annoyance" weight="0.006667" />
+      <edge id="387" source="antipathetic" target="andiron" weight="0.009901" />
+      <edge id="388" source="antipathetic" target="angry" weight="0.019608" />
+      <edge id="389" source="antipathetic" target="antonym" weight="0.055046" />
+      <edge id="390" source="antipathetic" target="annulet" weight="0.007194" />
+      <edge id="391" source="antipathetic" target="anarchistic" weight="0.008065" />
+      <edge id="392" source="antipathetic" target="anomaly" weight="0.007752" />
+      <edge id="393" source="antipathetic" target="ankh" weight="0.010526" />
+      <edge id="394" source="antipathetic" target="answer" weight="0.0059" />
+      <edge id="395" source="antipathetic" target="antipodes" weight="0.058824" />
+      <edge id="396" source="antipathetic" target="annul" weight="0.015873" />
+      <edge id="397" source="antipathetic" target="annihilate" weight="0.006329" />
+      <edge id="398" source="antipathetic" target="antipodal" weight="0.123596" />
+      <edge id="399" source="antipathetic" target="anomalous" weight="0.044118" />
+      <edge id="400" source="antipathetic" target="anti" weight="0.5" />
+      <edge id="401" source="antipathetic" target="anarchist" weight="0.009709" />
+      <edge id="402" source="antipathetic" target="anoxia" weight="0.007143" />
+      <edge id="403" source="annals" target="angle" weight="0.004673" />
+      <edge id="404" source="annals" target="ana" weight="0.009901" />
+      <edge id="405" source="annals" target="annual" weight="0.066038" />
+      <edge id="406" source="annals" target="antiquity" weight="0.042254" />
+      <edge id="407" source="annals" target="animation" weight="0.007874" />
+      <edge id="408" source="annals" target="anxiety" weight="0.006993" />
+      <edge id="409" source="annals" target="answer" weight="0.003367" />
+      <edge id="410" source="annals" target="analyze" weight="0.015385" />
+      <edge id="411" source="annals" target="annotation" weight="0.065574" />
+      <edge id="412" source="anodyne" target="anesthetic" weight="0.346154" />
+      <edge id="413" source="anodyne" target="annoyance" weight="0.007692" />
+      <edge id="414" source="anodyne" target="analeptic" weight="0.012195" />
+      <edge id="415" source="anodyne" target="anoint" weight="0.010526" />
+      <edge id="416" source="anodyne" target="antenna" weight="0.014286" />
+      <edge id="417" source="anodyne" target="angry" weight="0.007407" />
+      <edge id="418" source="anodyne" target="antidepressant" weight="0.011364" />
+      <edge id="419" source="anodyne" target="anarchistic" weight="0.009615" />
+      <edge id="420" source="anodyne" target="analgesic" weight="0.791667" />
+      <edge id="421" source="anodyne" target="anarchist" weight="0.012048" />
+      <edge id="422" source="anodyne" target="analgesia" weight="0.057471" />
+      <edge id="423" source="anodyne" target="anesthesia" weight="0.053763" />
+      <edge id="424" source="annalist" target="ancestors" weight="0.016667" />
+      <edge id="425" source="analyzer" target="analyze" weight="0.010417" />
+      <edge id="426" source="analyzer" target="analyst" weight="0.25" />
+      <edge id="427" source="analects" target="antonym" weight="0.014085" />
+      <edge id="428" source="analects" target="annulet" weight="0.021053" />
+      <edge id="429" source="analects" target="ana" weight="0.728814" />
+      <edge id="430" source="ancestry" target="answer" weight="0.006623" />
+      <edge id="431" source="ancestry" target="angle" weight="0.004545" />
+      <edge id="432" source="ancestry" target="another" weight="0.013333" />
+      <edge id="433" source="ancestry" target="animalism" weight="0.015152" />
+      <edge id="434" source="ancestry" target="analysis" weight="0.006803" />
+      <edge id="435" source="ancestry" target="anatomy" weight="0.007092" />
+      <edge id="436" source="ancestry" target="anima" weight="0.012987" />
+      <edge id="437" source="ancestry" target="animation" weight="0.007519" />
+      <edge id="438" source="ancestry" target="ankle" weight="0.010526" />
+      <edge id="439" source="ancestry" target="analyze" weight="0.007299" />
+      <edge id="440" source="ancestry" target="antibody" weight="0.014493" />
+      <edge id="441" source="ancestry" target="anchor" weight="0.008403" />
+      <edge id="442" source="animus" target="angel" weight="0.005348" />
+      <edge id="443" source="animus" target="antithesis" weight="0.020979" />
+      <edge id="444" source="animus" target="anaphylaxis" weight="0.008621" />
+      <edge id="445" source="animus" target="anger" weight="0.027027" />
+      <edge id="446" source="animus" target="anguish" weight="0.005025" />
+      <edge id="447" source="animus" target="angular" weight="0.007937" />
+      <edge id="448" source="animus" target="antitype" weight="0.008197" />
+      <edge id="449" source="animus" target="angle" weight="0.037453" />
+      <edge id="450" source="animus" target="anathema" weight="0.007576" />
+      <edge id="451" source="animus" target="animation" weight="0.061453" />
+      <edge id="452" source="animus" target="antecedent" weight="0.005917" />
+      <edge id="453" source="animus" target="answer" weight="0.008403" />
+      <edge id="454" source="animus" target="anaerobe" weight="0.008264" />
+      <edge id="455" source="animus" target="ancestor" weight="0.007519" />
+      <edge id="456" source="animus" target="anus" weight="0.007576" />
+      <edge id="457" source="animus" target="annex" weight="0.004505" />
+      <edge id="458" source="animus" target="anatomy" weight="0.03125" />
+      <edge id="459" source="animus" target="anxiety" weight="0.014778" />
+      <edge id="460" source="animus" target="animosity" weight="0.108333" />
+      <edge id="461" source="animus" target="annoy" weight="0.005076" />
+      <edge id="462" source="animus" target="analyze" weight="0.021053" />
+      <edge id="463" source="animus" target="angst" weight="0.006757" />
+      <edge id="464" source="animus" target="anomaly" weight="0.013605" />
+      <edge id="465" source="animus" target="anticipate" weight="0.0125" />
+      <edge id="466" source="animus" target="analysis" weight="0.014925" />
+      <edge id="467" source="animus" target="anima" weight="0.030769" />
+      <edge id="468" source="animus" target="antihero" weight="0.015873" />
+      <edge id="469" source="animus" target="anchor" weight="0.005714" />
+      <edge id="470" source="anagram" target="answer" weight="0.003802" />
+      <edge id="471" source="antipodes" target="antithesis" weight="0.297872" />
+      <edge id="472" source="antipodes" target="antipodal" weight="0.214286" />
+      <edge id="473" source="antipodes" target="antonym" weight="0.4" />
+      <edge id="474" source="antipodes" target="anapest" weight="0.021739" />
+      <edge id="475" source="anarchism" target="anthrax" weight="0.017857" />
+      <edge id="476" source="anchorage" target="angle" weight="0.004219" />
+      <edge id="477" source="anchorage" target="annihilate" weight="0.007246" />
+      <edge id="478" source="anchorage" target="annex" weight="0.010989" />
+      <edge id="479" source="anchorage" target="antitoxin" weight="0.0125" />
+      <edge id="480" source="anchorage" target="anthill" weight="0.010753" />
+      <edge id="481" source="anchorage" target="annulet" weight="0.008403" />
+      <edge id="482" source="anchorage" target="ante" weight="0.010638" />
+      <edge id="483" source="anchorage" target="anchor" weight="0.037879" />
+      <edge id="484" source="annual" target="antiphon" weight="0.01" />
+      <edge id="485" source="annual" target="ana" weight="0.016" />
+      <edge id="486" source="annual" target="analyze" weight="0.012903" />
+      <edge id="487" source="annual" target="annotation" weight="0.022727" />
+      <edge id="488" source="anomalous" target="another" weight="0.0125" />
+      <edge id="489" source="anima" target="anus" weight="0.018519" />
+      <edge id="490" source="anima" target="anxiety" weight="0.007874" />
+      <edge id="491" source="anima" target="animosity" weight="0.018519" />
+      <edge id="492" source="anima" target="antibody" weight="0.043478" />
+      <edge id="493" source="anon" target="anew" weight="0.052632" />
+      <edge id="494" source="anarchist" target="analgesic" weight="0.012821" />
+      <edge id="495" source="anoxia" target="anointment" weight="0.014706" />
+      <edge id="496" source="anoxia" target="anxiety" weight="0.006536" />
+      <edge id="497" source="anoxia" target="angst" weight="0.010417" />
+      <edge id="498" source="anoxia" target="angry" weight="0.008197" />
+      <edge id="499" source="anoxia" target="antagonistic" weight="0.00578" />
+      <edge id="500" source="anoxia" target="annoyance" weight="0.008547" />
+      <edge id="501" source="anoxia" target="animation" weight="0.007299" />
+      <edge id="502" source="anoxia" target="anthrax" weight="0.05618" />
+      <edge id="503" source="anoxia" target="anguish" weight="0.013699" />
+      <edge id="504" source="anoxia" target="anesthesia" weight="0.011905" />
+      <edge id="505" source="anterior" target="antitype" weight="0.020408" />
+      <edge id="506" source="anterior" target="ancient" weight="0.060606" />
+      <edge id="507" source="anterior" target="answer" weight="0.003497" />
+      <edge id="508" source="anterior" target="animated" weight="0.008065" />
+      <edge id="509" source="anterior" target="ancestral" weight="0.019608" />
+      <edge id="510" source="anterior" target="anticipatory" weight="0.214286" />
+      <edge id="511" source="anterior" target="anticipating" weight="0.016949" />
+      <edge id="512" source="anterior" target="annulet" weight="0.011765" />
+      <edge id="513" source="anterior" target="ante" weight="0.070175" />
+      <edge id="514" source="anterior" target="ancestor" weight="0.033898" />
+      <edge id="515" source="anterior" target="antecedent" weight="0.366197" />
+      <edge id="516" source="anesthetic" target="analgesic" weight="0.449275" />
+      <edge id="517" source="anesthetic" target="anoint" weight="0.030769" />
+      <edge id="518" source="anarchistic" target="analgesic" weight="0.010101" />
+      <edge id="519" source="angelic" target="ana" weight="0.009615" />
+      <edge id="520" source="angelic" target="angel" weight="0.015748" />
+      <edge id="521" source="angelic" target="ancestral" weight="0.015385" />
+      <edge id="522" source="antibody" target="antitoxin" weight="0.096774" />
+      <edge id="523" source="anapest" target="anus" weight="0.019231" />
+      <edge id="524" source="anapest" target="angle" weight="0.005102" />
+      <edge id="525" source="anapest" target="annoyance" weight="0.011236" />
+      <edge id="526" source="anapest" target="antithesis" weight="0.015385" />
+      <edge id="527" source="anapest" target="anatomy" weight="0.008547" />
+      <edge id="528" source="anapest" target="analysis" weight="0.00813" />
+      <edge id="529" source="anapest" target="answer" weight="0.003584" />
+      <edge id="530" source="anapest" target="antonym" weight="0.018868" />
+      <edge id="531" source="antidote" target="antithesis" weight="0.02" />
+      <edge id="532" source="antidote" target="antonym" weight="0.026316" />
+      <edge id="533" source="anthill" target="annex" weight="0.006993" />
+      <edge id="534" source="antiquity" target="ancient" weight="0.009901" />
+      <edge id="535" source="antiquity" target="angle" weight="0.005" />
+      <edge id="536" source="antiquity" target="annihilate" weight="0.009901" />
+      <edge id="537" source="antiquity" target="anility" weight="0.054054" />
+      <edge id="538" source="antiquity" target="antiquated" weight="0.013699" />
+      <edge id="539" source="antiquity" target="animation" weight="0.00885" />
+      <edge id="540" source="anticipatory" target="anxiety" weight="0.006623" />
+      <edge id="541" source="anticipatory" target="antecedent" weight="0.137255" />
+      <edge id="542" source="anticipatory" target="ancestral" weight="0.014286" />
+      <edge id="543" source="anticipatory" target="anticipating" weight="0.316667" />
+      <edge id="544" source="anticipatory" target="ante" weight="0.038961" />
+      <edge id="545" source="anti" target="annulet" weight="0.010309" />
+      <edge id="546" source="anti" target="antithesis" weight="0.118421" />
+      <edge id="547" source="anti" target="antipodal" weight="0.208333" />
+      <edge id="548" source="anti" target="antonym" weight="0.089552" />
+      <edge id="549" source="another" target="annum" weight="0.022222" />
+      <edge id="550" source="another" target="angel" weight="0.009346" />
+      <edge id="551" source="another" target="annex" weight="0.014184" />
+      <edge id="552" source="another" target="any" weight="0.018182" />
+      <edge id="553" source="another" target="anew" weight="0.030303" />
+      <edge id="554" source="another" target="animated" weight="0.008547" />
+      <edge id="555" source="another" target="angular" weight="0.021739" />
+      <edge id="556" source="ante" target="antepast" weight="0.022727" />
+      <edge id="557" source="ante" target="ancient" weight="0.020408" />
+      <edge id="558" source="ante" target="antecedent" weight="0.033708" />
+      <edge id="559" source="ante" target="antidepressant" weight="0.020408" />
+      <edge id="560" source="ante" target="antic" weight="0.0125" />
+      <edge id="561" source="ante" target="answer" weight="0.007143" />
+      <edge id="562" source="ante" target="animated" weight="0.008403" />
+      <edge id="563" source="ante" target="antitoxin" weight="0.02439" />
+      <edge id="564" source="angular" target="angle" weight="0.010526" />
+      <edge id="565" source="antitype" target="antecedent" weight="0.038462" />
+      <edge id="566" source="antitype" target="antihero" weight="0.026316" />
+      <edge id="567" source="antitype" target="analyze" weight="0.009615" />
+      <edge id="568" source="annoyance" target="annoy" weight="0.04" />
+      <edge id="569" source="annoyance" target="anxiety" weight="0.086093" />
+      <edge id="570" source="annoyance" target="annex" weight="0.005556" />
+      <edge id="571" source="annoyance" target="anathema" weight="0.011111" />
+      <edge id="572" source="annoyance" target="annulet" weight="0.008621" />
+      <edge id="573" source="annoyance" target="analgesic" weight="0.008" />
+      <edge id="574" source="annoyance" target="animosity" weight="0.011111" />
+      <edge id="575" source="annoyance" target="anguish" weight="0.060403" />
+      <edge id="576" source="ancient" target="antecedent" weight="0.054264" />
+      <edge id="577" source="ancient" target="ancestral" weight="0.070588" />
+      <edge id="578" source="ancient" target="antic" weight="0.008065" />
+      <edge id="579" source="anility" target="analyze" weight="0.010417" />
+      <edge id="580" source="anility" target="animation" weight="0.01087" />
+      <edge id="581" source="angry" target="annulet" weight="0.008264" />
+      <edge id="582" source="angry" target="analgesic" weight="0.007692" />
+      <edge id="583" source="angry" target="animosity" weight="0.010526" />
+      <edge id="584" source="anathema" target="annoy" weight="0.008475" />
+      <edge id="585" source="anathema" target="annihilate" weight="0.010204" />
+      <edge id="586" source="anathema" target="antithesis" weight="0.015152" />
+      <edge id="587" source="anathema" target="animosity" weight="0.018868" />
+      <edge id="588" source="annulment" target="antithesis" weight="0.011628" />
+      <edge id="589" source="annulment" target="anxiety" weight="0.006849" />
+      <edge id="590" source="analgesic" target="analeptic" weight="0.012987" />
+      <edge id="591" source="analgesic" target="anoint" weight="0.022472" />
+      <edge id="592" source="analgesic" target="antenna" weight="0.015385" />
+      <edge id="593" source="analgesic" target="antidepressant" weight="0.012048" />
+      <edge id="594" source="analgesic" target="answer" weight="0.003175" />
+      <edge id="595" source="analgesic" target="analgesia" weight="0.060976" />
+      <edge id="596" source="analgesic" target="anesthesia" weight="0.056818" />
+      <edge id="597" source="analgesia" target="anxiety" weight="0.008065" />
+      <edge id="598" source="analgesia" target="anguish" weight="0.008475" />
+      <edge id="599" source="analyze" target="anoint" weight="0.008621" />
+      <edge id="600" source="analyze" target="angle" weight="0.007782" />
+      <edge id="601" source="analyze" target="annulet" weight="0.007143" />
+      <edge id="602" source="analyze" target="answer" weight="0.00885" />
+      <edge id="603" source="analyze" target="ancestor" weight="0.008696" />
+      <edge id="604" source="analyze" target="antepast" weight="0.009615" />
+      <edge id="605" source="analyze" target="antecedent" weight="0.013333" />
+      <edge id="606" source="analyze" target="anatomy" weight="0.005587" />
+      <edge id="607" source="analyze" target="analysis" weight="0.033333" />
+      <edge id="608" source="anomaly" target="annulet" weight="0.010526" />
+      <edge id="609" source="anomaly" target="antic" weight="0.010526" />
+      <edge id="610" source="anomaly" target="anguish" weight="0.007353" />
+      <edge id="611" source="antepast" target="angle" weight="0.005348" />
+      <edge id="612" source="antepast" target="anoint" weight="0.022222" />
+      <edge id="613" source="antepast" target="annuity" weight="0.02439" />
+      <edge id="614" source="antepast" target="anticipate" weight="0.028169" />
+      <edge id="615" source="anus" target="anxiety" weight="0.007937" />
+      <edge id="616" source="anus" target="angst" weight="0.014493" />
+      <edge id="617" source="anus" target="anger" weight="0.013889" />
+      <edge id="618" source="anus" target="animosity" weight="0.018868" />
+      <edge id="619" source="anus" target="anguish" weight="0.008333" />
+      <edge id="620" source="anointment" target="annex" weight="0.007634" />
+      <edge id="621" source="ankle" target="antonym" weight="0.013699" />
+      <edge id="622" source="ankle" target="annex" weight="0.006173" />
+      <edge id="623" source="annul" target="antithesis" weight="0.038462" />
+      <edge id="624" source="annul" target="antipodal" weight="0.018868" />
+      <edge id="625" source="annul" target="antonym" weight="0.045455" />
+      <edge id="626" source="antic" target="answer" weight="0.003268" />
+      <edge id="627" source="antic" target="animated" weight="0.141732" />
+      <edge id="628" source="anaerobe" target="annoy" weight="0.009346" />
+      <edge id="629" source="antiquated" target="antecedent" weight="0.009346" />
+      <edge id="630" source="antiquated" target="anew" weight="0.019608" />
+      <edge id="631" source="analyst" target="anguish" weight="0.010101" />
+      <edge id="632" source="annoy" target="angel" weight="0.00578" />
+      <edge id="633" source="annoy" target="anger" weight="0.112903" />
+      <edge id="634" source="annoy" target="anguish" weight="0.027624" />
+      <edge id="635" source="annoy" target="animation" weight="0.005714" />
+      <edge id="636" source="annoy" target="answer" weight="0.005814" />
+      <edge id="637" source="annoy" target="annulet" weight="0.006944" />
+      <edge id="638" source="annoy" target="annex" weight="0.004808" />
+      <edge id="639" source="annoy" target="animosity" weight="0.008475" />
+      <edge id="640" source="annoy" target="anxiety" weight="0.021277" />
+      <edge id="641" source="annoy" target="angst" weight="0.015038" />
+      <edge id="642" source="annoy" target="annoyed" weight="0.007692" />
+      <edge id="643" source="annoy" target="anchor" weight="0.006211" />
+      <edge id="644" source="anxiety" target="anticipating" weight="0.007937" />
+      <edge id="645" source="anxiety" target="anger" weight="0.035461" />
+      <edge id="646" source="anxiety" target="annoying" weight="0.007092" />
+      <edge id="647" source="anxiety" target="anguish" weight="0.161677" />
+      <edge id="648" source="anxiety" target="anesthesia" weight="0.015504" />
+      <edge id="649" source="anxiety" target="animosity" weight="0.007937" />
+      <edge id="650" source="anxiety" target="animation" weight="0.121951" />
+      <edge id="651" source="anxiety" target="angst" weight="0.276786" />
+      <edge id="652" source="anxiety" target="anticipate" weight="0.006452" />
+      <edge id="653" source="anxiety" target="analysis" weight="0.005076" />
+      <edge id="654" source="anxiety" target="anaphylaxis" weight="0.009091" />
+      <edge id="655" source="annihilate" target="annex" weight="0.005319" />
+      <edge id="656" source="annihilate" target="annulet" weight="0.008065" />
+      <edge id="657" source="annihilate" target="anguish" weight="0.006061" />
+      <edge id="658" source="antitoxin" target="annex" weight="0.007692" />
+      <edge id="659" source="anticipate" target="antecedent" weight="0.008403" />
+      <edge id="660" source="anticipate" target="annulet" weight="0.009259" />
+      <edge id="661" source="anticipate" target="annuity" weight="0.0125" />
+      <edge id="662" source="anticipate" target="antedate" weight="0.112903" />
+      <edge id="663" source="anticipate" target="anguish" weight="0.006711" />
+      <edge id="664" source="ancestral" target="antecedent" weight="0.012195" />
+      <edge id="665" source="ancestral" target="ancestors" weight="0.018519" />
+      <edge id="666" source="ancestral" target="ancestor" weight="0.021739" />
+      <edge id="667" source="ancestral" target="anthropoid" weight="0.111111" />
+      <edge id="668" source="animated" target="anticipating" weight="0.017094" />
+      <edge id="669" source="anchor" target="andante" weight="0.009901" />
+      <edge id="670" source="anchor" target="andiron" weight="0.011905" />
+      <edge id="671" source="anchor" target="annex" weight="0.113095" />
+      <edge id="672" source="anticipating" target="antecedent" weight="0.011111" />
+      <edge id="673" source="anticipating" target="antihero" weight="0.020833" />
+      <edge id="674" source="anticipating" target="annoying" weight="0.014706" />
+      <edge id="675" source="anticipating" target="any" weight="0.017857" />
+      <edge id="676" source="ana" target="anthology" weight="0.4" />
+      <edge id="677" source="ana" target="analysis" weight="0.006452" />
+      <edge id="678" source="ana" target="anatomy" weight="0.013514" />
+      <edge id="679" source="ana" target="annulet" weight="0.018349" />
+      <edge id="680" source="ana" target="answer" weight="0.019608" />
+      <edge id="681" source="ana" target="antonym" weight="0.011765" />
+      <edge id="682" source="ana" target="annunciation" weight="0.032967" />
+      <edge id="683" source="angel" target="antecedent" weight="0.006897" />
+      <edge id="684" source="angel" target="annum" weight="0.009901" />
+      <edge id="685" source="angel" target="annuity" weight="0.009434" />
+      <edge id="686" source="angel" target="answer" weight="0.009009" />
+      <edge id="687" source="angel" target="animation" weight="0.006061" />
+      <edge id="688" source="angel" target="antihero" weight="0.009709" />
+      <edge id="689" source="angel" target="ancestor" weight="0.009174" />
+      <edge id="690" source="antithesis" target="antagonistic" weight="0.059603" />
+      <edge id="691" source="antithesis" target="answer" weight="0.010309" />
+      <edge id="692" source="antithesis" target="animosity" weight="0.046875" />
+      <edge id="693" source="antithesis" target="antonym" weight="0.259259" />
+      <edge id="694" source="antithesis" target="antipodal" weight="0.204545" />
+      <edge id="695" source="antagonistic" target="annulet" weight="0.005814" />
+      <edge id="696" source="antagonistic" target="antipodal" weight="0.081301" />
+      <edge id="697" source="antagonistic" target="andiron" weight="0.007463" />
+      <edge id="698" source="antagonistic" target="antonym" weight="0.042254" />
+      <edge id="699" source="anger" target="animosity" weight="0.123077" />
+      <edge id="700" source="anger" target="anguish" weight="0.021898" />
+      <edge id="701" source="anger" target="anaphylaxis" weight="0.017857" />
+      <edge id="702" source="anaphylaxis" target="angst" weight="0.018868" />
+      <edge id="703" source="anaphylaxis" target="animosity" weight="0.027027" />
+      <edge id="704" source="antedate" target="antecedent" weight="0.013158" />
+      <edge id="705" source="antedate" target="anachronism" weight="0.066667" />
+      <edge id="706" source="antedate" target="ancestor" weight="0.025" />
+      <edge id="707" source="analeptic" target="annex" weight="0.007576" />
+      <edge id="708" source="annoying" target="antihero" weight="0.015873" />
+      <edge id="709" source="anguish" target="anesthesia" weight="0.008065" />
+      <edge id="710" source="anguish" target="animation" weight="0.00565" />
+      <edge id="711" source="anguish" target="answer" weight="0.00578" />
+      <edge id="712" source="anguish" target="andante" weight="0.008" />
+      <edge id="713" source="anguish" target="animosity" weight="0.016807" />
+      <edge id="714" source="anguish" target="angst" weight="0.212389" />
+      <edge id="715" source="anguish" target="annuity" weight="0.008475" />
+      <edge id="716" source="andiron" target="angle" weight="0.005405" />
+      <edge id="717" source="ancestors" target="antecedent" weight="0.020408" />
+      <edge id="718" source="angle" target="antecedent" weight="0.008584" />
+      <edge id="719" source="angle" target="anoint" weight="0.005025" />
+      <edge id="720" source="angle" target="annex" weight="0.006993" />
+      <edge id="721" source="angle" target="annulet" weight="0.018182" />
+      <edge id="722" source="angle" target="antihero" weight="0.005208" />
+      <edge id="723" source="anthology" target="annulet" weight="0.012821" />
+      <edge id="724" source="animation" target="animosity" weight="0.009091" />
+      <edge id="725" source="annulet" target="answer" weight="0.006557" />
+      <edge id="726" source="annulet" target="anoint" weight="0.012346" />
+      <edge id="727" source="annulet" target="ankh" weight="0.016393" />
+      <edge id="728" source="annulet" target="antecedent" weight="0.008621" />
+      <edge id="729" source="annulet" target="annum" weight="0.013889" />
+      <edge id="730" source="answer" target="antecedent" weight="0.003155" />
+      <edge id="731" source="answer" target="annex" weight="0.002703" />
+      <edge id="732" source="answer" target="annotation" weight="0.007326" />
+      <edge id="733" source="answer" target="anoint" weight="0.003546" />
+      <edge id="734" source="answer" target="antonym" weight="0.014388" />
+      <edge id="735" source="answer" target="antiphon" weight="0.11284" />
+      <edge id="736" source="answer" target="annuity" weight="0.003597" />
+      <edge id="737" source="answer" target="antipodal" weight="0.007547" />
+      <edge id="738" source="antihero" target="anatomy" weight="0.00885" />
+      <edge id="739" source="ancestor" target="antecedent" weight="0.393939" />
+      <edge id="740" source="animosity" target="angst" weight="0.014493" />
+      <edge id="741" source="animosity" target="antidepressant" weight="0.020833" />
+      <edge id="742" source="annotation" target="analysis" weight="0.025862" />
+      <edge id="743" source="annunciation" target="antiphon" weight="0.014925" />
+      <edge id="744" source="annunciation" target="antonym" weight="0.015873" />
+      <edge id="745" source="antecedent" target="analysis" weight="0.006211" />
+      <edge id="746" source="annum" target="antonym" weight="0.021277" />
+      <edge id="747" source="antiphon" target="analysis" weight="0.007752" />
+      <edge id="748" source="antipodal" target="antonym" weight="0.171429" />
+    </edges>
+  </graph>
+</gexf>

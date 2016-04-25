@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="illuminate" label="illuminate" />
+      <node id="illogical" label="illogical" />
+      <node id="illegal" label="illegal" />
+      <node id="illusory" label="illusory" />
+      <node id="illustration" label="illustration" />
+      <node id="illegitimate" label="illegitimate" />
+      <node id="illicit" label="illicit" />
+      <node id="illuminating" label="illuminating" />
+      <node id="illuminant" label="illuminant" />
+      <node id="illumination" label="illumination" />
+      <node id="illusive" label="illusive" />
+      <node id="illustrative" label="illustrative" />
+      <node id="illustrate" label="illustrate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="illuminate" target="illustrate" />
+      <edge id="1" source="illogical" target="illusory" />
+      <edge id="2" source="illegal" target="illegitimate" />
+      <edge id="3" source="illegal" target="illicit" />
+      <edge id="4" source="illusory" target="illusive" />
+      <edge id="5" source="illustration" target="illumination" />
+      <edge id="6" source="illegitimate" target="illicit" />
+      <edge id="7" source="illuminating" target="illustrative" />
+      <edge id="8" source="illuminating" target="illuminant" />
+    </edges>
+  </graph>
+</gexf>

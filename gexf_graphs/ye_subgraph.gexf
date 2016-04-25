@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="yelling" label="yelling" />
+      <node id="yelp" label="yelp" />
+      <node id="yen" label="yen" />
+      <node id="yea" label="yea" />
+      <node id="yelping" label="yelping" />
+      <node id="yesterday" label="yesterday" />
+      <node id="yearning" label="yearning" />
+      <node id="yearn" label="yearn" />
+      <node id="yes" label="yes" />
+      <node id="yesteryear" label="yesteryear" />
+      <node id="yell" label="yell" />
+    </nodes>
+    <edges>
+      <edge id="0" source="yelling" target="yelping" />
+      <edge id="1" source="yelp" target="yell" />
+      <edge id="2" source="yen" target="yearning" />
+      <edge id="3" source="yen" target="yearn" />
+      <edge id="4" source="yea" target="yes" />
+      <edge id="5" source="yesterday" target="yesteryear" />
+    </edges>
+  </graph>
+</gexf>

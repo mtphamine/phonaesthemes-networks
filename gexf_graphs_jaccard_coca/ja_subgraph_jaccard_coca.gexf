@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="jaws" label="jaws" />
+      <node id="jade" label="jade" />
+      <node id="jailbreak" label="jailbreak" />
+      <node id="jactitation" label="jactitation">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="jammed" label="jammed" />
+      <node id="jarring" label="jarring">
+        <attvalues>
+          <attvalue for="0" value="2.8785217955" />
+        </attvalues>
+      </node>
+      <node id="jackrabbit" label="jackrabbit" />
+      <node id="jagged" label="jagged">
+        <attvalues>
+          <attvalue for="0" value="3.26997967665" />
+        </attvalues>
+      </node>
+      <node id="jackass" label="jackass">
+        <attvalues>
+          <attvalue for="0" value="2.60638136511" />
+        </attvalues>
+      </node>
+      <node id="jargon" label="jargon" />
+      <node id="jabber" label="jabber" />
+      <node id="jawbreaking" label="jawbreaking" />
+      <node id="jape" label="jape">
+        <attvalues>
+          <attvalue for="0" value="1.32221929473" />
+        </attvalues>
+      </node>
+      <node id="jaw" label="jaw">
+        <attvalues>
+          <attvalue for="0" value="3.72378393697" />
+        </attvalues>
+      </node>
+      <node id="jailer" label="jailer" />
+      <node id="jar" label="jar" />
+      <node id="jailing" label="jailing" />
+      <node id="jam" label="jam">
+        <attvalues>
+          <attvalue for="0" value="3.64591327503" />
+        </attvalues>
+      </node>
+      <node id="jaundiced" label="jaundiced" />
+      <node id="jalopy" label="jalopy" />
+      <node id="jag" label="jag" />
+      <node id="jabberer" label="jabberer">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="jab" label="jab">
+        <attvalues>
+          <attvalue for="0" value="2.84818911699" />
+        </attvalues>
+      </node>
+      <node id="jailed" label="jailed">
+        <attvalues>
+          <attvalue for="0" value="3.15167623085" />
+        </attvalues>
+      </node>
+      <node id="jackal" label="jackal">
+        <attvalues>
+          <attvalue for="0" value="2.35410843915" />
+        </attvalues>
+      </node>
+      <node id="jailbird" label="jailbird" />
+      <node id="jaded" label="jaded">
+        <attvalues>
+          <attvalue for="0" value="2.79448804666" />
+        </attvalues>
+      </node>
+      <node id="jacks" label="jacks" />
+      <node id="jazz" label="jazz" />
+      <node id="jazzy" label="jazzy" />
+      <node id="jaunty" label="jaunty">
+        <attvalues>
+          <attvalue for="0" value="2.68124123738" />
+        </attvalues>
+      </node>
+      <node id="jack" label="jack" />
+      <node id="jaywalk" label="jaywalk">
+        <attvalues>
+          <attvalue for="0" value="1.14612803568" />
+        </attvalues>
+      </node>
+      <node id="jaunt" label="jaunt">
+        <attvalues>
+          <attvalue for="0" value="2.56466606425" />
+        </attvalues>
+      </node>
+      <node id="jawing" label="jawing">
+        <attvalues>
+          <attvalue for="0" value="1.7923916895" />
+        </attvalues>
+      </node>
+      <node id="jangle" label="jangle">
+        <attvalues>
+          <attvalue for="0" value="2.1398790864" />
+        </attvalues>
+      </node>
+      <node id="jangling" label="jangling" />
+      <node id="jaundice" label="jaundice">
+        <attvalues>
+          <attvalue for="0" value="2.29666519026" />
+        </attvalues>
+      </node>
+      <node id="jaguar" label="jaguar">
+        <attvalues>
+          <attvalue for="0" value="3.0916669576" />
+        </attvalues>
+      </node>
+      <node id="jacket" label="jacket" />
+      <node id="jail" label="jail">
+        <attvalues>
+          <attvalue for="0" value="4.21349119383" />
+        </attvalues>
+      </node>
+      <node id="jamb" label="jamb">
+        <attvalues>
+          <attvalue for="0" value="2.3856062736" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="jaws" target="jaw" weight="0.230769" />
+      <edge id="1" source="jaws" target="jaunt" weight="0.012195" />
+      <edge id="2" source="jade" target="jape" weight="0.006579" />
+      <edge id="3" source="jade" target="jaded" weight="0.018182" />
+      <edge id="4" source="jade" target="jam" weight="0.026549" />
+      <edge id="5" source="jade" target="jaundice" weight="0.006289" />
+      <edge id="6" source="jade" target="jab" weight="0.01" />
+      <edge id="7" source="jade" target="jaunt" weight="0.006944" />
+      <edge id="8" source="jailbreak" target="jangle" weight="0.007874" />
+      <edge id="9" source="jailbreak" target="jam" weight="0.002506" />
+      <edge id="10" source="jactitation" target="jabber" weight="0.020619" />
+      <edge id="11" source="jactitation" target="jaundice" weight="0.010101" />
+      <edge id="12" source="jactitation" target="jargon" weight="0.024691" />
+      <edge id="13" source="jammed" target="jaded" weight="0.08284" />
+      <edge id="14" source="jammed" target="jam" weight="0.008421" />
+      <edge id="15" source="jammed" target="jail" weight="0.006803" />
+      <edge id="16" source="jammed" target="jailed" weight="0.008696" />
+      <edge id="17" source="jarring" target="jagged" weight="0.023669" />
+      <edge id="18" source="jarring" target="jawbreaking" weight="0.009009" />
+      <edge id="19" source="jarring" target="jangling" weight="0.432099" />
+      <edge id="20" source="jackrabbit" target="jam" weight="0.002545" />
+      <edge id="21" source="jackrabbit" target="jab" weight="0.007634" />
+      <edge id="22" source="jagged" target="jangling" weight="0.015748" />
+      <edge id="23" source="jagged" target="jawbreaking" weight="0.01626" />
+      <edge id="24" source="jagged" target="jag" weight="0.006452" />
+      <edge id="25" source="jagged" target="jaundice" weight="0.006024" />
+      <edge id="26" source="jagged" target="jaunty" weight="0.006579" />
+      <edge id="27" source="jackass" target="jar" weight="0.006452" />
+      <edge id="28" source="jackass" target="jack" weight="0.025" />
+      <edge id="29" source="jargon" target="jaw" weight="0.107843" />
+      <edge id="30" source="jargon" target="jabberer" weight="0.015152" />
+      <edge id="31" source="jargon" target="jangle" weight="0.006173" />
+      <edge id="32" source="jabber" target="jangle" weight="0.017045" />
+      <edge id="33" source="jabber" target="jape" weight="0.007194" />
+      <edge id="34" source="jabber" target="jaw" weight="0.252427" />
+      <edge id="35" source="jabber" target="jam" weight="0.004454" />
+      <edge id="36" source="jabber" target="jabberer" weight="0.0375" />
+      <edge id="37" source="jabber" target="jab" weight="0.010695" />
+      <edge id="38" source="jape" target="jacks" weight="0.011236" />
+      <edge id="39" source="jape" target="jaw" weight="0.025" />
+      <edge id="40" source="jape" target="jazz" weight="0.025316" />
+      <edge id="41" source="jape" target="jacket" weight="0.008197" />
+      <edge id="42" source="jape" target="jam" weight="0.004515" />
+      <edge id="43" source="jape" target="jag" weight="0.007752" />
+      <edge id="44" source="jape" target="jab" weight="0.150943" />
+      <edge id="45" source="jaw" target="jawing" weight="0.014286" />
+      <edge id="46" source="jaw" target="jangle" weight="0.0125" />
+      <edge id="47" source="jaw" target="jabberer" weight="0.047619" />
+      <edge id="48" source="jaw" target="jazz" weight="0.014493" />
+      <edge id="49" source="jaw" target="jar" weight="0.015707" />
+      <edge id="50" source="jaw" target="jam" weight="0.002309" />
+      <edge id="51" source="jaw" target="jab" weight="0.011765" />
+      <edge id="52" source="jaw" target="jaunt" weight="0.008772" />
+      <edge id="53" source="jailer" target="jail" weight="0.015625" />
+      <edge id="54" source="jailer" target="jam" weight="0.005076" />
+      <edge id="55" source="jailer" target="jab" weight="0.007519" />
+      <edge id="56" source="jar" target="jangle" weight="0.284211" />
+      <edge id="57" source="jar" target="jabberer" weight="0.006803" />
+      <edge id="58" source="jar" target="jam" weight="0.025845" />
+      <edge id="59" source="jar" target="jail" weight="0.005435" />
+      <edge id="60" source="jar" target="jaundice" weight="0.004739" />
+      <edge id="61" source="jar" target="jab" weight="0.03252" />
+      <edge id="62" source="jar" target="jaunt" weight="0.005102" />
+      <edge id="63" source="jailing" target="jam" weight="0.002577" />
+      <edge id="64" source="jam" target="jaunt" weight="0.002294" />
+      <edge id="65" source="jam" target="jalopy" weight="0.002558" />
+      <edge id="66" source="jam" target="jag" weight="0.004556" />
+      <edge id="67" source="jam" target="jabberer" weight="0.002584" />
+      <edge id="68" source="jam" target="jab" weight="0.090508" />
+      <edge id="69" source="jam" target="jailbird" weight="0.002475" />
+      <edge id="70" source="jam" target="jaded" weight="0.002179" />
+      <edge id="71" source="jam" target="jack" weight="0.004158" />
+      <edge id="72" source="jam" target="jaywalk" weight="0.002584" />
+      <edge id="73" source="jam" target="jawing" weight="0.002551" />
+      <edge id="74" source="jam" target="jangle" weight="0.010438" />
+      <edge id="75" source="jam" target="jaundice" weight="0.002217" />
+      <edge id="76" source="jam" target="jacket" weight="0.00463" />
+      <edge id="77" source="jam" target="jail" weight="0.002358" />
+      <edge id="78" source="jaundiced" target="jaundice" weight="0.009174" />
+      <edge id="79" source="jag" target="jab" weight="0.028736" />
+      <edge id="80" source="jag" target="jaunt" weight="0.008264" />
+      <edge id="81" source="jabberer" target="jangle" weight="0.008696" />
+      <edge id="82" source="jabberer" target="jack" weight="0.008772" />
+      <edge id="83" source="jabberer" target="jab" weight="0.008" />
+      <edge id="84" source="jab" target="jawing" weight="0.007692" />
+      <edge id="85" source="jab" target="jangle" weight="0.013699" />
+      <edge id="86" source="jab" target="jacks" weight="0.007246" />
+      <edge id="87" source="jab" target="jazz" weight="0.007752" />
+      <edge id="88" source="jab" target="jacket" weight="0.017751" />
+      <edge id="89" source="jab" target="jazzy" weight="0.007042" />
+      <edge id="90" source="jab" target="jack" weight="0.004545" />
+      <edge id="91" source="jab" target="jaunt" weight="0.005747" />
+      <edge id="92" source="jailed" target="jail" weight="0.033333" />
+      <edge id="93" source="jackal" target="jailbird" weight="0.014706" />
+      <edge id="94" source="jackal" target="jacks" weight="0.015625" />
+      <edge id="95" source="jackal" target="jack" weight="0.006849" />
+      <edge id="96" source="jacks" target="jaguar" weight="0.02381" />
+      <edge id="97" source="jacks" target="jangle" weight="0.007813" />
+      <edge id="98" source="jazz" target="jaunty" weight="0.013699" />
+      <edge id="99" source="jazzy" target="jaunty" weight="0.279412" />
+      <edge id="100" source="jack" target="jangle" weight="0.004762" />
+      <edge id="101" source="jack" target="jamb" weight="0.048" />
+      <edge id="102" source="jack" target="jaunt" weight="0.006135" />
+      <edge id="103" source="jaywalk" target="jaunt" weight="0.029851" />
+      <edge id="104" source="jaywalk" target="jamb" weight="0.028571" />
+      <edge id="105" source="jacket" target="jail" weight="0.009804" />
+    </edges>
+  </graph>
+</gexf>

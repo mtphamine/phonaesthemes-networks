@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="awful" label="awful" />
+      <node id="awesome" label="awesome" />
+      <node id="awaken" label="awaken" />
+      <node id="awake" label="awake" />
+      <node id="awfully" label="awfully" />
+    </nodes>
+    <edges>
+      <edge id="0" source="awful" target="awesome" />
+      <edge id="1" source="awful" target="awfully" />
+      <edge id="2" source="awaken" target="awake" />
+    </edges>
+  </graph>
+</gexf>

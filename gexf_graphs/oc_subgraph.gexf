@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="occurrence" label="occurrence" />
+      <node id="octet" label="octet" />
+      <node id="occupancy" label="occupancy" />
+      <node id="octave" label="octave" />
+      <node id="occasion" label="occasion" />
+      <node id="occupation" label="occupation" />
+    </nodes>
+    <edges>
+      <edge id="0" source="occurrence" target="occasion" />
+      <edge id="1" source="octet" target="octave" />
+      <edge id="2" source="occupancy" target="occupation" />
+    </edges>
+  </graph>
+</gexf>

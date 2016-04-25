@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="workingman" label="workingman">
+        <attvalues>
+          <attvalue for="0" value="1.98677173427" />
+        </attvalues>
+      </node>
+      <node id="wormy" label="wormy">
+        <attvalues>
+          <attvalue for="0" value="1.93951925262" />
+        </attvalues>
+      </node>
+      <node id="woodland" label="woodland" />
+      <node id="woolly" label="woolly" />
+      <node id="woods" label="woods" />
+      <node id="woody" label="woody">
+        <attvalues>
+          <attvalue for="0" value="3.51772359483" />
+        </attvalues>
+      </node>
+      <node id="worship" label="worship">
+        <attvalues>
+          <attvalue for="0" value="3.74756716274" />
+        </attvalues>
+      </node>
+      <node id="worrisome" label="worrisome" />
+      <node id="wolfish" label="wolfish">
+        <attvalues>
+          <attvalue for="0" value="1.83250891271" />
+        </attvalues>
+      </node>
+      <node id="womanhood" label="womanhood" />
+      <node id="woof" label="woof" />
+      <node id="workaday" label="workaday">
+        <attvalues>
+          <attvalue for="0" value="2.34635297445" />
+        </attvalues>
+      </node>
+      <node id="wood" label="wood">
+        <attvalues>
+          <attvalue for="0" value="4.45417385218" />
+        </attvalues>
+      </node>
+      <node id="workable" label="workable">
+        <attvalues>
+          <attvalue for="0" value="3.007747778" />
+        </attvalues>
+      </node>
+      <node id="wool" label="wool" />
+      <node id="worshiping" label="worshiping">
+        <attvalues>
+          <attvalue for="0" value="2.36921585741" />
+        </attvalues>
+      </node>
+      <node id="worth" label="worth">
+        <attvalues>
+          <attvalue for="0" value="4.64115670177" />
+        </attvalues>
+      </node>
+      <node id="woman" label="woman">
+        <attvalues>
+          <attvalue for="0" value="5.18861072822" />
+        </attvalues>
+      </node>
+      <node id="womanly" label="womanly" />
+      <node id="worse" label="worse" />
+      <node id="workout" label="workout" />
+      <node id="worst" label="worst">
+        <attvalues>
+          <attvalue for="0" value="4.42255701212" />
+        </attvalues>
+      </node>
+      <node id="workmanlike" label="workmanlike" />
+      <node id="world" label="world" />
+      <node id="wont" label="wont" />
+      <node id="wooded" label="wooded" />
+      <node id="wooden" label="wooden">
+        <attvalues>
+          <attvalue for="0" value="4.1692334513" />
+        </attvalues>
+      </node>
+      <node id="workshop" label="workshop" />
+      <node id="workman" label="workman" />
+      <node id="wordless" label="wordless" />
+      <node id="worried" label="worried" />
+      <node id="works" label="works" />
+      <node id="worrying" label="worrying">
+        <attvalues>
+          <attvalue for="0" value="3.63888842471" />
+        </attvalues>
+      </node>
+      <node id="workbench" label="workbench" />
+      <node id="woodcraft" label="woodcraft" />
+      <node id="wonder" label="wonder">
+        <attvalues>
+          <attvalue for="0" value="4.48995847942" />
+        </attvalues>
+      </node>
+      <node id="worsen" label="worsen" />
+      <node id="wow" label="wow" />
+      <node id="wolverine" label="wolverine">
+        <attvalues>
+          <attvalue for="0" value="2.54032947479" />
+        </attvalues>
+      </node>
+      <node id="woo" label="woo" />
+      <node id="wondrous" label="wondrous">
+        <attvalues>
+          <attvalue for="0" value="3.00086772153" />
+        </attvalues>
+      </node>
+      <node id="woe" label="woe">
+        <attvalues>
+          <attvalue for="0" value="2.79657433321" />
+        </attvalues>
+      </node>
+      <node id="worshiper" label="worshiper" />
+      <node id="worthy" label="worthy">
+        <attvalues>
+          <attvalue for="0" value="3.80263691808" />
+        </attvalues>
+      </node>
+      <node id="workmanship" label="workmanship">
+        <attvalues>
+          <attvalue for="0" value="2.60097289569" />
+        </attvalues>
+      </node>
+      <node id="workroom" label="workroom">
+        <attvalues>
+          <attvalue for="0" value="2.48713837548" />
+        </attvalues>
+      </node>
+      <node id="wolf" label="wolf">
+        <attvalues>
+          <attvalue for="0" value="4.10178143133" />
+        </attvalues>
+      </node>
+      <node id="workbook" label="workbook" />
+      <node id="woodcut" label="woodcut">
+        <attvalues>
+          <attvalue for="0" value="2.26951294422" />
+        </attvalues>
+      </node>
+      <node id="worldly" label="worldly">
+        <attvalues>
+          <attvalue for="0" value="3.13924921757" />
+        </attvalues>
+      </node>
+      <node id="worthless" label="worthless">
+        <attvalues>
+          <attvalue for="0" value="3.27300127206" />
+        </attvalues>
+      </node>
+      <node id="working" label="working">
+        <attvalues>
+          <attvalue for="0" value="5.0540152011" />
+        </attvalues>
+      </node>
+      <node id="wobble" label="wobble" />
+      <node id="wordplay" label="wordplay" />
+      <node id="wonderful" label="wonderful" />
+      <node id="wobbly" label="wobbly">
+        <attvalues>
+          <attvalue for="0" value="2.90200289135" />
+        </attvalues>
+      </node>
+      <node id="wondering" label="wondering">
+        <attvalues>
+          <attvalue for="0" value="4.14767632424" />
+        </attvalues>
+      </node>
+      <node id="woodwind" label="woodwind" />
+      <node id="worsened" label="worsened" />
+      <node id="worker" label="worker" />
+      <node id="wordage" label="wordage" />
+      <node id="word" label="word">
+        <attvalues>
+          <attvalue for="0" value="4.87223787747" />
+        </attvalues>
+      </node>
+      <node id="work" label="work" />
+      <node id="worm" label="worm">
+        <attvalues>
+          <attvalue for="0" value="3.40001963507" />
+        </attvalues>
+      </node>
+      <node id="worn" label="worn" />
+      <node id="woodblock" label="woodblock" />
+      <node id="wort" label="wort">
+        <attvalues>
+          <attvalue for="0" value="2.42324587394" />
+        </attvalues>
+      </node>
+      <node id="wonted" label="wonted">
+        <attvalues>
+          <attvalue for="0" value="1.04139268516" />
+        </attvalues>
+      </node>
+      <node id="worshipful" label="worshipful">
+        <attvalues>
+          <attvalue for="0" value="2.07554696139" />
+        </attvalues>
+      </node>
+      <node id="worthwhile" label="worthwhile">
+        <attvalues>
+          <attvalue for="0" value="3.45697301364" />
+        </attvalues>
+      </node>
+      <node id="woolgathering" label="woolgathering">
+        <attvalues>
+          <attvalue for="0" value="1.32221929473" />
+        </attvalues>
+      </node>
+      <node id="woebegone" label="woebegone">
+        <attvalues>
+          <attvalue for="0" value="1.97772360529" />
+        </attvalues>
+      </node>
+      <node id="womanize" label="womanize" />
+      <node id="workhorse" label="workhorse">
+        <attvalues>
+          <attvalue for="0" value="2.60097289569" />
+        </attvalues>
+      </node>
+      <node id="worry" label="worry">
+        <attvalues>
+          <attvalue for="0" value="4.47288803377" />
+        </attvalues>
+      </node>
+      <node id="wooing" label="wooing" />
+      <node id="workhouse" label="workhouse" />
+      <node id="wound" label="wound" />
+      <node id="woeful" label="woeful" />
+      <node id="worsening" label="worsening">
+        <attvalues>
+          <attvalue for="0" value="2.94596070358" />
+        </attvalues>
+      </node>
+      <node id="woodsy" label="woodsy" />
+      <node id="workings" label="workings">
+        <attvalues>
+          <attvalue for="0" value="3.18977095635" />
+        </attvalues>
+      </node>
+      <node id="worsted" label="worsted">
+        <attvalues>
+          <attvalue for="0" value="1.79934054945" />
+        </attvalues>
+      </node>
+      <node id="womanish" label="womanish">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="womanizer" label="womanizer" />
+      <node id="wounded" label="wounded" />
+      <node id="wording" label="wording">
+        <attvalues>
+          <attvalue for="0" value="3.02978947083" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="workingman" target="workhorse" weight="0.023256" />
+      <edge id="1" source="workingman" target="working" weight="0.008197" />
+      <edge id="2" source="workingman" target="wooden" weight="0.011765" />
+      <edge id="3" source="workingman" target="workman" weight="0.904762" />
+      <edge id="4" source="workingman" target="work" weight="0.001767" />
+      <edge id="5" source="workingman" target="worker" weight="0.422222" />
+      <edge id="6" source="workingman" target="works" weight="0.010526" />
+      <edge id="7" source="wormy" target="worthless" weight="0.082759" />
+      <edge id="8" source="wormy" target="worn" weight="0.040816" />
+      <edge id="9" source="wormy" target="worried" weight="0.025316" />
+      <edge id="10" source="wormy" target="worst" weight="0.081481" />
+      <edge id="11" source="wormy" target="woeful" weight="0.074324" />
+      <edge id="12" source="wormy" target="worry" weight="0.006897" />
+      <edge id="13" source="woodland" target="woody" weight="0.135593" />
+      <edge id="14" source="woodland" target="worthless" weight="0.006211" />
+      <edge id="15" source="woodland" target="wood" weight="0.186813" />
+      <edge id="16" source="woodland" target="wort" weight="0.011628" />
+      <edge id="17" source="woodland" target="worm" weight="0.006993" />
+      <edge id="18" source="woolly" target="woody" weight="0.038462" />
+      <edge id="19" source="woods" target="woody" weight="0.040816" />
+      <edge id="20" source="woods" target="wood" weight="0.243243" />
+      <edge id="21" source="woody" target="wood" weight="0.035088" />
+      <edge id="22" source="woody" target="wooded" weight="0.8" />
+      <edge id="23" source="woody" target="worthless" weight="0.008929" />
+      <edge id="24" source="woody" target="woodsy" weight="0.8" />
+      <edge id="25" source="worship" target="wont" weight="0.016129" />
+      <edge id="26" source="worship" target="word" weight="0.003788" />
+      <edge id="27" source="worship" target="work" weight="0.001629" />
+      <edge id="28" source="worship" target="wound" weight="0.004167" />
+      <edge id="29" source="worship" target="wondering" weight="0.009901" />
+      <edge id="30" source="worship" target="workmanlike" weight="0.008" />
+      <edge id="31" source="worship" target="works" weight="0.006993" />
+      <edge id="32" source="worship" target="worshiping" weight="0.073171" />
+      <edge id="33" source="worship" target="worth" weight="0.071942" />
+      <edge id="34" source="worship" target="wonder" weight="0.019802" />
+      <edge id="35" source="worrisome" target="woebegone" weight="0.011628" />
+      <edge id="36" source="worrisome" target="worrying" weight="0.848485" />
+      <edge id="37" source="worrisome" target="worry" weight="0.016667" />
+      <edge id="38" source="wolfish" target="worthless" weight="0.019108" />
+      <edge id="39" source="wolfish" target="wooden" weight="0.008264" />
+      <edge id="40" source="wolfish" target="wound" weight="0.008811" />
+      <edge id="41" source="wolfish" target="worm" weight="0.007092" />
+      <edge id="42" source="wolfish" target="wolf" weight="0.014925" />
+      <edge id="43" source="wolfish" target="worst" weight="0.020548" />
+      <edge id="44" source="wolfish" target="woeful" weight="0.018868" />
+      <edge id="45" source="womanhood" target="woman" weight="0.033333" />
+      <edge id="46" source="woof" target="workings" weight="0.011111" />
+      <edge id="47" source="woof" target="wolf" weight="0.008621" />
+      <edge id="48" source="woof" target="worldly" weight="0.01087" />
+      <edge id="49" source="woof" target="woodcut" weight="0.027027" />
+      <edge id="50" source="workaday" target="worthless" weight="0.007634" />
+      <edge id="51" source="workaday" target="worthwhile" weight="0.029412" />
+      <edge id="52" source="workaday" target="working" weight="0.07377" />
+      <edge id="53" source="workaday" target="workable" weight="0.021739" />
+      <edge id="54" source="workaday" target="work" weight="0.001742" />
+      <edge id="55" source="workaday" target="worn" weight="0.015873" />
+      <edge id="56" source="workaday" target="worldly" weight="0.05" />
+      <edge id="57" source="workaday" target="worthy" weight="0.005882" />
+      <edge id="58" source="workaday" target="workings" weight="0.012346" />
+      <edge id="59" source="workaday" target="wonted" weight="0.088235" />
+      <edge id="60" source="wood" target="wooded" weight="0.035088" />
+      <edge id="61" source="wood" target="woo" weight="0.013333" />
+      <edge id="62" source="wood" target="wobble" weight="0.011111" />
+      <edge id="63" source="wood" target="work" weight="0.001678" />
+      <edge id="64" source="wood" target="workbench" weight="0.012821" />
+      <edge id="65" source="wood" target="woodcraft" weight="0.055556" />
+      <edge id="66" source="wood" target="woodwind" weight="0.013333" />
+      <edge id="67" source="wood" target="workbook" weight="0.012346" />
+      <edge id="68" source="wood" target="wound" weight="0.004505" />
+      <edge id="69" source="wood" target="woodsy" weight="0.035088" />
+      <edge id="70" source="workable" target="worldly" weight="0.027397" />
+      <edge id="71" source="workable" target="worthwhile" weight="0.016667" />
+      <edge id="72" source="workable" target="working" weight="0.008264" />
+      <edge id="73" source="workable" target="worthy" weight="0.006211" />
+      <edge id="74" source="wool" target="worsted" weight="0.012821" />
+      <edge id="75" source="wool" target="woodcut" weight="0.022222" />
+      <edge id="76" source="wool" target="woebegone" weight="0.009091" />
+      <edge id="77" source="wool" target="worst" weight="0.006897" />
+      <edge id="78" source="wool" target="worldly" weight="0.009259" />
+      <edge id="79" source="wool" target="wolf" weight="0.007576" />
+      <edge id="80" source="wool" target="worry" weight="0.006897" />
+      <edge id="81" source="worshiping" target="worshipful" weight="0.157143" />
+      <edge id="82" source="worshiping" target="wooden" weight="0.011765" />
+      <edge id="83" source="worshiping" target="wondering" weight="0.018868" />
+      <edge id="84" source="worshiping" target="worthy" weight="0.012422" />
+      <edge id="85" source="worshiping" target="woe" weight="0.010753" />
+      <edge id="86" source="worshiping" target="worshiper" weight="0.027027" />
+      <edge id="87" source="worth" target="wont" weight="0.007246" />
+      <edge id="88" source="worth" target="wooing" weight="0.009524" />
+      <edge id="89" source="worth" target="workbench" weight="0.009174" />
+      <edge id="90" source="worth" target="workmanship" weight="0.006452" />
+      <edge id="91" source="worth" target="workhouse" weight="0.009346" />
+      <edge id="92" source="worth" target="wow" weight="0.006849" />
+      <edge id="93" source="worth" target="work" weight="0.012903" />
+      <edge id="94" source="worth" target="wound" weight="0.003953" />
+      <edge id="95" source="worth" target="workroom" weight="0.009434" />
+      <edge id="96" source="worth" target="workshop" weight="0.009709" />
+      <edge id="97" source="worth" target="woe" weight="0.006494" />
+      <edge id="98" source="worth" target="word" weight="0.007246" />
+      <edge id="99" source="worth" target="worry" weight="0.00578" />
+      <edge id="100" source="worth" target="wonder" weight="0.008696" />
+      <edge id="101" source="woman" target="worthy" weight="0.006061" />
+      <edge id="102" source="womanly" target="womanish" weight="0.222222" />
+      <edge id="103" source="worse" target="worsening" weight="0.007246" />
+      <edge id="104" source="worse" target="wolf" weight="0.007246" />
+      <edge id="105" source="worse" target="wobbly" weight="0.007463" />
+      <edge id="106" source="worse" target="woodcut" weight="0.010309" />
+      <edge id="107" source="worse" target="worthy" weight="0.004975" />
+      <edge id="108" source="workout" target="workings" weight="0.029851" />
+      <edge id="109" source="workout" target="worry" weight="0.009346" />
+      <edge id="110" source="workout" target="working" weight="0.017241" />
+      <edge id="111" source="worst" target="wont" weight="0.006667" />
+      <edge id="112" source="worst" target="worsted" weight="0.017094" />
+      <edge id="113" source="worst" target="worthless" weight="0.470149" />
+      <edge id="114" source="worst" target="work" weight="0.00471" />
+      <edge id="115" source="worst" target="worshipful" weight="0.013158" />
+      <edge id="116" source="worst" target="woebegone" weight="0.055944" />
+      <edge id="117" source="worst" target="wow" weight="0.006329" />
+      <edge id="118" source="worst" target="wound" weight="0.007576" />
+      <edge id="119" source="worst" target="wonderful" weight="0.006211" />
+      <edge id="120" source="worst" target="woeful" weight="0.463235" />
+      <edge id="121" source="workmanlike" target="worshipful" weight="0.008475" />
+      <edge id="122" source="workmanlike" target="workmanship" weight="0.015267" />
+      <edge id="123" source="workmanlike" target="worthwhile" weight="0.030928" />
+      <edge id="124" source="workmanlike" target="worthy" weight="0.046875" />
+      <edge id="125" source="workmanlike" target="word" weight="0.003937" />
+      <edge id="126" source="workmanlike" target="wonder" weight="0.01087" />
+      <edge id="127" source="world" target="woe" weight="0.008" />
+      <edge id="128" source="world" target="worshipful" weight="0.008929" />
+      <edge id="129" source="world" target="workmanship" weight="0.007937" />
+      <edge id="130" source="world" target="word" weight="0.004032" />
+      <edge id="131" source="wont" target="working" weight="0.012579" />
+      <edge id="132" source="wont" target="worldly" weight="0.017857" />
+      <edge id="133" source="wont" target="workings" weight="0.018182" />
+      <edge id="134" source="wont" target="wonted" weight="0.11828" />
+      <edge id="135" source="wont" target="worsening" weight="0.007299" />
+      <edge id="136" source="wont" target="wording" weight="0.012987" />
+      <edge id="137" source="wooded" target="worthless" weight="0.008929" />
+      <edge id="138" source="wooden" target="worshipful" weight="0.007937" />
+      <edge id="139" source="wooden" target="working" weight="0.005952" />
+      <edge id="140" source="wooden" target="woodcut" weight="0.009615" />
+      <edge id="141" source="wooden" target="woebegone" weight="0.024793" />
+      <edge id="142" source="wooden" target="workman" weight="0.011765" />
+      <edge id="143" source="wooden" target="worker" weight="0.009174" />
+      <edge id="144" source="wooden" target="worn" weight="0.018405" />
+      <edge id="145" source="wooden" target="wobbly" weight="0.007092" />
+      <edge id="146" source="wooden" target="worthy" weight="0.004808" />
+      <edge id="147" source="wooden" target="woeful" weight="0.011765" />
+      <edge id="148" source="wooden" target="worsening" weight="0.006897" />
+      <edge id="149" source="workshop" target="workmanship" weight="0.010309" />
+      <edge id="150" source="workshop" target="working" weight="0.008" />
+      <edge id="151" source="workshop" target="workroom" weight="0.814815" />
+      <edge id="152" source="workshop" target="workings" weight="0.013158" />
+      <edge id="153" source="workshop" target="worry" weight="0.008696" />
+      <edge id="154" source="workshop" target="wonder" weight="0.017544" />
+      <edge id="155" source="workman" target="workhorse" weight="0.023256" />
+      <edge id="156" source="workman" target="working" weight="0.008197" />
+      <edge id="157" source="wordless" target="worshipful" weight="0.020833" />
+      <edge id="158" source="wordless" target="wondering" weight="0.044118" />
+      <edge id="159" source="worried" target="worry" weight="0.008333" />
+      <edge id="160" source="worried" target="wondering" weight="0.016393" />
+      <edge id="161" source="works" target="workmanship" weight="0.006667" />
+      <edge id="162" source="works" target="working" weight="0.052941" />
+      <edge id="163" source="works" target="worm" weight="0.006211" />
+      <edge id="164" source="works" target="workings" weight="0.130435" />
+      <edge id="165" source="works" target="worsening" weight="0.006452" />
+      <edge id="166" source="worrying" target="woebegone" weight="0.011236" />
+      <edge id="167" source="worrying" target="wound" weight="0.004902" />
+      <edge id="168" source="worrying" target="woe" weight="0.009524" />
+      <edge id="169" source="worrying" target="woeful" weight="0.007299" />
+      <edge id="170" source="worrying" target="worry" weight="0.02459" />
+      <edge id="171" source="workbench" target="word" weight="0.004444" />
+      <edge id="172" source="workbench" target="working" weight="0.007634" />
+      <edge id="173" source="workbench" target="workroom" weight="0.666667" />
+      <edge id="174" source="workbench" target="workings" weight="0.012195" />
+      <edge id="175" source="workbench" target="workmanship" weight="0.009709" />
+      <edge id="176" source="workbench" target="worry" weight="0.008264" />
+      <edge id="177" source="workbench" target="wonder" weight="0.015873" />
+      <edge id="178" source="woodcraft" target="workmanship" weight="0.025" />
+      <edge id="179" source="wonder" target="wooing" weight="0.016949" />
+      <edge id="180" source="wonder" target="work" weight="0.00692" />
+      <edge id="181" source="wonder" target="word" weight="0.008696" />
+      <edge id="182" source="wonder" target="woolgathering" weight="0.014493" />
+      <edge id="183" source="wonder" target="workhouse" weight="0.016393" />
+      <edge id="184" source="wonder" target="wobble" weight="0.006024" />
+      <edge id="185" source="wonder" target="wow" weight="0.01" />
+      <edge id="186" source="wonder" target="worthy" weight="0.017143" />
+      <edge id="187" source="wonder" target="workroom" weight="0.016667" />
+      <edge id="188" source="wonder" target="worry" weight="0.015873" />
+      <edge id="189" source="worsen" target="worthwhile" weight="0.00813" />
+      <edge id="190" source="worsen" target="worm" weight="0.012048" />
+      <edge id="191" source="worsen" target="worthy" weight="0.004464" />
+      <edge id="192" source="worsen" target="woe" weight="0.019608" />
+      <edge id="193" source="worsen" target="worsening" weight="0.051948" />
+      <edge id="194" source="worsen" target="worry" weight="0.017442" />
+      <edge id="195" source="wow" target="workings" weight="0.008403" />
+      <edge id="196" source="wow" target="working" weight="0.005952" />
+      <edge id="197" source="wolverine" target="work" weight="0.001783" />
+      <edge id="198" source="wolverine" target="worm" weight="0.020202" />
+      <edge id="199" source="woo" target="word" weight="0.004505" />
+      <edge id="200" source="woo" target="workmanship" weight="0.01" />
+      <edge id="201" source="woo" target="worry" weight="0.008475" />
+      <edge id="202" source="wondrous" target="wonderful" weight="0.381579" />
+      <edge id="203" source="wondrous" target="wondering" weight="0.029412" />
+      <edge id="204" source="woe" target="worsened" weight="0.008772" />
+      <edge id="205" source="woe" target="work" weight="0.001613" />
+      <edge id="206" source="woe" target="wound" weight="0.060086" />
+      <edge id="207" source="woe" target="worm" weight="0.012658" />
+      <edge id="208" source="woe" target="wordplay" weight="0.012346" />
+      <edge id="209" source="woe" target="woebegone" weight="0.015385" />
+      <edge id="210" source="woe" target="wounded" weight="0.010753" />
+      <edge id="211" source="woe" target="worsening" weight="0.006536" />
+      <edge id="212" source="woe" target="worry" weight="0.056962" />
+      <edge id="213" source="worshiper" target="worshipful" weight="0.012821" />
+      <edge id="214" source="worthy" target="worshipful" weight="0.085106" />
+      <edge id="215" source="worthy" target="word" weight="0.00295" />
+      <edge id="216" source="worthy" target="wonderful" weight="0.014354" />
+      <edge id="217" source="worthy" target="woodwind" weight="0.005952" />
+      <edge id="218" source="worthy" target="worthwhile" weight="0.039326" />
+      <edge id="219" source="worthy" target="work" weight="0.004367" />
+      <edge id="220" source="workmanship" target="word" weight="0.011152" />
+      <edge id="221" source="workmanship" target="working" weight="0.011364" />
+      <edge id="222" source="workmanship" target="workhouse" weight="0.009901" />
+      <edge id="223" source="workmanship" target="work" weight="0.00974" />
+      <edge id="224" source="workmanship" target="workroom" weight="0.01" />
+      <edge id="225" source="workmanship" target="wordage" weight="0.021053" />
+      <edge id="226" source="workmanship" target="worsening" weight="0.006494" />
+      <edge id="227" source="workmanship" target="wording" weight="0.032609" />
+      <edge id="228" source="workroom" target="working" weight="0.007813" />
+      <edge id="229" source="workroom" target="woolgathering" weight="0.016667" />
+      <edge id="230" source="workroom" target="workhouse" weight="0.709677" />
+      <edge id="231" source="workroom" target="work" weight="0.00703" />
+      <edge id="232" source="workroom" target="workings" weight="0.012658" />
+      <edge id="233" source="workroom" target="worry" weight="0.008475" />
+      <edge id="234" source="wolf" target="woodcut" weight="0.008475" />
+      <edge id="235" source="wolf" target="wound" weight="0.007968" />
+      <edge id="236" source="wolf" target="work" weight="0.001597" />
+      <edge id="237" source="wolf" target="womanize" weight="0.031915" />
+      <edge id="238" source="wolf" target="worm" weight="0.012195" />
+      <edge id="239" source="wolf" target="womanizer" weight="0.134146" />
+      <edge id="240" source="wolf" target="worry" weight="0.005814" />
+      <edge id="241" source="workbook" target="word" weight="0.004386" />
+      <edge id="242" source="workbook" target="worm" weight="0.008547" />
+      <edge id="243" source="workbook" target="wording" weight="0.019608" />
+      <edge id="244" source="woodcut" target="worsened" weight="0.012658" />
+      <edge id="245" source="woodcut" target="work" weight="0.005146" />
+      <edge id="246" source="woodcut" target="wound" weight="0.004739" />
+      <edge id="247" source="woodcut" target="woodblock" weight="0.3" />
+      <edge id="248" source="woodcut" target="wounded" weight="0.017241" />
+      <edge id="249" source="worldly" target="working" weight="0.019231" />
+      <edge id="250" source="worldly" target="wonted" weight="0.02" />
+      <edge id="251" source="worthless" target="worshipful" weight="0.01227" />
+      <edge id="252" source="worthless" target="woebegone" weight="0.058824" />
+      <edge id="253" source="worthless" target="worn" weight="0.004926" />
+      <edge id="254" source="worthless" target="wonderful" weight="0.005814" />
+      <edge id="255" source="worthless" target="wonted" weight="0.006711" />
+      <edge id="256" source="worthless" target="woeful" weight="0.448276" />
+      <edge id="257" source="worthless" target="woodsy" weight="0.008929" />
+      <edge id="258" source="working" target="womanize" weight="0.008403" />
+      <edge id="259" source="working" target="worry" weight="0.005128" />
+      <edge id="260" source="working" target="worthwhile" weight="0.013986" />
+      <edge id="261" source="working" target="workhouse" weight="0.007752" />
+      <edge id="262" source="working" target="wobble" weight="0.004274" />
+      <edge id="263" source="working" target="worker" weight="0.006849" />
+      <edge id="264" source="working" target="workings" weight="0.256" />
+      <edge id="265" source="working" target="word" weight="0.003344" />
+      <edge id="266" source="working" target="work" weight="0.067323" />
+      <edge id="267" source="wobble" target="worm" weight="0.063415" />
+      <edge id="268" source="wobble" target="workings" weight="0.005405" />
+      <edge id="269" source="wobble" target="worsening" weight="0.014354" />
+      <edge id="270" source="wobble" target="worry" weight="0.008969" />
+      <edge id="271" source="wonderful" target="worshipful" weight="0.007752" />
+      <edge id="272" source="wonderful" target="wobbly" weight="0.006944" />
+      <edge id="273" source="wobbly" target="worsened" weight="0.008621" />
+      <edge id="274" source="wobbly" target="worn" weight="0.011494" />
+      <edge id="275" source="wondering" target="worsted" weight="0.034483" />
+      <edge id="276" source="wondering" target="worshipful" weight="0.010638" />
+      <edge id="277" source="worker" target="workhorse" weight="0.014925" />
+      <edge id="278" source="wordage" target="word" weight="0.013889" />
+      <edge id="279" source="wordage" target="wording" weight="0.75" />
+      <edge id="280" source="word" target="work" weight="0.016393" />
+      <edge id="281" source="word" target="womanish" weight="0.004329" />
+      <edge id="282" source="word" target="wound" weight="0.00271" />
+      <edge id="283" source="word" target="wording" weight="0.018779" />
+      <edge id="284" source="work" target="woolgathering" weight="0.001721" />
+      <edge id="285" source="work" target="worry" weight="0.006289" />
+      <edge id="286" source="work" target="worthwhile" weight="0.003407" />
+      <edge id="287" source="work" target="wort" weight="0.001739" />
+      <edge id="288" source="work" target="worsening" weight="0.004808" />
+      <edge id="289" source="work" target="workhorse" weight="0.007055" />
+      <edge id="290" source="work" target="workings" weight="0.061837" />
+      <edge id="291" source="work" target="worm" weight="0.006359" />
+      <edge id="292" source="work" target="wonted" weight="0.001689" />
+      <edge id="293" source="work" target="wording" weight="0.001767" />
+      <edge id="294" source="worm" target="wound" weight="0.015686" />
+      <edge id="295" source="worm" target="wort" weight="0.026786" />
+      <edge id="296" source="worm" target="womanize" weight="0.009804" />
+      <edge id="297" source="worm" target="worsening" weight="0.006061" />
+      <edge id="298" source="worm" target="worry" weight="0.022857" />
+      <edge id="299" source="worn" target="worsted" weight="0.016129" />
+      <edge id="300" source="worn" target="woebegone" weight="0.012821" />
+      <edge id="301" source="worn" target="wonted" weight="0.035461" />
+      <edge id="302" source="worn" target="worsening" weight="0.028571" />
+      <edge id="303" source="wonted" target="worshipful" weight="0.059406" />
+      <edge id="304" source="worshipful" target="worsted" weight="0.011628" />
+      <edge id="305" source="worshipful" target="woeful" weight="0.012121" />
+      <edge id="306" source="worthwhile" target="worsening" weight="0.008264" />
+      <edge id="307" source="woebegone" target="worsted" weight="0.012048" />
+      <edge id="308" source="woebegone" target="wound" weight="0.004348" />
+      <edge id="309" source="woebegone" target="woeful" weight="0.28125" />
+      <edge id="310" source="woebegone" target="worsening" weight="0.022222" />
+      <edge id="311" source="womanize" target="workings" weight="0.014286" />
+      <edge id="312" source="workhorse" target="wound" weight="0.005102" />
+      <edge id="313" source="worry" target="wound" weight="0.055556" />
+      <edge id="314" source="worry" target="worsening" weight="0.011696" />
+      <edge id="315" source="worry" target="workings" weight="0.006849" />
+      <edge id="316" source="worry" target="worsted" weight="0.008475" />
+      <edge id="317" source="worry" target="workhouse" weight="0.008403" />
+      <edge id="318" source="workhouse" target="workings" weight="0.0125" />
+      <edge id="319" source="wound" target="worsening" weight="0.003968" />
+    </edges>
+  </graph>
+</gexf>

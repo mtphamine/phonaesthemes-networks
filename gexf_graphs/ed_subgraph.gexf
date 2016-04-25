@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="educate" label="educate" />
+      <node id="edifying" label="edifying" />
+      <node id="edify" label="edify" />
+      <node id="educational" label="educational" />
+      <node id="education" label="education" />
+      <node id="edification" label="edification" />
+    </nodes>
+    <edges>
+      <edge id="0" source="educate" target="edify" />
+      <edge id="1" source="edifying" target="educational" />
+      <edge id="2" source="education" target="edification" />
+    </edges>
+  </graph>
+</gexf>

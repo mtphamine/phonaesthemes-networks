@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="psychopathy" label="psychopathy">
+        <attvalues>
+          <attvalue for="0" value="1.60205999133" />
+        </attvalues>
+      </node>
+      <node id="psychodrama" label="psychodrama">
+        <attvalues>
+          <attvalue for="0" value="2.00432137378" />
+        </attvalues>
+      </node>
+      <node id="psychoneurotic" label="psychoneurotic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="psychopathic" label="psychopathic" />
+      <node id="psychoneurosis" label="psychoneurosis" />
+      <node id="pseudo" label="pseudo" />
+      <node id="psalter" label="psalter">
+        <attvalues>
+          <attvalue for="0" value="1.84509804001" />
+        </attvalues>
+      </node>
+      <node id="psychosis" label="psychosis">
+        <attvalues>
+          <attvalue for="0" value="2.69810054562" />
+        </attvalues>
+      </node>
+      <node id="psychological" label="psychological" />
+      <node id="psychotic" label="psychotic">
+        <attvalues>
+          <attvalue for="0" value="2.99255351783" />
+        </attvalues>
+      </node>
+      <node id="psalmbook" label="psalmbook" />
+      <node id="psych" label="psych" />
+      <node id="psychometrics" label="psychometrics">
+        <attvalues>
+          <attvalue for="0" value="1.55630250077" />
+        </attvalues>
+      </node>
+      <node id="psychical" label="psychical" />
+      <node id="psycho" label="psycho">
+        <attvalues>
+          <attvalue for="0" value="2.88309335858" />
+        </attvalues>
+      </node>
+      <node id="psychopath" label="psychopath">
+        <attvalues>
+          <attvalue for="0" value="2.44560420327" />
+        </attvalues>
+      </node>
+      <node id="psychics" label="psychics" />
+      <node id="psychic" label="psychic" />
+      <node id="psychotherapy" label="psychotherapy">
+        <attvalues>
+          <attvalue for="0" value="3.0476641946" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="psychopathy" target="psychoneurosis" weight="0.066667" />
+      <edge id="1" source="psychopathy" target="psychosis" weight="0.210526" />
+      <edge id="2" source="psychodrama" target="psychotherapy" weight="0.113208" />
+      <edge id="3" source="psychodrama" target="psalmbook" weight="0.029851" />
+      <edge id="4" source="psychodrama" target="psych" weight="0.011364" />
+      <edge id="5" source="psychodrama" target="psalter" weight="0.029851" />
+      <edge id="6" source="psychoneurotic" target="psychological" weight="0.052632" />
+      <edge id="7" source="psychoneurotic" target="psychotic" weight="0.36" />
+      <edge id="8" source="psychoneurotic" target="psycho" weight="0.068182" />
+      <edge id="9" source="psychoneurotic" target="psychopath" weight="0.533333" />
+      <edge id="10" source="psychoneurotic" target="psychopathic" weight="0.25" />
+      <edge id="11" source="psychopathic" target="psychotic" weight="0.333333" />
+      <edge id="12" source="psychopathic" target="psycho" weight="0.097561" />
+      <edge id="13" source="psychopathic" target="psychopath" weight="0.3125" />
+      <edge id="14" source="psychoneurosis" target="psychosis" weight="0.071429" />
+      <edge id="15" source="pseudo" target="psycho" weight="0.012658" />
+      <edge id="16" source="psalter" target="psalmbook" weight="0.904762" />
+      <edge id="17" source="psalter" target="psych" weight="0.016949" />
+      <edge id="18" source="psychological" target="psychotic" weight="0.103448" />
+      <edge id="19" source="psychological" target="psycho" weight="0.046512" />
+      <edge id="20" source="psychological" target="psychopath" weight="0.05" />
+      <edge id="21" source="psychotic" target="psychic" weight="0.042553" />
+      <edge id="22" source="psychotic" target="psychical" weight="0.074074" />
+      <edge id="23" source="psychotic" target="psycho" weight="0.156863" />
+      <edge id="24" source="psychotic" target="psychopath" weight="0.458333" />
+      <edge id="25" source="psychometrics" target="psychics" weight="0.0625" />
+      <edge id="26" source="psychical" target="psycho" weight="0.02439" />
+      <edge id="27" source="psycho" target="psychic" weight="0.016393" />
+      <edge id="28" source="psycho" target="psychopath" weight="0.090909" />
+    </edges>
+  </graph>
+</gexf>

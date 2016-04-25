@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="extortionate" label="extortionate" />
+      <node id="exterminate" label="exterminate" />
+      <node id="extramundane" label="extramundane" />
+      <node id="extremism" label="extremism" />
+      <node id="extricate" label="extricate" />
+      <node id="extremist" label="extremist" />
+      <node id="extravagance" label="extravagance" />
+      <node id="extirpate" label="extirpate" />
+      <node id="exterior" label="exterior" />
+      <node id="extinction" label="extinction" />
+      <node id="extract" label="extract" />
+      <node id="exterrestrial" label="exterrestrial" />
+      <node id="extraction" label="extraction" />
+      <node id="extrinsic" label="extrinsic" />
+      <node id="extraneous" label="extraneous" />
+      <node id="extraterrestrial" label="extraterrestrial" />
+      <node id="extravagant" label="extravagant" />
+      <node id="extensive" label="extensive" />
+      <node id="extravaganza" label="extravaganza" />
+      <node id="extended" label="extended" />
+      <node id="extrication" label="extrication" />
+      <node id="external" label="external" />
+      <node id="extent" label="extent" />
+      <node id="extreme" label="extreme" />
+      <node id="extort" label="extort" />
+      <node id="extension" label="extension" />
+      <node id="extramural" label="extramural" />
+      <node id="extremity" label="extremity" />
+      <node id="extermination" label="extermination" />
+      <node id="extrapolation" label="extrapolation" />
+      <node id="extinguish" label="extinguish" />
+    </nodes>
+    <edges>
+      <edge id="0" source="extortionate" target="extravagant" />
+      <edge id="1" source="exterminate" target="extinguish" />
+      <edge id="2" source="exterminate" target="extirpate" />
+      <edge id="3" source="extramundane" target="extraterrestrial" />
+      <edge id="4" source="extramundane" target="exterrestrial" />
+      <edge id="5" source="extramundane" target="extramural" />
+      <edge id="6" source="extremism" target="extremity" />
+      <edge id="7" source="extremism" target="extravagance" />
+      <edge id="8" source="extremism" target="extreme" />
+      <edge id="9" source="extricate" target="extract" />
+      <edge id="10" source="extremist" target="extravagant" />
+      <edge id="11" source="extremist" target="extreme" />
+      <edge id="12" source="extravagance" target="extremity" />
+      <edge id="13" source="extravagance" target="extravaganza" />
+      <edge id="14" source="extravagance" target="extreme" />
+      <edge id="15" source="extirpate" target="extinguish" />
+      <edge id="16" source="exterior" target="extrinsic" />
+      <edge id="17" source="exterior" target="external" />
+      <edge id="18" source="exterior" target="extraneous" />
+      <edge id="19" source="extinction" target="extermination" />
+      <edge id="20" source="extract" target="extort" />
+      <edge id="21" source="extract" target="extraction" />
+      <edge id="22" source="exterrestrial" target="extraterrestrial" />
+      <edge id="23" source="exterrestrial" target="extramural" />
+      <edge id="24" source="extraction" target="extrication" />
+      <edge id="25" source="extrinsic" target="extraterrestrial" />
+      <edge id="26" source="extrinsic" target="extraneous" />
+      <edge id="27" source="extrinsic" target="external" />
+      <edge id="28" source="extraneous" target="extraterrestrial" />
+      <edge id="29" source="extraneous" target="external" />
+      <edge id="30" source="extraterrestrial" target="extramural" />
+      <edge id="31" source="extravagant" target="extreme" />
+      <edge id="32" source="extensive" target="extended" />
+      <edge id="33" source="extent" target="extension" />
+      <edge id="34" source="extreme" target="extremity" />
+      <edge id="35" source="extension" target="extrapolation" />
+    </edges>
+  </graph>
+</gexf>

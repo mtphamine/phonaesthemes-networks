@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="feed" label="feed" />
+      <node id="fester" label="fester" />
+      <node id="festal" label="festal" />
+      <node id="fertile" label="fertile" />
+      <node id="features" label="features" />
+      <node id="fence" label="fence" />
+      <node id="federate" label="federate" />
+      <node id="fecundate" label="fecundate" />
+      <node id="feathers" label="feathers" />
+      <node id="feel" label="feel" />
+      <node id="felicitous" label="felicitous" />
+      <node id="fecal" label="fecal" />
+      <node id="fecund" label="fecund" />
+      <node id="female" label="female" />
+      <node id="felon" label="felon" />
+      <node id="festooned" label="festooned" />
+      <node id="feint" label="feint" />
+      <node id="fearsome" label="fearsome" />
+      <node id="fend" label="fend" />
+      <node id="fed" label="fed" />
+      <node id="fee" label="fee" />
+      <node id="fermentation" label="fermentation" />
+      <node id="federal" label="federal" />
+      <node id="febrile" label="febrile" />
+      <node id="federalize" label="federalize" />
+      <node id="fellowship" label="fellowship" />
+      <node id="fete" label="fete" />
+      <node id="ferment" label="ferment" />
+      <node id="feather" label="feather" />
+      <node id="festivity" label="festivity" />
+      <node id="fervidly" label="fervidly" />
+      <node id="fever" label="fever" />
+      <node id="ferocious" label="ferocious" />
+      <node id="federation" label="federation" />
+      <node id="festive" label="festive" />
+      <node id="fellow" label="fellow" />
+      <node id="fetid" label="fetid" />
+      <node id="feminine" label="feminine" />
+      <node id="fervid" label="fervid" />
+      <node id="fell" label="fell" />
+      <node id="fervently" label="fervently" />
+      <node id="federalistic" label="federalistic" />
+      <node id="feathered" label="feathered" />
+      <node id="fervent" label="fervent" />
+      <node id="festering" label="festering" />
+      <node id="federalist" label="federalist" />
+      <node id="feral" label="feral" />
+      <node id="feverish" label="feverish" />
+      <node id="fearful" label="fearful" />
+      <node id="feculence" label="feculence" />
+      <node id="feast" label="feast" />
+      <node id="fellowman" label="fellowman" />
+      <node id="feasible" label="feasible" />
+      <node id="feud" label="feud" />
+      <node id="festival" label="festival" />
+      <node id="feces" label="feces" />
+      <node id="feudalism" label="feudalism" />
+      <node id="fertilize" label="fertilize" />
+      <node id="federalism" label="federalism" />
+      <node id="feeling" label="feeling" />
+      <node id="fetch" label="fetch" />
+      <node id="feature" label="feature" />
+    </nodes>
+    <edges>
+      <edge id="0" source="feed" target="feast" />
+      <edge id="1" source="fester" target="festering" />
+      <edge id="2" source="fester" target="felon" />
+      <edge id="3" source="festal" target="festive" />
+      <edge id="4" source="fertile" target="fecund" />
+      <edge id="5" source="features" target="feature" />
+      <edge id="6" source="fence" target="feud" />
+      <edge id="7" source="fence" target="fend" />
+      <edge id="8" source="federate" target="federalize" />
+      <edge id="9" source="fecundate" target="fertilize" />
+      <edge id="10" source="feathers" target="feather" />
+      <edge id="11" source="feel" target="feeling" />
+      <edge id="12" source="felicitous" target="feasible" />
+      <edge id="13" source="fecal" target="fetid" />
+      <edge id="14" source="female" target="feminine" />
+      <edge id="15" source="felon" target="festering" />
+      <edge id="16" source="festooned" target="feathered" />
+      <edge id="17" source="feint" target="fetch" />
+      <edge id="18" source="fearsome" target="fearful" />
+      <edge id="19" source="fed" target="federal" />
+      <edge id="20" source="fee" target="feud" />
+      <edge id="21" source="fermentation" target="ferment" />
+      <edge id="22" source="fermentation" target="fever" />
+      <edge id="23" source="federal" target="federalistic" />
+      <edge id="24" source="federal" target="federalist" />
+      <edge id="25" source="febrile" target="fervid" />
+      <edge id="26" source="febrile" target="fervent" />
+      <edge id="27" source="febrile" target="feverish" />
+      <edge id="28" source="fellowship" target="federation" />
+      <edge id="29" source="fete" target="festival" />
+      <edge id="30" source="fete" target="festivity" />
+      <edge id="31" source="fete" target="feast" />
+      <edge id="32" source="ferment" target="fever" />
+      <edge id="33" source="festivity" target="festival" />
+      <edge id="34" source="festivity" target="feast" />
+      <edge id="35" source="fervidly" target="fervently" />
+      <edge id="36" source="ferocious" target="fell" />
+      <edge id="37" source="ferocious" target="feral" />
+      <edge id="38" source="fellow" target="fellowman" />
+      <edge id="39" source="fervid" target="fervent" />
+      <edge id="40" source="fervid" target="feverish" />
+      <edge id="41" source="fell" target="feral" />
+      <edge id="42" source="federalistic" target="federalist" />
+      <edge id="43" source="fervent" target="feverish" />
+      <edge id="44" source="feculence" target="feces" />
+      <edge id="45" source="feast" target="festival" />
+      <edge id="46" source="feudalism" target="federalism" />
+    </edges>
+  </graph>
+</gexf>

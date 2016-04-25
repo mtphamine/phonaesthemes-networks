@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="isomer" label="isomer" />
+      <node id="isobar" label="isobar" />
+      <node id="island" label="island" />
+      <node id="isolate" label="isolate" />
+      <node id="isolated" label="isolated" />
+      <node id="isotherm" label="isotherm" />
+      <node id="isolation" label="isolation" />
+      <node id="isolationism" label="isolationism" />
+      <node id="isle" label="isle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="isomer" target="isobar" />
+      <edge id="1" source="isobar" target="isotherm" />
+      <edge id="2" source="island" target="isolated" />
+      <edge id="3" source="island" target="isle" />
+      <edge id="4" source="isolate" target="isolated" />
+      <edge id="5" source="isolation" target="isolationism" />
+    </edges>
+  </graph>
+</gexf>

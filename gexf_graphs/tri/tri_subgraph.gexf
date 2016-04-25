@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="trim" label="trim" />
+      <node id="trio" label="trio" />
+      <node id="triplicate" label="triplicate" />
+      <node id="trig" label="trig" />
+      <node id="tripartite" label="tripartite" />
+      <node id="tribune" label="tribune" />
+      <node id="triple" label="triple" />
+      <node id="trivet" label="trivet" />
+      <node id="trivial" label="trivial" />
+      <node id="trifurcate" label="trifurcate" />
+      <node id="trifle" label="trifle" />
+      <node id="trilateral" label="trilateral" />
+      <node id="trickery" label="trickery" />
+      <node id="trill" label="trill" />
+      <node id="triviality" label="triviality" />
+      <node id="trilogy" label="trilogy" />
+      <node id="triptych" label="triptych" />
+      <node id="trinket" label="trinket" />
+      <node id="trip" label="trip" />
+      <node id="tribulation" label="tribulation" />
+      <node id="tribute" label="tribute" />
+      <node id="trinity" label="trinity" />
+      <node id="trimming" label="trimming" />
+      <node id="triplet" label="triplet" />
+      <node id="triangle" label="triangle" />
+      <node id="trident" label="trident" />
+      <node id="triangular" label="triangular" />
+      <node id="triplex" label="triplex" />
+      <node id="trimester" label="trimester" />
+      <node id="trifling" label="trifling" />
+      <node id="tricky" label="tricky" />
+      <node id="tribunal" label="tribunal" />
+      <node id="trick" label="trick" />
+      <node id="trial" label="trial" />
+      <node id="trite" label="trite" />
+      <node id="triad" label="triad" />
+      <node id="trickle" label="trickle" />
+      <node id="triumph" label="triumph" />
+    </nodes>
+    <edges>
+      <edge id="0" source="trim" target="trig" />
+      <edge id="1" source="trim" target="trimming" />
+      <edge id="2" source="trio" target="triplet" />
+      <edge id="3" source="trio" target="triangle" />
+      <edge id="4" source="trio" target="trilogy" />
+      <edge id="5" source="trio" target="triptych" />
+      <edge id="6" source="trio" target="trident" />
+      <edge id="7" source="trio" target="triple" />
+      <edge id="8" source="trio" target="trimester" />
+      <edge id="9" source="trio" target="triad" />
+      <edge id="10" source="trio" target="trivet" />
+      <edge id="11" source="trio" target="trinity" />
+      <edge id="12" source="triplicate" target="triple" />
+      <edge id="13" source="triplicate" target="triplex" />
+      <edge id="14" source="tripartite" target="trilateral" />
+      <edge id="15" source="tripartite" target="trident" />
+      <edge id="16" source="tripartite" target="trifurcate" />
+      <edge id="17" source="tripartite" target="triangular" />
+      <edge id="18" source="tribune" target="tribunal" />
+      <edge id="19" source="triple" target="triangular" />
+      <edge id="20" source="triple" target="triplex" />
+      <edge id="21" source="triple" target="trial" />
+      <edge id="22" source="triple" target="trinity" />
+      <edge id="23" source="trivet" target="triplet" />
+      <edge id="24" source="trivet" target="triangle" />
+      <edge id="25" source="trivet" target="trilogy" />
+      <edge id="26" source="trivet" target="triptych" />
+      <edge id="27" source="trivet" target="trident" />
+      <edge id="28" source="trivet" target="trimester" />
+      <edge id="29" source="trivet" target="triad" />
+      <edge id="30" source="trivet" target="trinity" />
+      <edge id="31" source="trivial" target="trite" />
+      <edge id="32" source="trivial" target="trifling" />
+      <edge id="33" source="trifurcate" target="trident" />
+      <edge id="34" source="trifurcate" target="trilateral" />
+      <edge id="35" source="trifurcate" target="triangular" />
+      <edge id="36" source="trifle" target="trinket" />
+      <edge id="37" source="trifle" target="triviality" />
+      <edge id="38" source="trilateral" target="trident" />
+      <edge id="39" source="trilateral" target="triangular" />
+      <edge id="40" source="trickery" target="trick" />
+      <edge id="41" source="trill" target="trickle" />
+      <edge id="42" source="triviality" target="trinket" />
+      <edge id="43" source="trilogy" target="triplet" />
+      <edge id="44" source="trilogy" target="triangle" />
+      <edge id="45" source="trilogy" target="trident" />
+      <edge id="46" source="trilogy" target="triptych" />
+      <edge id="47" source="trilogy" target="trimester" />
+      <edge id="48" source="trilogy" target="triad" />
+      <edge id="49" source="trilogy" target="trinity" />
+      <edge id="50" source="triptych" target="triplet" />
+      <edge id="51" source="triptych" target="triangle" />
+      <edge id="52" source="triptych" target="trident" />
+      <edge id="53" source="triptych" target="trimester" />
+      <edge id="54" source="triptych" target="triad" />
+      <edge id="55" source="triptych" target="trinity" />
+      <edge id="56" source="trip" target="trick" />
+      <edge id="57" source="tribulation" target="trial" />
+      <edge id="58" source="tribute" target="triumph" />
+      <edge id="59" source="trinity" target="triplet" />
+      <edge id="60" source="trinity" target="triangle" />
+      <edge id="61" source="trinity" target="trident" />
+      <edge id="62" source="trinity" target="trimester" />
+      <edge id="63" source="trinity" target="triad" />
+      <edge id="64" source="triplet" target="trident" />
+      <edge id="65" source="triplet" target="triangle" />
+      <edge id="66" source="triplet" target="trimester" />
+      <edge id="67" source="triplet" target="triad" />
+      <edge id="68" source="triangle" target="trident" />
+      <edge id="69" source="triangle" target="trimester" />
+      <edge id="70" source="triangle" target="triad" />
+      <edge id="71" source="trident" target="triangular" />
+      <edge id="72" source="trident" target="trimester" />
+      <edge id="73" source="trident" target="triad" />
+      <edge id="74" source="triangular" target="triplex" />
+      <edge id="75" source="triangular" target="trial" />
+      <edge id="76" source="triplex" target="trial" />
+      <edge id="77" source="trimester" target="triad" />
+      <edge id="78" source="trifling" target="trite" />
+      <edge id="79" source="tricky" target="trick" />
+    </edges>
+  </graph>
+</gexf>

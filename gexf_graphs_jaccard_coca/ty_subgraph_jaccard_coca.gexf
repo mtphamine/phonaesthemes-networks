@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cocaFreq [z]" type="double" />
+    </attributes>
+    <nodes>
+      <node id="tyranny" label="tyranny">
+        <attvalues>
+          <attvalue for="0" value="3.22115332195" />
+        </attvalues>
+      </node>
+      <node id="tycoon" label="tycoon">
+        <attvalues>
+          <attvalue for="0" value="2.75050839485" />
+        </attvalues>
+      </node>
+      <node id="typescript" label="typescript">
+        <attvalues>
+          <attvalue for="0" value="2.11394335231" />
+        </attvalues>
+      </node>
+      <node id="tyrannize" label="tyrannize" />
+      <node id="typeface" label="typeface">
+        <attvalues>
+          <attvalue for="0" value="2.1303337685" />
+        </attvalues>
+      </node>
+      <node id="typifying" label="typifying" />
+      <node id="typify" label="typify" />
+      <node id="tyrant" label="tyrant">
+        <attvalues>
+          <attvalue for="0" value="2.89265103388" />
+        </attvalues>
+      </node>
+      <node id="typical" label="typical">
+        <attvalues>
+          <attvalue for="0" value="4.32236403544" />
+        </attvalues>
+      </node>
+      <node id="type" label="type" />
+      <node id="tyrannical" label="tyrannical" />
+    </nodes>
+    <edges>
+      <edge id="0" source="tyranny" target="tyrannical" weight="0.015152" />
+      <edge id="1" source="tycoon" target="typify" weight="0.029412" />
+      <edge id="2" source="tycoon" target="type" weight="0.003058" />
+      <edge id="3" source="tycoon" target="tyrant" weight="0.053571" />
+      <edge id="4" source="typescript" target="typeface" weight="0.032787" />
+      <edge id="5" source="typescript" target="type" weight="0.022364" />
+      <edge id="6" source="tyrannize" target="tyrant" weight="0.020833" />
+      <edge id="7" source="typeface" target="type" weight="0.094406" />
+      <edge id="8" source="typifying" target="typical" weight="0.044118" />
+      <edge id="9" source="typical" target="type" weight="0.014881" />
+    </edges>
+  </graph>
+</gexf>
