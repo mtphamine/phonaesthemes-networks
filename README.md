@@ -1,16 +1,46 @@
-Phonaestheme networks
-Mike Pham
-************************
+#Phonaestheme networks
+By [Mike Pham](http://www.mikettpham.com/)
 
--Run main_code.py
-  -I have needed the code to output various files in the past, so there is a lot of commented out code that I need to clean up
-  -Code also includes handbuilt network metrics before I started using NetworkX
-  
--Folders with primary outputted files included
+## Contents
 
+- ``main.py``: Python script for running the different truncation models over the data files
 
-************************
-Background:
+- data:
+
+    * ``mobyThes.txt``: Moby Thesaurus
+    * ``thesGraphSymLinks.txt``: trimmed thesaurus only including 1-word entries (>2 letters long), and where all synonyms also appear as head words
+    * ``coca_freqs_alpha.csv``: due to restrictions on using the COCA corpus data, I am unable to include this data file -- if you have access to this corpus, you can generate this file as a list of all words in the corpus with their frequency
+
+- ``gexf_graphs/``: output graphs (unweighted edges) for all 2-letter prefixes in .gexf format for visualization with Gephi
+
+- ``gexf_graphs_jaccard_coca/``: output graphs (weighted edges based on Jaccard Index; word frequency included based on COCA corpus) for all 2-letter prefixes in .gexf format for visualization with Gephi
+
+- ``d3-graphs/``: cursory files for a web-friendly d3 visualization of the data (graphs stored as JSON files)
+
+- ``gephi_graphs/``: sample graphs created in Gephi 
+
+- ``readme.md``: this readme file
+
+## Usage
+
+Download this repository to your local drive by one of these two methods:
+
+* Download and unzip https://github.com/mtphamine/phonaesthemes-networks/archive/master.zip
+
+* Clone this repository:
+
+    ```
+    $ git clone https://github.com/mtphamine/phonaesthemes-networks.git
+    $ cd phonaesthemes-networks
+    ```
+
+After this repository is downloaded, run the networks models for the accompanying datasets:
+
+    $ python main.py
+
+The script includes several chunks of code that produce various outputs. I haven't had time to clean up the interface for selectable parameters with regard to input-output choices; most of the code is simply commented out for now, but the discerning user can uncomment various sections to produce different outputs.
+
+##Background:
 
 This code is part of my dissertation research that looks at phonaesthemes (e.g. gl-, sn-, sl-) — also called sound symbolism — and their relationship to prototypical morphemes (specifically prefixes in this case). There is a general sense that like conventional morphemes (e.g. re-, un-), phonaesthemes have some connection between phonological form and semantic meaning; however, they do not seem to be as consistent or morphologically productive as these conventional morphemes.
 
